@@ -12,12 +12,15 @@
     "data/database.db"
   ],
   "scripts": {
-    "build": "tsc",
+    "build": "tsc -p tsconfig.build.json",
     "dev": "node --import tsx src/index.ts",
     "dev:http": "node --import tsx src/http-server.ts",
     "start": "node dist/index.js",
     "start:http": "node dist/http-server.js",
     "build:db": "node --import tsx scripts/build-db.ts",
+    "build:db:vercel-current": "DIGDIR_NORWEGIAN_LAW_BUILD_DB_PATH=data/database.vercel-current.db DIGDIR_NORWEGIAN_LAW_INCLUDE_LOVTIDEND=0 node --import tsx scripts/build-db.ts",
+    "build:vercel": "next build --webpack",
+    "dev:vercel": "next dev",
     "check-updates": "node --import tsx scripts/check-updates.ts",
     "publicdata:list": "node --import tsx scripts/publicdata-list.ts",
     "publicdata:sync": "node --import tsx scripts/publicdata-sync.ts",
@@ -42,13 +45,18 @@
   "author": "",
   "license": "Apache-2.0",
   "dependencies": {
-    "@modelcontextprotocol/sdk": "^1.29.0",
-    "better-sqlite3": "^12.9.0"
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "better-sqlite3": "^12.9.0",
+    "mcp-handler": "^1.1.0",
+    "next": "^16.2.4",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5"
   },
   "devDependencies": {
     "@types/better-sqlite3": "^7.6.13",
     "@types/jsdom": "^28.0.1",
     "@types/node": "^25.6.0",
+    "@types/react": "19.2.14",
     "fast-xml-parser": "^5.7.2",
     "jsdom": "^29.1.0",
     "tsx": "^4.21.0",
