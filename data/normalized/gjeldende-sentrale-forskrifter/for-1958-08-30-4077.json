@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1958-08-30-4077",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordningslovens omfang (samordningsforskrift 2)",
+  "short_title": "Samordningsforskrift 2",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1959-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1958-08-30-4077",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1958-08-30-4077",
+  "raw_xml_sha256": "804a722eaae3d4add99d004c6bf8b4f44d10422bcfc330acf697bc353bf19c3d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Samordningsloven skal gjelde for følgende pensjonsordninger:Norges Banks pensjonskasse, Oslo.Pensjonsordning for Sporveien Oslo AS (lukket pensjonsordning fra 1. april 2015).Pensjonsordninger for tjenestemenn eller arbeidere i andre selvstendige statlige eller kommunale foretak og i øvrige institusjoner av offentlig karakter, for så vidt de ikke går inn under samordningsloven § 1 punkt 1 første ledd. Det kan således gjelde pensjonsordninger for sykehus, kraftselskaper, billag og rederiselskaper.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 1959.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

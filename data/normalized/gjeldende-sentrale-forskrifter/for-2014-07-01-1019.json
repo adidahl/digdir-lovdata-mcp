@@ -1,0 +1,153 @@
+{
+  "id": "FOR-2014-07-01-1019",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om redningsredskaper på skip",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2014-09-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-16-2652 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2014-07-01-1019",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-07-01-1019",
+  "raw_xml_sha256": "6cbc983971864edf1f90e812d041ed60b7456b78f17ffce792a14bf3eeab2a9a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 500 eller merskip med passasjersertifikatskip med sikkerhetssertifikat for passasjerskip i utenriksfartlektere som på grunn av sin operasjon har personell om bord utover operasjoner knyttet til fortøyning eller klargjøring til slep.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav til redningsredskaper",
+      "path": [],
+      "text": "Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel III, som endret ved MSC.482(103) og MSC.496(105) gjelder som forskrift.\nReglene etter første ledd gjelder for skip og lekter uavhengig av fartsområde eller bruttotonnasje og med de tillegg og innskrenkinger som følger av forskriften, likevel slik at SOLAS regel III/30.3 ikke gjelder for skip i innenriksfart.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Hovedalarmsystem",
+      "path": [],
+      "text": "Lasteskip med bruttotonnasje under 200 skal kunne gi alarmsignal for å kalle alle om bord til mønstringsstasjoner og for å sette i gang tiltak som omfattes av alarminstruksen. Alarmsignalet kan gis med skipets fløyte, skipets sirene eller annen tilsvarende lydalarm.\nLasteskip med bruttotonnasje 200 eller mer og alle passasjerskip skal være utstyrt med et hovedalarmsystem som skal oppfylle kravene i SOLAS regel III/6.4.\nPassasjerskip med lengde under 24 meter i innenriksfart unntas kravet i første ledd når alarmsignalet kan gis med skipets fløyte eller sirene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Personvarslingsanlegg",
+      "path": [],
+      "text": "Alle passasjerskip skal ha et personvarslingsanlegg som oppfyller kravene i SOLAS regel III/6.5.\nFor passasjerskip i innenriksfart sertifisert for 36 eller færre passasjerer og passasjerskip med fartsområde 1 og bruttotonnasje under 300 som opererer i tidsrommet 1. mai til 30. september, kan det gjøres unntak fra kravet om personvarslingsanlegg hvis besetningen og passasjerene kan varsles direkte fra skipets bro eller styreposisjon.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Redningsredskaper på skip og åpne båter sertifisert for 12 eller færre passasjerer",
+      "path": [],
+      "text": "Skip med passasjersertifikat for 12 eller færre passasjerer skal i stedet for å oppfylle kravene til antall redningsredskaper i SOLAS kapittel III, minst ha om bord følgende antall redningsredskaper:redningsflåte med kapasitet til alle om bordtre fallskjermlys (nødraketter)redningsvester, termiske redningsvester eller termiske drakter i kombinasjon med redningsvest til alle om borden livbøye med lys og flytende redningslineen innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet\nÅpne båter med passasjersertifikat for 12 eller færre passasjerer som går i fart på innsjøer og elver skal føre redningsredskaper nevnt i første ledd bokstav c, d og e.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Redningsredskaper på lasteskip med bruttotonnasje under 500 og bemannede lektere",
+      "path": [],
+      "text": "Lasteskip med bruttotonnasje under 500 og lektere skal i stedet for å oppfylle kravene til antall redningsredskaper i SOLAS kapittel III minst ha om bord følgende antall redningsredskaper:UtstyrBruttotonnasje og lengdeparametreLasteskip i fartsområde 1 og 2Lasteskip i fartsområde 3 til liten kystfartLasteskip i utenriksfartLektereRedningsfarkoster2 x plass til det totale antallet personer om bord2 x plass til det totale antallet personer om bord1 x plass til det totale antallet personer om bord, jf. § 8Redningsdrakter1 x det totale antallet personer om bordRedningsvester1,5 x det totale antallet personer om bordRedningsvester for barnAlle barn om bord (jf. § 12 andre ledd)Livbøyerskip < 300BT300BT ≤ skip < 500BT35MOB-båtSkip med lengde (L) 30 meter eller mer1Se § 9Linekastende apparatskip < 100BTFire prosjektiler med fire liner, jf. SOLAS III/18100BT ≤ skip < 500BTFire prosjektiler med fire liner, jf. SOLAS III/18Fallskjermlys (nødraketter)36Håndbluss36",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Redningsredskaper på passasjerskip i innenriksfart",
+      "path": [],
+      "text": "Passasjerskip i innenriksfart skal i stedet for å oppfylle kravene til antall redningsredskaper i SOLAS kapittel III, minst ha om bord følgende antall redningsredskaper:UtstyrMeterPassasjerskip i fartsområde 2 og mindrePassasjerskip i fartsområde 3, 4 og liten kystfartAntall personer om bord (N)skip < 250250 ≤ skipskip < 250250 ≤ skipRedningsfarkoster1,1 x NMOB-båt: skip med lengde (L)≥ 241(MES) Marine evakueringssystemJf. § 10Redningsdrakter eller beskyttelsesdraktJf. § 12Termisk redningsvest eller termisk drakt kombinert med redningsvest1,05 NTermisk redningsvest eller termisk drakt kombinert med redningsvest for barn0,1 x ombordværende passasjerer eller det større antallet redningsvester som kreves for det faktiske antallet barn jf. § 12 andre leddTermisk redningsvest eller termisk drakt kombinert med redningsvest for spedbarn0,025 x ombordværende passasjerer jf. § 12 andre leddLivbøyer: skip med største lengde:≥ 154848< 152Linekastende apparat – gjelder for skip med fartsområde 4 og liten kystfart.–Fire prosjektiler med fire liner, jf. SOLAS III/18Fallskjermlys (nødraketter)312",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Redningsfarkoster",
+      "path": [],
+      "text": "Redningsfarkostene om bord skal ha en samlet kapasitet tilstrekkelig for det antall personer skipet er sertifisert til å føre, selv om en redningsfarkost skulle gå tapt eller bli ubrukelig. Ved beregning av kapasiteten skal det tas hensyn til om svikt eller feil i felleskomponenter kan føre til at en redningsfarkost går tapt eller blir ubrukelig. Er skipet utstyrt med et evakueringssystem etter § 10, skal den ekstra redningsfarkosten kunne tilknyttes dette.\nRedningsflåter skal kunne fortøyes til innskipningsstasjoner på en forsvarlig måte.\nPassasjerskip i utenriksfart uansett byggeår skal føre redningsfarkoster i samsvar med kravene i SOLAS regel III/21.\nPassasjerskip med fartsområde 3 eller mindre kan føre oppblåsbare åpne og vendbare redningsflåter som tilfredsstiller kravene i de internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO Res. MSC.97(73) 5. desember 2000 kapittel 8.10.2.\nLasteskip, med unntak av tankskip, kan i fartsområde 2 eller mindre føre én redningsflåte som kan settes ut på begge sider av skipet.\nTankskip skal enten føre en overbygd livbåt på hver side av skipet, eller en fritt-fall livbåt plassert akterut, med tilstrekkelig kapasitet til å oppta minst det totale antallet personer om bord.\nLektere i fartsområde 3 eller større, skal utstyres med minst en oppblåsbar redningsflåte med tilstrekkelig kapasitet til å ta opp alle om bord. Lektere i fartsområde 1 og 2 skal utstyres med en CE-merket motordrevet lettbåt som minst tilfredsstiller konstruksjonskategori C, eller en redningsflåte som kan oppta minst det totale antallet personer om bord. For lektere som fører brennbar flytende last, fastsetter Sjøfartsdirektoratet krav i hvert enkelt tilfelle, avhengig av lekterens bemanning, fartsområde, konstruksjon og operasjonelle forhold.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "MOB-båt",
+      "path": [],
+      "text": "Med MOB-båt menes her en båt som er konstruert for å redde personer i nød og for å assistere redningsfarkoster.\nPassasjerskip med fartsområde 1 eller mindre kan ha MOB-båt på slep når skipet har arrangement for ombordstigning i MOB-båt.\nPå lasteskip og passasjerskip sertifisert for fartsområde 3 og mindre, kan MOB-båt regnes med i kapasiteten av redningsfarkoster, jf. § 6, § 7 og § 8 sjette ledd.\nPå passasjerskip som har krav om MOB-båt, skal denne være utstyrt med redningsgrind for ombordtaking av personer fra sjøen.\nSkip som ikke har krav om å føre MOB-båt skal gjennomføre en risikovurdering som demonstrerer fartøyets evne til å håndtere nødsituasjoner. Slike skip skalvære utstyrt med innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannetha arrangement som gjør det mulig å kunne observere fra broen ved styreposisjon at hjelpeløs person tas om bordha manøvreringsegenskaper til å gå nær opp til og ta om bord personer på en sikker måte fra sjøen under alle forhold ogha en løfteinnretning som plasseres lett tilgjengelig, er klar for øyeblikkelig bruk og er dimensjonert for en statisk belastning på minimum 200 kg hvis fribordet er over 1 meter.\nSjøfartsdirektoratet kan unnta et passasjerskip med lengde (L) mindre enn 30 meter med fartsområde 2 eller mindre fra kravet om MOB-båt når kravene etter femte ledd er oppfylt.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 10",
+      "heading": "Evakueringssystemer på passasjerskip i innenriksfart",
+      "path": [],
+      "text": "Passasjerskip i innenriksfart skal i stedet for kravene i SOLAS regel III/16.1 være utstyrt med et marint evakueringssystem (MES), hvis skipet ikke har livbåter eller redningsflåter som settes ut med davit og som etter godkjente stabilitetsberegninger har en avstand fra vannlinjen til innskipningsdekket på 1,5 meter eller mer i en hvilken som helst intakt eller skadet tilstand. På passasjerskip uten krav om stabilitetsberegninger måles avstanden fra vannlinjen i lettskipstilstand til innskipningsdekket.\nDet skal være installert MES på begge sider av passasjerskipet. Systemet skal være operasjonelt selv om skipet krenger med inntil 10 grader til hvilken som helst side. Skipet kan alternativt ha minst en innskipningsstasjon med en kapasitet på minst 100 prosent av passasjerantallet med tilhørende arrangement på hver side av skipet.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 10a",
+      "heading": "Unntak fra krav om landings- og evakueringsområder for helikopter",
+      "path": [],
+      "text": "Ro-ro passasjerskip sertifisert for fartsområde 2 og mindre, unntas kravet i SOLAS III/28.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 11",
+      "heading": "Livbøyer",
+      "path": [],
+      "text": "På lasteskip med bruttotonnasje under 300, som skal ha mer enn en livbøye, skal det være minst en livbøye på hver side av skipet. En av livbøyene skal ha redningsline på minst 30 meter og en av de andre livbøyene skal være utstyrt med selvtennende røyksignal og selvtennende lys. Øvrige livbøyer skal være utstyrt med selvtennende lys, men uten line.\nPå passasjerskip med største lengde under 15 meter skal det være en livbøye på hver side av skipet. Den ene livbøyen skal være utstyrt med flytende redningsline på minst 30 meter, og den andre skal være med selvtennende lys og uten redningsline.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 12",
+      "heading": "Redningsdrakter og redningsvester",
+      "path": [],
+      "text": "Redningsvester for barn og spedbarn skal oppbevares atskilt fra redningsvester for voksne. Med barn menes personer som er 1 år eller eldre og som veier under 35 kg. Med spedbarn menes personer som er under 1 år og som veier under 15 kg.\nPassasjerskip som seiler i fartsområder nord for 30° N og sør for 30° S skal ha redningsvester med termisk isolering, eller termiske drakter i kombinasjon med redningsvest.\nAlle lasteskip uansett fartsområde som fører last i bulk og alle lasteskip som seiler i fartsområder nord for 30° N og sør for 30° S skal i tillegg til å oppfylle kravene i SOLAS regel III//32.3, ha redningsdrakter med termisk isolering til alle om bord.\nAlle passasjerskip skal ha redningsdrakt eller beskyttelsesdrakt til alle besetningsmedlemmer som har oppgaver knyttet til redningsfarkost eller marine evakueringssystemer. Drakten skal være av en type som har avtagbare hansker eller hansker som ikke er til hinder for å utføre nødvendig arbeide og betjene nødvendig utstyr i en nødssituasjon.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 13",
+      "heading": "Utskifting av redningsredskaper",
+      "path": [],
+      "text": "Ved vesentlig ombygging eller reparasjon som får betydning for redningsredskaper, kan Sjøfartsdirektoratet bestemme at nytt utstyr skal installeres om bord. Det samme gjelder ved endret bruk, operasjonsmønster eller bemanning og ved endring av fartsområde.\nSjøfartsdirektoratet kan kreve at redningsredskaper skiftes når direktoratet etter en demonstrasjon finner at disse ikke fungerer etter sin hensikt eller at de ut fra skipets operasjon og bemanning kan sette liv og helse i fare.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "paragraf-17",
+      "provision_ref": "§ 14",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det dokumenteres at løsningene er likeverdige med forskriftens krav.\nSjøfartsdirektoratet kan unnta en lekter, et skip i innenriksfart eller et lasteskip med bruttotonnasje under 500 i utenriksfart fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+      "xml_path": "article#paragraf-17"
+    },
+    {
+      "section_id": "paragraf-18",
+      "provision_ref": "§ 15",
+      "heading": "Dokumentasjon",
+      "path": [],
+      "text": "Det skal dokumenteres ved tegninger at kravene til plassering av redningsredskaper i SOLAS kapittel III og forskriften er oppfylt. Tegningene skal være detaljerte, utført i målestokk og må angi presist hvilke forskriftskrav som er oppfylt. Sjøfartsdirektoratet kan kreve at det legges frem ytterligere opplysninger og dokumentasjon. Ved endring av redningsredskaper skal oppfyllelse av plasseringskravene dokumenteres på tilsvarende måte.\nVed nybygg eller ombygging av skip eller bemannet lekter etter § 1 skal dokumentasjonen sendes til Sjøfartsdirektoratet i samsvar med den til enhver tid gjeldende dokumentasjonsliste utarbeidet av Sjøfartsdirektoratet.",
+      "xml_path": "article#paragraf-18"
+    },
+    {
+      "section_id": "paragraf-19",
+      "provision_ref": "§ 16",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. september 2014.\nTidligere godkjent eller akseptert utstyr som er tatt om bord før ikrafttredelsen, kan fortsatt brukes inntil redningsredskapene eller redningsinnretningen endres eller skiftes ut.\nVed ikrafttredelsen oppheves samtidigforskrift 17. desember 2004 nr. 1855 om redningsredskaper på lasteskip,forskrift 11. oktober 2004 nr. 1341 om redningsredskaper på passasjerskip,forskrift 15. september 1992 nr. 700 om redningsredskaper m.m. på passasjerskip.",
+      "xml_path": "article#paragraf-19"
+    }
+  ]
+}

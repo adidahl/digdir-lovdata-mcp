@@ -1,0 +1,288 @@
+{
+  "id": "FOR-2018-05-30-777",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om alkolås, alkolåsverksteder mv.",
+  "short_title": "Forskrift om alkolås, alkolåsverksteder mv.",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2019-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-17-2715 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2018-05-30-777",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-05-30-777",
+  "raw_xml_sha256": "4e3caadce102289b43dcf86411d56230c5684b5b38eea6fa950e70aaba92ed35",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften skal ivareta sikkerhet, kvalitet og etterlevelse av påbudet om å ha installert alkolås i kjøretøy.\nFormålet med å ha alkolås installert i kjøretøy er å forhindre alkoholpåvirket kjøring.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for den som driver persontransport mot vederlag på veg i Norge med kjøretøy i gruppene M2 og M3 og som omfattes av lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova) § 4, § 6, § 9 og § 10.\nDersom et kjøretøy som nevnt i første ledd er registrert i utlandet, er kjøretøyet unntatt kravene i forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Følgende definisjoner legges til grunn i denne forskriften:alkolås: en teknisk innretning som skal hindre at kjøretøyet kan startes eller settes i bevegelse når føreren har ulovlige verdier av alkohol i luften føreren puster ut, jf. vegtrafikkloven § 22arbeid på alkolås: installasjon, avinstallasjon, reparasjon og service på alkolås som ikke foretas hos kjøretøyfabrikantalkolåsverksted: virksomhet som har fått godkjenning av Statens vegvesen til å utføre arbeid på alkolåsinstallatør: person som fyller vilkårene for å arbeide med alkolås og som er ansatt i et godkjent alkolåsverkstedservice: kalibrering og vedlikehold av alkolåsen i henhold til produsentens anvisningpusteprøve: prøve føreren må avgi ved å puste i alkolåsen for at kjøretøyet skal kunne starte eller settes i bevegelsemonteringsinstruksjon: en kjøretøyspesifikk instruksjon på hvordan alkolåsen skal monteres i kjøretøyetinstallasjonsbekreftelse: dokumentasjon på hvordan alkolåsen er installert i det aktuelle kjøretøyetkvalitetsstyringssystem: systematiske tiltak som dokumenterer at arbeidet utøves i samsvar med krav fastsatt i lov og forskriftnødfunksjon: mulighet for overstyring av alkolåsen gjennom blant annet nødnummer eller tildeling av kodeforbikoplingsfunksjon: en bryter eller annen innretning som kan sette alkolåsen ut av funksjonfristarttid: tid fra godkjent pusteprøve er avlagt til det må avlegges ny pusteprøve ved stans av kjøretøyettransportvirksomhet: den som driver persontransport mot vederlag på veg i Norge i henhold til forskriftens § 2.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Krav til alkolås",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Alkolåsen skal ha testsertifikat på at den tilfredsstiller EN 50436-1:2014 eller EN 50436-2:2014 utstedt av et akkreditert laboratorium, eller ha godkjenning fra en EU- eller EØS-medlemsstat for bruk i persontransport mot vederlag på veg.\nKjøretøy som allerede har installert alkolås ved ikrafttredelse av denne forskrift kan fortsatt benytte denne så fremt den tilfredsstiller EN 50436-1:2007 eller EN 50436-2:2007 eller nyere standard.\nAlkolåsen skal ha komponent-typegodkjenning (E-merket) etter gjeldende regelverk for elektromagnetisk kompatibilitet for kjøretøy.\nArbeid på alkolås skal utføres på et godkjent alkolåsverksted, jf. kapittel 3, eller ved fabrikkmontering gjennom kjøretøyfabrikanten.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Alkoholkonsentrasjon i pusteprøven",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Alkolåsen skal være innstilt slik at kjøretøyet kun kan startes eller settes i bevegelse om alkoholkonsentrasjonen i førerens pust måles til å være mindre enn 0,10 milligram alkohol per liter luft (tilsvarende 0,2 i promille).",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Godkjent pusteprøve",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Føreren må avgi en godkjent pusteprøve for å kunne starte eller sette kjøretøyet i bevegelse. Alkolåsen kan ha en fristarttid på maksimalt 30 minutter.\nVed bytte av fører skal den nye føreren av kjøretøyet avgi pusteprøve.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Forbikoplingsfunksjon for alkolås",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Det skal ikke være en forbikoplingsfunksjon for alkolåsen i kjøretøyet. Dersom strømtilførselen brytes på alkolåsen, skal kjøretøyet ikke kunne settes i bevegelse.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Nødfunksjon",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Dersom alkolåsen har en funksjon for overstyring i nødsituasjoner, skal denne funksjonen ikke brukes til andre formål og være tidsbegrenset til høyst 8 timer.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Service og vedlikehold",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Transportvirksomheten skal følge anvisningene til alkolåsprodusenten for service og vedlikehold.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 10",
+      "heading": "Forbud mot bruk av kjøretøy",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Dersom service på alkolåsen ikke er gjennomført innen 30 dager etter at fristen for service gikk ut, er det ikke tillatt å bruke kjøretøyet til persontransport mot vederlag.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 11",
+      "heading": "Monteringsinstruksjon",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Alle alkolåser skal ha en monteringsinstruksjon.\nFor kjøretøy der det ikke er nok å bryte strømmen til startmotoren, skal alkolåsen ha en monteringsinstruksjon for den aktuelle typen kjøretøy fra alkolåsprodusenten eller kjøretøyfabrikanten.\nMonteringsinstruksjonen etter annet ledd skal inneholde;opplysninger om hvilken kjøretøymodell og type som instruksjonen gjelder for,beskrivelse av hvilke kretser i kjøretøyet som må brytes, hvordan tilkoblingspunktene identifiseres og hvilke tilleggskomponenter som skal brukes,opplysninger om hvem som har utarbeidet instruksjonen,bekreftelse fra kjøretøyprodusenten eller kjøretøyimportøren på at tilkoblingen til bilens system ikke kan påvirke andre systemer i bilen under kjøring, ved feil eller strømbrudd i alkolåsen.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 12",
+      "heading": "Installasjonsbekreftelse ved ettermontering",
+      "path": [
+        "Kapittel 2. Krav til alkolås"
+      ],
+      "text": "Installasjon av en alkolås i kjøretøyet etter denne forskriften skal dokumenteres med en installasjonsbekreftelse fra den personen som har utført installasjonen.\nInstallasjonsbekreftelsen skal inneholde opplysninger om;kjøretøyets registreringsnummer,alkolåsens fabrikant og serienummer,referanse til anvendt monteringsinstruksjon,navn på alkolåsverkstedet og installatøren,dato for installasjonen og neste service.\nAlkolåsverkstedet skal sørge for at installasjonsbekreftelsen lagres i 5 år og er tilgjengelig for tilsyn.\nKjøretøy med installasjonsbekreftelse i tråd med denne forskriften skal ikke fremstilles til ny godkjenning etter forskrift 5. juli 2012 nr. 817 om godkjenning av bil og tilhenger til bil (bilforskriften) § 17 og forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) § 6-9.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 13",
+      "heading": "Godkjenning av alkolåsverksted",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "Virksomheter som oppfyller vilkårene i denne forskriften kan søke Statens vegvesen om godkjenning til å utføre arbeid på alkolås. Dokumentasjon for at vilkårene for å oppnå godkjenning er oppfylt skal vedlegges søknaden om godkjenning.\nEt alkolåsverksted som oppfyller vilkårene i denne forskriften skal få et godkjenningsbevis.\nStatens vegvesen registrerer virksomheten i Statens vegvesen sitt elektroniske register. Registeret inneholder opplysninger om virksomheter som har søkt om godkjenning og alle virksomheter som har eller har hatt godkjenning. Registeret vil inneholde personopplysninger om ansvarlig leder. Registeret skal være i samsvar med det til enhver tid gjeldende regelverk.\nVed endring av forhold som kan ha betydning for godkjenningen, herunder opphør av virksomheten, flytting, endring av organisasjonsnummer, bytte av ansvarlig leder eller stedfortreder, skal det straks gis skriftlig melding til Statens vegvesen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 14",
+      "heading": "Gebyr for godkjenning av alkolåsverksted",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "For behandling av en søknad om godkjenning som alkolåsverksted skal alkolåsverkstedet betale et gebyr.\nGebyrsatsen fremgår av forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 16.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 15",
+      "heading": "Krav til lokaler og utstyr",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "Alkolåsverkstedets lokaler og teknisk utstyr som benyttes til arbeid på alkolåsen skal være egnet til formålet.\nUtstyr som brukes ved arbeid på alkolåsen skal ha brukerveiledning og nødvendige spesifikasjoner for kalibrering. Utstyret skal benyttes i tråd med dette.\nAlkolåsverkstedet kan også utføre arbeid på alkolåsen andre steder enn i verkstedets lokaler forutsatt at dette gjøres på forsvarlig måte med pliktig utstyr.\nStatens vegvesen fastsetter nærmere vilkår for adgangen til å utføre ambulerende verkstedvirksomhet, herunder til omfang, kompetanse, lokasjon, verktøy og utstyr.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 16",
+      "heading": "Krav til ansvarlig leder og stedfortreder",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "For ethvert alkolåsverksted skal det være utpekt en ansvarlig leder. Den ansvarlige lederen skal være kontaktpersonen til Statens vegvesen.\nAnsvarlig leder skal til enhver tid besitte de kunnskaper og ferdigheter som er nødvendige for å utføre arbeid på alkolåsen, jf. kompetansekravet som følger av § 17 annet ledd.\nAnsvarlig leder skal bruke monteringsinstruksjonen ved installasjon av alkolåsen og fylle ut en installasjonsbekreftelse, jf. § 11 og § 12.\nAnsvarlig leder skal;påse at alt arbeid på alkolås utføres etter kravene i denne forskrift og etter gjeldende regelverk,samordne arbeidet ved alkolåsverkstedet,veilede installatørene i alkolåsverkstedet,sørge for at etterutdanning av installatørene gjennomføres ved behov,påse at alkolåsverkstedet dokumenterer gjennomført opplæring.\nDersom ansvarlig leder skal føre kjøretøyet som arbeidet på alkolåsen utføres på, må vedkommende ha førerkort for aktuell kjøretøyklasse, jf. forskrift 19. januar 2004 nr. 298 om førerkort m.m. Unntak i førerkortforskriften § 12-2 første ledd gjelder.\nVed ansvarlig leder sitt fravær skal det utpekes en stedfortreder. Stedfortreder skal oppfylle kravene til å være ansvarlig leder. Statens vegvesen kan gjøre unntak fra kravet til stedfortreder når kravet vil virke urimelig av hensyn til alkolåsverkstedets størrelse.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 17",
+      "heading": "Krav til installatøren",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "Installatøren skal til enhver tid besitte de kunnskaper og ferdigheter som er nødvendige for å utføre arbeid etter denne forskriften.\nInstallatøren skal ha gjennomgått relevant opplæring om alkolås. Opplæringen skal minst omfatte;gjeldende regler for utføring av arbeid på alkolås,alkolåsens funksjon,arbeidsmetoder og utstyr ved installasjon, avinstallasjon, service og reparasjon,metoder og utstyr for gjennomføring av arbeid på alkolås,dokumentasjon for utført installasjon,datasikkerhet og datahåndtering for alkolåsen.\nInstallatør skal benytte monteringsinstruksjon ved installasjon av alkolåsen og fylle ut en installasjonsbekreftelse, jf. § 11 og § 12.\nInstallatøren skal tilfredsstille samme krav til førerkort som ansvarlig leder, jf. § 16 femte ledd.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 18",
+      "heading": "Krav til kvalitetsstyringssystem",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "Den som er gitt godkjenning som alkolåsverksted skal etablere og ajourholde et kvalitetsstyringssystem for alkolåsverkstedets aktiviteter knyttet til arbeid med alkolås slik dette er definert i denne forskrift og nærmere avgrenses i Statens vegvesens vedtak om godkjenning. Systemet skal utarbeides og ajourholdes i samarbeid med ansvarlig leder og personalet.\nFormålet med kvalitetsstyringssystemet er å sikre riktig kvalitet på arbeidet, at arbeid med alkolås oppfyller kravene i denne forskrift og gjennom kontinuerlig forbedring bidrar til økt kundetilfredshet.\nKvalitetsstyringssystemet skal inneholde nødvendige beskrivelser, prosedyrebeskrivelser og krav til registreringer for å sikre formålet. Med prosedyrebeskrivelse menes et dokument som angir fremgangsmåten for å utføre en aktivitet eller arbeidsprosess. Med registreringer menes et dokument som beviser oppnådd resultat eller gjennomførte aktiviteter.\nKvalitetsstyringssystemet skal som minimum inneholde følgende:Beskrivelse av hvordan arbeidet på alkolås er organisert; hvilke roller som inngår, hvilke oppgaver (arbeidsinstruks) som er knyttet til de ulike rollene og hvem som til enhver tid innehar de ulike rolleneBeskrivelse av hvilke krav til kompetanse som gjelder ved tilsetting i de ulike rollene, virksomhetens plan for vedlikehold av kompetanse samt registreringer av de ansattes faktiske kompetanse.Prosedyrebeskrivelse for og registreringer av kalibrering og periodisk vedlikehold av utstyr, herunder registreringer av nødvendige sertifikater og godkjenningsattester for teknisk utstyr.Beskrivelse av hvilke tjenester virksomheten tilbyr, registreringer av eventuelle samarbeidsavtaler (utstyr og kjøp av tjenester).Prosedyrebeskrivelse for gjennomføring av arbeid på med alkolås, herunder dokumentasjon på monteringsinstruksjon, installasjonsbekreftelse, navn på installatøren som utfører arbeid med alkolåsen og hvilket kjøretøy arbeidet ble utført på.Prosedyrebeskrivelse for og registreringer av kontroll med kvaliteten på utført arbeid.Prosedyrebeskrivelse for behandling av elektroniske data tilknyttet alkolåsen.Prosedyrebeskrivelse for og registeringer av avvikshåndtering.\nAnsvarlig leder plikter å føre tilsyn med at arbeidet organiseres og gjennomføres slik dette er fastsatt i kvalitetsstyringssystemet.\nKvalitetsstyringssystemet skal dokumenteres skriftlig. Dokumentasjonen skal til enhver tid være tilgjengelig for tilsynsmyndigheten.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 19",
+      "heading": "Krav til utstyr og sikkerhet for datahåndtering",
+      "path": [
+        "Kapittel 3. Vilkår og plikter for alkolåsverksteder"
+      ],
+      "text": "Alkolåsverkstedet har ansvaret for at dataoverføring fra alkolåsen skjer med formålstjenlig utstyr og at dataoverføringer skjer på en slik måte at sikkerhetselementene som beskytter dataenes integritet og ekthet er intakte.\nAlkolåsverkstedet kan laste ned tekniske data for å kunne utføre service og vedlikehold av alkolåsen.\nFor behandling av personopplysninger innhentet og lagret i forbindelse med service og vedlikehold av alkolåsen, gjelder lov 15. juni 2018 nr. 38 om behandling av personopplysninger med forskrifter.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 4. Tilsyn med og reaksjoner mot alkolåsverksteder"
+      ],
+      "text": "Statens vegvesen fører tilsyn med virksomheter som utfører arbeid på alkolåser og at de etterlever denne forskriften.\nAlkolåsverkstedet plikter å gi Statens vegvesen adgang til lokalene, og bistå slik det ellers er nødvendig for å gjennomføre tilsyn, herunder fremvise og utlevere til kontroll utstyr og dokumenter som angår arbeid på alkolås og virksomheten for øvrig.\nStatens vegvesen kan som en del av tilsynet utføre stikkprøvekontroll på arbeidet med alkolås. Dersom det er nødvendig for å utføre tilsynsoppgavene kan Statens vegvesen også innkalle kjøretøyet til stikkprøvekontroll.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Reaksjoner mot alkolåsverksteder",
+      "path": [
+        "Kapittel 4. Tilsyn med og reaksjoner mot alkolåsverksteder"
+      ],
+      "text": "Som ledd i Statens vegvesens tilsyn kan alkolåsverkstedet gis pålegg om retting som er nødvendig for å sikre at arbeidet utføres i samsvar med forskriften, herunder også gi pålegg om stansing av arbeid på alkolås til avvik er rettet eller vedtak om tilbakekalling er avgjort.\nDersom pålegg om retting ikke er foretatt innen gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunktet en gitt frist for retting er overskredet og til retting er foretatt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2. Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.\nFor mindre vesentlige forhold kan det gis advarsel.\nStatens vegvesen kan midlertidig eller permanent tilbakekalle alkolåsverkstedets godkjenning dersom det avdekkes:vesentlige eller gjentatte avvik fra kravene til lokaler, utstyr, kompetanse, kvalitetsstyring og datahåndtering,vesentlige eller gjentatte avvik fra kravene til installasjon og dokumentasjon,at pålegg ikke etterkommes eller at skriftlig advarsel ikke tas til følge,at alkolåsverkstedet unndrar seg tilsyn.\nI vurderingen av om godkjenningen skal tilbakekalles skal det tas hensyn til i hvilken grad verkstedets administrative ledelse kan bebreides for overtredelsen.\nFørste gangs tilbakekalling av godkjenningen skal normalt gjelde fra tre til seks måneder, andre gangs tilbakekalling fra seks til tolv måneder og tredje gangs tilbakekalling for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.\nVed tilbakekall av en godkjenning av alkolåsverkstedet skal Statens vegvesen tilbakekalle godkjenningsbeviset som nevnt i § 13 annet ledd.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Kontroll langs veg",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Statens vegvesen og politiet kan gjennomføre kontroll langs veg av alkolås i kjøretøy som nevnt i § 2 første ledd. Kontroll kan omfatte alkolåsen med tilhørende komponenter.\nStatens vegvesen kan gi transportvirksomheten pålegg om retting, som disse straks plikter å etterkomme. Bestemmelsene om kontroll lang veg i lov 18. juni 1965 nr. 4 om vegtrafikk gjelder for øvrig så langt de passer.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Den som etter § 2 i denne forskrift ikke har installert alkolås kan straffes etter vegtrafikkloven § 31, dersom forholdet ikke går inn under strengere straffebud. I stedet for straff kan det ilegges gebyr for overtredelser som omfattes av forskrift 26. mars 2021 nr. 963 om gebyr for visse overtredelser av vegtrafikklovgivningen.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Klage på vedtak",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Vedtak fattet i medhold av denne forskriften kan påklages i henhold til lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Statens vegvesen kan, ved enkeltvedtak, gjøre unntak fra bestemmelsene i denne forskriften når det foreligger særlig tungtveiende grunner.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Overgangsordninger",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Alkolåsverksted godkjent før 1. februar 2024 må innen 1. februar 2025 ha på plass et kvalitetsstyringssystem i samsvar med § 18.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 27",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2019.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    }
+  ]
+}

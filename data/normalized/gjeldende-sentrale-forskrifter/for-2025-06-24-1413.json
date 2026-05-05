@@ -1,0 +1,585 @@
+{
+  "id": "FOR-2025-06-24-1413",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om høyere yrkesfaglig utdanning ved Fagskolen i Nord",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2025-08-01",
+  "lovdata_refid": "forskrift/2025-06-24-1413",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-06-24-1413",
+  "raw_xml_sha256": "899b1a220573b19f70c15c47177d71e14e2f56e0ab48759e48eaa86494fefc2d",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder for høyere yrkesfaglig utdanning ved Fagskolen i Nord.\nForskriften gjelder for personer som søker opptak til studieprogram eller har studierett og status som student ved Fagskolen i Nord.\nForskriften er gitt med hjemmel i lov om høyere yrkesfaglig utdanning og forskrift om høyere yrkesfaglig utdanning. Er bestemmelsene i denne forskrift i strid med lov og/eller nasjonale forskrifter gjelder bestemmelsene i lov og forskrift.\nHvis ikke noe annet er bestemt i fagskoleloven eller fagskoleforskriften gjelder forvaltningsloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriftens formål er å sikre ivaretakelse av rettigheter etter lov 8. juni 2018 nr. 28 om høyere yrkesfaglig utdanning (fagskoleloven), og forskrift 11. juli 2019 nr. 1005 om høyere yrkesfaglig utdanning.\nForskriften gjelder for personer som søker opptak til studieprogram eller har studierett og status som student ved Fagskolen i Nord.\nForskriften regulerer bl.a. forhold knyttet til opptak, vurdering av skikkethet og krav om politiattest, avsluttende vurdering, eksamen og sensur, dokumentasjon, disiplinære sanksjoner, annullering av eksamen, samt klage og klagebehandling.\nDefinisjoner:Sluttvurdering omfatter all avsluttende vurdering av studentens læringsutbytte med karakter som kommer til uttrykk på vitnemålet. Dette inkluderer også eksamen.\nForskriften har kortnavnet forskrift for Fagskolen i Nord.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Deltakelse i samordnet opptak",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Opptak til Fagskolen i Nord organiseres gjennom det samordnede opptaket til fagskoleutdanning ved Direktoratet for IKT og fellestjenester i høyere utdanning og forskning (Unit).\nEnkelte utdanninger kan være unntatt deltakelse i det samordnede opptaket dersom Departementet har vedtatt det.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Årlig søknadsfrist for studier ved fagskolen er 15. april hvis ikke annet er oppgitt i utlysningen av aktuelt studium.\nSøknad skal sendes via Samordna Opptak.\nSøknader om opptak til lokalt utlyste studier sendes Fagskolen i Nord sammen med dokumentasjonen innen utlyst frist. Fagskolen vurderer/godkjenner søkerens kompetanse.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Rangering av søkere ved opptak til studier",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Kriterier for rangering av søkere og poengutregning er bestemt i fagskoleforskriften § 14.\nHvis det er venteliste etter at det ordinære opptaket er gjennomført og fagskolen får ledige studieplasser etter studiestart, skal Fagskolen i Nord tilby ledige studieplasser til søkerne som står på venteliste. Ti dager etter studiestart kan hver fagskole tilby resterende studieplasser til andre kvalifiserte søkere.\nDersom det ikke er venteliste kan Fagskolen i Nord selv tilby ledige studieplasser til kvalifiserte søkere. Søknader om opptak til ledige studieplasser behandles i den rekkefølgen de mottas.\nFagskolen i Nord rangerer søkere som ikke kan poengberegnes etter antall måneder dokumentert relevant praksis. Ved likt antall måneder praksis rangeres søkerne etter alder. Eldre søkere rangeres foran yngre.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Opptakskrav",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Opptakskrav til fagskolen er en av følgende:Fullført og bestått videregående opplæring med fagbrev, svennebrev eller vitnemål fra relevant yrkesutdanning.Dokumentert realkompetanse tilsvarende de ordinære opptakskravene. Søkere må være fylt 23 år innen opptaksåret.Studiekompetanse på enkelte studier.\nInformasjon om hvilke kompetanser som gir rett til opptak på den enkelte utdanning finnes i de enkelte studieplaner.\nOpptak kan også skje på vilkår (betinget opptak) jf. forskrift om høyere yrkesfaglig utdanning §§ 10 eller 11.\nFagskolen kan også i særskilte tilfeller gjøre unntak fra kravet om bestått fag- eller svennebrev, treårig yrkesfaglig opplæring eller generell studiekompetanse jf. forskrift om høyere yrkesfaglig utdanning § 7b.\nVed godskriving eller overflytting fra annen fagskole må opptak vurderes særskilt. Det er en forutsetning at avgiverskolen har fulgt samme gjennomføringsplan for utdanningen som den mottakende fagskolen.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Spesielle opptakskrav ved Fagskolen i Nord",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Fagskolen kan stille spesielle opptakskrav som er relevante for fagskoleutdanningen. Med spesielle opptakskrav menes krav om bestemte fag, fagbrev, svennebrev, karakterer, poeng, opptaksprøver, arbeidserfaringer, autorisasjoner, sertifiseringer eller andre yrkesgodkjenninger.\nDersom det er bestemt spesielle opptakskrav fremkommer dette av studieplanen og i Samordna Opptak.\nMaritim fagskoleutdanning krever dokumentert gjennomført grunnleggende sikkerhetskurs for sjøfolk jf. STCW regel VI/1 avsnitt AVI/1.\nDet er helsekrav knyttet til rollen som skipsoffiser, jf. forskrift 5. juni 2014 nr. 805 om helseundersøkelse av arbeidstakere på norske skip og flyttbare innretninger.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Opptak på bakgrunn av realkompetanse",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Fagskolen skal gjennomføre realkompetansevurdering når søkere ber om det i søknaden. Kompetansen til søkeren blir vurdert opp mot læreplanmål i videregående opplæring innen relevante programområde. Informasjon om hva som er relevant yrkesutdanning er nedfelt i studieplanene. Opptak gjort på bakgrunn av realkompetanse vil bare gjelde for den utdanningen det er realkompetansevurdert til.\nSøkere som søker studieplass på bakgrunn av realkompetanse kan være:Søkere som har fullført videregående opplæring, men i et annet utdanningsprogram enn det som er det formelle opptakskravetSøkere som ikke har fullført videregående opplæringSøkere med utenlandsk utdanning.\nSøkere må dokumentere kompetanse i felles allmenne fag som svarer til nivå 4 i Nasjonalt kvalifikasjonsrammeverk (NKR), ha fylt 25 år i søkeåret og må ha relevant arbeidserfaring i forhold til utdanningen det søkes opptak til, jf. forskrift 8. november 2017 nr. 1846 om Nasjonalt kvalifikasjonsrammeverk for livslang læring og om henvisningen til Det europeiske kvalifikasjonsrammeverket for livslang læring.\nRektor fatter vedtak om opptak på bakgrunn av realkompetanse.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Språkkrav for søkere med utenlandsk utdanning",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Enkelte studier kan ha språkkrav for søkere med utenlandsk utdanning.\nKravene til dokumenterte kunnskaper i norsk fremkommer av § 9 i forskrift om høyere yrkesfaglig utdanning.\nSøkere til maritim og teknisk utdanning må dokumentere kunnskaper i engelsk på minimum nivå B2 i Europarådets referanserammeverk for språk.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Godskriving og fritak",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Studenter som kan dokumentere å ha likeverdig eller tilsvarende emne med samme omfang ved samme eller annen institusjon, eller likeverdig eller tilsvarende realkompetanse kan søke om godskriving for deler av tidligere utdanning.\nSøknad om godskriving og fritak må leveres til fagskolen innen 15. september for emner i høstsemesteret og 15. januar for emner i vårsemesteret. Søknaden må inneholde dokumentasjon av omfang og innhold i emnet/kompetansen som studenten ønsker å søke godskriving eller fritak for. Nærmere bestemt:Vitnemål/karakterutskrift/realkompetansevurderingOversikt over hvilke temaer som inngår i emnetOversikt over læringsutbyttebeskrivelsen av emnet eller studieplanEventuelt annen relevant dokumentasjon.\nFagskolen skal godskrive beståtte emner som oppfyller kravene for emnene jf. fagskoleloven § 8 første ledd.\nSpesielt for maritim utdanning: Det kan etter søknad gis godskriving og fritak i emner som inngår i opplæringstilbudet, dersom vedkommende tidligere har bestått sluttvurdering etter plan for skipsoffiserutdanningen i fagskolen, eller dersom vedkommende har gyldig sertifikat som skipsoffiser klasse 4 eller høyere. Det kan ikke gis fritak for emner underlagt forskrift om kvalifikasjoner og sertifikater for sjøfolk der eksaminasjonen er eldre enn 5 år når studenten ville vært ferdig med sin fagskoleutdanning, jf. forskrift om kvalifikasjoner og sertifikater for sjøfolk § 18 første ledd.\nFagskolen kan også gi fritak for emner på grunnlag av annen dokumentert relevant utdanning og kompetanse, inkludert dokumentert realkompetanse. Fritak på bakgrunn av realkompetanse må baseres på en faglig vurdering av om søkerens bakgrunn, fra arbeidsliv, frivillig sektor, utdanning og/eller annet, dvs. formell, ikke-formell og uformell kompetanse, samlet kan gi grunnlag for fritak for del av fagskoleutdanning.\nDet kan ikke gis fritak for utdanninger på lavere enn nivå enn 4a i Nasjonalt kvalifikasjonsrammeverk (NKR).\nUtgangspunktet for vurderinger om godskriving og fritak skal være læringsutbyttebeskrivelsene for den aktuelle utdanningen eller det aktuelle emnet og studiepoeng eller andre vurderinger av omfang, nivå og arbeidsbelastning for de emner eller den kompetanse det søkes om godskriving eller fritak for.\nDersom en student får godkjent søknad om fritak av et emne, skal dette framkomme på vitnemålet med referanse til bestått emne ved samme eller annen institusjon. Vitnemålet er bare gyldig sammen med dokumentasjonen som det blir referert til.\nEnkeltvedtak om godskriving og fritak fattes av rektor.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Reservasjon av studieplass",
+      "path": [
+        "Kapittel 2. Opptak til studier ved Fagskolen i Nord"
+      ],
+      "text": "Søkere som er tatt opp som student ved Fagskolen i Nord, kan etter søknad få to års utsettelse av studiestart ved sykdom, svangerskap/barsel, verneplikt eller tungtveiende grunner.\nSøknad med dokumentasjon sendes Fagskolen i Nord innen tre uker fra tilbudet om studieplass ble mottatt.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Krav om politiattest på enkelte studier",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "Fagskolen i Nord krever politiattest som iht. politiregisterloven § 39 fra studenter i utdanninger hvor studenter kommer i kontakt med mindreårige eller andre sårbare grupper som del av klinisk undervisning eller praksisopplæring.\nDette gjelder kun studenter som skal utføre oppgaver som innebærer et tillits- eller ansvarsforhold overfor mindreårige eller andre sårbare grupper.\nDersom det er gitt særlige regler om politiattest for et yrke, gjelder disse tilsvarende for studenter som deltar i praksisopplæring eller klinisk undervisning.\nInformasjon om krav om politiattest og frist for å levere denne fremkommer i brev om tilbud om studieplass. Alle søkere som får tilbud om plass ved utdanninger med krav om politiattest, skal sende politiattest til utdanningsstedet innen fire uker fra tilbudet kommer frem, og attesten må ikke være eldre enn tre måneder på tidspunktet den fremlegges for fagskolen.\nDen som har fått krav om å fremlegge politiattest og ikke fremlegger politiattest, har ikke rett til å delta i klinisk undervisning eller praksisopplæring.\nReglene om politiattest i lov om høyere yrkesfaglig utdanning § 27 og fagskoleforskriften kapittel 4 gjelder for krav om politiattest og behandling av politiattester.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Behandling av politiattest med merknad",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "Ved Fagskolen i Nord behandler den lokale klagenemnda for Fagskolen i Nord saken når en politiattest har merknad, etter reglene i fagskoleforskriften § 23.\nDen lokale klagenemnda for Fagskolen i Nord kan fatte vedtak om at en student skal utestenges fra å delta i praksis eller klinisk undervisning.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Skikkethetsvurdering",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "En skikkethetsvurdering skal avdekke om studenten har de nødvendige forutsetningene for å kunne utøve yrket. En student som i utdanningen eller i framtidig yrkesutøvelse kan utgjøre fare for liv, fysisk og/eller psykisk helse, rettigheter og sikkerhet til barn, unge eller voksne i sårbare situasjoner, er ikke skikket for yrket.\nSkikkethetsvurdering skal foregå ved alle utdanninger der studenten kan utgjøre en fare jf. § 4-1 andre ledd. Følgende fagskoleutdanninger omfattes av skikkethetsvurdering ved Fagskolen i Nord jf. forskrift om høyere yrkesfaglig utdanning § 27 tredje ledd:Helse, aldring og aktiv omsorgPsykisk helsearbeid og rusarbeidKreftomsorg og lindrende pleie.\nSkikkethetsvurderingen skal foretas løpende og skal foretas gjennom hele fagskoleutdanningen. Den skal inngå i en helhetsvurdering av studentens forutsetninger for å kunne fungere i yrket. Dersom det er begrunnet tvil om en student er skikket, skal det i tillegg foretas en særskilt skikkethetsvurdering.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Skikkethetsansvarlig og skikkethetsnemnd",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "Styret for Fagskolen i Nord oppnevner selv en eller flere ansatte ved institusjonen som skikkethetsansvarlig for skikkethetsvurdering. Det kan oppnevnes stedfortreder for skikkethetsansvarlige.\nSkikkethetsansvarlige kan være medlem av skikkethetsnemnda.\nSkikkethetsansvarlige innstiller i saker til skikkethetsnemnda.\nStyret for Fagskolen i Nord oppnevner også en skikkethetsnemnd. Flere fagskoler kan gå sammen om en felles skikkethetsnemnd. En fagskole eller dens eier skal administrere en slik felles skikkethetsnemnd.\nSkikkethetsnemnda skal bestå av:en faglig leder eller tilsvarende funksjon (Faglig leder for avdeling eller tilsvarende funksjon, er nemndas leder.)to faglærereto representanter fra praksisfeltetto studentrepresentanteren ekstern representant med juridisk embetseksamen eller master i rettsvitenskap.\nMedlemmene oppnevnes for tre år av gangen. Studentrepresentantene oppnevnes for ett år.\nFaglig leder for avdeling eller tilsvarende funksjon, er nemndas leder.\nMinst to tredjedeler av nemndas medlemmer skal være til stede ved saksbehandlingen.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Vurdering og behandling av skikkethetssaker",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "Fagskolens sikkerhetsansvarlige og fagskolens skikkethetsnemnd skal benytte de vurderingskriterier for skikkethet og saksbehandling av skikkethet som er nærmere beskrevet i forskrift til høyere yrkesfaglig utdanning (fagskoleforskriften) kapittel 5.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Behandling i institusjonens klagenemnd og utestengingsperiode",
+      "path": [
+        "Kapittel 3. Krav om politiattest og studentens skikkethet"
+      ],
+      "text": "På bakgrunn av skikkethetsnemndens innstilling fatter Fagskolen i Nords klagenemnd vedtak om at en student ikke er skikket. Det skal ikke utstedes vitnemål for den aktuelle utdanningen til en student som er funnet uskikket.\nHvis en student som er funnet uskikket skal utestenges fra utdanningen, skal det fattes særskilt vedtak om dette. Ved kortere utestenging enn fem år kan institusjonens klagenemnd stille vilkår som må være oppfylt før utdanningen gjenopptas.\nVedtak om utestenging skal opplyse studenten om at han/hun ikke kan søke eller ta imot plass ved lignende utdanninger ved institusjoner under fagskoleloven i utestengingsperioden, og at han/hun må søke nytt opptak dersom utdanningen skal gjenopptas etter utestengingsperioden.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Informasjon til studentene",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Fagskolen i Nord har plikt til å gi tilstrekkelig og relevant informasjon om fagskoleutdanningens innhold. Denne forskriften, studieplanen for hvert utdanningstilbud, og skolens hjemmeside skal inneholde sentral informasjon om fagskoleutdanningen ved Fagskolen i Nord.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Søkerens og studentens undersøkelses- og opplysningsplikt",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Enhver søker og student plikter å sette seg inn i gjeldende forskrift for Fagskolen i Nord, og de spesifikke bestemmelsene som gjelder det studietilbudet søkeren søker til eller studenten følger.\nStudenten plikter å gjøre seg kjent med skolens kvalitets- og avvikssystem og frister som er relevant for utdanningen og sette seg inn i studieplaner, nødvendige forutsetninger for å få sluttvurdering eller gå opp til eksamen, planer og rutiner for sluttvurdering og eksamen, reglement for sluttvurdering og eksamen, blant annet regler om fusk.\nStudenten plikter å underrette Fagskolen i Nord om endring av navn, adresse og telefonnummer.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Studierett",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Studierett er rettigheter knyttet til det å være tatt opp som student ved et studium eller et emne, og ha studentstatus. Studierett gir rett til å følge undervisning, eventuell praksis, kurs og seminar og til å få sluttvurdering i samsvar med gjeldende studieplan. Studieretten er knyttet til utdanningen eller emnet på det studiestedet studenten har fått opptak til.\nVed opptak til en utdanning er studenten tildelt studierett lik normert studietid for utdanningen.\nEn student som er tatt opp til ei utdanning med mellom ett og fem års studietid, kan søke om, og få utvidet studieretten i inntil ett år ut over normert studietid.\nNår studieretten ved en utdanning er brukt opp etter tredje eller fjerde ledd, mister studenten automatisk alle rettigheter knyttet til det å være tatt opp som student. Studenten må søke nytt opptak for eventuelt å fullføre utdanningen.\nStudieretten faller automatisk bort når studieprogrammet er fullført og bestått. Det samme gjelder emnestudenter når sluttvurdering er gitt eller eksamen er gjennomført.\nEn student som har fullført ei utdanning, har likevel rett til å forbedre karakter i inntil ett år etter at utdanningen er fullført.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Studieprogresjon",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Ved de maritime, tekniske, grønne og matfaglige fagskoleutdanningene kan studenten bare ha strøket i ett emne for å kunne gå videre med utdanninga fra ett skoleår til neste. Det er ikke mulig å utsette et emne fullt ut til året etter med mindre det foreligger særskilte grunner. Rektor kan etter søknad gi dispensasjon til å utsette, gi utvidet studietid med inntil ett år, eller ta opp igjen et emne, dersom særskilte grunner foreligger etter søknad.\nDe helsefaglige utdanningene er emnestrukturerte, og de ulike emnene bygger på hverandre. En student må ha bestått et emne for å kunne fortsette i studiet på det neste. Alle emnene og praksis skal være bestått før studenten kan få sluttvurdering eller avlegge eksamen. Rektor kan gi dispensasjon til å utsette, eller ta opp igjen et emne, gi utvidet studietid med inntil ett år dersom særskilte grunner foreligger etter søknad.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Tap av studieretten",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "En student som har brukt alle forsøkene i et emne jf. § 5-7, blir stoppet av progresjonskrav, og taper studieretten.\nEn student som ikke har betalt studieavgiften innen fristen kan miste studieretten. Studenter som ikke har betalt studieavgiften vil ikke ha rett til å få sluttvurdering, eller å få utstedt vitnemål.\nVedtak om tap av studierett skal varsles, jf. forvaltningsloven § 16. Klagenemnda fatter enkeltvedtak.\nFor å kunne fortsette utdanningen må en student som har tapt studieretten søke opptak på nytt.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Permisjon fra studiet",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "En student kan søke om permisjon dersom tungtveiende grunner gjør det nødvendig, for eksempel ved sykdom eller innkalling til førstegangstjeneste. Permisjon blir som hovedregel gitt for en periode på ett studieår. I ekstraordinære tilfelle kan permisjon bli gitt i ytterligere ett år.\nStudenter som får barn under studiene rett til permisjon fra studiene under svangerskapet og til omsorg for barn. I permisjonsperioden har studenten fortsatt status som student ved fagskolen og har rett til å gjenoppta utdanningen på samme nivå som før permisjonen. Retten til permisjon gjelder tilsvarende ved adopsjon.\nFagskolen skal legge til rette for at studenter som er i permisjon kan gjenoppta utdanningen så raskt som mulig etter endt permisjon.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Tilknytning til studentsamskipnaden",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Fagskolen i Nord er tilknyttet studentsamskipnaden «Norges arktiske studentsamskipnad».",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-8",
+      "heading": "Semesteravgift, læremiddelavgift, kursavgift og skolepenger",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Studenter skal betale en semesteravgift som dekker medlemskap i studentsamskipnaden og Organisasjon for fagskolestudenter i Norge (ONF). Semesteravgiften fastsettes av styret og skal dekke kostnader til samskipnaden samt interne administrative kostnader knyttet til medlemskapene. Semesteravgiften faktureres studentene.\nDet kan tilkomme en årlig læremiddelavgift til kopiering og utskrift av dokumenter, lisenser samt læreutstyr. Satsene besluttes av styret og kommuniseres til studentene i studieplanene.\nFor de som gjennomfører sikkerhetsopplæring kan det tilkomme en kursavgift som kreves inn med betalingsfrist en måned før gjennomføring av sikkerhetsopplæring. Kursavgiften besluttes av styret og kommuniseres til studentene i studieplanene.\nStyret i fagskolen fastsetter hvilke studier som har egenbetaling av skolepenger. Fagskolen kan kun kreve egenbetaling fra studenter når det ikke er forutsatt at utdanningen skal være gratis i tildelingen av offentlige tilskudd.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-9",
+      "heading": "Studentorgan, studentrepresentasjon og studentombud",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Studentene ved fagskolen og/eller en avdeling ved fagskolen kan opprette studentorgan som skal ivareta deres interesser og fremme deres synspunkter, jf. lov om høyere yrkesfaglig utdanning § 14. Studentorganene skal høres i alle saker som angår studentene.\nStudenter skal være representert i alle kollegiale organer som tildeles beslutningsmyndighet ved fagskolen.\nAlle fagskolestudenter skal ha tilgang til et studentombud, jf. lov om høyere yrkesfaglig utdanning § 14a. Studentombudet skal gi fagskolestudenter råd og hjelp i saker knyttet til deres studiesituasjon.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 4-10",
+      "heading": "Læringsmiljø",
+      "path": [
+        "Kapittel 4. Studierett, studentrepresentasjon og studentenes rettigheter og plikter"
+      ],
+      "text": "Styret skal, i samarbeid med studentorganene, legge forholdene til rette for et godt og inkluderende læringsmiljø jf. lov om høyere yrkesfaglig utdanning § 15.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Vurdering og vurderingsformer",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Vurdering er bedømmelse av en students læringsprosess og læringsresultater. Vurdering skal gjennomføres på en slik måte at skolen kan vurdere i hvilken grad studenten har oppnådd det forventede læringsutbyttet for utdanningen.\nSluttvurdering er den avsluttende karakteren for et emne.\nVed Fagskolen i Nord benyttes det ulike former for sluttvurdering som kan være skriftlig, muntlig, praktisk prøving, samt kombinasjoner av disse. Sluttvurderingen kan være eksamen, hovedprosjekt, arbeidskrav, studiekrav, emneoppgaver, prosjektarbeid, faglige fordypningsoppgaver, praksis, laboratorieøvelser, muntlige presentasjoner eller mappevurdering.\nDet fremkommer av den enkelte studieplan hvilke vurderingsformer som benyttes.\nUnderveisvurdering gis i løpet av opplæringen og gir tilbakemelding på i hvilken grad studenten har oppnådd læringsutbyttet fram til nå, og hva som kan gi studenten bedre faglig progresjon. Tilbakemeldingen inngår ikke i den avsluttende karakteren for emnet.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Vurderingsutrykk",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Vurderingsuttrykk ved avsluttende emnevurdering og andre vurderinger er normalt en gradert skala fra A til E for bestått, og F for ikke bestått.\nBokmål:SymbolBetegnelseGenerell, ikke fagspesifikk beskrivelse av vurderingskriterierAFremragendeFremragende prestasjon som skiller seg klart ut. Studenten har svært gode kunnskaper, ferdigheter og generell kompetanse.BMeget godMeget god prestasjon. Studenten har meget gode kunnskaper, ferdigheter og generell kompetanse.CGodJevnt god prestasjon som er tilfredsstillende på de fleste områder. Studenten har gode kunnskaper, ferdigheter og generell kompetanse.DNokså godAkseptabel prestasjon med noen vesentlige mangler. Studenten har nokså gode kunnskaper, ferdigheter og generell kompetanse.ETilstrekkeligPrestasjonen tilfredsstiller minimumskravene, men heller ikke mer. Studenten har oppfylt minimumskravene som blir stilt til kunnskaper, ferdigheter og generell kompetanse.FIkke beståttPrestasjon som ikke tilfredsstiller minimumskravene. Studenten har ikke bestått på grunn av vesentlige mangler når det gjelder faglige kunnskaper, ferdigheter og generell kompetanse.\nNynorsk: Symbol Nemning Generell, ikkje fagspesifikk omtale av vurderingskriterium A Framifrå Framifrå prestasjon som skil seg klårt ut. Studenten har svært gode kunnskapar, ferdigheiter og generell kompetanse B Mykje god Mykje god prestasjon. Studenten har mykje gode kunnskapar, ferdigheiter og generell kompetanse. C God Jamt god prestasjon som er tilfredsstillande på dei fleste områda. Studenten har gode kunnskapar, ferdigheiter og generell kompetanse. D Nokså god Akseptabel prestasjon med nokre vesentlege manglar. Studenten har nokså gode kunnskapar, ferdigheiter og generell kompetanse. E Tilstrekkelig Prestasjonen tilfredsstiller minimumskrava, men heller ikkje meir. Studenten har oppfylt minimumskrava som blir stilt til kunnskapar, ferdigheiter og generell kompetanse. F Ikkje bestått Prestasjon som ikkje tilfredsstiller minimumskrava. Studenten har ikkje bestått på grunn av vesentlege manglar når det gjeld faglege kunnskapar, ferdigheiter og generell kompetanse.\nEngelsk: Symbol Description General, qualitative, non-subject specific description of the assessment valuation criteria A Excellent An excellent performance, clearly outstanding. The candidate demonstrates excellent knowledge, skills and general competence. B Very Good A very good performance. The candidate demonstrates very good knowledge, skills and general competence. C Good A good performance in most areas. The candidate demonstrates good knowledge, skills and general competence. D Satisfactory A satisfactory performance, but with significant shortcomings. The candidate demonstrates a limited degree of knowledge, skills and general competence. E Sufficient A performance that meets the minimum criteria, but no more. The candidate meets the minimum criteria and demonstrates a very limited degree of knowledge, skills and general competence. F Failed A performance that does not meet the minimum criteria. The candidate has failed because of an absence of knowledge, skills and general competence in the subject.\nI det enkelte emne eller vurderingssituasjon kan det benyttes vurderingsuttrykket «bestått – ikke bestått». Hvilke emner dette gjelder kommer fram av studieplanen. Karakterskalaen bestått/ikke bestått er et selvstendig vurderingsuttrykk uten sammenheng med gradert skala (A–F).\nI det enkelte emne eller vurderingssituasjon tilknyttet de maritime konvensjonsemnene kan det benyttes vurderingsuttrykket «passed – not passed». Hvilke emner dette gjelder kommer fram av studieplanen. Karakterskalaen passed/not passed er et selvstendig vurderingsuttrykk uten sammenheng med gradert skala (A–F).",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Emnevurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Det foretas en sluttvurdering av studentens læringsutbytte i hvert emne (emnevurdering). Dette er en helhetsvurdering av studentens kunnskaper, ferdigheter og generell kompetanse. Nærmere informasjon om vurderingsordning er beskrevet i den enkelte studieplan.\nAlle arbeidskrav og andre vurderingssituasjoner som det er oppgitt i studieplanen at er obligatoriske for å få emnevurdering må være gjennomført, levert og bestått innen tidsfrist, for å få en emnevurdering.\nHvis emne vurderes til karakteren F eller ikke bestått, kan studenten klage etter reglene i kapittel 8. Hvis emnet etter det er klaget fremdeles vurderes til karakteren F eller ikke bestått, må emnet eller deler av emnet gjennomføres på nytt.\nVurderingsgrunnlaget skal dokumenteres med unntak av muntlige høringer.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Arbeidskrav",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Arbeidskrav skal framgå av studieplanen i emnet.\nDersom en student ikke har oppfylt obligatoriske arbeidskrav vil det ikke bli satt sluttkarakter, og studenten har ikke rett til å få sluttvurdering.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Obligatorisk praksis",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Krav til praksis skal framgå av studieplanen i emnet. Praksis vurderes til bestått – ikke bestått.\nDersom en student har mer enn 10 % fravær i praksisperioden i utdanninger med praksis, eller avbryter en praksisperiode uten dokumentert grunn, blir praksisperioden vurdert til ikke bestått.\nVed ikke bestått praksis, har studenten rett til å få ny praksisperiode.\nFår studenten vurdert samme praksisperiode til ikke bestått to ganger, mister studenten studieplassen.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Vilkår for å få sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Studenter som er tatt opp til et emne eller et studium har rett til å få sluttvurdering eller bli oppmeldt til eksamen, dersom semesteravgift og eventuelt andre avgifter er betalt innen forfall.\nAlle arbeidskrav og andre vurderingssituasjoner som det er oppgitt i studieplanen at er obligatoriske for å kunne gå få sluttvurdering må være gjennomført, levert og bestått innen tidsfrist.\nStudenter som følger normalt studieår blir automatisk meldt opp til eksamen. Frist for å melde seg av eksamen er tre uker før eksamensdato.\nEn student som har fått emnekarakter F og har inngitt klage som er under behandling, kan gå opp til eksamen. Eksamen blir ikke vurdert før klagen på emnekarakter er avgjort.\nFagskolen har ikke privatistordning.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Antall forsøk på eksamen eller en annen form for sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student har rett til å møte til eksamen eller en annen form for sluttvurdering ved fagskolen i samme emne to ganger. En student er å regne som møtt til eksamen om han eller hun:trekker seg etter frist for å melde seg avikke møter på eksamen eller en annen form for sluttvurderingikke leverer svarmøter på eksamen eller en annen form for sluttvurdering og trekker seg under eksamen eller en annen form for sluttvurdering.\nDersom studenten kan dokumentere gyldig fravær innen fastsatt frist vil det ikke telles som et forsøk.\nFagskolen ved rektor kan gi dispensasjon for et tredje forsøk i spesielle tilfeller etter søknad fra studenten.\nNår en student har tatt eksamen eller en annen form for sluttvurdering på nytt, gjelder den siste karakteren.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 5-8",
+      "heading": "Gyldig fravær ved eksamen eller en annen form for sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Gyldig fravær er fravær på grunn av sykdom eller sterke velferdsgrunner. En student som på grunn av sykdom eller annen vektig grunn ikke kan møte til eksamen eller en annen form for sluttvurdering, må gi skolen beskjed uten ugrunnet opphold. Dokumentasjon på gyldig fravær skal være levert til fagskolen så raskt som mulig og senest innen tre virkedager etter eksamen eller en annen form for sluttvurdering for at det ikke skal telle som et forsøk.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 5-9",
+      "heading": "Utsatt eksamen eller en annen form for sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student som har dokumentert gyldig fravær ved ordinær eksamen eller en annen form for sluttvurdering, har rett til å gå opp til utsatt eksamen eller en annen form for sluttvurdering.\nEn gravid student har rett til utsatt eksamen eller en annen form for sluttvurdering hvis eksamensdato/sluttvurderingsdato er i perioden mellom tre uker før fastsatt termindato og seks uker etter fødsel. En student som blir far/medmor har rett til utsatt eksamen eller en annen form for sluttvurdering hvis eksamensdato/sluttvurderingsdato er innenfor to uker etter fødselen. Bestemmelsene i arbeidsmiljøloven § 12-1 til § 12-5 og § 12-7 gjelder så langt de passer.\nRetten til utsatt eksamen eller en annen form for sluttvurdering gjelder tilsvarende ved adopsjon.\nStudenten må selv melde seg opp til utsatt eksamen eller en annen form for sluttvurdering, senest tre uker før eksamensdato/sluttvurderingsdato.\nStudenter som har fravær på en utsatt eksamen eller sluttvurdering vil ikke få en til utsatt eksamen/sluttvurdering, men kan melde seg opp til neste ordinære eksamen/sluttvurdering.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 5-10",
+      "heading": "Kontinuasjonseksamen ved stryk (ny eksamen)",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student som vurderes til karakteren F/ikke bestått, har rett til kontinuasjonseksamen.\nVed stryk på eksamen må studenten selv melde seg opp til kontinuasjonseksamen, senest tre uker før eksamensdato.\nStudenten må melde seg opp til første mulige kontinuasjonseksamen for å beholde retten til to nye forsøk. De to forsøkene må gjennomføres innen 1 år etter den ordinære eksamen. Ved ikke bestått to ganger, må emnet tas på nytt.\nKontinuasjonseksamen avholdes normalt ved begynnelsen av påfølgende semester etter siste ordinære eksamen.\nStudenter som har fravær på kontinuasjonseksamen vil ikke få utsatt eksamen/sluttvurdering, men kan melde seg opp til neste ordinære eksamen.\nStudenter som har bestått eksamen og ønsker å forbedre karakteren, eller som trekker seg fra eksamen har ikke anledning til å melde seg opp til kontinuasjonseksamen.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 5-11",
+      "heading": "Ny eksamen/sluttvurdering for å forbedre en karakter",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student som ønsker å forbedre en karakter, kan søke om å gå opp til ny eksamen/sluttvurdering ved neste ordinære eksamensperiode/sluttvurderingsperiode. Forbedringseksamen/sluttvurdering kan avlegges 1 gang forutsatt at eksamens-/sluttvurderingsforsøkene totalt ikke overstiger tre forsøk.\nStudenten må selv melde seg opp til ny eksamen/sluttvurdering, senest tre uker før eksamensdato/sluttvurderingsdato.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-12",
+      "provision_ref": "§ 5-12",
+      "heading": "Gjennomføring av eksamen/sluttvurdering etter avbrutt studium og gjennomføring av studier eller emner som er vesentlig endret",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student som har avbrutt ordinært studieprogram og kommer tilbake ved en senere anledning for å fullføre utdanningen, må inngå skriftlig avtale med fagskolen om hvilke eksamener/sluttvurderinger som skal gjennomføres.\nNår en student ikke fullfører studiet eller et emne innen normert studietid, og det i mellomtiden er gjort vesentlige endringer i en studieplan, gjelder retten til å fullføre etter den opprinnelige planen i ett år etter at endringen ble gjort gjeldende, dersom ikke annet er bestemt av sertifikatgivende eller annen myndighet.",
+      "xml_path": "article#kapittel-5-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-13",
+      "provision_ref": "§ 5-13",
+      "heading": "Reglement for sluttvurdering og eksamen Fagskolen i Nord og plan for eksamen/sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Reglement for sluttvurdering og eksamen Fagskolen i Nord er tilgjengelig i fagskolens kvalitetssystem.\nReglement for sluttvurdering og eksamen Fagskolen i Nord skal være tilgjengelig tre måneder før eksamen skal gjennomføres. Fagskolen i Nord kommuniserer reglementet i skolens kvalitetssystem og på skolens hjemmeside. I tillegg har fagskolens faglig/pedagogiske ledere et særlig ansvar for å sikre at studentene får informasjon om hvor reglement er å finne.\nStudentene plikter å sette seg inn i på reglement og plan.",
+      "xml_path": "article#kapittel-5-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-14",
+      "provision_ref": "§ 5-14",
+      "heading": "Språk og målform på eksamen og sluttvurderinger",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Opplysninger om undervisningsspråk, sluttvurderingsspråk og eksamensspråk skal gå fram av den enkelte studieplan.\nSøknad fra student om å få oppgavesett og/eller besvare eksamen/sluttvurdering på et annet språk enn det som er fastsatt i studieplanen, avgjøres av rektor.\nFagskolen skal sørge for at eksamensoppgaver/sluttvurderingsoppgaver som gis på norsk, foreligger i begge målformer. Dersom alle studentene har ønsket samme målform, kan oppgavene gis i bare denne målformen. Studentene velger målform når de melder seg til eksamen/sluttvurdering, eller ved studiestart.",
+      "xml_path": "article#kapittel-5-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-15",
+      "provision_ref": "§ 5-15",
+      "heading": "Tillatte hjelpemidler på eksamen/sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Det varierer fra emne til emne hvilke hjelpemidler som er tillatt under skriftlig eksamen/sluttvurdering. Før eksamen/sluttvurdering må studenten selv sette deg inn i hvilke hjelpemidler de har lov til å bruke under den enkelte eksamen/sluttvurderingen. Tillatte hjelpemidler for hver eksamen/sluttvurdering skal gjøres kjent for studentene i god tid før eksamen/sluttvurderingen.",
+      "xml_path": "article#kapittel-5-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-16",
+      "provision_ref": "§ 5-16",
+      "heading": "Tilrettelegging på sluttvurdering",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Studenter som av medisinske eller andre grunner har behov for tilrettelegging ved den praktiske gjennomføringen av sluttvurdering, må innen fastsatt frist søke om dette. Dersom det oppstår akutte behov, kan det gjøres unntak fra søknadsfristen.\nVedlagt søknad om tilrettelegging på sluttvurdering må det følge dokumentasjon fra sakkyndig instans (f.eks. lege, logoped, psykolog) og beskrivelse av behovet for tilrettelegging.\nDet skal normalt søkes for hver sluttvurdering, men dersom grunnlaget for tilrettelegging er av permanent karakter, kan rektor fatte et vedtak som skal vare for flere perioder.\nTilrettelegging kan være enten fysisk tilrettelegging, bruk av særskilte hjelpemidler, utvidet tid, eller i spesielle tilfeller alternativ eksamensform. Eksempler på tiltak kan være skjermet eksamenslokale, bruk av digitale hjelpemidler, skrivehjelp, muntlig eksamen i stedet for skriftlig, høytlesing av oppgaven, høytlesing av besvarelsen for korrektur, innlesing av besvarelsen, spesialstol, spesialbord, ekstra pauser med mulighet for å hvile, eller ammepauser.\nNår det innvilges utvidet tid kan det gis utvidet tid med inntil 25 % av normalt tilgjengelig tid, begrenset til 1 time.\nTilrettelegging skal ikke føre til reduksjon av de faglige kravene.\nRektor fatter enkeltvedtak om tilrettelegging.",
+      "xml_path": "article#kapittel-5-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-17",
+      "provision_ref": "§ 5-17",
+      "heading": "Fusk og forsøk på fusk",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Det blir vurdert som fusk om en student benytter ulovlige hjelpemiddel under eksamen eller andre vurderingssituasjoner, eller på andre måter handler i strid med reglement for sluttvurdering og eksamen, eller regler om kildebruk bestemt av fagskolen.\nOm det under eksamener eller andre vurderingssituasjoner med tilsyn oppstår situasjoner som gjør at en student kan mistenkes for fusk, skal studenten straks gjøres oppmerksom på at forholdene vil bli rapportert til administrasjonen ved fagskolen for videre behandling. Studenten skal ha anledning til å velge om han/hun ønsker å avbryte eller fortsette eksamen eller vurderingssituasjonen. Det samme gjelder for studenter som mistenkes for å ha hjulpet andre til fusk.\nFuskesaker behandles av den lokale klagenemnda. Har en student forsettlig eller grovt uaktsomt fusket eller forsøkt å fuske kan klagenemnda fatte vedtak om å annullere eksamen eller prøven, og/eller fatte vedtak om utestenging etter reglene i fagskoleloven § 25.\nStudenten skal ha anledning til å forklare seg før saken sendes til klagenemnda. Studenten skal få begrunnelse for vedtaket som fattes.",
+      "xml_path": "article#kapittel-5-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-18",
+      "provision_ref": "§ 5-18",
+      "heading": "Sensur",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Det fremgår av studieplanen hvilken form for sensur som gjennomføres ved eksamen og andre vurderingsformer i de enkelte emner. Fagskolen i Nord bruker følgende sensurformer:Full sensur. Innebærer at intern og ekstern sensor retter alle besvarelsene på det enkelte emne.Begrenset sensur. Ekstern sensor godkjenner oppgavene og sensorveiledningene. Intern sensor gjør all sensurering. Dokumentasjon på at ekstern sensor har godkjent oppgavene og sensorveiledningen skal være skriftlig fra ekstern sensor. Dokumentasjon skal vedlegges oppgavene når de leveres til administrasjonen.Utvalg. Ekstern sensor sensurerer utvalgte kandidaters besvarelser. For eksempel at 30 av 200 besvarelser sendes til ekstern sensor, mens samtlige besvarelser sensureres av intern sensor. Ekstern sensors vurdering brukes som kalibrering av intern sensors vurdering.Løpende vurdering med karakter. Ved prøver, bedømmelser av oppgaver eller arbeid der resultatet inngår i vitnemålet eller innregnes i karakter for utdanningen er det faglærer(e) som gjennomfører vurdering og beslutter emnekarakter.\nSensur skal foreligge innen tre uker dersom ikke særlige årsaker gjør det nødvendig å bruke mer tid. Styret kan selv gjøre unntak og fastsette lengre frist om det ikke er mulig å skaffe tilstrekkelig med kvalifiserte sensorer som er nødvendig for å avvikle sensuren på tre uker.",
+      "xml_path": "article#kapittel-5-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-19",
+      "provision_ref": "§ 5-19",
+      "heading": "Oppnevning av sensorer",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Faglig pedagogisk leder innstiller til rektoratet oppnevning av sensorer for tilbudene både for løpende vurdering og eksamen. Forslaget til oppnevningen kan basere seg på en samarbeidsavtale med andre institusjoner.\nEkstern sensor skal ikke være ansatt i hel eller deltidsstilling ved Fagskolen i Nord i det gjeldende semester. Engasjerte forelesere eller seminarholdere regnes som interne den tiden de mottar lønn fra fagskolen. Rektor kan gjøre unntak fra dette ved kortvarige engasjement i tilknytning til et annet studietilbud.\nEn ekstern sensor må ha faglig kompetanse som kvalifiserer for ansettelse som lærer i det fagområdet vedkommende skal være sensor i ved Fagskolen i Nord. Ekstern sensor kan i særlige tilfeller være kvalifisert for å foreta sensur innenfor et bestemt område gjennom relevant yrkespraksis.\nVed ny sensur etter klage oppnevnes én eller flere sensorer. Minst en sensor skal være ekstern.",
+      "xml_path": "article#kapittel-5-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-20",
+      "provision_ref": "§ 5-20",
+      "heading": "Begrunnelse for karakterfastsettelse",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "En student har rett til å få en begrunnelse for karakterfastsettingen.\nHvis karakteren er gitt for en muntlig eksamen/sluttvurdering eller en bedømmelse av praktiske ferdigheter, må studenten kreve en slik begrunnelse umiddelbart etter at karakteren er formidlet.\nHvis karakteren kunngjøres elektronisk, og studenten kan kreve begrunnelsen elektronisk, må studenten kreve begrunnelse innen én uke etter at karakteren blir kunngjort.\nHvis karakteren kunngjøres på en annen måte, må studenten kreve begrunnelse innen én uke etter at studenten fikk kjennskap til karakteren, men likevel ikke senere enn tre uker etter at karakteren ble kunngjort, jf. lov om høyere yrkesfaglig utdanning § 22 første ledd.\nBegrunnelsen skal gis innen to uker etter at studenten har bedt om den. Dersom begrunnelsen ikke kan gis innen to uker, skal studenten varsles om det og samtidig få vite når begrunnelsen kan ventes. I begrunnelsen skal det gjøres rede for de generelle prinsippene som er lagt til grunn for bedømmelsen og for bedømmelsen av studentens prestasjon. Begrunnelsen kan gis muntlig eller skriftlig.\nHvis det er gitt skriftlige retningslinjer for bedømmelsen, skal studentene ha tilgang til dem etter at karakteren er fastsatt.\nDersom studenten har fremsatt krav om begrunnelse innen fristen, forlenges klagefristen og studenten kan klage innen tre uker etter å ha mottatt begrunnelsen for karakterfastsettingen. Studenter oppfordres til å be om begrunnelse før klage blir fremsatt, men det er ikke et krav.",
+      "xml_path": "article#kapittel-5-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-21",
+      "provision_ref": "§ 5-21",
+      "heading": "Vitnemål og karakterutskrift",
+      "path": [
+        "Kapittel 5. Vurdering"
+      ],
+      "text": "Fagskolen utferdiger vitnemål om fullført fagskoleutdanning.\nVitnemål utstedes til studenter som har fullført og bestått hele fagskoleutdanningen – minimum 30 studiepoeng (½ år).\nVitnemålet skal inneholde fagskolens logo, være utstedt på ark tilrettelagt for formålet og videre dokumentere:Gradsbetegnelse: Fagskolegrad (30–90 studiepoeng) eller høyere fagskolegrad (fra 120 studiepoeng), jf. forskrift om høyere yrkesfaglig utdanning § 41Det overordnede læringsutbyttetEmner og eventuell praksisKvalifikasjonsnivået som oppnås (nivå 5 i NKR og fagskole 1 eller fagskole 2)Karaktersystemet som benyttes (A–F eller bestått/ikke bestått)Antall studiepoengKarakter/karakterer.\nTittel og omtale av hovedprosjekt eller fordypningsemne skal gå fram av vitnemålet.\nVed de maritime fagskoleutdanningene skal vitnemål skrives på engelsk.\nVitnemålet undertegnes av rektor, eller den rektor har gitt fullmakt.\nSkolen utsteder kun ett vitnemål pr. studie. En avgift påløper ved bestilling av nytt vitnemål (duplikat). Avgiftens størrelse fastsettes av styret for Fagskolen i Nord.\nEn student som ikke har fullført, eller som har fullført uten å ha bestått hele utdanningen, kan be om en karakterutskrift som viser fullførte og beståtte emner.\nFor at fagskolen skal kunne utstede vitnemål, evt. annen dokumentasjon for fullført utdanning, må minst 30 av studiepoengene som skal inngå i beregningsgrunnlaget, være avlagt ved fagskolen. Det er normalt den siste fagskolen som har en student før fullført utdanningsløp, som har ansvaret for å utstede vitnemålet. Ved godskriving mellom fagskoler kan det avtales særskilte ordninger for utstedelse av vitnemål mellom de berørte fagskolene.",
+      "xml_path": "article#kapittel-5-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Bortvisning og utestenging",
+      "path": [
+        "Kapittel 6. Bortvisning, utestenging og annullering"
+      ],
+      "text": "Definisjoner:Bortvisning: Betyr at studenten kan nektes tilgang til bestemte områder eller i bestemte sammenhenger, men innebærer ikke at studenten mister retten til å få sluttvurdering.Utestenging: Innebærer at studenten mister retten til å få sluttvurdering.\nRektor og klagenemnd for opplæring kan fatte vedtak om bortvisning og/eller utestenging etter bestemmelsene i fagskoleloven § 25.\nEt vedtak om bortvising av en student skal fattes med minst to tredels flertall i den lokale klagenemnda. Rektor ved Fagskolen i Nord kan fatte midlertidig vedtak om bortvising dersom avgjørelse i saken ikke kan vente til den lokale klagenemnda kan komme sammen i møte.\nVed alvorlige forhold, som for eksempel vedtak om bortvisning eller utestenging skal studenten ha anledning til å forklare seg før saken sendes til klagenemnda. Studenten skal få begrunnelse for vedtaket som fattes.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Annullering av vedtak om opptak, godskriving, fritak eller realkompetansevurdering",
+      "path": [
+        "Kapittel 6. Bortvisning, utestenging og annullering"
+      ],
+      "text": "Den lokale klagenemnden kan annullere vedtak fattet av Fagskolen i Nord om opptak, godkjent realkompetanse, godskriving og/eller fritak, dersom en student er blitt tatt opp til utdanningen ved hjelp av falske vitnemål eller andre falske dokumenter eller har opptrådt uredelig eller utilbørlig på annen måte.\nAnledningen til annullering blir ikke foreldet.\nStudenten kan klage på vedtak om annullering til Nasjonal klagenemnd for fagskoleutdanning jf. kapittel 10 i denne forskrift.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Annullering av eksamen eller sluttvurdering",
+      "path": [
+        "Kapittel 6. Bortvisning, utestenging og annullering"
+      ],
+      "text": "Den lokale klagenemnden kan annullere resultatet av en eksamen/sluttvurdering dersom en student har fusket jf. § 5-17 eller en student er blitt tatt opp til utdanningen ved hjelp av falske vitnemål eller annen form for uredelig oppførsel.\nAnledningen til annullering blir ikke foreldet.\nEtter avgjørelse om annullering er fattet skal eventuelt vitnemål eller karakterutskrift leveres tilbake til fagskolen. Om vitnemål eller karakterutskrift ikke blir levert tilbake til skolen i rett tid, kan skolen kreve hjelp fra namsmannen i samsvar med reglene i tvangsfullbyrdelsesloven kap. 13. Dersom vitnemålet danner grunnlag for autorisasjon for yrkesutøving, skal fagskolen gi melding om annullering til vedkommende myndighet.\nFør det fattes vedtak om annullering skal studenten ha anledning til å forklare seg. Studenten skal få begrunnelse for vedtaket som fattes.\nAnnullering av eksamen eller sluttvurdering er et enkeltvedtak, og studenten kan klage på vedtaket til Nasjonal klagenemnd for fagskoleutdanning. Jf. kapittel 10 i denne forskrift.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Klageinstanser",
+      "path": [
+        "Kapittel 7. Klage og klagebehandling"
+      ],
+      "text": "Den lokale klagenemnden for Fagskolen i Nord oppnevnes av styret og består av fem medlemmer med personlige varamedlemmer. Leder og varamedlem for leder skal fylle de lovfestede kravene for lagdommere og ikke være ansatt ved fagskolen. Alle medlemmer skal ha personlig varamedlem som oppfyller samme krav. Klagenemnden er vedtaksfør når lederen eller nestlederen og minst to andre medlemmer er til stede.\nKlagenemnda skal ha slik sammensetning:en lederett medlem med fagskoleadministrativ kompetanseett medlem som er fagskolelærerto studenter.\nDen lokale klagenemnden for Fagskolen i Nord behandler klager på alle enkeltvedtak som er gjort ved fagskolen, med unntak av de nevnt i femte ledd og klager på karakterfastsetting jf. § 5-22 i denne forskriften.\nVedtakskompetansen i følgende saker som ikke er klagesaker er delegert til den lokale klagenemnda:vedtak om annullering av eksamen eller prøve jf. fagskoleloven § 24vedtak bortvisning og utestenging jf. fagskoleloven § 25vedtak om vurdering av skikkethet § 26Vedtak om utestenging som følge av merknad i politiattest jf. fagskoleloven § 27.\nFølgende klager skal behandles av den nasjonale klagenemnda:fagskoleloven § 7 tredje ledd om inndragning, annullering og karantenetidfagskoleloven § 16 om opptak gjennom samordnet opptak, unntatt fagskolenes opptaksvedtak om realkompetanse jf. § 7 første ledd eller spesielle opptakskrav jf. § 7 femte leddfagskoleloven § 16a tredje ledd om inndragning, annullering og karantenetidfagskoleloven § 24 om annullering av eksamen eller prøvefagskoleloven § 25 om bortvisning og utestengingfagskoleloven § 26 om vurdering av skikkethetfagskoleloven § 27 om politiattest.\nDen nasjonale klagenemndas vedtak kan ikke påklages, jf. forskrift om høyere yrkesfaglig utdanning § 45 fjerde ledd.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Klagefrist og framgangsmåte for klage",
+      "path": [
+        "Kapittel 7. Klage og klagebehandling"
+      ],
+      "text": "Studenten må sende klagen senest tre uker etter at vedtaket eller karakter er gjort kjent, eller studenten burde ha gjort seg kjent med vedtaket.\nDersom det er fremsatt krav om begrunnelse for karakterfastsettingen, løper klagefristen fra studenten har fått begrunnelsen. Årlig søknadsfrist for studier ved fagskolen er 15. april hvis ikke annet er oppgitt i utlysningen av aktuelt studium.\nSøknad skal sendes via Samordna Opptak.\nSøknader om opptak til lokalt utlyste studier sendes Fagskolen i Nord sammen med dokumentasjonen innen utlyst frist. Fagskolen vurderer/godkjenner søkerens kompetanse.\nDersom det er fremsatt klage på karakterfastsettingen eller klage over formelle feil på eksamen, prøve eller lignende, løper klagefristen på andre klager på samme karakterfastsetting fra det tidspunkt det foreligger en endelig avgjørelse av den klage som ble sendt inn først.\nKlagen skal være skriftlig og sendes til fagskolen sitt postmottak (e-post eller brev).\nDen skriftlige klagen skal inneholde:hvem som klager (navn og adresse)hva klagen gjeldervedtak/forhold det klages overdato og underskrift/er.\nStudenten skal få svar på klagen senest innen tre uker etter at fagskolen mottok klagen. Dersom klagebehandlingen tar lengre tid, skal klager underrettes om dette skriftlig.\nKlager på karakterfastsetting behandles etter § 7-3. Alle andre klager skal behandles av den avdelingen ved Fagskolen som fattet vedtaket som førsteinstans. Dersom førsteinstans gir medhold i klagen fattes nytt vedtak og saken ender der. Dersom førsteinstans ikke gir medhold, skal klagen forberedes og sendes videre til enten lokal klagenemnd for Fagskolen i Nord eller nasjonal klagenemnd, se § 7-1.\nBehandling av klagen kan føre til at vedtaket opprettholdes eller at vedtaket oppheves og nytt vedtak fattes. Endringer etter klage kan gjøres både til gunst og ugunst for klager.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Klage på karakterfastsetting",
+      "path": [
+        "Kapittel 7. Klage og klagebehandling"
+      ],
+      "text": "Studenter kan klage på karakterfastsettingen av sluttvurderinger. Det er ikke mulig å klage på underveisvurderinger.\nVed klage på karakterfastsetting skal det gjennomføres en ny sensur eller ny vurdering. Ny sensur vurderes av en ekstern sensor oppnevnt av rektor etter innstilling fra faglig pedagogisk leder. Ny vurdering skal gjøres av en annen faglig kvalifisert person enn den som satte den første karakteren.\nEkstern sensor skal gis tilgang til det vurderingsgrunnlaget som er definert i studieplanen. Ved ny sensur skal sensorene ikke få kjennskap til opprinnelig karakter, sensors begrunnelse for denne eller studentens begrunnelse for klagen.\nOm en karakter er fastsett på bakgrunn av både skriftlig og muntlig prøve, og karakteren blir endret etter ny sensur av den skriftlige delen, skal det gjennomføres ny muntlig prøve for å fastsette endelig karakter.\nEn student kan ikke klage på en bedømmelse av en muntlig prestasjon, en vurdering av praksisstudier eller lignende som etter sin art ikke lar seg etterprøve.\nHvis karakterfastsettingen av et emne fortsatt vurderes til karakteren F eller ikke bestått etter ny sensur må emnet eller deler av emnet gjennomføres på nytt.\nKarakterfastsetting ved ny sensur er endelig og kan ikke påklages.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Klage på formelle feil ved eksamen, prøve eller liknende",
+      "path": [
+        "Kapittel 7. Klage og klagebehandling"
+      ],
+      "text": "Studenter som har vært oppe til eksamen, prøve eller annet arbeid som bedømmes med karakter, kan klage på formelle feil.\nSensurvedtaket skal oppheves hvis det er begått feil som kan ha hatt betydning for studentens prestasjon eller bedømmelsen av denne.\nDersom klager får medhold i klageinstansene og bedømmelsen annulleres, skal det gjennomføres ny sensur eller ny vurdering så fremt feilen kan rettes opp ved ny sensur eller ny vurdering av innleverte arbeider. Dersom det ikke er mulig å gjennomføre ny sensur eller ny vurdering skal det avholdes ny eksamen, prøve eller lignende med nye sensorer.\nKarakterfastsetting ved ny sensur etter denne paragrafen kan påklages etter § 7-3.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Endringer i forskriften",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Styret ved Fagskolen i Nord har rett til å gjøre endringer i denne forskriften slik at den er i tråd med gjeldende lover og tilhørende forskrifter, samt krav som er framsatt av Nasjonalt organ for kvalitet i utdanningen (NOKUT), Sjøfartsdirektoratet eller andre nasjonale og internasjonale bestemmelser.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft fra 1. august 2025.\nSamtidig oppheves forskrift 20. januar 2022 nr. 180 for høyere yrkesfaglig utdanning ved Fagskolen i Nord.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2015-12-11-101",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om intelligente transportsystemer innenfor vegtransport m.m. (ITS-loven)",
+  "short_title": "ITS-loven",
+  "department": "Samferdselsdepartementet",
+  "legal_area": "Transport og kommunikasjoner > Transport Transport og kommunikasjoner > Veitrafikk",
+  "date_in_force": "2015-12-11",
+  "lovdata_refid": "lov/2015-12-11-101",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2015-12-11-101",
+  "raw_xml_sha256": "9f1f12d6ac8c190fb8a48f5244e86b21d8ec74712bcf9a5fb155fb0ce929d13e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens formål",
+      "path": [],
+      "text": "Loven skal sikre at intelligente transportsystemer innenfor vegtransport og for grensesnitt mot andre transportformer skal fungere koordinert og sammenhengende.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Loven gjelder ITS-applikasjoner og -tjenester innenfor vegtransport og deres grensesnitt mot andre transportformer innenfor EØS-området. Loven gjelder for Svalbard i den utstrekning Kongen bestemmer.\nLoven gjelder ikke for saker som omhandler nasjonal sikkerhet eller som er nødvendige av forsvarshensyn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne loven betyr:intelligente transportsystemer (ITS): systemer for anvendelse av informasjons- og kommunikasjonsteknologi for vegtransport, herunder infrastruktur, kjøretøy og brukere, og innenfor trafikkstyring og mobilitetsstyring, samt for grensesnitt mot andre transportformer,ITS-applikasjon: et praktisk verktøy for anvendelsen av ITS,ITS-tjeneste: fremskaffelse av en ITS-applikasjon innenfor en veldefinert organisatorisk og driftsmessig ramme med sikte på å øke brukerens sikkerhet, effektivitet og komfort og/eller forenkle eller understøtte transporter og reiser,grensesnitt: innretning mellom systemer som muliggjør forbindelse og kommunikasjon mellom systemene,samvirkningsevne: den evne systemene og de underliggende forretningsprosessene har til å utveksle data og dele informasjon og kunnskap,kontinuitet: evnen til å sikre sømløse tjenester,kompatibilitet: en innretnings eller et systems generelle evne til uten endringer å fungere sammen med en annen innretning eller et annet system,ITS-bruker – alle brukere av ITS-applikasjoner eller -tjenester, herunder passasjerer, myke trafikanter, brukere og operatører av veitransportinfrastruktur, vognparkforvaltere og operatører av redningstjenester.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til ITS-applikasjoner og -tjenester",
+      "path": [],
+      "text": "Departementet fastsetter ved forskrift de krav til kompatibilitet, samvirkningsevne og kontinuitet som ITS-applikasjoner og -tjenester skal oppfylle.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsyn",
+      "path": [],
+      "text": "Departementet bestemmer hvilken myndighet som skal føre tilsyn med bestemmelser gitt i eller i medhold av loven her. Departementet kan i forskrift gi regler om tilsynsmyndighetens virksomhet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Erstatningsansvar",
+      "path": [],
+      "text": "Departementet kan i forskrift regulere spørsmål om erstatningsansvar ved innføring av ITS-applikasjoner og tjenester.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Departementet kan gi forskrifter til utfylling og gjennomføring av loven, samt gjøre unntak fra denne.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft straks, med mindre Kongen beslutter at hele eller deler av loven skal tre i kraft på et senere tidspunkt.\nLoven får ikke anvendelse på kjøretøy som er typegodkjent eller tatt i bruk før lovens ikrafttredelse, med mindre Kongen bestemmer at loven likevel skal få anvendelse på slike kjøretøy. Kongen kan gi nærmere overgangsregler dersom loven gis anvendelse på kjøretøy som nevnt i første punktum.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

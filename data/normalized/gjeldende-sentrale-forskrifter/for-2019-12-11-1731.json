@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2019-12-11-1731",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning av samlet selvkost for kommunale og fylkeskommunale gebyrer (selvkostforskriften)",
+  "short_title": "Selvkostforskriften",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2020-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-09-12-1858 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2019-12-11-1731",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-12-11-1731",
+  "raw_xml_sha256": "e482ebe867b718283bf6ce37cde29f04f9e764a757be20e27510d619219e37a1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Saklig virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for beregningen av samlet selvkost for et tjenesteområde når det er fastsatt i lov eller forskrift at kommunens eller fylkeskommunens gebyrer ikke skal være større enn kostnadene ved å yte tjenesten, jf. kommuneloven § 15-1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Selvkost",
+      "path": [],
+      "text": "Selvkost er kostnadene som direkte og indirekte gjelder produksjonen av tjenesten som det skal betales gebyr for, og omfatter både faste og variable drifts- og kapitalkostnader. Kostnader som påløper uavhengig av tjenesten, skal ikke inngå i selvkost.\nInntekter som knytter seg til kostnader som omfattes av selvkost, skal trekkes fra.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Beregningsgrunnlaget",
+      "path": [],
+      "text": "Beregningsgrunnlaget for selvkost er regnskapsførte utgifter eller kostnader og regnskapsførte inntekter, så langt ikke noe annet følger av forskriften her.\nHvis kommunen eller fylkeskommunen kjøper hele eller deler av selvkosttjenesten i markedet, er det den avtalte prisen som skal inngå i selvkost.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Direkte og indirekte driftskostnader",
+      "path": [],
+      "text": "Direkte driftskostnader omfatter kostnader til arbeid, varer og tjenester som brukes for å produsere og yte selvkosttjenesten.\nIndirekte driftskostnader omfatter kostnader til stabs- og støttetjenester, fellestjenester og kontrollfunksjoner som utfyller eller understøtter selvkosttjenesten. Andelen indirekte driftskostnader som tilordnes selvkost, skal gjenspeile selvkosttjenestens bruk av disse tjenestene og funksjonene.\nKostnader til administrativ ledelse, folkevalgte organer etter kommuneloven § 5-1 eller eierorganer skal ikke inngå i selvkost.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Direkte og indirekte kapitalkostnader",
+      "path": [],
+      "text": "Kapitalkostnader omfatter avskrivninger og nedskrivninger av varige driftsmidler, reversering av nedskrivninger og beregnete rentekostnader.\nAvskrivningene skal beregnes ut fra prisen på anskaffelsestidspunktet fratrukket byggelånsrenter og anleggsbidrag og andre inntekter som knytter seg til investeringsutgiftene.\nAvskrivningene skal foretas planmessig over den utnyttbare levetiden til det varige driftsmidlet. Den utnyttbare levetiden kan settes lik avskrivningsperioden i virksomhetens årsregnskap. Tomter og andre varige driftsmidler som ikke avskrives i virksomhetens årsregnskap, kan avskrives over en kortere periode enn den egentlige utnyttbare levetiden.\nRentekostnadene skal beregnes ut fra årets gjennomsnittlige restverdi på de varige driftsmidlene og kalkylerenten. Kalkylerenten er lik årets gjennomsnittlige 3-måneders NIBOR med et tillegg på 0,7 prosentpoeng.\nIndirekte kapitalkostnader for tjenester og funksjoner som nevnt i § 4 andre ledd første punktum skal enten tilordnes selvkost på samme måte som indirekte driftskostnader etter § 4 andre ledd andre punktum, eller settes lik 5 prosent av de indirekte driftskostnadene etter fratrekk for inntekter som nevnt i § 2 andre ledd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Salg og utrangering av varige driftsmidler",
+      "path": [],
+      "text": "Hvis et varig driftsmiddel selges, skal differansen mellom salgssummen og driftsmidlets restverdi inngå i selvkost som en inntekt eller kostnad.\nHvis et varig driftsmiddel utrangeres, skal en eventuell restverdi inngå i selvkost som en nedskrivning.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Korrigering av tidligere års feil",
+      "path": [],
+      "text": "Hvis det avdekkes en vesentlig feil i beregningen av samlet selvkost for et tidligere år og feilen har vært til ugunst for brukerne av tjenesten, skal virkningen av feilen tas inn i selvkost som en inntekt.\nHvis en feil fra tidligere år har vært til gunst for brukerne, skal virkningen av feilen ikke tas inn i selvkost som en kostnad. Dette gjelder ikke for avfallsgebyrer etter forurensningsloven § 34 første ledd.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Håndtering av overskudd og underskudd",
+      "path": [],
+      "text": "Årets samlete selvkost beregnet etter § 2 til § 7 utgjør årets gebyrgrunnlag. Kommunestyret og fylkestinget kan bestemme at gebyrgrunnlaget i stedet skal utgjøre en andel av samlet selvkost, så langt dette ikke strider med annen lov eller forskrift.\nHvis differansen mellom årets gebyrinntekter og årets gebyrgrunnlag viser et overskudd, skal overskuddet dekke inn et underskudd fra tidligere år. Et overskudd som ikke dekker inn et underskudd, skal avsettes til et selvkostfond i selvkostregnskapet. Et overskudd som er avsatt til selvkostfondet, skal tilbakeføres ved å finansiere et fremtidig underskudd senest i det femte året etter at overskuddet oppsto.\nHvis differansen mellom årets gebyrinntekter og årets gebyrgrunnlag viser et underskudd, skal underskuddet dekkes inn ved å bruke av selvkostfondet, så lenge det er tilgjengelige midler på fondet. Et underskudd som ikke dekkes inn ved å bruke av selvkostfondet, skal fremføres i selvkostregnskapet til inndekning i et senere år. Et underskudd som er fremført, skal dekkes inn av et fremtidig overskudd senest i det femte året etter at underskuddet oppsto. Et underskudd kan likevel fremføres ut over fem år, hvis dette er nødvendig for at brukerne ikke skal betale for fremtidig bruk av gjennomførte investeringer.\nTredje ledd andre til fjerde punktum gjelder ikke for gebyrer etter plan- og bygningsloven, eierseksjonsloven eller matrikkellova.\nVed årets slutt skal det legges til beregnete renteinntekter på et selvkostfond. Renteinntektene skal beregnes ut fra årets gjennomsnittlige beholdning på fondet og kalkylerenten i § 5 fjerde ledd.\nHvis det følger av lov eller forskrift at gebyrene skal være lik selvkost, skal det ved årets slutt legges til beregnete rentekostnader på et fremført underskudd. Første punktum gjelder også hvis kommunestyret eller fylkestinget har bestemt at gebyrgrunnlaget skal utgjøre en bestemt andel av selvkost. Rentekostnadene skal beregnes ut fra årets gjennomsnittlige fremførte underskudd og kalkylerenten i § 5 fjerde ledd.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Dokumentasjon av selvkostberegningen",
+      "path": [],
+      "text": "Kommunen eller fylkeskommunen skal ha dokumentasjon av hvordan beregningen av samlet selvkost er gjort.\nDokumentasjonen skal oppbevares i minst fem år.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2020.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

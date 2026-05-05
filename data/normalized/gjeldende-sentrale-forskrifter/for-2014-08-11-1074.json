@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2014-08-11-1074",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra plikten til å sørge for oppholdsrom for dyr",
+  "short_title": "Forskrift om unntak fra plikt om oppholdsrom for dyr",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2014-08-11",
+  "lovdata_refid": "forskrift/2014-08-11-1074",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-08-11-1074",
+  "raw_xml_sha256": "e56ce4e900cf65a405a6b464d0d88c25ceb23705ce29fd9fda4176bff5d1b94a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Påbudet om at dyr i dyrehold skal ha adgang til egnet og trygt tilholdsrom, jf. dyrevelferdslovens § 23 annet ledd, gjelder ikke for tamrein.\nFor øvrig kan Mattilsynet etter søknad gi dispensasjon fra påbudet for nærmere angitte dyreslag, områder og årstider.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Det er et vilkår for dispensasjon at:de klimatiske og geografiske forhold i området ikke utsetter vedkommende dyreslag for fare for å bli påført unødige lidelser,terrengforhold og/eller vegetasjon og/eller kunstige innretninger kan gi vedkommende dyreslag tilstrekkelig beskyttelse mot vær og vind.\nGitt dispensasjon fritar ikke for plikten til å sørge for at dyrene får tilsyn og stell som omhandlet i dyrevelferdsloven § 24.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Søknad om dispensasjon skal gi opplysninger om hvilket dyreslag og geografisk område søknaden gjelder, og andre opplysninger som er av betydning for eventuell dispensasjon, jf. § 2 i disse forskrifter.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

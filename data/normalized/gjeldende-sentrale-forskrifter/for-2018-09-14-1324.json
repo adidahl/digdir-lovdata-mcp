@@ -1,0 +1,338 @@
+{
+  "id": "FOR-2018-09-14-1324",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tiltak mot hvitvasking og terrorfinansiering (hvitvaskingsforskriften)",
+  "short_title": "Hvitvaskingsforskriften",
+  "department": "Finansdepartementet",
+  "date_in_force": "2018-10-15",
+  "last_change_in_force": "2026-02-06",
+  "last_changed_by": "forskrift/2026-01-29-110 fra 2026-02-06",
+  "lovdata_refid": "forskrift/2018-09-14-1324",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-09-14-1324",
+  "raw_xml_sha256": "6fb0ef8a2a6333bffe131bf465ad33c987b374f67860048e4b3a483be188d908",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for rapporteringspliktige etter hvitvaskingsloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Agenter for utenlandske betalingsforetak",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "(1) Hvitvaskingslovens kapittel 4 og 5 og § 40 og § 52 gjelder for agenter for betalingsforetak fra andre EØS-land, som er etablert i Norge.(2) Finanstilsynet fører tilsyn med agenter for utenlandske betalingsforetaks overholdelse av bestemmelsene i første ledd.(3) Finanstilsynet kan ved alvorlige overtredelser gi pålegg mv. etter hvitvaskingsloven § 47. Finanstilsynet kan i slike tilfeller også pålegge agentene midlertidig stans av virksomhet i Norge.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Unntak fra hvitvaskingsloven for særskilte tilbydere av spilltjenester",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "(1) Hvitvaskingsloven gjelder ikke for følgende spilltjenester:pengespill med tillatelse etter pengespillforskriften § 43bingo med tillatelse etter pengespillforskriften § 59, der organisasjonen tilbyr bingo på egen hånd uten medhjelperbingo i lokalradiostasjon eller lokalfjernsynsstasjon med tillatelse etter pengespillforskriften § 72.(2) Hvitvaskingsloven kommer likevel til anvendelse for tilfeller regulert i første ledd bokstav b der flere organisasjoner sammen gis tillatelse til databingo, jf. pengespillforskriften § 59.(3) Lotteritilsynet kan etter søknad gi unntak fra hvitvaskingsloven for pengespill med tillatelse etter pengespillforskriften § 54 i de tilfeller lotteriene utgjør en beviselig lav risiko for hvitvasking og terrorfinansiering. Søknad kan inngis i forbindelse med Lotteritilsynets utlysning av tilgjengelige tillatelser etter bestemmelsen nevnt i punktumet foran. En klage på avslag på søknad om unntak etter første punktum behandles av Finansdepartementet, uavhengig av bestemmelsen i pengespillforskriften § 55.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Etablering av kundeforhold",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Kundeforhold skal anses etablert når kunden kan bruke den rapporteringspliktiges tjenester, for eksempel ved opprettelse av konto eller utstedelse av betalingskort.(2) Statsautoriserte og registrerte revisorer anses for å ha etablert et kundeforhold når de har påtatt seg et oppdrag, herunder rådgivning og andre tjenester, eller sendt revisorerklæring til Foretaksregisteret, jf. foretaksregisterloven § 4-4.(3) Statsautoriserte regnskapsførere anses for å ha etablert et kundeforhold når de har inngått skriftlig oppdragsavtale med oppdragsgiver eller oppdrag som forutsetter skriftlig avtale, jf. regnskapsførerloven § 5-2.(4) Advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp anses for å ha etablert et kundeforhold når de har påtatt seg et oppdrag som nevnt i hvitvaskingsloven § 4 annet ledd bokstav c. Advokater og andre som ervervsmessig eller stadig yter selvstendig rettshjelp anses i alle tilfeller for å ha påtatt seg et oppdrag som nevnt i første punktum når oppdragsbekreftelse er sendt klienten.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-1a",
+      "heading": "Plikt til å gjennomføre kundetiltak når det ikke er etablert kundeforhold",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Pengeoverføringer omfattet av hvitvaskingsloven § 10 første ledd bokstav b nr. 2 erbetalingstjenester i finansavtaleloven § 1-5 første ledd,transaksjoner i kryptoeiendeler når verdien tilsvarer 8 000 kroner eller mer.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-2",
+      "heading": "Unntak fra kundetiltak",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Plikten til å foreta kundetiltak etter hvitvaskingsloven § 10 første ledd bokstav a og b gjelder ikke vedtegning av skadeforsikringspoliser, herunder reiseforsikringspoliser, og kredittforsikringspoliser,utstedelse av elektroniske penger, forutsatt at det er foretatt en risikovurdering som viser at betalingsinstrumentet har lav risiko, ogbetalingsinstrumentet ikke kan lades opp, eller har en maksimal månedlig betalingstransaksjonsgrense på 150 euro som bare kan benyttes i Norge,det høyeste elektronisk lagrede beløpet er 150 euro,betalingsinstrumentet kun benyttes til kjøp av varer og tjenester,betalingsinstrumentet ikke kan finansieres med anonyme elektroniske penger, ogutstederen utfører tilstrekkelig overvåking av transaksjoner og forretningsforbindelser til å kunne avdekke usedvanlige og mistenkelige transaksjoner.(2) Unntak fra krav til kundetiltak som nevnt i første ledd bokstav b gjelder ikke ved innløsning eller uttak av kontanter eller foretatt et kontantuttak på beløp høyere enn 50 euro, eller det er foretatt én betalingstransaksjon på mer enn EUR 50 over internett eller gjennom medium som kan brukes for fjernkommunikasjon.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-2a",
+      "heading": "Unntak fra visse kundetiltak ved produkter knyttet til offentlige ytelser",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Plikten til å bekrefte disponenters identitet ved gyldig legitimasjon etter hvitvaskingsloven § 13 første ledd jf. § 12 første ledd gjelder ikke når:Kunden er offentlig myndighet eller andre som på oppdrag og på vegne av offentlig myndighet utbetaler ytelser fra det offentlige,produktet som disponeres er sperret for andre innbetalinger enn overføring av ytelser fra det offentlige, og kun kan anvendes for betalinger, pengeoverføring og uttak i Norge, ogoffentlig myndighet har gjennomført tiltak for å bekrefte disponentens identitet og at disponenten ikke har egen bankkonto eller mulighet til å skaffe seg bankkonto.(2) Der vilkårene etter første ledd er oppfylt, gjelder heller ikke plikten etter hvitvaskingsloven § 13 fjerde ledd til å avgjøre om disponenten er politisk eksponert person eller nært familiemedlem eller kjent medarbeider til en politisk eksponert person.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-3",
+      "heading": "Gyldig legitimasjon for fysiske personer",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Gyldig legitimasjon for fysiske personer ved personlig fremmøte er original av dokumenter somer utstedt av offentlig myndighet eller av annet organ som har betryggende kontrollrutiner for dokumentutstedelse, og dokumentene har et tilfredsstillende sikkerhetsnivå,inneholder fullt navn, navnetrekk, fotografi, ogfødselsnummer eller D-nummer.(2) For person som ikke har norsk fødselsnummer eller D-nummer, skal legitimasjonsdokument, i tillegg til kravene som følger av første ledd, inneholde fødselsdato, fødested, kjønn og statsborgerskap.(3) Krav om navnetrekk gjelder ikke for pass.(4) Elektronisk signatur er gyldig legitimasjon for fysisk person når identiteten ikke skal bekreftes ved personlig fremmøte. Elektronisk signatur må tilfredsstille kravene til eID-ordning i forskrift 21. november 2019 nr. 1578 om selvdeklarasjon av ordninger for elektronisk identifikasjon § 3 og være oppført på publisert liste i henhold til § 13 første ledd i nevnte forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-4",
+      "heading": "Kundetiltak for kunder som ikke er fysiske personer, som ennå ikke er registrert i offentlig register. Etterfølgende innhenting av utskrift eller firmaattest",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) For kunder som ikke er fysiske personer, som ennå ikke er registrert i et norsk offentlig register, skal rapporteringspliktige innhente dokumentasjon for at personen eksisterer og skriftlig erklæring fra fysisk person som representerer kunden om at innhentede opplysninger om den juridiske personen er riktige.(2) Ved bekreftelse av opplysninger som beskrevet i hvitvaskingsloven § 13 annet ledd første punktum for juridisk person underlagt frist for registrering i offentlig register, skal rapporteringspliktig innhente utskrift eller firmaattest fra offentlig register innen fire uker etter registrering eller utløpet av fristen for registrering.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-4a",
+      "heading": "Forsikringsavtaler omfattet av hvitvaskingsloven § 15",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Kravene til kundetiltak etter hvitvaskingsloven § 15 første og annet ledd gjelder også for medlemmer i kollektive livsforsikringer med frivillig innmelding, jf. forsikringsavtaleloven § 19-2, og panthavere i livsforsikring, jf. forsikringsavtaleloven § 15-8.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-5",
+      "heading": "Utkontraktering til rapporteringspliktiges distribusjonsapparat og leveringspliktige tilbydere av posttjenester",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Oppdragstakere som utfører tjenester på vegne av eller for rapporteringspliktig når disse inngår som ledd i den rapporteringspliktiges distribusjonsapparat, anses å være del av rapporteringspliktige etter hvitvaskingsloven § 23. Det samme gjelder leveringspliktige tilbydere av posttjenester. Utkontrakteringen etter første og annet punktum er begrenset til å gjelde identitetsbekreftelse så lenge oppdragstaker ikke selv er rapporteringspliktig. For øvrig gjelder kravene i hvitvaskingsloven § 23 for utkontrakteringen.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-6",
+      "heading": "Lav risiko for hvitvasking og terrorfinansiering – forenklede kundetiltak",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) I situasjoner der rapporteringspliktig vurderer at det er lav risiko for hvitvasking og terrorfinansiering, kan omfanget av kundetiltak reduseres.(2) Ved vurderingen kan følgende momenter gi en indikasjon på at risikoen for hvitvasking og terrorfinansiering er lav:Risikomomenter knyttet til typen kunde:selskaper notert på regulert marked som er underlagt informasjonsplikt som sikrer tilstrekkelig kunnskap om reelle rettighetshavere,offentlige forvaltningsorganer eller selskaper, ogkunder som er bosatt i stater som anses å innebære lavere risiko.Risikomomenter knyttet til typen produkt, transaksjon, tjenesteytelse eller leveringskanal:livsforsikring der den årlige premien er lav,pensjonsforsikringspoliser som ikke har en gjenkjøpsklausul og ikke kan brukes til sikkerhetsstillelse,pensjonsordninger eller lignende ordninger for ansatte, hvis bidragene innbetales som fratrekk i lønn og reglene for ordningen ikke tillater overdragelse av et medlems rettigheter i henhold til ordningen,begrensede finansielle produkter eller tjenester som gis til visse kundegrupper med det formål å fremme finansiell inkludering, ogprodukter hvor risikoen for hvitvasking og terrorfinansiering styres av andre faktorer som beløpsgrenser eller gjennomsiktighet med hensyn til eierskap.Geografiske risikomomenter:EØS-stater,tredjeland som er identifisert som land som har gjennomført tilfredsstillende og effektive tiltak for å bekjempe hvitvasking og terrorfinansiering, ogtredjeland som er identifisert som land med lavt nivå av korrupsjon og annen kriminalitet.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 4-7",
+      "heading": "Forenklede kundetiltak overfor disponenter og personer som kan handle på vegne av kunden",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Når rapporteringspliktige kan anvende forenklede kundetiltak etter hvitvaskingsloven § 16, kan også krav til å bekrefte identiteten til personer som handler på vegne av kunden eller er gitt disposisjonsrett over en konto eller et depot, lempes.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-11",
+      "provision_ref": "§ 4-8",
+      "heading": "Kundetiltak for kontoer som mottar midler fra flere personer (klientkontoer)",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Banker og kredittforetak skal, for kunder som har kontoer med midler fra flere personer (klientkontoer), anse kundens underliggende klienter som reelle rettighetshavere for kontoene. Banker og kredittforetak kan likevel unnlate å identifisere og bekrefte identiteten til reelle rettighetshavere for kontoer nevnt i første punktum, forutsatt atkunden som fører kontoen er underlagt regler om tiltak mot hvitvasking og terrorfinansiering i samsvar med internasjonale standarder,det føres tilsyn med overholdelsen av disse kravene, ogopplysninger om identiteten til reelle rettighetshavere på anmodning er tilgjengelige for banken eller kredittforetaket.",
+      "xml_path": "article#kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-12",
+      "provision_ref": "§ 4-9",
+      "heading": "Høy risiko for hvitvasking og terrorfinansiering – forsterkede kundetiltak",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Ved vurderingen av om det er høyere risiko for hvitvasking eller terrorfinansiering, jf. hvitvaskingsloven § 9 og § 17, kan følgende momenter gi en indikasjon på at risikoen for hvitvasking og terrorfinansiering er høy:Risikomomenter knyttet til typen kunde:det er uvanlige omstendigheter knyttet til kundeforholdet,kunder er bosatt i områder som anses å innebære høyere risiko, jf. bokstav c,juridiske personer eller juridiske arrangementer som er personlige formuesforvaltningsselskaper,selskaper som har forvalterregistrerte aksjonærer eller ihendehaveraksjer,kontantbaserte virksomheter, ogselskaper der eierstrukturen synes uvanlig eller unødvendig kompleks ut fra virksomhetens art.Risikomomenter knyttet til typen produkt, transaksjon, tjenesteytelse eller leveringskanal:«private banking»,produkter og transaksjoner som fremmer anonymitet,kundeforhold eller transaksjoner som opprettes og utføres uten personlig oppmøte, uten at tiltak som elektronisk signatur benyttes,betalinger fra ukjente tredjeparter, ognye produkter og tjenester, inkludert nye leveringsmekanismer og bruk av ny teknologi for utvikling av nye og eksisterende produkter.Geografiske risikomomenter:land som er identifisert som land som har ikke gjennomført tilfredsstillende og effektive tiltak for å bekjempe hvitvasking og terrorfinansiering,land som er identifisert som land med betydelig omfang av korrupsjon og annen kriminalitet,land som er underlagt sanksjoner, embargo eller lignende tiltak av FN eller EU, ogland som finansierer eller støtter terrorvirksomhet eller der kjente terrororganisasjonen opererer i landet.",
+      "xml_path": "article#kapittel-4-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-13",
+      "provision_ref": "§ 4-10",
+      "heading": "Særlige tiltak overfor høyrisikoland",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) EØS-avtalen vedlegg IX nr. 23bb (delegert kommisjonsforordning (EU) 2016/1675 om høyrisikoland med strategiske mangler, som endret av delegert kommisjonsforordning (EU) 2018/105, delegert kommisjonsforordning (EU) 2018/212, delegert kommisjonsforordning (EU) 2018/1467, delegert kommisjonsforordning (EU) 2020/855, delegert kommisjonsforordning (EU) 2021/37, delegert kommisjonsforordning (EU) 2022/229, delegert kommisjonsforordning (EU) 2023/410, delegert kommisjonsforordning (EU) 2023/1219, delegert kommisjonsforordning (EU) 2023/2070, delegert kommisjonsforordning (EU) 2024/163, delegert kommisjonsforordning (EU) 2025/1184, delegert kommisjonsforordning (EU) 2025/1393, delegert kommisjonsforordning (EU) 2026/46 og delegert kommisjonsforordning (EU) 2026/83) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.(2) Departementet kan ved enkeltvedtak gjøre forpliktelsene etter første ledd gjeldende for andre land.(3) Med hensyn til kundeforhold og transaksjoner som involverer stater omfattet av første og andre ledd, skal det minimum gjennomføres følgende forsterkede kundetiltak:innhente ytterligere informasjon om kunden og reelle rettighetshavere,innhente ytterligere informasjon om kundeforholdets eller transaksjonens formål og tilsiktede art,innhente ytterligere informasjon om midlenes opprinnelse,innhente ytterligere informasjon om bakgrunnen for den planlagte eller gjennomførte transaksjonen,gjennomføre forsterket løpende oppfølging,ha et høyere antall og utvidet omfang på kontroller,gjennomføre forsterket transaksjonsovervåking,innhente godkjenning fra ledelsen i) ved etablering av kundeforholdet, eller ii) for fortsettelsen av kundeforholdet på det tidspunkt kundeforholdet omfattes av første eller andre ledd.(4) Tilsynsmyndighet som nevnt i hvitvaskingsloven § 43 kan fatte enkeltvedtak om virksomhet som har tilknytning til høyrisikoland. Enkeltvedtaket kan inneholdeforbud om å etablere datterforetak, filial eller representasjonskontor i Norge når søker har tilknytning til et høyrisikoland,forbud for en norsk rapporteringspliktig om å etablere filial eller representasjonskontor i et høyrisikoland,ileggelse av utvidede krav til eksternrevisjon for filial eller datterforetak i høyrisikoland,ileggelse av utvidede krav til eksternrevisjon overfor konsern som har filialer eller datterforetak i høyrisikoland,pålegg om at rapporteringspliktige skal gjøre endringer i eller avvikle korrespondentrelasjoner i høyrisikoland.(5) Dersom tredjepart som nevnt i hvitvaskingsloven § 22 er etablert i stat nevnt i første ledd, kan ikke rapporteringspliktig legge til grunn kundetiltak utført av tredjeparten.",
+      "xml_path": "article#kapittel-4-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-14",
+      "provision_ref": "§ 4-11",
+      "heading": "Innhenting av opplysninger om midlenes opprinnelse",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "Rapporteringspliktige kan innhente opplysninger om midlenes opprinnelse ved gjennomføring av kundetiltak, løpende oppfølging og nærmere undersøkelser, jf. hvitvaskingsloven § 9.",
+      "xml_path": "article#kapittel-4-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-15",
+      "provision_ref": "§ 4-12",
+      "heading": "Bruk av tredjepart for tilbydere av spilltjenester",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Tilbydere som har enerett etter pengespilloven § 10 kan legge hverandres kundetiltak til grunn. Tilbydere av spilltjenester med tillatelse etter pengespilloven § 18 eller § 20 kan legge til grunn kundetiltak utført av tilbydere som har enerett etter pengespilloven § 10.(2) Hvis en tilbyder som har enerett etter pengespilloven § 10 tilbyr spill med felles premiepott med utenlandske tilbydere av spilltjenester, kan enerettstilbyderen unnlate å gjennomføre kundetiltak overfor personer som har inngått et kundeforhold eller gjennomført en transaksjon med den utenlandske tilbyderen som oppfyller reglene for tiltak mot hvitvasking og terrorfinansiering i hjemstaten.",
+      "xml_path": "article#kapittel-4-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-16",
+      "provision_ref": "§ 4-13",
+      "heading": "Delvis avvikling og sperring. Avvikling av grunnleggende tjenester.",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Rapporteringspliktige kan gjennomføre en delvis avvikling av kundeforholdet, ved å begrense eller sperre konkrete produkter og tjenester relatert til de kundetiltak som ikke lar seg gjennomføre. Når kundemidler sperres, anses ikke kundeforholdet å være avsluttet og plikten til å gjennomføre løpende oppfølging etter hvitvaskingsloven § 24 gjelder.(2) Avvikling av grunnleggende tjenester for å ivareta finansiell inkludering skal vurderes særskilt. Vurderingen skal dokumenteres og lagres i henhold til hvitvaskingsloven § 30.",
+      "xml_path": "article#kapittel-4-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-17",
+      "provision_ref": "§ 4-14",
+      "heading": "Tilbakeføring av kundemidler ved avvikling av kundeforholdet",
+      "path": [
+        "Kapittel 4. Kundetiltak og løpende oppfølging"
+      ],
+      "text": "(1) Ved avvikling av kundeforhold skal kundemidler som hovedregel tilbakeføres til kunden, i samsvar med alminnelige avtalerettslige regler.(2) Der kundeforholdet er besluttet avviklet etter hvitvaskingsloven § 24, kan rapporteringspliktige midlertidig sperre kundemidler frem til kunden gir tilstrekkelig informasjon til å utføre kundetiltak eller anvisning på hvordan kundemidlene skal tilbakeføres. Dersom kundens anvisninger om utbetaling av tilgodehavende ved kundeavvikling klart utgjør en hvitvaskings- eller terrorfinansieringshandling, kan den rapporteringspliktige midlertidig unnlate å gjennomføre utbetalingen frem til kunden anviser en utbetalingsform som ikke strider mot første punktum. § 4-13 første ledd annet punktum gjelder tilsvarende.",
+      "xml_path": "article#kapittel-4-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Oversendelse av opplysninger til Økokrim",
+      "path": [
+        "Kapittel 5. Nærmere undersøkelser. Rapportering"
+      ],
+      "text": "(1) Ansvarlig for oversendelse av opplysninger til Økokrim som nevnt i hvitvaskingsloven § 26, er den personen som er utpekt som ansvarlig etter hvitvaskingsloven § 8 femte ledd.(2) Oversendelse av opplysninger skal skje elektronisk via Altinn. Dersom dette ikke er mulig, kan oversendelse av opplysninger skje ved bruk av skjema utarbeidet av Økokrim.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Unntak fra avsløringsforbudet – utveksling av opplysninger om felles kunde i en transaksjon hvor de aktuelle rapporteringspliktige er involvert",
+      "path": [
+        "Kapittel 5. Nærmere undersøkelser. Rapportering"
+      ],
+      "text": "Følgende kategorier av rapporteringspliktige anses å inngå i samme profesjonskategorier, jf. hvitvaskingsloven § 28 sjette ledd:Banker, kredittforetak, finansieringsforetak, betalingsforetak og andre som har rett til å yte betalingstjenester.E-pengeforetak.Verdipapirforetak, forvaltningsselskap for verdipapirfond, forvalter av alternative investeringsfond og verdipapirsentral i tilfeller der verdipapirsentralen ikke benytter ekstern kontofører som er rapporteringspliktig. For kontohavere og utstedere som har ekstern kontofører som er rapporteringspliktig, er det kontoføreren som er omfattet av unntaket.Forsikringsforetak og foretak som driver forsikringsformidling som ikke er gjenforsikringsformidling.Låneformidlingsforetak.Statsautoriserte og registrerte revisorer og regnskapsførere, godkjente revisjonsselskaper og revisorer som er ansvarlig for revisjon av regnskap for kommune, fylkeskommune eller kommunalt eller fylkeskommunalt foretak.Advokater og rettshjelpere som nevnt i hvitvaskingsloven § 4 annet ledd bokstav c.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Behandling av særlige kategorier personopplysninger og opplysninger om straffedommer og lovovertredelser",
+      "path": [
+        "Kapittel 6. Behandling av personopplysninger og andre opplysninger"
+      ],
+      "text": "(1) Rapporteringspliktige kan behandle personopplysninger omfattet av personvernforordningen artikkel 9 og 10 når det er nødvendig for å gjennomføre forpliktelsene i hvitvaskingsloven med forskrift.(2) Rapporteringspliktige må ha rutiner for behandling av personopplysninger nevnt i første ledd.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Registrering og lagring av opplysninger og dokumenter",
+      "path": [
+        "Kapittel 6. Behandling av personopplysninger og andre opplysninger"
+      ],
+      "text": "(1) Kopier av fremlagte legitimasjonsdokumenter som nevnt i hvitvaskingsforskriften § 4-3 og hvitvaskingsloven § 13 annet ledd skal påføres «rett kopi bekreftes» med signaturen til den personen som har foretatt bekreftelsen samt dato for bekreftelsen. I stedet for signatur og påføring som nevnt i første punktum, kan det på annen måte sikres tilsvarende notoritet om bekreftelsen, herunder hvem som har foretatt bekreftelsen og når bekreftelsen ble gjort.(2) Dokumenter og opplysninger skal oppbevares på et medium som opprettholder lesekvaliteten i hele oppbevaringsperioden.(3) Det skal foreligge sikkerhetskopi av elektronisk materiale. Sikkerhetskopien skal oppbevares atskilt fra originalen.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Lagring av opplysninger og dokumenter for advokater mv.",
+      "path": [
+        "Kapittel 6. Behandling av personopplysninger og andre opplysninger"
+      ],
+      "text": "Rapporteringspliktige som nevnt i hvitvaskingsloven § 4 annet ledd bokstav c, kan lagre opplysninger og dokumenter omfattet av hvitvaskingsloven § 30 så lenge klientforholdet består, også der opplysningene og dokumentene er innhentet i forbindelse med en enkeltstående transaksjon. For øvrig gjelder hvitvaskingslovens regler for behandlingen av opplysningene og dokumentene.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Beregning av maksimal lagringstid",
+      "path": [
+        "Kapittel 6. Behandling av personopplysninger og andre opplysninger"
+      ],
+      "text": "(1) Den samlede lagringstiden i hvitvaskingsloven § 30 fjerde ledd skal beregnes fra kundeforholdet ble avsluttet eller transaksjonen ble gjennomført.(2) Lagringstiden etter hvitvaskingsloven § 30 første ledd er 10 år når kundeforholdet ved avslutning var underlagt forsterkede kundetiltak eller transaksjonen ble underlagt forsterkede kundetiltak.(3) Fem år etter et kundeforholds opphør kan rapporteringspliktige vurdere om opplysninger etter første ledd likevel skal slettes, dersom særlige grunner tilsier at kunden likevel ikke utgjorde en høy risiko for hvitvasking og terrorfinansiering.(4) Vurderingen etter tredje ledd må dokumenteres og lagres i ytterligere fem år.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Utveksling av opplysninger i konsern",
+      "path": [
+        "Kapittel 6. Behandling av personopplysninger og andre opplysninger"
+      ],
+      "text": "(1) Informasjon kan uten hinder av taushetsplikt deles mellom konsernselskaper nevnt i hvitvaskingsloven § 31 første ledd, som ledd i tiltak mot hvitvasking og terrorfinansiering når informasjonen gjelder:felles kunde, ellerkunder som har særlig tilknytning til hverandre, for eksempel tilknytninger som indikerer felles reell rettighetshaver, eller andre forhold som kan tilsi at en transaksjon eller aktivitet gjennomføres på vegne av samme person.(2) Informasjon som kan utveksles, omfatter alle relevante opplysninger og dokumenter som er innhentet eller utarbeidet etter hvitvaskingsloven med forskrift, herunder informasjon om kunden, reelle rettighetshavere, konti, transaksjoner mv. Felles kunderegister kan benyttes for å avgjøre om det er adgang til å dele opplysninger etter denne bestemmelsen.(3) Informasjonsutvekslingen kan også skje ved etablering av kundeforhold.(4) Adgangen til å motta opplysninger fra andre konsernselskap vil ikke endre foretakets eget ansvar for risikoklassifisering, kundetiltak mv. etter hvitvaskingsregelverket.(5) Konsernet skal ha en sentralisert funksjon for informasjonsdeling etter denne bestemmelsen, for å håndtere konsernets risiko for hvitvasking og terrorfinansiering. Den sentraliserte funksjonen skal for dette formål få tilgang til alle opplysninger omfattet av bestemmelsen. For filialer og datterselskaper av utenlandske foretak gjelder kravet om sentralisert funksjon den norske delen av virksomheten så lenge hjemstatens hvitvaskingsregelverk ikke stiller krav om etablering av tilsvarende sentralisert funksjon.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Inkorporasjon av kommisjonsforordning (EU) 2019/758 (minstekrav og ytterligere tiltak kreditt- og finansinstitusjoner skal gjennomføre for å begrense risikoen for hvitvasking og terrorfinansiering i visse tredjeland)",
+      "path": [
+        "Kapittel 7. Øvrige plikter"
+      ],
+      "text": "EØS-avtalen vedlegg IX nr. 23bd forordning (EU) 2019/758 (om utfylling av europaparlaments- og rådsdirektiv (EU) 2015/849 med hensyn til tekniske reguleringsstandarder for de tiltakene som kredittinstitusjoner og finansinstitusjoner som et minstekrav skal iverksette, samt typen ytterligere tiltak som de skal treffe, for å redusere risikoen for hvitvasking av penger og finansiering av terrorisme i visse tredjestater) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Inkorporasjon av kommisjonsforordning (EU) 2018/1108 (kriterier for utpeking av sentrale kontaktpunkter for e-pengeutstedere og betalingstjenesteytere og regler for deres funksjoner)",
+      "path": [
+        "Kapittel 7. Øvrige plikter"
+      ],
+      "text": "(1) EØS-avtalen vedlegg IX nr. 23bc forordning (EU) 2018/1108 (om utfylling av europaparlaments- og rådsdirektiv (EU) 2015/849 med tekniske reguleringsstandarder for kriteriene for utpeking av sentrale kontaktpunkter for e-pengeutstedere og betalingstjenesteytere og med regler for deres funksjoner) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.(2) Til utfylling av første ledd gjelder følgende:Utenlandske betalingsforetak med agentvirksomhet i Norge skal utpeke sentralt kontaktpunkt når minst ett av kriteriene i første ledd artikkel 3 punkt 1 bokstav a til c er oppfylt.Finanstilsynet kan i særlige tilfeller pålegge utenlandske betalingsforetak å utpeke et sentralt kontaktpunkt nr det er rimelig grunn til å anta at det knytter seg høy risiko for hvitvasking og terrorfinansiering til foretakenes agentvirksomhet.Det sentrale kontaktpunktet skal, i tillegg til oppgavene angitt i første ledd artikkel 4 og 5, også foreta nærmere undersøkelser, rapportere på vegne av agentene og gi Økokrim opplysninger på vegne av agentene, jf. hvitvaskingsloven § 25 og § 26. Finanstilsynet kan gjøre unntak fra plikten til å foreta nærmere undersøkelser for sentrale kontaktpunkt i tilfeller der dette håndteres tilfredsstillende av det utenlandske betalingsforetaket på annen måte.Det sentrale kontaktpunktet skal være lokalisert i Norge og ha gode kunnskaper om norsk språk og hvitvaskingsregelverk.(3) Finanstilsynet kan pålegge midlertidig stans av virksomhet i Norge inntil sentralt kontaktpunkt er utpekt.(4) Finanstilsynet kan ved kontaktpunktets overtredelse av pliktene i annet ledd bokstav c gi kontaktpunktet pålegg om retting og tvangsmulkt etter hvitvaskingsloven § 47.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Minimumskrav til elektronisk overvåkingssystem",
+      "path": [
+        "Kapittel 7. Øvrige plikter"
+      ],
+      "text": "(1) Den elektroniske overvåkingen skal omfatte alle systemer for transaksjoner til eller fra rapporteringspliktiges kunder.(2) Reglene i det elektroniske overvåkingssystemet skal være egnet til å avdekke forhold som kan indikere at midler har tilknytning til hvitvasking- og terrorfinansiering, som identifisert i den rapporteringspliktiges risikovurdering, jf. hvitvaskingsloven § 7.(3) Det må gjennomføres elektronisk overvåking for å identifisere transaksjoner tilknyttet personer som er underlagt internasjonale sanksjoner og restriktive tiltak som er gjennomført i norsk rett. Kundemassen må kontrolleres mot nevnte sanksjoner og tiltaknår kundeforhold opprettes eller transaksjon gjennomføres etter hvitvaskingsloven § 10, ognår det gjøres endring i oversikten over listeførte personer.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "Overgangsregler",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "(1) Betalingsforetak som omfattes av plikten til å utpeke nasjonalt kontaktpunkt, skal gi Finanstilsynet melding om nasjonal kontaktperson innen tre måneder etter ikrafttredelsen av denne forskriften.(2) Tilbydere av vekslings- og oppbevaringstjenester som nevnt i § 1-3 første ledd, skal registreres hos Finanstilsynet i samsvar med § 1-3 fjerde ledd innen tre måneder etter ikrafttredelsen av denne forskriften.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "(1) Forskriften trer i kraft 15. oktober 2018.(2) Fra den tid forskriften trer i kraft, oppheves forskrift 13. mars 2009 nr. 302 om tiltak mot hvitvasking og terrorfinansiering mv. og forskrift 13. mars 2009 nr. 303 om kontrollutvalget for tiltak mot hvitvasking.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    }
+  ]
+}

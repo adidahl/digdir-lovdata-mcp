@@ -1,0 +1,82 @@
+{
+  "id": "LOV-1952-11-21-3",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om tjenesteplikt i politiet [polititjenestepliktloven]",
+  "short_title": "Polititjenestepliktloven",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Arbeidsrett > Offentlige tjenestemenn Forvaltnings- og kommunalrett > Politi",
+  "date_in_force": "1952-11-21",
+  "last_change_in_force": "2024-07-01",
+  "last_changed_by": "lov/2023-11-24-84 fra 2024-07-01",
+  "lovdata_refid": "lov/1952-11-21-3",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1952-11-21-3",
+  "raw_xml_sha256": "8a037998e2587c0348bb89352de47ad2fdaa8e3af4eef9f522641de76b16af34",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Menn og kvinner som i henhold til sivilforsvarslovgivningen er pliktig til å gjøre tjeneste i sivilforsvaret, kan i stedet pålegges å gjøre tjeneste i politiet.\nDen som tas ut til slik tjeneste i politiet, skal underkaste seg legeundersøkelse etter regler som Kongen fastsetter og kan av Kongen med Stortingets samtykke kalles inn til oppøving. Øvingstiden, innbefattet mulige repetisjonsøvelser, må i alt ikke overstige 72 dager utenom reisetid til og fra øvingsstedet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Til tjeneste etter § 1 tas ut det nødvendige antall tjenestepliktige som anses skikket for polititjeneste. Loddtrekning finner ikke sted.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Tjenestegjøring etter endt oppøving kan etter bestemmelse av Kongen pålegges når militær beredskap eller styrkeoppbygging helt eller delvis er satt i verk.\nTjenestegjøring som tar sikte på å avverge eller begrense naturkatastrofer eller andre alvorlige ulykker, kan pålegges i samsvar med regler som Kongen fastsetter.\nKongen i statsråd kan gi forskrifter om tjenesteplikt for å opprettholde samfunnsordenen, når viktige allmenne interesser tilsier det.\nAnnen tjenestegjøring enn omhandlet i første, andre og tredje ledd av denne paragraf, kan bare pålegges med Stortingets samtykke.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Den som føres over eller tilbake til tjeneste i Forsvaret, kan få øvingstid og tjeneste etter denne lov godskrevet som utført tjeneste etter forsvarsloven i samsvar med regler som Kongen fastsetter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "I øvingstiden tilkommer mannskapene underhold og bekledning eller godtgjørelse for denne, samt reisegodtgjørelse, dagpenger, sykeforpleining og familiegodtgjørelse etter regler som Kongen fastsetter. Kongen eller den han gir fullmakt, fastsetter også den godtgjørelse mannskapene skal ha under senere tjenestegjøring.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Forsvarsloven kapittel 8 får anvendelse med de avvikelser som etter Kongens bestemmelse anses påkrevd av hensyn til tjenesten i politiet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Den som rettsstridig søker å unndra seg oppøving eller tjenestegjøring etter denne lov, straffes med fengsel inntil 2 år. Er overtredelsen begått av uaktsomhet, er straffen bøter eller fengsel inntil 3 måneder.\nOvertredelse av forskrifter gitt i medhold av denne lov straffes med bøter.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Kongen eller den han gir fullmakt, kan gi nærmere forskrifter til gjennomføring av denne lov.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

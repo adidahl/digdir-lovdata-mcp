@@ -1,0 +1,428 @@
+{
+  "id": "FOR-2013-04-26-412",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om miljøvern og sikkerhet i Antarktis",
+  "short_title": "Forskrift om miljøvern og sikkerhet i Antarktis",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2013-04-26",
+  "last_change_in_force": "2014-01-01",
+  "last_changed_by": "forskrift/2013-12-19-1757 fra 2014-01-01",
+  "lovdata_refid": "forskrift/2013-04-26-412",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2013-04-26-412",
+  "raw_xml_sha256": "a3c002b82bda8532a232c6f89ab1586ef3599966295a13e73088174f043dabd6",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriftens formål er å verne miljøet i Antarktis og dets avhengige og tilknyttede økosystemer, bevare Antarktis' egenverdi, herunder villmarkskarakter og estetiske verdier, og å opprettholde områdets verdi for vitenskapelig forskning. Forskriften har også som formål at all aktivitet i Antarktis som omfattes av forskriften skal gjennomføres på en sikker og selvforsynt måte. Disse hensyn skal være grunnleggende i planlegging og gjennomføring av all aktivitet i Antarktis.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for hele Antarktis for;norske statsborgerenorske juridiske personernorske skip og luftfartøyutlendinger bosatt i Norgeutlendinger som deltar i eller er ansvarlig for aktivitet i Antarktis som er organisert i Norge eller som utgår fra Norge direkte til Antarktis.\nForskriften gjelder dessuten i Dronning Maud Land og på Peter I's øy for enhver som oppholder seg der eller er ansvarlig for aktivitet der, jf. § 9.\nForskriften gjelder likevel ikke for de som oppholder seg i Antarktis som del av en aktivitet godkjent av en annen stat som har tilsvarende bestemmelser og er tilsluttet Miljøprotokollen til Antarktistraktaten, eller som er ansvarlig for organiseringen av en slik aktivitet.\nForskriften gjelder ikke for fiskeriaktivitet eller for fartøy i seilas på det åpne hav.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift forstås medAntarktis: området syd for 60° sydlig bredde.aktivitet: enhver form for virksomhet som finner sted i Antarktis, herunder turisme og forskning, med unntak av fiskeriaktivitet eller fartøy i seilas på det åpne hav jf. § 2.ansvarlig for aktiviteten, aktivitetsansvarlig e.l.: enhver statlig eller ikke-statlig juridisk eller fysisk person som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes ikke fysiske personer som er ansatt, er leverandør eller underleverandør, agent eller som på annen måte yter tjenester for en fysisk eller juridisk person, som er statlig eller ikke-statlig, og som organiserer aktivitet som skal gjennomføres i Antarktis. Som aktivitetsansvarlig regnes heller ikke juridiske personer som er leverandør eller underleverandør av aktivitet som organiseres på vegne av en statlig aktivitetsansvarlig.nødssituasjon: situasjon med akutt fare for en persons liv eller helse eller for betydelig materiell skade.akutt forurensning: enhver hendelse som har hatt som resultat eller som innebærer en overhengende fare for betydelig og skadelig innvirkning på miljøet i Antarktis.mottiltak: rimelige tiltak som treffes etter at det er oppstått akutt forurensning og som har som mål å hindre, redusere eller begrense virkningen av den akutte forurensningen. Mottiltak omfatter fastsetting av omfanget og virkningen av den akutte forurensningen og kan omfatte opprydning.skip: et fartøy av en hvilken som helst art som opererer i et marint miljø.SDR: spesielle trekkrettigheter, verdienhet fastsatt av Det internasjonale valutafond.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forholdet til andre staters myndighetsutøvelse",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Strafferettslig forfølgning for brudd på denne forskrift kan bare finne sted etter samtykke fra Utenriksdepartementet i tilfeller hvor;handlingen er begått av en person som ikke er norsk statsborger eller bosatt i Norge, ellerhandlingen er begått utenfor Dronning Maud Land eller Peter I's øy.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Generelt om aktivitet i Antarktis",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Aktiviteter i Antarktis skal planlegges og gjennomføres slik at virkninger på miljøet i Antarktis og avhengige og tilknyttede økosystemer blir minst mulig, og områdets verdi for forskning bevares. Det skal herunder unngås at aktiviteter medfører:virkning på klima eller værmønster,virkning på luft- eller vannkvalitet,endringer i det atmosfæriske, terrestriske, glasiale, limnistiske eller marine miljø,endringer i utbredelse, forekomst eller produktivitet til arter eller bestander av dyr og planter,risiko for sårbare eller truede arter eller bestander av slike arter, ellerrisiko for skader på områder av biologisk, vitenskapelig, historisk eller estetisk betydning, eller av betydning for villmarkskarakteren,skade eller annen forringelse av historiske steder og kulturminner.\nAktiviteter i Antarktis skal videre planlegges og gjennomføres på en sikker og selvforsynt måte. Mulig risiko for skade på liv og helse ved aktiviteten skal identifiseres og i så stor grad som mulig reduseres.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Forbud mot utvinning av mineralressurser",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver aktivitet med tilknytning til mineralressurser med unntak av forskning er forbudt.\nNorsk Polarinstitutt avgjør i det enkelte tilfelle hva som er forskning.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Inspeksjoner",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Observatører oppnevnt av konsultative parter og konsultative møter under Antarktistraktaten skal ha full adgang til alle deler av stasjoner, installasjoner, utstyr, skip og fly som etter Antarktistraktaten er åpne for inspeksjon.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Nødssituasjoner",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Bestemmelsene i denne forskrift gjelder ikke nødsituasjoner.\nDe tiltak som er iverksatt i en nødssituasjon skal snarest meldes til Norsk Polarinstitutt.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Meldeplikt for aktivitet i Antarktis",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den som organiserer enhver form for aktivitet i Antarktis skal gi melding til Norsk Polarinstitutt senest 1 år før aktiviteten planlegges igangsatt. Det samme gjelder planer om enhver ikke tidligere meldt endring i aktivitet. Norsk Polarinstitutt kan i det enkelte tilfelle godta en kortere frist, jf. § 36.\nMeldingen skal inneholde opplysninger om hvem som er ansvarlig for aktiviteten, aktivitetens omfang, herunder en foreløpig konsekvensvurdering, jf. § 16, og hvilken teknologi og tiltak som vil bli benyttet for å begrense eventuelle skadelige virkninger. Meldingen skal også inneholde opplysninger om hvordan kravet til forsikring eller likeverdig garanti i medhold av § 12 skal være oppfylt før aktiviteten igangsettes.\nBeredskapsplaner i henhold til § 10 og § 11 skal legges ved meldingen.\nNorsk Polarinstitutt kan gi nærmere retningslinjer om hvilke opplysninger og vurderinger en melding skal inneholde.\nDersom Norsk Polarinstitutt ikke fatter vedtak på bakgrunn av meldingen senest innen to måneder før aktiviteten er planlagt igangsatt, kan aktiviteten gjennomføres i samsvar med det som er beskrevet i meldingen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Krav om beredskap for akutt forurensning",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den ansvarlige for aktiviteten skal treffe forebyggende tiltak for å redusere risikoen for akutt forurensning og potensiell miljøskade forårsaket av slik akutt forurensning dersom den skulle oppstå.\nFør aktiviteten igangsettes skal den ansvarlige ha nødvendig utstyr og kompetanse samt beredskapsplaner som er nødvendige for å kunne håndtere akutt forurensning i Antarktis. Beredskapsplanene skal bl.a. inneholde:rutiner for varsling av akutt forurensningrutiner for å vurdere omfanget av akutt forurensning og planer for mottiltakoversikt over tilgjengelige ressurser og hvordan disse kan mobiliseresrutiner for dokumentasjon og opplæring.\nBeredskapsplanene skal fremlegges samtidig med melding etter § 9.\nNorsk Polarinstitutt kan stille nærmere krav til beredskapsplaner.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Krav om beredskap for å ivareta sikkerhet for liv og helse",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den ansvarlige for aktiviteten skal treffe tiltak for å redusere for skade på liv og helse for den som deltar i aktiviteten.\nDen ansvarlige for aktiviteten skal før aktiviteten igangsettes ha tilstrekkelige beredskapsplaner og -ordninger for å ivareta sikkerheten for liv og helse, søk og redning, samt medisinsk behandling og evakuering.\nDer slike planer forutsetter støtte fra andre operatører eller nasjonale forskningsprogrammer skal det før aktiviteten igangsettes fremlegges inngåtte avtaler om slik støtte.\nBeredskapsplanene skal fremlegges samtidig med melding etter § 9. Norsk Polarinstitutt kan stille nærmere krav til beredskapsplaner.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Krav om forsikring",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den ansvarlige for aktiviteten skal før aktiviteten igangsettes ha forsikring eller stille likeverdig garanti for det økonomiske ansvar som kan oppstå etter reglene i kapittel 7 om ansvar ved akutt forurensning.\nDen ansvarlige for aktiviteten skal videre ha tilstrekkelig forsikring eller stille likeverdig garanti for utgifter av enhver art som påføres offentlig myndighet eller andre i forbindelse med søk, redningsaksjon eller syketransport som må gjennomføres i tilknytning til aktivitet i Antarktis. Forsikring eller garanti etter dette leddet skal dekke slike utgifter uten hensyn til om det er utvist uaktsomhet av den ansvarlige for aktiviteten, personer i hans tjeneste eller turdeltakere.\nNorsk Polarinstitutt fastsetter forsikringssummens eller garantiens størrelse etter første og annet ledd. Størrelsen på forsikringen eller garantien etter første ledd kan ikke settes høyere enn det som følger av § 31. Norsk Polarinstitutt kan videre fastsette en frist for når forsikring eller likeverdig garanti skal foreligge før aktiviteten igangsettes.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Pålegg om endringer i, utsettelse av og forbud mot aktivitet",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Norsk Polarinstitutt kan gi pålegg om endringer i aktivitet, utsette aktiviteten eller helt forby den dersom iverksettelse av aktiviteten vil eller kan føre til virkninger på miljøet i Antarktis eller avhengige eller tilknyttede økosystemer eller sikkerheten for liv og helse som er i strid med forskriftens formål, bestemmelsene i denne forskrift eller bestemmelser gitt i medhold av forskriften, eller internasjonale vedtak, anbefalinger og rekommandasjoner som er besluttet av partene i antarktistraktatsystemet. Det samme gjelder ved melding om endring i aktivitet.\nNorsk Polarinstitutt kan kreve aktivitet eller endring i aktivitet utsatt dersom det er nødvendig for å sikre at en konsekvensvurdering blir gjennomført i samsvar med regler som Norge har sluttet seg til ved mellomstatlig overenskomst, jf. § 16 og § 17.\nDersom igangsatt aktivitet viser seg å medføre uforutsette virkninger på miljøet i Antarktis eller avhengige og tilknyttede økosystemer, kan Norsk Polarinstitutt kreve endringer i aktiviteten, utsette aktiviteten eller helt forby den dersom det er nødvendig for å motvirke eller begrense de uforutsette virkningene.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 14",
+      "heading": "Overvåkning og tiltak ved uforutsette virkninger",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den ansvarlige for aktivitet som er underlagt krav om fullstendig konsekvensvurdering i henhold til § 17 plikter å gjennomføre regelmessig og effektiv overvåkning av miljøet for å:vurdere virkninger av pågående aktivitet, herunder verifisering av forutsette virkninger, oglegge forholdene til rette for tidlig oppdagelse av mulige uforutsette virkninger.\nDersom det under enhver aktivitet avdekkes uforutsette virkninger for miljøet plikter den ansvarlige for aktiviteten uten opphold å varsle Norsk Polarinstitutt, og foreta endringer i aktivitetene som er nødvendig for å motvirke skadene.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 15",
+      "heading": "Rapporteringsplikt",
+      "path": [
+        "Kapittel 3. Krav til aktivitet i Antarktis"
+      ],
+      "text": "Den ansvarlige for aktiviteten plikter å utarbeide rapporter om aktivitet og bruk av tillatelser gitt i medhold av denne forskrift, herunder en sluttrapport ved endt aktivitet. Norsk Polarinstitutt kan gi nærmere retningslinjer om rapporteringsplikten.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Foreløpig konsekvensvurdering",
+      "path": [
+        "Kapittel 4. Foreløpig og fullstendig konsekvensvurdering"
+      ],
+      "text": "Enhver som ønsker å starte opp planlagt aktivitet i Antarktis skal utarbeide en foreløpig konsekvensvurdering, med mindre en fullstendig konsekvensvurdering blir igangsatt etter § 17.\nEn foreløpig konsekvensvurdering skal inneholde;en beskrivelse av den omsøkte aktiviteten, herunder hvor aktiviteten skal foregå, aktivitetens formål, varighet, intensitet, bruk av transportmidler, oppryddingsplaner og eventuelle virkninger på miljøet, samten vurdering av alternativer til den omsøkte aktiviteten og eventuelle virkninger slik aktivitet kan ha, herunder vurdering av den samlede virkning på bakgrunn av eksisterende og kjente planlagte aktiviteter.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Fullstendig konsekvensvurdering",
+      "path": [
+        "Kapittel 4. Foreløpig og fullstendig konsekvensvurdering"
+      ],
+      "text": "Dersom en foreløpig konsekvensvurdering viser, eller dersom Norsk Polarinstitutt fastslår at en meldt aktivitet sannsynligvis vil ha mer enn en ubetydelig eller kortvarig virkning på miljøet, skal den ansvarlige for aktiviteten utarbeide en fullstendig konsekvensvurdering. Konsekvensvurderingen skal ha en form som gjør den egnet for offentlig behandling.\nEn fullstendig konsekvensvurdering skal inneholde:en beskrivelse av den meldte aktiviteten, herunder aktivitetens formål, plassering, varighet og intensitet, og eventuelle alternativer til aktiviteten, herunder alternativet å avbryte arbeidet, og konsekvenser av slike alternativer,en beskrivelse av miljøets referansetilstand i utgangspunktet som de forutsette endringene skal sammenlignes med, og en prognose over miljøets fremtidige referansetilstand dersom den meldte aktiviteten ikke gjennomføres,en beskrivelse av de metoder og data som er benyttet for å forutsi virkningene av den meldte aktiviteten,anslag av art, grad, varighet og intensitet av de sannsynlige direkte virkninger av den meldte aktiviteten,vurdering av mulige indirekte eller sekundære virkninger av den meldte aktiviteten,vurdering av den samlede virkning på miljøet, herunder virkningen på de enkelte arter og økosystemet på kort og lang sikt, av den meldte aktiviteten på bakgrunn av eksisterende aktiviteter og andre kjente planlagte aktiviteter,beskrivelse av tiltak, herunder overvåkingsprogrammer, som kan treffes for å begrense eller dempe effektene av den meldte aktiviteten og oppdage uforutsette virkninger, og som kunne sørge for tidlig varsling av eventuelle skadevirkninger av aktiviteten i tillegg til å håndtere ulykker på en rask og effektiv måte,beskrivelse av uunngåelig virkning av den meldte aktiviteten,vurdering av virkningen av den meldte aktiviteten for gjennomføringen av vitenskapelig forskning og andre eksisterende bruksområder og verdier,en beskrivelse av kunnskapshull og usikkerhet knyttet til innsamling av den informasjon som er påkrevd i henhold til denne paragraf,et populært beskrivende sammendrag av den informasjon som er gitt i henhold til denne paragraf, ognavn og adresse til den person eller organisasjon som har utført den fullstendige vurdering av miljøkonsekvensene.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Vern av naturlig forekommende flora og fauna",
+      "path": [
+        "Kapittel 5. Vern av flora og fauna"
+      ],
+      "text": "Innsamling eller skadelig påvirkning av flora og fauna, herunder skadelig ferdsel, i Antarktis er forbudt.\nNorsk Polarinstitutt kan gi tillatelse til innsamling eller fangst i samsvar med regler Norge har sluttet seg til ved mellomfolkelig overenskomst.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Innførsel av plante- og dyrearter og mikroorganismer",
+      "path": [
+        "Kapittel 5. Vern av flora og fauna"
+      ],
+      "text": "Innførsel av plante- eller dyrearter kan bare foretas i henhold til tillatelse gitt av Norsk Polarinstitutt etter regler Norge har sluttet seg til ved mellomfolkelig overenskomst. Innførsel av hunder er forbudt.\nImport av matvarer omfattes ikke av første ledd, så lenge importen skjer under betryggende kontroll.\nNorsk Polarinstitutt kan gi nærmere retningslinjer for å hindre utilsiktet innførsel av mikroorganismer som ikke forekommer i den naturlige flora og fauna.\nNorsk Polarinstitutt kan pålegge den som uten tillatelse har innført planter eller dyr å fjerne disse artene og ethvert spor etter dem, med mindre det vil medføre større skadevirkning på miljøet å fjerne dem enn å la dem bli værende. Dersom pålegget ikke etterkommes, kan Norsk Polarinstitutt kreve utgiftene for opprydding dekket av den ansvarlige for aktiviteten.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "Dette kapittelet gjelder med de begrensninger som følger av § 2 for enhver aktivitet som ikke er drevet fra skip.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Fjerning av avfall fra Antarktis",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "Det er forbudt å etterlate avfall i Antarktis.\nForbudet gjelder ikke dersom avfallet kan brennes i forbrenningsovn, uten miljøskadelige utslipp. Norsk Polarinstitutt kan gi nærmere retningslinjer for slik brenning.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Forbud mot utslipp av miljøskadelige stoffer og produkter",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "Det er forbudt å slippe ut stoffer eller produkter som kan skade miljøet i Antarktis.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 23",
+      "heading": "Lagring av avfall",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "Alt avfall som senere skal fjernes, forbrennes eller disponeres på annen måte i Antarktis, jf. § 21, skal lagres på en slik måte at spredning eller utslipp til miljøet forhindres.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 24",
+      "heading": "Opprensking på avfallsplasser og byggeplasser",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "Tidligere og nåværende avfallsplasser og forlatte byggeplasser skal renskes opp av vedkommende som produserte avfallet og brukeren av plassen. Det skal gis varsel til Norsk Polarinstitutt før opprensking igangsettes. Norsk Polarinstitutt kan gi dispensasjon dersom det vil medføre større skadevirkning på miljøet å fjerne avfallet enn å la det bli værende.\nNorsk Polarinstitutt kan pålegge den ansvarlige for aktiviteten å renske opp innen en angitt frist. Dersom pålegget ikke etterkommes, kan Norsk Polarinstitutt sørge for opprensking, og kreve utgiftene dekket av den ansvarlige for aktiviteten.\nNorsk Polarinstitutt kan kreve at det stilles sikkerhet til dekning av opprenskingsutgiftene. Slik sikkerhet kan kreves på ethvert tidspunkt.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 25",
+      "heading": "Kontroll og journalføring av avfallshåndtering",
+      "path": [
+        "Kapittel 6. Håndtering av forurensning og avfall"
+      ],
+      "text": "For enhver aktivitet kan det pålegges å håndtere og journalføre avfall i samsvar med et klassifikasjonssystem utarbeidet av Norsk Polarinstitutt.\nFor enhver aktivitet i Antarktis skal det være en ansvarlig for avfallshåndteringen. Den ansvarlige kan gjennomgå opplæring som er godkjent av Norsk Polarinstitutt.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 26",
+      "heading": "Mottiltak",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "Den ansvarlige for aktiviteten skal uten unødig opphold treffe effektive mottiltak etter at akutt forurensning er oppstått som følge av aktivitet som den ansvarlige svarer for.\nDen ansvarlige for aktiviteten skal uten unødig opphold varsle Norsk Polarinstitutt når akutt forurensning er oppstått. Det samme gjelder i rimelig utstrekning for enhver som får kunnskap om at akutt forurensning er oppstått. Norsk Polarinstitutt skal deretter varsle traktatparter og andre berørte parter.\nDersom mottiltak ikke blir truffet i henhold til første ledd, og den akutte forurensningen er av en slik art at det er rimelig å treffe umiddelbare mottiltak, kan Norsk Polarinstitutt eller noen Norsk Polarinstitutt bemyndiger treffe mottiltak på den ansvarliges vegne.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 27",
+      "heading": "Ansvar for mottiltak truffet av andre",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "En aktivitetsansvarlig som ikke treffer mottiltak han er forpliktet til etter § 26 første ledd skal uten hensyn til skyld yte erstatning til den som traff mottiltak på den aktivitetsansvarliges vegne. Erstatningen skal tilsvare kostnadene ved å treffe mottiltak.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 28",
+      "heading": "Ansvar når mottiltak ikke er truffet av noen",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "Blir mottiltak ikke truffet av den ansvarlige for aktiviteten eller noen annen, skal den ansvarlige yte erstatning som tilsvarer de kostnadene som ville påløpt dersom mottiltak hadde vært truffet.\nNorsk Polarinstitutt treffer vedtak om erstatningens størrelse etter en vurdering av hvilke rimelige kostnader som ville påløpt for å fastslå omfanget og effektivt begrense eller unngå konsekvensene av akutt forurensning.\nErstatningen skal betales til Norsk Polarinstitutt, som har ansvar for å videreformidle denne til et fond som administreres av sekretariatet under Antarktistraktaten. Enhver stat eller person kan videre yte frivillige bidrag til fondet.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 29",
+      "heading": "Solidarisk ansvar",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "Dersom to eller flere som er ansvarlige for aktivitet i fellesskap forårsaker akutt forurensning, er disse solidarisk ansvarlige.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 30",
+      "heading": "Unntak fra ansvar",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "Den ansvarlige for aktiviteten er ikke ansvarlig etter § 27 eller § 28 første ledd dersom den akutte forurensningen er forårsaket av:En handling eller unnlatelse som var nødvendig for å beskytte menneskers liv eller sikkerhetEn hendelse som representerer en naturkatastrofe av en ekstraordinær art i Antarktis og som ikke med rimelighet kunne vært forutsett. Dette gjelder bare dersom alle rimelige tiltak er truffet for å redusere risikoen for og potensielle skadevirkninger av den akutte forurensningEn terrorhandlingEn krigshandling rettet mot den ansvarliges aktivitetEt rimelig mottiltak truffet av noen på vegne av Norsk Polarinstitutt for å avhjelpe akutt forurensning.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 31",
+      "heading": "Ansvarsbegrensning",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "For hendelser som ikke involverer skip, er erstatningsansvaret for den aktivitetsansvarlige etter § 27 eller § 28 første ledd oppad begrenset til 3 millioner SDR i det enkelte tilfellet.\nFor hendelser som involverer et skip gjelder reglene i sjøloven kapittel 9 så langt de passer der den aktivitetsansvarlige er en av personene som etter sjøloven § 171 kan begrense sitt ansvar etter disse reglene.\nFor hendelser som involverer et skip der den aktivitetsansvarlige ikke er omfattet av sjøloven kapittel 9, er erstatningsansvaret for den aktivitetsansvarlige etter § 27 og § 28 første ledd oppad begrenset til 1 million SDR for skip med tonnasje opp til 2000 tonn. For skip med tonnasje på mer enn 2000 tonn, forhøyes ansvarsgrensen slik:for hvert tonn fra 2001 til 30 000 tonn, med 400 SDRfor hvert tonn fra 30 000 til 70 000 tonn, med 300 SDR ogfor hvert tonn som overstiger 70 000 tonn, med 200 SDR.\nAnsvarsgrensene i første og tredje ledd gjelder summen av alle krav mot den enkelte aktivitetsansvarlige som oppstår ved en og samme hendelse.\nRetten til begrensning av ansvaret gjelder ikke dersom det godtgjøres at den aktivitetsansvarlige selv har forårsaket den akutte forurensningen forsettlig eller grovt uaktsomt og med forståelse av at slik akuttsituasjon sannsynligvis ville oppstå.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 32",
+      "heading": "Søksmål",
+      "path": [
+        "Kapittel 7. Ansvar ved akutt forurensning"
+      ],
+      "text": "Norsk Polarinstitutt kan anlegge erstatningssøksmål mot en ikke-statlig aktivitetsansvarlig i henhold til § 27.\nI det tilfelle en statlig ansvarlig har pådratt seg ansvar etter § 27 skal erstatningssøksmål behandles etter den fremgangsmåte Kongen bestemmer.\nErstatningssøksmål skal anlegges for domstolen i den stat der den ansvarlige som ikke har truffet mottiltak er stiftet, har sitt hovedkontor eller bosted. Dersom den ansvarlige ikke er stiftet, har sitt hovedkontor eller bosted i en stat som har tilsvarende bestemmelser og er tilsluttet Miljøprotokollen til Antarktistraktaten skal erstatningssøksmål anlegges for Oslo tingrett.\nErstatningssøksmål skal anlegges innen tre år etter at mottiltak ble igangsatt, eller innen tre år etter at Norsk Polarinstitutt fikk eller burde ha fått kjennskap til den ansvarliges identitet. Erstatningssøksmål kan i alle tilfelle ikke anlegges senere enn 15 år etter at mottiltak ble igangsatt.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 33",
+      "heading": "Spesielle verneområder",
+      "path": [
+        "Kapittel 8. Spesielle verneområder og forvaltningsområder"
+      ],
+      "text": "Områder kan utpekes som spesielle verneområder for å verne særegne miljømessige, vitenskapelige, historiske, estetiske verdier eller dets villmarkskarakter, enhver kombinasjon av slike verdier, eller pågående eller planlagt vitenskapelig forskning.\nDen som planlegger opphold i Antarktis har plikt til å gjøre seg kjent med hvilke områder som er utpekt til spesielle verneområder.\nFor å gå inn i eller engasjere seg i aktivitet innenfor spesielle verneområder kreves det tillatelse utstedt av Norsk Polarinstitutt. Tillatelsen angir vilkår for oppholdet.\nUnder oppholdet i verneområdet plikter innehaveren av tillatelsen å ha med seg en kopi av tillatelsen.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 34",
+      "heading": "Spesielle forvaltningsområder",
+      "path": [
+        "Kapittel 8. Spesielle verneområder og forvaltningsområder"
+      ],
+      "text": "Områder der det foregår aktivitet eller der det i fremtiden kan komme til å foregå aktivitet kan utpekes til spesielle forvaltningsområder for å bistå med planlegging og koordinering av aktiviteter, unngå potensielle konflikter, styrke samarbeid med utenlandsk aktivitet eller begrense de miljømessige konflikter mest mulig.\nDen som planlegger opphold i Antarktis har plikt til å gjøre seg kjent med hvilke områder som er utpekt til spesielle forvaltningsområder.\nDersom man skal inn i et spesielt forvaltningsområde må man overholde de regler som Norge har sluttet seg til ved mellomfolkelig overenskomst, herunder regler om adkomst til området, opphold og aktivitet. Opplysningene gis av Norsk Polarinstitutt.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 35",
+      "heading": "Historiske steder og kulturminner",
+      "path": [
+        "Kapittel 8. Spesielle verneområder og forvaltningsområder"
+      ],
+      "text": "Historiske steder og kulturminner som er registrert i henhold til mellomfolkelig overenskomst som Norge har sluttet seg til, skal ikke skades, fjernes eller ødelegges.\nDersom et historisk sted eller kulturminne er utpekt som spesielt verneområde eller spesielt forvaltningsområde gjelder § 33 eller § 34 i tillegg til første ledd.\nBestemmelsene i lov 9. juni 1978 nr. 50 om kulturminner for så vidt gjelder utførsel, innførsel og tilbakeføring av ulovlig utførte kulturgjenstander § 23a – § 23f, får anvendelse så langt de passer.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Norsk Polarinstitutt kan gjøre unntak fra bestemmelsene i denne forskrift når særlige grunner foreligger og det ikke er i strid med formålet for forskriften.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Opplysningsplikt",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Norsk Polarinstitutt kan gi den ansvarlige for aktiviteten pålegg om å oppgi de opplysninger som er nødvendig for utøvelsen av Norsk Polarinstitutts oppgaver etter denne forskrift.\nNår særlige grunner tilsier det, kan Norsk Polarinstitutt kreve at opplysninger oppgis av enhver som deltar i aktiviteten til den ansvarlige.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 38",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Norsk Polarinstitutt eller den Norsk Polarinstitutt bemyndiger skal føre tilsyn med gjennomføringen av denne forskrift.\nTilsynsmyndigheten skal ha fri adgang til alle installasjoner, transportmidler og områder hvor det foregår aktivitet som omfattes av denne forskrift.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 39",
+      "heading": "Klageadgang",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Vedtak fattet av Norsk Polarinstitutt kan påklages til Klima- og miljødepartementet etter reglene i lov 10. februar 1967 om behandlingsmåten i forvaltningssaker.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 40",
+      "heading": "Straffereaksjoner",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Den som forsettelig eller uaktsomt overtrer denne forskrift eller forbud eller pålegg gitt i medhold av den, straffes med bøter eller fengsel i inntil ett år eller begge deler.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-6",
+      "provision_ref": "§ 41",
+      "heading": "Ikrafttredelse og opphevelse av tidligere forskrift",
+      "path": [
+        "Kapittel 9. Særskilte bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft straks. Klima- og miljødepartementet kan gjøre endringer i forskriften.\nFra den tid forskriften trer i kraft oppheves forskrift 5. mai 1995 nr. 408 om vern av miljøet i Antarktis.",
+      "xml_path": "article#kapittel-9-paragraf-6"
+    }
+  ]
+}

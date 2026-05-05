@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1999-03-26-376",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot import av toskallete bløtdyr, pigghuder, sekkedyr og sjølevende snegler samt levende fisk og skalldyr med opprinnelse i Albania",
+  "short_title": "Forskrift om forbud mot sjødyr fra Albania",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1999-03-26",
+  "last_change_in_force": "2012-02-27",
+  "last_changed_by": "forskrift/2012-02-27-187",
+  "lovdata_refid": "forskrift/1999-03-26-376",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-03-26-376",
+  "raw_xml_sha256": "be0159f187c4f7b83e44badda485226a8068e7af570c13dd5522e3845f59eaa6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det er forbudt å importere følgende produkter med opprinnelse i eller som kommer fra Albania:toskallete bløtdyr, pigghuder, sekkedyr og sjølevende snegler i enhver form,levende fisk og skalldyr fraktet i vann.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

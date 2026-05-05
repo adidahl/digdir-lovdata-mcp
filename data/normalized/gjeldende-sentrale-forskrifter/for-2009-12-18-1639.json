@@ -1,0 +1,188 @@
+{
+  "id": "FOR-2009-12-18-1639",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av helseopplysninger i Egenandelsregisteret (egenandelsregisterforskriften)",
+  "short_title": "Egenandelsregisterforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2010-01-01",
+  "last_change_in_force": "2021-01-01",
+  "last_changed_by": "forskrift/2020-12-18-2862 fra 2021-01-01",
+  "lovdata_refid": "forskrift/2009-12-18-1639",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-12-18-1639",
+  "raw_xml_sha256": "27379ea8778e9e509f77e87fde0e77fa7d3b9a9dca92d4306f23c045d9928f44",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Etablering av Egenandelsregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften etablerer Egenandelsregisteret. Forskriften gir regler om innsamling og øvrig behandling av helseopplysninger i registeret.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Formålet med Egenandelsregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med Egenandelsregisteret er å sikre en god og effektiv behandling av saker om frikort og refusjon av betalte egenandeler, jf. spesialisthelsetjenesteloven § 5-5 og folketrygdloven kapittel 5. Opplysninger i registeret kan brukes som grunnlag for utarbeidelse av statistikk og til forskning som har hjemmel i lov.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forbud mot bruk",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Helseopplysninger i Egenandelsregisteret kan ikke brukes til andre formål enn det som følger av § 2.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dataansvarlig og databehandler",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Helsedirektoratet er dataansvarlig for innsamling og øvrig behandling av helseopplysninger i Egenandelsregisteret.\nHelsedirektoratet kan inngå avtale med en databehandler om behandling av opplysningene, jf. personvernforordningen artikkel 28.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Opplysninger i Egenandelsregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Egenandelsregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger knyttet til personer som mottar helsetjenester som er omtalt i folketrygdloven § 5-3:Fødselsnummer og eventuelt navn, eller annen sikker identifikasjon, adresse og bostedskommune.Tjenesteyters navn, praksistype, organisasjonsnummer og kommunenummer eller annen sikker identifikasjon av tjenesteyter.Tjenestetidspunkt og eventuelt vedtaksdato.Egenandelsbeløp. Dersom egenandelen er en utestående fordring, kan dette registreres ved en merknad, jf. § 7 første ledd andre punktum.Egenandelstakst. Takst som kan referere til en bestemt type behandling pasienten har mottatt, kan ikke registreres.Om brukeren har frikort.At brukeren ikke har betalt egenandel på grunn av annen fritaksgrunn enn frikort.At brukeren har reservert seg.\nOpplysninger om fritaksgrunn, jf. første ledd nr. 7, kan ikke registreres. Opplysninger om at en tjenestemottaker mottar minstepensjon, kan likevel registreres.\nOpplysninger som nevnt i første og andre ledd kan bare behandles i den grad det er nødvendig og relevant for å nå formålet med Egenandelsregisteret.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Reservasjonsrett",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den registrerte kan reservere seg mot at opplysninger etter § 5 første ledd nr. 2–7 automatisk blir registrert i Egenandelsregisteret, og mot tilgjengeliggjøring av opplysninger om den registrerte skal betale egenandel.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Plikt til å sende inn opplysninger til Egenandelsregisteret",
+      "path": [
+        "Kapittel 2. Innsending og behandling av opplysninger i Egenandelsregisteret, kvalitetskontroll mv."
+      ],
+      "text": "Apotek, bandasjist, behandlere, helseforetak og andre tjenesteytere og virksomheter som kan innkreve egenandeler som inngår i egenandelstaket, skal, uten hinder av taushetsplikt, sende inn opplysninger som nevnt i § 5 første ledd til Helsedirektoratet, i det format Helsedirektoratet fastsetter. Opplysningene skal sendes inn digitalt. Merknad om at en egenandel er en utestående fordring kan bare sendes inn dersom innsender har etablert et system for innsending av ny melding når egenandelen er betalt.\nPlikten etter første ledd første punktum gjelder også for Helseforetakenes senter for pasientreiser (ANS), som dataansvarlig for Enkeltoppgjørsregisteret og Direkteoppgjørsregisteret, jf. syketransportregisterforskriften § 1 og § 5.\nDersom den registrerte har reservert seg i medhold av § 6 skal det ikke skje noen automatisk registrering av opplysninger om betalte egenandeler etter innrapportering av opplysninger etter første og andre ledd.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Frist for å sende inn opplysninger til Egenandelsregisteret",
+      "path": [
+        "Kapittel 2. Innsending og behandling av opplysninger i Egenandelsregisteret, kvalitetskontroll mv."
+      ],
+      "text": "Fristen for å sende inn opplysninger som nevnt i § 5 første ledd, jf. § 7 første ledd, er senest 14 dager etter at egenandelen er betalt. Hvis egenandelen er en utestående fordring, er fristen 14 dager etter at egenandelen er utfakturert.\nFristen for å sende inn opplysninger som nevnt i § 5 første ledd, jf. § 7 andre ledd, er ved direkteoppgjør senest 14 dager etter at egenandelen er betalt, og ved enkeltoppgjør senest 14 dager etter at vedtak om refusjon er fattet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 9",
+      "heading": "Annen innsending av opplysninger til Egenandelsregisteret",
+      "path": [
+        "Kapittel 2. Innsending og behandling av opplysninger i Egenandelsregisteret, kvalitetskontroll mv."
+      ],
+      "text": "Opplysninger som nevnt i forskriften § 5 kan også innsendes direkte fra brukeren.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 10",
+      "heading": "Mottakers ansvar for kvalitetskontroll",
+      "path": [
+        "Kapittel 2. Innsending og behandling av opplysninger i Egenandelsregisteret, kvalitetskontroll mv."
+      ],
+      "text": "Helsedirektoratet skal sørge for at egenandelsopplysninger som behandles i Egenandelsregisteret er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 2.\nDersom innsendingen av opplysningene er mangelfull, jf. § 7 eller fristen etter § 8 overskrides, skal avsenderen varsles, jf. pasientjournalloven § 14 tredje ledd.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 11",
+      "heading": "Tilgjengeliggjøring av opplysninger fra Egenandelsregisteret",
+      "path": [
+        "Kapittel 2. Innsending og behandling av opplysninger i Egenandelsregisteret, kvalitetskontroll mv."
+      ],
+      "text": "Helsedirektoratet kan med mindre den registrerte har reservert seg, jf. § 6, uten hinder av taushetsplikten gjøre tilgjengelig opplysninger om en bruker skal betale egenandel. Opplysningene kan gjøres tilgjengelige for andre som gir helsehjelp eller andre tjenester til pasienten som folketrygden er stønadspliktig for. Videre kan opplysningene gjøres tilgjengelige for Helseforetakenes senter for pasientreiser HF og helseforetakene i forbindelse med oppgjør for syketransport og i forbindelse med oppgjør for behandlingsreiser til utlandet. Opplysninger kan også gjøres tilgjengelige for rehabiliteringsinstitusjoner og opptreningsinstitusjoner som utløser egenandeler omfattet av egenandelstaket.\nOpplysninger etter første ledd kan kun gjøres tilgjengelige for behandlere og tjenesteytere som tilbyr tjenester omfattet av egenandelstaket.\nFødselsnumre, ID-numre, eller lignende identifikasjonsnumre kan tilgjengeliggjøres i samsvar med helsepersonelloven § 29b når dette er nødvendig for å kunne koble opplysninger i Egenandelsregisteret med opplysninger i andre offentlige registre for å utarbeide statistikk. Utarbeidet statistikk skal være anonym.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger"
+      ],
+      "text": "Enhver som behandler helseopplysninger etter denne forskriften, har taushetsplikt etter pasientjournalloven § 15.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger"
+      ],
+      "text": "Helsedirektoratet skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Plikt til internkontroll",
+      "path": [
+        "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger"
+      ],
+      "text": "Helsedirektoratet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernforordningen, personopplysningsloven og pasientjournalloven, jf. forordningen artikkel 24. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve kravene for behandling av helseopplysninger i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven. Det skal legges særlig vekt på kravene i forordningen artikkel 24.\nDatabehandler, jf. § 4 andre ledd, skal behandle opplysninger i samsvar med de krav og rutiner Helsedirektoratet har oppstilt.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Internkontrollens innhold",
+      "path": [
+        "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger"
+      ],
+      "text": "Internkontroll innebærer at Helsedirektoratet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem den måtte angå. Internkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og pasientjournalloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med registeret, og er i tråd med gjeldende bestemmelser om taushetspliktoppfyllelse av begjæring om informasjon og innsyn, jf. pasientjournalloven § 18hvordan virksomheten oppfyller bestemmelsen om utlevering av opplysninger fra registeret, jf. § 11.rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og pasientjournalloven,rutiner om hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Lagring og sletting av opplysninger",
+      "path": [
+        "Kapittel 3. Taushetsplikt, informasjonssikkerhet, internkontroll, lagring og sletting av opplysninger"
+      ],
+      "text": "Opplysninger i registeret skal ikke lagres lenger enn det som er nødvendig for å gjennomføre formålet med behandlingen av opplysningene. Hvis ikke opplysningene deretter må oppbevares i henhold til arkivloven, folketrygdloven eller annen lovgivning, skal de slettes, jf. pasientjournalloven § 25.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 18",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 2010.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    }
+  ]
+}

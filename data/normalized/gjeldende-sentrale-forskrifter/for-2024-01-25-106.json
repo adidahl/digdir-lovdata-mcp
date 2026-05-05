@@ -1,0 +1,235 @@
+{
+  "id": "FOR-2024-01-25-106",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om energiutredninger",
+  "department": "Energidepartementet",
+  "date_in_force": "2024-03-01",
+  "lovdata_refid": "forskrift/2024-01-25-106",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-01-25-106",
+  "raw_xml_sha256": "c95d901daf02a168be227849d04879810c61c10de8f738aed9536d6913ad53ad",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften skal bidra til en samfunnsmessig rasjonell utvikling av energisystemet gjennom langsiktig energiplanlegging.\nForskriften skal bidra til tidlig koordinering mellom netteiere, involvering av relevante aktører, og åpne og standardiserte utredningsprosesser.\nForskriften skal bidra til informasjonsdeling med kommuner, fylkeskommuner og andre relevante aktører, og bidra til å gjøre kunnskapsbasert informasjon tilgjengelig for allmennheten.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften har samme virkeområde som energiloven og omfatter anleggs-, område- og fjernvarmekonsesjonærer, og systemansvarlig.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Effektprognose: En beskrivelse av mulig utvikling i effektforbruk og -produksjon.Områdestudie: En analyse av et avgrenset geografisk område som skal identifisere mulige behov for endringer i nettet.Konsept: En overordnet systemløsning som kan løse et behov for nettutvikling som nettutrederen har identifisert.Konseptvalgutredning: Utredning av mulige konsepter for løsning av et definert behov, med en samfunnsøkonomisk analyse av de ulike konseptene.Nettutredning: Samlebegrep for effektprognose, områdestudie og konseptvalgutredning.Nettutreder: Konsesjonærer med konsesjon etter energiloven § 3-1 til nettanlegg med spenning på minst 47 kV, og aktører som har søkt om slik konsesjon.Punkt i nettet: Transformatorstasjoner med øvre spenningsnivå på minst 47 kV.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Utarbeiding og innlevering av nettutredninger",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Nettutrederen skal utarbeide effektprognoser, områdestudier og konseptvalgutredninger.\nNettutrederen skal melde inn og oppdatere nettutredninger og nettiltak til Norges vassdrags- og energidirektorat på den måten Norges vassdrags- og energidirektorat bestemmer.\nNettutrederen skal sørge for at nettutredningen bygger på et forsvarlig grunnlag. Nettutrederen skal informere alle tilgrensende nettutredere og nettutviklingskoordinator i området om pågående områdestudier og konseptvalgutredninger. Nettutrederen skal involvere relevante kommuner og fylkeskommuner i arbeidet med nettutredninger. Nettutrederen skal vurdere hvilke andre relevante aktører som skal involveres i arbeidet med nettutredningen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Nettutviklingskoordinator",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Norges vassdrags- og energidirektorat utpeker ved enkeltvedtak en anleggskonsesjonær til å være nettutviklingskoordinator for et spesifisert geografisk område (koordineringsområde).\nNettutviklingskoordinator skal koordinere utarbeidingen av nettutredninger innenfor koordineringsområdet. Nettutviklingskoordinatoren skal blant annet gi innspill til omfanget av utredningene og bidra med annen veiledning, ved behov.\nNettutviklingskoordinator kan utarbeide nettutredninger og melde inn nettiltak innenfor koordineringsområdet på vegne av en annen nettutreder såfremt denne nettutrederen er enig.\nNettutviklingskoordinator skal invitere alle nettutredere og områdekonsesjonærer innenfor sitt koordineringsområde til årlig møte om nettutvikling. Nettutredere skal informere om forhold og planer som er relevante for det aktuelle koordineringsområdet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Særlige bestemmelser for Statnett",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Statnett skal sørge for at nettutredninger i transmisjonsnettet tar hensyn til:nettutviklingen i regionalnetteteuropeiske tiårsnettplaner og nettutviklingen i andre land andre land som er av betydning for nettutviklingen i Norgeanlegg som behandles etter havenergilova.\nStatnett skal i årlig møte etter § 5 fjerde ledd informere om relevante driftsforhold i koordineringsområdet.\nStatnett skal gi uttalelse ved høring av melding og søknad om anleggskonsesjon for kraftoverførings- eller produksjonsanlegg som kan påvirke utviklingen i transmisjonsnettet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Krav til effektprognoser",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Nettutrederen skal utarbeide effektprognoser for kapasitetsbehov for sine nettanlegg basert på anslag for effektproduksjon og effektforbruk. Effektprognosene skal ha et tidsperspektiv på minst 20 år.\nNettutrederen skal sørge for at det foreligger en effektprognose som ikke er eldre enn to år, for hvert punkt i eget nett.\nNettutrederen skal oppdatere effektprognosene uten ugrunnet opphold når det oppstår vesentlige endringer i etterspørsel etter nettkapasitet.\nNettutrederen kan ved enighet overlate til tilgrensende nettutredere å utarbeide effektprognoser for sine punkter.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Krav til områdestudier",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Nettutrederen skal sørge for at hvert punkt i eget nett til enhver tid er omfattet av en områdestudie som ikke er eldre enn to år.\nOmrådestudien skal identifisere og peke på mulige behov for nettutvikling, og skal inneholde en beskrivelse av:eksisterende nett og ledig kapasitetforsyningssikkerheten i dagens netttilstand og reinvesteringsbehov i nettetmulige begrensninger i fremtidig nettkapasitet basert på effektprognoserandre tema som kan ha betydning for behovet for nettutvikling, f.eks. driftsforhold, systemjording og andre energibærere.\nNettutrederen kan ved enighet overlate til tilgrensende nettutredere å utarbeide områdestudier for sine punkter.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Krav til konseptvalgutredninger",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Før nettutrederen gjennomfører et tiltak i nettet med spenning på 47 kV eller mer og som kan kreve konsesjon etter energiloven § 3-1, skal det utarbeides en konseptvalgutredning, med mindre dette er åpenbart unødvendig.\nKonseptvalgutredningen skal være i samsvar med anerkjent metode for samfunnsøkonomiske analyser, og skal blant annet:beskrive behovet for å gjøre tiltak i nettet og konsekvenser ved fravær av tiltakbeskrive relevante konsepter, inkludert et nullalternativinneholde en vurdering av om behovet kan løses gjennom økt nettutnyttelse, andre alternativer til nettutbygging, eller tiltak i tilgrensende nettvurdere virkninger av konseptene, beskrive usikkerhet i vurderingene, og gi en begrunnet anbefaling av konsept.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 10",
+      "heading": "Krav til innmelding av tiltak",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Nettutrederen skal melde inn alle nettiltak, med mindre dette er åpenbart unødvendig. Innmeldingsplikten oppstår når planleggingsfasen for tiltaket starter.\nInnmeldingen skal inneholde:beskrivelse av hva som skal gjennomføres, inkludert behov og begrunnelsekostnadsanslaggeografisk kartfestingfremdriftsplanstatus for fremdriftnettutrederens kontaktinformasjoninformasjon om eventuelle involverte nettselskap.\nNettutrederen skal uten ugrunnet opphold oppdatere innmeldingen av tiltak ved endringer i opplysningene i annet ledd bokstav a-g. Vesentlige endringer i kostnadsanslag eller fremdriftsplan skal begrunnes.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 11",
+      "heading": "Taushetsbelagte opplysninger",
+      "path": [
+        "Kapittel 2. Nettutredninger og tiltak"
+      ],
+      "text": "Nettutrederen skal sørge for å identifisere og beskytte opplysninger i nettutredninger som inneholder taushetsbelagte opplysninger ved innmelding til Norges vassdrags- og energidirektorat.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Opplysninger til kommunen og fylkeskommunen",
+      "path": [
+        "Kapittel 3. Opplysningsplikter"
+      ],
+      "text": "Anleggs-, område- og fjernvarmekonsesjonærer skal på forespørsel fra kommunen eller fylkeskommunen gi informasjon som de har om energiforsyningen i kommunen eller fylkeskommunen. Dette gjelder ikke sensitiv informasjon om kraftforsyningen, jf. energiloven § 9-3.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Anleggs- område- og fjernvarmekonsesjonærenes plikter",
+      "path": [
+        "Kapittel 3. Opplysningsplikter"
+      ],
+      "text": "Anleggs-, område- og fjernvarmekonsesjonærer skal på forespørsel gi nettutrederen opplysninger om egne anlegg som er nødvendig for å utarbeide nettutredninger.\nAnleggs-, område- og fjernvarmekonsesjonærer skal gi anleggs- og områdekonsesjonærer opplysninger om egne anlegg som er nødvendige for å utarbeide utredninger av nettmessige konsekvenser, jf. § 17.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Opplysninger til Norges vassdrags- og energidirektorat",
+      "path": [
+        "Kapittel 3. Opplysningsplikter"
+      ],
+      "text": "Norges vassdrags- og energidirektorat kan pålegge anleggs-, område og fjernvarmekonsesjonærer å oversende spesifiserte anleggs- og komponentdata, og anslag for fremtidige årlige investeringskostnader.\nNorges vassdrags- og energidirektorat kan pålegge nettutredere og områdekonsesjonærer å rapportere historiske måleverdier for effektforbruk- og produksjon.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Ledig nettkapasitet",
+      "path": [
+        "Kapittel 3. Opplysningsplikter"
+      ],
+      "text": "Nettutrederen skal publisere anslag på ledig kapasitet i dagens nett, og fremtidig nett basert på planlagte tiltak.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat fører kontroll med at bestemmelser gitt i eller i medhold av denne forskriften blir overholdt, og kan gi de pålegg som er nødvendige for gjennomføring av bestemmelser gitt i eller i medhold av forskriften.\nDen som omfattes av denne forskriften, skal medvirke til gjennomføring av kontroll. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre kontroll.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Pålegg om utredninger",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat kan pålegge anleggskonsesjonærer å utarbeide nettutredninger i tråd med denne forskriften.\nNorges vassdrags- og energidirektorat kan pålegge anleggs- og områdekonsesjonærer å utrede nettmessige konsekvenser, herunder tekniske og samfunnsøkonomiske vurderinger, av spesifiserte endringer i energisystemet.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Utveksling av informasjon mellom Norges vassdrags- og energidirektorat og Reguleringsmyndigheten for energi",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat skal så snart som mulig, og uten hinder av taushetsplikt, gjøre informasjon som meldes inn i medhold av denne forskriften tilgjengelig for Reguleringsmyndigheten for energi.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Ved overtredelse av bestemmelsene i denne forskriften eller pålegg gitt i medhold av denne forskriften, kan Norges vassdrags- og energidirektorat fastsette tvangsmulkt i medhold av energiloven § 10-3.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 20",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Ved overtredelse av bestemmelsene i § 4, § 5, § 6, § 7, § 8, § 9, § 10, § 11, § 13, § 14, § 15 og vedtak truffet i medhold av denne forskriften, kan det ilegges overtredelsesgebyr i medhold av energiloven § 10-7.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 21",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat kan i særlige tilfeller dispensere fra denne forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 22",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft fra 1. mars 2024, med unntak av § 7, § 8 og § 15 som trer i kraft fra henholdsvis 1. juni 2024, 1. juni 2025 og 1. januar 2025.\nForskrift 7. desember 2012 nr. 1158 om energiutredninger oppheves fra 1. mars 2024.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    }
+  ]
+}

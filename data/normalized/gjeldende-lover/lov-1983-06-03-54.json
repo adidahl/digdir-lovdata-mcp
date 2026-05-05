@@ -1,0 +1,349 @@
+{
+  "id": "LOV-1983-06-03-54",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om tannhelsetjenesten (tannhelsetjenesteloven)",
+  "short_title": "Tannhelsetjenesteloven – tannhl",
+  "department": "Helse- og omsorgsdepartementet",
+  "legal_area": "Helse- og omsorgsrett > Kommunehelsetjeneste Helse- og omsorgsrett",
+  "date_in_force": "1984-01-01",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "lov/2025-06-20-73 fra 2025-07-01",
+  "lovdata_refid": "lov/1983-06-03-54",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1983-06-03-54",
+  "raw_xml_sha256": "2e572789f8b45289a0cdaa3edf8b74fb95313d56216e5951fa99be3fd9eb1744",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "(Fylkeskommunens ansvar for tannhelsetjeneste)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal sørge for at tannhelsetjenester, herunder spesialisttjenester, i rimelig grad er tilgjengelige for alle som bor eller midlertidig oppholder seg i fylket.\nFylkeskommunen har ansvar for Den offentlige tannhelsetjenesten.\nDen offentlige tannhelsetjenesten omfatter tannhelsetjeneste som utføres på gruppene som er nevnt i § 1-3 enten av fylkeskommunens ansatte eller av privatpraktiserende tannlege som har inngått avtale med fylkeskommunen etter § 4-1.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "(Tannhelsetjenestens formål)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal fremme tannhelsen i befolkningen og ved sin tannhelsetjeneste sørge for nødvendig forebyggelse og behandling. Den skal spre opplysning om og øke interessen for hva den enkelte selv og allmennheten kan gjøre for å fremme tannhelsen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "(Omfanget av Den offentlige tannhelsetjenesten)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Den offentlige tannhelsetjenesten skal organisere forebyggende tiltak for hele befolkningen. Den skal gi et regelmessig og oppsøkende tilbud til:Barn og ungdom fra fødsel til og med det året de fyller 18 år.Psykisk utviklingshemmede i og utenfor institusjon.Grupper av eldre, langtidssyke og uføre i institusjon og hjemmesykepleie.Unge voksne fra året de fyller 19 til og med året de fyller 28 år.Personer som på grunn av rusmiddelavhengighet mottar noen av følgende tilbud:personlig assistanse i medhold av helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav bavlastningstiltak for pårørende i medhold av helse- og omsorgstjenesteloven § 3-6 nr. 2legemiddelassistert rehabilitering i medhold av spesialisthelsetjenesteloven § 3-16Innsatte i fengsler i kriminalomsorgen.Andre grupper som fylkeskommunen har vedtatt å prioritere.\nI tillegg til de prioriterte oppgavene kan Den offentlige tannhelsetjenesten yte tjenester til voksne pasienter mot betaling etter fylkeskommunens bestemmelser. Departementet kan gi forskrift om at fylkeskommunen skal sørge for å tilby slike tjenester i områder av fylket der det ikke foreligger annet tilstrekkelig tilbud, og om pliktens varighet og geografiske virkeområde.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-3a",
+      "heading": "(Tilrettelegging m.v.)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal planlegge, organisere og legge til rette for at fylkeskommunen, tannhelsetjenesten og helsepersonell kan oppfylle krav fastsatt i eller i medhold av lov eller forskrift. Departementet kan i forskrift gi nærmere regler om pliktens innhold.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-3b",
+      "heading": "(Registrering m.v.)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal motta og registrere meldinger om helsepersonell i fylkeskommunen og i tannhelsetjenesten.\nDepartementet kan i forskrift gi regler om hvilke opplysninger som skal gis, når disse skal gis og hvordan de skal registreres og formidles videre til sentralt register.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-3c",
+      "heading": "Fylkeskommunens ansvar for å forebygge, avdekke og avverge vold og seksuelle overgrep",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal ha særlig oppmerksomhet rettet mot at pasienter kan være utsatt for, eller kan stå i fare for å bli utsatt for, vold eller seksuelle overgrep. Fylkeskommunen skal legge til rette for at den offentlige tannhelsetjenesten blir i stand til å forebygge, avdekke og avverge vold og seksuelle overgrep.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-3d",
+      "heading": "(Ansvar for tilbud til personer med midlertidig oppholdstillatelse)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Den offentlige tannhelsetjenestens ansvar etter § 1-3 første ledd bokstav d gjelder ikke for personer med midlertidig oppholdstillatelse i Norge som ikke har bodd minst fem år i riket, jf. § 2-1 a.\nFørste ledd gjelder ikke for personer som har rettigheter i henhold til gjensidighetsavtale med annen stat.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-4",
+      "heading": "(Samordning av Den offentlige tannhelsetjenesten og privat sektor)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen har ansvaret for samordning av Den offentlige tannhelsetjenesten og privat sektor.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-4a",
+      "heading": "Fylkeskommunens ansvar for samarbeid",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal sørge for at virksomheter som yter tannhelsetjenester som nevnt i §§ 1-1 og 1-3, samarbeider med andre tjenesteytere dersom samarbeid er nødvendig for å gi pasienten et helhetlig og samordnet tjenestetilbud, og samarbeider med barnekoordinator dersom dette er oppnevnt etter helse- og omsorgstjenesteloven § 7-2 a.\nFylkeskommunen skal, i tillegg til å følge opp enkelte pasienter, sørge for nødvendig samarbeid mellom tannhelsetjenesten innad i fylkeskommunen, med tannhelsetjenesten i andre fylkeskommuner og andre tjenesteytere, slik at den fylkeskommunale tannhelsetjenesten og de andre tjenesteyterne kan ivareta sine oppgaver etter lov og forskrift.\nMed tjenesteytere etter første og andre ledd menes kommunale, fylkeskommunale og statlige tjenesteytere, private tjenesteytere som yter tjenester på vegne av slike tjenesteytere, barnehager som får tilskudd etter barnehageloven § 19 og skoler som får statstilskudd etter privatskolelova § 6-1.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-10",
+      "provision_ref": "§ 1-5",
+      "heading": "(Meldingsplikt til fylkesadministrasjonen mv.)",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen kan pålegge helsepersonell som arbeider innenfor rammen av denne lov å gi opplysninger til bruk for planlegging, styring og utvikling av tannhelsetjenesten i fylkeskommunen. Utlevering av taushetsbelagte opplysninger etter første punktum skal skje etter samtykke fra den opplysningene angår, hvis ikke annet er bestemt i eller i medhold av lov.\nPålegg etter denne bestemmelsen skal være saklig begrunnet og ikke omfatte flere opplysninger enn det som er nødvendig av hensyn til formålet.",
+      "xml_path": "article#kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-11",
+      "provision_ref": "§ 1-6",
+      "heading": "Om informasjon",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Fylkeskommunen skal sørge for at det gis slik informasjon som pasienten har rett til å motta etter pasient- og brukerrettighetsloven § 3-2. Tilsvarende gjelder for informasjon til pasientens nærmeste pårørende etter pasient- og brukerrettighetsloven § 3-3 tredje ledd.\nVirksomheter som er omfattet av loven her, har plikt til å besvare henvendelser om kvalitet og pasientsikkerhet fra pasienter eller den som opptrer på vegne av pasienten. Denne plikten gjelder også henvendelser om kvalitet og pasientsikkerhet fra nærmeste pårørende til avdød pasient eller fra nærmeste pårørende til pasient over 18 år uten samtykkekompetanse. Henvendelser om kvalitet og pasientsikkerhet skal besvares på egnet måte og blant annet oppfylle krav til informasjon i pasient- og brukerrettighetsloven kapittel 3.\nDepartementet kan gi forskrift om det nærmere innhold i informasjonsplikten etter første ledd.",
+      "xml_path": "article#kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-12",
+      "provision_ref": "§ 1-7",
+      "heading": "Varsel om alvorlige hendelser",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Virksomheter som er omfattet av loven her, skal straks varsle Statens helsetilsyn og Statens undersøkelseskommisjon for helse- og omsorgstjenesten om dødsfall eller svært alvorlig skade på pasient eller bruker som følge av tjenesteytelsen, eller ved at en pasient eller bruker skader en annen, jf. helsetilsynsloven § 6 og lov om Statens undersøkelseskommisjon for helse- og omsorgstjenesten § 7. Varslingsplikten gjelder dersom utfallet er uventet ut fra påregnelig risiko.",
+      "xml_path": "article#kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-13",
+      "provision_ref": "§ 1-8",
+      "heading": "Folkerettslige forpliktelser om trygdekoordinering",
+      "path": [
+        "Kap. 1. Alminnelige bestemmelser"
+      ],
+      "text": "Kongen kan i forskrift gjennomføre bilaterale avtaler med andre land om trygdekoordinering.\nBestemmelsene som er gitt i eller i medhold av denne loven, skal fravikes i den utstrekning det er nødvendig for å overholde forpliktelser som følger av EØS-avtalens hoveddel, bilaterale avtaler som nevnt i første ledd og forordninger og avtaler som nevnt i folketrygdloven §§ 1-3 a og 1-3 b.",
+      "xml_path": "article#kapittel-1-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "(Rett til tannhelsehjelp)",
+      "path": [
+        "Kap. 2. Rett til tannhelsehjelp"
+      ],
+      "text": "Alle nevnt i § 1-3 har rett til nødvendig tannhelsehjelp i den fylkeskommune der de bor eller midlertidig oppholder seg.\nDen offentlige tannhelsetjenesten skal gi den som søker eller trenger tannhelsehjelp, de opplysninger vedkommende trenger for å ivareta sin rett, og se til at det ikke påføres unødig utgift, tap, tidsspille eller uleilighet.\nForvaltningslovens regler gjelder ikke for vedtak etter denne paragrafen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-1a",
+      "heading": "(Krav om botid i riket for personer med midlertidig oppholdstillatelse)",
+      "path": [
+        "Kap. 2. Rett til tannhelsehjelp"
+      ],
+      "text": "Personer nevnt i § 1-3 første ledd bokstav d som har midlertidig oppholdstillatelse i riket, skal ha fem års botid i riket for å ha rett til nødvendig tannhelsehjelp etter § 2-1.\nKravet om botid i riket gjelder ikke for personer som har rettigheter i henhold til gjensidighetsavtale med annen stat.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-2",
+      "heading": "(Vederlag for tannpleie i Den offentlige tannhelsetjenesten)",
+      "path": [
+        "Kap. 2. Rett til tannhelsehjelp"
+      ],
+      "text": "For hjelp i Den offentlige tannhelsetjenesten skal mottageren betale vederlag når dette følger av forskrift fastsatt av departementet eller fylkeskommunen.\nFor hjelp til grupper som nevnt i § 1-3 første ledd andre punktum bokstav a, b, c, e og f kan det, med unntak for kjeveortopedisk behandling, ikke kreves vederlag.\nVederlaget kan fastsettes som egenandel eller betaling etter takst.\nDepartementet fastsetter egenandeler og takster.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-3",
+      "heading": "(Klage)",
+      "path": [
+        "Kap. 2. Rett til tannhelsehjelp"
+      ],
+      "text": "Den som ikke får den hjelp som er bestemt i denne lov og godkjent plan, kan klage til det organ fylkeskommunen bestemmer. Går avgjørelsen klageren imot eller avvises klagen, kan avgjørelsen klages til statsforvalteren.\nFristen for å klage er i alle tilfelle tre uker fra vedkommende fikk høve til å klage. En klage som kommer etter fristen, kan likevel tas under behandling når det finnes rimelig at den blir prøvd.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "(Politiattest)",
+      "path": [
+        "Kap. 3. Politiattest"
+      ],
+      "text": "Fylkeskommunen skal innhente politiattest fra helsepersonell i samsvar med helsepersonelloven § 20 a.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "(Privat tannhelsevirksomhet)",
+      "path": [
+        "Kap. 4. Forholdet mellom fylkeskommunene og privat tannhelsetjeneste"
+      ],
+      "text": "Dersom pasientenes utgifter til tannpleie helt eller delvis skal kunne godtgjøres av fylkeskommunen, jfr. § 5-1 annet ledd, må privatpraktiserende tannlege ha skriftlig avtale med fylkeskommunen der vedkommende vil ha sitt kontor eller hovedvirke.\nAvtale som nevnt i denne paragraf kan ikke overdras.\nFylkestannlegen fører tilsyn med slik virksomhet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "(Inngåelse av avtale med privat tannlege)",
+      "path": [
+        "Kap. 4. Forholdet mellom fylkeskommunene og privat tannhelsetjeneste"
+      ],
+      "text": "Hvis en fylkeskommune ønsker å inngå avtale med privatpraktiserende tannlege om behandling av prioriterte grupper som nevnt i § 1-3 første ledd bokstav a til g, skal den kunngjøre at interesserte kan melde seg. Avtale skal inngås med den som er faglig best skikket.\nDepartementet kan gi nærmere forskrifter om privat virksomhet innen Den offentlige tannhelsetjenesten, om kunngjøring av ledig avtale, om fremgangsmåte ved valg blant søkere og om avtalevilkår.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "(Fylkeskommunens ansvar for utgifter)",
+      "path": [
+        "Kap 5. Om utgiftene"
+      ],
+      "text": "Fylkeskommunen skal dekke utgifter ved Den offentlige tannhelsetjenesten.\nPasientenes utgifter til behandling som er utført i privat praksis etter avtale med fylkeskommunen skal helt eller delvis dekkes av fylkeskommunen på samme måte som om tilbudet hadde vært gitt av fylkeskommunens ansatte tannleger.\nFylkeskommunen skal dekke skyssutgifter i samsvar med forskrift fastsatt av fylkeskommunen for pasienter under § 1-3 som søker tannhelsehjelp i Den offentlige tannhelsetjenesten.\nI den utstrekning tannhelsetjenester som omhandlet i § 1-3 gir rett til stønad etter regler fastsatt i forskrift i medhold av folketrygdloven § 5-24 a, skal fylkeskommunen dekke utgifter til tannhelsetjenester som bosatte i fylkeskommunen har mottatt i et annet EØS-land. Departementet kan i forskrift gi nærmere bestemmelser om utgiftsdekningen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "(Tilskudd fra staten)",
+      "path": [
+        "Kap 5. Om utgiftene"
+      ],
+      "text": "Staten yter årlig rammetilskudd til delvis dekning av fylkeskommunenes utgifter. Tilskuddet fordeles gjennom inntektssystemet for kommunene og fylkeskommunene etter regler gitt av Kongen.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "(Plikt til å utarbeide atskilte regnskaper mv.)",
+      "path": [
+        "Kap 5. Om utgiftene"
+      ],
+      "text": "Departementet kan gi forskrift om føring av atskilte regnskaper, krav til fordeling av inntekter og utgifter, regulering av overskudd, kontrollsystemer, informasjon og andre krav som er nødvendige for å unngå kryssubsidiering mellom tannhelsetjenester som fylkeskommunen tilbyr der det ikke foreligger annet tilstrekkelig tilbud, og tjenester som tilbys i konkurranse med private tjenesteytere.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "(Undervisning og praktisk opplæring)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Enhver fylkeskommune plikter å medvirke til undervisning og praktisk opplæring av tannhelsepersonell, herunder også videre- og etterutdannelse.\nFylkeskommunen skal sørge for at dens ansatte tannhelsepersonell får påkrevet videre- og etterutdannelse.\nTannhelsepersonell innen Den offentlige tannhelsetjenesten plikter å ta del i videre- og etterutdannelse som blir foreskrevet og som er nødvendig for å holde dets kvalifikasjoner ved like.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "(Tilsyn og veiledning)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Statens helsetilsyn skal føre tilsyn med at fylkeskommunene fremmer tannhelsetjenestens formål på forsvarlig og hensiktsmessig måte, og se til at lover og forskrifter for tannhelsetjenesten blir kjent og overholdt.\nUten hinder av taushetsplikt kan Statens helsetilsyn eller den det gir myndighet kreve opplysninger om tannhelsetjenesten i fylkeskommunen og dens pasienter som er påkrevet for oversikt, kontroll og tilsyn. Det foretas inspeksjon og undersøkelser også av journal og opptegnelser m.v.\nStatens helsetilsyn kan pålegge fylkestannlegen å utføre disse tilsynsoppgavene på Statens helsetilsyns vegne.\nStatens helsetilsyn kan forelegge innhentede opplysninger for sakkyndige til uttalelse.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "(Samarbeid mellom fylkeskommuner)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Fylkeskommunene kan inngå avtaler om samarbeid om de oppgaver som pålegges dem etter denne lov.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "(Gjennomføring og utfylling)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Departementet kan gi nærmere forskrifter til utfylling og gjennomføring av denne loven.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "(Svalbard)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Loven gjelder for Svalbard i den utstrekning departementet bestemmer.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "(Oslo)",
+      "path": [
+        "Kap. 6. Forskjellige bestemmelser"
+      ],
+      "text": "Det som er fastsatt for fylkeskommuner i denne loven gjelder også for bykommunen Oslo.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "(Eldre forskrift, vedtekt m.v.)",
+      "path": [
+        "Kap. 7. Overgangsbestemmelser"
+      ],
+      "text": "Forskrift, vedtekt, instruks o.l. gitt med hjemmel i tidligere lov som oppheves eller endres når denne loven trer i kraft, gjelder fortsatt i den utstrekning den ikke strider mot denne loven eller er erstattet med forskrift, vedtekt, instruks e.l. gitt i medhold av den.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "(Økonomiske overgangsordninger)",
+      "path": [
+        "Kap. 7. Overgangsbestemmelser"
+      ],
+      "text": "Kongen skal gi nærmere regler om overgangsordninger.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "(Foregrepet ikrafttreden)",
+      "path": [
+        "Kap. 8. Ikrafttreden"
+      ],
+      "text": "Etter at loven er vedtatt, men før den er trådt i kraft, kan departementet gi forskrift, instruks eller pålegg som trer i kraft samtidig med loven.\nDepartementet kan også gi bestemmelser om at fylkeskommunen skal foreta oppnevning av styre, utvalg eller nemnd for tannhelsetjenesten, ansette tannhelsepersonell og organisere administrasjon slik at Den offentlige tannhelsetjenesten kan tre i virksomhet fra den tid denne loven trer i kraft.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "(Ikrafttreden)",
+      "path": [
+        "Kap. 8. Ikrafttreden"
+      ],
+      "text": "Loven trer i kraft 1. januar 1984. Kongen kan fastsette at enkelte bestemmelser skal tre i kraft fra senere tid enn loven forøvrig.Fra samme tid oppheves følgende lover: – – –Fra samme tid foretas endring i – – –",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    }
+  ]
+}

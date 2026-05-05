@@ -1,0 +1,158 @@
+{
+  "id": "FOR-2025-01-20-52",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kart, stedfestet informasjon, arealformål og kommunalt planregister (kart- og planforskriften)",
+  "short_title": "Kart- og planforskriften",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2025-07-01",
+  "last_change_in_force": "2026-01-22",
+  "last_changed_by": "forskrift/2026-01-22-67",
+  "lovdata_refid": "forskrift/2025-01-20-52",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-01-20-52",
+  "raw_xml_sha256": "65d8cf9ac446933e702d213e3b67173ed0aff97b421d6d2bfc58767b05c0641c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften skal legge til rette for framstilling av entydige og forståelige arealplaner, og for sikker forvaltning av det offentlige kartgrunnlaget og de kommunale planregistrene. Informasjon fra det offentlige kartgrunnlaget og de kommunale planregistrene skal kunne sammenstilles og brukes på tvers av administrative grenser og organisatoriske skiller. De kommunale planregistrene skal gi en samlet oversikt over tillatt og planlagt bruk av arealene etter plan- og bygningsloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I denne forskriften menes medplandata: arealformål, bestemmelser, hensynssoner og arealsoner, samt planens geografiske avgrensning (planområdet)basiskart: geodata i plankart som ikke er gjenstand for vedtaknasjonal arealplan-ID: et landsdekkende entydig og unikt kjennetegn (identifikasjon) på en arealplan.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Datasikkerhet",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den som har ansvaret for driften av kommunens planregister og data som inngår i det offentlige kartgrunnlaget, skal påse at disse blir håndtert og oppbevart på en sikkerhetsmessig forsvarlig måte, herunder at det jevnlig tas sikkerhetskopier av databaser.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilgang til informasjon i planregisteret og det offentlige kartgrunnlaget",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Alle har rett til gratis å gjøre seg kjent med innholdet i kommunens planregister og det offentlige kartgrunnlaget. Kommunen skal sørge for at informasjon fra planregisteret er elektronisk tilgjengelig i form av søke-, visnings- og nedlastingstjenester på Internett.\nKommunen skal stille nødvendig utsnitt av det offentlige kartgrunnlaget til rådighet for alle som fremmer eller uttaler seg om en plan- eller byggesak.\nKommunen kan ta betalt for utlevering eller nedlasting av data fra planregisteret og det offentlige kartgrunnlaget i samsvar med § 4 i forskrift 17. oktober 2008 nr. 1119 til offentleglova (offentlegforskrifta). Det kan ikke kreves betaling for planer eller data som skal benyttes i forbindelse med uttalelse til planer, til bruk ved innsigelse eller klagebehandling.\nKommunen skal sørge for at data fra planregisteret er tilgjengelig via den nasjonale geografiske infrastrukturen etter de reglene som gjelder for slik deling av data.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Veiledning og kontroll",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Statens kartverk skal veilede kommunene om forvaltningen av planregisteret, og bistå kommunene med å kontrollere den tekniske kvaliteten til det offentlige kartgrunnlaget og plandataene.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Det offentlige kartgrunnlaget",
+      "path": [
+        "Kapittel 2. Det offentlige kartgrunnlaget, krav om kartlegging og tekniske krav til data"
+      ],
+      "text": "Kommunen skal i samarbeid med staten og fylkeskommunen sørge for et oppdatert offentlig kartgrunnlag for kommunens areal ut til én nautisk mil utenfor grunnlinjene. Det offentlige kartgrunnlaget skal være egnet til å ivareta kommunens og fylkeskommunens oppgaver etter plan- og bygningsloven samt andre offentlige og private formål.\nDet offentlige kartgrunnlaget skal følge spesifikasjoner godkjent av Statens kartverk og være stedfestet med koordinater i det nasjonale geodetiske grunnlaget i grunnriss og høyde.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Krav om kartlegging",
+      "path": [
+        "Kapittel 2. Det offentlige kartgrunnlaget, krav om kartlegging og tekniske krav til data"
+      ],
+      "text": "Kommunen kan kreve at den som fremmer planforslag, konsekvensutredning eller søknad om tiltak etter plan- og bygningsloven, skal framskaffe geodata når dette er nødvendig for å ta stilling til forslaget. Slikt krav kan bare framsettes dersom det offentlige kartgrunnlaget ikke er nøyaktig eller detaljert nok til å kunne ta stilling til forslaget. Kommunen skal så tidlig som mulig informere om at slikt krav kan bli aktuelt og årsaken til dette.\nGeodataene kan innarbeides i det offentlige kartgrunnlaget. Kommunen skal stille data, som kommunen ikke selv innarbeider, til rådighet for andre relevante offentlige organer, i den grad dataene må antas å være anvendelige for bruk i det offentlige kartgrunnlaget.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Tekniske krav til data",
+      "path": [
+        "Kapittel 2. Det offentlige kartgrunnlaget, krav om kartlegging og tekniske krav til data"
+      ],
+      "text": "Den som fremmer planforslag, skal levere planen i digital form i henhold til Nasjonal produktspesifikasjon for arealplan og digitalt planregister og spesifikasjoner for data som skal inngå i det offentlige kartgrunnlaget, georeferert til det geodetiske grunnlaget og den kartprojeksjonen som er fastsatt for kommunen. Kommunen kan kreve at forslag til arealplan som skal tas opp til behandling av kommunen, tilfredsstiller alle tekniske krav med hjemmel i forskriften her. Kommunen skal så raskt som mulig etter mottakelsen av planen, gi forslagsstiller melding hvis kravene ikke er oppfylt, og summarisk oppgi avvikene.\nTilsvarende krav gjelder også for geodata som leveres i forbindelse med konsekvensutredning eller søknad om tiltak som krever konsekvensutredning, og for geodata som framskaffes etter § 7. Det samme gjelder for data som kommunen skal stille til rådighet for forslagsstiller fra det offentlige kartgrunnlaget og fra kommunens planregister.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Arealplan",
+      "path": [
+        "Kapittel 3. Framstilling av arealplan"
+      ],
+      "text": "Med arealplan menes en reguleringsplan, arealdelen til kommuneplanen eller en regional plan med arealsoner. En arealplan omfatteret eller flere plankartet eller flere dokumenter med bestemmelser som ikke framgår av plankartet, herunder eventuelle vedlegg eller illustrasjoner som er gjort bindende.\nArealplanen skal framstilles med plandata angitt som separate og entydige objekter kodet i samsvar med Nasjonal produktspesifikasjon for arealplan og digitalt planregister. Arealplanen skal ha navn og nasjonal arealplan-ID i samsvar med produktspesifikasjonen. Forslag til arealplan skal tildeles nasjonal arealplan-ID senest ved varsel om oppstart av planarbeidet.\nPlandata skal være stedfestet med så stor nøyaktighet, sammenholdt med basiskartet, at vedtatte formålsgrenser kan legges til grunn for søknad om tillatelse til kommunen uten ytterligere undersøkelser.\nEn arealplan som inneholder flere vertikalnivåer, skal organiseres slik at hvert vertikalnivå kan konstrueres og framstilles som selvstendige plankart. Arealplanen kan inneholde ett eller flere av følgende vertikalnivåer:under grunnenpå grunnen eller vannoverflatenover grunnenpå bunneni vannsøylen.Ett og samme vertikalnivå kan inndeles i flere lag.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Plankartet",
+      "path": [
+        "Kapittel 3. Framstilling av arealplan"
+      ],
+      "text": "Plankartet skal konstrueres med arealformål, hensynssoner og arealsoner i form av punkt, linjer, flater eller volum, slik det framgår av vedlegg til forskriften her. Plankartet kan også angi bestemmelser til planen når det framgår av vedlegg til forskriften her. Det kan angis flere hensynssoner og flere bestemmelser for ett og samme sted. Opplysninger om hensynssoner skal omfatte opplysninger om bestemmelser og retningslinjer som ivaretar det hensynet sonen viser.\nPlankartet skal vise innhold og rettslige virkninger på en klar og entydig måte i samsvar med Nasjonal produktspesifikasjon for arealplan og digitalt planregister, og med tilstrekkelig nøyaktig stedfesting tilpasset formålet med planen. Plankartet skal på en tydelig måte skille mellom plandata og basiskart. Plankartet skal ha en målestokk som er tilpasset arealplanens formål.\nPlankartet skal være påført plannavn, nasjonal arealplan-ID, tegnforklaring, nordpil, målestokktall, målestokklinjal og markering av koordinatnettet. Kartet skal gi opplysninger om hvilket horisontalt geodetisk grunnlag, høydegrunnlag og hvilken kartprojeksjon som er benyttet, og dato og kilde for eiendomsdata og andre geodata som er brukt i basiskartet. Det skal opplyses hvem som er forslagstiller, hvem som har utarbeidet og eventuelt revidert plankartet og om planens behandling. Tegnforklaringen skal skille mellom symboler som er bestemmende for framtidig arealbruk, og annen informasjon. Vedtaksdato og dato for kunngjøring skal framgå av tittelfeltet til plankartet. Arealplaner som består av flere plankart, skal ha et system for å skille og identifisere de ulike utsnittene fra hverandre og vise sammenhengen mellom dem.\nEn arealplan som omfatter flere helt eller delvis geografisk sammenfallende vertikalnivåer, skal ha separate kartutsnitt for hvert nivå når dette er nødvendig for å sikre at planen er entydig og enkel å forstå. Kommunen kan kreve at framstillingen suppleres med nødvendig perspektiv- eller volumillustrasjon.\nI arealdel til kommuneplan skal plankartet skille mellom eksisterende og nye arealformål.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Vedtatt arealplan m.m.",
+      "path": [
+        "Kapittel 3. Framstilling av arealplan"
+      ],
+      "text": "Vedtatt arealplan skal være på godkjent digitalt arkivformat for dokumenter. Vedtaksmyndigheten skal ha saks- og arkivsystemer som sikrer at det arkiverte eksemplaret er identisk med vedtaket planmyndigheten har fattet.\nKopi av et vedtatt plankart skal gi identisk informasjon som originalen.\nKommunen kan ved digitalisering av vedtatte analoge planer, gjøre rene tekniske tilpasninger til nytt basiskart. Det skal ikke foretas endringer uten at planen behandles i samsvar med plan- og bygningsloven § 11-17 eller § 12-14. Informasjon om digitaliseringen skal føres inn i planregisteret og bekreftes med det vedtatte plankartet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Planregister",
+      "path": [
+        "Kapittel 4. Kommunalt planregister"
+      ],
+      "text": "Kommunen skal sørge for at opplysninger om nye vedtak føres i planregisteret straks vedtaket foreligger. Krever vedtaket kunngjøring, skal det være ført inn i registeret før kunngjøringen finner sted. Kommunen skalfør varsel om oppstart blir gitt, registrere opplysninger om hvor det skal fremmes forslag til ny plan eller endring av plan (planområdet), nasjonal arealplan-ID og dokumentasjon om planstatusetter at planen er vedtatt, registrere opplysninger om arealplanen med arealformål, bestemmelser, hensynssoner inkludert bestemmelser og retningslinjer som ivaretar det hensynet sonene viser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato, planstatus og identifisering av planens vertikalnivåerregistrere eventuelle innsigelser eller klager til vedtak som nevnt i bokstav b, inkludert om det er vedtatt utsatt iverksetting av vedtaket, om det er vedtatt at deler av en plan skal ha rettsvirkning selv om det er fremmet innsigelse, og om det endelige vedtaket etter at klagen eller innsigelsen er avgjortregistrere midlertidig forbud mot tiltak etter plan- og bygningsloven kapittel 13, inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID på planer som berøres av forbudet, samt opplysninger om forbudet er opphevet, endret, forlenget eller falt bortregistrere varige og midlertidige dispensasjoner etter plan- og bygningsloven § 19-2, inkludert vedtaksdato, saksnummer og nasjonal arealplan-ID til den arealplanen som det dispenseres fra, hva dispensasjonen gjelder og hvor.\nKommunen skal på tilsvarende måte føre opplysninger om statlige arealplaner vedtatt etter plan- og bygningsloven § 6-4. Statlige myndigheter skal sende opplysninger som nevnt i første ledd, straks disse er vedtatt eller vedtatt endret til vedkommende kommune.\nFylkeskommunen skal straks sende opplysninger om alle vedtatte regionale planer med arealsoner og bestemmelser, samt planens navn og nasjonal arealplan-ID, plantype, vedtaksdato, ikrafttredelsesdato, kunngjøringsdato og planstatus til kommunen, slik at planen kan føres inn i kommunens planregister.\nPlanregisteret skal oppfylle kravene i Nasjonal produktspesifikasjon for arealplan og digitalt planregister. Innholdet i planregisteret skal være egnet for bruk til statistikkformål, og omfatte tilstrekkelige metadata for at brukere av registeret skal kunne søke fram og bruke dataene.\nDet skal være fullt samsvar mellom opplysningene i registeret og vedtakene som er fattet. Plandata og andre opplysninger om vedtak skal ikke endres uten at det framgår på hvilket grunnlag dataene er endret, hvem som har foretatt endringen og med hvilken fullmakt eller autorisasjon dette har skjedd.\nKommuner kan inngå interkommunalt samarbeid om felles planregister.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 13",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel 5. Overgangsbestemmelser og ikrafttredelse"
+      ],
+      "text": "Kommunen kan bestemme at arealplaner vedtatt før 1. januar 2010 skal føres inn i planregisteret. Slike planer skal da registreres med nasjonal arealplan-ID og bestemmelsene i denne forskriften kommer til anvendelse på planen så langt de passer. Planområdet skal dokumenteres i form av et plankart i planregisteret.\nKommuner som ikke har digitalt planregister, kan føre planregister med planoversikt i samsvar med bestemmelsen i tidligere forskrift 26. juni 2009 nr. 861 om kart, stedfestet informasjon, arealformål og kommunalt planregister § 13 frem til et år etter denne forskriftens ikrafttredelse.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Overgangsbestemmelser og ikrafttredelse"
+      ],
+      "text": "Forskriften gjelder fra 1. juli 2025.\nFra samme tidspunkt oppheves forskrift 26. juni 2009 nr. 861 om kart, stedfestet informasjon, arealformål og kommunalt planregister.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "id": "FOR-2025-06-22-1188",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forsøksordning med nettlege i allmennlegetjenesten (kommunal nettlege)",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2025-06-23",
+  "lovdata_refid": "forskrift/2025-06-22-1188",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-06-22-1188",
+  "raw_xml_sha256": "94b57b9e91b05c5c5de0a38ac49109d2642f691af89fe0a64f3d1e02023651a4",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "I"
+      ],
+      "text": "Formålet med forskriften er å regulere en oppgjørsordning for å gjennomføre forsøk med nettlege i allmennlegetjenesten. Forskriften skal sikre at medlemmene får dekket sine utgifter til helsehjelp hos lege i ordningen og oppgjøret mellom tjenesteyter og folketrygden.\nForsøket skal være et supplement til kommunens fastlegeordning og legevakttjenester.\nForskriften utvider virkeområdet for regelverk gitt i folketrygdloven kapitlene 5 og 22.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "I"
+      ],
+      "text": "Forskriften gjelder for kommuner som har inngått avtale med Helsedirektoratet om å delta i forsøksvirksomhet med nettlege i allmennlegetjenesten, personer folkeregistrert som bosatt i disse kommunene, og leger som yter digital helsehjelp i forsøket.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Rett til trygderefusjon for lege som yter helsehjelp i forsøket",
+      "path": [
+        "I"
+      ],
+      "text": "Folketrygden yter stønad for digital helsehjelp hos lege som har individuell avtale om å yte digital helsehjelp med kommune som deltar i forsøket.\nLegen må ha oppnådd læringsmålene i spesialistutdanningens første del eller tilsvarende spesialistutdanningens første del. Legen må i tillegg ha gjennomført kurs i akuttmedisin og kurs i volds- og overgrepshåndtering.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Stønad til dekning av utgifter til undersøkelse og behandling hos lege i forsøket",
+      "path": [
+        "I"
+      ],
+      "text": "Folketrygden yter stønad til dekning av medlemmets utgifter til helsehjelp ved digital helsehjelp hos lege i forsøket.\nHonorar for utført helsehjelp hos lege i forsøket skal tilsvare honorar som følger av kapittel II.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Egenandeler ved helsehjelp hos nettlege i allmennlegetjenesten",
+      "path": [
+        "I"
+      ],
+      "text": "Medlemmet betaler egenandeler for digital helsehjelp utført av lege i forsøksordningen etter satser som fremgår av kapittel II.\nEgenandeler betalt for helsehjelp i forsøket inngår i opptjeningen mot taket for egenandeler etter folketrygdloven § 5-3.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Plikt til avtale om direkte oppgjør med Helfo",
+      "path": [
+        "I"
+      ],
+      "text": "Kommuner som deltar i forsøket og yter digital helsehjelp med ansatte leger, skal inngå avtale om direkte oppgjør med Helfo i samsvar med folketrygdloven kapittel 22.\nNæringsdrivende leger som har egen avtale med kommuner om å yte digital helsehjelp i forsøket, skal inngå avtale om direkte oppgjør som nevnt i første ledd.\nReglene i folketrygdloven kapittel 22 gjelder så langt de passer.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    }
+  ]
+}

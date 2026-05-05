@@ -1,0 +1,44 @@
+{
+  "id": "FOR-2009-10-16-1280",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fortsatt anvendelse av Luganokonvensjonen 1988",
+  "short_title": "Forskrift om anvendelse av Luganokonvensjonen",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2010-01-01",
+  "lovdata_refid": "forskrift/2009-10-16-1280",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-10-16-1280",
+  "raw_xml_sha256": "f03318cd672c5058cd28612a747e7e984b977f0d3ae4b943ae1e06ae5af950b1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Konvensjonen om domsmyndighet og fullbyrding av dommer i sivile og kommersielle saker vedtatt i Lugano 16. september 1988 med protokoller (Luganokonvensjonen 1988) gjelder som lov i forhold til Island og Sveits.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Dommer avsagt i Island eller Sveits og som ikke behøver å anerkjennes eller fullbyrdes etter Luganokonvensjonen 1988 protokoll nr. 1 artikkel II, har ikke rettskraft og tvangskraft her i riket.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Fra det tidspunkt Konvensjonen om domsmyndighet og om anerkjennelse og fullbyrdelse av dommer i sivile og kommersielle saker med protokoller og vedlegg, vedtatt i Lugano 30. oktober 2007 (Luganokonvensjonen 2007) trer i kraft for Island og Sveits, opphører samtidig denne forskriften å gjelde i forholdet mellom Norge og vedkommende stat.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2010.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

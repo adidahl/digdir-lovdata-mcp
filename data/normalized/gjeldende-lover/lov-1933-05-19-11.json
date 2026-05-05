@@ -1,0 +1,40 @@
+{
+  "id": "LOV-1933-05-19-11",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om særavgifter (særavgiftsloven)",
+  "short_title": "Særavgiftsloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Skatte- og avgiftsrett > Særavgifter",
+  "date_in_force": "1933-05-19",
+  "last_change_in_force": "2017-01-01",
+  "last_changed_by": "lov/2016-05-27-14 fra 2017-01-01",
+  "lovdata_refid": "lov/1933-05-19-11",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1933-05-19-11",
+  "raw_xml_sha256": "f44e6e9a9f1c0fa788b478d9c2cae4428172d27392a740effaf7b0d1335396a8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Når Stortinget med henvisning til denne loven vedtar særavgifter til statskassen som ikke omhandles i andre lover, fastsetter departementet nærmere bestemmelser om beregning og kontroll. Gjelder særavgiften etanol til teknisk bruk, fastsetter departementet forskrifter om forbud, produksjon, innførsel, utførsel og omsetning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Avgiften svares etter de regler som gjelder på det tidspunkt avgiftsplikten oppstår.\nEr det ved avgiftspåleggets ikrafttreden inngått kontrakt om leveranse, plikter mottageren å betale et tillegg motsvarende avgiften medmindre det godtgjøres at det ved prisansettelsen har vært tatt hensyn til avgiften.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

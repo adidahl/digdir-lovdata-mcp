@@ -1,0 +1,24 @@
+{
+  "id": "FOR-1991-11-15-737",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overføring av fullmakt til Landbruksdepartementet etter lov om kvalitetskontroll av landbruksvarer m.v.",
+  "short_title": "Del. til LD/kvalitetskontroll av landbruksvarer",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1991-11-15",
+  "lovdata_refid": "forskrift/1991-11-15-737",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1991-11-15-737",
+  "raw_xml_sha256": "01aa37f312eb15ec168d68b6ebca3a19ff219205ceac4d50c8d01a516451173f",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Overføring av fullmakt til Landbruksdepartementet etter lov om kvalitetskontroll av landbruksvarer m.v.",
+      "path": [],
+      "text": "De fullmakter som etter lov av 17. juni 1932 nr. 6 om kvalitetskontroll med landbruksvarer m.v. er tillagt Kongen, overføres til Landbruksdepartementet.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

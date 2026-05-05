@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2021-07-02-2339",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om endring i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten",
+  "short_title": "Endr. i forordning om Den europeiske banktilsynsmyndighet om lokalisering av tilsynsmyndigheten",
+  "department": "Finansdepartementet",
+  "date_in_force": "2021-07-02",
+  "lovdata_refid": "forskrift/2021-07-02-2339",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-07-02-2339",
+  "raw_xml_sha256": "a3b0d14775630ac746d9a20ed1f62d8e1e031512aa0f1694d6fd97855c9ceb2f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gjennomføring av forordning (EU) 2018/1717 om lokalisering av Den europeiske banktilsynsmyndighet",
+      "path": [],
+      "text": "EØS-avtalen vedlegg IX forordning (EU) 2018/1717 om endring av forordning (EU) nr. 1093/2010 med hensyn til lokalisering av Den europeiske banktilsynsmyndighet gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

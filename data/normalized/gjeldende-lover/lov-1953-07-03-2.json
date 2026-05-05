@@ -1,0 +1,82 @@
+{
+  "id": "LOV-1953-07-03-2",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om sjøtrygdelag [sjøtrygdelagloven]",
+  "short_title": "Sjøtrygdelagloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Forsikring Erstatnings- og forsikringsrett > Ansvarsforsikringer",
+  "date_in_force": "1953-07-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1953-07-03-2",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1953-07-03-2",
+  "raw_xml_sha256": "3d26502048bf54440d3a03d69c6f480979f40986b3e1356519ed9038b8ae65b5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Denne lova gjeld tilsyn med ymsesidige sjøtrygdelag som etter sine vedtekter har eit geografisk avgrensa virkeområde, og som ikkje kan teikna større trygd enn kr. 25.000 for eiga rekning på ein vågnad, og berre trygdar farty, fiskereiskap, utstyr og fengd, og reiaransvar, tidstap og andre trygdingar som går inn som eit naturleg ledd i moderne fiskeridrift. Finanstilsynet kan i serlege høve godkjenne høgare sum enn kr. 25.000 for eiga rekning på ein vågnad, men ikkje høgare enn kr. 100.000.\nOmrådeavgrensinga i første leden gjeld ikkje for attertrygding i samsvar med attertrygdskipnad som Finanstilsynet har godkjent. Arbeidsområdet kan vera meir enn ti kommunar når det kjem av at talet på kommunar i området aukar etter at laget er skipa.\nHar laget gjort ei attertrygdavtale som er godkjent av Finanstilsynet, kan høgstesummen for eiga rekning på ein vågnad aukast til kr 100.000. Dersom Finanstilsynet finn det forsvarleg, kan det for det einskilde lag godkjenne høgare sum, men ikkje utover kr 300.000.\nKongen kan endra summane i første og tredje leden for trygd for eiga rekning på ein vågnad.\nEin kjøl, garnlenk, anna reiskapseining eller ein lagringsplass vert rekna for ei vågnadseining.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Kongen kan fastsetja at lova og skal gjelda andre sjøtrygdelag når det er rimelegt etter den verksemd dei driv.\nKongen kan fastsetja at eit ymsesidig sjøtrygdelag skal gå inn under forsikringsloven1 når det trengst etter den verksemd laget driv. Eit slikt lag står då ikkje lenger under denne lova her.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Kongen kan gjeva reglar om lagskiping og styreskipnad.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Foretaksnamnet åt laget skal syna kva slag trygdeverksemd laget driv, og at det er eit ymsesidigt trygdelag. Laget må ikkje ta eit foretaksnamn som svarar til eller lett kan føra til mistak med noko namn som alt er nytta av eit anna norsk trygdelag eller av utanlandsk lag som arbeider her i riket.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Kvart trygdelag skal ha vedtekt for verksemda med føresegner om kva slag verksemd laget skal driva og omfanget av den, om lagsorgan og deira avgjeringsmakt, om kva rett og skyldnad lagsmennene har innbyrdes og til tridjemann, og om korleis rekneskap skal leggjast fram og avgjerast.\nKongen gjev nærare reglar om kva det skal stå i vedtekta. Reglane kan ha form av ei normalvedtekt.\nVedtekter og brigde i dei treng godkjenning av Kongen eller den han gjev fullmakt.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [],
+      "text": "Kjem Finanstilsynet til at eit trygdelag driv verksemda si i strid med lov, vedtekt eller reglar som er gjevne med heimel i denne lova, eller at verksemda ikkje har trygt nok grunnlag, skal rådet gjeva laget påbod om, innan ein fastsett frist, å gjera dei tiltaka som trengst.\nMeiner Finanstilsynet at det er turvande av omsyn til trygdetakarane, kan rådet til ei kvar tid krevja at trygdelaget skal stogga verksemda si heilt eller noko, til dess påboda frå Finanstilsynet er fylgde.\nVert eit påbod ikke fylgt i rett tid, skal Finanstilsynet senda fråsegn om saka til Kongen. Kongen avgjer då kva rådgjerd som skal takast, og kan, etter at trygdelaget har fått høve til å gjeva utsegn, fastsetja at laget skal avskipast. Kongen kan og fastsetja at det ikkje skal takast utlegg i lagseiga før det er avgjort om laget skal avskipast, og at tvangssal berre kan haldast når ein heilt rettsverna panterett var til før Kongen gjorde vedtaket, eller før Finanstilsynet gav påbod om å stogga verksemda.\nHeld Finanstilsynet det truleg at eit trygdelag ikkje vert i stand til å svara skyldnaden sin, kan Kongen fastsetja at laget straks skal avskipast.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "path": [],
+      "text": "Når eit trygdelag skal avskipast, fastset Finanstilsynet korleis dette skal gjerast. Vert avskipinga gjord etter føresegnene i § 9, kan kravsmennene korkje med utlegg eller på annan måte få seg stettingsrett i noko som høyrer laget til.\nFinanstilsynet fører tilsyn med avskipinga. Føresegnene i § 8 gjeld på tilsvarande måte. For slikt tilsyn skal laget svara eit vederlag som Kongen eller den han gjev fullmakt, fastset for kvart år.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "path": [],
+      "text": "Bryt nokon eit påbod eller forbod som er gjeve i eller med heimel i denne lova, vert han straffa med bot, om ikkje tilhøvet går inn under stridare straffebod.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "path": [],
+      "text": "1. Denne lova tek til å gjelda 1. juli 1953.– – –Finanstilsynet kan gjeva reglar om å avskipa sjøtrygdelag som ikkje vil halda fram med verksemda.Kongen avgjer korleis føresegnene i lova skal setjast i verk for sjøtrygdelag som vil halda fram med verksemda, og kva tid det skal gjerast frå. Når eit lag ikkje i rett tid stettar dei krava som er sette i eller med heimel i denne lova, skal verksemda avskipast etter reglar som Finanstilsynet gjev.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

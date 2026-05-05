@@ -1,0 +1,768 @@
+{
+  "id": "FOR-2015-11-30-1404",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om luftfartøy som ikke har fører om bord mv.",
+  "short_title": "Forskrift om luftfartøy som ikke har fører om bord",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2016-01-01",
+  "last_change_in_force": "2024-11-01",
+  "last_changed_by": "forskrift/2024-11-01-2777",
+  "lovdata_refid": "forskrift/2015-11-30-1404",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-11-30-1404",
+  "raw_xml_sha256": "ef62b16e3b539f93a50c93b47deb3906a8936bb9a1bbea10050c7942f8b8c3d7",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Luftfartsloven fastsetter at alle lovens krav, herunder forskriftskrav, gjelder for luftfartøy som ikke har fører om bord. Formålet med forskriften er å fastsette visse særbestemmelser for luftfartøy som ikke har fører om bord på bakgrunn av den særlige typen luftfart som dette er og enkelte bestemmelser for modellflyging.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for all flyging med modellfly eller luftfartøy som ikke har fører om bord i Norge, herunder på Svalbard, samt i luftrommet over norsk kontinentalsokkel og norsk økonomisk sone.\nForskriften gjelder ikke for luftfart som er regulert i forskrift 1. november 2024 nr. 2777 om ubemannede luftfartøyer (BSL A 7-2).",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Militær luftfart",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder ikke for Forsvarets bruk av luftfartøy uten fører om bord. Forskriften gjelder heller ikke for Forsvarets midlertidige bruk av sivile luftfartøy uten fører om bord til militær luftfart i fare- og restriksjonsområder.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner og forkortelser",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift forstås medluftfartøy som ikke har fører om bord: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen har et annet formål enn rekreasjon, sport eller konkurransemodellfly: innretninger som ikke har fører om bord, som beveger seg i luften og hvor flygingen kun har rekreasjon, sport eller konkurranse som formålpilot: den som betjener luftfartøyets styringssystemer og er ansvarlig for føring og sikkerheten under flygingenfartøysjef: piloten som er oppnevnt som ansvarlig for å føre luftfartøyet og sikkerheten under flygingenNOTAM (Notice to Airmen): en melding som distribueres ved telekommunikasjon og som inneholder opplysninger om opprettelse, tilstand eller endring av navigasjonshjelpemiddel, tjeneste, prosedyre eller fareforhold som det er viktig i tide å få kjennskap til for personell som har med planlegging og gjennomføring av flyginger å gjøre.\nI denne forskrift forstås følgende forkortelser med:VLOS (Visual Line Of Sight): flyging med luftfartøy som ikke har fører om bord som kan gjennomføres slik at luftfartøyet hele tiden kan observeres uten hjelpemidler som kikkert, kamera, eller andre hjelpemidler, unntatt vanlige brillerEVLOS (Extended Visual Line Of Sight): flyging med luftfartøy som ikke har fører om bord utenfor pilot eller fartøysjefs synsrekkevidde, der visuell kontroll opprettholdes ved bruk av observatørBLOS (Beyond visual Line Of Sight): flyging med luftfartøy som ikke har fører om bord utenfor synsrekkevidde for pilot, fartøysjef eller observatørRO: RPAS-operatør (Remotely Piloted Aircraft Systems)MTOM: største tillatte startmasse.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsyn mv.",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Luftfartstilsynet fører tilsyn med operatører av luftfartøy uten fører om bord.\nLuftfartstilsynets inspektører skal gis uhindret adgang til alle aktuelle områder i forbindelse med tilsyn. All relevant dokumentasjon skal gjøres tilgjengelig ved forespørsel.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Begrensninger for flygingen",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "All flyging med modellfly må skje på en hensynsfull måte som ikke utsetter luftfartøy, personer, fugler, dyr eller eiendom for risiko for skade eller for øvrig er til sjenanse for allmennheten.\nModellflyet må til enhver tid være godt synlig for den som fører det slik at full kontroll over modellflyet kan opprettholdes. Flyging med modellfly kan bare skje i dagslysperioden og ikkehøyere enn 120 meter over bakken eller vannetnærmere enn 150 meter fra personer, motorkjøretøy eller bygning som ikke er under fartøyførerens kontroll med unntak av under start og landing\nFastsatte begrensninger i andre ledd gjelder ikke for flyging som skjer i regi av modellflyklubb med sikkerhetssystem godkjent av Luftfartstilsynet.\nHvis den som fører modellflyet har bistand fra en person som står ved siden av føreren, og modellflyet til enhver tid er godt synlig for han eller henne, kan flygingen utføres gjennom informasjon fra kamera i modellflyet (first person view).",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6a",
+      "heading": "Godkjenning av sikkerhetssystem for modellflyklubb",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "Sikkerhetssystemet skal utarbeides etter en anerkjent standard for kvalitetssystemer og skal minst omfatte:plan for opplæring av modellflygere,regler for utstedelse og eventuelt fornyelse av kompetansebevis for modellflygere, samt for tilbakekall av kompetansebevis ved flyging i strid med forskrifter eller sikkerhetssystemet,operative instrukser og sikkerhetsbestemmelser for ulike kategorier modellfly som benyttes,bestemmelser om konstruksjon og vedlikehold av modellfly,prosedyrer for rapportering og håndtering av avvik fra sikkerhetssystemet, oget system som sikrer at elementene nevnt i bokstav a til e blir utviklet og etterlevet.\nLuftfartstilsynet kan sette vilkår for godkjenning av sikkerhetssystem, herunder krav til risikovurdering, tidsbegrenset godkjenning og rett til å gi pålegg om endringer av sikkerhetssystemet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Områder hvor det ikke er tillatt å fly modellfly",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "Det er ikke tillatt å fly modellfly over eller i nærheten av militære områder, ambassader eller fengsler uten etter tillatelse fra stedlig leder.\nDet er ikke tillatt å fly modellfly i restriksjonsområder opprettet med hjemmel i luftfartsloven eller politiloven. Det er ikke tillatt å fly modellfly over eller i nærheten av et sted nødetatene eller Forsvaret har etablert et innsatsområde i forbindelse med ulykke eller annen ekstraordinær hendelse.\nUten tillatelse fra lokal lufttrafikktjenesteenhet er det ikke tillatt å fly modellfly nærmere enn 5 km fra en lufthavn.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Objektivt ansvar for skade på tredjeperson mv.",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "Den som flyr modellfly er uansett skyld ansvarlig for skade eller tap som oppstår utenfor modellflyet som følge av at det benyttes til flyging.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Alkoholpåvirkning mv.",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "Ingen må fly modellfly påvirket av alkohol eller annet berusende eller bedøvende middel. Luftfartsloven § 6-11 og § 6-13 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Våpen mv.",
+      "path": [
+        "Kapittel 2. Flyging med modellfly"
+      ],
+      "text": "Det er ikke tillatt å fly modellfly påmontert våpen eller våpensystemer. Det er ikke tillatt å fly modellfly påmontert raketter, fyrverkeri eller annet farlig utstyr.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 11",
+      "heading": "Krav til ledende personell",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Flyging kan bare skje hvis virksomheten har ansvarlig leder, operativ leder og teknisk leder.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 12",
+      "heading": "Transport av gods eller passasjerer",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Transport av passasjerer er ikke tillatt.\nTransport av gods er kun tillatt hvis dette er fastsatt særskilt i Luftfartstilsynets tillatelse.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 13",
+      "heading": "Krav til høydemåler e.l.",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Piloten og fartøysjefen skal ved bruk av høydemåler eller på annen måte sikre at høydebegrensningene som gjelder overholdes.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 14",
+      "heading": "System for fail-safe",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Alle rotordrevne luftfartøy skal ha et innebygget system som sikrer at luftfartøyet kan lande automatisk ved tap av kontroll fra pilot eller fartøysjef. Alle fly uten fører om bord (fixed wing) skal ha et tilleggssystem som sikrer kontroll over flyet ved tap av kontakt med hovedradio.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 15",
+      "heading": "Oppvisningsflyging",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Oppvisningsflyging er kun tillatt hvis det foreligger tillatelse fra Luftfartstilsynet.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 16",
+      "heading": "Lufthavner",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Landing og avgang med luftfartøy som ikke har fører om bord kan ikke skje på lufthavner.\nI særlige tilfeller kan landing eller avgang fra lufthavn avtales med lokal lufttrafikktjenesteenhet, forutsatt at det er etablert lokale prosedyrer som ivaretar sikkerheten for øvrig lufttrafikk. Hensynet til avvikling av øvrig lufttrafikk skal ha prioritet. Lufttrafikktjenesten er ansvarlig for å etablere tilstrekkelige sikkerhetsavstander.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 17",
+      "heading": "Objektivt ansvar for skade på tredjeperson mv.",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Operatøren er uansett skyld ansvarlig for skade eller tap som oppstår utenfor luftfartøyet som følge av at fartøyet brukes til luftfart. Dette gjelder likevel ikke skade på annet luftfartøy, eller på person eller ting i slikt luftfartøy.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 18",
+      "heading": "Forsikring",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Operatøren er ansvarlig for at det foreligger forsikring som dekker erstatningsplikt ovenfor tredjeperson, jf. luftfartsloven § 11-2.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 19",
+      "heading": "Alkoholpåvirkning mv.",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Ingen må fly luftfartøy som ikke har fører om bord påvirket av alkohol eller annet berusende eller bedøvende middel. Luftfartsloven § 6-11 og § 6-13 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 20",
+      "heading": "Våpen mv.",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Det er ikke tillatt å fly luftfartøy som ikke har fører om bord påmontert våpen eller våpensystemer. Det er ikke tillatt å fly luftfartøy som ikke har fører om bord påmontert raketter, fyrverkeri eller annet farlig utstyr uten tillatelse.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-11",
+      "provision_ref": "§ 21",
+      "heading": "Meldeplikt",
+      "path": [
+        "Kapittel 3. Generelle krav og begrensninger som gjelder for alle RPAS-operatører (RO)"
+      ],
+      "text": "Ved endringer i virksomheten plikter operatøren å sørge for at alle opplysninger som er innmeldt til Luftfartstilsynet oppdateres. Operatøren skal også varsle Luftfartstilsynet dersom virksomheten opphører.\nOperatør av type RO 1 må innen 1. april 2019 bekrefte at virksomheten ikke er opphørt, for fortsatt å være registrert som operatør hos Luftfartstilsynet.",
+      "xml_path": "article#kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "RO 1",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Operatør av type RO 1 må sende melding til Luftfartstilsynet om oppstart av ny virksomhet før virksomheten tar til. Meldingen skal inneholde opplysninger om virksomhetens navn, adresse og kontaktinformasjon samt informasjon om type luftfartøy som skal benyttes.\nRO 1 er virksomhet hvor luftfartøyethar en MTOM opp til 2,5 kg oghar maksimal hastighet 60 knopsom skal operere utelukkende innenfor VLOS i dagslysperioden og innenfor fastsatte sikkerhetsavstander, jf. § 51.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Krav til organisasjon",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Operatøren skal ha ansvarlig leder, operativ leder og teknisk leder. Flere funksjoner kan ivaretas av samme person.\nAnsvarlig leder har det overordnede ansvaret for virksomheten. Ansvarlig leder må kunne godtgjøre at organisasjonen er tilpasset virksomhetens størrelse og kompleksitet. Ansvarlig leder må være fylt 18 år.\nOperativ leder skal sikre at operasjoner utføres i henhold til virksomhetens operasjonsmanual.\nTeknisk leder skal sikre at virksomhetens luftfartøy er luftdyktige.\nHvis virksomheten er særlig kompleks må operatøren etablere og vedlikeholde et kvalitetssystem tilpasset driften. Kvalitetssjef skal sikre at virksomhetens systemer for kvalitetssikring er ivaretatt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Operasjonsmanual",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenbeskrivelse av vedlikeholdsprosedyreroversikt over alle luftfartøy som inngår i virksomheten.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Loggføring",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Det skal føres en logg over flygetid. Loggen skal minimum inneholde informasjon om hvilket luftfartøy som ble benyttet, hvem som utførte flygingen, tidspunkt for flygingen og området flygingen fant sted.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Vedlikehold",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Operatøren skal påse at luftfartøy vedlikeholdes i henhold til produsentens anvisninger.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 27",
+      "heading": "Merking av luftfartøy",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Alle luftfartøy skal være tydelig merket med operatørens navn og telefonnummer.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 28",
+      "heading": "Krav til pilot",
+      "path": [
+        "Kapittel 4. Krav til virksomheter som opererer innenfor kategori RO 1"
+      ],
+      "text": "Pilot må kunne demonstrere tilstrekkelige ferdigheter til at flyging kan skje sikkert og i tråd med regelverket.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 29",
+      "heading": "RO 2",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Operatør av type RO 2 må ha tillatelse fra Luftfartstilsynet før virksomheten kan ta til. Søknaden må inneholde en risikoanalyse og operasjonsmanual.\nRO 2 er virksomhet hvor luftfartøyethar en MTOM opp til 25 kg oghar maksimal hastighet 80 knopsom skal operere VLOS eller EVLOS og innenfor fastsatte sikkerhetsavstander, jf. § 51, eller BLOS i samsvar med § 56 – § 59.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 30",
+      "heading": "Krav til organisasjon",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Operatøren skal ha ansvarlig leder, operativ leder, teknisk leder og kvalitetssjef. Flere funksjoner kan ivaretas av samme person. Endringer i organisasjonen skal meldes til Luftfartstilsynet.\nAnsvarlig leder har det overordnede ansvaret for virksomheten. Ansvarlig leder må kunne godtgjøre at organisasjonen er tilpasset virksomhetens størrelse og kompleksitet. Ansvarlig leder må være fylt 18 år.\nOperativ leder skal sikre at operasjoner utføres i henhold til virksomhetens operasjonsmanual. Operativ leder må oppfylle kravet som fastsatt i § 36 første ledd.\nTeknisk leder skal sikre at virksomhetens luftfartøy er luftdyktige. Teknisk leder må kunne godtgjøre nødvendig kompetanse innenfor områdene flyteknikk, elektronikk og aerodynamikk.\nKvalitetssjef skal sikre at virksomhetens systemer for kvalitetssikring er ivaretatt.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 31",
+      "heading": "Kvalitetssystem",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Operatøren skal etablere og vedlikeholde et kvalitetssystem tilpasset driften.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 32",
+      "heading": "Operasjonsmanual",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Operatøren skal ha en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenprosedyrer for de operasjoner som skal utføres, inkludert risikoanalyserbeskrivelse av krav til kompetanse for vedlikeholdspersonellbeskrivelse av krav til kompetanse og vedlikeholdstrening for fartøysjefvedlikeholdsprogrammeroversikt over alle luftfartøy som inngår i virksomheten.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 33",
+      "heading": "Luftdyktighet",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Operatøren kan bare benytte luftfartøy som det kan dokumenteres er luftdyktig. Det må kunne fremlegges dokumentasjon for fartøyets konstruksjon, styresystem og øvrige system samt for praktisk vedlikehold. Det må også kunne dokumenteres at systemet er testet for de operasjoner som fartøyet er planlagt brukt for.\nDet skal etableres et vedlikeholdsprogram for luftfartøyene. Det skal fremgå av vedlikeholdsprogrammet når komponenter skal skiftes ut. Vedlikeholdsprogrammet må inneholde en prosedyre for oppdatering av programmet.\nTeknisk flygetid for luftfartøy og kritiske komponenter skal loggføres.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 34",
+      "heading": "Vedlikehold",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Vedlikehold skal utføres i henhold til luftfartøyets eller systemets vedlikeholdsprogram.\nVedlikehold skal utføres av teknisk personell godkjent av teknisk leder. Vedlikeholdspersonellets kompetanse til å drive vedlikehold på aktuelt luftfartøy eller system skal være dokumentert.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 35",
+      "heading": "Merking av luftfartøy",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "Alle luftfartøy skal være tydelig merket med identifikasjonsnummer som tildeles av Luftfartstilsynet.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 36",
+      "heading": "Krav til pilot og fartøysjef",
+      "path": [
+        "Kapittel 5. Krav til virksomheter som opererer innenfor kategori RO 2"
+      ],
+      "text": "For å kunne utføre flyging må pilot eller fartøysjef ha bestått e-eksamen. For å bestå e-eksamen må 75 prosent av oppgavene være besvart riktig.\nLuftfartstilsynet har ansvar for å avholde e-eksamen.\nPilot og fartøysjef må kunne demonstrere tilstrekkelige ferdigheter til at flyging kan skje sikkert og i tråd med regelverket. Ferdighetene må holdes oppdatert gjennom vedlikeholdstrening.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 37",
+      "heading": "RO 3",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatør av type RO 3 må ha tillatelse fra Luftfartstilsynet før virksomheten tar til. Søknaden må inneholde en risikoanalyse og operasjonsmanual.\nRO 3 er virksomhet hvor luftfartøyethar en MTOM på 25 kg eller mer, ellerhar maksimal hastighet over 80 knop ellerdrives av turbinmotor, ellerskal operere BLOS høyere enn 120 meter, ellerskal operere i kontrollert luftrom høyere enn 120 meter, ellerskal operere over eller i nærhet av folkeansamlinger i andre tilfeller enn det som følger av § 51 tredje ledd.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 38",
+      "heading": "Krav til organisasjon",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatøren skal ha ansvarlig leder, operativ leder, teknisk leder og kvalitetssjef. Flere funksjoner kan ivaretas av samme person. Endringer i organisasjonen skal meldes til Luftfartstilsynet.\nAnsvarlig leder har det overordnede ansvaret for virksomheten. Ansvarlig leder må kunne godtgjøre at organisasjonen er tilpasset virksomhetens størrelse og kompleksitet. Ansvarlig leder må være fylt 18 år.\nOperativ leder skal sikre at operasjoner utføres i henhold til virksomhetens operasjonsmanual. Operativ leder må oppfylle kravet som fastsatt i § 46 første ledd.\nTeknisk leder skal sikre at virksomhetens luftfartøy er luftdyktige. Teknisk leder må kunne dokumentere relevant teknisk kompetanse for de aktuelle system som virksomheten opererer.\nKvalitetssjef skal sikre at virksomhetens systemer for kvalitetssikring er ivaretatt.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 39",
+      "heading": "Kvalitetssystem",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatøren skal etablere og vedlikeholde et kvalitetssystem tilpasset driften.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 40",
+      "heading": "Operasjonsmanual",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatøren skal utarbeide en operasjonsmanual tilpasset kompleksiteten i virksomhetens operasjoner. Operasjonsmanualen skal minst inneholdebeskrivelse av virksomhetens oppbyggingbeskrivelse av de operasjonstyper som inngår i virksomhetenprosedyrer for de operasjoner som skal utføres, inkludert risikoanalyserbeskrivelse av krav til kompetanse for vedlikeholdspersonellbeskrivelse av krav til kompetanse og vedlikeholdstrening for pilot og fartøysjefvedlikeholdsprogrammeroversikt over alle luftfartøy som inngår i virksomheten.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 41",
+      "heading": "Luftdyktighet",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatør kan kun benytte luftfartøy eller system godkjent av Luftfartstilsynet for den aktuelle operasjonstypen. Operatøren skal dokumentere at luftfartøy, system og komponenter er tilstrekkelig sikre for bruk for den aktuelle operasjonstypen. Ved vurderingen skal forskrift 4. mars 2013 nr. 252 om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften) legges til grunn så langt den passer.\nI søknaden må det vedlegges dokumentasjon for systemets konstruksjon, styresystem, komponentenes art, tekniske sikkerhetssystemer og gjennomført testprogram som viser at luftfartøyet og systemet kan utføre den aktuelle operasjonstypen.\nLuftfartstilsynet kan anerkjenne luftfartøy, system eller komponenter som er godkjent eller sertifisert av andre luftfartsmyndigheter.\nDet skal etableres et vedlikeholdsprogram for luftfartøyet eller systemet. Det skal fremgå av vedlikeholdsprogrammet når komponenter skal skiftes ut. Vedlikeholdsprogrammet må inneholde en prosedyre for oppdatering av programmet.\nTeknisk flygetid for luftfartøy og kritiske komponenter skal loggføres.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 42",
+      "heading": "Ulike operasjonstyper",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Luftfartøy eller system som utelukkende skal benyttes til operasjoner som kan utføres av RO 1- og RO 2-operatører, jf. § 22 og § 29, jf. § 51, trenger ikke godkjenning etter § 41. For disse luftfartøyene gjelder § 26, § 27, § 33 og § 34 tilsvarende.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 43",
+      "heading": "Nærmere om testprogram",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Operatør kan ikke igangsette testprogram for et luftfartøy eller system før testprogrammet er godkjent av Luftfartstilsynet. Søknad om godkjenning skal inneholde en beskrivelse av systemtesten, blant annet hvilken operasjonstype som systemet skal testes for, hvor testprogrammet skal gjennomføres, sikkerhetsdokumentasjon for gjennomføring av testprogrammet og sjekkliste for vitale testpunkter.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 44",
+      "heading": "Vedlikehold",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Vedlikehold skal utføres i henhold til luftfartøyets eller systemets vedlikeholdsprogram.\nVedlikehold skal utføres av teknisk personell godkjent av teknisk leder. Vedlikeholdspersonellets kompetanse til å drive vedlikehold på aktuelt luftfartøy eller system skal være dokumentert.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 45",
+      "heading": "Merking av luftfartøy",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "Alle luftfartøy skal være tydelig merket med identifikasjonsnummer som tildeles av Luftfartstilsynet.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 46",
+      "heading": "Krav til pilot og fartøysjef",
+      "path": [
+        "Kapittel 6. Krav til virksomheter som opererer innenfor kategori RO 3"
+      ],
+      "text": "For å kunne utføre flyging må pilot eller fartøysjef ha bestått e-eksamen. For å bestå e-eksamen må 75 prosent av oppgavene være besvart riktig. Luftfartstilsynet har ansvar for å avholde e-eksamen.\nPilot og fartøysjef må kunne demonstrere tilstrekkelige ferdigheter til at flyging kan skje sikkert og i tråd med regelverket.\nFor å kunne foreta landing eller avgang på lufthavner, må pilot og fartøysjef inneha LAPL, PPL, CPL eller ATPL.\nPilot og fartøysjefen må ha tilstrekkelig kunnskap til å kunne kommunisere med lufttrafikktjenesten ved bruk av gjeldende radiotelefoniprosedyrer. Pilot og fartøysjef som skal benytte radio må inneha flytelefonistsertifikat.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 47",
+      "heading": "Lufttrafikkregler",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "De alminnelige lufttrafikkregler gjelder for luftfartøy som ikke har fører om bord.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 48",
+      "heading": "Luftrom",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Pilot og fartøysjef plikter å gjøre seg kjent med gjeldende luftromsorganisering. Pilot og fartøysjef plikter videre å gjøre seg kjent med aktuell luftromsklassifisering og ansvarlig lufttrafikktjenesteenhet for det området hvor en operasjon planlegges utført.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 49",
+      "heading": "Vikeplikt for andre luftfartøy",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Luftfartøy som ikke har fører om bord skal vike for andre luftfartøy.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 50",
+      "heading": "Forberedelser før flyging",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Pilot og fartøysjef skal før hver flyging gjøre seg kjent med alle tilgjengelige opplysninger av betydning for den planlagte flygingen, herunder om værforholdene.\nPilot og fartøysjef skal forsikre seg om at fartøyet er luftdyktig før flyging finner sted. Enhver flyging skal gjennomføres i henhold til gjeldende bestemmelser, operasjonsmanualen og fartøyets begrensninger.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 51",
+      "heading": "Sikkerhetsavstander, maksimal flygehøyde",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "All flyging må skje på en hensynsfull måte som ikke utsetter luftfartøy, personer, fugler, dyr eller eiendom for risiko for skade eller for øvrig er til sjenanse for allmennheten.\nLuftfartøyet må til enhver tid være godt synlig for den som fører det. Ved enhver flyging skal det holdes nødvendige sikkerhetsavstander. Det er ikke tillatt å flyhøyere enn 120 meter over bakken eller vannetnærmere enn 150 meter fra folkeansamling på mer enn 100 personernærmere enn 50 meter fra personer, motorkjøretøy eller bygning som ikke er under pilotens og fartøysjefens kontroll.\nLuftfartøy som har en MTOM på 250 gram eller mindre, kan flys VLOS, EVLOS eller BLOS, men ikke høyere enn 50 meter over bakken eller vannet. Sikkerhetsavstandene i andre ledd bokstav b og c gjelder ikke.\nFlyging ut over det som følger av sikkerhetsavstandene i andre og tredje ledd, kan bare utføres av RO 3-operatør i tråd med bestemmelsene i kapittel 9 og for øvrig de vilkår som er gitt i tillatelsen.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 52",
+      "heading": "FPV",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Flyging FPV (first person view) uten BLOS-godkjenning, jf. § 57 og § 64, er kun tillatt så fremt flygingen skjer VLOS og fartøysjefen til enhver tid har visuell kontakt med fartøyet.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 53",
+      "heading": "EVLOS",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Flyging EVLOS er kun tillatt hvis tillatelsen fra Luftfartstilsynet omfatter denne operasjonstypen.\nVed EVLOS-flyging skal det etableres toveis radiokommunikasjon eller kontinuerlig telefonkommunikasjon mellom pilot og observatør.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 54",
+      "heading": "Områder hvor det ikke er tillatt å fly",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Det er ikke tillatt å fly luftfartøy som ikke har fører om bord over eller i nærheten av militære områder, ambassader eller fengsler.\nDet er ikke tillatt å fly luftfartøy som ikke har fører om bord nærmere enn 5 km fra en lufthavn, hvis ikke flygingen er avklart med lokal flygekontrolltjeneste eller flygeinformasjonstjeneste.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-9",
+      "provision_ref": "§ 55",
+      "heading": "Flyging når det har skjedd ekstraordinære hendelser",
+      "path": [
+        "Kapittel 7. Operative bestemmelser som gjelder for alle RO-operatører"
+      ],
+      "text": "Flyging over eller i nærheten av et sted nødetatene eller Forsvaret har etablert et innsatsområde i forbindelse med ulykke eller annen ekstraordinær hendelse, er kun tillatt med tillatelse fra innsatsleder.",
+      "xml_path": "article#kapittel-7-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 56",
+      "heading": "BLOS",
+      "path": [
+        "Kapittel 8. Operative tilleggsbestemmelser som gjelder for RO 2-operatører"
+      ],
+      "text": "Flyging BLOS er kun tillatt hvis tillatelsen fra Luftfartstilsynet omfatter denne operasjonstypen.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 57",
+      "heading": "BLOS-flyging opp til 120 meter i luftrom klasse G",
+      "path": [
+        "Kapittel 8. Operative tilleggsbestemmelser som gjelder for RO 2-operatører"
+      ],
+      "text": "BLOS-flyging opp til 120 meter i luftrom klasse G eller luftrom klasse G med etablert Radio Mandatory Zone (RMZ), kan kun skje hvis det er utstedt NOTAM for å informere om aktiviteten. NOTAM skal være utstedt minst 12 timer før aktiviteten påbegynnes.\nBLOS-flyging i luftrom klasse G med etablert Radio Mandatory Zone (RMZ) kan i særlige tilfeller likevel skje etter tillatelse fra flygeinformasjonstjenesten og på de vilkår som flygeinformasjonstjenesten setter. Flygeinformasjonstjenesten kan kun gi tillatelse til slik flyging hvis det er klart at flygingen kan gjennomføres sikkert og uten å hindre øvrig lufttrafikk.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 58",
+      "heading": "BLOS-flyging opp til 120 meter i kontrollert luftrom",
+      "path": [
+        "Kapittel 8. Operative tilleggsbestemmelser som gjelder for RO 2-operatører"
+      ],
+      "text": "BLOS-flyging opp til 120 meter i kontrollert luftrom kan kun skje i aktive fare- eller restriksjonsområder.\nBLOS-flyging kan unntaksvis skje utenfor fare- eller restriksjonsområde, etter klarering fra flygekontrolltjenesten og på de vilkår som flygekontrolltjenesten setter. Klarering skal kun gis hvis det kan etableres tilfredsstillende atskillelse mellom luftfartøyet som ikke har fører om bord og ethvert annet luftfartøy.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 59",
+      "heading": "Påbudt lys",
+      "path": [
+        "Kapittel 8. Operative tilleggsbestemmelser som gjelder for RO 2-operatører"
+      ],
+      "text": "For all flyging BLOS skal luftfartøyet være utrustet med lavintense lys, hvitt med minst 10 candela, hvor blink fremkalles ved roterende lys (strobelys) og med minimum 20 blink i minuttet.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 60",
+      "heading": "Flyging i mørke",
+      "path": [
+        "Kapittel 8. Operative tilleggsbestemmelser som gjelder for RO 2-operatører"
+      ],
+      "text": "Ved flyging i mørke skal luftfartøyet ha belysning i samsvar med kravene i forordning (EU) nr. 923/2012, SERA.3215, gjennomført ved forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 61",
+      "heading": "VLOS- og EVLOS-flyging i luftrom klasse G",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "VLOS- og EVLOS-flyging høyere enn 120 meter er tillatt i luftrom klasse G. Operatøren er ansvarlig for å vurdere om det ut fra flygingens art eller området hvor flygingen skal skje, er nødvendig å utstede NOTAM for å informere om aktiviteten. Eventuell NOTAM skal være utstedt minst 12 timer før aktiviteten påbegynnes.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 62",
+      "heading": "VLOS- og EVLOS-flyging i kontrollert luftrom og luftrom klasse G med etablert RMZ",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "VLOS- og EVLOS-flyging i kontrollert luftrom, høyere enn 120 meter, kan kun skje etter klarering fra flygekontrolltjenesten og på de vilkår som flygekontrolltjenesten setter.\nVLOS- og EVLOS-flyging i luftrom klasse G med etablert Radio Mandatory Zone (RMZ), høyere enn 120 meter, kan kun skje etter tillatelse fra flygeinformasjonstjenesten og på de vilkår som flygeinformasjonstjenesten setter. Tillatelse skal ikke gis hvis det er annen lufttrafikk i luftrommet.\nI kontrollert luftrom og luftrom klasse G med etablert Radio Mandatory Zone (RMZ) skal det etableres toveis radiokommunikasjon eller telefonkommunikasjon mellom fartøysjefen og lufttrafikktjenesten.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 63",
+      "heading": "BLOS",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "Flyging BLOS er kun tillatt hvis tillatelsen fra Luftfartstilsynet omfatter denne operasjonstypen.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 64",
+      "heading": "BLOS-flyging høyere enn 120 meter i luftrom klasse G",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "BLOS-flyging høyere enn 120 meter i luftrom klasse G eller luftrom klasse G med etablert Radio Mandatory Zone (RMZ), kan kun skje i aktive fare- eller restriksjonsområder.\nBLOS-flyging i luftrom klasse G med etablert Radio Mandatory Zone (RMZ) kan i særlige tilfeller likevel skje etter tillatelse fra flygeinformasjonstjenesten og på de vilkår som flygeinformasjonstjenesten setter. Flygeinformasjonstjenesten kan kun gi tillatelse til slik flyging hvis det er klart at flygingen kan gjennomføres sikkert og uten å hindre øvrig lufttrafikk.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 65",
+      "heading": "BLOS-flyging i kontrollert luftrom",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "BLOS-flyging i kontrollert luftrom kan kun skje i aktive fare- eller restriksjonsområder.\nBLOS-flyging kan unntaksvis skje utenfor fare- eller restriksjonsområde, etter klarering fra flygekontrolltjenesten og på de vilkår som flygekontrolltjenesten setter. Klarering skal kun gis hvis det kan etableres tilfredsstillende atskillelse mellom luftfartøyet som ikke har fører om bord og ethvert annet luftfartøy.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-6",
+      "provision_ref": "§ 66",
+      "heading": "Kontrolltap",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "Ved tap av kontroll over luftfartøyet i kontrollert luftrom eller i luftrom klasse G med etablert Radio Mandatory Zone (RMZ), skal nærmeste enhet av lufttrafikktjenesten varsles umiddelbart.\nVed tap av kontroll under flyging i luftrom klasse G, skal nærmeste enhet av lufttrafikktjenesten varsles umiddelbart hvis kontrolltapet kan medføre konflikt med annen luftfart.",
+      "xml_path": "article#kapittel-9-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-7",
+      "provision_ref": "§ 67",
+      "heading": "Påbudt lys",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "Luftfartøyet skal være utrustet med lavintense lys, hvitt med minst 10 candela, hvor blink fremkalles ved roterende lys (strobelys) og med minimum 20 blink i minuttet, for all flygingi kontrollert luftromover 120 meter i ikke-kontrollert luftromBLOS.",
+      "xml_path": "article#kapittel-9-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-8",
+      "provision_ref": "§ 68",
+      "heading": "Flyging i mørke",
+      "path": [
+        "Kapittel 9. Operative tilleggsbestemmelser som gjelder for RO 3-operatører"
+      ],
+      "text": "Ved flyging i mørke skal luftfartøyet ha belysning i samsvar med kravene i forordning (EU) nr. 923/2012, SERA.3215, gjennomført ved forskrift 14. desember 2016 nr. 1578 om lufttrafikkregler og operative prosedyrer.",
+      "xml_path": "article#kapittel-9-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 69",
+      "heading": "Statsluftfart",
+      "path": [
+        "Kapittel 10. Statsluftfart"
+      ],
+      "text": "Denne forskriftens bestemmelser, med unntak av § 18, gjelder tilsvarende for sivil statsluftfart med offentligrettslig formål i forbindelse med politivirksomhet, tollvirksomhet, offentlig søk- og redningstjeneste, brannslukking, kyst- og grensevakt eller lignende aktiviteter og tjenester.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 70",
+      "heading": "Områder med forbud mot flyging",
+      "path": [
+        "Kapittel 10. Statsluftfart"
+      ],
+      "text": "Flyging i restriksjonsområder og andre områder hvor forskriften fastsetter forbud mot flyging, er tillatt for sivilt statsluftfartøy som ikke har fører om bord i forbindelse med politivirksomhet, tollvirksomhet, offentlig søk- og redningstjeneste og brannslukking.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 71",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 11. Sluttbestemmelser"
+      ],
+      "text": "Overtredelsesgebyr etter luftfartsloven § 13a-5 kan ilegges for brudd på reglene i kapittel 3 til 9.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 72",
+      "heading": "Suspensjon og tilbakekall",
+      "path": [
+        "Kapittel 11. Sluttbestemmelser"
+      ],
+      "text": "Ved brudd på bestemmelser gitt i lov eller forskrift, eller de vilkår som er satt i tillatelsen, kan Luftfartstilsynet, helt eller delvis, suspendere eller trekke tilbake tillatelsen.\nVed brudd på bestemmelser gitt i lov eller forskrift kan Luftfartstilsynet pålegge modellflygere og RO1 operatører å stanse eller begrense sine flyginger.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 73",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 11. Sluttbestemmelser"
+      ],
+      "text": "Luftfartstilsynet kan, hvor formålet er forskning på og utvikling av luftfartøy uten fører om bord eller statsluftfart som nevnt § 69, gi tillatelse til operasjoner eller testflyging selv om vilkår som følger av luftfartsloven med tilhørende forskrifter ikke er oppfylt.\nLuftfartstilsynet kan dispensere fra bestemmelsene i denne forskriften dersom den som søker kan godtgjøre at sikkerheten kan ivaretas like godt som etter forskriften, og unntaket ikke medfører at andre vesentlige hensyn bestemmelsen skal ivareta tilsidesettes. Søknaden skal inneholde en risikovurdering sammen med en vurdering av eventuelle sikkerhetskompenserende tiltak.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 74",
+      "heading": "Ikrafttredelse og overgangsregler",
+      "path": [
+        "Kapittel 11. Sluttbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2016.\nOperatørtillatelse til virksomhet som opererer luftfartøy uten fører om bord som er innvilget av Luftfartstilsynet før ikrafttredelsen, er fortsatt gyldig til utløpet av gyldighetsperioden. Forskriftens bestemmelser gjelder fullt ut for virksomheten fra forskriften trer i kraft hvis ikke annet er fastsatt i denne bestemmelsen.\nFor tillatelser som utløper første fire måneder etter at forskriften trer i kraft, forlenges tillatelsen med seks måneder.\nHvis operatøren skal fortsette sin virksomhet som RO 1 etter utløp av gyldighetsperioden, må det innen utløpsdato sendes en melding til Luftfartstilsynet, jf. § 22.\nHvis operatøren skal fortsette sin virksomhet, men innenfor kategori RO 2, må søknad være mottatt av Luftfartstilsynet senest 3 måneder før utløpsdato. Hvis operatøren skal fortsette sin virksomhet, men innenfor kategori RO 3, må søknad være mottatt av Luftfartstilsynet senest 4 måneder før utløpsdato.\nKravene til luftdyktighet i § 41 gjelder ikke før 1. januar 2017. Frem til denne dato gjelder kravene i § 33 for RO3.\nFastsatte krav til operativ leder gjelder ikke for personer som allerede er godkjent som operativ leder av Luftfartstilsynet før ikrafttredelsen.\nPilot eller fartøysjef i virksomhet av kategori RO2 og RO3 må innen 1. februar 2017 ha bestått e-eksamen, jf. § 36 og § 46.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    }
+  ]
+}

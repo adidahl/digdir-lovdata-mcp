@@ -1,0 +1,34 @@
+{
+  "id": "FOR-2012-06-08-499",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for lov 11. mai 2012 nr. 25 om endringer i lov om offentlige anskaffelser og i kommuneloven (gjennomføring av EUs håndhevelsesdirektiv i norsk rett)",
+  "short_title": "Forskrift om overgangsregler til endr i offanskl. m.m.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2012-07-01",
+  "lovdata_refid": "forskrift/2012-06-08-499",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-06-08-499",
+  "raw_xml_sha256": "db59845d9907de7c800e783bb07e5abfdd63a8a6f665d6f01d67335e1bc9f08e",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Endringer i lov 16. juli 1999 nr. 69 om offentlige anskaffelser får anvendelse på anskaffelser der konkurransen kunngjøres etter lovens ikrafttredelse. For anskaffelser der konkurransen ikke kunngjøres får endringene anvendelse på anskaffelser der kontrakt inngås etter lovens ikrafttredelse.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Endringer i lov 25. september 1992 nr. 107 om kommuner og fylkeskommuner får ikke anvendelse på avgjørelser truffet av folkevalgt organ eller den kommunale eller fylkeskommunale administrasjon som er brakt inn for lovlighetskontroll før lovens ikrafttredelse.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

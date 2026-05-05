@@ -1,0 +1,85 @@
+{
+  "id": "FOR-2025-08-06-1612",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elektronisk stiftelse og registrering av aksjeselskaper og om elektronisk registrering av utenlandske foretak mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-08-06-1612",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-08-06-1612",
+  "raw_xml_sha256": "60dde0cb80add81d861ecd9538e796592ef8c25e6b1bd31b0829a4b5104eece8",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Mal for elektronisk stiftelse av aksjeselskaper",
+      "path": [
+        "Kapittel 1. Elektronisk stiftelse og registrering av aksjeselskaper i Foretaksregisteret mv."
+      ],
+      "text": "Ved elektronisk stiftelse av aksjeselskap etter aksjeloven § 2-1 første ledd tredje punktum, skal det benyttes mal som er godkjent av registerføreren. Malen skal være i tråd med minstekravene til stiftelsesdokumentet i aksjeloven kapittel 2.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Elektronisk melding om nyregistrering og endringsmelding for aksjeselskaper",
+      "path": [
+        "Kapittel 1. Elektronisk stiftelse og registrering av aksjeselskaper i Foretaksregisteret mv."
+      ],
+      "text": "(1) Meldinger etter foretaksregisterloven § 4-1 og § 4-2 kan for aksjeselskaper sendes elektronisk til Foretaksregisteret. Registerføreren kan pålegge at meldinger som nevnt i første punktum skal sendes inn elektronisk.(2) Første ledd første punktum gjelder ikke for meldinger der aksjeinnskuddet ikke utelukkende skal gjøres opp med penger.(3) Ved innsending av elektronisk melding til Foretaksregisteret som nevnt i denne paragrafen, skal det benyttes skjema eller løsning som er godkjent av registerføreren.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Elektronisk melding om nyregistrering og endringsmelding for utenlandske foretak",
+      "path": [
+        "Kapittel 2. Elektronisk registrering av utenlandsk foretak i Foretaksregisteret og Enhetsregisteret mv."
+      ],
+      "text": "(1) Meldinger etter foretaksregisterloven § 4-1 og § 4-2 kan for utenlandske foretak sendes elektronisk til Foretaksregisteret. Registerføreren kan pålegge at meldinger som nevnt i første punktum skal sendes inn elektronisk.(2) Ved innsending av elektronisk melding til Foretaksregisteret som nevnt i denne paragrafen, skal det benyttes skjema eller løsning som er godkjent av registerføreren.(3) Første og andre ledd gjelder tilsvarende for meldinger til Enhetsregisteret etter enhetsregisterloven kapittel 5 for utenlandsk foretak.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Tilgjengeliggjøring av informasjon om regler om stiftelse og registrering av aksjeselskaper",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring av informasjon om regler om stiftelse og registrering av aksjeselskaper og om registrering av utenlandske foretak"
+      ],
+      "text": "(1) Registerføreren skal sørge for at det utarbeides informasjon om regler om stiftelse og registering av aksjeselskaper. Informasjonen skal minst inneholde:En oversikt over reglene for å stifte aksjeselskaper og registrere slike selskaper i Foretaksregisteret, herunder om elektronisk stiftelse og registrering, krav til bruk av mal, skjema eller løsning, identifisering av fysiske personer, språkkrav og gebyrer for registrering.En oversikt over reglene for å bli styremedlem eller daglig leder i et aksjeselskap.En oversikt over reglene om myndigheten og ansvaret til styret og daglig leder i et aksjeselskap, herunder om myndighet til å representere selskapet utad.En oversikt over reglene om frakjennelse av retten til å ha tillitsverv i et aksjeselskap og om myndigheter eller organer som er ansvarlige for å oppbevare informasjon om personer som er frakjent retten til å ha tillitsverv.(2) Informasjon som nevnt i første ledd skal utarbeides på norsk og engelsk, og være gratis og offentlig tilgjengelig. Registerføreren skal sørge for at informasjonen på engelsk er tilgjengelig på nettsider eller registreringsportaler som kan nås via Single Digital Gateway.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Tilgjengeliggjøring av informasjon av regler om registrering av utenlandske foretak mv.",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring av informasjon om regler om stiftelse og registrering av aksjeselskaper og om registrering av utenlandske foretak"
+      ],
+      "text": "(1) Registerføreren skal sørge for at det utarbeides informasjon om regler om registrering av utenlandske foretak. Informasjonen skal minst inneholde en oversikt over reglene for å registrere utenlandske foretak i Foretaksregisteret og Enhetsregisteret, herunder om elektronisk registrering, krav til bruk av skjema eller løsning, identifisering av fysiske personer og språkkrav.(2) Informasjon som nevnt i første ledd skal utarbeides på norsk og engelsk, og være gratis og offentlig tilgjengelig. Registerføreren skal sørge for at informasjonen på engelsk er tilgjengelig på nettsider eller registreringsportaler som kan nås via Single Digital Gateway.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Offentliggjøring av informasjon om elektroniske identifikasjonsmidler",
+      "path": [
+        "Kapittel 4. Offentliggjøring av informasjon om elektroniske identifikasjonsmidler"
+      ],
+      "text": "Registerføreren skal offentliggjøre informasjon om hvilke elektroniske identifikasjonsmidler som kan benyttes ved innsending av meldinger til Foretaksregisteret etter § 2 og § 3. Informasjon som nevnt i første punktum skal utarbeides på norsk og engelsk, og være gratis og offentlig tilgjengelig.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves forskrift 22. desember 2023 nr. 2310 om elektronisk stiftelse og registrering av aksjeselskaper og om elektronisk registrering av utenlandske foretak mv.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    }
+  ]
+}

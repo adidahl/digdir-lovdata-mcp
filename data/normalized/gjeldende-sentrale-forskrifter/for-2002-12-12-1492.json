@@ -1,0 +1,81 @@
+{
+  "id": "FOR-2002-12-12-1492",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behovsprøvet gravferdsstønad",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2003-01-01",
+  "last_change_in_force": "2023-07-07",
+  "last_changed_by": "forskrift/2023-07-07-1256",
+  "lovdata_refid": "forskrift/2002-12-12-1492",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2002-12-12-1492",
+  "raw_xml_sha256": "035946e462a891e5b468efee0656b231bb2e2a09f6f12592bb26a11ae9c8a158",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Utgiftsgrunnlag",
+      "path": [],
+      "text": "Gravferdsstønaden skal ikke overstige de dokumenterte utgiftene til gravferden.\nI utgiftsgrunnlaget medregnes alminnelige utgifter til avisannonser, lys, blomster, sanger, musikk, kommunale avgifter og gravmonument.\nNødvendige utgifter til båretransport til nærmeste naturlige gravplass ved den avdødes bosted medregnes i utgiftsgrunnlaget i den utstrekning utgiftene ikke dekkes etter folketrygdloven § 7-3.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Formue",
+      "path": [],
+      "text": "For avdøde som ikke var gift, skal formue etter folketrygdloven § 7-2 andre ledd bokstav a være summen av all formue med fradrag for gjeld, det vil si netto formue.\nFor avdøde som var gift, skal finansformue som nevnt i folketrygdloven § 7-2 andre ledd bokstav b være summen av avdødes og gjenlevendes kontanter, bankinnskudd, omsettelige aksjer, obligasjoner, andeler i verdipapirfond, andre omsettelige verdipapirer og utestående fordringer.\nFormue som nevnt i folketrygdloven § 7-2 andre ledd bokstav a og b avrundes ned til nærmeste hele tusen kroner.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dokumentasjon",
+      "path": [],
+      "text": "Søkeren plikter å fremlegge dokumentasjon for de faktiske utgiftene til gravferden og for formue som nevnt i folketrygdloven § 7-2 andre ledd bokstav a og b.\nFormue dokumenteres ved den sist innsendte selvangivelsen eller siste likningsutskrift for avdøde og, når avdøde var gift, samboer eller partner, også for gjenlevende.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Sivilstand",
+      "path": [],
+      "text": "Når avdøde på tidspunktet for dødsfallet var separert ved dom eller bevilling, skal behovsprøvingen av gravferdsstønaden skje etter folketrygdloven § 7-2 andre ledd bokstav a.\nFor øvrig gjelder folketrygdloven § 1-5 ved fastsetting av sivilstand.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Skadeserstatning",
+      "path": [],
+      "text": "Beløp som utbetales som skadeserstatning som følge av dødsfallet regnes ikke med ved beregningen av gravferdsstønaden.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tjenestepensjon",
+      "path": [],
+      "text": "Tjenestepensjon som utbetales for måneden etter dødsfallet går til fradrag i gravferdsstønaden på samme måte som formue og forsikringsbeløp, jf. folketrygdloven § 7-2 andre ledd bokstav a og b. Tilsvarende gjelder tjenestepensjon som utbetales for den andre måneden etter dødsfallet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Begrensning når utgiftene dekkes etter andre bestemmelser i loven",
+      "path": [],
+      "text": "Gravferdsstønaden begrenses til egenandelen på 10 prosent av full gravferdsstønad når avdøde var pliktig medlem etter folketrygdloven § 2-5 og utgiftene til båretransport og gravferd dekkes av folketrygden etter forskrift til folketrygdloven § 7-4.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft den 1. januar 2003 og får anvendelse ved dødsfall inntruffet tidligst denne dato.\nForskrift av 19. desember 2000 nr. 1323 om behovsprøvet tillegg til gravferdsstønaden, gitt av Sosial- og helsedepartementet med hjemmel i lov av 28. februar 1997 nr. 19 om folketrygd § 7-2 sjuende ledd, oppheves fra samme dag.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,446 @@
+{
+  "id": "FOR-1993-12-21-1219",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om grossistvirksomhet med legemidler",
+  "short_title": "Forskrift om legemiddelgrossister",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1994-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-19-3284 fra 2025-01-01",
+  "lovdata_refid": "forskrift/1993-12-21-1219",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-12-21-1219",
+  "raw_xml_sha256": "60a1167f48392bb479a0e358548fd668e732567d16edf6c823e9da6470a3fd47",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Definisjoner",
+      "path": [
+        "Kap. I. Definisjoner og virkeområde"
+      ],
+      "text": "Med grossistvirksomhet med legemidler menes alle aktiviteter som omfatter innkjøp, oppbevaring, utlevering og utførsel av legemidler, med unntak for utlevering til allmenheten og vanlig apotekvirksomhet.\nMed grossist forstås innehaver av grossisttillatelse eller av annen tillatelse som gir rett til å utøve grossistvirksomhet med legemidler.\nMed legemiddelformidling menes enhver form for virksomhet knyttet til salg eller kjøp av legemidler, unntatt engros- og detaljomsetning, som ikke innebærer fysisk håndtering og som består i å forhandle uavhengig på vegne av en annen juridisk eller fysisk person.\nMed legemiddelformidler (broker) menes virksomhet eller person som driver med formidling av legemidler.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1a",
+      "heading": "Virkeområde",
+      "path": [
+        "Kap. I. Definisjoner og virkeområde"
+      ],
+      "text": "Forskriften kap. I til IV og VI a og VII gjelder bare for legemidler til mennesker. Forskriften kapittel V og VI gjelder også for legemidler til dyr.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2",
+      "heading": "Grossisttillatelse",
+      "path": [
+        "Kap. II. Tillatelse til grossistvirksomhet"
+      ],
+      "text": "Grossistvirksomhet må ikke skje uten tillatelse fra Direktoratet for medisinske produkter. Tillatelse kreves for hvert enkelt sted grossisten skal drive sin virksomhet. Tillatelse forutsetter at grossisten oppfyller kravene i denne forskrift.\nSøknad om tillatelse etter første ledd skal avgjøres innen 90 dager regnet fra den dag søknaden ble mottatt. Dersom Direktoratet for medisinske produkter må be søkeren om ytterligere opplysninger som er nødvendige for å behandle søknaden, suspenderes tidsfristen inntil opplysninger er mottatt.\nGrossisttillatelse kan gis tidsbegrenset og på bestemte vilkår, herunder begrenset til eksportvirksomhet, jf. § 2a.\nGrossister som omsetter radiofarmaka må også ha tillatelse fra Direktoratet for strålevern og atomsikkerhet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2a",
+      "heading": "Utførsel av legemidler",
+      "path": [
+        "Kap. II. Tillatelse til grossistvirksomhet"
+      ],
+      "text": "Direktoratet for medisinske produkter kan på særskilte vilkår gi personer eller virksomheter rett til utførsel av legemidler.\nPrivatpersoner kan til personlig bruk utføre en rimelig mengde legemidler innenfor EØS-området, så sant legemidlene er lovlig ervervet.\nTilvirkere av legemidler kan utføre de legemidler som omfattes av tilvirkertillatelsen.\nDirektoratet for medisinske produkter kan fastsette nærmere retningslinjer for utførsel av legemidler.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2b",
+      "heading": "Tilbakekall av grossisttillatelse",
+      "path": [
+        "Kap. II. Tillatelse til grossistvirksomhet"
+      ],
+      "text": "Direktoratet for medisinske produkter skal tilbakekalle grossisttillatelsen midlertidig eller endelig hvis forutsetninger for tillatelsen ikke lenger er til stede:ved vesentlige brudd på de krav som stilles i § 7 om lokaler og nødvendig utstyrved vesentlig brudd på de krav som stilles i § 6 om virksomhetens personaleved mangelfull medvirkning ved tilsyn, jf. § 17aved innkjøp av legemidler i strid med § 12ved salg av legemidler i strid med § 13ved mangelfull oppfyllelse av de krav som stilles i § 9.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Tillatelse i medhold av tilvirkertillatelse utstedt av EØS-stat",
+      "path": [
+        "Kap. II. Tillatelse til grossistvirksomhet"
+      ],
+      "text": "Firmaer med tilvirkertillatelse for legemidler i et land innenfor EØS-området, kan også utøve grossistvirksomhet med de preparater som omfattes av tilvirkertillatelsen. Ved utøvelse av slik grossistvirksomhet gis melding til Direktoratet for medisinske produkter.\nFor øvrig skal utøvelsen av grossistvirksomheten skje i samsvar med denne forskrift.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 3a",
+      "heading": "Nasjonale krav til grossistvirksomhet i medhold av EØS-tillatelse",
+      "path": [
+        "Kap. II. Tillatelse til grossistvirksomhet"
+      ],
+      "text": "Innehaver av tillatelse utstedt av annet land i EØS-området som gir rett til utøvelse av grossistvirksomhet i Norge, kan ikke pålegges strengere leveringskrav eller mer omfattende krav til offentlig tjenesteyting enn det som innehavere av grossisttillatelse utstedt i medhold av § 2 er pålagt. Slike krav må under enhver omstendighet være begrunnet ut fra hensynet til folkehelsen og må være avpasset det formål vilkåret skal fremme.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Grossister som leverer til apotek, må som hovedregel innen 24 timer kunne levere hvor som helst i landet. I områder med vanskelige kommunikasjonsforhold skal leveranse som hovedregel skje innen 48 timer. Leveringsplikten omfatter alle legemidler som grossisten fører. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra dette kravet.\nGrossister som leverer til apotek, kan pålegges en forsyningsplikt for leveranser utenom normal åpningstid.\nOverfor utsalgssted som omsetter legemidler etter forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek gjelder ikke kravet i første ledd. Grossisten bestemmer selv hvilke utsalgssteder utenom apotek denne ønsker å handle med. Leveringstid skal i slike tilfelle avtales mellom grossist og utsalgssted.\nGrossist som omsetter legemidler til en virksomhet som ikke er apotek og som driver detaljsalg av reseptfrie legemidler, må levere de legemidler som denne virksomheten etterspør dersom disse inngår i minimumsutvalget som nevn i forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek § 9.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Legemiddelgrossister som distribuerer legemidler til apotek, plikter å beredskapssikre et ekstra lager av legemidler i Norge. Legemidlene omfattet av beredskapsplikten fremgår av vedlegg til denne forskriften.\nDirektoratet for medisinske produkter kan gi dispensasjon fra krav som følger av denne bestemmelsen.\nDirektoratet for medisinske produkter fører tilsyn med legemiddelgrossisters oppfyllelse av bestemmelsen.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 5a",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Legemiddelgrossist omfattet av beredskapsplikten skal rapportere til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter fastsetter nærmere retningslinjer for rapportering.\nBeredskapslageret beregnes av legemiddelgrossistens totale lagerbeholdning av legemidler i vedlegg til denne forskriften med fratrekk for salgslager beregnet til 20 dagers ordinær omsetning.\nLegemiddelgrossist som distribuerer legemidler til apotek i Norge, skal kompenseres for beredskapsplikt etter § 5 basert på faktisk lagerbeholdning.\nDet gis kompensasjon for kapitalkostnad beregnet av maksimal AIP av beredskapslageret minus 10 prosent etter sats fastsatt av Helse- og omsorgsdepartementet. Sats for kompensasjon for kapitalkostnad er NIBOR + 2 % per siste dag i inneværende måned.\nDet gis kompensasjon for håndtering og lagring etter sats fastsatt av Helse- og omsorgsdepartementet. Sats for håndtering og lagring er 4 kroner per pakning.\nDet gis økt sats pr. pakning av kjølevarer, A-preparater og B-preparater. Økt sats er 8 kroner per pakning.\nDet gis kompensasjon for nødvendige kostnader til ukurans på inntil 10 %.\nKompensasjon utbetales månedlig basert på rapportert lagerbeholdning fra legemiddelgrossist.\nDirektoratet for medisinske produkter forvalter kompensasjonsordningen.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Grossister skal i sin virksomhet ha ansatt en person som har cand.pharm. eksamen eller tilsvarende utdanning som ansvarlig for den farmasøytisk-faglige del av virksomheten. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra dette krav.\nAnsvarsforholdene i bedriften skal klart framgå av organisasjonskart og stillingsinstrukser.\nForøvrig skal virksomheten ha tilstrekkelig stort og kvalifisert personale i forhold til arten og omfanget av den virksomheten som drives.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Virksomheten skal ha til disposisjon tilstrekkelig store og velegnede lokaler, samt nødvendig utstyr, slik at legemidlene kan lagres og håndteres på en sikker og faglig forsvarlig måte. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for dette.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 8",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Grossister skal sørge for sikker transport av legemidlene, slik at legemidlene ikke ødelegges, kommer på avveie eller forårsaker skader.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Virksomheten skal foregå etter sikre og dokumenterbare arbeidsrutiner som er i overensstemmelse med retningslinjer for god distribusjonspraksis (GDP) utgitt av EU-Kommisjonen.\nAlle varepartier skal kunne etterspores og tilbakekalles av grossisten dersom tilbakekalling fra markedet skulle være nødvendig ut fra konstaterte feil, eller ved mistanke om feil, på varepartiene.\nVareflyten inn og ut av virksomheten skal dokumenteres for alle inn- og utgående transaksjoner av legemidler, og minst inneholde dato, legemidlets navn, mottatt eller utlevert mengde og leverandørens eller mottakerens navn og adresse. Dokumentasjon av transaksjoner skal for legemidler med krav til sikkerhetsanordninger, som nevnt i forskrift 18. desember 2009 nr. 1839 § 3-29, i tillegg inneholde varepartiets nummer (batchnummer). Dokumentasjonen må oppbevares på en måte som gjør den tilgjengelig for tilsynsmyndighetene i minst 5 år.\nVirksomheten skal ha et kvalitetssystem som beskriver ansvarsområder, arbeidsrutiner og risikohåndteringskrav i virksomheten. Grossisten skal kontrollere at legemidlene som mottas ikke er forfalsket, ved å gjennomføre kontroll av legemidlets ytre emballasje, jf. forskrift 18. desember 2009 nr. 1839 § 3-29 fjerde ledd. Dette gjelder ikke ved salg av legemidler til tredjeland, eller ved mottak av legemidler fra tredjeland når legemidlet skal distribueres direkte til tredjeland og legemidlet ikke skal plasseres på markedet i EU/EØS-området.\nFør utlevering av legemidler til profesjonell sluttbruker jf. legemiddelloven § 15 tredje og fjerde ledd, skal grossist foreta kontroll og utmelding av legemidler med sikkerhetsanordninger. Denne bestemmelsen gjelder ikke ved utlevering til sykehus, jf. grossistforskriften § 13 punkt 7.\nGrossist skal foreta kontroll og utmelding av legemidler som omfattes av forordning (EU) 2016/161 artikkel 23 bokstav f).\nForordning (EU) 2016/161 om sikkerhetsanordninger på legemiddelemballasje gjelder som forskrift, jf. legemiddelforskriften § 3-29 siste ledd.\nDersom innehaver av grossisttillatelsen får mistanke om eller kjennskap til forfalskede legemidler, skal Direktoratet for medisinske produkter straks underrettes.\nDirektoratet for medisinske produkter kan gi nærmere retningslinjer vedrørende disse bestemmelser. Retningslinjene kan inneholde bestemmelser om plikt til mottak av varer som returneres fra apotek og andre, på grunn av overskredet holdbarhetstid eller av andre grunner.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 9a",
+      "heading": "Salgsdokument",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Ved all utlevering av legemidler skal grossisten vedlegge et salgsdokument som minst angir dato, legemidlets navn og legemiddelform, levert mengde og leverandørens og mottakerens navn og adresse. I tillegg skal transaksjonsdokumentasjonen for legemidler som skal ha sikkerhetsanordninger som nevnt i forskrift 18. desember 2009 nr. 1839 § 3-29 fjerde ledd inneholde varepartiets nummer (batchnummer).",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 10",
+      "heading": "Salgsrapportering",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Grossister skal gi oppgaver over salget til Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for slik rapportering.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 11",
+      "heading": "Salg til ikke-medisinsk bruk",
+      "path": [
+        "Kap. III. Krav til grossistvirksomhet"
+      ],
+      "text": "Grossister plikter å ivareta salg av legemidler til teknisk, vitenskapelig og annen ikke-medisinsk bruk.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "path": [
+        "Kap. IV. Innkjøp og salg av legemidler"
+      ],
+      "text": "Grossister kan bare kjøpe legemidler fra produsenter med tilvirkertillatelse eller fra godkjente grossister eller importører. Grossisten skal påse at produsenten, grossisten eller importøren har nødvendig tillatelse. Grossisten skal påse at den som legemidlene kjøpes fra overholder kravene i § 9 første ledd. Når særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "path": [
+        "Kap. IV. Innkjøp og salg av legemidler"
+      ],
+      "text": "Grossister kan bare selge legemidler til:Apotek.Tilvirkere med tillatelse etter § 12 i lov av 4. desember 1992 nr. 132 om legemidler m.v. (legemiddelloven).Importører og tilvirkere som i medhold av legemiddelloven § 14 og § 16 har tillatelse til å selge samme vare.Sykehjem som inngår i den kommunale helse- og omsorgstjenesten.Offentlige og offentlig godkjente laboratorier og vitenskapelige institusjoner og andre lignende institusjoner eller bedrifter, etter Direktoratet for medisinske produkters nærmere bestemmelse.Andre godkjente grossister.Sykehus, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.Andre helseinstitusjoner enn kommunale sykehjem for de varegrupper som er fastsatt av Direktoratet for medisinske produkter etter retningslinjer fra Helsedepartementet.Sluttbruker av legemiddelet, for de varegrupper som er fastsatt av Direktoratet for medisinske produkter.Kjøpmenn som i medhold av lov om legemidler § 16 har tillatelse til å selge legemidler.\nNår særlige grunner foreligger, kan Direktoratet for medisinske produkter gjøre unntak fra denne bestemmelse.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Krav til grossist som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten",
+      "path": [
+        "Kap. IV. Innkjøp og salg av legemidler"
+      ],
+      "text": "Forskrift 2. juni 2022 nr. 977 om rekvirering og utlevering av legemidler m.m. gjelder tilsvarende ved salg av legemidler fra grossist til sykehjem.\nGrossist kan ikke selge legemidler direkte til sykehjem dersom grossisten har eller burde ha grunn til å tro at sykehjemmet ikke tilfredsstiller fastsatte krav til internkontroll og lagring av legemidler.\nVed salg av legemidler til sykehjem kan grossist ikke kreve en pris for legemidlene som overstiger apotekenes maksimale utsalgspris slik denne beregnes etter kapittel 12 i forskrift av 22. desember 1999 nr. 1559 om legemidler.\nGrossister som driver direkte salg av legemidler til sykehjem i den kommunale helse- og omsorgstjenesten må kunne:dokumentere hvordan plikten til å gi informasjon og veiledning om solgte legemidler ivaretas,dokumentere leveringsevne for alle legemidler som omfattes av leveringsavtale med kommunen, ogdokumentere hvilken leveringstid som er avtalt med kommunen for hver enkelt legemiddelgruppe.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "path": [
+        "Kap. IV. Innkjøp og salg av legemidler"
+      ],
+      "text": "Ved fare for tilgangen til legemidler i Norge kan Direktoratet for medisinske produkter pålegge grossister og andre som driver grossistvirksomhet, restriksjoner i salg og utlevering av legemidler.\nLegemidler underlagt restriksjoner etter første ledd oppføres på liste fastsatt av Direktoratet for medisinske produkter.\nListen gjelder som del av denne forskrift og er tilgjengelig på Direktoratet for medisinske produkters sin nettside.\nDersom vilkår etter første ledd ikke lenger er oppfylt, skal legemidlet fjernes fra listen i andre ledd.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 16",
+      "path": [
+        "Kap. IV. Innkjøp og salg av legemidler"
+      ],
+      "text": "Ved fare for tilgangen til legemidler i Norge kan Direktoratet for medisinske produkter pålegge grossister restriksjoner i parallelleksport av legemidler.\nLegemidler underlagt restriksjoner i parallelleksport etter første ledd oppføres på liste fastsatt av Direktoratet for medisinske produkter.\nListen gjelder som del av denne forskrift og er tilgjengelig på Direktoratet for medisinske produkters sin nettside.\nDersom vilkår etter første ledd ikke lenger er oppfylt, skal legemidlet fjernes fra listen i andre ledd.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Virkeområde og formål",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Forskriftene i dette kapittel gjelder innlevering og behandling av opplysninger om omsetning av legemidler, inkludert vaksiner og medisinfôr, fra virksomheter som utøver engrosomsetning med legemidler. Formålet med bestemmelsene er å kartlegge legemiddelomsetningen i landet over tid slik at man får en oversikt over det totale legemiddelsalget til bruk for forskning på legemiddelområdet og for helsemyndighetenes overordnede planlegging og styring av legemiddelforsyningen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Meldepliktig omsetning",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Virksomhet som nevnt i § 18 skal levere opplysninger om meldepliktig omsetning til Folkehelseinstituttet.\nMed meldepliktig omsetning menes alt salg av legemidler, med unntak av:NaturlegemidlerRadiofarmakaHomeopatiske og antroposofiske legemidlerMedisinske gasserRåvarer (farmasøytisk aktive substanser).\nRåvarer som benyttes i fiskeoppdrett er likevel meldepliktig omsetning.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Opplysninger om meldepliktig omsetning",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Opplysninger om meldepliktig omsetning fra virksomhet som nevnt i § 18 skal samles i den orden og med den verdiangivelse som angis i følgende tabell:\nOpplysninger om legemidler benyttet til oppdrettsfisk, inklusive medisinert fiskefôr og råvarer, skal samles i den orden og med den verdiangivelse som angis i følgende tabell:",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 21",
+      "heading": "Opplysninger om kunder",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Samtidig med innlevering av opplysningene i § 20 skal virksomheten levere et kunderegister med oversikt over alle kundenummer.\nOpplysninger om kunder skal samles i den orden og med den verdiangivelse som angis i følgende tabell:",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 22",
+      "heading": "Innlevering av opplysninger",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Opplysningene som nevnt i § 20 og § 21 skal leveres i en elektronisk fil.\nElektronisk fil med opplysninger om meldepliktig omsetning skal inneholde opplysninger om filens totalt antall registrerte linjer og akkumulert fakturert beløp for alle linjer.\nFolkehelseinstituttet kan gi nærmere bestemmelser om filens format og andre forhold av betydning for registrering av opplysningene.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 23",
+      "heading": "Rapporteringsperiode",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Grossister som leverer til apotek, skal gi opplysninger som nevnt i § 20 første ledd og § 21 for hver måned. Opplysningene skal sendes innen femte arbeidsdag etter utløpet av måneden. Opplysninger som nevnt i § 20 annet ledd skal likevel bare gis for hvert år. Opplysningene skal sendes innen 15. januar året etter rapporteringsperiodens utløp.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 24",
+      "heading": "Bruk av registrerte opplysninger",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Opplysninger om omsetning av legemidler kan benyttes til forskning, statlig styring og planlegging, samt fremstilling av offentlig statistikk over legemiddelforbruket i Norge.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 25",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kap. V. Legemiddelstatistikk basert på grossisters omsetning av legemidler"
+      ],
+      "text": "Dersom en virksomhet etter å ha mottatt advarsel ikke overholder bestemmelsene i dette kapittel, kan Folkehelseinstituttet ilegge virksomheten tvangsmulkt i form av engangsmulkt eller løpende dagsmulkt.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 26",
+      "heading": "Virkeområde og avgiftssats",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Forskriften i dette kapittel gjelder beregning og innkreving av legemiddeldetaljistavgift forutsatt at det ikke i Stortingets budsjettvedtak for det enkelte år er truffet annen bestemmelse. Avgiften skal dekke tilskudd til apotek og Relis, fraktrefusjon av legemidler samt myndighetenes utgifter til forvaltning av apotek. Sats for avgiften er 0,25 %.\n§ 27a, § 28a, § 30, § 31 og § 33 i dette kapittelet gjelder også beregning og innkreving av LUA-avgift fastsatt i medhold av forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek § 3.\nDet kalenderåret som Stortingets vedtak gjelder, kalles avgiftsåret.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 27",
+      "heading": "Avgiftsplikt",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Avgiftspliktig er:grossister og andre som driver engrosomsetning av legemidler i Norge etter tillatelse fra Direktoratet for medisinske produkter eller annen legemiddelmyndighet innen EØS-området, ogapotek som kjøper legemidler fra utenlandsk grossist.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 27a",
+      "heading": "Plikt til å betale LUA-avgift",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Plikt til å betale LUA-avgift har grossister som selger legemidler til utsalgssteder som omsetter legemidler i henhold til forskrift 14. august 2003 nr. 1053 om omsetning mv. av visse reseptfrie legemidler utenom apotek. LUA-avgiften innberettes og innbetales til Direktoratet for medisinske produkter samtidig med legemiddeldetaljistavgiften jf. § 33.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 28",
+      "heading": "Avgiftspliktig omsetning",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Avgiftspliktig omsetning er:grossistens netto legemiddelsalg til apotek og andre som selger legemidler til allmennheten samt sluttbrukere av legemidler i avgiftsåret, avrundet nedover til nærmeste 100 kr, ogapotekets netto legemiddelkjøp fra utenlandsk grossist, med fradrag for kjøp av varer som nevnt i annet ledd bokstavene c og d.\nMed netto legemiddelsalg menes alt kontant- og kredittsalg av legemidler til kjøpere som nevnt i første ledd med fradrag av:merverdiavgift,rabatt som gis til kjøper, likevel slik at det ved salg til apotek bare kan kreves fradrag for rabatt som går direkte til apoteket,salg av legemidler produsert av apotek eller i virksomhet på oppdrag fra apotek, ogsalg av råvarer til bruk i produksjon av legemidler beregnet for videresalg.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 28a",
+      "heading": "Avgiftspliktig omsetning (legemidler utenom apotek)",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Avgiftspliktig omsetning er grossistens netto salg med fradrag av merverdiavgift og rabatter til utsalgssteder utenom apotek av legemidler som forutsetter særskilt tillatelse gitt i medhold av forskrift om omsetning mv. av visse reseptfrie legemidler utenom apotek § 3.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 29",
+      "heading": "Skjønnsmessig fastsettelse",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Den avgiftspliktige omsetning kan fastsettes ved skjønn når:innberetning som nevnt i § 33 ikke er innkommet i rett tid og i foreskrevet form, ellermottatt innberetning er uriktig, ufullstendig eller bygger på regnskap som ikke er ført i samsvar med gjeldende lov og forskrift.\nNy beregning av avgift kan foretas inntil tre år etter utløpet av vedkommende avgiftsår.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 30",
+      "heading": "Beregning av legemiddeldetaljistavgift og LUA-avgift",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Legemiddeldetaljistavgift og LUA-avgift for hvert avgiftsår beregnes av den avgiftspliktige omsetningen etter satser fastsatt av departementet.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 31",
+      "heading": "Innkreving av avgifter",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Den avgiftspliktige skal kreve legemiddeldetaljistavgift og LUA-avgift i henhold til § 30 dekket fra virksomheter som detaljomsetter legemidlet, samt andre sluttbrukere.\nGrunnlaget for krav etter første ledd skal være netto legemiddelomsetning til den enkelte kunde og den av departementet fastsatte avgiftssats jf. § 30.\nDen avgiftspliktige skal føre legemiddeldetaljistavgiften og LUA-avgiften på særskilte konti.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 32",
+      "heading": "Beregning av apotekenes utsalgspris",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Apotek kan ikke legge avgiften inn i sitt grunnlag for beregning av utsalgspris for legemidler som er gitt maksimal utsalgspris som fastlagt i legemiddelforskriften.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 33",
+      "heading": "Innberetning og innbetaling til Direktoratet for medisinske produkter mv.",
+      "path": [
+        "Kap. VI. Legemiddeldetaljistavgift og LUA-avgift"
+      ],
+      "text": "Legemiddeldetaljistavgiften skal innberettes av den avgiftspliktige senest en måned etter avsluttet termin. Hver termin omfatter 2 kalendermåneder. 1. termin januar og februar, 2. termin mars og april, 3. termin mai og juni, 4. termin juli og august, 5. termin september og oktober og 6. termin november og desember. Legemiddeldetaljistavgiften innbetales i henhold til faktura mottatt fra Direktoratet for medisinske produkter.\nDirektoratet for medisinske produkter kan etter søknad gi tillatelse til at avgiftspliktige med liten omsetning kan innberette og innbetale legemiddeldetaljistavgift én eller flere ganger i året.\nDen avgiftspliktige skal benytte særskilt skjema til innberetningen. Til avgiftspliktige som starter opp sin virksomhet i løpet av avgiftsåret, skal Direktoratet for medisinske produkter sende det nødvendige antall skjema for gjenværende del av avgiftsåret.\nDen avgiftspliktige skal dokumentere innberetningen etter nærmere anvisninger fra Direktoratet for medisinske produkter. Direktoratet for medisinske produkter kan kreve utlevert spesifikasjoner, underlagsmateriale og attestasjoner som anses nødvendig for kontroll av oppgavene. Direktoratet for medisinske produkter kan også gjennomføre kontroll av underlagsmaterialet hos den avgiftspliktige. Den avgiftspliktige skal medvirke til at Direktoratet for medisinske produkter kan gjennomføre nødvendig kontroll.\nBestemmelsen gjelder også innberetning og innbetaling av LUA-avgift etter dette kapittelet så langt den passer. Departementet kan gi nærmere bestemmelser om innberetning og innbetaling av LUA-avgiften.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 33a",
+      "heading": "Legemiddelformidling",
+      "path": [
+        "Kap. VI a. Formidling av legemidler"
+      ],
+      "text": "Legemiddelformidlere som har adresse i Norge må være registrert i et offentlig tilgjengelig register hos Direktoratet for medisinske produkter for å kunne formidle legemidler innenfor EU/EØS-området. Registrering kan bare gjøres for formidlere som har fast adresse i Norge.\nSøknad om registrering skal inneholde opplysninger om navn, firmanavn og fast adresse.\nFormidleren plikter uten unødig forsinkelse å informere Direktoratet for medisinske produkter om enhver endring av betydning for registreringen,\nFormidleren skal påse at legemidlene som formidles har markedsføringstillatelse innen EU/EØS-området.\nKravene i § 9 første, annet, tredje, fjerde og femte ledd gjelder for formidlere av legemidler.\nRegistreringen etter første ledd kan slettes dersom kravene i denne forskriften ikke overholdes.\nKravene i denne bestemmelsen gjelder ikke for formidling av virksomt stoff.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 34",
+      "heading": "Tilsyn",
+      "path": [
+        "Kap. VII. Forskjellige bestemmelser"
+      ],
+      "text": "Direktoratet for medisinske produkter fører tilsyn med grossister og legemiddelformidlere og kan i den forbindelse kreve fremlagt de oppgaver og opplysninger som anses nødvendig for tilsynet. Direktoratet for medisinske produkter kan gi nærmere retningslinjer for tilsynet og for de opplysninger som kan kreves framlagt.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 35",
+      "heading": "Attest for god distribusjonspraksis",
+      "path": [
+        "Kap. VII. Forskjellige bestemmelser"
+      ],
+      "text": "Direktoratet for medisinske produkter utsteder attest for god distribusjonspraksis til grossist som oppfyller kravene til god distribusjonspraksis som fremgår av EU-kommisjonens retningslinjer for god distribusjonspraksis. Attesten skal utstedes senest 90 dager etter avsluttet tilsyn.\nDirektoratet for medisinske produkter skal legge resultatet etter utført tilsyn inn i en offentlig tilgjengelig database underlagt Det europeiske legemiddelbyrå (EMA).",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 36",
+      "path": [
+        "Kap. VIII. Ikrafttredelse"
+      ],
+      "text": "Denne forskrift, unntatt § 3, kapittel V og kapittel VI, trådte i kraft samtidig med at Avtale om Det europeiske økonomiske samarbeidsområde trådte i kraft i Norge. § 3 trådte i kraft fra 1. januar 1995. Kapittel V og kapittel VI trer i kraft 1. januar 2002.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    }
+  ]
+}

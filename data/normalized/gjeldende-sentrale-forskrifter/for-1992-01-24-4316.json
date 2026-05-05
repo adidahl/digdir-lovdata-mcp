@@ -1,0 +1,41 @@
+{
+  "id": "FOR-1992-01-24-4316",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om det alminnelige prisreguleringsfond.",
+  "short_title": "Forskrift om det alm. prisreguleringsfond",
+  "department": "Nærings- og fiskeridepartementet",
+  "last_change_in_force": "2004-04-28",
+  "last_changed_by": "forskrift/2004-04-28-672",
+  "lovdata_refid": "forskrift/1992-01-24-4316",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-01-24-4316",
+  "raw_xml_sha256": "b37f6869a06309f72dcc32a0b9e40f1b0b82056a8e5ff4b75bf38cd453c6ce8c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Fondets anvendelse",
+      "path": [],
+      "text": "Midlene i fondet kan etter vedtak av Arbeids- og administrasjonsdepartementet nyttes innenfor formål angitt i prisloven § 25.\nFondets midler må ikke overføres til statskassen. Staten er ikke ansvarlig for fondets forpliktelser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fondets administrasjon",
+      "path": [],
+      "text": "Konkurransetilsynet skal administrere fondets midler i samsvar med de nærmere bestemmelser som Arbeids- og administrasjonsdepartementet gir. Har departementet ikke bestemt noe annet, skal midlene være plassert i Norges Bank.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Regnskap",
+      "path": [],
+      "text": "Konkurransetilsynet skal forestå regnskapsføring for fondet. Inn- og utbetalinger, regnskapsføring og rapportering skal skje etter bestemmelsene i økonomiregelverket med rundskriv fra Finansdepartementet og i overensstemmelse med retningslinjer fra Arbeids- og administrasjonsdepartementet.\nDersom regnskapet ikke blir revidert av Riksrevisjonen, treffer Arbeids- og administrasjonsdepartementet bestemmelse om revisjon og oppnevner revisor.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

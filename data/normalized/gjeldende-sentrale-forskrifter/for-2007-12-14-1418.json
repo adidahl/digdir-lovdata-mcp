@@ -1,0 +1,268 @@
+{
+  "id": "FOR-2007-12-14-1418",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og behandling av helseopplysninger i register over abort (abortregisterforskriften)",
+  "short_title": "Abortregisterforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2008-01-01",
+  "last_change_in_force": "2025-06-01",
+  "last_changed_by": "forskrift/2025-05-15-805 fra 2025-06-01",
+  "lovdata_refid": "forskrift/2007-12-14-1418",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-12-14-1418",
+  "raw_xml_sha256": "4e19812d7d6ccbd04c2adfe815876868410213a5b8f78d08f7aa9b0b47f51b19",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Hjemmelsgrunnlag for Abortregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften gir hjemmelsgrunnlag for et landsomfattende avidentifisert register for abort etter abortloven (Abortregisteret). Forskriften gir regler for innsamling, lagring, tilgjengeliggjøring og annen behandling av opplysninger i registeret.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I forskriften forstås med:avidentifiserte helseopplysninger: helseopplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere er fjernet,anonyme helseopplysninger: opplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Abortregisterets formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med Abortregisteret er å samle inn og behandle opplysninger tilknyttet krav om abort for å:gi grunnlag for utarbeidelse av statistikk om praktisering av lov om abort,bidra til å evaluere tiltak mot uønskede svangerskap og abort,bidra til god ressursutnyttelse og kvalitet i behandlingen av kvinners reproduktive helse.\nOpplysninger i Abortregisteret kan foruten til formål som nevnt i første ledd, behandles og brukes til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helseforvaltning, utarbeiding av statistikk og forskning.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Forbud mot bruk",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Opplysningene i Abortregisteret kan ikke anvendes til formål som er uforenlig med formål som nevnt i § 1-3.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Dataansvarlig",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet er dataansvarlig for Abortregisteret.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Databehandler",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsamling og behandling av opplysninger i Abortregisteret, herunder om formålet med registeret, jf. § 1-3, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data for brukere.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-7",
+      "heading": "Opplysninger i Abortregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Abortregisteret inneholder opplysninger fra sykehus, offentlige og private helseinstitusjoner, og andre virksomheter som utfører abort eller nemndbehandling etter abortloven.\nAbortregisteret kan uten samtykke fra den registrerte inneholde følgende opplysninger i den utstrekning det er relevant og nødvendig for å oppnå formålet med registeret:avidentifiserte personopplysninger;fødselsdato,bostedskommune,sivilstatus ogarbeid/skolegang,administrative opplysninger;navn og organisasjonsnummer på virksomhet etter § 1-7 første ledd hvor krav om abort er behandlet,saksnummer,dato for krav,journalopptaksdato,tilbud om individuell og tilpasset informasjon og veiledning, jf. abortloven §§ 6 og 23, ogom informasjon om aborten og mulige komplikasjoner er gitt kvinnen, jf. abortloven §§ 6 og 23,hvem kravet er fremsatt av etter abortloven §§ 7, 8 eller 9,medisinske opplysninger;tidligere svangerskap,svangerskapets lengde og andre opplysninger om svangerskapets varighet,tidligere sykdommer/sykdomshistorie ogprevensjonsbruk,opplysninger om nemndbehandling,opplysninger om fosterdiagnostikk,opplysninger om inngrep/behandling.\nAbortregisteret kan, hvis kvinnen ikke motsetter seg det, etter å ha fått informasjon om hvordan slike opplysninger behandles i Abortregisteret, inneholde opplysninger om kvinnens røykevaner.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-8",
+      "heading": "Koding og klassifisering",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet skal ved enhver registrering i Abortregisteret kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Plikt til innsending og forhold til taushetsplikt",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger"
+      ],
+      "text": "Helsepersonell tilknyttet virksomhet hvor abort foretas eller nemndbehandling utføres, skal registrere opplysninger som nevnt i § 1-7 andre ledd. Sykehus eller institusjoner hvor abort foretas eller nemndbehandling utføres, skal sørge for å melde inn opplysninger etter § 1-7 andre ledd til Abortregisteret. Virksomheten skal sørge for at det finnes rutiner som sikrer dette.\nLovbestemt taushetsplikt er ikke til hinder for at opplysningene som følger av § 1-7 meldes inn til Abortregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Rutiner for innsending mv.",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger"
+      ],
+      "text": "Innsending av opplysninger skal følge de rutiner og tidsfrister som til enhver tid er fastsatt av Folkehelseinstituttet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Overføringsformat, kvalitetskontroll og innsending",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger"
+      ],
+      "text": "Overføring av opplysninger fra virksomhet nevnt i § 2-1 til Abortregisteret skal skje i et format som bestemmes av Folkehelseinstituttet.\nVirksomhet som nevnt i § 2-1 skal foreta en kvalitetskontroll av at opplysningene er i henhold til forskriftens bestemmelser.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Ansvar for sikring av at opplysningene er korrekte og krav til dokumentasjon",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger"
+      ],
+      "text": "Folkehelseinstituttet har ansvaret for at de opplysningene som blir samlet inn og behandlet i Abortregisteret, er relevante og nødvendige for bruk til formål som nevnt i § 1-3.\nFolkehelseinstituttet skal sørge for at de opplysningene som er samlet inn og behandlet i Abortregisteret, er korrekte og fullstendige. Dersom de innsendte opplysningene er ufullstendige eller på annen måte mangelfulle, skal innsender av opplysningene varsles. Feil skal rettes og opplysningene eventuelt sendes på nytt fra innsender. Dersom det ikke er mulig for Folkehelseinstituttet å få korrekte data, kan Helsetilsynet varsles.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 3. Behandling av opplysninger i Abortregisteret, sammenstilling og tilgjengeliggjøring"
+      ],
+      "text": "Helseopplysninger i Abortregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Statistikk fra Abortregisteret",
+      "path": [
+        "Kapittel 3. Behandling av opplysninger i Abortregisteret, sammenstilling og tilgjengeliggjøring"
+      ],
+      "text": "Folkehelseinstituttet skal utarbeide og løpende offentliggjøre relevant statistikk basert på opplysninger som er behandlet i samsvar med § 3-1.\nUtarbeidet statistikk skal være anonym.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Informasjonsstrategi rettet mot brukergrupper",
+      "path": [
+        "Kapittel 3. Behandling av opplysninger i Abortregisteret, sammenstilling og tilgjengeliggjøring"
+      ],
+      "text": "For å fremme bruken av data fra Abortregisteret og for å bygge opp informasjon og kunnskap for formål som nevnt i § 1-3, skal Folkehelseinstituttet ha en informasjonsstrategi og -plan rettet mot så vel helseforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helsetjenesteforskning og samfunnsforskning.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Informasjon til den registrerte",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal utarbeide informasjonsmateriell og tilrettelegge for at helsepersonell informerer de registrerte om innsending av opplysninger til Abortregisteret, jf. helseregisterloven § 23 og § 24.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Enhver som behandler opplysninger etter denne forskriften, har taushetsplikt etter helseregisterloven § 17.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Plikt til å sørge for internkontroll",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandlingen utføres i samsvar med personvernforordningen, personopplysningsloven og helseregisterloven, jf. forordningen artikkel 24. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve reglene om behandling av helseopplysninger, med særlig vekt på bestemmelser gitt i medhold av helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Innholdet i internkontrollen",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, og ha denne dokumentasjonen tilgjengelig for dem den måtte angå.\nDokumentasjonen av internkontrollen skal minst inneholdeoversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.\nSkriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i andre ledd nr. 1 til 8. Datatilsynet kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevd.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Bevaring av opplysningene",
+      "path": [
+        "Kapittel 5. Bevaring av opplysninger i Abortregisteret"
+      ],
+      "text": "Opplysninger i Abortregisteret skal bevares i ubegrenset tid, med mindre annet følger av denne forskriften eller helseregisterloven § 25. Saksnummer, virksomhetens navn og organisasjonsnummer, fødselsdag og -måned, jf. § 1-7, skal slettes senest 10 år etter registrering.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Bevaring og bruk av opplysninger underlagt tidligere konsesjoner",
+      "path": [
+        "Kapittel 5. Bevaring av opplysninger i Abortregisteret"
+      ],
+      "text": "Avidentifiserte opplysninger samlet inn fra perioden 1979 og frem til forskriftens ikrafttreden kan behandles i tråd med registerets daværende konsesjon og formål.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Tilsyn og erstatning",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Datatilsynet fører tilsyn med behandlingen av helseopplysninger i Abortregisteret, jf. helseregisterloven § 26 og § 29. Erstatningsansvar ved brudd på forskriften følger av helseregisterloven § 31.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Ikrafttreden",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2008.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Endring i forskrift 15. juni 2001 nr. 635 om svangerskapsavbrudd (abortforskriften)",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter:",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    }
+  ]
+}

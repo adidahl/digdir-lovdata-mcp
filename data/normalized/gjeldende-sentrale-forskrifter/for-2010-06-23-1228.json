@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2010-06-23-1228",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om plikt for fiske- og fangstfartøy til å lytte på radio (kanal 16) og besvare anrop",
+  "short_title": "Forskrift om plikt til å lytte på radio mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2010-06-23",
+  "lovdata_refid": "forskrift/2010-06-23-1228",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-06-23-1228",
+  "raw_xml_sha256": "6ebf5b6a10838f1f83d6935cefed628cb3fe80c4dded4ee255a2fd6482886132",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder for norske fiske- og fangstfartøy. Forskriften gjelder også for utenlandske fartøy som fisker i Norges økonomiske sone, fiskerisonen ved Jan Mayen, fiskevernsonen ved Svalbard og Svalbards territorialfarvann og indre farvann.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Plikt til å lytte på radio og å besvare anrop",
+      "path": [],
+      "text": "Fartøy nevnt i § 1 skal holde kontinuerlig lyttevakt på nød- og kallefrekvensen 156,8 MHz (VHF kanal 16) og skal svare på anrop fra Kystvakten eller fra fiskerimyndighet som er tillagt kontroll- og håndhevelseskompetanse etter lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar kapittel 7.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Plikt til å skifte fra nød- og kallefrekvens til annen frekvens",
+      "path": [],
+      "text": "Ved anrop skal fartøyet straks tilkjennegi at det har oppfattet anropet. Deretter skal det uten ugrunnet opphold skifte til avtalt arbeidsfrekvens for videre kommunikasjon.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks. Samtidig oppheves Fiskeridepartementets forskrift 16. desember 1994 nr. 1120 om plikt for fiske- og fangstfartøy til å lytte på radio og besvare anrop.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

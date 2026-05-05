@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1968-04-01-4088",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av enke- eller enkemannspensjon og uførepensjon fra forskjellige personskadetrygder (samordningsforskrift 12)",
+  "short_title": "Samordningsforskrift 12",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1968-04-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1968-04-01-4088",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1968-04-01-4088",
+  "raw_xml_sha256": "d965a2e04a88774129fee29adfa4f0361e7eb26d3eb9381008e6e832ad99dbe2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Ved samordning av enke- eller enkemannspensjon fra krigspensjoneringen og uførepensjon fra yrkesskadetrygden etter samordningsloven § 14 skal det ved beregning av pensjonsmaksimum regnes med full krigsenkepensjon eller krigsenkemannspensjon, dersom denne er høyere enn uførepensjon regnet etter hel uførhet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. april 1968.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

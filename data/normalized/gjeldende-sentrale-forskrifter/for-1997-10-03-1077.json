@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1997-10-03-1077",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om anvendelse av straffeloven § 155 på lovbrudd mot annet lands offentlige myndighet",
+  "short_title": "Forskrift om lovbrudd mot utenlandsk myndighet",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2000-05-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "forskrift/2015-09-18-1064 fra 2015-10-01",
+  "lovdata_refid": "forskrift/1997-10-03-1077",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-10-03-1077",
+  "raw_xml_sha256": "5070c709bb0eb9ff251b13e01e4165cea0aa14a6f4445bfca2309d8161d2aedf",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Når et annet lands myndighet opptrer som inngripende myndighet i samsvar med lov 13. juni 1997 nr. 47 om gjennomføring av europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs, kommer de straffer som straffeloven § 155 fastsetter, til anvendelse når lovbruddet blir begått overfor det annet lands offentlige myndighet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft når europarådsavtale 31. januar 1995 om ulovlig håndtering av og handel med narkotika og psykotrope stoffer til sjøs trer i kraft for Norge.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

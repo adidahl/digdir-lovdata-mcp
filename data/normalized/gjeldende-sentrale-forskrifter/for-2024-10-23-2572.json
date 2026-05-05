@@ -1,0 +1,97 @@
+{
+  "id": "FOR-2024-10-23-2572",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om U-space og krav til en integrert digital luftfartspublikasjon for brukere av luftrommet",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2024-10-23",
+  "last_change_in_force": "2025-10-24",
+  "last_changed_by": "forskrift/2025-10-24-2093",
+  "lovdata_refid": "forskrift/2024-10-23-2572",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-10-23-2572",
+  "raw_xml_sha256": "79bc2cfe9f692ac0f48a392b75d83beb38202f2f3527efd34e995aa357451509",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å gjennomføre felleseuropeisk regelverk om U-space, som gjelder integrering av større mengder samtidige operasjoner med ubemannede luftfartøy i fastsatte deler av luftrommet, ved hjelp av tilpassede tjenester. Forskriften skal også gi rammer for å utvikle en integrert digital luftfartspublikasjon for brukere av de øvrige deler av det norske luftrommet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder innenfor norsk område, herunder på Svalbard. Forskriften gjelder også i tilknytning til petroleumsvirksomhet på norsk kontinentalsokkel, og i øvrige områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikringstjenester og lufttrafikkstyring, så langt dette er i overensstemmelse med Norges folkerettslige forpliktelser.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gjennomføring av kommisjonens gjennomføringsforordning (EU) 2021/664",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 66zbe (forordning (EU) 2021/664 av 22. april 2021 om rammeregler for U-space) som endret ved forordning (EU) 2023/203, gjelder som forskrift innenfor virkeområdet som nevnt i § 2, med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ansvar som påligger medlemsstaten",
+      "path": [],
+      "text": "Samferdselsdepartementet har ansvaret for beslutning om utpeking, og faktisk utpeking, av en yter av felles informasjonstjenester (CIS) etter forordning (EU) 2021/664 artikkel 5 nr. 6.\nLuftfartstilsynet har ansvar for å utføre øvrige oppgaver som påligger medlemsstaten etter forordning (EU) 2021/664.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Integrert digital luftfartspublikasjon (iAIT)",
+      "path": [],
+      "text": "Dersom departementet peker ut en yter av felles informasjonstjenester (CIS) i samsvar med § 4, kan departementet også pålegge denne å publisere luftfartsinformasjonsdata i en integrert digital luftfartspublikasjon (iAIT), som skal tilby informasjon om luftrommet for brukere av annet luftrom enn U-space-luftrom.\nDen digitale luftfartspublikasjonen etter første ledd skal så langt mulig inneholde følgende opplysninger:informasjon om luftrommet som fremkommer av den aeronautiske datakatalogen, jf. vedheng (appendix) 1 til vedlegg III av forordning (EU) 2017/373, som gjennomført i forskrift 16. juni 2022 nr. 1029 om krav til lufttrafikktjenester og ytere av lufttrafikkstyrings- og flysikringstjenester (ATM/ANS) m.m.øvrige soner og områder i luftrommet som er fastsatt med hjemmel i forskrift 14. desember 2021 nr. 3530 om luftromsorganisering, herunder hvor vidt disse områdene er aktivert eller deaktivert i sanntidgeografiske UAS-områder, jf. forordning (EU) 2019/947, som gjennomført i forskrift 25. november 2020 nr. 2460 om luftfart med ubemannet luftfartøy i åpen- og i spesifikk kategori (BSL A 7-2), som ikke er fastsatt med hjemmel i forskrift 14. desember 2021 nr. 3530 om luftromsorganiseringsoner og områder i luftrommet fastsatt med hjemmel i politiloven § 7restriksjonsområder fastsatt med hjemmel i luftfartsloven § 9-1a andre leddmilitære forbudsområder fastsatt med hjemmel i forskrift 20. desember 2018 nr. 2057 om militære forbudsområder, som har betydning for bruk av luftrommetverneområder og ferdselsrestriksjoner fastsatt med hjemmel i naturmangfoldloven og svalbardmiljøloven, som har betydning for bruk av luftrommetsikkerhetssoner fastsatt med hjemmel i petroleumsloven § 9-4forbudsområder for bruk av luftbårne sensorsystemer fastsatt med hjemmel i forskrift 22. juni 2018 nr. 951 om kontroll med informasjon innhentet med luftbårne sensorsystemerhvilke kjente bemannede og ubemannede luftfartøyer som til enhver tid befinner seg i luftrommet, og hvor de befinner seg.\nDen utpekte yteren av felles informasjonstjenester (CIS) kan i samråd med utpekt yter av flygekontrolltjenester beslutte at opplysninger som nevnt i andre ledd av flysikkerhetshensyn skal unntas den digitale luftfartspublikasjonen, så langt opplysningene gjelder luftrom der det ytes flygekontrolltjenester (kontrollert luftrom).\nDen utpekte yteren av felles informasjonstjenester (CIS) kan også beslutte at opplysninger som nevnt i andre ledd bokstavene f, h og i, skal unntas den digitale luftfartspublikasjonen. Slik beslutning skal tas på forespørsel fra, og i samråd med, de etatene som har besluttet å opprette de aktuelle områdene eller sonene.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilgang til og bruk av den integrerte digitale luftfartspublikasjonen (iAIT)",
+      "path": [],
+      "text": "Dersom den utpekte yteren av felles informasjonstjenester pålegges å publisere luftinformasjonsdata i en integrert digital luftfartspublikasjon (iAIT) etter § 5, skal denne sørge for at den integrerte digitale luftfartspublikasjonen gjøres tilgjengelig for alle brukere av luftrommet gjennom en internettbasert tjeneste. Brukerne av luftrommet skal, så langt mulig, gjennom den internettbaserte tjenesten kunneidentifisere eget luftfartøys posisjon i sanntidpublisere eget luftfartøys posisjon i den digitale luftfartspublikasjonen i sanntidpublisere intensjon for flyging med eget luftfartøy i den digitale luftfartspublikasjonen i sanntid.\nDen utpekte yteren av felles informasjonstjenester skal legge til rette for at myndighetsorganer som kan fastsette restriksjoner i luftrommet gis tilgang til å publisere disse i den integrerte digitale luftfartspublikasjonen i sanntid.\nDen utpekte yteren av felles informasjonstjenester skal legge til rette for at andre tilbydere av en internettbasert tjeneste for brukere av luftrommet gis likeverdig tilgang til den integrerte digitale luftfartspublikasjonen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Kostnadsdekning",
+      "path": [],
+      "text": "Den utpekte yteren av felles informasjonstjenester kan sørge for kostnadsdekning for den felles informasjonstjenesten (CIS) og den integrerte digitale luftfartspublikasjonen (iAIT), gjennom å ta betaling for bruk av tjenestene, inkludert et rimelig overskuddspåslag, i samsvar med anerkjente prinsipper om selvkost.\nDen utpekte yteren av felles informasjonstjenester kan også ta betalt for bruk av den internettbaserte tjenesten som nevnt i § 6 første ledd.\nSamferdselsdepartementet kan fastsette nærmere krav til hvordan prisen for tjenestene etter første og andre ledd skal fastsettes og hvordan betalingen skal inndrives.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Delegering av myndighet",
+      "path": [],
+      "text": "Luftfartstilsynet kan gi forskrifter som skal gjennomføre fremtidige endringer av kommisjonens gjennomføringsforordning (EU) 2021/664, eller som fastsetter nasjonale særbestemmelser til denne forordningen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Luftfartstilsynet kan ilegge overtredelsesgebyr etter luftfartsloven § 13a-5 for brudd på eller manglende overholdelse av krav fastsatt i forordning (EU) 2021/664, og § 5 andre ledd og § 6.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

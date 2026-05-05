@@ -1,0 +1,58 @@
+{
+  "id": "FOR-1993-11-11-1020",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utsetting av fisk og andre ferskvannsorganismer for kultiveringsformål",
+  "short_title": "Forskrift om utsetting av ferskvannsfisk mv",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "1994-01-01",
+  "last_change_in_force": "2021-09-10",
+  "last_changed_by": "forskrift/2020-12-14-3367 fra 2021-09-10",
+  "lovdata_refid": "forskrift/1993-11-11-1020",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-11-11-1020",
+  "raw_xml_sha256": "1c4399fd3d44fded465f2495f72bf1a7b92a44b72c67ea0be93ba1d91451e1b1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder utsetting i vassdrag av anadrome laksefisk, innlandsfisk og andre ferskvannsorganismer, herunder levende rogn eller unger, for kultiveringsformål.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tillatelse til utsetting i vassdrag for kultiveringsformål",
+      "path": [],
+      "text": "Uten særskilt tillatelse er det forbudt å sette ut fisk eller andre ferskvannsorganismer for kultiveringsformål. Forbudet gjelder ikke utsetting i kultiveringsanlegg med gyldig tillatelse etter forskrift 30. desember 1992 nr. 1232 om etablering og drift av kultiveringsanlegg for fisk og kreps.\nDet kan gis tillatelse til utsetting av stedegen stamme for kultiveringsformål. Som stedegen stamme regnes fisk eller andre ferskvannsorganismer som har sitt opphav fra den opprinnelige, lokale bestanden. Det kan også gis tillatelse til utsetting av innlandsfisk fra samme kultiveringssone.\nStatsforvalteren kan gi tillatelse til utsetting av anadrome laksefisk i ferskvann, og av innlandsfisk og andre ferskvannsorganismer som ikke blir forvaltet av fylkeskommunen.\nFylkeskommunen kan gi tillatelse til utsetting av innlandsfisk og andre ferskvannsorganismer som blir forvaltet av fylkeskommunen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår for utsettingstillatelse",
+      "path": [],
+      "text": "I utsettingstillatelsen skal det settes vilkår om:hvilke stammer som skal benyttes,produksjonssted for utsettingsmaterialet,utsettingsmaterialets opprinnelse og kvalitet,antall individer, utsettingssted og -tid,plikt til varsling før utsetting for kontroll av utsettingsmaterialet og utsettingen.\nI tillegg kan det settes andre vilkår.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av denne forskrift er straffbart, jf § 49 i lov om laksefisk og innlandsfisk m.v.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Denne forskrift trer i kraft fra 1. januar 1994. Fra samme tid oppheves kgl.res. av 22. november 1985 nr. 1988 om utsetting av anadrome laksefisk, innlandsfisk, ferskvannskreps og næringsdyr.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

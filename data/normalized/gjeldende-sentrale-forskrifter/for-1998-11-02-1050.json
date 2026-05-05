@@ -1,0 +1,48 @@
+{
+  "id": "FOR-1998-11-02-1050",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om flyselskapenes plikt til å melde inn billettpriser.",
+  "short_title": "Forskrift om innmelding av flybillettpriser",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1999-01-01",
+  "lovdata_refid": "forskrift/1998-11-02-1050",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-11-02-1050",
+  "raw_xml_sha256": "6ba7a8ebb9bc8a5ae6d473d36f29b7d1c4303ee646b051efb4f66f53bab8b652",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Innmelding av billettpriser",
+      "path": [],
+      "text": "Konkurransetilsynet kan fastsette nærmere bestemmelser om gjennomføring og utfylling av denne forskrift og kan gjøre unntak fra den.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "Med «flyselskap» menes et lufttransportforetak som har gyldig lisens.1Med «gyldig lisens» menes et dokument utstedt av en stat som er part i EØS-avtalen til et foretak som gir foretaket tillatelse til mot vederlag å drive lufttransport av passasjerer, post og/eller frakt som angitt i lisensen slik det er definert i forskrift 15. juli 1994 nr. 691 om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 8.2Med «billettpriser uten særskilt fastsatte begrensninger» menes den laveste fullt fleksible billettpris (grunntakst) slik de er definert i forskrift 15. juli 1994 nr. 691 om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 6.3Med «gjøres gjeldende» menes her salgstidspunktet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Sanksjoner",
+      "path": [],
+      "text": "Overtredelse av denne forskrift § 1 straffes med bøter eller fengsel i tre måneder.1",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. januar 1999.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

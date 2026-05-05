@@ -1,0 +1,38 @@
+{
+  "id": "FOR-2014-06-13-725",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra forsikringsplikt",
+  "short_title": "Forskrift om unntak fra forsikringsplikt",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2014-07-01",
+  "last_change_in_force": "2022-06-15",
+  "last_changed_by": "forskrift/2022-05-23-889 fra 2022-06-15",
+  "lovdata_refid": "forskrift/2014-06-13-725",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-06-13-725",
+  "raw_xml_sha256": "3bc67f08acbf1235712a23c0c887a36fbea212ea4470521a8825fcdc0706ed05",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Unntak for sykkel og rullestol",
+      "path": [
+        "I"
+      ],
+      "text": "Lov om ansvar for skade som motorvogner gjer (bilansvarslova) gjelder ikke for sykkel som nevnt i forskrift 4. oktober 1994 nr. 918 om tekniske krav og godkjenning av kjøretøy, deler og utstyr (kjøretøyforskriften) § 2-5 nr. 12 og rullestol som nevnt i forskrift 21. mars 1986 nr. 747 om kjørende og gående trafikk (trafikkregler) § 1 nr. 1 bokstav l.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tidsbegrenset unntak for liten elektrisk motorvogn",
+      "path": [
+        "I"
+      ],
+      "text": "Lov om ansvar for skade som motorvogner gjer (bilansvarslova) gjelder ikke for liten elektrisk motorvogn som nevnt i forskrift om krav til liten elektrisk motorvogn § 3 frem til 1. januar 2023. For liten elektrisk motorvogn som benyttes til utleie gjelder unntaket likevel bare frem til 1. september 2022.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

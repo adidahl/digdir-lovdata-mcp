@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2014-04-25-576",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utfylling og gjennomføring av overgangsregel i lov 21. juni 2013 nr. 66 om endringar i lov 13. juni 1975 nr. 35 om skattlegging av undersjøiske petroleumsforekomster m.v.",
+  "short_title": "Forskrift om overgangsregel til petrsktl.",
+  "department": "Finansdepartementet",
+  "date_in_force": "Inntektsåret 2014",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-18-2278 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2014-04-25-576",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-04-25-576",
+  "raw_xml_sha256": "2a698a886c893fa293892d571e51728da4b9eb7df53008378dc5284bfbe2649e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Produksjonsstart",
+      "path": [],
+      "text": "Produksjonsstart for petroleumsforekomsten etter overgangsregelen er det tidspunktet petroleum fra den først produserende brønnen føres inn i innretningens prosessystem.\nHvis planen eller søknaden omfatter utbygging av flere petroleumsforekomster, er produksjonsstart etter overgangsregelen det tidspunktet petroleum fra den først produserende brønnen på den først produserende forekomsten føres inn i innretningens prosessystem.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Driftsstart",
+      "path": [],
+      "text": "Driftsstart for innretningen etter overgangsregelen er det tidspunktet innretningen tas i ordinær bruk.\nHvis planen eller søknaden omfatter flere innretninger, er driftsstart etter overgangsregelen det tidspunktet den første innretningen tas i ordinær bruk.\nEn produksjonsbrønn utgjør en separat innretning.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Godkjenning av skriftlig underretning (søknad) om vesentlig avvik eller endring av forutsetningene for plan mv.",
+      "path": [],
+      "text": "Overgangsregelen gjelder bare for driftsmidler omfattet av skriftlig underretning (søknad) om vesentlig avvik eller endring av forutsetningene for fremlagt eller godkjent plan for utbygging og drift etter petroleumsloven § 4-2 syvende ledd, eller plan for anlegg og drift etter § 4-3 fjerde ledd, jf. § 4-2 syvende ledd, innkommet til Energidepartementet før 5. mai 2013, dersom Energidepartementet godkjenner avviket eller endringen uten å kreve fremlagt ny eller endret plan for godkjenning.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks med virkning fra og med inntektsåret 2014.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

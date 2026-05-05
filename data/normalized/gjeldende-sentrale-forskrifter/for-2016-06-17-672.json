@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2016-06-17-672",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsbestemmelser til lov 15. april 2016 nr. 2 om endringer i konkurranseloven",
+  "short_title": "Forskrift om overgangsbestemmelser til endringslov til konkurranseloven",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2016-07-01",
+  "lovdata_refid": "forskrift/2016-06-17-672",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-06-17-672",
+  "raw_xml_sha256": "09af91e01f6e2be4b73f88bf7bc0c94263e557028cd59dd6eb285ce8aa69b3c6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Overgangsbestemmelser",
+      "path": [],
+      "text": "Endringene i konkurranseloven § 16, § 18, § 18a og § 20 gjelder bare meldinger som mottas etter 1. juli 2016.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. juli 2016.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

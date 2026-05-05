@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2015-12-01-1374",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av alderspensjon før 67 år og enke- og enkemannspensjon fra offentlig tjenestepensjonsordning med uføretrygd fra folketrygden – overgangsregler",
+  "short_title": "Forskrift om samordning av alderspensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2015-12-01",
+  "last_change_in_force": "2025-02-28",
+  "last_changed_by": "forskrift/2025-02-28-331",
+  "lovdata_refid": "forskrift/2015-12-01-1374",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-12-01-1374",
+  "raw_xml_sha256": "e1becac42e140df450e7525029ccfef42eec10c8c269997ec47cbc67f592cb58",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder samordning av alderspensjon fra offentlig tjenestepensjonsordning som gis før fylte 67 år med uføretrygd fra folketrygden. Forskriften omfatter tilfeller der:alderspensjonen ved aldersgrensen avløser en uførepensjon fra offentlig tjenestepensjonsordning,uførepensjonen var innvilget med virkningstidspunkt før 1. januar 2015, oguførepensjonen per 31. desember 2014 var samordnet med uførepensjon fra folketrygden.\nForskriften gjelder også samordning av bruttoberegnet enke- og enkemannspensjon som omfattes av samordningsloven § 3 andre ledd når slik pensjon ytes i tillegg til ytelsene som nevnt i første ledd og var innvilget med virkningstidspunkt før 1. januar 2015.\nForskriften gjelder for personer som når aldersgrensen for stillingen før år 2025, personer født i perioden 1960 til 1962 som er ufør fra stilling med aldersgrense 65 år, personer født i 1962 som er ufør fra stilling med aldersgrense 63 år og personer født i 1965 som er ufør fra stilling med 60 års aldersgrense.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fastsetting av samordningsfradrag i alderspensjonen",
+      "path": [],
+      "text": "Samordningsfradraget i alderspensjon som nevnt i § 1 fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.\nTil grunn for samordningen skal leggespensjonsgrunnlag, tjenestetid, pensjonsgrad og deltidsprosent som alderspensjonen er beregnet etter oguførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014.\nSamordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Fastsetting av samordningsfradrag i enke- og enkemannspensjonen",
+      "path": [],
+      "text": "Paragrafen gjelder når det ytes enke- og enkemannspensjon som nevnt i § 1 andre ledd og alderspensjon før fylte 67 år når samordningsfradraget i alderspensjonen er fastsatt etter § 2.\nDersom enke- og enkemannspensjonen reguleres etter lov om Statens pensjonskasse § 35 og tilsvarende regler for andre offentlige tjenestepensjonsordninger, skal det fastsettes ny redusert enke- og enkemannspensjon.\nSamordningsfradraget i enke- og enkemannspensjonen som nevnt i første og andre ledd fastsettes etter reglene i samordningsloven slik de lød før 1. januar 2015.\nTil grunn for samordningen skal leggesuførepensjonen fra folketrygden slik den var beregnet per 31. desember 2014 ogsamordningsfradraget i alderspensjonen etter § 2.\nSamordningsfradraget reguleres i samsvar med folketrygdens grunnbeløp.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks og gis virkning fra 1. januar 2015.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "FOR-2008-02-22-166",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om informasjons- og påseplikt og innsynsrett",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2008-03-14",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-06-20-1151 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2008-02-22-166",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2008-02-22-166",
+  "raw_xml_sha256": "fa33a9384e897e79495c3eb1532ad3c329fae8e8d3b14872330c1954f821efd8",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriftens formål er å bidra til å sikre etterlevelse av lønns- og arbeidsvilkår som følger av forskrifter om allmenngjøring av tariffavtaler (allmenngjøringsforskrifter), jf. allmenngjøringsloven § 3.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder der det utføres arbeid innenfor virkeområdet til en allmenngjøringsforskrift, jf. allmenngjøringsloven § 3.\nForskriften griper ikke inn i rettigheter som følger av tariffavtale.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift betyr:",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Hvem forskriften retter seg mot",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Bestiller, hovedleverandør, underleverandør og tillitsvalgte har plikter eller rettigheter etter denne forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Informasjonsplikt",
+      "path": [
+        "Kapittel 2. Informasjons-, påse- og dokumentasjonsplikt"
+      ],
+      "text": "Bestiller skal i kontrakter med entreprenører eller leverandører informere om at virksomhetenes arbeidstakere minst skal ha de lønns- og arbeidsvilkår som følger av allmenngjøringsforskrifter. Den samme informasjonsplikten gjelder for entreprenører eller leverandører når disse inngår avtaler med underleverandører.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Påseplikt",
+      "path": [
+        "Kapittel 2. Informasjons-, påse- og dokumentasjonsplikt"
+      ],
+      "text": "Hovedleverandør skal påse at lønns- og arbeidsvilkår hos virksomhetens underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrifter.\nBestiller som driver næringsvirksomhet, har en tilsvarende påseplikt overfor sine leverandører i tilfeller der det ikke benyttes underleverandører.\nPå områder som følger av forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg (rammeforskriften) § 2, har den som eier eller driver petroleumsanlegg og tilknyttede rørledningssystemer, påseplikt overfor sine leverandører og underleverandører.\nPå områder som følger av allmenngjøringsloven § 2 nr. 2, har rederiet plikt til å påse at lønnsvilkår hos leverandører og underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrifter.\nPåseplikt innebærer at det skal iverksettes systemer og rutiner for å undersøke og om nødvendig følge opp at allmenngjøringsforskrifter etterleves. Påseplikten kan oppfylles for eksempel ved at det tas inn kontraktsklausuler om at arbeidstakere minst skal ha de lønns- og arbeidsvilkår som følger av allmenngjøringsforskrifter, og at dette følges opp gjennom innhenting av dokumentasjon på arbeidstakeres lønns- og arbeidsvilkår.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6a",
+      "heading": "Dokumentasjonsplikt",
+      "path": [
+        "Kapittel 2. Informasjons-, påse- og dokumentasjonsplikt"
+      ],
+      "text": "Underleverandører skal på forespørsel fra hovedleverandør dokumentere at krav til lønns- og arbeidsvilkår etter allmenngjøringsforskrifter etterleves. Leverandører har en tilsvarende dokumentasjonsplikt overfor bestiller som driver næringsvirksomhet, i tilfeller der det ikke benyttes underleverandører. Personopplysninger som ikke er nødvendige for å ivareta påseplikten, skal ikke utleveres til hovedleverandør eller bestiller.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Gjennomføring av tillitsvalgtes innsynsrett",
+      "path": [
+        "Kapittel 3. Innsynsrett"
+      ],
+      "text": "Dersom tillitsvalgte i hovedleverandørs virksomhet fremmer begjæring om det, skal hovedleverandør dokumentere at lønns- og arbeidsvilkår hos virksomhetens underleverandører er i overensstemmelse med gjeldende allmenngjøringsforskrift.\nDersom det ikke er tillitsvalgte hos hovedleverandør, kan tillitsvalgte hos virksomhetens nærmeste underleverandør kreve dokumentasjon som nevnt i første ledd fra vedkommende underleverandørs underleverandører.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Begjæringens form og innhold",
+      "path": [
+        "Kapittel 3. Innsynsrett"
+      ],
+      "text": "Begjæring om innsyn må fremmes skriftlig til egen arbeidsgiver. Begjæringen skal angi hvilket grunnlag den tillitsvalgte har for begjæringen og hvilke virksomheter og arbeidstakergrupper den gjelder. Det kan bare kreves innsyn i lønns- og arbeidsvilkår til arbeidstakere som utfører arbeid som er omfattet av en allmenngjøringsforskrift.\nTillitsvalgte og arbeidsgiver skal avtale en frist for når arbeidsgiver plikter å legge frem opplysninger. Fristen skal være på minst tre dager.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Fremleggelse av dokumentasjon",
+      "path": [
+        "Kapittel 3. Innsynsrett"
+      ],
+      "text": "Opplysninger om lønns- og arbeidsvilkår skal dokumenteres ved kopi av arbeidsavtale, lønnsslipp og timelister. Personopplysninger og opplysninger som ikke er omfattet av begjæringen om innsyn, skal ikke fremgå av den fremlagte dokumentasjonen.\nDersom opplysningene ikke fremlegges innenfor den fastsatte fristen, jf. forskriften § 8, kan tillitsvalgte kreve opplysningene direkte fra den eller de aktuelle underleverandørene.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Behandling av opplysninger",
+      "path": [
+        "Kapittel 4. Behandling av opplysninger"
+      ],
+      "text": "Opplysninger som er fremkommet som et resultat av oppfølging av påseplikten eller begjæring om innsyn i henhold til forskriften her, kan bare benyttes til å undersøke om lønns- og arbeidsvilkår er i overensstemmelse med allmenngjøringsforskrifter.\nOpplysningene skal slettes når behovet for opplysningene ikke lenger er til stede, herunder dersom opplysningene viser at arbeidstakerne som er omfattet av innsynsbegjæringen får minst de lønns- og arbeidsvilkår som følger av allmenngjøringsforskrifter.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4. Behandling av opplysninger"
+      ],
+      "text": "Enhver som mottar opplysninger om lønns- og arbeidsvilkår i medhold av forskriften her, har taushetsplikt om opplysningene.\nTaushetsplikten gjelder ikke overfor Arbeidstilsynet eller Havindustritilsynet. Taushetsplikten gjelder heller ikke overfor rådgivere som er nødvendige for å få språklig, økonomisk, juridisk eller annen faglig bistand. Dersom opplysninger drøftes med rådgivere, gjelder taushetsplikten også for dem.\nBrudd på taushetsplikten straffes med bøter eller fengsel, jf. straffeloven § 209.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 14. mars 2008.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    }
+  ]
+}

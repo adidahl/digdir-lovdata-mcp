@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2020-01-31-100",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om jakt på reinsdyr som eies",
+  "short_title": "Forskrift om jakt på reinsdyr som eies",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2020-01-31",
+  "lovdata_refid": "forskrift/2020-01-31-100",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-01-31-100",
+  "raw_xml_sha256": "523f37e5a6d7b3f26686eaf3bcb13fba953eecbeea4b55aa4703f502bbf37132",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal fremme forsvarlig dyrevelferd ved jakt på reinsdyr som eies.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder ved jakt på reinsdyr som er eiet av virksomheter som driver i tråd med konsesjon gitt av Landbruks- og matdepartementet, og som i konsesjonen er gitt fritak fra merkeplikten etter reindriftsloven.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår",
+      "path": [],
+      "text": "Jakt på dyr omfattet av virkeområdet i § 2, skal utøves på en dyrevelferdsmessig forsvarlig måte i tråd med dyrevelferdslovens § 20 første ledd.\nJakt skal utøves på slik måte at dyr ikke utsettes for unødige lidelser. Herunder må følgende vilkår være oppfylt:Utøver av jakt må ha fylt 18 år, ha bestått jegerprøve og skyteprøve for storviltjakt i henhold til forskrift om utøvelse av jakt, felling og fangst § 5, § 8 og § 18,Dersom konsesjonshaver ønsker å tillate opplæringsjakt, må vilkårene i § 6 i den samme forskriften oppfylles, ogBruk av våpen og ammunisjon må skje i henhold til forskrift om utøvelse av jakt, felling og fangst § 15 og § 16.\nUnder jakten skal følgende dokumentasjon medbringes: Gyldig våpenkort og dokumentasjon for bestått jegerprøve og skyteprøve for storvilt.\nJegere har plikt til å la seg kontrollere av politi, Statens naturoppsyn, Mattilsynet og representanter for konsesjonshaver.\nVed skadeskyting av rein gjelder bestemmelsene i forskrift om utøvelse av jakt, felling og fangst § 27 og § 28 så langt de passer.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. dyrevelferdsloven § 30, for å gjennomføre bestemmelser som er fastsatt i eller i medhold av denne forskriften.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser som er gitt i eller i medhold av forskriften, er straffbart i medhold av dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

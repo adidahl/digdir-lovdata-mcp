@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2014-07-01-956",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om supplerende sikkerhetstiltak for bulkskip",
+  "short_title": "Forskrift om supplerende sikkerhetstiltak for bulkskip",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2014-09-15",
+  "last_change_in_force": "2014-09-15",
+  "last_changed_by": "forskrift/2014-09-15-1218",
+  "lovdata_refid": "forskrift/2014-07-01-956",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-07-01-956",
+  "raw_xml_sha256": "56c4f8bc5ee3982398ecafee80ea852cc2ab154fb35a1e769698ac4364045ac3",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norske lasteskip med bruttotonnasje 500 eller mer i utenriksfart som hovedsakelig frakter tørr last i bulk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav om supplerende sikkerhetskrav for bulkskip",
+      "path": [],
+      "text": "Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS), konsolidert utgave 2009 kapittel XII, gjelder som forskrift.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.\nSjøfartsdirektoratet kan unnta skip som unntaksvis må foreta en enkelt internasjonal sjøreise fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. september 2014.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

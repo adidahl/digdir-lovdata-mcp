@@ -1,0 +1,67 @@
+{
+  "id": "LOV-2012-01-27-10",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om lønnsnemnd i arbeidstvister (lønnsnemndloven)",
+  "short_title": "Lønnsnemndloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Arbeidsrett > Arbeidsforhold. Sysselsetting Arbeidsrett > Arbeidstvister Arbeidsrett > Tariffavtaler",
+  "date_in_force": "2012-03-01",
+  "last_change_in_force": "2012-12-14",
+  "last_changed_by": "lov/2012-12-14-82",
+  "lovdata_refid": "lov/2012-01-27-10",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2012-01-27-10",
+  "raw_xml_sha256": "60bd1eea9ec31e02511a7aad51d199da4eedecb67726a4e73d3258263e2c898c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Rikslønnsnemnd",
+      "path": [],
+      "text": "Rikslønnsnemnda har sete i Oslo.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Saker som behandles av Rikslønnsnemnda",
+      "path": [],
+      "text": "(1) Blir en interessetvist etter arbeidstvistloven § 1 bokstav j ikke løst ved mekling, kan partene i fellesskap bringe tvisten inn for Rikslønnsnemnda.(2) En avgjørelse fra Rikslønnsnemnda har samme virkning som en tariffavtale.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Rikslønnsnemndas sammensetning",
+      "path": [],
+      "text": "(1) Rikslønnsnemnda skal ha en leder og åtte andre medlemmer.(2) Rikslønnsnemndas leder og fire medlemmer med personlige varamedlemmer blir oppnevnt av Kongen for tre år. Ett av medlemmene skal representere arbeidstakerinteresser, og ett arbeidsgiverinteresser.(3) Partene i den enkelte tvist utpeker i tillegg to medlemmer hver.(4) I saker etter tjenestetvistloven § 26 og § 26 a settes nemnda med en leder og seks andre medlemmer. Partene i den enkelte tvist utpeker ett medlem hver.(5) Hvis en part ikke utpeker sine medlemmer innen den frist lederen har satt, blir medlemmene oppnevnt av departementet.(6) Med partenes samtykke kan lederen i Rikslønnsnemnda avgjøre at nemnda i en tvist blir satt med tre medlemmer. Partene i tvisten utpeker ett medlem hver. Nemnda ledes av lederen eller ett av de andre faste medlemmene som ikke representerer partsinteresser.(7) Medlemmer som ikke representerer arbeidstaker- eller arbeidsgiverinteresser, må fylle kravene i arbeidstvistloven § 36 første ledd og § 40.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Avstemning",
+      "path": [],
+      "text": "(1) Rikslønnsnemndas avgjørelser treffes ved stemmeflertall.(2) Nemndas faste medlemmer som ikke representerer partsinteresser, har stemmerett.(3) I tillegg har ett av medlemmene som er utpekt fra hver av partene i den enkelte tvist, stemmerett. Partene skal oppgi hvem dette er ved utpekingen. Dette medlem kan med samtykke av det faste medlem for vedkommende partsinteresse overføre sin stemmerett til dette medlemmet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Saksbehandling",
+      "path": [],
+      "text": "Arbeidstvistloven kapittel 4 og 5 gjelder tilsvarende så langt det passer.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1 Fra den tid loven trer i kraft, oppheves lov 19. desember 1952 nr. 7 om lønnsnemnd i arbeidstvister.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

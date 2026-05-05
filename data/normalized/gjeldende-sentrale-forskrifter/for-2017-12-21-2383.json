@@ -1,0 +1,114 @@
+{
+  "id": "FOR-2017-12-21-2383",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.",
+  "short_title": "Forskrift om private universiteter, høyskoler og fagskoler – krav til regnskap mv.",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2019-10-15",
+  "last_changed_by": "forskrift/2019-10-15-1399",
+  "lovdata_refid": "forskrift/2017-12-21-2383",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-21-2383",
+  "raw_xml_sha256": "298d57c16b0d0f3eebb2445e64b41d36284fe164a85a5798ee2e0520d4470b5a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder private universiteter og høyskoler med akkreditering etter universitets- og høyskoleloven og fagskoler med akkreditering etter fagskoleloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Regnskapsmessig skille",
+      "path": [],
+      "text": "(1) Regnskapssystemet skal innrettes slik at akkreditert del og ikke-akkreditert del av institusjonens virksomhet er egne ansvarssteder.(2) Med akkreditert del av virksomhet etter første ledd menes drift som kan knyttes til institusjonens akkrediteringer sammenholdt med formål angitt i universitets- og høyskoleloven § 1-1 eller fagskoleloven § 1, herunder formålstjenlige tiltak til studentvelferd for institusjonens studenter som ikke ivaretas av lov 14. desember 2007 nr. 116 om studentsamskipnader.(3) Transaksjoner skal bokføres løpende og direkte på ansvarssted. Der direkteføring ikke er mulig, skal fordelingen på ansvarssteder skje i samsvar med den reelle bruken av ressurser.(4) Alle transaksjoner som gjelder akkreditert virksomhet, skal bokføres på dette ansvarsstedet i regnskapet.(5) Kostnader i andre deler av virksomheten, skal ikke bokføres på ansvarsstedet for akkreditert virksomhet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til noter i årsregnskapet",
+      "path": [],
+      "text": "Årsregnskapet som fastsettes i henhold til regnskapsloven § 3-1, skal i tillegg til de notekrav som følger av regnskapsloven, ha følgende noteopplysninger:segmentregnskap for hvert av ansvarsstedene pålagt etter denne forskrift § 2, med en inndeling som minst viser sum inntekter, sum kostnader, driftsresultat, sum netto finansposter og årsresultat.oversikt over statlige tilskudd og egenbetaling fra studenter.endring i opptjent og innskutt egenkapital, fordelt på segment.transaksjoner med nærstående parter hvor verdien av institusjonens ytelse utgjør 50 000 kroner eller mer, fordelt på segment. Opplysningene skal omfatte transaksjonenes beløp og en beskrivelse av hva slags forhold det er mellom institusjonen og den nærstående part.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Oppbevaringsplikt for regnskapsmateriale mv.",
+      "path": [],
+      "text": "(1) Institusjonene plikter å oppbevare alt regnskapsmateriale som nevnt i bokføringsloven § 13 i fem år. Tilsvarende oppbevaringsplikt gjelder for avtaler med nærstående etter § 5 andre ledd i denne forskrift.(2) Departementet kan gi pålegg om utvidet oppbevaringstid i forbindelse med tilsyn.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Avtaler med nærstående parter",
+      "path": [],
+      "text": "(1) Nærstående i universitets- og høyskoleloven § 8-4, fagskoleloven § 30 og i denne forskrift omfatter foretak og personer som nevnt i forskrift til regnskapsloven § 7-30b-1. Et studieforbund er i denne forskrift å anse som et foretak.(2) Avtaler med nærstående skal dokumenteres med skriftlige avtaler. Pris og andre vilkår i avtalene skal ikke stille institusjonen dårligere enn det som ville vært inngått i avtaler mellom uavhengige parter under sammenlignbare forhold og omstendigheter, og hensett til den reelle risiko- og funksjonsfordelingen mellom partene.3) Styret skal sørge for at institusjonens avtaler med nærstående parter skjer i henhold til andre ledd og øvrige krav til disponering av offentlige tilskudd og studentenes egenbetalinger. Dette er ikke til hinder for at oppgaver kan delegeres til institusjonens daglige ledelse.4) Kravet til skriftlighet i andre ledd første punktum gjelder ikke for transaksjoner med totalbeløp mindre enn 10 000 kroner med en og samme nærstående avtalepart i ett regnskapsår.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overføring av driftsoverskudd",
+      "path": [],
+      "text": "Institusjoner som mottar tilskudd har anledning til å se virksomheten som helhet over tid, og kan overføre overskudd fra et år til et annet. Dette skal gjøres på en slik måte at tilskudd og egenbetalinger kommer studentene til gode.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Meldeplikt",
+      "path": [],
+      "text": "(1) Institusjoner skal uten ugrunnet opphold varsle departementet når det er truffet beslutning om fusjon, fisjon, salg, omdanning eller avvikling av virksomheten. Opphør av akkreditert virksomhet, uten at selskapet, stiftelsen eller studieforbundet oppheves, omfattes også av meldeplikten.(2) I varselet skal det opplyses i overordnet form om hvilken disposisjon som skal gjennomføres, parter som er involvert og tidspunkt for gjennomføring.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Særskilt om avvikling av akkreditert virksomhet",
+      "path": [],
+      "text": "(1) Ved avvikling av akkreditert virksomhet i institusjoner som mottar tilskudd og som er organisert som aksjeselskaper, skal verdiene i selskapet tilfalle staten etter at selskapets gjeld og aksjonærenes innskutte kapital er trukket fra.(2) Innskutt kapital etter første ledd beregnes til innskuddets pålydende. Ved uttak av naturalier, skal beregningen skje til gjenstandenes virkelige verdi på dagen for uttak.(3) Bestemmelsene i aksjeloven kapittel 16 gjelder så langt de passer ved avvikling av akkreditert virksomhet. Aksjeloven § 16-2 annet ledd og § 16-6 gjelder tilsvarende i tilfeller hvor akkreditert og tilskuddsberettiget virksomhet opphører uten at aksjeselskapet oppheves og avvikles.(4) Fortegnelse og balanse i revidert stand etter aksjeloven § 16-6 annet ledd skal sendes til departementet uten ugrunnet opphold. Avviklingsstyret i selskapet skal uten ugrunnet opphold sørge for innbetaling til staten av dens andel av selskapets verdier i henhold til første ledd.(5) Første til fjerde ledd gjelder tilsvarende for institusjoner som er organisert som studieforbund så langt de passer.(6) Ved avvikling av akkreditert virksomhet i stiftelser gjelder reglene i lov 15. juni 2001 nr. 59 om stiftelser.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Tvangsmulkt",
+      "path": [],
+      "text": "(1) Størrelsen på tvangsmulkten etter universitets- og høyskoleloven § 8-10 og fagskoleloven § 36 fastsettes etter departementets skjønn, men kan for samme forhold ikke overstige 10 000 kroner per dag og totalt 500 000 kroner.(2) Tidspunkt for forfall skal fastsettes i vedtaket om ileggelse av tvangsmulkt eller ved senere påkrav. Forfall kan inntreffe tidligst to uker etter at vedtak om tvangsmulkt eller påkrav om betaling er sendt til den det retter seg mot.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Størrelsen på overtredelsesgebyret etter universitets- og høyskoleloven § 8-11 og fagskoleloven § 37 fastsettes etter departementets skjønn, men kan ikke overstige 1 500 000 kroner.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Tilbaketrekking av akkreditering og godkjenning",
+      "path": [],
+      "text": "Vedtak om tilbaketrekking av akkreditering etter universitets- og høyskoleloven § 8-12 eller godkjenning etter fagskoleloven § 38 skal normalt ikke iverksettes før klagefristen er ute eller klagen er avgjort. Tilsvarende gjelder når en part eller annen med rettslig klageinteresse har reist søksmål for å få vedtaket prøvd ved domstol, eller har brakt en sak inn for Stortingets ombudsmann for forvaltningen. Vedtaket kan iverksettes umiddelbart i særlige tilfeller.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2018.",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

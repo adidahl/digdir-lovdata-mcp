@@ -1,0 +1,217 @@
+{
+  "id": "FOR-2015-07-01-853",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om standarder og nasjonale e-helseløsninger",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2015-09-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-22-2858 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2015-07-01-853",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-07-01-853",
+  "raw_xml_sha256": "b426aadfeb78b2533bf7c3c4714724fe77523e6ba6eeee1859b2330e2864f894",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Forskriften skal bidra til at virksomheter i helse- og omsorgstjenesten som yter helsehjelp eller virksomheter som forvalter og tilgjengeliggjør helseopplysninger for helseregistre, bruker standarder, standardsystemer, godkjent programvare, kodeverk, klassifikasjonssystemer og nasjonale e-helseløsninger for å fremme sikker og effektiv samhandling og bruk av IKT.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Forskriften gjelder virksomheter som yter helsehjelp eller forvalter og tilgjengeliggjør helseopplysninger for helseregistre. Det vil si virksomheter innen helse- og omsorgstjenesten som bruker behandlingsrettede helseregistre, jf. pasientjournalloven § 2 bokstav d, regionale helseforetak, helseforvaltning og virksomheter som forvalter og tilgjengeliggjør helseopplysninger for helseregistre med hjemmel i helseregisterloven § 9 til § 11.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Krav om elektronisk behandling av helseopplysninger",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Virksomheter som er omfattet av denne forskriften, skal sørge for at behandlingsrettede helseregistre føres elektronisk. Dersom det i enkelttilfeller ikke er mulig å registrere opplysningene elektronisk, kan de dokumenteres på annen måte inntil de kan registreres elektronisk.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Krav om oppdatert adresseinformasjon mv.",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Alle virksomheter som er tilknyttet helsenettet ved avtale med Norsk helsenett SF, skal sørge for å ha oppdatert informasjon om virksomhetens elektroniske adresser og annen relevant kontaktinformasjon i adresseregisteret i helsenettet.\nVed registrering av elektroniske adresser i adresseregisteret og ved adressering av meldinger skal tjenestebasert adressering benyttes, etter kravene i HIS 1153-1:2016, HIS 1153-2:2016 og HIS 1153-3:2017. Dette gjelder for helseforetak, private sykehus, virksomheter som yter medisinske laboratorietjenester og radiologiske tjenester som nevnt i spesialisthelsetjenesteloven § 2-1a første ledd nr. 2, og virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 1 til 3 og nr. 5 til 7.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Krav til funksjonaliteten i IKT-systemenes programvare",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp og som skal sende eller motta meldinger etter § 6 skal ta i bruk programvare somfølger ebXML rammeverk som angitt i HIS 1037:2011 ved utveksling av meldinger,håndterer applikasjonskvittering som angitt iHIS 80415:2012 ved sending og mottak av meldinger.\nFor meldinger som nevnt i § 6 nr. 17, kan kravet i første ledd bokstav a) oppfylles ved å ta i bruk tilsvarende programvare.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Krav til funksjonalitet ved meldingsutveksling",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Ved sending og mottak av meldinger som denne bestemmelsen omfatter, skal virksomhetene ta i bruk programvare som oppfyller kravene i den aktuelle standarden som følger av nummer 1 til 18:Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp skal ved sending av tilbakemelding om feil i mottatt melding bruke melding som angitt i HIS 1151:2006. Alle virksomheter i helse- og omsorgstjenesten som yter helsehjelp skal kunne motta slik melding.Virksomheter som yter allmennlegetjenester skal ved sending av henvisninger for ny tilstand bruke henvisningsmelding som angitt i HIS 1207:2018. Helseforetak, private sykehus, avtalespesialister, samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-5 tredje ledd plikter å kunne motta slik melding.Helseinstitusjoner skal ved sending av epikriser etter helsepersonelloven § 45a benytte epikrisemelding som angitt i HIS 80226:2014. Virksomheter som yter allmennlegetjenester, helseforetak og private sykehus samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som utfører en medisinsk biokjemisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1138:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som utfører en mikrobiologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1139:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som utfører en immunologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1140:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som utfører en patologiundersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1141:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som utfører en radiologisk undersøkelse, skal ved svarrapportering bruke melding som angitt i HIS 1142:2014. Helseforetak, private sykehus, virksomheter som yter allmennlegetjenester samt virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som tilbyr radiologisk undersøkelse, plikter å kunne motta en melding med rekvisisjon eller henvisning som angitt i HIS 1175:2014.Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 skal ved sending av journalopplysninger om pasienten i kontakt med sykehuset, bruke melding som angitt i HIS 1143:2014. Helseforetak og private sykehus plikter å kunne motta slik melding.Helseforetak og private sykehus skal ved sending av informasjon til kommunen om at en pasient er vurdert å ha behov for kommunale helse- og omsorgstjenester etter utskrivning, bruke melding som angitt i HIS 1144:2014. Kommuner plikter å kunne motta slik melding.Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 skal ved sending av journalopplysninger om pasienten i kontakt med pasientens fastlege, bruke melding som angitt i HIS 1145:2014. Fastleger plikter å kunne motta slik melding.Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 skal ved sending av orientering om tjenestetilbud bruke melding som angitt i HIS 1146:2014. Fastleger plikter å kunne motta slik melding.Fastleger skal ved sending av journalopplysninger om pasienten i forbindelse med etablering av tjenester, bruke melding som angitt i HIS 1147:2014. Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Helseforetak og private sykehus skal ved sending av administrative opplysninger knyttet til et sykehusopphold, bruke melding som angitt i HIS 1149:2014. Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2 plikter å kunne motta slik melding.Virksomheter som yter tjenester som nevnt i helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 og § 3-6 nr. 2, fastleger, helseforetak og private sykehus skal kunne sende og motta forespørsel om opplysninger om pasient og svar på slik forespørsel ved bruk av melding som angitt i HIS 1152:2006.Virksomheter som rekvirerer legemidler, medisinsk forbruksmateriell eller næringsmidler på resept, samt apotek, bandasjister, Helfo og Direktoratet for medisinske produkter, skal ved utveksling av resepter og reseptopplysninger bruke meldinger som angitt i HIS 3100:2019.Helseforetak og private sykehus skal ved sending av utskrivningsrapport til kommunen bruke melding som angitt i HIS 1148:2014. Kommuner plikter å kunne motta slik melding.\nEr det i enkelttilfeller ikke mulig å sende melding som angitt i første ledd, skal opplysningene sendes på annen forsvarlig måte.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Katalog over standarder",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Helsedirektoratet gir ut en katalog med oversikt over obligatoriske og anbefalte standarder, standardsystemer, kodeverk, terminologi og klassifikasjonssystemer. Katalogen skal være oversiktlig og lett tilgjengelig.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 2. Krav til elektronisk behandling av helseopplysninger og standarder"
+      ],
+      "text": "Virksomheter som utprøver en ny standard eller versjon av en standard anbefalt av Helsedirektoratet for å undersøke om den skal erstatte en eller flere av standardene angitt i denne forskriften, unntas fra kravet i § 5 og § 6 om å bruke den eller de standardene som den standarden som utprøves skal erstatte.\nHelsedirektoratet kan på eget initiativ eller etter søknad unnta en eller flere virksomheter for en begrenset periode fra et eller flere av kravene i forskriften § 3, § 4 og § 6 dersom det vil være særlig byrdefullt eller vanskelig å oppfylle kravene.\nUnntak etter første og andre ledd skal publiseres i Helsedirektoratets katalog over standarder. Det skal blant annet fremgå hvilke virksomheter unntaket gjelder.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Plikt for virksomhetene til å ta i bruk helsenettet i virksomheten",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Virksomheter som yter helse- og omsorgstjenester etter spesialisthelsetjenesteloven, helse- og omsorgstjenesteloven, apotekloven og tannhelsetjenesteloven skal ta i bruk helsenettet i virksomheten fra 1. januar 2022. Dette gjelder også sykehusapotek, uavhengig av organisasjonsform, og bandasjister. Helsenettet inkluderer felleskomponentene grunndata og helseID. Plikten omfatter ikke å ta i bruk felleskomponenten HelseID og velferdsteknologisk knutepunkt.\nMed å ta i bruk i virksomheten menes at virksomheten er medlem av helsenettet og at personell med tjenstlig behov kan kommunisere og utveksle opplysninger ved bruk av meldingsutveksling og andre relevante tjenester.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Plikt for virksomhetene til å ta i bruk Nasjonal kjernejournal i virksomheten",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Helseforetak, private sykehus og selvstendig næringsdrivende fastleger skal ta i bruk Nasjonal kjernejournal i virksomheten fra 1. juli 2022. Kommunen har ansvar for at kommunale legevakter og kommunalt ansatte fastleger tar i bruk Nasjonal kjernejournal i virksomheten fra 1. juli 2022.\nAvtalespesialister skal ta i bruk Nasjonal kjernejournal i virksomheten fra 1. januar 2024.\nKommunene har ansvar for at kommunale sykehjem og kommunale hjemmebaserte tjenester tar i bruk Nasjonal kjernejournal i virksomheten fra 1. januar 2026.\nMed å ta i bruk i virksomheten menes at Nasjonal kjernejournal er integrert med journalsystemet eller annet relevant fagsystem, og at personell med tjenstlig behov og rett til å benytte Nasjonal kjernejournal etter pasientjournalloven § 13 fjerde og femte ledd og kjernejournalforskriften er satt i stand til å ta løsningen i bruk.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Plikt for virksomhetene til å ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Helseforetak, selvstendig næringsdrivende fastleger, apotek og bandasjist skal ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten fra 1. juli 2022. Kommunen har ansvaret for at kommunale legevakter og kommunalt ansatte fastleger tar i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) fra 1. juli 2022.\nPrivate sykehus og avtalespesialister skal ta i bruk elektronisk kommunikasjonskjede for overføring av reseptinformasjon (e-resept) i virksomheten fra 1. januar 2023.\nMed å ta i bruk i virksomheten, menes at e-resept er integrert med journalsystemet eller annet relevant fagsystem, og at personell med tjenstlig behov og rett til å benytte e-resept etter reseptformidlerforskriften kapittel 3 er satt i stand til å ta løsningen i bruk.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Plikt for virksomhetene til å gjøre tilgjengelig tjenester på en nasjonal innbyggerportal (helsenorge.no)",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Helseforetak skal gjøre tjenester for selvbetjening, dialog og innsyn tilgjengelig for pasienter og brukere på helsenorge.no fra 1. januar 2023.\nMed tjenestene selvbetjening, dialog og innsyn menes:Selvbetjening: Tjenester for administrasjon av avtaler og kontakt med helse- og omsorgstjenesten.Dialog: Informasjon om innbyggers kontaktpunkter i helse- og omsorgstjenesten og mulighet for digital dialog med helse- og omsorgstjenesten.Innsyn: Innsyn i de deler av pasientjournalen dataansvarlig har gjort tilgjengelig.\nSelvstendig næringsdrivende fastleger skal gjøre følgende tjenester tilgjengelig for pasienter og brukere på helsenorge.no:timebestilling fra 1. januar 2026.e-kontakt fra 1. juli 2026.reseptfornyelse fra 1. juli 2026.\nKommunene har ansvar for at kommunale fastlegekontorer, jf. forskrift om fastlegeordning i kommunene § 2 bokstav d, gjør følgende tjenester tilgjengelig for pasienter og brukere på helsenorge.no:timebestilling fra 1. januar 2026.e-kontakt fra 1. juli 2026.reseptfornyelse fra 1. juli 2026.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Betaling for forvaltning og drift av helsenettet",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Kostnadene for forvaltning og drift av helsenettet skal betales av virksomheter som har tatt i bruk helsenettet (medlemmer).\nRegionale helseforetak skal samlet betale Norsk helsenett SF 65,7 mill. kroner årlig til forvaltning og drift av helsenettet, 36,4 mill. kroner årlig til forvaltning og drift av grunndata og helseID og 1,6 mill. kroner årlig til forvaltning og drift av velferdsteknologisk knutepunkt. Betalingen fordeles på det enkelte regionale helseforetak etter fordelingsnøklene i det gjeldende inntektssystemet for fordeling av basisfinansieringen mellom de regionale helseforetakene.\nKommunene skal samlet betale Norsk helsenett SF 65,7 mill. kroner årlig til forvaltning og drift av helsenettet og 36,4 mill. kroner årlig til forvaltning og drift av grunndata og helseID. Betalingen fordeles på den enkelte kommune etter delkostnadsnøkkelen for kommunehelse i inntektssystemet for kommunene. I tillegg skal kommunene betale Norsk helsenett 30,4 mill. kroner årlig til forvaltning og drift av velferdsteknologisk knutepunkt. Den ene halvparten av betalingen fordeles mellom alle kommuner etter delkostnadsnøkkel for kommunehelse, og den andre halvparten fordeles mellom kommunene som har tatt tjenesten i bruk basert på delkostnadsnøkkel kommunehelse.\nØvrige medlemmer fordeler seg i syv priskategorier og skal betale Norsk helsenett SF følgende beløp per måned til forvaltning og drift av helsenettet, inkludert grunndata og helseID:Små virksomheter (omsetning 0–15 mill. kroner): 748 kronerMellomstore virksomheter (omsetning 15–40 mill. kroner): 1 495 kronerStore virksomheter (omsetning 40–80 mill. kroner): 8 826 kronerEkstra store virksomheter (omsetning mer enn 80 mill. kroner): 13 249 kronerKjeder (10 eller flere lokasjoner): 748 kroner per lokasjonFylkeskommuner: 13 249 kronerVirksomheter som yter helsehjelp til egne ansatte/beboere: 1 947 kroner.\nNye medlemmer i helsenettet faktureres fra og med måneden etter at de har signert medlemsavtale.\nBeløpene som nevnt i andre til fjerde ledd er uten merverdiavgift.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 14",
+      "heading": "Betaling for forvaltning og drift av Nasjonal kjernejournal",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Regionale helseforetak skal samlet betale Norsk helsenett SF 56,4 mill. kroner årlig til forvaltning og drift av Nasjonal kjernejournal. Betalingen fordeles på det enkelte regionale helseforetak etter fordelingsnøklene i det gjeldende inntektssystemet for fordeling av basisfinansieringen mellom de regionale helseforetakene.\nKommunene skal samlet betale Norsk helsenett SF 56,4 mill. kroner årlig til forvaltning og drift av Nasjonal kjernejournal. Betalingen fordeles på den enkelte kommune etter delkostnadsnøkkelen for kommunehelse i inntektssystemet for kommunene.\nBeløpene som nevnt i første og andre ledd er uten merverdiavgift.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 15",
+      "heading": "Betaling for forvaltning og drift av e-resept",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Regionale helseforetak skal samlet betale Norsk helsenett SF 81,2 mill. kroner årlig til forvaltning og drift av e-resept. Betalingen fordeles på det enkelte regionale helseforetak etter fordelingsnøklene i det gjeldende inntektssystemet for fordeling av basisfinansieringen mellom de regionale helseforetakene.\nKommunene skal samlet betale Norsk helsenett SF 81,2 mill. kroner årlig til forvaltning og drift av e-resept. Betalingen fordeles på den enkelte kommune etter delkostnadsnøkkelen for kommunehelse i inntektssystemet for kommunene.\nApotek og bandasjister skal samlet betale Norsk helsenett SF 11,8 mill. kroner årlig til forvaltning og drift av e-resept. Betalingen fordeles basert på virksomhetenes oppslag i e-resept som fører til salg.\nBeløpene som nevnt i første til tredje ledd er uten merverdiavgift.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 16",
+      "heading": "Betaling for forvaltning og drift av nasjonal innbyggerportal (helsenorge.no)",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Regionale helseforetak skal samlet betale Norsk helsenett SF 202,1 mill. kroner årlig til forvaltning og drift av helsenorge.no. Betalingen fordeles på det enkelte regionale helseforetak etter fordelingsnøklene i det gjeldende inntektssystemet for fordeling av basisfinansieringen mellom de regionale helseforetakene.\nKommunene skal samlet betale Norsk helsenett SF 202,1 mill. kroner årlig til forvaltning og drift av helsenorge.no. Betalingen fordeles på den enkelte kommune etter delkostnadsnøkkelen for kommunehelse i inntektssystemet for kommunene.\nBeløpene som nevnt i første og andre ledd er uten merverdiavgift.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 17",
+      "heading": "Konsumprisindeks og fakturering",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Betalingen etter § 13 til § 16 kan tillegges forventet årlig prisstigning. Årlig prisstigning beregnes på bakgrunn av Statistisk Sentralbyrås publiserte endring i konsumprisindeks de siste 12 måneder. Norsk helsenett SF kan tillegge fakturaen forventet årlig prisstigning uten forskriftsendring.\nNorsk helsenett SF fakturerer forskuddsvis per kvartal, basert på beløp angitt for den enkelte løsningen i § 13 til § 16 i tillegg til eventuell justering av forventet årlig prisstigning. Betalingen forfaller per 30 kalenderdager.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 18",
+      "heading": "Teknisk beregningsutvalg for nasjonale e-helseløsninger",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Teknisk beregningsutvalg for nasjonale e-helseløsninger skal, som grunnlag for fastsetting av betalingen, vurdere tallgrunnlaget fra Norsk helsenett SF for beregnede kostnader til forvaltning og drift av de nasjonale e-helseløsningene.\nTeknisk beregningsutvalg skal hvert år gjennomføre en gjennomgang av tallgrunnlaget i løpet av våren basert på prognoser fra Norsk helsenett SF. Teknisk beregningsutvalg gir sine vurderinger til departementet som fastsetter betalingen.\nMedlemmene oppnevnes av departementet og skal inkludere medlemmer som er foreslått av KS, regionale helseforetak, Legeforeningen og Apotekforeningen. Departementet kan også inkludere medlemmer som er foreslått av andre. Medlemmene i utvalget oppnevnes for to år av gangen. Departementet fastsetter utvalgets mandat.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-11",
+      "provision_ref": "§ 19",
+      "heading": "Plikt til å gjøre nasjonale e-helseløsninger tilgjengelig for virksomheter",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, bruk og betaling for nasjonale e-helseløsninger"
+      ],
+      "text": "Norsk helsenett SF skal gjøre helsenettet, Nasjonal kjernejournal, e-resept og helsenorge.no tilgjengelige for virksomheter i helse- og omsorgstjenesten og virksomheter i statlig helseforvaltning.",
+      "xml_path": "article#kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. september 2015.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2022-10-18-1759",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra CRR-forordningen (EU) nr. 575/2013",
+  "department": "Finansdepartementet",
+  "date_in_force": "2022-10-18",
+  "lovdata_refid": "forskrift/2022-10-18-1759",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-10-18-1759",
+  "raw_xml_sha256": "39aa3afb3773fb25cf9bd191d4252ee1352c03be35ab45b9e6741c16ad685c61",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Finansieringsforetak, forvaltningsselskaper og AIF-forvaltere unntas fra CRR del seks om likviditet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

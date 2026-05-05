@@ -1,0 +1,23 @@
+{
+  "id": "FOR-1962-08-03-5",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om forgiftninger som skal likestilles med yrkesskade i h.t. lov om yrkesskadetrygd.",
+  "short_title": "Forsk. om yrkesskadetrygd for forgiftninger",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "lovdata_refid": "forskrift/1962-08-03-5",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1962-08-03-5",
+  "raw_xml_sha256": "eb0126513035fd369ea32f617574991b760586f8ad6f5bd4821872950f10296a",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Forskrifter om forgiftninger som skal likestilles med yrkesskade i h.t. lov om yrkesskadetrygd.",
+      "path": [],
+      "text": "De sykdommer eller forgiftninger som er nevnt i nedenstående liste, og som rammer arbeidere beskjeftiget i de næringsgrener eller industrier som er nevnt i den motsvarende liste og er en følge av beskjeftigelse i en virksomhet som går inn under yrkesskadetrygdloven, med virkning fra 1. januar 1960 skal stilles likt med yrkesskade etter nevnte lov.\nListe over sykdommer og giftstoffer og liste over tilsvarende virksomheter og arbeidsprosesser.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

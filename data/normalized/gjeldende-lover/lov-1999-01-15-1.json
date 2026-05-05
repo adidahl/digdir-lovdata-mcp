@@ -1,0 +1,67 @@
+{
+  "id": "LOV-1999-01-15-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om pensjonsordning for ledsagere i utenrikstjenesten",
+  "short_title": "Lov om ledsagerpensjon i utenrikstjenesten",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Pensjons- og trygderett Stats-, statsforfatnings- og statsborgerrett > Utenrikstjenesten",
+  "date_in_force": "1999-01-15",
+  "last_change_in_force": "2023-10-01",
+  "last_changed_by": "lov/2023-06-16-34 fra 2023-10-01",
+  "lovdata_refid": "lov/1999-01-15-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1999-01-15-1",
+  "raw_xml_sha256": "a45c5b5ca683e6a6f8e2d519a80c3256122739db3c634d53f32361626cddbfa8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkekrets",
+      "path": [],
+      "text": "Denne lov gjelder ektefeller som ledsager utsendte utenrikstjenesteansatte. Loven gjelder også samboere som ledsager utsendte utenrikstjenesteansatte, når paret lever sammen og har, eller har hatt, felles barn eller tidligere har vært gift med hverandre.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Varighet",
+      "path": [],
+      "text": "Pensjonen utbetales fra den 1. i den måned pensjonssøkeren fyller vilkårene for slik pensjon. Pensjonen løper ut dødsmåneden.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår og beregningsgrunnlag",
+      "path": [],
+      "text": "Ledsager som har fulgt med utsendt utenrikstjenesteansatt under dennes tjenestegjøring ved norske utenriksstasjoner i minst 10 år, har rett til pensjon som omhandlet i denne loven, med de begrensninger som følger av § 5.\nNår ledsager har hatt egen stilling ved utenriksstasjonen som hovedsysselsetting og med en inntekt som for det enkelte inntektsår overstiger gjennomsnittet av folketrygdens grunnbeløp for dette året, skal denne tjenestetiden ikke regnes med i opptjeningstiden for pensjonen.\nDersom ledsageren under en tjenesteperiode i utlandet har tatt midlertidig opphold i Norge eller et annet land over et tidsrom som sammenhengende strekker seg ut over tre måneder og oppholdet ikke har sammenheng med tjenesten, familiens sykebehandling eller andre vektige velferdsgrunner, skal denne tiden ikke medregnes.\nPensjonens størrelse settes til 30 prosent av grunnbeløpet i folketrygden multiplisert med tallet fem. Full pensjon ytes ledsager som har fulgt med utsendt utenrikstjenesteansatt til utlandet som nevnt i første ledd, i til sammen minst 20 år. Dersom opptjeningstiden er kortere enn 20 år, blir pensjonen å avkorte forholdsmessig.\nRett til pensjon inntrer ved fylte 67 år.\nPensjon etter denne loven skal ikke samordnes med folketrygden. Det skal ikke svares medlemsavgift.\nPensjon under utbetaling reguleres årlig fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut. Ved regulering benyttes de reguleringsfaktorene Kongen fastsetter etter folketrygdloven § 19-14 åttende ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3a",
+      "heading": "Behandling av personopplysninger",
+      "path": [],
+      "text": "Bestemmelsene i lov om Statens pensjonskasse § 45 b om behandling av personopplysninger gjelder tilsvarende.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Administrasjon",
+      "path": [],
+      "text": "Pensjonsordningen administreres av Statens pensjonskasse.\nPensjonen utbetales etterskuddsvis hver måned. Terminbeløpet avrundes til nærmeste hele krone.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Overgangsbestemmelser og ikrafttredelse",
+      "path": [],
+      "text": "Denne loven trer i kraft straks.1\nRett til pensjon etter loven har ledsager som fyller vilkårene i § 3 og som ikke har fylt 70 år på det tidspunkt ordningen trer i kraft.\nFor ektefeller medregnes også ledsagertid opparbeidet før loven trer i kraft ved beregning av pensjonen. Det gjelder likevel en sperrefrist på 15 år ved ordningens ikrafttreden, slik at for å få rett til pensjon, må ektefellen da ha minst 15 års ledsagertid i utlandet. Denne sperregrensen reduseres med ett år pr. år fra ordningens ikrafttreden, inntil man når en karenstid på 10 år, jf. § 3.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

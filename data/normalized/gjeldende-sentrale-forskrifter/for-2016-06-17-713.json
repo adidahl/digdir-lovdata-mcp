@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2016-06-17-713",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nedsettelse av renter ved klage- og domstolsbehandling av tilleggsskatt, tilleggsavgift, tilleggstoll og overtredelsesgebyr (nedsettelsesforskriften)",
+  "short_title": "Nedsettelsesforskriften",
+  "department": "Finansdepartementet",
+  "date_in_force": "2016-06-17",
+  "lovdata_refid": "forskrift/2016-06-17-713",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-06-17-713",
+  "raw_xml_sha256": "563910416db1d510b6d6f5d95cf9c28c0e3faf2dd01264b71f49d1cb30a21dbb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Når tilleggsskatt, tilleggsavgift, tilleggstoll eller overtredelsesgebyr fastholdes etter klage- eller domstolsbehandling, kan innkrevingsmyndigheten etter søknad nedsette forsinkelsesrenter beregnet etter skattebetalingsloven § 11-1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Påløpte forsinkelsesrenter kan nedsettes for perioden 11. desember 2015 og fram til klagen er avgjort eller det foreligger en endelig rettsavgjørelse. Rentekravet nedsettes til det beløp kravet ville ha utgjort dersom renter hadde vært beregnet etter satsen i skattebetalingsloven § 11-6 annet ledd første punktum.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "For krav som skatteoppkrever innkrever, kan søknaden først behandles etter at hovedkravet er innfridd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift gjelder kun der tilleggsskatt, tilleggsavgift, tilleggstoll og overtredelsesgebyr er ilagt før 11. desember 2015.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

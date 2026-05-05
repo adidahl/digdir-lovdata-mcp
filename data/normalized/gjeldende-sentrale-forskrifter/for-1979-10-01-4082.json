@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1979-10-01-4082",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av offentlig og privat tjenestepensjon for opptjening før 1. oktober 1979",
+  "short_title": "Forskrift om samordning av offentlig og privat tjenestepensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1979-10-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1979-10-01-4082",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1979-10-01-4082",
+  "raw_xml_sha256": "1fb214f7dd68b7243d249223961a0fdbc5fa00d71b0cac4ed88c9c84f26d906e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Dersom det er opptjent rettighet i offentlig eller privat tjenestepensjonsordning før 1. oktober 1979, skal offentlig tjenestepensjonsordning ved anvendelse av samordningsloven § 6 fortsatt regne med tjenestetid i den private ordning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "For offentlige tjenestepensjoner som 1. oktober 1979 løper med begrenset samordningsfradrag for folketrygdpensjon og/eller personskadetrygdpensjon på grunn av samtidig rett til privat tjenestepensjon, skal endringen i samordningslovens § 1 nr. 2 ikke medføre at pensjonene settes ned.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. oktober 1979.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

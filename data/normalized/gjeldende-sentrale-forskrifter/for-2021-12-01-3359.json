@@ -1,0 +1,41 @@
+{
+  "id": "FOR-2021-12-01-3359",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om minstekvantum av epleråstoff til bearbeidingsindustrien",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2021-12-01",
+  "last_change_in_force": "2025-12-01",
+  "last_changed_by": "forskrift/2025-12-01-2605",
+  "lovdata_refid": "forskrift/2021-12-01-3359",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-12-01-3359",
+  "raw_xml_sha256": "9002e51df064d8cb34e969a1b28959f279ffa0c6baa6ffe18d3b1f9d6b673620",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Fastsettelse av minstekvantum",
+      "path": [],
+      "text": "Minstekvantumet kan oppfylles ved kjøp av eplekonsentrat, eplesaft eller epler til press.\nMinstekvantumet for perioden 1. oktober 2025–30. september 2026 er fastsatt til å være:ForetaksstørrelseMinstekvantumKonsentratSaftEplerLite foretak1 000 kg6 400 kg8 000 kgMellomstore foretak10 000 kg64 000 kg80 000 kgStore foretak30 000 kg192 000 kg240 000 kg",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Grupper av foretak",
+      "path": [],
+      "text": "Foretak inndeles i grupper etter samlet forbruk av eplekonsentrat, eplesaft og epler til press, omregnet til konsentrat, i perioden 1. oktober 2024–30. september 2025.ForetaksstørrelseSamlet forbruk omregnet til konsentratLite foretakOpptil 100 000 kgMellomstore foretakMellom 100 000 kg og 500 000 kgStore foretakOver 500 000 kg\nMed et foretaks samlede forbruk menes summen av lagerbeholdning per 1. oktober 2024 og innkjøp av råvare i perioden 1. oktober 2024–30. september 2025.\nForetakets lagerbeholdning ved periodens slutt trekkes fra i beregningen. Beregningen omfatter både norsk og importert vare. Forbruk av andre typer epleråstoff enn eplekonsentrat, må omregnes til konsentrat. Omregningsfaktorene som ligger til grunn for denne beregningen er som følger:8 kg epler = 1 kg konsentrat6,4 kg eplesaft = 1 kg konsentrat.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 1. desember 2020 nr. 2546 om minstekvantum av epleråstoff til bearbeidingsindustrien.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

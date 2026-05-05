@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2021-07-08-2366",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av forordning (EU) 2015/10 om kriterier for søkere av jernbaneinfrastrukturkapasitet",
+  "short_title": "Forskrift om gjennomføring av forordning (EU) 2015/10 om kriterier for søkere av jernbaneinfrastrukturkapasitet",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2021-07-08",
+  "lovdata_refid": "forskrift/2021-07-08-2366",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-07-08-2366",
+  "raw_xml_sha256": "06d2a3196afbc91d789f7444bf5daab2b779929c5cd3da676699fddb88c209f2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forordning (EU) 2015/10 av 6. januar 2015 gjelder som norsk forskrift",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 37aaa forordning (EU) 2015/10 av 6. januar 2015 om kriterier for søkere om jernbaneinfrastrukturkapasitet og om oppheving av gjennomføringsforordning (EU) nr. 870/2014 gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

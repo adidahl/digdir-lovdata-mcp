@@ -1,0 +1,56 @@
+{
+  "id": "FOR-2019-11-18-1521",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunalt rapporteringsregister (KOR-forskriften)",
+  "short_title": "KOR-forskriften",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2020-01-01",
+  "lovdata_refid": "forskrift/2019-11-18-1521",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-11-18-1521",
+  "raw_xml_sha256": "5340944d35b846ba6fcaaa3b02772f2dabbf539fcc0f0a73ae896770a6d846b5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for Brønnøysundregistrene og for departementene og andre organer som forvalter rapporteringsplikter som ved lov eller vedtak er pålagt kommuner og fylkeskommuner.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forvaltningsansvaret for det kommunale rapporteringsregisteret",
+      "path": [],
+      "text": "Det kommunale rapporteringsregisteret forvaltes av Brønnøysundregistrene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Innholdet i det kommunale rapporteringsregisteret",
+      "path": [],
+      "text": "Det kommunale rapporteringsregisteret skal gi en oversikt over og inneholde informasjon om rapporteringspliktene som staten ved lov eller vedtak har pålagt kommuner og fylkeskommuner.\nRegisteret skal inneholde opplysninger omhvilket departement eller organ som forvalter rapporteringspliktenhjemmelen for rapporteringspliktenformålet med rapporteringspliktenskjemaet eller registeret som skal benyttes ved rapporteringenanslått samlet tidsbruk til forarbeid, utfylling og innsending av rapporteringen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Melding til Brønnøysundregistrene og oppdatering av det kommunale rapporteringsregisteret",
+      "path": [],
+      "text": "Departementet eller organet som forvalter rapporteringsplikten skal sende melding til Brønnøysundregistrene om rapporteringsplikten. Meldingen skal inneholde opplysningene som er nevnt i § 3 andre ledd. Hvis det skjer endringer i opplysningene, eller en innmeldt rapporteringsplikt oppheves, skal det sendes ny melding.\nMeldingen skal sendes i den digitale løsningen som Brønnøysundregistrene gjør tilgjengelig. Brønnøysundregistrene skal så snart som mulig gi en bekreftelse til innsenderen om at meldingen er mottatt.\nBrønnøysundregistrene skal, innen tre uker etter at meldingen er mottatt, oppdatere det kommunale rapporteringsregisteret og gi en bekreftelse til departementet eller organet som er ansvarlig for rapporteringsplikten, om at registeret er oppdatert.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2020. Fra samme tidspunkt oppheves forskrift 27. oktober 2005 nr. 1255 om Kommunalt rapporteringsregister (KOR).",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

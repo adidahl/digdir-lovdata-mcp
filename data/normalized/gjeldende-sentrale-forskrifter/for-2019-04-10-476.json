@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2019-04-10-476",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for trygdekoordinering ved Storbritannias uttreden av Den europeiske union",
+  "short_title": "Overgangsregler for trygdekoordinering (brexit)",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2019-04-10",
+  "lovdata_refid": "forskrift/2019-04-10-476",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-04-10-476",
+  "raw_xml_sha256": "1219224dabfb3ca3d0aa8cde79d1b0032d5ff0c60ce34f0d0af0db7bfd039316",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften kommer til anvendelse dersom Det forente kongerike Storbritannia og Nord-Irland (Storbritannia) trer ut av Den europeiske union (EU) uten en utmeldingsavtale som inneholder en overgangsperiode.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gjennomføring av regler om trygdekoordinering",
+      "path": [],
+      "text": "Bestemmelsene i avtalen 2. april 2019 om ordninger for borgernes rettigheter mellom Island, Fyrstedømmet Liechtenstein, Kongeriket Norge og Det forente kongerike Storbritannia og Nord-Irland Annen del Avdeling III Koordinering av trygdeordninger skal gjelde som forskrift.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Derogasjonsadgang",
+      "path": [],
+      "text": "Bestemmelsene i følgende lover kan fravikes i den utstrekning det er nødvendig for gjennomføringen av § 2:lov 3. desember 1948 nr. 7 om pensjonstrygd for sjømennlov 28. juli 1949 nr. 26 om Statens pensjonskasselov 28. juni 1957 nr. 12 om pensjonstrygd for fiskerelov 22. juni 1962 nr. 12 om pensjonsordning for sykepleierelov 28. februar 1997 nr. 19 om folketrygdlov 26. juni 1998 nr. 41 om kontantstøtte til småbarnsforeldrelov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m.lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheterlov 8. mars 2002 nr. 4 om barnetrygdlov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m.lov 21. juni 2013 nr. 102 om stillingsvern mv. for arbeidstakere på skip.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

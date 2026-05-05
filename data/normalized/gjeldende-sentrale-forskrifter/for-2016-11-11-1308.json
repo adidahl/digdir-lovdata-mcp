@@ -1,0 +1,56 @@
+{
+  "id": "FOR-2016-11-11-1308",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra bioteknologiloven for farmakogenetiske undersøkelser",
+  "short_title": "Forskrift om unntak fra bioteknologiloven for farmakogenetiske undersøkelser",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2017-01-01",
+  "lovdata_refid": "forskrift/2016-11-11-1308",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-11-11-1308",
+  "raw_xml_sha256": "ba69a81305e43b3ddff689673609ceee1c1ecd2045abe1bf5c4bdde1f96c1964",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å legge til rette for bruk av farmakogenetiske undersøkelser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjon av farmakogenetiske undersøkelser",
+      "path": [],
+      "text": "Med farmakogenetiske undersøkelser menes i denne forskrift genetiske tester som foretas for å undersøke forventet respons eller for å forklare respons hos pasienter på relevante legemiddel.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Farmakogenetiske undersøkelser og unntak fra bioteknologiloven",
+      "path": [],
+      "text": "Bioteknologilovens krav om skriftlig samtykke, jf. § 5-4, genetisk veiledning, jf. § 5-5, godkjenning av virksomheten, jf. § 7-1, og rapportering, jf. § 7-2, gjelder ikke for farmakogenetiske undersøkelser.\nUnntakene i første ledd gjelder ikke for tester som også er tatt i bruk i klinisk praksis for å predikere fremtidig sykdom.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forholdet til pasient- og brukerrettighetsloven",
+      "path": [],
+      "text": "Pasient- og brukerrettighetsloven gjelder ved farmakogenetiske undersøkelser, blant annet kapittel 3 om rett til medvirkning og informasjon og kapittel 4 om samtykke til helsehjelp.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2017.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

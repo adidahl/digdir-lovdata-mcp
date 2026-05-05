@@ -1,0 +1,95 @@
+{
+  "id": "FOR-2022-05-25-918",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til liten elektrisk motorvogn",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-15",
+  "lovdata_refid": "forskrift/2022-05-25-918",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-05-25-918",
+  "raw_xml_sha256": "5dae130dab58aa1e72062c9e50447d7d349a5f60a6d8d71de3f6f8d6e31abac2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet til forskriften er at liten elektrisk motorvogn som tas i bruk i Norge ivaretar hensynet til trafikksikkerhet i tilstrekkelig grad.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for liten elektrisk motorvogn som tas i bruk i Norge, herunder også Svalbard.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjon",
+      "path": [],
+      "text": "Liten elektrisk motorvogn: Elektrisk drevet motorvogn for én person, som har en maksimal konstruktiv hastighet på 20 km/t, veier maksimalt 70 kg inklusive batteri og ikke er bredere enn 85 cm eller lengre enn 120 cm. Motorvogn uten selvbalanserende teknologi tillates ikke å ha sitteinnretning.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikke godkjenningsplikt og registreringsplikt",
+      "path": [],
+      "text": "Liten elektrisk motorvogn skal ikke fremstilles for godkjenning hos Statens vegvesen. Fører er ansvarlig for at kjøretøyet er i forskriftsmessig stand, jf. vegtrafikkloven § 23 første ledd.Liten elektrisk motorvogn er ikke registreringspliktig, jf. forskrift 25. januar 1990 nr. 92 om bruk av kjøretøy § 2-2 første ledd bokstav h.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Alminnelige bestemmelser om konstruksjon, utstyr, merking m.m.",
+      "path": [],
+      "text": "Liten elektrisk motorvogn skal være bygd, innrettet, utstyrt og vedlikeholdt slik at den tåler de påkjenninger som den vanligvis utsettes for og kan nyttes uten å volde unødig fare eller ulempe.Liten elektrisk motorvogn skal være tydelig og varig merket med produsentens navn, typebetegnelse og fabrikasjonsnummer. Det skal være plassert og utført slik at det er godt synlig og slik at det ikke lett kan fjernes eller endres.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Bremser",
+      "path": [],
+      "text": "Liten elektrisk motorvogn skal være utrustet med et system som gjør det mulig å stanse på en sikker, effektiv og hurtig måte.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Lys og refleks",
+      "path": [],
+      "text": "Liten elektrisk motorvogn skal ha rød refleks bak. Refleksen skal være CE-merket.Liten elektrisk motorvogn som brukes i mørket eller i usiktbart vær på alminnelig beferdet veg eller område, skal foran ha lykt som gir gult eller hvitt lys og/eller flerfunksjonslykt som kan gi blinkende eller fast hvitt lys. Bak skal liten elektrisk motorvogn ha lykt som gir rødt lys og/eller lykt som gir blinkende rødt lys.Lyktene skal kunne sees tydelig i en avstand på 300 m. Lykter som gir blinkende lys skal blinke med minst 120 blink pr. minutt.Krav om refleks og lys gjelder likevel ikke for kjøretøy som på grunn av sin størrelse eller utforming ikke muliggjør en hensiktsmessig montering av dette.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Lydsignal",
+      "path": [],
+      "text": "Liten elektrisk motorvogn skal ha signalklokke eller signalhorn. Annet varselapparat er forbudt. Krav om signalklokke eller signalhorn gjelder likevel ikke for kjøretøy som på grunn av sin størrelse eller utforming ikke muliggjør en hensiktsmessig montering eller bruk av slikt utstyr.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Elektrisk anlegg",
+      "path": [],
+      "text": "Det elektriske anlegget på motorvognen skal oppfylle kravene i forskrift 20. mai 2009 nr. 544 om maskiner som implementerer direktiv 2006/42/EF av 17. mai 2006 om maskiner (Maskindirektivet) og forskrift 10. oktober 2017 nr. 1597 om elektromagnetisk kompatibilitet som implementerer direktiv 2014/30/EU av 26. februar 2014 om harmonisering av medlemsstatenes lovgivning om elektromagnetisk kompatibilitet (EMC-direktivet).",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 15. juni 2022.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

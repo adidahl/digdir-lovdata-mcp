@@ -1,0 +1,45 @@
+{
+  "id": "LOV-1974-04-05-14",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om statsbidrag til anlegg m.v. av skytebaner",
+  "short_title": "Lov om statsbidrag til skytebaner",
+  "department": "Forsvarsdepartementet",
+  "legal_area": "Forvaltnings- og kommunalrett > Offentlig forvaltning Kultur, idrett og underholdning > Idrett. Sport Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "1974-04-05",
+  "lovdata_refid": "lov/1974-04-05-14",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1974-04-05-14",
+  "raw_xml_sha256": "4f9825859c4168a5cef85f076e01d380488f4cb124890d5d2a1729d5786d40de",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Til kjøp eller leie av grunn til skytebane og til anlegg og ombygging av slik bane, kan det ytes statsbidrag med inntil halvparten av kostnadene. Dette gjelder ikke anskaffelse av skytterhus. Den del av kostnadene som ikke dekkes av statsbidraget, skal på forhånd være skaffet til veie av kommunen eller skytterlaget. Det er et vilkår for statsbidrag at skytterlaget er tilsluttet Det frivillige skyttervesen, at det er aktivt og i sin siste årsberetning har oppført minst 20 aktive skyttere.\nSkytterlag som mottar statsbidrag etter første ledd, plikter å vedlikeholde banen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Dersom det skal ytes statsbidrag etter § 1, må valg av baneområde, kjøp eller leie av grunn samt avgjørelse om ombygging eller utvidelse av en allerede eksisterende bane, foretas av et utvalg som består av like mange medlemmer valgt av skytterlaget og kommunestyret. Antall medlemmer bestemmes av kommunestyret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Kongen kan gi nærmere forskrifter til gjennomføring og utfylling av loven, herunder om hva det kan ytes bidrag til, om vilkårene for bidrag, om fremgangsmåten ved søknad om bidrag og utbetaling av dette og om plikter som bidraget medfører.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne lov trer i kraft fra den tid Kongen bestemmer.1 – – –",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

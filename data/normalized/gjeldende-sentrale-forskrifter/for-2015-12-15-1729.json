@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2015-12-15-1729",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring i norsk rett av forordning (EU) nr. 1024/2012 om administrativt samarbeid gjennom informasjonssystemet for det indre marked og om opphevelse av kommisjonsbeslutning 2008/49/EF",
+  "short_title": "Forskrift om gjennomføring av forordning (EU) nr. 1024/2012",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2016-01-01",
+  "lovdata_refid": "forskrift/2015-12-15-1729",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-12-15-1729",
+  "raw_xml_sha256": "b439104da2d695eabad1c7bfc39c7e121d8c708a1a4d039065945f6fac24f21f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg X nr. 3 (forordning (EU) nr. 1024/2012 om administrativt samarbeid gjennom informasjonssystemet for det indre marked og om opphevelse av kommisjonsbeslutning 2008/49/EF) gjelder som forskrift med de tilpasninger som følger av vedlegg X, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2016.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

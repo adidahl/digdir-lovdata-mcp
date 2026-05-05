@@ -1,0 +1,113 @@
+{
+  "id": "FOR-2009-10-02-1229",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nasjonalt vaksinasjonsprogram",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2009-10-05",
+  "last_change_in_force": "2025-06-01",
+  "last_changed_by": "forskrift/2025-05-16-812 fra 2025-06-01",
+  "lovdata_refid": "forskrift/2009-10-02-1229",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-10-02-1229",
+  "raw_xml_sha256": "4cd9fdd4d080dfda09f479750c071df16e6a9fec28db1835b1f3439a65433c22",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskrift gjelder kommunens tilbud om vaksinasjon i henhold til det nasjonale vaksinasjonsprogrammet til personer som bor eller midlertidig oppholder seg i kommunen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kommunens plikt til å tilby vaksinering",
+      "path": [],
+      "text": "Kommunen skal tilby og gjennomføre vaksinering mot smittsomme sykdommer, jf. smittevernloven § 3-8. Befolkningen skal gis nødvendig informasjon om vaksinasjonsprogrammet og kommunens gjennomføring av dette.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Innhold i det nasjonale vaksinasjonsprogrammet",
+      "path": [],
+      "text": "Det nasjonale vaksinasjonsprogrammet inneholder følgende vaksinasjonstilbud:Barnevaksinasjoner, jf. § 4, inkludert vaksinasjon av gravide mot kikhoste for å hindre alvorlig sykdom hos spedbarn, jf. § 4a.Voksenvaksinasjoner, jf. § 5.Vaksinasjon mot pandemisk influensa, jf. § 5a.\nFolkehelseinstituttet gir faglige retningslinjer for gjennomføring av det nasjonale vaksinasjonsprogrammet, herunder målgrupper, hyppighet og den tekniske sammensetningen av vaksinene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Barnevaksinasjonsprogrammet",
+      "path": [],
+      "text": "Barnevaksinasjonsprogrammet skal tilbys alle barn i førskole- og grunnskolealder og gjennomføres i helsestasjons- og skolehelsetjenesten, jf. forskrift om kommunens helsefremmende og forebyggende arbeid i helsestasjons- og skolehelsetjenesten.\nKommunen har ikke anledning til å ta betalt for vaksinasjoner etter denne bestemmelsen.\nFølgende vaksiner inngår i programmet:Vaksine mot difteri, stivkrampe, kikhoste, poliomyelitt, infeksjon med Haemophilus influenzae type b (Hib), pneumokokksykdom, meslinger, kusma, røde hunder, humant papillomavirus (HPV), rotavirussykdom og hepatitt B.Vaksine mot tuberkulose (BCG) til barn i risikogrupper som definert av Folkehelseinstituttet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4a",
+      "heading": "Vaksinasjon av gravide mot kikhoste som en del av barnevaksinasjonsprogrammet",
+      "path": [],
+      "text": "Gravide skal tilbys kikhostevaksine etter retningslinjer gitt av Folkehelseinstituttet for å hindre alvorlig sykdom hos spedbarnet.\nKommunens tilbud er ikke begrenset til helsestasjons- og skolehelsetjenesten jf. § 4 første ledd.\nKommunen kan ikke ta betalt for vaksinasjonen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Voksenvaksinasjonsprogrammet",
+      "path": [],
+      "text": "Voksenvaksinasjonsprogrammet skal tilbys personer som bor eller midlertidig oppholder seg i kommunen, jf. § 1.\nFølgende vaksiner inngår i programmet:Årlig vaksine mot sesonginfluensa til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.Årlig vaksine mot covid-19 til personer som har fylt eller fyller 65 år i løpet av året og yngre risikogrupper.Vaksine mot pneumokokk til personer født i 1960 eller senere fra det kalenderåret de fyller 65 år.\nFolkehelseinstituttet definerer risikogruppene.\nKommunen kan ta betalt for vaksinasjon mot influensa.\nKommunen kan kreve egenbetaling for vaksine og vaksinasjon mot covid-19 og pneumokokk. Egenbetalingen kan være inntil 25 pst. av kommunens og statens totale kostnader til vaksine og vaksinasjon.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 5a",
+      "heading": "Pandemisk influensa",
+      "path": [],
+      "text": "Vaksine mot pandemisk influensa skal tilbys etter retningslinjer fra Folkehelseinstituttet.\nKommunen kan ta betalt for vaksinasjon.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 6",
+      "heading": "Organisering av voksenvaksinasjonsprogrammet",
+      "path": [],
+      "text": "Kommunen skal organisere vaksinasjonene slik den finner det mest hensiktsmessig for å oppnå høyest mulig vaksinasjonsdekning.\nKommunen skal sørge for å etablere rutiner for samarbeid mellom de kommunale tjenestene som skal sørge for at oppgaver etter denne forskriften blir utført, og eventuelle private helsepersonellutøvere som kommunen har avtale med. Kommunen skal sørge for at det fastsettes en vaksinasjonspris for influensa.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 6a",
+      "heading": "Sentral oppgjørsordning for vaksinasjonsprogrammene",
+      "path": [],
+      "text": "Helfo kan benyttes til deling og annen behandling av personopplysninger ved oppgjør mellom kommunen og private helsepersonellutøvere som kommunen har avtale med.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 7",
+      "heading": "Meldeplikt til SYSVAK",
+      "path": [],
+      "text": "Helsepersonell som gir vaksinasjoner etter denne forskrift skal registrere og melde opplysninger som fastsatt i SYSVAK-registerforskriften § 2-1.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 8",
+      "heading": "Internkontroll",
+      "path": [],
+      "text": "Kommunens vaksinasjonstilbud etter denne forskrift skal omfattes av internkontrollsystemet etter forskrift om internkontroll i sosial- og helsetjenesten.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft 5. oktober 2009.",
+      "xml_path": "article#paragraf-15"
+    }
+  ]
+}

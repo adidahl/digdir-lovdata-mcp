@@ -1,0 +1,114 @@
+{
+  "id": "FOR-2014-12-19-1841",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om varsel og melding om sjukdom hos dyr på Svalbard",
+  "short_title": "Forskrift om varsel og melding om sjukdom hos dyr på Svalbard",
+  "department": "Landbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2015-01-01",
+  "last_change_in_force": "2022-04-28",
+  "last_changed_by": "forskrift/2022-04-06-635 fra 2022-04-28",
+  "lovdata_refid": "forskrift/2014-12-19-1841",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-12-19-1841",
+  "raw_xml_sha256": "a1ab8144f77b1f03d635dfd81554eb312d774eb24df8b3d767c8fdcfb5750b35",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal fremme god dyrehelse og derved bidra til god folkehelse og dyrevelferd ved å sikre at Mattilsynet får nødvendige opplysninger om sjukdom hos dyr. Forskriften skal også bidra til å ivareta hensynet til miljøet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder veterinærers og laboratoriers plikt til å varsle og gi melding til Mattilsynet om sjukdom hos pattedyr, herunder sjøpattedyr, fugler, reptiler, amfibier, bier og humler. Forskriften gjelder også veterinærers og laboratoriers plikt til å videresende isolater.\nForskriften gjelder sjukdommer hos dyr på Svalbard.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften gjelder følgende definisjoner:«sjukdom hos dyr»: tilfeller hvor dyr viser tegn på svekket helsetilstand eller hvor prøver fra dyr viser forekomst av smittestoffer, inkludert antibiotikaresistente bakterier, eller andre agens som kan føre til svekket helsetilstand for dyr eller mennesker.«A-, B- og C-sjukdom»: kategorisering av sjukdommer som fastsatt i vedleggene til denne forskriften.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Varsel",
+      "path": [],
+      "text": "Veterinærer og laboratorier skal umiddelbart varsle Mattilsynet muntlig dersom de påviser eller får grunn til mistanke om A- eller B-sjukdom hos dyr. Varselet skal i tillegg og så snart som mulig sendes skriftlig via Mattilsynets meldesystem.\nVarslingsplikt etter første ledd gjelder uansett ved påvisning av eller grunn til mistanke om at dyr har sjukdom som oppfyller ett eller flere av disse vilkårene:kan medføre fare for død eller alvorlig helseskade hos menneskerkan føre til at et større antall dyr blir utsatt for sjukdomkan utløse store økonomiske tap for samfunnetkan gi andre vesentlige samfunnsmessige konsekvenserantas ikke å forekomme i Norgehar uvanlig utbredelsesvekker dyrets helsetilstand på uvanlig måte eller i uvanlig høy grad.\nPlikten til å varsle gjelder ikke nye tilfeller av sjukdommen i besetninger som Mattilsynet har pålagt restriksjoner.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Melding",
+      "path": [],
+      "text": "Laboratorier som påviser nye tilfeller av sjukdom i besetninger som Mattilsynet har pålagt restriksjoner, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes innen 24 timer etter påvisningen.\nLaboratorier som påviser antibiotikaresistente bakterier som fastsatt i vedlegget over C-sjukdommer, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest innen 7 dager etter påvisningen. Dette gjelder likevel ikke dersom det er inngått avtale mellom laboratoriet og Mattilsynet om at melding skal gis på en annen måte eller på et annet tidspunkt.\nVeterinærer som påviser C-sjukdom hos dyr, skal gi Mattilsynet skriftlig melding. Meldingen skal sendes så snart som mulig og senest 7 dager etter påvisningen. Når prøver sendes til analyse for undersøkelse i laboratorium utenfor Norge, skal skriftlig melding sendes av veterinær som er ansvarlig for prøvetakingen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Nødvendige opplysninger",
+      "path": [],
+      "text": "Varsel etter § 4 og melding etter § 5 skal inneholde nødvendige opplysninger omvarsleren eller melderensjukdommen, herunder symptomer og eventuell diagnosedyreholdets identitet og artdyrene som er rammet av sjukdommentidspunktet for mistanke eller påvisning.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6a",
+      "heading": "Isolater og nye prøver",
+      "path": [],
+      "text": "Laboratorier skal på anmodning fra Mattilsynet sende bakterieisolater til Veterinærinstituttet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Tilgang til opplysninger",
+      "path": [],
+      "text": "Dyreeiere skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom hos egne dyr som er varslet eller meldt til Mattilsynet.\nVeterinærer og laboratorier skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom som de selv har varslet eller meldt til Mattilsynet.\nReferanselaboratorier skal ha tilgang til opplysninger om hvilke tilfeller av sjukdom innen deres ansvarsområde som er varslet eller meldt til Mattilsynet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i forskriften dersom det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av denne forskriften eller enkeltvedtak gitt i medhold av den, er straffbart i henhold til dyrehelsepersonelloven § 37, matloven § 28 og dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2015. Samtidig oppheves forskrift 19. mars 1965 nr. 9941 om fortegnelse over sjukdommer som omfattes av matloven og forskrift 5. februar 1990 nr. 144 om instrukser for A-, B- og C-sjukdommer (dyresjukdommer).",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2016-08-12-978",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for lov 17. juni 2016 nr. 73 om offentlige anskaffelser (anskaffelsesloven)",
+  "short_title": "Forskrift om overgangsregler for anskaffelsesloven",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2017-01-01",
+  "last_change_in_force": "2016-12-09",
+  "last_changed_by": "forskrift/2016-12-09-1487",
+  "lovdata_refid": "forskrift/2016-08-12-978",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-08-12-978",
+  "raw_xml_sha256": "b497e7b993e0a38449907db07f7e8b782d8e72aa9abe1bca462aa49f57961815",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Anskaffelsesloven gjelder anskaffelser iverksatt etter lovens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort. En anskaffelse som ikke kunngjøres, er iverksatt når oppdragsgiveren har sendt ut en forespørsel til en eller flere leverandører om å melde sin interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. januar 2017.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2026-01-15-47",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forlenget gyldighet for autorisasjonsbevis for plantevernmidler",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2026-01-16",
+  "lovdata_refid": "forskrift/2026-01-15-47",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-01-15-47",
+  "raw_xml_sha256": "b6018d9caa765f80720677c502394bf714ac3ce5c32fc5fcba57829bb79e4b3c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forlengelse av gyldighet for autorisasjonsbevis for plantevernmidler",
+      "path": [],
+      "text": "Autorisasjonsbevis for plantevernmidler som er utstedt av Mattilsynet med utløpsdato i tidsrommet 1. august 2025 til 30. april 2026, skal ha forlenget gyldighet inntil 1. mai 2026.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "LOV-1921-05-13-2",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Kongens myndighetsalder",
+  "short_title": "Lov om Kongens myndighetsalder",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Kongehuset",
+  "last_change_in_force": "1979-06-08",
+  "last_changed_by": "lov/1979-06-08-38",
+  "lovdata_refid": "lov/1921-05-13-2",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1921-05-13-2",
+  "raw_xml_sha256": "df738433284a0a69cffbf62ae44c1f1de300fcfc3e0f248b21b0598938a797f2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det fylte 18de år skal være Kongens myndighetsalder.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Lov av 18 juli 1815, hvorved Kongens myndighetsalder bestemmes, opheves.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

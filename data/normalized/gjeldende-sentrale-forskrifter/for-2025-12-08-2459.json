@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2025-12-08-2459",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av fisket etter tobis i 2026",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-12-08-2459",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-12-08-2459",
+  "raw_xml_sha256": "f3539ec413968a778c6920c658f5984c0b14384d36f803aff53dc8f624acc718",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Generelt forbud",
+      "path": [],
+      "text": "Det er forbudt for norske fartøy å fiske og lande tobis i 2026.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, straffes i henhold til havressurslova §§ 61, 64 og 65. På samme måte straffes medvirkning og forsøk.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2026 og gjelder til og med 31. desember 2026.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

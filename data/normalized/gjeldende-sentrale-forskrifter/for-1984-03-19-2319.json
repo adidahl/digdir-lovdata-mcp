@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1984-03-19-2319",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling",
+  "short_title": "Forskrift om pensjonsgrunnlag i Statens pensjonskasse ved midlertidig tjeneste i høyere lønnet stilling",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1984-05-01",
+  "last_change_in_force": "2021-10-12",
+  "last_changed_by": "forskrift/2021-10-12-3045",
+  "lovdata_refid": "forskrift/1984-03-19-2319",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1984-03-19-2319",
+  "raw_xml_sha256": "471d75861d1d1c6ee364e451a901cf38f6800941f1b6a00e90cbf409b6cc80f1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften utfyller reglene i lov om Statens pensjonskasse § 15 andre ledd. Forskriften gjelder ikke opptjening til alderspensjon etter lov om Statens pensjonskasse kapittel 5a, men likevel for oppsatt pensjon etter § 26h.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Midlertidig tjenestegjøring i høyere lønnet stilling får ikke virkning for pensjonsgrunnlaget hvis varigheten er under to år. Det betales pensjonspremie av det høyere grunnlaget med eventuell refusjon av differansen mellom innskuddene for de to pensjonsgrunnlagene hvis varigheten blir mindre enn to år.\nEr opprykket egentlig beregnet å bli varig, slik at midlertidigheten er av formell art, gjelder det høyere grunnlaget fra opprykket finner sted.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. mai 1984.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,89 @@
+{
+  "id": "LOV-2024-06-25-67",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Statens fond i Tromsø",
+  "short_title": "Lov om Statens fond i Tromsø",
+  "department": "Finansdepartementet",
+  "legal_area": "Selskaper, fond og foreninger > Fond",
+  "date_in_force": "2024-08-09",
+  "lovdata_refid": "lov/2024-06-25-67",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2024-06-25-67",
+  "raw_xml_sha256": "13f728007f7e3c72e02107243604f2e74384381f0bc96238df310244f458d707",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med etableringen av Statens fond i Tromsø er å bidra til å bygge kapitalforvaltningsmiljøer i Nord-Norge.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Målet med fondsinvesteringene",
+      "path": [],
+      "text": "Målet med investeringene av midlene i Statens fond i Tromsø skal være å oppnå høyest mulig avkastning til en akseptabel risiko. Fondet skal forvaltes ansvarlig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Eierskap mv.",
+      "path": [],
+      "text": "Midlene i Statens fond i Tromsø eies av staten. Statens fond i Tromsø kan ikke selv ha rettigheter eller plikter overfor private eller offentlige myndigheter, og kan ikke saksøke eller saksøkes.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ansvaret for forvaltningen og fondskapitalen",
+      "path": [],
+      "text": "Statens fond i Tromsø forvaltes av departementet.\nKapitalen i Statens fond i Tromsø fastsettes etter vedtak i Stortinget.\nStatens fond i Tromsø plasseres som et kapitalinnskudd i Folketrygdfondet. Motverdien forvaltes etter nærmere bestemmelser fastsatt av departementet, jf. § 8.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Inntektene til Statens fond i Tromsø",
+      "path": [],
+      "text": "Inntekter i Statens fond i Tromsø er avkastningen av de forvaltede midlene fratrukket forvaltningskostnadene.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Uttak av midler fra Statens fond i Tromsø",
+      "path": [],
+      "text": "Midlene i Statens fond i Tromsø kan bare anvendes til en beløpsmessig overføring til statsbudsjettet etter vedtak i Stortinget.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Evaluering av forvaltningen",
+      "path": [],
+      "text": "Departementet skal regelmessig evaluere forvaltningen av Statens fond i Tromsø og rapportere om dette til Stortinget.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Utfyllende bestemmelser",
+      "path": [],
+      "text": "Departementet kan gi utfyllende bestemmelser til gjennomføring av loven.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse og overgangsbestemmelser",
+      "path": [],
+      "text": "Loven gjelder fra den tid Kongen bestemmer1. Departementet kan gi overgangsbestemmelser.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

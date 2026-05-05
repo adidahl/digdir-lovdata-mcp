@@ -1,0 +1,138 @@
+{
+  "id": "FOR-2007-05-15-517",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om minimum sikkerhetskrav til visse vegtunneler (tunnelsikkerhetsforskriften)",
+  "short_title": "Tunnelsikkerhetsforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2007-05-15",
+  "last_change_in_force": "2025-03-26",
+  "last_changed_by": "forskrift/2025-03-26-540",
+  "lovdata_refid": "forskrift/2007-05-15-517",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-05-15-517",
+  "raw_xml_sha256": "daed01d30c227ab7beed3cd9557a6bd66ec0f36c15fa20b8b21ee968c7e25394",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å sikre laveste tillatte sikkerhetsnivå for trafikanter i tunneler ved krav til å forebygge kritiske hendelser som kan sette menneskeliv, miljøet og tunnelanlegg i fare og til å sørge for vern i tilfelle av ulykker.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften får anvendelse på tunneler med lengde på over 500 meter på det transeuropeiske vegnettet (TERN) og på andre riksveger. Forskriften gjelder for tunneler som er i bruk, under bygging eller på prosjekteringsstadiet.\nTunneler med konstruksjon som ikke er godkjent innen 1. desember 2006, skal være underlagt kravene i denne forskriften.\nFor tunneler som allerede er åpne for offentlig trafikk per 30. november 2006, skal det etter nærmere bestemmelser fastsatt i § 14, jf. vedlegg II, foretas en vurdering av om de er i samsvar med kravene i denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften menes med:transeuropeisk vegnett:Vegnettet som definert i vedtak 1692/96/EF av 23. juli 1996 om fellesskapsretningslinjer for utvikling av et transeuropeisk transportnett vedlegg I avsnitt 2 og illustrert med kart eller beskrevet i vedlegg II til vedtaket.redningstjenester:Alle lokale tjenester, som er enten offentlige eller private eller en del av tunnelpersonalet, som rykker ut ved en ulykke, herunder politi, brannvesen og redningsmannskap.tunnellengde:Lengden til det lengste kjørefeltet, målt i den helt innelukkede delen av tunnelen.risikoanalyse:Analyse av risikoene ved en bestemt tunnel, der det tas hensyn til alle konstruksjonsfaktorer og trafikkforhold som berører sikkerheten, herunder særlig trafikkens særtrekk og type, tunnellengde og tunnelgeometri og prognosen for antall tunge lastebiler per døgn.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forvaltningsmyndighet",
+      "path": [],
+      "text": "Vegdirektoratet er forvaltningsmyndigheter med ansvar og koordinerende oppgaver for å påse at alle sider ved sikkerheten i en tunnel er ivaretatt, og å treffe de nødvendige tiltak for å sikre samsvar med innholdet i denne forskriften.\nVegdirektoratet skal gi tillatelse til at tunneler tas i bruk, i samsvar med framgangsmåten fastsatt i vedlegg II til forskriften. Før tillatelse gis skal det innhentes uttalelse fra brannvernmyndigheten.\nVegdirektoratet kan innstille eller begrense bruken av en tunnel, herunder spesifisere under hvilke forhold normal trafikk skal gjenopptas, dersom sikkerhetskravene ikke er oppfylt.\nVegdirektoratet skal påse at relevant organregelmessig prøver og inspiserer tunneler og utarbeider sikkerhetskrav knyttet til dette,iverksetter organisasjons- og driftsmessige ordninger, herunder planer for håndtering av nødssituasjoner for opplæring og utrustning av redningstjenester,definerer framgangsmåten for umiddelbar stenging av en tunnel ved en nødssituasjon,gjennomfører nødvendige risikoreduserende tiltak.\nFor hver tunnel i det transeuropeiske vegnettet som grenser opp til Sverige eller Finland kan Vegdirektoratet vedta at det utpekes en felles forvaltningsmyndighet. Dersom det ikke foreligger felles forvaltningsmyndighet, skal Vegdirektoratets vedtak om trafikksikkerhet treffes med forhåndssamtykke fra det andre lands forvaltningsmyndighet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tunnelforvalter",
+      "path": [],
+      "text": "Statens vegvesen og et statlig utbyggingsselskap for veg er tunnelforvalter for de tunneler som til enhver tid ligger på den del av riksvegnettet som de har ansvar for. Vegdirektoratet kan delegere sin myndighet etter denne bestemmelsen. Ansvaret som tunnelforvalter omfatter alle oppgaver relatert til planlegging, prosjektering, bygging, drift og vedlikehold av tunneler.\nFor hver betydelig hendelse eller ulykke som inntreffer i en tunnel, skal tunnelforvalter utarbeide en rapport. Denne rapporten skal sendes til sikkerhetskontrolløren som nevnt i § 6, til Vegdirektoratet og til redningstjenestene innen maksimum en måned fra hendelsen eller ulykken inntraff.\nDersom en undersøkelsesrapport utarbeides med en analyse av omstendighetene rundt hendelsen eller ulykken eller konklusjonene som kan trekkes av den, skal tunnelforvalter senest en måned etter mottak av rapporten sende den til sikkerhetskontrolløren, Vegdirektoratet og redningstjenestene.\nFor hver tunnel i det transeuropeiske vegnettet som grenser opp til Sverige eller Finland, skal ansvaret for tunneldriften ligge til en felles tunnelforvalter.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Sikkerhetskontrollør",
+      "path": [],
+      "text": "For hver tunnel skal tunnelforvalter, med forhåndssamtykke fra Vegdirektoratet, oppnevne en sikkerhetskontrollør som skal samordne alle forebyggings- og vernetiltak for å ivareta trafikantenes og driftspersonalets sikkerhet. Sikkerhetskontrolløren skal være uavhengig i alle spørsmål om sikkerhet i vegtunneler og skal ikke være underlagt instrukser fra sin arbeidsgiver eller andre i slike spørsmål. Sikkerhetskontrolløren kan utføre sine oppgaver og funksjoner i forhold til flere tunneler på den del av riksvegnettet som tunnelforvalter har ansvar for.\nSikkerhetskontrolløren skal:sikre samordning med redningstjenester og delta i utarbeidelse av driftsplaner,delta i planlegging, gjennomføring og evaluering av redningsoperasjoner,delta i fastsettelse av sikkerhetsplaner og spesifisering av konstruksjon, utrustning og drift med hensyn til både nye tunneler og endringer av eksisterende tunneler,kontrollere at driftspersonalet og redningstjenestene får opplæring, og delta i organisering av øvelser som holdes med jevne mellomrom,gi råd om det gis tillatelse til å ta i bruk tunnelers konstruksjon, utrustning og drift,kontrollere at tunnelens konstruksjon og utrustning vedlikeholdes og repareres,delta i evaluering av enhver betydelig hendelse eller ulykke nevnt i § 5 annet og tredje ledd.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Inspeksjoner",
+      "path": [],
+      "text": "Inspeksjoner, evalueringer og prøver utføres av Vegdirektoratet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Sikkerhetstiltak",
+      "path": [],
+      "text": "Alle tunneler som omfattes av forskriften skal oppfylle minstekravene til sikkerhet fastsatt i vedlegg I og II til forskriften.\nDersom enkelte av de konstruksjonsmessige kravene som er fastsatt i vedlegg I bare kan oppfylles ved tekniske løsninger som enten ikke kan gjennomføres eller bare kan gjennomføres til en uforholdsmessig høy kostnad, kan Vegdirektoratet godkjenne at det treffes alternative risikoreduserende tiltak, forutsatt at de alternative tiltakene vil føre til likeverdig eller forbedret vern. Virkningene av slike alternative tiltak skal påvises ved en risikoanalyse i samsvar med bestemmelsene i § 10.\nVegdirektoratet skal underrette EFTAs overvåkingsorgan om de alternative risikoreduserende tiltakene som er godkjent, og skal gi en begrunnelse for tiltak som er godkjent for tunneler på det transeuropeiske vegnettet.\nFørste til tredje ledd får ikke anvendelse på tunneler på prosjekteringsstadiet som nevnt i § 2 annet ledd, jf. § 12.\nVegdirektoratet kan fastsette strengere krav dersom kravene ikke strider mot direktivet 2004/54/EF.\nVegdirektoratet kan gjøre unntak fra krav om nødutgang for tunneler kortere enn 10 km og med en årsdøgntrafikk under 4.000 kjøretøy per kjørefelt dersom en risikoanalyse viser at tilsvarende eller bedre sikkerhet kan oppnås med alternative tiltak.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Periodiske inspeksjoner",
+      "path": [],
+      "text": "Vegdirektoratet skal utføre jevnlige inspeksjoner for å påse at alle tunneler som omfattes av forskriften, er i samsvar med krav fastsatt i forskriften.\nTidsrommet mellom to inspeksjoner av en tunnel skal ikke overstige seks år.\nDersom Vegdirektoratet finner at en tunnel ikke tilfredsstiller kravene i forskriften, skal det underrette tunnelforvalter og sikkerhetskontrolløren om at det må treffes tiltak for å styrke tunnelsikkerheten. Vegdirektoratet fastsetter vilkår for fortsatt bruk eller gjenåpning av tunnelen eller andre restriksjoner eller vilkår som skal gjelde inntil utbedringstiltakene er iverksatt.\nDersom utbedringstiltakene medfører vesentlig endring i tunnelens konstruksjon eller bruk, skal det straks disse tiltakene er gjennomført gis ny brukstillatelse for tunnelen, i samsvar med framgangsmåten fastsatt i vedlegg II.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Risikoanalyse",
+      "path": [],
+      "text": "Risikoanalyse skal gjennomføres av et organ som er funksjonsmessig uavhengig av tunnelforvalter. Innholdet og resultatene av risikoanalysen skal tas med i sikkerhetsdokumentasjonen som framlegges for Vegdirektoratet.\nVegdirektoratet skal påse at risikoanalysen utføres etter en detaljert og godt definert metode som er i samsvar med den beste praksis som foreligger. Vegdirektoratet skal underrette EFTAs overvåkingsorgan om den metode som anvendes.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Unntak for nyskapende teknikk",
+      "path": [],
+      "text": "For å gjøre det mulig å montere og bruke nyskapende sikkerhetsutstyr eller å bruke nyskapende sikkerhetsprosedyrer som gir et vernenivå som er likeverdig med eller høyere enn teknologi fastsatt i forskriften, kan Vegdirektoratet etter nærmere fastsatt prosedyre gjøre unntak fra kravene i denne forskriften på grunnlag av en grundig dokumentert søknad fra tunnelforvalter.\nDersom Vegdirektoratet har til hensikt å gjøre unntak etter første ledd, skal det først sende en unntakssøknad til EFTAs overvåkingsorgan vedlagt den opprinnelige søknaden med uttalelse fra inspeksjonsenheten.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Tunneler med konstruksjon som ennå ikke er godkjent",
+      "path": [],
+      "text": "Tillatelse til å ta i bruk tunneler med konstruksjon som ikke er godkjent innen 1. desember 2006, jf. § 2 annet ledd, skal gis i samsvar med framgangsmåten fastsatt i vedlegg II.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Tunneler som allerede er i bruk",
+      "path": [],
+      "text": "For tunneler som ikke oppfyller kravene, skal tunnelforvalter overfor Vegdirektoratet foreslå en plan for tilpasning til bestemmelsene i forskriften, jf. § 2 tredje ledd.\nVegdirektoratet skal godkjenne utbedringstiltakene eller be om at de endres.\nDersom utbedringstiltakene omfatter vesentlige endringer i konstruksjon eller bruk, skal framgangsmåten for godkjenning fastsatt i vedlegg II deretter gjennomføres så snart disse tiltakene er iverksatt.\nUtbedring av tunneler med lengde på over 500 meter på det transeuropeiske vegnettet (TERN) skal utføres etter en tidsplan og være fullført innen 30. april 2014, men med mulighet for å forlenge denne fristen med fem år på grunn av stor tunnelmasse.\nUtbedring av tunneler med lengde på over 500 meter på andre riksveger skal utføres etter en tidsplan og være fullført innen 1. januar 2040, men med mulighet for å forlenge denne fristen med ti år på grunn av stor tunnelmasse.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Rapporter",
+      "path": [],
+      "text": "Tunnelforvalter skal hvert annet år utarbeide rapporter om branner i tunneler og om ulykker som i betydelig grad angår sikkerheten til trafikantene i tunneler. Rapportene skal inneholde oversikt over hyppigheten av og årsakene til slike hendelser, en evaluering av hendelsene og opplysninger om sikkerhetsanleggenes og sikkerhetstiltakenes konkrete rolle og virkning. Rapportene skal oversendes Vegdirektoratet før utgangen av juni året etter den periode som rapporten omfatter. Vegdirektoratet sammenstiller rapportene som skal oversendes EFTAs overvåkingsorgan før utgangen av september året etter den periode som rapporten omfatter.\nVegdirektoratet skal utarbeide en plan som inneholder en tidsplan for gradvis anvendelse av bestemmelsene i denne forskriften på tunneler som allerede er i bruk, jf. § 14, og skal oversende den til EFTAs overvåkingsorgan. Vegdirektoratet skal underrette EFTAs overvåkingsorgan hvert annet år om status for gjennomføringen av planen og om eventuelle endringer i den.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Ikraftsettelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-16"
+    }
+  ]
+}

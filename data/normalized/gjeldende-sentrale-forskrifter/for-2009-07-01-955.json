@@ -1,0 +1,104 @@
+{
+  "id": "FOR-2009-07-01-955",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om organisering av medisinsk og helsefaglig forskning",
+  "short_title": "Forskrift om organisering av helseforskning",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2009-07-01",
+  "lovdata_refid": "forskrift/2009-07-01-955",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-07-01-955",
+  "raw_xml_sha256": "4a16ff9f29d76e64bdfddca886fc07a2ad9172c11e913840b5e8f6e1b88d1823",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å fremme forsvarlig organisering og gjennomføring av medisinsk og helsefaglig forskning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forskriftens virkeområde",
+      "path": [],
+      "text": "Forskriften omfatter organisering og forhåndsgodkjenning av medisinsk og helsefaglig forskning på mennesker, humant biologisk materiale eller helseopplysninger.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forskningsansvarliges plikter",
+      "path": [],
+      "text": "Forskningsansvarlig har det overordnede ansvaret for forskningsprosjektet og skal minst sørge forat det tilrettelegges for at medisinsk og helsefaglig forskning blir utført på en måte som ivaretar etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forholdat det tilrettelegges for forsvarlig organisering, igangsetting, gjennomføring, formidling, avslutning og etterforvaltning av forskningsprosjektetat forskningsdata og humant biologisk materiale behandles forsvarligat det foreligger nødvendig forsikring av forskningsdeltakere i samsvar med helseforskningsloven § 50at det føres internkontroll i samsvar med § 4 tilpasset virksomhetens størrelse, egenart, aktiviteter og risikoforhold.\nDen forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Internkontroll",
+      "path": [],
+      "text": "Med internkontroll menes systematiske tiltak som fremmer god forskning og som sikrer at forskningen planlegges, organiseres, gjennomføres og avsluttes i samsvar med krav fastsatt i eller i medhold av helseforskningsloven.\nInternkontroll skal dokumenteres og utformes i den form og det omfang som er nødvendig på bakgrunn av virksomhetens størrelse, egenart, aktiviteter og risikoforhold. Internkontroll skal ha styrende, gjennomførende og kontrollerende elementer, som innebærer at den forskningsansvarlige minst skal sørge forat virksomhetens mål for forskningen, samt ansvars- og myndighetsforhold og hvordan forskningsvirksomheten strukturelt er tilrettelagt og organisert, er beskrevetat det føres løpende oversikt over alle medisinske og helsefaglige forskningsprosjekter som involverer mennesker, humant biologisk materiale eller helseopplysninger innen eget ansvarsområdeå ha oversikt over de krav i og i medhold av helseforskningsloven og annet regelverk, som gjelder for forskningenat det utarbeides og dokumenteres rutiner som setter prosjektleder og medarbeiderne i virksomhetens forskningsprosjekter i stand til å overholde kravene som nevnt i bokstav cat prosjektleder, medarbeidere og annet personell som er involvert i forskningsprosjekter har tilstrekkelig kompetanseat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettesat det foretas systematisk overvåking og gjennomgang av internkontroll, for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i virksomheten.\nDen forskningsansvarlige kan delegere oppgaver til andre, men ikke ansvar.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Prosjektleders plikter",
+      "path": [],
+      "text": "Prosjektleder skal ha slik faglig og vitenskapelig kompetanse som det aktuelle forskningsprosjektet krever for en forsvarlig gjennomføring.\nProsjektleder har ansvar for den daglige driften av forskningsprosjektet og skal minst sørge forat etiske, medisinske, helsefaglige, vitenskapelige, personvern- og informasjonssikkerhetsmessige forhold ivaretas i den daglige driftenå involvere den forskningsansvarlige i forskningsprosjektet før prosjektet startesnødvendig forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk og eventuelle andre instanserat forskningsprosjekter gjennomføres i henhold til godkjent forskningsprotokollkommunikasjon med offentlige instanser og forskningsansvarlig.\nProsjektleder har rett til innsyn i alle forskningsdata som prosjektet omfatter, så lenge taushetsplikt ikke er til hinder for dette.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Multisenterstudier",
+      "path": [],
+      "text": "Med multisenterstudier forstås forskningsprosjekter som finner sted ved flere virksomheter samtidig og etter samme protokoll.\nEn multisenterstudie skal ha én prosjektleder. Prosjektleder skal koordinere aktivitetene og sørge for å innhente forhåndsgodkjenning fra den regionale komiteen for medisinsk og helsefaglig forskningsetikk, og sikre at den forskningsansvarlige ved de øvrige deltagende virksomheter er informert om forskningsprosjektet før prosjektet startes.\nI internasjonale multisenterstudier skal det være en angitt norsk prosjektleder for de deler som finner sted i Norge, og denne informerer de deltagende norske virksomheter tilsvarende.\nForskriftens § 5 om prosjektleders plikter gjelder så langt den passer for prosjektleder i en multisenterstudie.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Søknad om forhåndsgodkjenning",
+      "path": [],
+      "text": "Søknad om forhåndsgodkjenning av et forskningsprosjekt skal sammen med forskningsprotokollen sendes til den regionale komiteen for medisinsk og helsefaglig forskningsetikk. Søknad om forhåndsgodkjenning skal skje på fastsatt skjema og skal minst inneholdeopplysninger om forskningsansvarlig og prosjektleder med dennes kvalifikasjoneren beskrivelse av prosjektet gitt på en allment forståelig måte, herunder med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektetopplysninger om hvilke kriterier prosjektet legger til grunn for å velge ut forskningsdeltakere og hvordan disse skal rekrutteresopplysninger om informasjon til forskningsdeltakerne, personvern og samtykke, herunder hvordan samtykke skal innhentes eller eventuelt nærmere informasjon om og begrunnelse for hvorfor samtykke ikke skal innhentesvurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakereopplysninger om sikkerhet, interesser, herunder opplysninger om finansieringskilder, eventuelle interessekonflikter og økonomiske forhold knyttet til det aktuelle forskningsprosjektet, og offentliggjøring av resultater.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan kreve nærmere opplysninger om prosjektet før endelig vedtak blir fattet.\nSøknad om forhåndsgodkjenning skal som hovedregel utformes på norsk. Dersom prosjektet i hovedsak skal utføres i utlandet, kan søknaden utformes på engelsk.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Forskningsprotokoll",
+      "path": [],
+      "text": "For hvert forskningsprosjekt skal det utarbeides en forskningsprotokoll på norsk eller engelsk som minst skal angiprosjektlederen vitenskapelig utformet prosjektplan med angivelse av prosjektets formål, begrunnelse, materiale, metoder, sannsynliggjøring av at valgt studiedesign kan gi svar på forskningsspørsmålet og anslåtte tidsrammer for prosjektethvordan helseopplysninger skal behandles, herunder fra hvilke kilder helseopplysninger skal innhentes og om slike opplysninger skal utleveres til andre eller overføres til land utenfor EØSfra hvilke kilder humant biologisk materiale skal uttas og om slikt materiale skal utleveres til andre eller overføres til utlandetvurdering av forskningsetiske utfordringer ved prosjektet, særlig nytte-risiko aspektet for forskningsdeltakerefinansieringskilder, interesser og avhengighetsforhold, herunder forskere og forskningsdeltakeres eventuelle økonomiske forhold knyttet til det aktuelle forskningsprosjektetplan for offentliggjøring av resultater og opplysninger om mulig utvidet bruk, herunder kommersiell bruk, av forskningsresultater, data eller biologisk materiale.\nDen regionale komiteen for medisinsk og helsefaglig forskningsetikk kan kreve nærmere opplysninger i forskningsprotokollen før endelig vedtak blir fattet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Vilkår for godkjenning",
+      "path": [],
+      "text": "Den regionale komiteen for medisinsk og helsefaglig forskningsetikk skal vurdere om det bør settes vilkår for godkjenning av et forskningsprosjekt. Ved vurderingen skal det særlig legges vekt på om vilkår kan bidra til at hensynet til deltakernes velferd og integritet blir bedre ivaretatt.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. juli 2009.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Overgangsbestemmelse",
+      "path": [],
+      "text": "Helseforskningsloven gjelder medisinsk og helsefaglig forskning som ikke har de nødvendige godkjenninger før ikrafttredelse av loven. Med unntak av § 9 og § 10 gjelder loven også for medisinsk og helsefaglig forskning som har de nødvendige godkjenninger på ikrafttredelsespunktet.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

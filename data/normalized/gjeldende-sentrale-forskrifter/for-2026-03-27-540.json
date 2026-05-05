@@ -1,0 +1,87 @@
+{
+  "id": "FOR-2026-03-27-540",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nyfødtscreening",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2026-07-01",
+  "lovdata_refid": "forskrift/2026-03-27-540",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-27-540",
+  "raw_xml_sha256": "c8fc4900d4b82b120e3f52127ad8361417b81f86da0fb7f89e8c150cd0e44dad",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å legge til rette for organisering og gjennomføring av genetisk masseundersøkelse av nyfødte for alvorlige, medfødte sykdommer (nyfødtscreening). Formålet er også å legge til rette for overvåking og kvalitetssikring av helsehjelpen som gis for disse sykdommene.\nMed alvorlig sykdom menes en tilstand som har alvorlige konsekvenser som tidlig død, alvorlig skade eller funksjonsnedsettelse.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Nyfødtscreeningprogrammet",
+      "path": [],
+      "text": "Nyfødtscreeningprogrammet skal tilby screening for alvorlige, medfødte sykdommer til alle nyfødte. Programmet skal omfatte informasjon til gravide, blodprøvetaking, analyser, oppbevaring av blodprøver (biobank), lagring av helseopplysninger mv. Oslo universitetssykehus HF har ansvaret for gjennomføringen av programmet.\nHvilke sykdommer programmet skal omfatte, fastsettes av departementet.\nVed inkludering av sykdommer i programmet skal følgende vilkår være oppfylt:Tilstanden utgjør et viktig helseproblem for den enkelte.Tilstandens naturlige forløp er tilstrekkelig kjent.Det er mulig å stille en diagnose før symptomer opptrer.Det finnes en sikker, presis, dokumentert og validert test.Det er dokumenterte og tilgjengelige tiltak eller behandlinger som gir bedre effekt på et tidligere stadium enn ved klinisk diagnostikk.Konsekvensene for målgruppen er klarlagte og akseptable.Helseeffekten av å inkludere sykdommen er høyere enn eventuelle negative konsekvenser.Det er nødvendig å iverksette tiltak eller behandling før barna som identifiseres med sykdommen har fylt 16 år.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Lagring av blodprøvene",
+      "path": [],
+      "text": "Blodprøvene fra undersøkelsene skal lagres i en diagnostisk biobank, jf. behandlingsbiobankloven § 2 første ledd, § 9a og § 11.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Deltakelse i Nyfødtscreeningprogrammet",
+      "path": [],
+      "text": "Deltakelse i Nyfødtscreeningprogrammet er frivillig. Samtykke skal gis i samsvar med pasient- og brukerrettighetsloven § 4-2 og § 4-4 av foreldrene eller andre som har foreldreansvaret, eller av barnevernstjenesten dersom den har overtatt omsorgen for barnet etter barnevernsloven § 4-2.\nEt samtykke etter første ledd omfatter undersøkelse og lagring av blodprøver om det ikke fastsettes noe annet. Samtykket kan også omfatte behandling av helseopplysninger etter § 5 dersom det gis særskilt informasjon om dette. De som samtykker, kan velge at samtykket bare skal gjelde undersøkelse. Samtykket kan når som helst trekkes tilbake.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Behandling av helseopplysninger",
+      "path": [],
+      "text": "Etter samtykke kan det behandles helseopplysninger som er relevante og nødvendige for en faglig forsvarlig gjennomføring av nyfødtscreeningen, og opplysninger som er relevante og nødvendige for å overvåke og kontrollere kvaliteten på helsehjelpen som gis for sykdommene i nyfødtscreeningen.\nFølgende opplysninger om mor kan behandles:fødselsnummernavnadressetelefonnummer.\nFølgende opplysninger om barnet kan behandles:tidspunkt for fødselgestasjonsalder (varighet av svangerskapet)kjønnfødselsvektfødestedfødselsnummer.\nFølgende medisinske opplysninger kan behandles:tidspunkt for prøvetakingtilleggsopplysninger for flerfødsler/TPN/Transfundertrekvirentkodemedikamentbruk eller andre forhold som kan påvirke analysenenye prøveranalyseresultathelsehjelp ved positive og falske negative funn.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Dataansvar",
+      "path": [],
+      "text": "Oslo universitetssykehus HF er dataansvarlig for behandlingen av helseopplysninger etter § 5.\nDen dataansvarlige skal sørge for at det gjennomføres tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå i behandlingen av helseopplysninger som er egnet i forhold til risikoen, jf. personvernforordningen artikkel 32 om informasjonssikkerhet.\nFødselsnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres kryptert og adskilt fra andre registeropplysninger. Den dataansvarlige skal sørge for tilgangsstyring, logging og etterfølgende kontroll.\nDen dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at helseopplysninger behandles i samsvar med personvernkravene, jf. personvernforordningen artikkel 24 om internkontroll. Blant annet skal den dataansvarlige sørge for:å ha oversikt over kravene som gjelder for behandling av helseopplysningerat det utarbeides og dokumenteres rutiner som setter ledere, medarbeiderne og annet personell i stand til å overholde kraveneat det utarbeides og dokumenteres rutiner for å motta meldinger om avvik og sikre at avvik rettessystematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt og bidrar til kontinuerlig forbedring i behandlingen av helseopplysninger i programmet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Bruk av helseopplysninger og blodprøver",
+      "path": [],
+      "text": "Helseopplysninger og blodprøver som er samlet inn kan brukes til helsehjelp, forebygging, kvalitetskontroll og metodeutvikling. Opplysningene og prøvene kan også brukes til medisinsk og helsefaglig forskning etter reglene i helseforskningsloven.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Forholdet til bioteknologiloven, helseregisterloven og pasient- og brukerrettighetsloven",
+      "path": [],
+      "text": "Pasient- og brukerrettighetsloven gjelder ved deltakelse i nyfødtscreeningprogrammet etter § 2.\nHelseregisterloven gjelder for lagring og annen behandling av helseopplysninger etter § 5.\nNyfødtscreeningen kan gjennomføres uten hensyn til bioteknologilovens krav om skriftlig samtykke, jf. § 5-4, tilpasset genetisk veiledning, jf. § 5-5, og godkjenning av virksomheten, jf. § 7-1.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikraftsetting og oppheving av andre forskrifter",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2026. Fra samme tid oppheves forskrift 29. juni 2007 nr. 742 om genetisk masseundersøkelse av nyfødte.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

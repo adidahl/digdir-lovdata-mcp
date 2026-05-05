@@ -1,0 +1,154 @@
+{
+  "id": "FOR-2017-04-21-492",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om etablering, drift og bruk av jordstasjon for satellitt i Antarktis",
+  "short_title": "Forskrift om jordstasjon for satellitt i Antarktis",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2017-05-01",
+  "last_change_in_force": "2019-05-03",
+  "last_changed_by": "forskrift/2019-05-03-560",
+  "lovdata_refid": "forskrift/2017-04-21-492",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-04-21-492",
+  "raw_xml_sha256": "d0a9b4fa8ada903abbda5fb8b3e417337089675c075e0b84787834e65ced6657",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre at jordstasjoner i Antarktis etableres, driftes og brukes i samsvar med lov 4. juli 2003 nr. 83 om elektronisk kommunikasjon, lov 27. februar 1930 nr. 3 om Bouvet-øya, Peter I's øy og Dronning Maud Land m.m. og innenfor folkerettens rammer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområdet",
+      "path": [],
+      "text": "Forskriften gjelder Antarktis syd for 60° sydlig bredde fornorske statsborgerenorske juridiske personernorske skip og luftfartøyutlendinger som er bosatt i Norgeutlendinger som deltar i eller er ansvarlig for aktivitet i Antarktis som er organisert i Norge eller som utgår fra Norge direkte til Antarktis.\nForskriften gjelder også i Dronning Maud Land og på Peter I Øy for enhver som oppholder seg der eller er ansvarlig for aktivitet der. Dette gjelder likevel ikke virksomhet som driver jordstasjon i Antarktis etter samtykke fra annen stat som er bundet av Antarktistraktaten.\nForskriften gjelder etablering, drift og bruk av jordstasjoner i Antarktis. Forskriften gjelder også loggføring av virksomheten ved jordstasjoner. Forskriften gjelder ikke for jordstasjoner som bare mottar kringkastingsprogram. Forskriften gjelder heller ikke for jordstasjoner som opererer i frekvensbånd regulert i gjeldende forskrift om generelle tillatelser til bruk av frekvenser (fribruksforskriften), men gjelder likevel for jordstasjoner som kommuniserer med satellitt ved bruk av frekvenser over 3000 GHz.\nNasjonal kommunikasjonsmyndighet avgjør i tvilstilfeller om en jordstasjon reguleres av forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften menes med:jordstasjon: utstyr for overføring av data til eller mottak av data fra satellitt eller annet rombasert system, utstyr for elektronisk kommunikasjon ment for alminnelig kommersiell bruk er ikke en jordstasjon etter denne forskriftensatellitt: ubemannet kunstig objekt som befinner seg minst 100 km over jordoverflatennyttelast: passive og aktive instrumenter om bord i en satellitt; instrumentering knyttet til styring og kontroll av satellitten inngår ikke i definisjonenoppskytingsfase: fra og med oppskyting og frem til nyttelast tas i bruknødsituasjon: situasjon hvor en satellitt har tekniske problemer og satellittoperatør har behov for å kommunisere gjennom jordstasjon i Antarktis; det foreligger ikke en nødsituasjon dersom det utelukkende foreligger tekniske problemer med nyttelast.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav om tillatelse",
+      "path": [],
+      "text": "Etablering, drift og bruk av en jordstasjon som sender data til eller mottar data fra en satellitt krever tillatelse fra Nasjonal kommunikasjonsmyndighet. Skal en jordstasjon driftes av en annen enn den som søker om tillatelse, skal det opplyses om hvem som er driftsansvarlig.\nDet kreves en særskilt kommunikasjonstillatelse fra Nasjonal kommunikasjonsmyndighet for hver satellitt en jordstasjon sender data til eller mottar data fra.\nInnehaver av tillatelse etter første ledd trenger ikke en egen kommunikasjonstillatelse for å assistere en satellitt som skal brukes til sivile formål og som er i oppskytingsfase. Det er ikke tillatt å gi tilsvarende assistanse til en satellitt som skal ivareta funksjoner spesielt for militære formål, jf. § 7. I en nødsituasjon kan innehaver av tillatelse assistere alle satellitter jf. § 7.\nNasjonal kommunikasjonsmyndighet kan fastsette vilkår i tillatelse etter første og andre ledd.\nSøknad om tillatelse sendes Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Informasjon om eierforholdet og overdragelse",
+      "path": [],
+      "text": "Endringer i jordstasjonens eierforhold eller vesentlige endringer i eierselskapets organisering skal meldes Nasjonal kommunikasjonsmyndighet uten ugrunnet opphold.\nOverdragelse eller utleie av en tillatelse krever samtykke fra Nasjonal kommunikasjonsmyndighet. Dette gjelder også indirekte overdragelse.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Krav til drift og sikring av jordstasjoner",
+      "path": [],
+      "text": "En jordstasjon skal holdes i slik driftsteknisk stand at alle krav som følger av forskriften og tillatelsen blir oppfylt.\nEn jordstasjon skal sikres slik at uvedkommende ikke får adgang til stasjonen eller kjennskap til innholdet i data som sendes til eller mottas fra en satellitt.\nObservatører utpekt etter internasjonale forpliktelser skal sikres adgang til å utføre slik inspeksjon som nevnt i bilandsloven § 5 første ledd.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Krav til bruk av jordstasjoner",
+      "path": [],
+      "text": "Det er ikke tillatt å bruke en jordstasjon til å sende data til eller lese data ned fra en satellitt som ivaretar funksjoner spesielt for militære formål, med unntak for assistanse til en satellitt i nødsituasjon som nevnt i § 4 tredje ledd.\nDet er ikke tillatt å sende data til eller lese data ned fra en satellitt dersom nedleste data kun gjøres tilgjengelig for militære formål, eller når formålet i all hovedsak er å bruke dataene militært.\nDersom en jordstasjon brukes til å assistere en satellitt i en nødsituasjon, jf. § 4 tredje ledd skal krav i § 8 overholdes og data fra nyttelast skal ikke leses ned.\nBrukes en jordstasjon til å assistere en satellitt som er i en nødsituasjon eller i oppskytingsfasen, skal innehaver av tillatelse straks underrette Nasjonal kommunikasjonsmyndighet om assistansen som er gitt.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Plikt til loggføring og lagring",
+      "path": [],
+      "text": "Innehaver av tillatelse til å etablere, drifte og bruke en jordstasjon med bevegelig antenne plikter fortløpende åloggføre alle satellittpasseringer der en jordstasjon sender data til eller leser ned data fra en satellitt oglagre alle relevante data om antennestyringsordrene på samme nivå som loggføringen foretas.Loggen og dataene skal lagres ved jordstasjonen i minimum to år.\nNasjonal kommunikasjonsmyndighet kan gi pålegg om annen loggføring og lagring.\nNasjonal kommunikasjonsmyndighet kan kreve at innehaver av tillatelse umiddelbart skal oversende kopi av loggførte og lagrede data til Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Tilsyn mv.",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndighet fører tilsyn med at forskriften og tillatelser etter § 4 blir oppfylt.\nNasjonal kommunikasjonsmyndighet kan uten hinder av lovbestemt taushetsplikt kreve bistand fra Norsk Polarinstitutt samt andre myndigheter og forvaltningsorgan ved utstedelse av tillatelse og ved tilsynet.\nInnehaver av tillatelse plikter årlig og på forespørsel å dokumentere for Nasjonal kommunikasjonsmyndighet at bruken av jordstasjonen er i samsvar med kravene i § 7 første og andre ledd og vilkår gitt i tillatelsen etter § 4.\nInnehaver av tillatelse skal på forespørsel utlevere logg og lagrede data etter § 8 første og andre ledd og andre opplysninger som er nødvendig for gjennomføring av tilsyn. Opplysningene kan kreves utlevert elektronisk.\nNasjonal kommunikasjonsmyndighet kan bestemme at dokumentasjon skal sendes direkte til den som bistår etter andre ledd. Dersom et organ som bistår Nasjonal kommunikasjonsmyndighet etter andre ledd har mottatt opplysninger som kan unntas offentlighet etter lov 19. mai 2006 nr. 16 om rett til innsyn i dokument i offentleg verksemd (offentleglova) § 14, § 15, § 20 til § 24 eller § 26, skal alle krav om innsyn i opplysningene behandles av Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Medvirkning ved tilsyn",
+      "path": [],
+      "text": "Den som er gjenstand for tilsyn har plikt til å sørge for at Nasjonal kommunikasjonsmyndighet og den som bistår ved tilsynet har uhindret adgang til jordstasjonen. Nødvendig dokumentasjon, alle data og loggføringer skal gjøres tilgjengelig for tilsynsmyndigheten. Innehaver av tillatelse eller dennes representant eller den driftsansvarlige kan pålegges å være til stede ved tilsynet.\nTillatelser og dokumentasjon om etableringen, driften og bruken av en jordstasjon skal være tilgjengelige ved jordstasjonen.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Pålegg, sanksjoner og straff",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndighet kan gi pålegg om endring eller opphør av ulovlige forhold som er i strid med kravene i denne forskrift eller vilkår i tillatelse etter § 4, jf. ekomloven § 10-6.\nNasjonal kommunikasjonsmyndighet kan ved brudd på kravene i eller i medhold av forskriften fatte vedtak om tvangsmulkt etter ekomloven § 10-7, tilbakekall etter ekomloven § 10-8, stenging etter ekomloven § 10-9, overtredelsesgebyr etter ekomloven § 10-13 første ledd nr. 2 eller inndragning etter ekomloven § 10-14.\nBrudd på krav i forskriften § 4 til § 6 og § 8 straffes etter ekomloven § 12-4 første ledd nr. 2.\nBrudd på § 7 straffes etter bilandsloven § 8.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Opphør",
+      "path": [],
+      "text": "Tillatelse etter § 4 første og andre ledd sies opp skriftlig.\nBlir tillatelsen etter § 4 første ledd sagt opp eller trukket tilbake skal jordstasjonen tas ut av drift. Antenne og strømforsyning skal kobles fra der dette er mulig. Det skal gis skriftlig melding til Nasjonal kommunikasjonsmyndighet om at kravene er oppfylt og at jordstasjonen ikke vil bli brukt med mindre det gis en ny tillatelse.\nOpphører retten til å bruke en jordstasjon, kan Nasjonal kommunikasjonsmyndighet be Norsk Polarinstitutt om å forsegle jordstasjonen. Dette kan gjøres uten at Nasjonal kommunikasjonsmyndighet deltar.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Sektoravgift og gebyr",
+      "path": [],
+      "text": "Det skal betales årlig sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet for tillatelser etter gjeldende forskrift om gebyr mv. til Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndighet kan i særlige tilfeller og innenfor folkerettens rammer gjøre unntak fra bestemmelsene i forskriften.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Klagemyndighet",
+      "path": [],
+      "text": "Samferdselsdepartementet avgjør klage over enkeltvedtak fattet av Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. mai 2017.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "paragraf-17",
+      "provision_ref": "§ 17",
+      "heading": "Overgangsbestemmelse",
+      "path": [],
+      "text": "En tillatelse gitt med hjemmel i forskrift 11. juni 1999 nr. 664 om etablering, drift og bruk av jordstasjon for satellitt skal gjelde inntil tillatelsen løper ut eller opphører på annen måte.\nTil slike tillatelser kan Nasjonal kommunikasjonsmyndighet stille de tilleggsvilkårene som forskriften her gir adgang til.",
+      "xml_path": "article#paragraf-17"
+    }
+  ]
+}

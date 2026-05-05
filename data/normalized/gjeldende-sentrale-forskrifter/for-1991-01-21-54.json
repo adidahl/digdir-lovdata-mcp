@@ -1,0 +1,50 @@
+{
+  "id": "FOR-1991-01-21-54",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om midlertidige opptaksregler ved Statens kunstakademi.",
+  "short_title": "Forskrift om opptak ved Statens kunstakademi",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "1991-03-26",
+  "last_change_in_force": "1992-01-21",
+  "last_changed_by": "forskrift/1992-01-21-28",
+  "lovdata_refid": "forskrift/1991-01-21-54",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1991-01-21-54",
+  "raw_xml_sha256": "096265131242cdb8a684e1d0fc5b462ef83fc75ee2722e2f84a6304786bb69fe",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Opptaksgrunnlag",
+      "path": [],
+      "text": "Opptak til Statens kunstakademi skjer på grunnlag avinnsendte prøvearbeider ogen særskilt opptaksprøve som et mindre antall søkere blir innkalt til etter avgjørelse av fagjuryene, jf. § 2.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fagjuryene",
+      "path": [],
+      "text": "Avgjørelse om opptak tas av fagjuryer som oppnevnes av avdelingsutvalgene. Fagjuryene er sammensatt slik:AvdelingslederMinst en av de øvrige lærerne ved avdelingen med rekkefølgevaramedlemmerEt eksternt medlem, med personlig varamedlemTo medlemmer som representerer studentene, med rekkefølgevaramedlemmer\nStyret fastsetter antall medlemmer under pkt. 2.\nStudentrepresentantene har talerett, men ikke stemmerett. Ved stemmelikhet har avdelingsleder dobbeltstemme.\nStyret oppnevner de eksterne medlemmene for en periode på tre år. Norske Billedkunstnere skal ha hatt anledning til å uttale seg.\nStudentrepresentantene oppnevnes etter forslag fra studentutvalget for ett år av gangen, mens lærerrepresentantene oppnevnes etter forslag fra avdelingens ansatte for samme tidsrom.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Klage",
+      "path": [],
+      "text": "Styret avgjør klage på avslag om opptak som student.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Nærmere regler",
+      "path": [],
+      "text": "Styret fastsetter de nærmere regler for avvikling av opptaksprøven.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

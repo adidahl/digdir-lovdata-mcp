@@ -1,0 +1,49 @@
+{
+  "id": "FOR-1987-12-18-1101",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gebyrsatser for overlasting med kjøretøy på offentlig veg",
+  "short_title": "Forskrift om satser for overlastgebyr",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "1988-03-01",
+  "last_change_in_force": "2024-03-01",
+  "last_changed_by": "forskrift/2024-01-24-130 fra 2024-03-01",
+  "lovdata_refid": "forskrift/1987-12-18-1101",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1987-12-18-1101",
+  "raw_xml_sha256": "2ae5128b1e3f90b5b9c5907c943ae53f9e20baaf8b02295c66991ec4f3544661",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Satser for aksel-/boggi-/trippelboggilast",
+      "path": [],
+      "text": "Når gebyrpliktig overlast er konstatert ved veiing, betales i tillegg et gebyr på kr 2200,–.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Satser for totalvekt",
+      "path": [],
+      "text": "For kjøretøy betales følgende satser:Av de første 5000 kgbetales kr 500,– pr. 100 kgog av det overskytendebetales kr 750,– pr. 100 kg\nFor vogntog betales følgende satser:Av de første 10 000 kgbetales kr 500,– pr. 100 kgog av det overskytendebetales kr 750,– pr. 100 kg\nNår gebyrpliktig overlast er konstatert ved veiing, betales i tillegg et gebyr på kr 2200,–.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Justering av gebyrsatsene",
+      "path": [],
+      "text": "Gebyrsatsene justeres i henhold til konsumprisindeks hvert 5. år. Satsen avrundes til nærmeste kr 50.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. mars 1988.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

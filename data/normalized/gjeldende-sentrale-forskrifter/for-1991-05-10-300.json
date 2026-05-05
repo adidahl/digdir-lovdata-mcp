@@ -1,0 +1,30 @@
+{
+  "id": "FOR-1991-05-10-300",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om motorhistoriske kjøretøyers bruk av lys om dagen.",
+  "short_title": "Forskrift om motorhistoriske kjøretøyer",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "1991-05-10",
+  "lovdata_refid": "forskrift/1991-05-10-300",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1991-05-10-300",
+  "raw_xml_sha256": "47e3141319ac2f0bb726c78e2746825dea73bcd369a4fe365f1348606e1bfc91",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Motorhistoriske kjøretøy produsert før 1950 er unntatt fra påbudet i trafikkreglene (forskrift 21. mars 1986 nr. 747) § 15 nr. 1 annet ledd, om bruk av lys under kjøring, i følgende utstrekning:Kjøretøy med karbidlykter o.l. unntas helt fra påbudet.Andre motorhistoriske kjøretøy unntas fra påbudet under motorhistoriske stevner, løp o.l. samt kjøring til og fra slike over korte distanser. Unntaket er betinget av at dårlig batteri- og ladekapasitet ellers ville vanskeliggjøre deltakelse i arrangementet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

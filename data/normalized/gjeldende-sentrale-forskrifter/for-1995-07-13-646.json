@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1995-07-13-646",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om område med forbud mot oppankring og fiske på Heidrunfeltet.",
+  "short_title": "Forskrift om forbudsområde, Heidrunfeltet",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1995-07-13",
+  "lovdata_refid": "forskrift/1995-07-13-646",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1995-07-13-646",
+  "raw_xml_sha256": "53f8b1b40225aa52226fc30ec0888903b3d488dcf7ab62b563af63ca817eff2c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften får anvendelse på området over Direkte Skyttel Lastesystem på Heidrunfeltet. Området er formet som en oval, definert av to sirkler med radius på 1.200 meter. Sirklene er bundet sammen av de to parallelle linjer som tangerer omkretsen til begge sirklene. De to sirklene har følgende koordinater:",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innenfor området som angitt i § 1 forbys all ugrunnet oppankring, samt fiske med bunnredskap som bunntrål og snurrevad.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 66, jfr. forskrift av 9. oktober 1987 nr. 810 om sikkerhetssoner m.v. § 15.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

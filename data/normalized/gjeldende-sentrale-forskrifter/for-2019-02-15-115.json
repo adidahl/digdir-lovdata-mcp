@@ -1,0 +1,148 @@
+{
+  "id": "FOR-2019-02-15-115",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om system for rapportering av bivirkninger av legemidler (bivirkningsregisterforskriften)",
+  "short_title": "Bivirkningsregisterforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2020-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-20-2165 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2019-02-15-115",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-02-15-115",
+  "raw_xml_sha256": "e2c832151a58f2bf37007212dd275d0d5f9129a5bf5807ecd5707d75fd55ff0c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften skal sikre at behandlingen av helseopplysninger i Bivirkningsregisteret foretas på en etisk forsvarlig måte, ivaretar den enkeltes personvern og brukes til individets og samfunnets beste.\nRegisteret skal bidra til sikker og effektiv legemiddelbruk, ved at det fortløpende og systematisk registreres, behandles og analyseres bivirkningsmeldinger og fanges opp bivirkningsinformasjon fra legemiddelbruk så tidlig som mulig.\nOpplysninger som er registrert i registeret kan også tilgjengeliggjøres for styring, planlegging og kvalitetsforbedring av legemidler og legemiddelbruk og til forskning.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder innsamling og annen behandling av bivirkningsinformasjon oppdaget i Norge i Bivirkningsregisteret.\nMed bivirkning menes skadelig og utilsiktet virkning av et legemiddel til mennesker. Dette gjelder uavhengig av om legemidlet er brukt i henhold til markedsføringstillatelsen og omfatter også skadelig og utilsiktet virkning ved overdose, feilbruk, misbruk, medisineringsfeil, feildosering, behandling utenfor godkjent bruksområde og yrkeseksponering, jf. legemiddelforskriften § 10-1 bokstav a).",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Dataansvarlig og databehandler",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Direktoratet for medisinske produkter er dataansvarlig for innsamling og behandling av opplysninger i Bivirkningsregisteret.\nDen dataansvarlige kan inngå avtale med databehandlere om behandling av opplysninger på vegne av den dataansvarlige. Avtalene skal være skriftlige.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Opplysningstyper som kan registreres",
+      "path": [
+        "Kapittel 2. Opplysninger i registeret"
+      ],
+      "text": "Bivirkningsregisteret kan inneholde relevante helseopplysninger knyttet til bivirkninger eller mistanke om bivirkninger ved bruk av et legemiddel:Pasientens fødselsnummer eller annen direkte personidentifikatorOpplysninger om bivirkningenOpplysninger om det aktuelle legemiddelet og eventuelle andre legemidler pasienten brukerAndre helseopplysninger av betydning.\nVed mistanke om at bivirkninger er overført til barnet under graviditet, amming eller lignende, skal opplysninger om bivirkningen registreres på barnets identitet.\nNår bivirkning meldes fra andre enn pasienten selv, skal melders navn, kontaktopplysninger, institusjon, profesjon og helsepersonellnummer i henhold til Helsepersonellregisteret registreres.\nOpplysningene kan registreres og behandles uten samtykke fra den registrerte.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Rett til å motsette seg behandling av helseopplysninger",
+      "path": [
+        "Kapittel 2. Opplysninger i registeret"
+      ],
+      "text": "Den registrerte kan motsette seg at helseopplysninger gjøres tilgjengelig fra registeret for formål som er nevnt i § 1-1 tredje ledd. Dette gjelder likevel ikke tilgjengeliggjøring av opplysninger uten direkte personidentifiserende kjennetegn i henhold til statens forpliktelser etter EUs legemiddeldirektiv (direktiv 2001/83/EF). Reservasjonsretten etter første punktum gjelder heller ikke tilgjengeliggjøring for sammenstilling etter § 4-1.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Plikt til å melde opplysninger",
+      "path": [
+        "Kapittel 3. Innmelding av helseopplysninger"
+      ],
+      "text": "Helsepersonell som yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven, skal sende melding til Direktoratet for medisinske produkter ved mistanke om at bruk av ett eller flere legemidler har medført:dødelige eller livstruende bivirkninger,bivirkninger som har gitt varige alvorlige følger, elleruventede eller nye bivirkninger.\nHelsepersonell som gir vaksiner, skal sende bivirkningsmelding til Folkehelseinstituttet ved Nasjonalt vaksinasjonsregister (SYSVAK) ved mistanke om bivirkning som nevnt i første ledd knyttet til vaksiner, jf. SYSVAK-registerforskriften § 2-1 andre ledd.\nVirksomheten der tjenestene ytes har ansvar for at pliktene etter første og andre ledd kan oppfylles og skal sørge for at det finnes rutiner som sikrer dette.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Konkrete opplysninger, rutiner mv.",
+      "path": [
+        "Kapittel 3. Innmelding av helseopplysninger"
+      ],
+      "text": "Den dataansvarlige fastsetter hvilke konkrete opplysninger etter § 2-1 som skal meldes inn. Den dataansvarlige kan også fastsette tidsfrister og krav om bruk av bestemte klassifikasjonssystemer, kodeverk og standardiserte meldingsformater ved innmeldingen.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Vilkår for behandling av helseopplysninger",
+      "path": [
+        "Kapittel 4. Tilgjengeliggjøring og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Helseopplysninger skal behandles i samsvar med personvernforordningen, personopplysningsloven, de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.\nDen registrertes rett til å motsette seg at helseopplysninger tilgjengeliggjøres fra registeret etter § 2-2 gjelder ikke for tilgjengeliggjøring for sammenstilling etter helseregisterloven § 19c.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Bevaring av bivirkningsopplysninger",
+      "path": [
+        "Kapittel 4. Tilgjengeliggjøring og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Opplysninger i registeret kan oppbevares i ubegrenset tid med mindre annet følger av helseregisterloven § 25 eller annen lovgivning.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Den dataansvarlige og databehandlere som den dataansvarlige har inngått avtale med, skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Kryptering og tilgang til opplysninger",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Fødselsnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres kryptert og adskilt fra andre registeropplysninger.\nBare personell som utfører tjenester eller arbeid mot registeret og arbeider under dataansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til identifiserende opplysninger i registeret. Tilgangen kan ikke være mer omfattende enn det som er nødvendig for vedkommendes arbeid.\nBare spesielt autoriserte personer som har behov for det i arbeidet, skal ha tilgang til ukrypterte helseopplysninger med direkte personidentifiserende kjennetegn (fødselsnumre eller annen personidentifikasjon).",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Ikrafttreden",
+      "path": [
+        "Kapittel 6. Ikrafttreden mv."
+      ],
+      "text": "Forskriften trer i kraft fra det tidspunktet departementet bestemmer.1 Departementet kan bestemme at ulike deler av forskriften trer i kraft til ulik tid. Departementet kan herunder bestemme at meldeplikten etter § 3-1 trer i kraft for ulike grupper av helsepersonell til ulik tid.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Endringer i andre forskrifter",
+      "path": [
+        "Kapittel 6. Ikrafttreden mv."
+      ],
+      "text": "1. Fra den tid forskriften trer i kraft gjøres følgende endringer i forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften): – – –2. Fra den tid forskriften trer i kraft skal § 2-1 fjerde ledd i forskrift 20. juni 2003 nr. 739 om innsamling og behandling av helseopplysninger i Nasjonalt vaksinasjonsregister (SYSVAK-registerforskriften) lyde: – – –3. Fra den tid forskriften trer i kraft skal ny § 17c i forskrift 22. juni 2015 nr. 747 om anvendelse av helselover og -forskrifter for Svalbard og Jan Mayen lyde: – – –",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    }
+  ]
+}

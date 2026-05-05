@@ -1,0 +1,50 @@
+{
+  "id": "FOR-1992-12-30-1230",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fangst av elvemusling",
+  "short_title": "Forskrift om fangst av elvemusling",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "1993-01-01",
+  "last_change_in_force": "2013-10-15",
+  "last_changed_by": "forskrift/2013-10-15-1214",
+  "lovdata_refid": "forskrift/1992-12-30-1230",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-12-30-1230",
+  "raw_xml_sha256": "49dbcab045cc35a69ba5584635fddbc36ce6c90d746664eec6791b817cc2fce0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forbud",
+      "path": [],
+      "text": "Uten tillatelse fra fylkesmannen er all fangst av elvemusling (Margaritifera margaritifera) forbudt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tillatelser",
+      "path": [],
+      "text": "Tillatelse til fangst av elvemusling kan bare gis på lokaliteter der bestandssituasjonen er meget god.\nTillatelse kan bare gis etter enkeltsøknad.\nTillatelsen skal bare gjelde for ett år, og den skal gis for et begrenset antall muslinger.\nTillatelse må alltid kunne framvises under fangst av elvemusling.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av denne forskrift er straffbart, jf. § 49 i lov om laksefisk og innlandsfisk m.v.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Denne forskrift trer i kraft fra 1. januar 1993.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

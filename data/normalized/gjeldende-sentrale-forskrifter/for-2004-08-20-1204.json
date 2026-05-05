@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2004-08-20-1204",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hunder",
+  "short_title": "Hundeforskriften",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2004-08-20",
+  "lovdata_refid": "forskrift/2004-08-20-1204",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-08-20-1204",
+  "raw_xml_sha256": "54e1aec362e2ad3ca83fea221c5cac0a686d3fb90cc8d0e749ebdd7421d82feb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forbud mot farlige hunder",
+      "path": [],
+      "text": "Det er forbudt å holde, avle eller innføre farlige hunder, eller å innføre sæd eller embryo fra farlige hunder.\nHunder av følgende typer, og blandinger der en eller flere av disse er med, anses som farlige hunder, uansett blandingsforhold:Pitbullterrier,amerikansk staffordshire terrier,fila brasileiro,toso inu,dogo argentino.\nSom farlige hunder anses også hunder og hundetyper som er en blanding av hund og ulv, uansett blandingsforhold. For hunderaser med opprinnelig blanding av ulv som er registrert i Norge av Norsk Kennel Klub 1. januar 2003, gjelder første punktum bare for tsjekkoslovakisk ulvehund. Hvis ulv er iblandet rasen etter den internasjonale raseetableringen, gjelder første punktum for hunder som kan være etterkommere etter denne ulven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Dokumentasjonskrav",
+      "path": [],
+      "text": "Dersom det er tvil om et dyr er en farlig hund etter § 1 kan politi og tollmyndigheter kreve at hundeholderen dokumenterer dens rase eller type.\nSom minstedokumentasjon etter at en hund er blitt fire måneder gammel, kreves at hunden er identitetsmerket med microchip og at dette identitetsmerket knytter hunden til et registreringsbevis påført DNA-koding med en tilknyttet stamtavle.\nNår det foreligger særskilte omstendigheter kan politiet, i enkelttilfeller, bestemme at annen tilfredsstillende dokumentasjon kan tre i stedet for kravet etter andre ledd.\nDersom ikke fremlagt bevis fjerner tvilen på stedet, regnes hunden som en farlig hund. Ved slik tvil som nevnt kan politiet eller tollmyndigheter ta hånd om hunden straks, jf. hundeloven § 24. Hundeholderen skal på begjæring gis en rimelig frist til å supplere dokumentasjonen mens hunden tas hånd om etter annet punktum.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Overgangsregler",
+      "path": [],
+      "text": "Hunder som omfattes av § 1 annet ledd og tsjekkoslovakisk ulvehund kan beholdes dersom de var lovlig avlet, innført eller holdt før forskriften her ble vedtatt. Hund som kan beholdes kan også tilbakeføres til landet etter utenlandsreiser.\nDet gjelder følgende vilkår for å kunne beholde disse hundene:hundene kan ikke brukes i avl, selges eller omplasseres,hundene skal bære identitetsmerke som knytter hunden til et registreringsbevis som opplyser om eierens navn og adresse og viser at hunden er avlet, innført eller holdt før forskriften her ble vedtatt.\nBlir ett av vilkårene overtrådt eller en slik hund angriper mennesker, gjelder ikke lenger § 3 for denne hunden.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Avliving mv.",
+      "path": [],
+      "text": "Hunder som blir avlet, innført eller holdt i strid med denne forskrift kan avlives eller pålegges utført av riket ved vedtak av politiet, jf. hundeloven § 19 femte ledd.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Unntak fra regler i forvaltningsloven",
+      "path": [],
+      "text": "For vedtak om å ta hånd om hund på stedet i tilfeller som omfattes av denne forskrift gjelder bestemmelsen i forvaltningsloven § 24 første ledd annet punktum om samtidig begrunnelse ikke. Begrunnelse skal bli gitt i ettertid.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse. Opphevelse av eldre forskrift",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Fra samme dato oppheves forskrift 15. januar 2001 nr. 28 om forbud mot innførsel, hold og avl av farlige hunder. Bestemmelsen i § 2 andre ledd gjelder likevel først fra fire måneder etter forskriftens ikrafttredelse, så langt det gjelder kravet om microchip og DNA-koding.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

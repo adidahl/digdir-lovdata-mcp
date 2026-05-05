@@ -1,0 +1,90 @@
+{
+  "id": "FOR-2013-12-13-1507",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot fiske og fangst av brugde, pigghå, håbrann og silkehai",
+  "short_title": "Forskrift om forbud mot fiske av brudge og pigghå mv",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2014-01-01",
+  "last_change_in_force": "2025-04-11",
+  "last_changed_by": "forskrift/2025-04-11-657",
+  "lovdata_refid": "forskrift/2013-12-13-1507",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2013-12-13-1507",
+  "raw_xml_sha256": "32bbe72449adb85f0cddbc8534eec73b17bcad91991ef5402c27f9f4feb5d80d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder for fiske i Norges indre farvann, sjøterritorium, økonomiske sone og i internasjonalt farvann i ICES-statistikkområdene I-XIV.\nFor utlendinger og utenlandske fartøy gjelder forskriften i Norges indre farvann, sjøterritorium, økonomiske sone, fiskerisonen ved Jan Mayen, fiskevernsonen ved Svalbard og Svalbards territorialfarvann.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Generelt forbud",
+      "path": [],
+      "text": "Det er forbudt å fiske og lande brugde (Cetorhinus maximus), pigghå (Squalus acanthias), håbrann (Lamna nasus) og silkehai (Carcharhinus falciformis). Det er også forbudt å skjære finnene av brugde, pigghå, håbrann og silkehai før fangsten er landet.\nDersom fartøy ved fiske etter andre fiskeslag får bifangst av brugde, håbrann eller silkehai skal levedyktig fisk straks slippes på sjøen. Det gjelder ikke ilandføringsplikt for død eller døende brugde og håbrann. Alle fangster skal likevel rapporteres.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Fangst av pigghå",
+      "path": [],
+      "text": "Forbudet mot å fiske pigghå gjelder ikke for fartøy under 15 meter største lengde som fisker med konvensjonelle redskap i Norges indre farvann og sjøterritoriet.\nFor norske fartøy under 15 meter største lengde som fisker med andre redskap enn konvensjonelle, og norske fartøy på 15 meter eller over, er det tillatt å ha inntil 15 % fangst av pigghå.\nAvregning etter andre ledd regnes ut fra samlet fangst i hele perioden fra og med 1. januar til og med 30. juni og hele perioden fra og med 1. juli til og med 31. desember.\nFølgende fangst inngår ikke i avregningsgrunnlaget etter første punktum:Torsk fisket nord for 62° NHyse fisket nord for 62° NPelagiske arter.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Bifangst av håbrann",
+      "path": [],
+      "text": "Det er tillatt å beholde død eller døende håbrann som tas som uunngåelig bifangst ved fiske etter andre arter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Overvåkningsfiske",
+      "path": [],
+      "text": "Fiskeridirektoratet kan iverksette et overvåkningsfiske og fastsette nærmere bestemmelser som er nødvendig for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av et slikt fiske.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Bemyndigelse",
+      "path": [],
+      "text": "Fiskeridirektoratet kan endre denne forskriften og fastsette nærmere bestemmelser som er nødvendig for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av fisket.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, kan ilegges overtredelsesgebyr i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressursloven.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften, straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 60, § 61, § 62, § 64 og § 65. På samme måte straffes forsøk og medvirkning.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2014.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

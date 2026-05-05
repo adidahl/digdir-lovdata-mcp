@@ -1,0 +1,75 @@
+{
+  "id": "LOV-1990-12-21-72",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om avgift på utslipp av CO2 i petroleumsvirksomhet på kontinentalsokkelen",
+  "short_title": "Lov om avgift på utslipp av CO2",
+  "department": "Finansdepartementet",
+  "legal_area": "Energirett > Petroleumsvirksomhet Forurensninger, klima og utslipp > Klimakvoter Skatte- og avgiftsrett > Petroleumsskatt",
+  "date_in_force": "1990-12-21",
+  "last_change_in_force": "2024-04-01",
+  "last_changed_by": "lov/2024-03-22-11 fra 2024-04-01",
+  "lovdata_refid": "lov/1990-12-21-72",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1990-12-21-72",
+  "raw_xml_sha256": "0ff0a0e80b74a4bf6fb3f286c57226e1faa16f2e7a5adfa6c77380fd73afb51f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "For så vidt Stortinget vedtar at det til statskassen skal betales CO2-avgift på brenning av petroleum og utslipp av naturgass i forbindelse med petroleumsvirksomhet på kontinentalsokkelen, gjelder reglene i denne lov når ikke annet er særskilt fastsatt i Stortingets vedtak om avgiften.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "CO2-avgift beregnes av petroleum som brennes og naturgass som slippes ut til luft samt av CO2 som utskilles fra petroleum og slippes ut til luft, på innretning som nyttes i forbindelse med utvinning eller transport av petroleumi indre norsk farvann, på norsk sjøterritorium og på kontinentalsokkelen, jf. petroleumsloven § 1-6 bokstav l),i tilstøtende havområder utenfor kontinentalsokkelen i den utstrekning utvinning av petroleum er forbeholdt Norge etter avtale med annen stat,i havområder utenfor kontinentalsokkelen for så vidt gjelder norsk anlegg for transport av petroleum,i riket for så vidt gjelder anlegg som omfattes av petroleumsskatteloven § 3 b) tredje punktum.\nNår utvinning skjer fra petroleumsforekomst som strekker seg over midtlinjen i forhold til annen stat, jf bokstav b), beregnes CO2-avgift bare av de mengder som svarer til de norske rettighetshavernes eierandeler i vedkommede innretning.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "CO2-avgiften kan ikke trekkes fra ved beregningen av produksjonsavgift etter petroleumsloven § 4-10.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Plikten til å svare CO2-avgift påhviler i fellesskap rettighetshaverne etter utvinningstillatelsen eller tillatelsen til anlegg og drift av innretninger for transport og utnyttelse av petroleum som gjelder for den innretning der petroleum brennes eller naturgass slippes ut. Operatøren har det direkte ansvar for beregning, innrapportering og betaling av samlet avgiftsbeløp til Sokkeldirektoratet på vegne av samtlige rettighetshavere.\nAvgift for perioden 1. januar til 30. juni skal betales innen 1. oktober og for perioden 1. juli til 31. desember innen 1. april i det påfølgende år. Dokumentasjon for petroleumsmåling og beregning av avgiften skal sendes Sokkeldirektoratet senest en måned etter utløpet av hver termin. Dersom avgiften ikke betales innen forfall, skal det beregnes renter av avgiftsbeløpet i samsvar med lov av 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. Avgiftskrav er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Departementet kan fastsette nærmere bestemmelser om grunnlaget for avgiften samt om hvilke krav som skal stilles til måleutstyr, målemetoder og til den dokumentasjon som innsendes.\nOppstår det tvil om omfanget av avgiftsplikten, avgjøres spørsmålet av departementet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Kongen kan gjøre vedtak om den nærmere gjennomføring av avgiftsbetalingen, herunder om renter på for lite og for meget betalt avgift.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Forsettlig eller uaktsom avgivelse av uriktig eller ufullstendig dokumentasjon eller annen overtredelse av bestemmelser eller vedtak truffet i eller i medhold av denne lov straffes med bøter eller fengsel inntil 3 måneder.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

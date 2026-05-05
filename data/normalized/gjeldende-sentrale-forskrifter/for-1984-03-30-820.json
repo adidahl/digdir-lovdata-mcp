@@ -1,0 +1,45 @@
+{
+  "id": "FOR-1984-03-30-820",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om vederlag for legehjelp og fysikalsk behandling ved kommunens helsetjeneste.",
+  "short_title": "Forskrift om vederlag for legehjelp m.v.",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1984-04-01",
+  "last_change_in_force": "2002-01-01",
+  "last_changed_by": "forskrift/2001-12-21-1479 fra 2002-01-01",
+  "lovdata_refid": "forskrift/1984-03-30-820",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1984-03-30-820",
+  "raw_xml_sha256": "c207050328f18418b7f4d2b94f14f0d11b2f41e1191f0fdff126db7ca54e67fa",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Den som har rett til medisinsk stønad etter lov om folketrygd skal betale vederlag for hjelp for lege eller fysioterapeut ansatt i kommunens helsetjeneste, dersom det ikke i forskrifter etter folketrygdlovens § 2-5 er bestemt at det skal ytes fri hjelp. Det samme gjelder for den som har rett til slik stønad i henhold til gjensidighetsavtale med annet land om sosial trygghet, inngått i medhold av lov om folketrygd § 18-12.\nVederlaget skal i det enkelte tilfelle svare til forskjellen mellom den honorarsats som til enhver tid gjelder etter avtale mellom staten og Den norske lægeforening, respektive Norske Fysioterapeuters Forbund, og folketrygdens refusjonssats.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Den som ikke har rett til medisinsk stønad etter lov om folketrygd eller gjensidighetsavtale skal betale et vederlag som i det enkelte tilfelle svarer til honorarsatsene som er nevnt i § 1.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Denne forskrift trer i kraft 1. april 1984.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    }
+  ]
+}

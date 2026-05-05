@@ -1,0 +1,59 @@
+{
+  "id": "LOV-2022-06-17-49",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om informasjonstilgang for Riksrevisjonen ved undersøkelser av saker som gjelder stortingsrepresentantenes økonomiske ordninger",
+  "short_title": "Lov om informasjonstilgang for Riksrevisjonen",
+  "department": "Finansdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Revisjon Stats-, statsforfatnings- og statsborgerrett > Stortinget Sivil- og straffeprosess > Straffeprosess/straffeprosessloven > Bevisførsel",
+  "date_in_force": "2022-06-17",
+  "last_change_in_force": "2025-06-20",
+  "last_changed_by": "lov/2025-06-20-55",
+  "lovdata_refid": "lov/2022-06-17-49",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2022-06-17-49",
+  "raw_xml_sha256": "5ba9a5edab899ee385b6496048c4c5d6aed10da8175dc48a35c56ce93c292090",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Loven skal sikre at Riksrevisjonen, i tilfeller hvor samtykke fra de forespurte ikke er tilstrekkelig, får tilgang til nødvendige opplysninger for å gjennomføre særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forbud mot bruk som bevis i senere straffesak eller sivil sak",
+      "path": [],
+      "text": "Opplysninger som Riksrevisjonen mottar fra private personer og foretak i medhold av § 2, kan ikke brukes som bevis i en senere straffesak eller sivil sak mot den som har gitt opplysningene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Rett til å la seg bistå. Kostnadsdekning",
+      "path": [],
+      "text": "Enhver som er berørt har rett til å la seg bistå under Riksrevisjonens undersøkelser i henhold til Stortingets vedtak 6. januar 2022. Den som er berørt av undersøkelsene, kan også få dekket nødvendige kostnader til slik bistand når særlige grunner taler for det.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forholdet til riksrevisjonsloven",
+      "path": [],
+      "text": "Riksrevisjonsloven, herunder § 7-1 (taushetsplikt), § 7-2 (sikkerhetslovens anvendelse), § 7-3 (behandling av personopplysninger), § 7-4 (innsyn) og § 3-2 (habilitet), gjelder tilsvarende for Riksrevisjonens særlige undersøkelser av stortingsrepresentantenes økonomiske ordninger i henhold til Stortingets vedtak 6. januar 2022. Loven § 7-1 fjerde og femte ledd og § 7-3 annet ledd gjelder likevel ikke.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Loven trer i kraft straks. § 2 oppheves 31. desember 2022.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

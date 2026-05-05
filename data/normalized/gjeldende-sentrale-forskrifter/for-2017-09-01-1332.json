@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2017-09-01-1332",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa",
+  "short_title": "Forskrift om overordna mål og prinsipp i skolen",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2020-08-01",
+  "lovdata_refid": "forskrift/2017-09-01-1332",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-09-01-1332",
+  "raw_xml_sha256": "942202b4647ad3ce63f56199b8d4e5b3c678b1eef3dc3de34ec3d599c1882bef",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Opplæringa i grunnskolen og den vidaregåande opplæringa skal vere i samsvar med læreplanverkdelen Overordnet del – verdier og prinsipper for grunnopplæringen, vedtatt 1. september 2017.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskrifta trer i kraft fra det tidspunktet departementet fastsett1. Departementet kan fastsette forskjellige ikraftsettingstidspunkt for ulike delar av Overordnet del – verdier og prinsipper for grunnopplæringen, og fastsette opphevingstidspunkt for forskrift 25. juni 1999 nr. 708 om utfylling av dei overordna måla og prinsippa for opplæringa i grunnskolen og i den vidaregåande opplæringa.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

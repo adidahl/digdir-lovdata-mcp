@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2018-06-20-937",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om at saksopplysninger til Arbeids- og velferdsetaten skal gis elektronisk",
+  "short_title": "Forskrift om elektroniske saksopplysninger til NAV",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2019-01-01",
+  "lovdata_refid": "forskrift/2018-06-20-937",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-06-20-937",
+  "raw_xml_sha256": "0fe5b9700551d0a898d920cb050045853878394057b452e13ef3fde9959e0732",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Opplysninger fra arbeidsgiver",
+      "path": [],
+      "text": "Opplysninger som Arbeids- og velferdsetaten kan be om fra arbeidsgiver etter folketrygdloven § 21-4 for å kunne behandle saker om ytelser etter kapitlene 8, 9 og 14, skal gis elektronisk til Arbeids- og velferdsetaten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2019.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

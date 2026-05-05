@@ -1,0 +1,157 @@
+{
+  "id": "FOR-2025-12-18-2688",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av brosme og lange nord for 62° N i 2026",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "last_change_in_force": "2026-04-23",
+  "last_changed_by": "forskrift/2026-04-21-628 fra 2026-04-23",
+  "lovdata_refid": "forskrift/2025-12-18-2688",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-12-18-2688",
+  "raw_xml_sha256": "90c7a4aeaa4df28074772a92a346f4a259d0843774076b136f7d80f43433795e",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Generelt forbud",
+      "path": [
+        "Kapittel 1. Fiskeforbud og kvoter"
+      ],
+      "text": "Det er forbudt for norske fartøy å fiske og lande brosme og lange nord for 62° N i 2026.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Totalkvoter",
+      "path": [
+        "Kapittel 1. Fiskeforbud og kvoter"
+      ],
+      "text": "Uten hinder av forbudet i § 1 kan norske fartøy med adgang til å delta fiske og lande inntil 8 748 tonn brosme og 6 906 tonn lange nord for 62° N.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gruppekvoter for fartøy på eller over 28 meter største lengde",
+      "path": [
+        "Kapittel 1. Fiskeforbud og kvoter"
+      ],
+      "text": "Fartøy på eller over 28 meter største lengde kan fiske og lande inntil 5 516 tonn brosme og 3 202 tonn lange.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Gruppekvoter fartøy under 28 meter største lengde",
+      "path": [
+        "Kapittel 1. Fiskeforbud og kvoter"
+      ],
+      "text": "Fartøy under 28 meter største lengde kan fiske og lande inntil 3 232 tonn brosme og 3 704 tonn lange.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Fartøy under 28 meter største lengde",
+      "path": [
+        "Kapittel 2. Regulering av fisket etter brosme"
+      ],
+      "text": "Det er forbudt for fartøy under 28 meter største lengde å fiske brosme.\nFartøy under 28 meter største lengde som fisker med konvensjonelle redskap kan likevel ha inntil 30 % brosme ved fiske etter andre fiskeslag. For fartøy som lander flere ganger per uke regnes fangsten basert på all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere ganger per uke, regnes fangsten i vekt i de enkelte fangster og ved landing.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Bifangst for fartøy på eller over 28 meter største lengde",
+      "path": [
+        "Kapittel 2. Regulering av fisket etter brosme"
+      ],
+      "text": "For fartøy som ikke har adgang til å delta i fisket, er det ved fiske etter andre fiskeslag med stormasket trål tillatt å ha inntil 10 % brosme i de enkelte fangster og ved landing.\nFor fartøy som ikke har adgang til å delta i fisket, er det ved fiske ved fiske etter andre fiskeslag med konvensjonelle redskap tillatt å ha inntil 15 % brosme i de enkelte fangster og ved landing.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Forbud mot direktefiske for fartøy under 28 meter største lengde",
+      "path": [
+        "Kapittel 3. Regulering av fisket etter lange"
+      ],
+      "text": "Det er forbudt for fartøy under 28 meter største lengde å fiske lange.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Bifangst for fartøy under 28 meter største lengde",
+      "path": [
+        "Kapittel 3. Regulering av fisket etter lange"
+      ],
+      "text": "Fartøy under 28 meter største lengde som fisker med konvensjonelle redskap kan ha inntil 40 % bifangst av lange ved fiske etter andre fiskeslag. For fartøy som lander flere ganger per uke regnes bifangsten basert på all fangst fisket i tidsrommet fra mandag kl. 00:00 til søndag kl. 24:00. For fartøy som ikke lander flere ganger per uke, regnes bifangsten i vekt i de enkelte fangster og ved landing.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Stopp i fisket og bifangst for fartøy på eller over 28 meter største lengde",
+      "path": [
+        "Kapittel 3. Regulering av fisket etter lange"
+      ],
+      "text": "For fartøy som ikke har adgang til å delta i fisket, er det ved fiske etter andre fiskeslag med stormasket trål tillatt å ha inntil 10 % lange i de enkelte fangster og ved landing.\nFor fartøy som ikke har adgang til å delta i fisket, er det ved fiske ved fiske etter andre fiskeslag med konvensjonelle redskap tillatt å ha inntil 15 % lange i de enkelte fangster og ved landing.\nFisket etter lange for fartøy på eller over 28 meter største lengde stoppes med virkning fra 22. januar 2026. For fartøy som har adgang til å delta i fisket, er det ved fiske etter andre fiskeslag tillatt å ha inntil 35 % bifangst av lange i de enkelte fangster og ved landing.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Overføring av fangst",
+      "path": [
+        "Kapittel 4. Fellesbestemmelser"
+      ],
+      "text": "Kvantumet som kan fiskes med det enkelte fartøy kan ikke overføres til annet fartøy. Det er også forbudt å motta og å lande fangst som er fisket av et annet fartøy.\nDet er ikke tillatt å overføre fangst som er tatt om bord.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Bemyndigelse",
+      "path": [
+        "Kapittel 4. Fellesbestemmelser"
+      ],
+      "text": "Fiskeridirektoratet kan stoppe fisket etter brosme og lange når totalkvotene eller gruppekvotene er beregnet oppfisket.\nFiskeridirektoratet kan endre forskriften og fastsette nærmere bestemmelser som er nødvendige for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av fisket.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 4. Fellesbestemmelser"
+      ],
+      "text": "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til havressurslova § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 4. Fellesbestemmelser"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, straffes i henhold til havressurslova §§ 60, 61, 64 og 65 og deltakerloven § 31. På samme måte straffes forsøk og medvirkning.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Fellesbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026 og gjelder til og med 31. desember 2026.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    }
+  ]
+}

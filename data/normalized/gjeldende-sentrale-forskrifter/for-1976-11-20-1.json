@@ -1,0 +1,55 @@
+{
+  "id": "FOR-1976-11-20-1",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om å fjerne horn på dyr",
+  "short_title": "Forskrift om å fjerne horn på dyr",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1977-01-01",
+  "last_change_in_force": "2010-08-06",
+  "last_changed_by": "forskrift/2010-08-06-1147",
+  "lovdata_refid": "forskrift/1976-11-20-1",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1976-11-20-1",
+  "raw_xml_sha256": "924b6ee2ea61250602e1b47bf8c6f90622121a1a0cd785219f8a44bdca16e17b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Tamrein.",
+      "path": [],
+      "text": "I den tid hornene ikke er huddekket, er det tillatt å fjerne den del av hornet som er ovenfor det huddekkede parti ved hornroten.\nInngrepet må foretas med dertil egnet redskap, fortrinnsvis sag, og kan skje uten at dyret bedøves.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Andre dyr.",
+      "path": [],
+      "text": "Det er tillatt å fjerne hornanlegg på dyr som er under 6 uker gammelt.\nNår særlige grunner tilsier det, kan Mattilsynet gi tillatelse til å fjerne horn på dyr som er over 6 uker gammelt.\nAll avhorning i henhold til denne paragraf kan bare foretas av veterinær og mens dyret er bedøvet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Uten hinder av bestemmelsene i §§ 1 og 2 kan veterinær fjerne hornanlegg og horn når inngrepet er nødvendig av veterinærmedisinske grunner.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft 1. januar 1977.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

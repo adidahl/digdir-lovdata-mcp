@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2015-05-26-547",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om plikt til å gi opplysninger om drift av fiske- og fangstfartøy",
+  "short_title": "Forskrift om plikt til å gi opplysninger om drift av fiskefartøy mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2015-05-26",
+  "lovdata_refid": "forskrift/2015-05-26-547",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-05-26-547",
+  "raw_xml_sha256": "6d20a8a37988e213914e26e08c16bf094f3f869f657711e947655a83fdb40af5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne forskriften er å gi Fiskeridirektoratet mulighet til å utarbeide lønnsomhetsundersøkelser, utvikle forvaltningsstrategier og legge til rette for en best mulig forvaltning av ressursene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder eier og bruker av norske fiske- og fangstfartøy.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opplysninger om drift",
+      "path": [],
+      "text": "Fartøyeier eller bruker av fiske- og fangstfartøy skal når Fiskeridirektoratet bestemmer det sende regnskapsopplysninger og andre opplysninger om fartøyets drift til Fiskeridirektoratet innen nærmere fastsatt frist.\nOpplysningene skal leveres i henhold til skjema fastsatt av Fiskeridirektoratet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Bemyndigelse",
+      "path": [],
+      "text": "Fiskeridirektoratet kan fastsette nærmere bestemmelser om hvilke driftsopplysninger som skal gis og hvordan disse skal sendes inn.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tvangsmulkt",
+      "path": [],
+      "text": "For å sikre at pålegg gitt i medhold av denne forskriften blir fulgt, kan Fiskeridirektoratet ilegge den ansvarlige løpende tvangsmulkt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

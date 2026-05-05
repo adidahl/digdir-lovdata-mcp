@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2023-10-27-1706",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fordeling av formue til frivillig virksomhet til fordel for barn og unge når avdøde ikke har arvinger",
+  "department": "Kultur- og likestillingsdepartementet",
+  "date_in_force": "2023-10-27",
+  "lovdata_refid": "forskrift/2023-10-27-1706",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-10-27-1706",
+  "raw_xml_sha256": "9c6385e5b4af16a615655d46f0c819723fe25f1c9c8e3a9cc793707339eb7b0e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å gi nærmere bestemmelser om fordeling av midler til frivillig virksomhet rettet mot barn og unge. Frivillig virksomhet rettet mot barn og unge med funksjonsnedsettelser skal bli prioritert.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjon",
+      "path": [],
+      "text": "Med fordeling av midler etter § 1 menes fordeling av formue hvis avdøde ikke har arvinger etter lov eller testamente som omtalt i arveloven § 76 første ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Mottakere av midlene",
+      "path": [],
+      "text": "Nasjonale og regionale organisasjoner som driver frivillig virksomhet for barn og unge kan søke om midler. Organisasjonene skal være registrert i Frivillighetsregisteret.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fordeling av midlene",
+      "path": [],
+      "text": "Midlene skal fordeles av Landsrådet for Norges barne- og ungdomsorganisasjoner (LNU), i tråd med formålet og etter gjeldende retningslinjer fastsatt av LNU og godkjent av Kultur- og likestillingsdepartementet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 27. oktober 2023.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

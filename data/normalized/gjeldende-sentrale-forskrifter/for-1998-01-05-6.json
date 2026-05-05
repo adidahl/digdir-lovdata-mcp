@@ -1,0 +1,398 @@
+{
+  "id": "FOR-1998-01-05-6",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip",
+  "short_title": "Forskrift om bygging mv av hurtiggående fartøy",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1998-07-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-19-2807 fra 2026-01-01",
+  "lovdata_refid": "forskrift/1998-01-05-6",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-01-05-6",
+  "raw_xml_sha256": "1b4595de4f1f49307d726bf53910614a54a60ab98714d7a3e2b3d5f472413179",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "(1) Denne forskriften gjelder for norske fartøy som nevnt i denne paragrafen.(2) HSC94-koden, sist endret ved MSC.536(107), og HSC2000-koden, sist endret ved MSC.537(107), gjelder som forskrift for hurtiggående fartøy med de tillegg og innskrenkninger som følger av forskriften.(3) Nye hurtiggående passasjerfartøy som opererer i:utenriksfart,innenriksfart i Norge når fartøyet har en lengde (L) på 24 m eller mer og kan oppnå en hastighet på 20 knop eller mer,innenriksfart i en vertsstat,skal bygges, utrustes og drives i henhold til HSC2000-koden.(4) For eksisterende hurtiggående passasjerfartøy1 med lengde (L) 24 m eller mer i innenriks fart og som kan oppnå en hastighet på 20 knop eller mer gjelder følgende:Hurtiggående passasjerfartøy som er bygd eller som det er foretatt større reparasjoner, forandringer eller ombygging av, på eller etter 1. januar 1996, men ikke senere 14. februar 2012, skal oppfylle kravene i HSC94-koden med mindre:kjølen ble strukket eller det var på et tilsvarende byggetrinn senest 1. juli 1998, ogdet ble levert og satt i drift senest 1. januar 1999, ogdet fullt ut oppfyller kravene i IMO Res. A.373(X) 14. november 1977 endret ved IMO Resolusjon MSC.37(63) 19. mai 1994(DSC-koden).Hurtiggående passasjerfartøy bygd før 1. januar 1996 og som oppfyller kravene i HSC94-koden, skal fortsatt være i drift som sertifisert etter denne koden.Hurtiggående passasjerfartøy bygd før 1. januar 1996 og som ikke oppfyller kravene i HSC94-koden, tillates ikke i innenriks fart med mindre det var i drift i innenriks fart i Norge 1. juli 1998. Et slikt fartøy kan fortsette i innenriksfart i Norge og skal oppfylle kravene i IMO-res. A.373(X) av 14. november 1977 som endret ved resolusjon MSC.37(63), MSC.186(79), MSC.224(82) og MSC.360(92) (DSC-koden). Konstruksjons- og utstyrssertifikat og operasjonstillatelse utstedes i samsvar med bestemmelsene i DSC-kodens nr. 1.6.For hurtiggående passasjerfartøy som skal oppfylle kravene i DSC-koden, gjelder bestemmelsene i kapitlene 1, 2 (§ 6 andre ledd, § 7 og § 8), 3, 4, 5 (§ 16, § 17 og § 18), 6 (§ 21 første ledd bokstav b og andre ledd, § 22, § 32 og § 33), 7 og 8.(5) Forskriften gjelder også for nye hurtiggående lasteskip med bruttotonnasje på 500 og derover.(6) For eksisterende hurtiggående fartøy kan Sjøfartsdirektoratet, eller den det bemyndiger, gi pålegg om at fartøyet helt eller delvis skal oppfylle bestemmelsene i denne forskriften. Dette kan være aktuelt ved for eksempel:forandring i anvendelse,utskifting av utstyr,reparasjoner,ombygginger,økt dypgående,økt passasjerantall,innkjøp fra utlandetog kan bare skje etter konkret vurdering av sikkerheten ut fra for eksempel fartøyets generelle byggetekniske utførelse, utstyr, arrangement og tilstand.(7) For eksisterende hurtiggående fartøy som helt eller delvis skal tilfredsstille kravene i denne forskriften, kommer bestemmelsene i § 1, § 12, § 13 , § 14, § 15 og § 16 om tegninger, dokumentasjon, byggetilsyn og begjæring om besiktelse til anvendelse i det omfang som anses påkrevd.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I denne forskriften betyr:Administrasjon: Uttrykket «administrasjon» i koden for hurtiggående fartøy skal forstås som Sjøfartsdirektoratet, jf. kodens kapittel 1 nr. 1.4.1.Anerkjent klasseinstitusjon: Klasseinstitusjoner som departementet har inngått overenskomst med i medhold av skipssikkerhetsloven § 41:Det Norske Veritas (DNV)Lloyd's Register of Shipping (LRS)Bureau Veritas (BV)Germanischer Lloyd (GL)American Bureau of Shipping (ABS).Disse klasseinstitusjonene er også godkjente av Direktoratet for samfunnssikkerhet og beredskap (DSB) for kontroll av elektriske anlegg.Bruttotonnasje: Den tallverdi som er oppgitt som bruttotonnasje i målebrevet. Dersom det i målebrevet er oppgitt sikkerhetstonnasje i anmerkningsrubrikken, gjelder tallverdien for denne som bruttotonnasje.Eksisterende fartøy: Hurtiggående fartøy som ikke er nytt fartøy.Godkjent, typegodkjent og akseptert:For utstyr som omfattes av skipsutstyrsforskriften: Typegodkjent av teknisk kontrollorgan og merket i henhold til nevnte forskrift.For annet utstyr;Godkjent: Et enkelt utstyr godkjent av Sjøfartsdirektoratet, med unntak av radioutstyr som godkjennes av Post- og teletilsynet.Typegodkjent: Prototype godkjent av Sjøfartsdirektoratet med eller uten stikkprøvekontroll av serieproduksjon.Akseptert: Utstyr akseptert av Sjøfartsdirektoratet på bakgrunn av at det er godkjent eller typegodkjent av anerkjent klasseinstitusjon, annen offentlig eller privat institusjon, eller administrasjonen i et land som har ratifisert Sjøsikkerhetskonvensjonen.– – –Hurtiggående fartøy: Som definert i regel X/1 i SOLAS 1974 med senere endringer.Hurtiggående passasjerfartøy: Et hurtiggående fartøy som fører mer enn 12 passasjerer.Hurtiggående roro passasjerfartøy: Et hurtiggående passasjerfartøy med roro lasterom eller rom av særskilt kategori som definert i Sjøsikkerhetskonvensjonens regel II-2/3 eller hurtiggående passasjerfartøy med innretninger som tillater vegtrafikkerende kjøretøy eller skinnegående materiell å kjøre om bord og av fartøyet.Passasjerfartøy i innenriks fart der det ikke på noe tidspunkt er mer enn 20 nautiske mil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde, regnes ikke som hurtiggående passasjerfartøy, når:dets deplasement tilsvarende konstruksjonsvannlinjen er mindre enn 500 m3 ogdets største hastighet som definert i regel 1.4.30 i HSC94-koden for hurtiggående fartøy eller regel 1.4.38 i HSC2000-koden for hurtiggående fartøy er mindre enn 20 knop.Innenriks fart: Reiser fra en havn i en stat til samme havn eller til en annen havn i den samme staten.Klassifisert fartøy: Hurtiggående fartøy som har klasse i anerkjent klasseinstitusjon.HSC2000-koden: De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.97(73), sist endret ved MSC.537(107).HSC94-koden: De internasjonale sikkerhetsreglene for hurtiggående fartøy fastsatt ved IMO-resolusjon MSC.36(63), sist endret ved MSC.536(107).Nytt fartøy: Hurtiggående fartøy hvor kjølen strekkes, eller som er på et tilsvarende byggetrinn, på eller etter 14. februar 2012. Et tilsvarende byggetrinn betyr det trinn der:bygging kan identifiseres som et bestemt fartøy, ogmontering av vedkommende fartøy er begynt og utgjør minst 50 tonn eller 1 % av den beregnede masse av alle konstruksjonsmaterialer, dersom denne verdien er mindre.Rutetrafikk: En rekke seilinger med hurtiggående passasjerfartøy for å sikre forbindelsen mellom de samme to eller flere havner, eller en rekke seilinger til og fra samme havn uten mellomliggende anløp, enteni henhold til en offentliggjort ruteplan, ellermed slik regelmessighet eller hyppighet at de fremstår som en systematisk rekke seilinger.Skipssikkerhetsloven: Lov 16. februar 2007 nr. 9 om skipssikkerhet.Sjøsikkerhetskonvensjonen: Den internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974, med senere endringer (SOLAS 74).Uklassifisert fartøy: Hurtiggående fartøy som ikke har klasse i anerkjent klasseinstitusjon.Utenriks fart: En reise fra en havn i en stat til en havn utenfor vedkommende stat eller omvendt.Vertsstat: En stat innenfor EØS til eller fra hvis havner et hurtiggående fartøy som uansett flagg går i innenriks fart eller et hurtiggående roro passasjerfartøy som uansett flagg går i rutetrafikk i innenriks eller i utenriks fart.\nFor øvrig gjelder de definisjoner som er inntatt i Sjøsikkerhetskonvensjonens kapittel X og koden for hurtiggående fartøy.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fravik",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig. Fravik må ikke være i strid med internasjonal overenskomst Norge har sluttet seg til.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Konvensjoner",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "Koden for hurtiggående fartøy, jf. Sjøsikkerhetskonvensjonens kapittel X, skal følges med de unntak, tillegg og spesielle krav som følger av kapittel 6 i denne forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Resolusjoner",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "(1) Kravene i IMO Assembly resolusjoner skal følges slik det fremgår av koden for hurtiggående fartøy og de enkelte paragrafer i denne forskriften.(2) Eksisterende hurtiggående passasjerfartøy skal følge kravene i DSC-koden, med mindre hurtigbåtkoden skal følges, jf. § 1 fjerde ledd.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7a",
+      "heading": "Signifikante bølgehøyder",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "De signifikante bølgehøydene (hs ) skal brukes til å bestemme vannivået på bildekket ved anvendelse av de særlige stabilitetskravene i § 8. Tallene for signifikante bølgehøyder må ikke overskrides med en sannsynlighet på mer enn 10% på årlig basis.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Spesielle stabilitetskrav for hurtiggående roro-passasjerfartøy i rutetrafikk i utenriksfart eller i innenriksfart i områder som er omfattet av klasse A",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "(1) I tillegg til kravene i Sjøsikkerhetskonvensjonen regel II-1/B/8 om vanntette oppdelingsskott og stabilitet i skadet tilstand, skal alle hurtiggående roro-passasjerfartøy oppfylle kravene i paragrafen her.(2) Hurtiggående roro-passasjerfartøy som har godkjent modellforsøk i samsvar med modellforsøksmetoden som gjaldt før 10. mars 2006, trenger ikke å gjennomføre dette forsøket i samsvar bestemmelsene i sjette ledd i paragrafen her.(3) Bestemmelsene i regel II-1/B/8.2.3 skal overholdes når det tas hensyn til virkningen av en hypotetisk mengde sjøvann som antas å ha samlet seg på det første dekket over konstruksjonsvannlinjen i roro-lasterommet eller spesiallasterommet som definert i regel II-2/3, og som antas å være skadet (heretter kalt «det skadde roro-dekket»). Det er ikke nødvendig å overholde de andre kravene i regel II-1/B/8 ved anvendelsen av stabilitetsstandarden i paragrafen her. Mengden av antatt oppsamlet sjøvann skal beregnes på grunnlag av en vannflate med en konstant høyde over:det laveste punktet på dekkskanten i det skadde rommet på roro-dekket, ellernår dekkskanten i det skadde rommet står under vann, er beregningen basert på en konstant høyde over stillevannsnivå ved alle krengings- og trimvinkler,på følgende måte:0,5 m dersom gjenværende fribord (fr ) er 0,3 m eller mindre,0,0 m dersom gjenværende fribord (fr ) er 2,0 m eller mer, ogmellomliggende verdier fastsettes ved lineær interpolasjon, dersom gjenværende fribord (fr ) er 0,3 m eller mer, men mindre enn 2,0 m,der gjenværende fribord (fr ) er den minste avstand mellom det skadde roro-dekket og den endelige vannlinjen på skadestedet i det skadetilfellet som vurderes, uten at det tas hensyn til virkningen av vannmengden som antas å ha samlet seg på det skadde roro-dekket.(4) Dersom det er installert et lensesystem med høy effektivitet, kan Sjøfartsdirektoratet tillate en reduksjon i høyden til vannflaten.(5) For skip i geografisk definerte avgrensede fartsområder kan Sjøfartsdirektoratet redusere høyden til vannflaten fastsatt i samsvar med tredje ledd ved å erstatte en slik høyde til vannflaten med følgende:0,0 m dersom den signifikante bølgehøyden (hs ) definert i det aktuelle området er 1,5 m eller mindre,verdien fastsatt i samsvar med annet ledd dersom den signifikante bølgehøyden (hs ) definert i det aktuelle området er 4,0 m eller høyere,mellomliggende verdier fastsettes ved lineær interpolasjon dersom den signifikante bølgehøyden (hs ) definert i det berørte området er 1,5 m eller mer, men mindre enn 4,0 m,forutsatt at følgende vilkår er oppfylt:Sjøfartsdirektoratet er overbevist om at det definerte området er representert med den signifikante bølgehøyden (hs ) som ikke overskrides med en sannsynlighet på mer enn 10%, ogfartsområdet, og eventuelt den del av året som en viss verdi for signifikant bølgehøyde (hs ) er fastsatt for, er oppført i sertifikatene.(6) Som (et) alternativ til kravene i tredje eller femte ledd kan Sjøfartsdirektoratet gi fritak fra disse kravene og godta verifikasjon utarbeidet med modellforsøk for et enkelt skip i samsvar med modellforsøksmetoden,2 som viser at skipet ikke vil kantre med det antatte skadeomfanget fastsatt i regel II-1/B/8.4 på det verste stedet vurdert i henhold til tredje ledd i en uregelmessig sjøgang.(7) Henvisning til godkjenning av resultatene fra modellforsøket som likeverdig med overholdelse av tredje eller femte ledd og verdien av den signifikante bølgehøyden (hs ) brukt i modellforsøkene skal være påført skipets sertifikater.(8) Opplysningene gitt til skipsføreren i samsvar med regel II-1/B/8.7.1 og II-1/B/8.7.2 og som er utviklet for overholdelse av regel II-1/B/8.2.3 til II-1/B/8.2.3.4, skal gjelde uendret for roro-passasjerskip godkjent i henhold til disse kravene.(9) Følgende bestemmelser skal gjelde ved vurdering av virkningen av mengden av antatt oppsamlet sjøvann på det skadde roro-dekket som nevnt i tredje til åttende ledd:Et tverrskips- eller langskipsskott skal betraktes som intakt dersom alle deler av det ligger innenfor vertikale flater på begge sider av skipet, når disse befinner seg i en avstand fra hudplatene på en femtedel av skipets bredde, som definert i regel II-1/2, og målt i rette vinkler til senterlinjen i høyde med den dypeste oppdelingslastelinjen.I tilfeller der skipets skrog er delvis utvidet strukturelt i bredden for å oppfylle bestemmelsene i paragrafen her, skal den resulterende økningen i verdien på en femtedel av dets bredde brukes gjennomgående, men skal ikke bestemme plasseringen av eksisterende skottgjennomtrengninger, rørsystemer, osv., som var akseptable før utvidelsen.Den tetthet i tverrskips- og langskipsskott som betraktes som tilstrekkelig for å innslutte det antatt oppsamlede sjøvannet i det aktuelle rommet på det skadde roro-dekket, skal stå i forhold til lensesystemet, og skal motstå hydrostatisk trykk i samsvar med resultatene fra skadeberegningen. Slike skott skal være minst 4 meter høye, med mindre vannivået er mindre enn 0,5 meter. I slike tilfeller kan høyden på skottet beregnes i samsvar med følgende formel:Bh = 8hwderBh er høyden på skottetog hw er vannivået.Skottets minstehøyde skal i alle tilfeller ikke være mindre enn 2,2 meter. Når det dreier seg om skip med hengedekk, skal imidlertid skottets minstehøyde ikke være mindre enn avstanden til undersiden av hengedekket når dette er i senket stilling.For særlige ordninger som for eksempel hengedekk i full bredde og brede sidehus, vil det kunne godtas andre skotthøyder basert på detaljerte modellforsøk.Virkningen av mengden av antatt oppsamlet sjøvann behøver ikke tas i betraktning for rom på det skadde roro-dekket, forutsatt at et slikt rom på hver side av dekket har lenseporter som er jevnt fordelt langs rommets sider i samsvar med følgende:A ≥ 0,3 lder A er det totale område med lenseporter på hver side av dekket i m2, og l er lengden av rommet i m.Gjenværende fribord skal være minst 1,0 m i den verste skadetilstanden uten at det tas hensyn til virkningen av den antatte vannmengden på det skadde roro-dekket; ogSlike lenseporter skal være plassert innenfor en høyde på 0,6 m over det skadde roro-dekket, og den nedre kanten av portene skal ligge innen 2 cm over det skadde roro-dekket; ogSlike lenseporter skal være utstyrt med lukkeinnretninger eller klaffer for å hindre vann i å trenge inn på roro-dekket, mens de tillater at vann som samler seg på roro-dekket, lenses.Når et skott over roro-dekket antas å være skadet, skal begge rommene som grenser til skottet antas å være fylt til det samme vannivået som beregnet i tredje eller femte ledd.(10) Ved bestemmelse av signifikant bølgehøyde skal den bølgehøyde som fremgår av kartene i vedlegg 13 til forskriften her legges til grunn.(11) For hurtiggående roro-passasjerfartøy som utelukkende trafikkerer havområder hvor den signifikante bølgehøyde er 1,5 m eller lavere, anses kravene i Sjøsikkerhetskonvensjonen regel II-1/B/8 som nevnt i første ledd som ekvivalent til de særlige stabilitetskrav som er fastsatt i paragrafen her.(12) For hurtiggående roro-passasjerskip som bare er i trafikk i en kortere periode, bestemmer Sjøfartsdirektoratet, etter avtale med den andre staten hvis havn skipet anløper på sin rute, hvilken signifikant bølgehøyde som skal brukes.(13) Ved anvendelse av kravene i paragrafen her, skal Sjøfartsdirektoratet følge retningslinjene som er fastsatt i vedlegg II (Retningslinjer for nasjonale myndigheter) til direktiv 2003/25/EF av 14. april 2003 om særlige stabilitetskrav for roro-passasjerskip, endret ved direktiv 2005/12/EF av 18. februar 2005.(14) For hurtiggående roro-passasjerfartøy som skal gå i rutefart i andre områder enn de som dekkes av kartene i vedlegg 13 , jf. § 8C, skal en signifikant bølgehøyde på 4 meter legges til grunn med mindre det kan dokumenteres at en mindre signifikant bølgehøyde kan legges til grunn.(15) Når det foretas modellforsøk, skal disse utføres i samsvar med vedlegg 2.(16) Hurtiggående roro-passasjerfartøy som er kjølstrukket på eller som var på et tilsvarende byggetrinn før 1. oktober 2004, med unntak for slike skip som nevnt i ellevte ledd, skal senest 1. oktober 2010 oppfylle kravene i paragrafen her.(17) Hurtiggående roro-passasjerfartøy som 17. mai 2003 oppfylte kravene i Sjøsikkerhetskonvensjonen regel II-1/B/8, skal senest 1. oktober 2015 oppfylle kravene i paragrafen her.(18) Hurtiggående roro-passasjerfartøy som fullt ut oppfyller kravene i hurtigbåtkoden, trenger ikke å oppfylle kravene i paragrafen her.(19) Til hurtiggående roro-passasjerfartøy som skal oppfylle kravene i paragrafen her, skal det utstedes ett vedlegg til sikkerhetssertifikatet for hurtiggående fartøy. Av vedlegget skal det framgå opp til hvilken signifikant bølgehøyde skipet kan oppfylle de særlige stabilitetskravene som kreves i paragrafen her. Vedlegget er gyldig så lenge skipet trafikkerer et område med tilsvarende eller lavere signifikant bølgehøyde.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8b",
+      "heading": "Sesongbestemt og tidsbegrenset rutetrafikk",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "(1) Dersom et rederi som på helårsbasis driver rutetrafikk ønsker å sette i drift flere hurtiggående roro-passasjerfartøy som skal benyttes på samme rute i en kortere periode, skal det underrette Sjøfartsdirektoratet senest en måned før nevnte skip trafikkerer denne ruten. Når det som følge av uforutsette omstendigheter raskt må settes inn et annet hurtiggående roro-passasjerfartøy for å sikre at driften opprettholdes, kan skipet settes inn i trafikk, forutsatt at:visuell inspeksjon og kontroll av dokumentene ikke gir grunn til bekymring for at skipet ikke oppfyller nødvendige krav til sikker drift, ogSjøfartsdirektoratet innen en måned foretar kontroll og de besiktelser som er fastsatt i forskriften her.(2) Dersom et rederi ønsker å drive sesongbasert rutetrafikk i en kortere periode som ikke overstiger seks måneder per år, skal det underrette Sjøfartsdirektoratet senest tre måneder på forhånd.(3) Når slik trafikk finner sted under forhold med lavere signifikant bølgehøyde enn den som er fastsatt for samme havområde for helårstrafikk, skal Sjøfartsdirektoratet ved anvendelse av de særlige stabilitetskravene i § 8 bruke den signifikante bølgehøyden som får anvendelse i denne kortere perioden for å bestemme vannivået på dekk. Den signifikante bølgehøyden som får anvendelse i denne kortere perioden skal fastsettes av Sjøfartsdirektoratet, eller ved overenskomst med vedkommende EØS-stat når skipet skal gå i rutefart i denne staten.(4) Når det er gitt tillatelse til slik trafikk som er fastsatt i første og andre ledd, skal det utstedes et vedlegg til operasjonstillatelsen, § 20 tredje ledd.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 8c",
+      "heading": "Havområder",
+      "path": [
+        "Kapittel 2. Internasjonale krav"
+      ],
+      "text": "(1) Det skal utarbeides en liste over havområder der hurtiggående roro passasjerfartøy seiler i rutetrafikk i utenriks fart til eller fra norske havner og de tilsvarende verdier for signifikante bølgehøyder i disse områdene.(2) Havområdene og de signifikante bølgehøyder som får anvendelse i disse områdene skal fastsettes ved felles overenskomst mellom EØS-statene, eller når det er relevant og mulig, mellom EØS-stater og tredjestater på begge ender av ruten.(3) Dersom fartøyets rute krysser mer enn ett havområde, skal skipet oppfylle de spesielle stabilitetskravene for den høyeste signifikante bølgehøyden som er fastsatt for disse områdene.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Godkjenning av utstyr",
+      "path": [
+        "Kapittel 3. Godkjenning av utstyr"
+      ],
+      "text": "(1) Utstyr som kreves etter bestemmelsene i forskriften her og i hurtigbåtkoden skal være godkjent, typegodkjent eller akseptert.(2) Utstyr som oppfyller kravene i forskrift 30. august 2016 nr. 1042 om skipsutstyr, anses å være i samsvar med kravene i forskriften her, uansett om det etter første ledd og i andre relevante forskrifter kreves at utstyret skal være godkjent, typegodkjent eller akseptert.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Meldeplikt",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) Straks det er inngått kontrakt om bygging av hurtiggående fartøy skal melding sendes til Sjøfartsdirektoratet eller den det bemyndiger. Melding skal innsendes i tre eksemplarer på fastsatt skjema.(2) Ved kansellering, endringer i kontraktsforholdet e.l. som medfører at fartøyet ikke lenger skal registreres under norsk flagg, eller ved endringer i fartøyets utforming, skal det straks sendes melding til Sjøfartsdirektoratet eller den det bemyndiger.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Tegninger og annen dokumentasjon",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) Tegninger og annen dokumentasjon som skal sendes inn, er angitt i den til enhver tid gjeldende tegnings- og dokumentasjonsliste for hurtiggående fartøy som Sjøfartsdirektoratet har utferdiget.(2) Stabilitetsberegninger og beregninger av brutto- og nettotonnasje, samt dokumentasjonsunderlag, skal utføres ved hjelp av et godkjent EDB-program. Samme database skal benyttes til stabilitets- og tonnasjeberegninger. Dokumentasjonen skal presenteres på en oversiktlig måte. Stabilitetsberegninger og tonnasjeberegningene skal innsendes samlet, men i separate hefter.(3) Hvor ikke annet er bestemt, skal tegninger og annen dokumentasjon innsendes i 3 eksemplarer til Sjøfartsdirektoratets stasjon når fartøyet skal bygges eller ombygges i Norge, eller til den Sjøfartsdirektoratet har bemyndiget.(4) For hurtiggående fartøy som bygges eller ombygges i utlandet eller innkjøpes fra utlandet, skal tegninger og annen dokumentasjon sendes direkte til Sjøfartsdirektoratet, med mindre annet er bestemt.(5) Ansvarlig for innsendelse av tegninger og dokumentasjon er byggeverkstedet og rederiet, på samme måte som etter § 10.(6) Hvor det ikke er gitt konkrete tidsfrister for innsendelse av dokumentasjon, må tegninger og annen dokumentasjon innsendes så tidlig som mulig, slik at det gis rimelig tid til behandling av dokumentasjonsunderlaget før besiktelse skal foretas og påbudte sertifikater kan utstedes.(7) For hurtiggående fartøy med nye og spesielle konstruksjonsløsninger eller særskilte operasjonelle forhold, kan Sjøfartsdirektoratet kreve at det utarbeides risikoanalyser eller annen dokumentasjon ut over det som er spesifisert i tegnings- og dokumentasjonslisten.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Byggetilsyn",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) Når hurtiggående fartøy bygges, ombygges eller forandres, skal det av Sjøfartsdirektoratet eller den det har bemyndiget, foretas byggetilsyn i det omfang som anses påkrevd. Tilsynet skal utføres bl.a. på grunnlag av foreliggende tegnings- og dokumentasjonsunderlag. Begjæring og tilretteleggelse for byggetilsyn påhviler både verksted og rederi ved bygging i Norge og rederi (bestiller) ved bygging i utlandet.(2) Ved mindre ombygginger eller forandringer plikter verksted og rederi å underrette kontrollinstansen.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Byggekrav",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) For hurtiggående fartøy som helt eller delvis bygges av glassfiberarmert polyester eller andre støpte materialer, skal besiktelse etter § 12 også omfatte kontroll av produksjonsforhold og lokaliteter som skal være i overensstemmelse med reglene til Det Norske Veritas eller tilsvarende regler om produksjonsforhold mv. Dersom det kan dokumenteres at produksjonsforhold mv. tidligere er kontrollert og funnet i orden, og de senere ikke er endret, er ny kontroll av produksjonsforhold og lokaliteter ikke påkrevd.(2) Produsenten skal ved byggetilsynet av det enkelte fartøy dessuten kunne fremlegge dokumentasjon på at produksjon og produksjonsforhold, materialbruk mv. for det aktuelle fartøy, er i henhold til reglene.(3) For klassifiserte lastefartøy er klasseinstitusjonen generelt bemyndiget til å foreta besiktelser innenfor klasseområdene. For øvrige områder på klassifiserte lastefartøy, i sin helhet på uklassifiserte hurtiggående fartøy, samt passasjerfartøy uansett klassetilknytning, foretas slik besiktelse av Sjøfartsdirektoratet, eller den det bemyndiger.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Klassifiserte hurtiggående fartøy",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) Klassifisert hurtiggående fartøy skal med hensyn til dimensjonering og konstruksjon av skrog, vanntette skott med lukningsmidler for åpninger i skott, overbygninger, dekkshus, ror, fortøyningsutstyr mv. tilfredsstille vedkommende klasseinstitusjons regler i relasjon til byggematerialer, størrelse, type og anvendelse.(2) Klassifisert hurtiggående fartøy skal med hensyn til maskineri, elektriske anlegg, styremaskin, pumper, rørsystemer mv. samt stabiliseringssystemer og retningskontrollsystemer tilfredsstille vedkommende klasseinstitusjons regler i relasjon til type og anvendelse.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 15",
+      "heading": "Uklassifiserte hurtiggående fartøy",
+      "path": [
+        "Kapittel 4. Meldinger, dokumentasjon og kontroll"
+      ],
+      "text": "(1) Uklassifisert hurtiggående fartøy skal med hensyn til de forhold som er nevnt i § 14, tilfredsstille reglene til anerkjent klasseinstitusjon for hurtiggående fartøy.(2) Utførelsen av elektriske anlegg skal være i henhold til den til enhver tid gjeldende forskrift for elektriske anlegg, maritime installasjoner fastsatt av DBE, eller i henhold til regler fra anerkjent klasseinstitusjon som er godkjent av DBE for kontroll av elektriske anlegg på skip og lektere.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Begjæring om besiktelse for påbudte sertifikater",
+      "path": [
+        "Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg"
+      ],
+      "text": "(1) For å få hurtiggående fartøy besiktet for påbudte sertifikater, skal reder eller fører i god tid før besiktelsen ønskes, sende begjæring om dette. For periodiske besiktelser og besiktelse for fornyelse skal begjæring sendes senest 1 måned før dato angitt i sertifikatet. Begjæringen fremsettes skriftlig på fastsatt skjema som fås ved henvendelse til Sjøfartsdirektoratet. Ønsket tid og sted for besiktelsen skal angis.(2) Når det sendes inn begjæring om besiktelse av hurtiggående fartøy som ikke er nytt, og som ikke tidligere har vært norsk, skal det sammen med begjæringen sendes generalarrangementstegning i plan og profil, opplysninger om redningsutstyret, stabilitet, brannsikrings- og brannslokningsarrangement, eventuelt slepe- og ankerhåndteringsutstyr samt om innredningsarrangementet om bord. Dersom det gjelder innkjøp av passasjerfartøy som ikke er klassifisert, skal det dessuten innsendes hovedtegninger av skrog og tegninger av maskinarrangementet. Ved innkjøp av hurtiggående fartøy av glassfiberarmert polyester eller andre støpte materialer, skal det i tillegg innsendes dokumentasjon om fartøyets opprinnelse og om produksjonsforhold, materialbruk, materialkvalitet mv. Dersom ikke nødvendig dokumentasjon fremlegges, kan det bli forlangt uttatt prøvestykke av skroglaminat for materialprøve.(3) Begjæringen sendes til Sjøfartsdirektoratets stasjon der besiktelsen skal utføres.(4) For besiktelse i utlandet skal det for nybygg sendes begjæring til Sjøfartsdirektoratet. For seilende hurtiggående fartøy sendes begjæring til Sjøfartsdirektoratets stasjon i de havner hvor Sjøfartsdirektoratet har fast skipsinspektør, og ellers til nærmeste norske utenriksstasjon.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Generelle bestemmelser om gjennomføring av besiktelsene",
+      "path": [
+        "Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg"
+      ],
+      "text": "(1) Når hurtiggående fartøy blir besiktet, skal reder eller fører sørge for at Sjøfartsdirektoratet får slik bistand som måtte være påkrevd. Om nødvendig kan Sjøfartsdirektoratet tilkalle arbeidshjelp, og utgiftene til dette skal betales av rederen.(2) Eventuelle pålegg og en frist for å etterkomme dem, skal anføres i en påleggsliste som vedlegges sertifikatet.(3) Sjøfartsdirektoratet kan også kontrollere forhold som de anerkjente besiktelsesinstitusjoner kontrollerer ved klassifisering av nybygg, ved besiktelse for opptak i klasse og ved fornyelse av klasse for eksisterende hurtiggående fartøy.(4) Ved gjennomføring av besiktelsene skal IMO Res. A.746(18) om retningslinjer etter det harmoniserte system for besiktelse og sertifisering med endringer gjeldende pr. 17. mars 1998 følges.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Besiktelse av elektriske anlegg",
+      "path": [
+        "Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg"
+      ],
+      "text": "(1) Ved begjæring om besiktelse av elektriske anlegg1 med spenning høyere enn 50 V gjelder følgende:For besiktelse av nye anlegg om bord i hurtiggående fartøy som bygges i Norge, sendes begjæring om besiktelse til Direktoratet for brann- og elsikkerhet (DBE). Ved bygging i utlandet sendes begjæring om besiktelse til Sjøfartsdirektoratet.Når anlegget er ferdig installert og eventuelle pålegg er etterkommet, utferdiger DBE en tilsynserklæring som skal oppbevares om bord sammen med sertifikatene.(2) Ved utstedelse av installasjonsbevis for elektriske anlegg med spenning på 50 V og lavere gjelder følgende:For hurtiggående fartøy som bygges i Norge, skal installasjon av anlegget foretas av elektroinstallatør, eller akseptert elektroforetak.Elektroinstallatøren eller akseptert elektroforetak skal for det ferdige anlegget utferdige et installasjonsbevis i 3 eksemplarer på skjema fastsatt av Sjøfartsdirektoratet. Ett eksemplar skal beholdes om bord og to eksemplarer sendes Sjøfartsdirektoratet.Ved bygging i utlandet skal reders begjæring om besiktelse av anlegget rettes til Sjøfartsdirektoratet, som oppnevner anerkjent klasseinstitusjon, DBE, eller akseptert elektroforetak til å besikte anlegget. Vedkommende skal utferdige installasjonsbevis i 3 eksemplarer. 1 eksemplar skal beholdes om bord og 2 eksemplarer sendes Sjøfartsdirektoratet.(3) For periodiske besiktelser av elektriske anlegg med høyere spenning enn 50 V gjelder følgende:Besiktelse av hurtiggående fartøy foretas av DBE og melding om utført besiktelse sendes Sjøfartsdirektoratet.Periodiske besiktelser foretas:For hurtiggående passasjerfartøy i internasjonal fart; minst en gang hver 12. måned.For hurtiggående passasjerfartøy i nasjonal fart; minst en gang hvert 5. år.For hurtiggående lastefartøy med bruttotonnasje på 500 og derover, minst engang hvert 5. år.(4) For periodiske besiktelser av elektriske anlegg med spenning på 50 V og lavere gjelder følgende:For hurtiggående fartøy som omfattes av denne forskriften, skal anlegget kontrolleres av elektroinstallatør eller akseptert elektroforetak minst en gang hvert 5. år. Kontrollen skal utføres som angitt på installasjonsbeviset og bekreftes med underskrift på dette.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Sikkerhetssertifikat for hurtiggående fartøy",
+      "path": [
+        "Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg"
+      ],
+      "text": "(1) Sikkerhetssertifikatet og utstyrsfortegnelse for hurtiggående fartøy skal utstedes for et tidsrom på 5 år av Sjøfartsdirektoratet eller den det bemyndiger.(2) Eventuelle unntak gitt med hjemmel i § 4 i forskriften her, skal inntas i sikkerhetssertifikatet.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 20",
+      "heading": "Operasjonstillatelse for hurtiggående fartøy",
+      "path": [
+        "Kapittel 5. Besiktelse for utstedelse av sikkerhetssertifikat og operasjonstillatelse og besiktelse av elektriske anlegg"
+      ],
+      "text": "(1) Operasjonstillatelse for hurtiggående fartøy skal utstedes for et tidsrom på inntil 5 år av Sjøfartsdirektoratet eller den det bemyndiger.(2) Før operasjonstillatelse utstedes for innenriks fart i en vertsstat, skal eventuelle driftsvilkår fastsettes i samråd med vertsstaten. Slike driftsvilkår skal påføres operasjonstillatelsen.(3) For hurtiggående roro-passasjerfartøy som skal oppfylle kravene i § 8 skal det utstedes et vedlegg til operasjonstillatelsen. Av vedlegget skal det framgå opp til hvilken signifikant bølgehøyde skipet kan oppfylle de særlige stabilitetskravene som fastsatt i § 8. Vedlegget er gyldig så lenge skipet trafikkerer et område med tilsvarende eller lavere signifikant bølgehøyde.(4) Fartøy med gyldig sikkerhetssertifikat for hurtiggående fartøy1 kan under forflytning gå utenfor operasjonsområdet angitt i operasjonstillatelsen under forutsetning av at:øvrige begrensninger i operasjonstillatelsen er overholdtreisen foregår i innenriks fart2 uten passasjerer og lastdet er innsendt seilingsplan for forflytningen slik at bemanningen kan vurderes.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Redningsredskaper og redningsmidler",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "(1) For redningsdrakter og redningsmidler gjelder følgende:Alle besetningsmedlemmer, herunder restaurasjonspersonell, skal ha en redningsdrakt.Redningsvester på nye og eksisterende hurtiggående passasjerfartøy skal ha arrangement eller konstruksjon som gjør at redningsvesten er enkel å ta riktig på seg. Redningsvestene skal ha festestropper som ikke behøver å tres gjennom løkker e.l. og som ikke er basert på knyting. Redningsvestene skal dessuten ha skrittstropp eller annen likeverdig løsning som sikrer at den sitter på ved bruk. Redningsvestene skal være utstyrt med lys i henhold til SOLAS regel III/22.3.1 (1996 Amendments) og termisk beskyttelse som tilfredsstiller kravene i IMO MSC/Circ. 922. Kravet om termisk beskyttelse gjelder ikke for skip som kun opererer i farvann mellom 30 ° S og 30 ° N.I passasjerområdet skal alle sitteplasser være utstyrt med et arrangement for plassering av redningsvester under setene, eller de skal være plassert innen arms rekkevidde fra setene. Redningsvester som er beregnet for barn, kan være plassert på passende steder. Redningsvester som overstiger 100% av det tillatte passasjerantallet, kan være plassert på passende steder.På hurtiggående fartøy som etter kodens kapittel 8 nr. 8.10.2 er gitt tillatelse til å benytte åpne redningsflåter, skal hver flåte være utstyrt med termisk beskyttelsesutstyr for det største tillatte passasjertallet. Termisk beskyttelsesutstyr skal minst oppfylle LSA-koden kapittel 2.5.(2) Bestemmelsene om stuing av redningsfarkoster og om innskipningsarrangement i kodens kapittel 8 nr. 8.6.5, 8.7.4 og 8.7.5 gjelder også for eksisterende hurtiggående passasjerfartøy. For eksisterende hurtiggående passasjerfartøy som ikke er sertifisert etter koden for hurtiggående fartøy, vurderes arrangementet i forhold til skadevannlinjer fra foreliggende beregninger. For eksisterende hurtiggående passasjerfartøy hvor det ikke er utført skadeberegninger, vurderes fribordet med nødvendig sikkerhetsmargin til redningsarrangementet slik at tørrskodd evakuering sikres.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Nødbelysning i passasjerinnredningen",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Alle eksisterende hurtiggående passasjerfartøy skal være utstyrt med nødbelysning i passasjerinnredningen som minst oppfyller kravene i kodens kapittel 12 nr. 12.7.9.1 og 12.7.9.2. Nødbelysningen skal de første 30 minuttene kunne virke med en lysstyrke i passasjerinnredningen som er tilstrekkelig for lesing av nødinstrukser og håndtering av redningsvester.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Kompassutrustning",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Hurtiggående fartøy skal i tillegg til magnetkompasset som bestemt i kodens kapittel 13 nr. 13.2.1 være utstyrt med et kompass som minst tilfredsstiller kravene i IMO Res. A.694 (17)«General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids» og IMO Res. A.821(19) «Performance standards forgyro-compasses for high speed craft».",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Farts- og distansemåleranlegg",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "(1) Farts- og distansemåleranlegg som installeres på hurtiggående fartøy i utenriks fart, skal minst tilfredsstille IMO Res. A.824(19) «Performance standards for devices to indicate speed and distance». Anlegget skal dessuten oppfylle kravene i IMO Res. A.694(17), «General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids».(2) Hurtiggående fartøy i innenriks fart kan i stedet for farts- og distansemåleranlegget som nevnt i første ledd, være utstyrt med en innretning som måler fart og distanse og som fungerer tilfredsstillende under alle hastigheter og operasjonsforhold.Innretningen kan være basert på differensiell GPS, dersom operasjonsområdet for fartøyet, har pålitelig dekning og alarm for manglende differensialkorreksjoner er installert.Farts- og distansemåleranlegg som er basert på GPS, skal minst tilfredsstille IMO Res. A.815(19) «World-Wide radionavigation system».Videre skal anlegget minst tilfredsstille IMO Res. A.819(19) «Performance standards for shipborne global position system (GPS) receiver equipment».Anlegget skal oppfylle kravene i IMO Res. A.694(17), «General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids».",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Dybdemåleranlegg",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Anlegget skal tilfredsstille kravene i IMO Res. A.694(17), «General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids».",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Radaranlegg",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Hurtiggående fartøy som i henhold til sikkerhetssertifikatet kan føre mer enn 100 passasjerer, skal være utstyrt med minst to radaranlegg. I tillegg gjelder følgende:Bestemmelsene i IMO Res. A.694(17) «General requirements for shipborne radio equipment forming part of the GMDSS and for electronic Navigational Aids» og IMO Res. A.820(19) «Performance standards for navigational radar equipment for high speed craft», skal følges.For hurtiggående fartøy som er konstruert for en driftshastighet på 36 knop eller mer skal radarantennens omdreiningshastighet være minst 60 omdreininger i minuttet. For slike fartøy som er utstyrt med to radarer, og hvor den ene er en S-båndsradar (10 cm radar), behøver antennens omdreiningshastighet for denne radaren ikke å overskride 48 omdreininger i minuttet.Utstyret skal uten utvendige forstørrelsesmidler vise en relativ bildeskjerm med fartøyets forutmerke opp i ustabilisert modus med en effektiv diameter på ikke mindre enn:180 mm for fartøy med lengde mindre enn 40 m.250 mm for fartøy med lengde på 40 m og derover, men på mindre enn 70 m.340 mm når det kreves en radar, og 250 mm på den andre, når det kreves to radarer, på fartøy med lengde på 70 m og derover.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Svingehastighets- og rorvinkelindikator",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Kodens kapittel 13 nr. 13.7.1 gjelder ikke for hurtiggående fartøy i innenriks fart med lengde mindre enn 80 m.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 28",
+      "heading": "Automatiske styrehjelpemidler (selvstyreanlegg)",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Hvis automatiske styrehjelpemidler er installert, skal de minst tilfredsstille IMO Res. A.822(19) «Performance standards for automatic steering aids (automatic pilots) for high speed craft».",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 29",
+      "heading": "Kart og nautiske publikasjoner",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "På alle hurtiggående fartøy skal det være nødvendige og oppdaterte kart og nautiske publikasjoner mv. for det aktuelle operasjonsområdet.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 30",
+      "heading": "Kikkert, barometer og termometer",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Alle hurtiggående fartøy skal være utstyrt med kikkert, barometer og termometer.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 31",
+      "heading": "Radiokommunikasjon",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "Kodens kapittel 14 nr. 14.7.1.5 (NAVTEX) og nr. 14.7.1.6 (satellitt fri-flyt nødpeilesender) gjelder ikke for hurtiggående fartøy med operasjonsområde hvor åpne havstrekninger på over 5 nautiske mil ikke passeres.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-12",
+      "provision_ref": "§ 32",
+      "heading": "Megafon",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "(1) Nye og eksisterende hurtiggående passasjerfartøy skal være utstyrt med to batteridrevne megafoner, hvorav en skal plasseres på broen og en i passasjerinnredningen.(2) Megafonene skal være av en type som kan stå under konstant lading, og som gir minst 15 minutters taletid.",
+      "xml_path": "article#kapittel-6-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-13",
+      "provision_ref": "§ 33",
+      "heading": "Sikkerhetskrav for bevegelseshemmede personer",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "(1) MSC sirkulære nr. 735 av 24. juni 1996 om anbefalinger med hensyn til passasjerskips konstruksjon og drift for å imøtekomme eldres og bevegelseshemmedes personers behov (Recommendation on the design and operation of passenger ships to respond to elderly and disabled persons' need) skal følges i den utstrekning det passer.(2) For hurtiggående passasjerfartøy som ble kjølstrukket eller som var på et tilsvarende byggetrinn på eller etter 1. oktober 2004 gjelder følgende:Atkomst til fartøyetFartøyet skal være konstruert og utstyrt slik at bevegelseshemmede personer kan stige om bord og gå i land på en enkel og sikker måte, og forflytte seg mellom dekkene, enten på egen hånd eller ved hjelp av ramper eller heiser. Det skal settes opp anvisninger til slike adgangsfasiliteter ved alle innganger og andre hensiktsmessige steder om bord på hele fartøyet.SkiltSkilt som finnes om bord på fartøyet til hjelp for passasjerene, skal være tilgjengelige og lette å lese for bevegelseshemmede personer (herunder personer med sensoriske funksjonshemninger), og være strategisk plassert.Kommunikasjon og meldingerFartøyet skal være utstyrt med midler om bord til å kommunisere meldinger visuelt og verbalt, f.eks. om forsinkelser, ruteendringer og tjenester om bord, til personer med ulike former for bevegelseshemninger.AlarmAlarmsystem og -knapper må være utformet slik at de lett kan nås av og varsle alle bevegelseshemmede personer, herunder personer med sensoriske svekkelser og personer med lærevansker.Tilleggskrav for å sikre bevegelighet inne i fartøyetHåndlister, korridorer og ganger, døråpninger og dører skal være tilgjengelige for rullestolbrukere. Heiser, bildekk, passasjersalonger, innredning og toaletter skal være konstruert slik at de på en rimelig måte og i rimelig omfang er tilgjengelige for bevegelseshemmede personer.(3) For hurtiggående passasjerfartøy som ble kjølstrukket eller som var på et tilsvarende byggetrinn før 1. oktober 2004 gjelder første og andre ledd i paragrafen her i den utstrekning Sjøfartsdirektoratet bestemmer, jf. § 1 tredje, femte og sjette ledd.",
+      "xml_path": "article#kapittel-6-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-14",
+      "provision_ref": "§ 34",
+      "heading": "Vinduer i styrehus",
+      "path": [
+        "Kapittel 6. Tekniske og utstyrsmessige krav"
+      ],
+      "text": "(1) Frontvinduer skal helle med foroverliggende topp.(2) Vindusviskere skal installeres foran arbeidsstasjonene. De skal være utstyrt med intervallfunksjon og ferskvannsspyling. Vindusviskere skal kunne holde vinduene klare under alle værforhold som fartøyet kan forventes å møte.",
+      "xml_path": "article#kapittel-6-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Operasjonskrav",
+      "path": [
+        "Kapittel 7. Operasjonskrav, manøvrering mv."
+      ],
+      "text": "(1) Bestemmelsene om operasjonskrav i kodens kapittel 18, gjelder også for eksisterende hurtiggående passasjerfartøy.(2) Den dokumentasjon som kreves for operasjonskontroll etter kodens kapittel 18 nr. 18.1 og den fartøydokumentasjon som kreves etter kodens kapittel 18 nr. 18.2, skal være forfattet på norsk og oppbevares om bord.(3) Rederiets system for opplæring og bedømmelse av besetningens fartøyspesifikke kompetansenivå krevd i kodens kapittel 18.3 skal minst tilfredsstille følgende kriterier:AssessorRederiet skal utpeke en koordinerende assessor som er kvalifisert i henhold til forskrift 22. desember 2011 nr. 1523 om kvalifikasjoner og sertifikater for sjøfolk (kvalifikasjonsforskriften) § 13.OpplæringRederiets opplæringsprogram skal spesifisere opplæringens varighet og innhold, slik at kandidaten, i tillegg til å tilegne seg kunnskap, har opparbeidet praktiske ferdigheter til å fylle sine oppgaver så vel i normalsituasjon som i nødsituasjon før tiltredelse i stilling om bord. Relevante deler av opplæringen skal foregå når fartøyet er underveis slik at kandidaten blir kjent med alle aktuelle havner og hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.KompetanseRederiet skal forvisse seg om at enhver besetningsmedlem innehar de her spesifiserte kompetansenivå før vedkommende tiltrer i stilling.A= LedelsesnivåTa komplekse strategiske beslutninger på selvstendig grunnlagBrobesetningB= OperereBruke prosesser, komponenter og systemer på selvstendig grunnlag.C= ForståForstå hensikt, bruk og effekt av prosesser, systemer og komponenter.Fører og NavigatørMaskinistØvrig besetning.1Kunnskap om alle framdrifts- og kontrollsystemer om bord, herunder kommunikasjons- og navigasjonsutstyr, styringssystemer, elektriske, hydrauliske og pneumatiske systemer og lense- og brannpumper,ABC.2Feilmodus for kontroll-, styrings- og framdriftssystemene og korrekt reaksjon på slike feil,ABC.3Fartøyets manøvreringsegenskaper og operasjonsbegrensninger,ABC.4Brokommunikasjon- og navigasjonsprosedyrer,ACC.5Intakt stabilitet og skadestabilitet og fartøyets overlevelsesevne i skadetilstand,ABC.6Plassering og bruk av fartøyets redningsredskaper, herunder utstyr i redningsfarkostene,ABB.7Plassering og bruk av rømningsveier i fartøyet og evakuering av passasjerene,ABB.8Plassering og bruk av brannbeskyttelses- og brannoppdagelsesredskaper og -systemer i tilfelle brann om bord,ABB.9Plassering og bruk av skadekontrollredskaper og -systemer, herunder betjening av vanntette dører og lensepumper,ABC.10Sikringssystemer for stuing av last og kjøretøyer,ABC.11Metoder for kontroll og kommunikasjon med passasjerer i en nødssituasjon,ABB.12Alle elementer i opplæringshåndboken. Jf. kodens punkt 18.2.3.ABB.13Havner, ruter og spesielle forhold som vedrører operasjon og evakuering av fartøyet. Jf. kodens punkt 18.2.2 Rutehåndbok.ABC.14Operasjonsbegrensinger og grunnlag for operasjonstillatelsen. Jf. kodens punkt 18.1.3AAC.15Passasjerhåndtering, passasjerkomfort og informasjon til passasjerene, inkludert bruk av PA anlegg under normaloperasjon.ABB.16Rederiets politikk og prosedyrer for passasjerbehandling i samsvar med STCW-kodens regel V3 (V2) sett i sammenheng med kodens punkt 18.2.3.24.ABB.17Rederiets politikk og prosedyrer for sikkerhet (Security).ABB.18Rederiets praksis for å sikre et godt arbeidsmiljø (HMS).ABBUtsjekkBedømmelse av kompetansenivå skal bestå av en praktisk og en skriftlig del. Kandidaten skal også ved praktisk bruk vise tilfredsstillende ferdigheter i bruk av instrumenter, utstyr og tekniske hjelpemidler som inngår i arbeidsoppgavene.Relevante deler av utsjekken skal foregå når fartøyet er underveis og bestå av minst én ankomst og én avgang i alle aktuelle havner og seilas i hele operasjonsområdet under dag- og nattseilas med aktuelt fartøy.Den fartøysrelaterte utsjekken skal bedømmes av sertifisert assessor, jf. kvalifikasjonsforskriften § 13. Den fartøysrelaterte opplæring skal minst tilfredsstille fartøyets operasjons-, opplærings-, vedlikeholds- og servicemanual.Dokumentasjon av utsjekkAlle besetningsmedlemmer skal ha bestått og dokumentert utsjekk før de tiltrer i tjeneste om bord på et fartøy, eller i et nytt operasjonsområde. Ny utsjekk skal gjennomføres før tiltredelse etter opphold i tjenesten på et fartøy eller i en rute på over 6 måneder.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Manøvrering, styringsdyktighet og ytelse",
+      "path": [
+        "Kapittel 7. Operasjonskrav, manøvrering mv."
+      ],
+      "text": "(1) Bestemmelsene om manøvrering, styringsdyktighet og ytelse i kodens kapittel 17 gjelder også for eksisterende hurtiggående passasjerfartøy.(2) Den feilmodus- og feileffektanalyse (FMEA) som kreves etter kodens kapittel 17 nr. 17.4, kan for eksisterende hurtiggående passasjerfartøy erstattes med en forenklet analyse og praktisk test, og baseres på erfaringer fra tidligere drift.(3) Test etter vedlegg 8 i koden for hurtiggående fartøy, skal utføres for både nye og eksisterende passasjerfartøy.(4) Begrensninger vedrørende sikker hastighet i forhold til sjøtilstand og eventuelt i fartøyets styringsdyktighet skal inntas i fartøyets operasjonshåndbok. Reder skal sørge for at disse begrensningene er kjent av alle offiserene om bord.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 38",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. juli 1998.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    }
+  ]
+}

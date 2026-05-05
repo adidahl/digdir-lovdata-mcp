@@ -1,0 +1,137 @@
+{
+  "id": "LOV-2020-04-17-23",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om midlertidig tilskuddsordning for foretak med stort omsetningsfall",
+  "short_title": "Lov om midl. tilskuddsordning ved omsetningsfall",
+  "department": "Finansdepartementet",
+  "legal_area": "HMS og beredskaps- og sikkerhetsrett > Beredskap Selskaper, fond og foreninger Selskaper, fond og foreninger > Foretak",
+  "date_in_force": "2020-04-17",
+  "lovdata_refid": "lov/2020-04-17-23",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2020-04-17-23",
+  "raw_xml_sha256": "860f94a223e63c51eb66fc6e4e704cb861291354689b3615e974aec4d5196c9c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens formål",
+      "path": [],
+      "text": "Formålet med loven er å etablere en midlertidig ordning for tilskudd til foretak som har stort omsetningsfall som følge av utbrudd av koronavirus.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Stedlig virkeområde",
+      "path": [],
+      "text": "Loven gjelder på norsk territorium. Loven gjelder for Svalbard, Jan Mayen og bilandene i det omfanget og med de stedlige tilpasningene Kongen bestemmer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "(1) Tilskuddsordningen gjelder for kalendermånedene mars, april og mai 2020. Kongen kan i forskrift forlenge ordningens varighet.(2) Ordningen gjelder for foretak som er registrert i foretaksregisteret med hjemmel i foretaksregisterloven § 2-1, og enkeltpersonforetak registrert i enhetsregisteret hvis foretakets inntekt er innehavers hovedinntektskilde. Foretaket må være skattepliktig til Norge, jf. skatteloven § 2-2 første ledd, eller deltakerne i foretaket må være skattepliktig til Norge for selskapets inntekter, jf. skatteloven § 2-2 tredje ledd. Ordningen omfatter også tilfeller der foretaket eller foretakets eier skattlegges i Norge for virksomhet her etter skatteloven § 2-3 første ledd bokstav b.(3) Departementet kan gi forskrift om nærmere avgrensning av virkeområdet, herunder at ordningen ikke skal gjelde for foretak i visse næringer og foretak som er eid av stat eller kommune.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Vilkår for tilskudd",
+      "path": [],
+      "text": "(1) Foretak som nevnt i § 3 og som oppfyller følgende vilkår kan få tilskudd:Foretaket har ansatte. Dette vilkåret gjelder ikke for enkeltpersonforetak og ansvarlige selskap der foretakets inntekt er innehavers eller minst en av deltagernes hovedinntektForetaket har i perioden det søkes tilskudd om hatt et stort omsetningsfallForetaket utøver lovlig virksomhetForetaket er ikke under konkursbehandling(2) Departementet kan gi forskrift til utfylling av denne paragrafen, herunder om beregning av omsetning og omsetningsfallets størrelse, og fastsette ytterligere vilkår.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilskuddets størrelse",
+      "path": [],
+      "text": "(1) Tilskudd fastsettes på grunnlag av foretakets omsetningsfall og faste, uunngåelige kostnader i den måneden tilskuddet gjelder.(2) Departementet kan gi forskrift til utfylling og gjennomføring av denne paragraf. Departementet kan herunder gi regler om beregningen av tilskuddet, blant annet hvilke kostnader som omfattes, egenandel, nedskaleringsfaktor for enkelte typer kostnader, særskilte regler for egenandel og kostnader for foretak som er omfattet av statlig pålegg om stenging, øvre grenser for tilskudd som kan gjelde per måned og for hele perioden tilskuddsordningen gjelder og som kan gjelde for det enkelte foretak eller samlet for konsern samt særskilte regler for konserninterne kostnader og omsetning.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Generelle forvaltningsregler",
+      "path": [],
+      "text": "(1) Med de særregler som er gitt i §§ 7 til 13, gjelder skatteforvaltningsloven så langt den passer for behandling av saker etter loven her. Forvaltningsloven gjelder ikke for behandling av saker etter loven her, med unntak av forvaltningsloven kapittel VII om forskrifter.(2) Departementet kan gi forskrift om forvaltningsregler som skal gjelde for behandling av saker etter loven her, herunder utfylle og fravike reglene i skatteforvaltningsloven.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Tilskuddsmyndighet og klageinstans",
+      "path": [],
+      "text": "Skatteetaten er tilskuddsmyndighet etter loven. Skattekontoret treffer vedtak i første instans. Skattedirektoratet er klageinstans.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Innhenting av opplysninger",
+      "path": [],
+      "text": "(1) Tilskuddsmyndigheten kan uten hinder av taushetsplikt innhente opplysninger ved å pålegge offentlige myndigheter og private rettssubjekter å gi opplysninger som kan ha betydning for tilskudd etter denne loven og kontrollen av dette. Første punktum gjelder også personopplysninger.(2) Departementet kan gi forskrift om innhenting av opplysninger etter første ledd, herunder om hvem tilskuddsmyndigheten kan innhente opplysninger fra og hvilke opplysninger som kan innhentes.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Søknad om tilskudd",
+      "path": [],
+      "text": "(1) Tilskudd etter denne loven gis etter søknad. Søknaden skal inneholde opplysninger som kan ha betydning for fastsetting av tilskuddet.(2) Departementet kan gi forskrift om krav til søknaden, herunder om hvordan opplysninger skal gis, nærmere vilkår for leveringsmåte og format, hvilke opplysninger søknaden skal inneholde, frister og om bekreftelse av opplysninger fra revisor eller regnskapsfører.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Opplysningsplikt for søkeren",
+      "path": [],
+      "text": "(1) Den som søker om tilskudd etter denne loven, skal gi riktige og fullstendige opplysninger. Søkeren skal opptre aktsomt og lojalt, og skal varsle tilskuddsmyndigheten om eventuelle feil.(2) Departementet kan gi forskrift om bekreftelse og dokumentasjon av opplysninger fra søkeren og om opplysningsplikt for den som har mottatt tilskudd. Bestemmelsen i § 9 annet ledd gjelder tilsvarende.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Vedtak om tilskudd",
+      "path": [],
+      "text": "Tilskuddsmyndigheten treffer vedtak om fastsetting av tilskudd etter denne loven. Tilskuddsmyndigheten kan sammenstille nødvendige opplysninger og treffe vedtak som utelukkende er basert på automatisert behandling av personopplysninger.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Administrative sanksjoner",
+      "path": [],
+      "text": "(1) Administrativ sanksjon ilegges tilskuddsmottaker som forsettlig eller grovt uaktsomt gir tilskuddsmyndigheten uriktig eller ufullstendig opplysning, eller unnlater å gi pliktig opplysning, når vedkommende forstår eller bør forstå at det kan føre til uberettigede økonomiske fordeler.(2) Fristen for å ilegge administrativ sanksjon er fem år etter utløpet av den perioden vedtaket om tilskudd gjelder.(3) Administrativ sanksjon beregnes med 30 eller 60 prosent av tilskuddet som tilskuddsmottakeren uberettiget har mottatt.(4) Skatteforvaltningsloven §§ 14-8 til 14-11 gjelder tilsvarende så langt det passer. Skatteforvaltningsloven §§ 14-1 til 14-7 kommer ikke til anvendelse ved behandlingen av saker etter loven her.(5) Departementet kan gi forskrift om administrative sanksjoner.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Straff",
+      "path": [],
+      "text": "Straffeloven §§ 378 til 380 om skattesvik gjelder tilsvarende for den som mottar uberettiget tilskudd, likevel slik at bare forsettlige eller grovt uaktsomme overtredelser omfattes.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Betaling og innkreving",
+      "path": [],
+      "text": "(1) Departementet kan gi forskrift om betaling av tilskudd etter denne loven, herunder om krav på tilbakebetaling og innkreving av utbetalt tilskudd og om renter og administrative sanksjoner. Departementet kan også gi forskrift om hvem som er kravsmyndighet.(2) Krav på tilbakebetaling av tilskudd er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Lovens ikrafttredelse, overgangsbestemmelser",
+      "path": [],
+      "text": "(1) Loven trer i kraft straks.(2) Departementet kan gi forskrift om overgangsbestemmelser.",
+      "xml_path": "article#paragraf-15"
+    }
+  ]
+}

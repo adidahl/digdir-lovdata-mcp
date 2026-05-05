@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1993-04-30-318",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hva som skal anses som dopingmidler",
+  "short_title": "Forskrift om hva som er dopingmidler",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1993-07-01",
+  "last_change_in_force": "2025-03-14",
+  "last_changed_by": "forskrift/2025-03-14-813",
+  "lovdata_refid": "forskrift/1993-04-30-318",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-04-30-318",
+  "raw_xml_sha256": "a0cc8e02cfdbab5f0763d244da817f6a51d36ba88bebf8cde863c79ffef8c99e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Som dopingmidler etter forskriften regnesstoffer som er oppført på særskilt liste (dopinglisten)salter av disse stoffer og mulige stereoisomere, estere og etere av stoffene og deres salterblandinger som inneholder stoffer nevnt i bokstav a og b.\nMed blandinger menes blandinger av enhver art i fast form, flytende form eller gassfase, oppløsninger, fortynninger, ekstrakter, konsentrater, farmasøytiske preparater og bearbeidede former av stoffene når bearbeidelsen ikke fører til en kjemisk endring av stoffene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Direktoratet for medisinske produkter kan i vedlegg til forskriften fastsette og endre hvilke stoffer som regnes som dopingmidler, jf. reglene i forvaltningsloven kapittel VII.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Legemidler med innhold av dopingmidler kan, til eget personlig, medisinsk bruk, medbringes ved inn- eller utreise nårlegemidlene er rekvirert av lege eller tannlege,den reisende kan dokumentere, for eksempel ved hjelp av pakningens etikett, resept eller legeerklæring, at legemidlene er rekvirert til eget personlig, medisinsk bruk, ogmengden medbrakt legemiddel ikke overstiger 30 dagers forbruk i henhold til angitt dosering.\nTolletaten kan kreve at den reisende legger fram dokumentasjon etter denne bestemmelsen. Dokumentasjonen må fremlegges på tidspunktet for inn- eller utreise.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "FOR-2026-03-27-507",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om sporing og sikkerhetsmerking av tobakksvarer",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2026-03-30",
+  "lovdata_refid": "forskrift/2026-03-27-507",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-27-507",
+  "raw_xml_sha256": "ab067d8da2606ef384e84ad5a889678b6bd0ba58128f802c7a6fae35d41f15cf",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Forordning (EU) 2018/573",
+      "path": [
+        "Kapittel 1. Gjennomføring av forordninger"
+      ],
+      "text": "EØS-avtalens vedlegg II kapittel XXV nr. 3i (forordning (EU) 2018/573 om sentrale elementer i avtaler om datalagring som skal inngås som en del av et sporingssystem for tobakksvarer), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Forordning (EU) 2018/574",
+      "path": [
+        "Kapittel 1. Gjennomføring av forordninger"
+      ],
+      "text": "EØS-avtalens vedlegg II kapittel XXV nr. 3j (forordning (EU) 2018/574 om tekniske standarder for opprettelse og drift av et sporingssystem for tobakksvarer), gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig, og med endringene som følger av forordning (EU) 2023/448.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Beslutning (EU) 2018/576",
+      "path": [
+        "Kapittel 1. Gjennomføring av forordninger"
+      ],
+      "text": "EØS-avtalens vedlegg II kapittel XXV nr. 3k (beslutning (EU) 2018/576 om tekniske standarder for sikkerhetselementer som påføres tobakksvarer) gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "ID-utsteder",
+      "path": [
+        "Kapittel 2. Utfyllende nasjonale bestemmelser om sporingssystemet"
+      ],
+      "text": "Helsedirektoratet utpeker ID-utsteder, jf. forordning (EU) 2018/574 artikkel 3 nr. 1.\nHelsedirektoratet skal påse at ID-utsteder er uavhengig, jf. forordning (EU) 2018/574 artikkel 3 nr. 3, jf. artikkel 35.\nDersom det utpekes en ny ID-utsteder som skal overta tjenestene fra den forrige ID-utstederen, kan Helsedirektoratet kreve at ID-utstederen utarbeider en avviklingsplan, som beskriver den framgangsmåten som skal følges for å sikre kontinuitet i virksomheten til den nye ID-utstederen er utpekt.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Utstedelse av identifikasjonsmerker",
+      "path": [
+        "Kapittel 2. Utfyllende nasjonale bestemmelser om sporingssystemet"
+      ],
+      "text": "ID-utstederen utpekt av Helsedirektoratet skal utstede entydige identifikasjonsmerker til tobakksvarer som bringes i omsetning i Norge. ID-utstederen skal også utstede entydige identifikasjonsmerker til tobakksvarer som produseres i Norge og plasseres på markedet i en annen EØS-stat som ikke har krav om nasjonal ID-utsteder, og til tobakksvarer som produseres i Norge og eksporteres ut av EØS-området.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Deaktivering av identifikasjonskoder til økonomiske aktører, anlegg og maskiner",
+      "path": [
+        "Kapittel 2. Utfyllende nasjonale bestemmelser om sporingssystemet"
+      ],
+      "text": "Helsedirektoratet kan pålegge ID-utstedere å deaktivere identifikasjonskoder til markedsdeltakere, anlegg og maskiner, jf. forordning (EU) 2018/574 artikkel 15 nr. 4, artikkel 17 nr. 4 og artikkel 19 nr. 4.\nVed deaktivering skal Helsedirektoratet underrette markedsdeltaker eller aktøren for det første detaljsalgsstedet, om deaktiveringen samt om begrunnelsen for denne.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Utforming av sikkerhetsmerket",
+      "path": [
+        "Kapittel 3. Utfyllende nasjonale bestemmelser om sikkerhetsmerking"
+      ],
+      "text": "Sikkerhetsmerket skal utstedes av produsenter eller importører av tobakksvarer som skal plasseres på det norske markedet.\nSikkerhetsmerket skal være et samlet merke og bestå av følgende autentifiseringselementer i kombinasjon:Guilloche,Optisk varierbar trykkfarge,Mikrotrykk,Anti-Stokes trykkfarge ogIkke-fluorescerende papir, sammen med fluorescerende trykkfarge.\nMinst ett av autentifiseringselementene skal leveres av en uavhengig tredjepartsleverandør, jf. beslutning (EU) 2018/576 artikkel 3 nr. 2 jf. artikkel 8.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Endringer i krav til autentifiseringselementer ved manglende integritet",
+      "path": [
+        "Kapittel 3. Utfyllende nasjonale bestemmelser om sikkerhetsmerking"
+      ],
+      "text": "Dersom det er grunn til å tro at integriteten til et av autentifiseringselementene i et sikkerhetsmerke ikke lenger er intakt, skal Helsedirektoratet kreve at det aktuelle sikkerhetsmerket byttes ut eller endres.\nBerørte importører, produsenter og leverandører av sikkerhetsmerket skal underrettes om at sikkerhetsmerket ikke lenger er intakt innen fem virkedager.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Påføring av sikkerhetsmerker på enkeltpakninger",
+      "path": [
+        "Kapittel 3. Utfyllende nasjonale bestemmelser om sikkerhetsmerking"
+      ],
+      "text": "Sikkerhetsmerket skal påføres på enkeltpakninger med tobakksvarer ved at defestes,trykkes ellerbåde festes og trykkes på enkeltpakningene.\nEnkeltpakningene med tobakksvarer skal påføres sikkerhetselementer på en slik måte atdet er mulig å identifisere og kontrollere ektheten til en enkeltpakning med en tobakksvare i hele tiden tobakksvaren omsettes, ogde beskyttes mot å bli byttet ut, gjenbrukt eller endret på noen som helst måte.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel 4. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Denne forskrift får anvendelse for sigaretter og rulletobakk fra 11. juli 2027. Sigaretter og rulletobakk som er produsert eller innført til Norge før denne datoen, kan likevel selges til forbruker frem til 11. juli 2028.\nFor andre tobakksvarer enn sigaretter og rulletobakk får denne forskriften anvendelse fra 11. mars 2031. Andre tobakksvarer enn sigaretter og rulletobakk som er produsert eller innført til Norge før denne datoen, kan likevel selges til forbruker frem til 11. mars 2033.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 30. mars 2026.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    }
+  ]
+}

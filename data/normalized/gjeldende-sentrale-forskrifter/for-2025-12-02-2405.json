@@ -1,0 +1,438 @@
+{
+  "id": "FOR-2025-12-02-2405",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fastlegeordning i kommunene (fastlegeforskriften)",
+  "short_title": "Fastlegeforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2026-01-01",
+  "last_change_in_force": "2025-12-22",
+  "last_changed_by": "forskrift/2025-12-22-2858",
+  "lovdata_refid": "forskrift/2025-12-02-2405",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-12-02-2405",
+  "raw_xml_sha256": "4a359d9587a34f842614a7a830ac7e64adb020ad0af74b52641cda1cf2ec0c38",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål og definisjoner"
+      ],
+      "text": "Formålet med fastlegeordningen er å sikre at alle får nødvendige allmennlegetjenester av god kvalitet til rett tid, og at personer bosatt i Norge får en fast allmennlege å forholde seg til.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Formål og definisjoner"
+      ],
+      "text": "I forskriften her menes med:Fastlege: lege som inngår avtale med en kommune om deltakelse i fastlegeordningen, uavhengig av om legen er ansatt i kommunen eller er selvstendig næringsdrivende.Fastlegeavtale: en individuell avtale som inngås mellom kommune og den enkelte lege om å være fastlege for et bestemt antall listeinnbyggere.Listeinnbygger: en person som er tilknyttet en fastlegelisteKommunalt fastlegekontor: Fastlegekontor drevet av kommunen, der kommunen har driftsansvaret og fastlegene er ansatt i kommunen.Næringsdrivende fastlege: Selvstendig næringsdrivende lege som har avtale med kommunen om å yte fastlegetjenester på vegne av kommunen.Fellesliste: Fastlegeliste der flere fastleger har felles, solidarisk ansvar for fastlegetilbudet til listeinnbyggerne på listen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Det kommunale ansvaret for allmennlegetilbudet",
+      "path": [
+        "Kapittel 2. Kommunens ansvar"
+      ],
+      "text": "Kommunen skal sørge for at personer som oppholder seg i kommunen tilbys nødvendige allmennlegetjenester, jf. helse- og omsorgstjenesteloven § 3-1 og § 3-2 første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Det kommunale ansvaret for organisering av fastlegeordningen",
+      "path": [
+        "Kapittel 2. Kommunens ansvar"
+      ],
+      "text": "Kommunen skal organisere fastlegeordningen og sørge for at personer som ønsker det, får tilbud om plass på fastleges liste, jf. pasient- og brukerrettighetsloven § 2-1c og forskrift om pasient- og brukerrettigheter i fastlegeordningen § 2.\nKommunen skal sørge for at et tilstrekkelig antall leger deltar i fastlegeordningen.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Kommunens ansvar for kvalitet i allmennlegetjenesten",
+      "path": [
+        "Kapittel 2. Kommunens ansvar"
+      ],
+      "text": "Kommunen skal sørge for at befolkningen gis et forsvarlig tilbud av allmennlegetjenester, hvor fastsatte kvalitets- og funksjonskrav etter denne forskrift overholdes.\nKommunen skal sørge for at det arbeides systematisk med kvalitetsforbedring og pasient- og brukersikkerhet, jf. helse- og omsorgstjenesteloven § 4-1 og § 4-2 og at tjenestene er i tråd med krav fastsatt i helse- og omsorgslovgivningen og i forskrifter gitt med hjemmel i disse lovene.\nKommunens ansvar gjelder uavhengig av om tjenestene ytes av leger ansatt i kommunen eller det inngås avtaler med selvstendig næringsdrivende leger om å yte tjenestene.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Kommunens ansvar for informasjon",
+      "path": [
+        "Kapittel 2. Kommunens ansvar"
+      ],
+      "text": "Kommunen skal sørge for at innbyggerne i kommunen gis nødvendig informasjon om fastlegeordningen, herunder om hvilke leger som deltar i ordningen og hvem som har ledig plass på sin liste.\nKommunen plikter å holde legen informert om planer og forhold i den kommunale helse- og omsorgstjenesten som kan ha betydning for legens virksomhet.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Kommunens ansvar for å tilrettelegge for samarbeid",
+      "path": [
+        "Kapittel 2. Kommunens ansvar"
+      ],
+      "text": "Kommunen skal legge til rette for samarbeid mellom kommunen og næringsdrivende fastleger.\nKommunen skal legge til rette for samarbeid mellom fastlegene og andre tjenesteytere og sikre en hensiktsmessig og god integrering av fastlegeordningen i kommunens øvrige helse- og omsorgstjenestetilbud.\nKommunen skal legge til rette for samarbeid mellom fastlegene og spesialisthelsetjenesten.\nKommunens ansvar gjelder uavhengig av om fastlegen er ansatt i kommunen eller har avtale med kommunen som næringsdrivende fastlege.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Fastlegeavtale",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Kommunen skal inngå en individuell avtale med alle leger som skal delta i fastlegeordningen. Dette gjelder uavhengig av om fastlegen er selvstendig næringsdrivende, er del av en fellesliste eller er ansatt i kommunen.\nFor fastleger som er ansatt i kommunen omfattes fastlegeavtalen av den alminnelige arbeidsavtalen. Av avtalen skal det fremgå antall plasser på fastlegens liste.\nFor selvstendig næringsdrivende fastleger skal avtalen blant annet regulere åpningstid, listetak, lokalisering og eventuelle andre legeoppgaver som fastlegen skal utføre på vegne av kommunen ut over det som fremgår av oppgavene etter § 21.\nAvtalen bør regulere hvordan fastlegen kan bidra i kommunens folkehelsearbeid, herunder bidrag til oversikten over helsetilstand og påvirkningsfaktorer etter folkehelseloven § 5.\nFastlegen og kommunen kan ikke avtale i strid med bestemmelser i denne forskriften, med mindre det fremgår av den enkelte bestemmelse.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Inngåelse av ny fastlegeavtale",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Ny fastlegeavtale kan inngås når en fastlege avslutter sin næringsvirksomhet og avtaleforhold, når ansettelsesforhold for kommunalt ansatt fastlege avsluttes eller når en ubesatt eller ny fastlegeavtale skal tildeles.\nOvertar en ny fastlege praksis fra en næringsdrivende fastlege som avslutter sin virksomhet og sitt avtaleforhold, blir listen over personer overført til den nye fastlegen.\nI tilfeller der ansettelsesforhold for kommunalt ansatt fastlege avsluttes, skal kommunen sørge for at personene på legens liste blir overført til en ny fastlege.\nKommunen skal sørge for at personene på listen blir gjort oppmerksomme på bytte av fastlege, og på retten til å skifte fastlege etter § 6 i forskrift om pasient- og brukerrettigheter i fastlegeordningen.\nDersom det er påkrevet for å sikre driften i en ny fastlegepraksis, kan kommunen overføre følgende personer til den nye listen:nytilmeldte uten oppgitt legeønske.personer fra liste hvor det er foretatt reduksjon etter § 11, og som ikke har skiftet til annen fastlege.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Listetak",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Fastlegen skal ikke ha flere enn 2 500 personer på sin liste. Et listetak lavere enn 500 personer må avtales med kommunen. En liste anses lukket når antall innbyggere på listen har nådd fastsatt listetak.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Reduksjon av listetaket",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Fastlege med flere personer på listen enn det tak vedkommende kan sette i henhold til forskrift og avtale, har rett til å få nedjustert listelengden til dette taket.\nKrav om reduksjon av listetaket skal meldes til kommunen med seks måneders frist. Kommunen og fastlegen kan i særlige tilfeller avtale kortere frist.\nReduksjon av listen skal skje ved tilfeldig uttrekk. Ved listereduksjon holdes familie, som er registrert bosatt i samme husstand, samlet på en liste.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Avslutning av individuell avtale",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Kommunen og næringsdrivende fastlege kan si opp avtalen med en frist på seks måneder. Oppsigelse fra kommunens side må være saklig begrunnet. Ved vesentlig mislighold kan kommunen heve avtalen med øyeblikkelig virkning.\nFor ansatte fastleger gjelder alminnelige arbeidsrettslige regler om oppsigelsesfrist.\nDen individuelle avtalen opphører uten oppsigelse når legen fyller 70 år. Kommunen og legen kan inngå en tidsbegrenset avtale om fastlegevirksomhet ut over fylte 70 år, likevel ikke etter at legen er fylt 80 år.\nAvtalen bortfaller med umiddelbar virkning ved rettskraftig vedtak om tap av autorisasjon som lege, eller ved begrenset autorisasjon som medfører at fastlegen ikke kan overholde bestemmelsene i denne forskriften eller i forskrift om pasient- og brukerrettigheter i fastlegeordningen.\nNår legens autorisasjon er suspendert, eller i påvente av en overprøving av vedtak om tap av autorisasjon, kan næringsdrivende lege innta vikar inntil saken er avgjort av klage- og tilsynsmyndighetene.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Økonomisk vederlag til næringsdrivende fastlege m.m.",
+      "path": [
+        "Kapittel 3. Fastlegeavtale, liste mv."
+      ],
+      "text": "Næringsdrivende fastleges økonomiske vederlag, for det arbeid som honoreres etter forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos lege, består av et tilskudd fra kommunen for hver person (per capita-tilskudd) på listen og de til enhver tid gjeldende satser for egenandel og refusjon fra folketrygden for utført arbeid.\nKommuner med mindre enn 5 000 innbyggere skal gi et utjamningstilskudd til fastleger dersom gjennomsnittlig listelengde i kommunen er lavere enn en avtalt referanseliste. Utjamningstilskuddet skal svare til differansen mellom per capita-tilskuddet for fastsatte referanseliste og per capita-tilskudd for gjennomsnittlig listelengde i kommunen.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Krav til ledelse og kvalitetsforbedring",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Den som har det overordnede ansvaret for virksomheten ved kommunalt fastlegekontor har ansvar for at virksomheten planlegges, gjennomføres, evalueres og korrigeres i samsvar med krav fastsatt i eller i medhold av helse- og omsorgslovgivningen, jf. forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten §§ 3 og 4. Tilsvarende ansvar for sin virksomhet har også hver enkelt næringsdrivende fastlege. Dette gjelder også i tilfeller der flere næringsdrivende fastleger jobber i et kontorfellesskap/gruppepraksis.\nFastlegens oppgaver følger av kapittel 5.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Krav om å sørge for allmennlegeoppgaver overfor innbyggerne på listen",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor skal sørge for at det ytes allmennlegeoppgaver innen somatikk, psykisk helse og rus for innbyggerne på fastlegenes lister dersom ikke annet er presisert i lov eller forskrift.\nTilsvarende ansvar for sin virksomhet har også hver enkelt næringsdrivende fastlege som har avtale med kommunen.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Krav om å sørge for tilgjengelighet og øyeblikkelig hjelp",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor og næringsdrivende fastlege skal kunne motta og vurdere alle typer henvendelser i sin åpningstid.\nKommunalt fastlegekontor og næringsdrivende fastlege skal innrette sin praksis slik at:listeinnbyggere som må ha øyeblikkelig hjelp, kan mottas og vurderes i åpningstiden,systemet for mottak av telefonhenvendelser innrettes slik at 80 prosent av alle henvendelser normalt kan besvares innen to minutter,timebestilling kan mottas både på telefon og gjennom digital løsning,innbyggerne tilbys digitale tjenester, herunder konsultasjoner via video, tekst og telefon, for henvendelser som er egnet for slik oppfølging,det sørges for fraværsdekning i forbindelse med ordinært fravær ved for eksempel ferie, kurs og etterutdanning.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "Krav om å sørge for koordinering og samarbeid",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor skal sørge for at det koordineres og samarbeides med andre relevante tjenesteytere om fastlegenes listeinnbyggere.\nTilsvarende ansvar for sin virksomhet har også hver enkelt næringsdrivende fastlege som har avtale med kommunen.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 18",
+      "heading": "Elektronisk pasientjournal m.m.",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor og næringsdrivende fastlege har ansvar for at fastlegens elektroniske pasientjournalsystem oppfyller krav til journalføring, elektronisk samhandling og personvern fastsatt i lov og forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 19",
+      "heading": "Krav til rapportering",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor og næringsdrivende fastlege skal avgi nødvendige data til styrings- og kvalitetsformål for å ivareta myndighetenes ansvar for et forsvarlig allmennlegetilbud og faglig utvikling av allmennlegetjenesten. Staten, eller kommunen i samarbeid med fastlegen, fastsetter hvilke data som skal avgis.\nDe alminnelige regler om taushetsplikt gjelder ved utlevering av opplysninger etter første ledd.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 20",
+      "heading": "Ansvar ved fellesliste",
+      "path": [
+        "Kapittel 4. Ansvar og ledelse ved kommunale og næringsdrivende fastlegekontor"
+      ],
+      "text": "Kommunalt fastlegekontor og næringsdrivende fastleger som har avtale om fellesliste, skal legge til rette for at fastleger som har fellesliste kan fordele ansvar og arbeidsoppgaver mellom seg i oppfølgingen av listeinnbyggerne.\nFastleger med fellesliste har felles, solidarisk ansvar for fastlegetilbudet til listeinnbyggerne på listen.\nInnbyggere som står på fellesliste skal ha en ansvarlig lege som har hovedansvaret for journal og oppfølging.\nReglene om listelengde og reduksjon av lister gjelder tilsvarende ved felleslister.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Fastlegens oppgaver overfor innbyggerne på listen",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal yte alle allmennlegeoppgaver innen somatikk, psykisk helse og rus for innbyggerne på listen dersom ikke annet er presisert i lov eller forskrift.\nAllmennlegeoppgaver i helsestasjons- og skolehelsetjenesten, ved sykehjem, fengsler og andre kommunale institusjoner med en organisert legetjeneste er ikke en del av fastlegens oppgaver med mindre dette er avtalt med kommunen, jf. § 8.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Krav til prioritering",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal prioritere personene på sin liste foran andre, med unntak av lovpålagte øyeblikkelig hjelp-henvendelser eller andre forpliktelser som er pålagt i medhold av lov, forskrift eller som er avtalt med kommunen.\nFastlegen skal prioritere listeinnbyggerne ut fra en konkret medisinsk vurdering av haste- og alvorlighetsgrad. Listeinnbyggeren skal få tilbud om konsultasjon så tidlig som mulig, og normalt innen fem arbeidsdager.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Krav til kvalitet",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal utføre sine oppgaver i tråd med krav fastsatt i lov og forskrift, oppdatert kunnskap og nasjonale faglige retningslinjer.\nFastlegen skal tilstrebe å redusere risiko for uønskede hendelser.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Oversikt over listeinnbyggerne",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal, basert på foreliggende journalinformasjon, søke å ha oversikt over innbyggere på listen der medisinskfaglig oppfølging og koordinering er nødvendig.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Oppfølgingstilbud",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlege som har eller mottar informasjon om at personer på listen har behov for helsehjelp, men selv ikke søker hjelp, skal tilby konsultasjon eller hjemmebesøk. Dette gjelder bare i tilfeller hvor pasienten har en påvist lidelse, og det fra en medisinsk vurdering er et åpenbart behov for behandling eller oppfølging.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Medisinskfaglig koordinering og samarbeid",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal ivareta en medisinskfaglig koordineringsrolle og samarbeide med andre relevante tjenesteytere om egne listeinnbyggere.\nDersom en innbygger på listen har behov for langvarige og koordinerte tjenester, plikter fastlegen å informere om, og medvirke til utarbeidelse av, individuell plan og å samarbeide med koordinator i kommunen, jf. forskrift om habilitering, rehabilitering og koordinator.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Individrettet forebygging som integrert del av tjenesteytingen",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal, basert på en medisinsk vurdering av behov, tilby forebyggende tiltak til personer der det avdekkes betydelig risiko for utvikling eller forverring av sykdom eller funksjonssvikt. De helsemessige risikofaktorene skal kartlegges av legen ut fra hva som er relevant for den kliniske problemstillingen.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 28",
+      "heading": "Hjemmebesøk",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal gi tilbud om hjemmebesøk til egne listeinnbyggere:som på grunn av sin helsetilstand eller funksjonsevne ikke er i stand til å møte til konsultasjon på legekontoret ellernår dette anses nødvendig for å sikre pasienten forsvarlig helsehjelp.\nFastlegen skal ut fra en medisinsk vurdering prioritere når hjemmebesøk skal foretas. I denne vurderingen kan legen ta hensyn til reiseavstand til pasienten, og om egen sikkerhet er tilstrekkelig ivaretatt.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 29",
+      "heading": "Fastlegens oppgaver overfor listeinnbyggere som oppholder seg i institusjon",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Blir en person som står på fastleges liste inntatt i en helse- og omsorgsinstitusjon eller annen institusjon med organisert legetjeneste, overføres ansvaret for å tilby og yte oppgaver etter § 21 til institusjonen. Vedkommende blir likevel stående på fastlegens liste, og fastlegen skal tilrettelegge allmennlegetilbudet ved utskrivning.\nVed behov for oppfølging etter utskrivning plikter institusjonen å orientere fastlegen før utskrivning skjer. Institusjonen skal gi fastlegen epikrise ved utskrivning, jf. helsepersonelloven § 45a.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 30",
+      "heading": "Henvisningspraksis",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal ved behov henvise listeinnbyggere til spesialisthelsetjenesten og til andre kommunale helse- og omsorgstjenester.\nFastlegenes henvisninger til spesialisthelsetjenesten skal støtte faglig riktig oppgavefordeling og god samhandling mellom behandlingsnivåene i tråd med lov, forskrift og lokale samarbeidsavtaler, jf. helse- og omsorgstjenesteloven § 6-1 og spesialisthelsetjenesteloven § 2-1e andre ledd.\nHenvisningen skal gi nødvendig informasjon slik at pasienten kan få god og forsvarlig behandling, jf. pasient- og brukerrettighetsloven kapittel 2 og 3.\nFastlegen skal ved henvisning informere pasienten om retten til valg av behandlingssted, jf. pasient- og brukerrettighetsloven § 2-4.\nDersom en gravid setter fram krav om abort etter abortloven § 7 skal fastlegen ikke henvise til abort, men sende den gravides krav om abort sammen med relevante og nødvendige medisinske opplysninger til det sykehus eller annen institusjon hvor aborten skal utføres. Dersom aborten ikke kan utføres før utgangen av 18. svangerskapsuke, skal fastlegen også sende en skriftlig utredning om de grunner den gravide anfører for sitt krav om abort.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 31",
+      "heading": "Legemiddelbehandling",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal koordinere legemiddelbehandlingen til innbyggerne på listen. Når fastlegen endrer eller får informasjon om at legemiddelbehandlingen er endret, skal legemiddellisten oppdateres.\nListeinnbyggere skal få oppdatert legemiddelliste etter hver konsultasjon hos fastlegen hvis legemiddelbruken er endret. For listeinnbyggere som bruker fire legemidler eller mer, skal fastlegen gjennomføre en legemiddelgjennomgang når dette anses nødvendig ut fra en medisinsk vurdering.\nFastlegen skal gi en oppdatert legemiddelliste til andre tjenesteytere i helse- og omsorgstjenesten dersom dette er nødvendig for å gi et forsvarlig tilbud til listeinnbyggeren.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-12",
+      "provision_ref": "§ 32",
+      "heading": "Fastlegens deltakelse i andre allmennlegeoppgaver i kommunen",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlege i fulltidspraksis kan pålegges å delta inntil 7,5 timer per uke i andre allmennlegeoppgaver i kommunen, for eksempel i helsestasjons- og skolehelsetjenesten, sykehjem og fengsler. Før pålegg gis skal kommunen søke å inngå frivillige avtaler om utføring av disse oppgavene. Fastlegens deltakelse i administrative møter med kommunen skal iberegnes i de 7,5 timene.\nFastlegen og kommunen kan inngå avtale om andre oppgaver som skal inngå i de 7,5 timene, jf. første ledd.",
+      "xml_path": "article#kapittel-5-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-13",
+      "provision_ref": "§ 33",
+      "heading": "Fastlegens plikt til deltakelse i legevakt",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen plikter å delta i:Kommunal eller interkommunal legevakt utenfor ordinær åpningstid.Kommunens organiserte øyeblikkelig hjelp-tjeneste i kontortid, herunder tilgjengelighet i helseradionettet/nødnettet og ivaretakelse av utrykningsplikten.\nDeltakelse i kommunal legevakt eller interkommunal legevakt utenfor ordinær åpningstid kommer i tillegg til andre allmennlegeoppgaver kommunen kan pålegge fastlegen å utføre, jf. § 32.\nKommunen kan frita fastlegen fra plikt til legevaktdeltakelse etter første ledd bokstav a, når legen av helsemessige eller vektige sosiale grunner ber om det. I denne vurderingen tas det særlig hensyn til lege over 55 år.\nFastlegen har rett til fritak til legevaktdeltakelse etter første ledd bokstav a når legen:er over 60 årer gravid i de tre siste måneder av svangerskapet eller når graviditeten er til hinder for deltakelse ellerammer barn som er under ett år.",
+      "xml_path": "article#kapittel-5-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-14",
+      "provision_ref": "§ 34",
+      "heading": "Sykefraværsoppfølging",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen skal delta i oppfølgingen av sykemeldte listeinnbyggere, dersom fastlegen er sykemelder.\nFastlegen skal gjennom sin medisinske oppfølging av listeinnbyggere bidra til at varig arbeidsuførhet unngås eller utsettes lengst mulig.",
+      "xml_path": "article#kapittel-5-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-15",
+      "provision_ref": "§ 35",
+      "heading": "Plikt til utarbeidelse av attester, erklæringer mv.",
+      "path": [
+        "Kapittel 5. Fastlegens oppgaver"
+      ],
+      "text": "Fastlegen har plikt til å utarbeide helseattest kun der helseattest er påkrevd i lov eller forskrift. Det samme gjelder plikt til å utgi opplysninger som er nødvendige for pasienten ved søknad om helse- og omsorgstjenester, trygdeytelser og sosiale tjenester i arbeids- og velferdsforvaltningen.\nFastlegens plikt til å utarbeide helseattest omfatter ikke attester knyttet til fritidsaktiviteter, privatrettslige forhold o.l., med mindre det er uttrykkelig fastsatt i lov eller forskrift at fastlege eller helsepersonell skal utstede dette.",
+      "xml_path": "article#kapittel-5-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Prioritering av samisktalende personer",
+      "path": [
+        "Kapittel 6. Særlige bestemmelser"
+      ],
+      "text": "Ved etablering av liste hos samisktalende fastleger, som praktiserer i forvaltningsområdet for samisk språk, skal samisktalende ha fortrinnsrett til å stå på listen.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Tolk",
+      "path": [
+        "Kapittel 6. Særlige bestemmelser"
+      ],
+      "text": "Fastlegen skal benytte tolk ved behov. Kommunen skal sørge for at tolketjenester er tilgjengelig.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 38",
+      "heading": "Rett til å få flyttet person fra listen",
+      "path": [
+        "Kapittel 6. Særlige bestemmelser"
+      ],
+      "text": "Fastlegen kan kreve at kommunen fatter vedtak om at en person flyttes fra listen, dersom personen har fremvist truende eller voldelig adferd overfor fastlegen, andre som er ansatt hos fastlegen eller deres familier.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 39",
+      "heading": "Særlig om personer som utgjør en sikkerhetsrisiko",
+      "path": [
+        "Kapittel 6. Særlige bestemmelser"
+      ],
+      "text": "Kommunen skal sørge for nødvendige tiltak i forbindelse med personer som utgjør en sikkerhetsrisiko.\nDersom en fastlege krever en listeinnbygger strøket fra sin liste, jf. forskriften § 38, skal kommunen fatte vedtak om stryking når vilkårene for dette er oppfylt. Kommunens avgjørelse er å anse som et enkeltvedtak etter forvaltningsloven § 2 bokstav b. Vedtaket kan påklages til statsforvalteren.\nKommunen skal sikre allmennlegetjenester til innbyggere som strykes fra en liste mot sin vilje.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 40",
+      "heading": "Korrigerende tiltak ved manglende oppfyllelse av forskrift og individuell avtale",
+      "path": [
+        "Kapittel 6. Særlige bestemmelser"
+      ],
+      "text": "Den norske legeforening skal ha avtale med henholdsvis KS og Oslo kommune om hvilke korrigerende tiltak kommunen kan be om ved manglende oppfyllelse av forskrift eller individuell avtale, hvilke sanksjoner kommunen kan ilegge fastlegen og regler for hvordan dette skal gjennomføres.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 41",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 7. Sluttbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026. Fra samme dato oppheves forskrift 29. august 2012 nr. 842 om fastlegeordning i kommunene.\n§ 16 andre ledd bokstav d trer i kraft 1. april 2026.\n§ 19 trer i kraft fra den tid departementet bestemmer.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 42",
+      "heading": "Endringer i andre forskrifter",
+      "path": [
+        "Kapittel 7. Sluttbestemmelser"
+      ],
+      "text": "Fra den tid forskriften trer i kraft, gjøres følgende endringer i andre forskrifter: – – –",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    }
+  ]
+}

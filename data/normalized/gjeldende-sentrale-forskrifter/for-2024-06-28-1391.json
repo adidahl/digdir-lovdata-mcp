@@ -1,0 +1,265 @@
+{
+  "id": "FOR-2024-06-28-1391",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om lasteskip som skal føre industrielt personell",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2024-07-01",
+  "lovdata_refid": "forskrift/2024-06-28-1391",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-06-28-1391",
+  "raw_xml_sha256": "e00c5107ac4958b1ce5c8168067f8b7ed55d959fee10cba58c62fae1cf7e51c2",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder for norske lasteskip med lengde (L) 24 meter eller mer, eller med bruttotonnasje 500 eller mer, som skal føre flere enn 12 industrielt personell.\nFor utenlandske lasteskip med lengde (L) 24 meter eller mer og med bruttotonnasje under 500 som skal føre flere enn 12 industrielt personell, gjelder forskriften i Norges territorialfarvann, inkludert territorialfarvannet ved Svalbard, og ved anløp til norsk innretning eller anlegg i norsk økonomisk sone og på norsk kontinentalsokkel som angitt i § 24.\nFøring omfatter både transport og innkvartering.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Industrielt personell",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Industrielt personell er personer som transporteres eller innkvarteres om bord i forbindelse med industrivirksomhet til havs utført om bord på andre skip eller anlegg til havs.\nIndustrivirksomhet til havs er konstruksjon, vedlikehold, avvikling, drift eller service av anlegg til havs som er tilknyttet, men ikke begrenset til utforskning og utnytting av ressurser innenfor sektorene for fornybar energi eller hydrokarbonbasert energi, havbruk, gruvedrift til havs eller lignende virksomhet.\nI denne forskriften skal industrielt personell ikke behandles eller regnes som passasjerer.\nDersom skipet skal føre eller innkvartere andre personer enn skipets besetning i tillegg til industrielt personell, skal disse regnes med når antall industrielt personell skal fastsettes.\nSkipets besetning omfatter personer som er om bord for å bidra til navigering eller vedlikehold av skipet, skipets maskineri, systemer eller arrangementer som er nødvendige for fremdrift og sikker navigering, eller for å yte tjenester til andre om bord.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "SOLAS kapittel XV og IP-koden",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 SOLAS kapittel XV, vedtatt ved IMO-resolusjon MSC.521(106), og det internasjonale sikkerhetsregelverket for skip som fører industrielt personell (IP-koden), vedtatt ved IMO-resolusjon MSC.527(106), gjelder som forskrift for skip omfattet av virkeområdet til denne forskriften med de tilpasningene og utfyllende bestemmelsene som er beskrevet her.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Sertifikater",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Lasteskip med bruttotonnasje 500 eller mer som skal ha sikkerhetssertifikat for industrielt personell etter § 3, jf. SOLAS XV/5.1.3, skal ha ett av følgende:sikkerhetssertifikater for lasteskip i utenriksfartsikkerhetssertifikat for hurtiggående fartøy og operasjonstillatelse for hurtiggående fartøy, etter reglene for hurtiggående lasteskip bygget 1. juli 2002 eller senere, i utenriksfart.\nLasteskip med bruttotonnasje under 500 anses å ha oppfylt sertifiseringskravene i § 3, jf. SOLAS XV/5.1.1 og 5.1.3, ved å ha ett av følgende:fartssertifikat for lasteskip, sikkerhetssertifikat for radio og tillatelse til å føre industrielt personell etter § 20fartssertifikat for hurtiggående lasteskip som skal føre industrielt personell og operasjonstillatelse for hurtiggående lasteskip som skal føre industrielt personell, etter kapittel 2.\nSertifikater etter første og andre ledd bokstav b kan utstedes til lasteskip som er hurtiggående etter HSC2000-koden 1.4.10 og 1.4.30.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Helsekrav",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Rederiet skal sørge for at skipsføreren mottar dokumentasjon på at industrielt personell er fysisk og medisinsk skikket i samsvar med STCW-koden A-I/9 slik standarden gjelder for maskinoffiserer, eller en annen likeverdig standard.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "For skip som skal ha sikkerhetssertifikat for industrielt personell eller fartssertifikat for hurtiggående lasteskip som skal føre industrielt personell, skal det sendes inn dokumentasjon i henhold til gjeldende tegningsliste. Dokumentasjonen skal vise at kravene i denne forskriften er oppfylt.\nRederiet skal bestille tilsyn for skip nevnt i første leddi god tid før ønsket tidspunkt for pliktige tilsynsnarest mulig etter at det er inngått avtale om bygging, ombygging, endring eller reparasjonved sletting av klasse i anerkjent klasseselskapved overføring til norsk skipsregister.\nFor lasteskip med bruttotonnasje under 500 gjelder følgende:Reglene om tilsyn og sertifikater i IP-koden, jf. § 3, gjelder tilsvarende for tillatelsen etter § 4 andre ledd bokstav a og fartssertifikatet for hurtiggående lasteskip etter § 4 andre ledd bokstav b, så langt de passer.Reglene om tilsyn og sertifikater i HSC2000-koden gjelder tilsvarende for fartssertifikatet for hurtiggående lasteskip etter § 4 andre ledd bokstav b.Kontroll av skrog og maskineri skal utføres i samsvar med regler fra et anerkjent klasseselskap.\nVedlegg 1 gjelder.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Harmonisering av sertifikater",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Utløpsdatoen for sikkerhetssertifikat for industrielt personell og fartssertifikat for hurtiggående lasteskip som skal føre industrielt personell, skal harmoniseres med klassesertifikatets utløpsdato når sertifikatet er utstedt av anerkjent klasseselskap.\nFor skip uten klasse i anerkjent klasseselskap skal utløpsdatoen for sikkerhetssertifikat for industrielt personell harmoniseres med utløpsdatoen for sikkerhetssertifikat for konstruksjon.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "SOLAS kapittel X og HSC2000-koden",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "SOLAS kapittel X om sikkerhetstiltak for hurtiggående fartøy, som sist endret ved IMO-resolusjon MSC.99(73), og det internasjonale sikkerhetsregelverket for hurtiggående fartøy (HSC2000-koden), som sist endret ved IMO-resolusjon MSC.499(105), gjelder som forskrift for hurtiggående lasteskip med bruttotonnasje under 500 som skal føre flere enn 12 industrielt personell med de tilpasningene og utfyllende bestemmelsene som er beskrevet i dette kapittelet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Generelle krav til skipets strukturelle, mekaniske og elektriske deler",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Når annet ikke er bestemt, skal skipets strukturelle, mekaniske og elektriske deler være utformet, konstruert og vedlikeholdt i samsvar med gjeldende klasseregler fra et anerkjent klasseselskap.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Produksjonsforhold for skip som helt eller delvis skal bestå av støpte materialer",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Skip som helt eller delvis skal bestå av støpte materialer, skal produseres under forhold og i lokaler som er i samsvar med gjeldende klasseregler fra et anerkjent klasseselskap. Det skal finnes tilgjengelig dokumentasjon som viser at produksjon, produksjonsforhold, materialbruk mv. er i samsvar med gjeldende regelverk.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Forsterking av struktur",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Dersom skipet skal legges inntil eller knyttes til andre strukturer i sjøen, skal utsatte områder i skipets egen struktur være utformet og forsterket for å tåle den belastningen skipet kan bli utsatt for i forbindelse med dette. I vurderingen av hvilke områder som er utsatt for ekstra belastning, skal det også tas hensyn til utilsiktet kontakt mellom skipet og den andre strukturen.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Bunnbesiktelser",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "HSC2000-koden 1.5 gjelder, men slik at to bunnbesiktelser i tørrdokk i løpet av enhver periode på fem år, der tidsrommet mellom bunnbesiktelsene maksimalt er 36 måneder, gjelder i stedet for bunnbesiktelse i tørrdokk ved hvert fornyelsestilsyn og periodiske tilsyn.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Sertifikater",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Hurtiggående lasteskip med bruttotonnasje under 500 som oppfyller kapittel 1 og § 8, kan få fartssertifikat og operasjonstillatelse for hurtiggående lasteskip som skal føre industrielt personell.\nEtter HSC2000-koden 1.9.3 skal operasjonstillatelsen og operasjonsmanualen for den bestemte ruten inkludere eventuelle nasjonale betingelser fra havnestater på ruten. Informasjon om slike betingelser må innhentes av rederiet og være mottatt av Sjøfartsdirektoratet før operasjonstillatelse kan gis.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 14",
+      "heading": "Skadestabilitet for skip med lengde (Lh) under 45 meter",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "For skip med lengde (Lh) under 45 meter gjelder HSC2000-koden 2.6.7, 2.6.9, 2.6.10 og 2.6.11 på følgende måte: HSC2000-koden 2.6.7, 2.6.9, 2.6.10 og 2.6.11 gjelder for den fremste tredjedelen av skipets lengde, hvor skaden skal kunne inntreffe hvor som helst, også over vanntette tverrskipsskott. HSC2000-koden 2.6.9.2.1.1 gjelder ikke. HSC2000-koden 2.6.7 gjelder også for andre deler av skipet, men her skal skaden kun antas å inntreffe mellom vanntette tverrskipsskott, fra kjøl til dekk og fra skipets skuteside inn til skipets senterlinje.\nLengde (Lh) er skipets lengde som definert i HSC2000-koden 1.4.33.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 15",
+      "heading": "Redningsdrakter",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "I stedet for antall redningsdrakter etter HSC2000-koden 8.3.7 og 8.3.8 skal det finnes redningsdrakter til alle besetningsmedlemmer om bord.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 16",
+      "heading": "MOB-båt",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Denne paragrafen erstatter HSC2000-koden 8.10.6.\nSkip med lengde (Lh) under 30 meter kan unnlate å ha MOB-båt dersom følgende vilkår er oppfylt:Skipet har en innretning som gjør det mulig å plukke opp en hjelpeløs person fra vannet.Skipet har manøvreringsegenskaper som gjør det mulig å gå nært inntil personen i vannet og få vedkommende om bord på en sikker måte under alle forhold.Det er mulig å observere fra broen ved styreposisjon at personen tas om bord.Skipet har en løfteinnretning som er tilgjengelig og klar for bruk, og som er dimensjonert for en statisk belastning på minimum 200 kg dersom skipets fribord er over én meter.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 17",
+      "heading": "Utfyllende bestemmelser om fartøyspesifikk opplæring",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Forskrift om bygging, utrustning og drift av hurtiggående fartøy som anvendes som passasjerskip eller lasteskip § 36 tredje ledd, om rederiets system for opplæring og bedømmelse av besetningens fartøyspesifikke kompetansenivå etter HSC2000-koden 18.3, gjelder tilsvarende.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 18",
+      "heading": "Operasjonshåndbok",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "Fartøyets operasjonshåndbok etter HSC2000-koden 18.2.1 skal i tillegg inneholde informasjon om sikker hastighet i forhold til sjøtilstand og eventuelle begrensninger i styringsdyktighet.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 19",
+      "heading": "Lydmottaksanlegg",
+      "path": [
+        "Kapittel 2. Hurtiggående lasteskip med bruttotonnasje under 500"
+      ],
+      "text": "HSC2000-koden 13.14 om lydmottaksanlegg gjelder ikke for skip med lengde (Lh) under 30 meter.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Tillatelse til å føre industrielt personell",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Lasteskip med bruttotonnasje under 500 kan få tillatelse til å føre flere enn 12 industrielt personell etter denne paragrafen.\nFor å få tillatelse etter første ledd skal det sendes inn skriftlig søknad sammen med dokumentasjon som viser at skipet oppfyller samme krav som skip med bruttotonnasje 500 eller mer som skal ha sikkerhetssertifikat for industrielt personell. Vedlegg 1 gjelder.\nUnder forutsetning av at formålene og funksjonskravene i SOLAS kapittel XV og IP-koden er oppfylt, kan Sjøfartsdirektoratet gi dispensasjon fra følgende krav:krav som vurderes som mindre vesentlige for skipet på grunn av dets størrelse eller av andre åpenbare årsakerkrav som det av praktiske årsaker ikke er rimelig å kreve oppfylt, forutsatt at kompenserende tiltak vil bevare samme sikkerhetsnivå.\nTillatelsen vil fremgå av skipets fartssertifikat sammen med informasjon om eventuelle begrensninger og vilkår. Tillatelsens gyldighet følger fartssertifikatets gyldighet. Bestemmelser som gjelder for fartssertifikatet om gyldighet, utløpsdato, tilsyn og lignende, gjelder tilsvarende for tillatelsen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Sjøfartsdirektoratet kan gi pålegg om at et skip som ikke er omfattet av krav i denne forskriften, likevel skal oppfylle slike krav vedendret brukutskiftning av utstyrreparasjonombyggingøkt dypgåendeeller av andre årsaker, etter en konkret vurdering av sikkerheten ut fra skipets generelle byggetekniske utførelse, utstyr, arrangement og tilstand.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Innflagging",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Skip som overføres fra utlandet til norsk skipsregister, skal minst oppfylle regelverket for norske skip med samme byggedato eller dato for utstedelse av tillatelse, avhengig av hvilken dato som er relevant.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 23",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Sjøfartsdirektoratet kan gi dispensasjon fra krav som følger av denne forskriften.\nRederiet må sende inn skriftlig søknad som viser at minst ett av følgende vilkår er oppfylt:Særskilte grunner gjør at kravet det søkes dispensasjon fra, har mindre betydning for det bestemte skipet, og det er ellers sikkerhetsmessig forsvarlig å gi dispensasjon.Kompenserende tiltak gjør at sikkerhetsnivået bevares.Kravet det søkes dispensasjon fra, er til hinder for å prøve ut, utvikle eller bruke en nyskapende løsning, og det er sikkerhetsmessig forsvarlig å gi dispensasjon.\nProsessen for å vise at en nyskapende løsning er sikkerhetsmessig forsvarlig, skal baseres på én av følgende retningslinjer:MSC.1/Circ.1212 «Guidelines on alternative design and arrangements for SOLAS Chapters II-1 and III»MSC.1/Circ.1455 «Guidelines for the approval of alternatives and equivalents as provided for in various IMO instruments»MSC/Circ. 1002.Andre metoder eller retningslinjer kan brukes etter avtale med Sjøfartsdirektoratet.\nDersom bestemmelsen det søkes dispensasjon fra, gjennomfører internasjonalt regelverk med ingen eller begrenset adgang til å gi dispensasjon, gjelder samme begrensning for dispensasjon etter denne paragrafen.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 24",
+      "heading": "Utenlandske lasteskip",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "For utenlandske lasteskip, jf. § 1 andre ledd, må rederiet kunne dokumentere at skipet har tillatelse fra flaggstaten til å transportere eller innkvartere industrielt personell. Det må videre kunne dokumenteres at skipet oppfyller denne forskriften eller et regelverk som gir like høy sikkerhet. Kravet om norske sertifikater, jf. §§ 4, 6 og 7, gjelder ikke, men rederiet må kunne dokumentere at skipet oppfyller et tilsvarende regelverk for tilsyn og sertifikater fra flaggstaten.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 25",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. juli 2024.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    }
+  ]
+}

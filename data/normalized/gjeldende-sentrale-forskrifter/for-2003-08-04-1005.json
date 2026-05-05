@@ -1,0 +1,78 @@
+{
+  "id": "FOR-2003-08-04-1005",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om lokal regulering av jakt på svalbardrype og svalbardrein på Svalbard",
+  "short_title": "Forskrift om jakt på Svalbard",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2003-08-04",
+  "last_change_in_force": "2021-07-01",
+  "last_changed_by": "forskrift/2020-06-22-2122 fra 2021-07-01",
+  "lovdata_refid": "forskrift/2003-08-04-1005",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-08-04-1005",
+  "raw_xml_sha256": "6b68d261392c109458109fbc1486616ce8c53ba8d1c1914d4736d8f6ebbba47d",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(kvote for fastboende)",
+      "path": [
+        "Kapittel I. Kvote på svalbardrype"
+      ],
+      "text": "For fastboende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:10 ryper pr. dag.\nUnntatt fra dette er fastboende fangstfolk med jakt som næring.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(kvote for tilreisende)",
+      "path": [
+        "Kapittel I. Kvote på svalbardrype"
+      ],
+      "text": "For tilreisende jegere fastsettes en bag-limit for rekreasjonsjakt på svalbardrype med en kvote på inntil:5 ryper pr. sesong.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "(kvote for fastboende)",
+      "path": [
+        "Kapittel II. Kvote for svalbardrein"
+      ],
+      "text": "Fastboende kan felle ett dyr pr. sesong etter særskilt tillatelse fra Sysselmesteren.\nUnntatt fra dette er fastboende fangstfolk med jakt som næring. Disse tildeles årlig kvote i medhold av svalbardmiljøloven § 37.\nSysselmesteren kan redusere antallet dyr dersom data fra årlige reintellinger eller annen dokumentasjon eller kartlegging tilsier at dette er nødvendig for å sikre at høstingen ikke påvirker bestandens størrelse, sammensetning og utbredelse nevneverdig.\nDersom antallet søknader overstiger antallet fellingstillatelser som kan tildeles det enkelte år for å ivareta høstingsforskriftens formål, skal tildeling av fellingstillatelser skje ved loddtrekning.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "(jaktområde)",
+      "path": [
+        "Kapittel III. Jaktområde"
+      ],
+      "text": "Ved tildeling av fellingstillatelse for svalbardrein fastsetter Sysselmesteren hvilket område fellingen skal skje i.\nAndre jaktbare arter kan jaktes på hele Svalbard dersom annet ikke er særskilt fastsatt i lov eller med hjemmel i lov.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "(straff)",
+      "path": [
+        "Kapittel IV. Straff og ikrafttreden"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriften her, eller forbud eller pålegg gitt i medhold av forskriften, straffes med bøter eller fengsel inntil ett år. Er det inntrådt eller voldt fare for betydelig miljøskade, eller det for øvrig foreligger særdeles skjerpende omstendigheter kan fengsel inntil 3 år anvendes.\nMedvirkning straffes på samme måte.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "(ikrafttreden)",
+      "path": [
+        "Kapittel IV. Straff og ikrafttreden"
+      ],
+      "text": "Forskriften trer i kraft 4. august 2003.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,199 @@
+{
+  "id": "LOV-1961-05-05",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om grannegjerde [grannegjerdelova]",
+  "short_title": "Grannegjerdelova – ggl",
+  "department": "Landbruks- og matdepartementet",
+  "legal_area": "Fast eiendoms rettsforhold > Naborett",
+  "date_in_force": "1962-01-01",
+  "last_change_in_force": "2016-01-01",
+  "last_changed_by": "lov/2013-06-21-100 fra 2016-01-01",
+  "lovdata_refid": "lov/1961-05-05",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1961-05-05",
+  "raw_xml_sha256": "a16ac9f112ea58d6e9eb68f64b7f7cdf8ef62d443be950a5adaca2c60829b590",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Ålmenne føresegner."
+      ],
+      "text": "Føresegnene i denne lova gjeld berre når ikkje anna fylgjer av serlege rettshøve. Avtale om gjerdeskipnad gjeld framfor føresegnene i denne lova, når anna ikkje er serskilt sagt.\nGjerdehald ved offentleg veg og jarnveg går ikkje inn under lova. Lova gjev ikkje rett til å avtala, krevja eller ha gjerde som er i strid med lov eller vedtekter gjevne med heimel i lov.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Ålmenne føresegner."
+      ],
+      "text": "Når minst 10 år er gått, kan avtale om gjerdeskipnad seiast opp med eit års frist. Det same gjeld etter serlege omskifte i dei tilhøva som låg til grunn for avtala. Lenger tid eller frist kan ikkje avtalast, utan i samband med at del av eigedom vert fråskild til eige eller bruk.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Ålmenne føresegner."
+      ],
+      "text": "Grannegjerde skal vera såleis laga og vedlikehalde at det ikkje er farleg for folk eller husdyr.\nDet må ikkje gjerast såleis at det løyner bort eller skader noko delemerke.\nGjerdeskipnad i strid med denne paragrafen kan ikkje avtalast.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Ålmenne føresegner."
+      ],
+      "text": "Grannegjerde skal vera såleis laga og vedlikehalde at det ikkje er uturvande eller urimeleg til ulempe eller lyte på granneeigedom.\nDet skal setjast i delelina, ikkje lenger inn på grannegrunnen enn på eigen grunn, og ikkje lenger inn enn 0,50 meter. Denne føresegna råkar ikkje steingard som lovleg står lenger inne på grannegrunn når denne lova tek til å gjelda.\nDer det fell serleg vanskeleg eller dyrt å ha gjerdet i delelina, kan det setjast ved sida mot skadebot til grunneigaren.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Ålmenne føresegner."
+      ],
+      "text": "Når grannegjerda ikkje vert halde oppe lenger, skal grannane taka bort gjerde eller gjerderestar som kan vera farlege for folk eller husdyr. Så langt grannane ikkje har ansvar for kvart sitt stykke, skal dei dele kostnadene med å taka gjerdet eller gjerderestane bort i same høve som den skyldnaden dei hadde til å halda gjerde på den tida dette vart lagt ned. Tvist etter denne paragrafen kan avgjerast av jordskifteretten.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "path": [
+        "Rett til å ha grannegjerde."
+      ],
+      "text": "Granne har rett til å ha gjerde mot granneeigedom når han kostar det sjølv.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "path": [
+        "Tvang til å halda grannegjerde."
+      ],
+      "text": "Der grannegjerde er til nytte for eigedomane kvar for seg, kan granne krevje gjerdehald av granne, så framt det er klårt at samanlagt for båe eigedomane er nytta av gjerdehaldet større enn kostnaden.\nGjerde som er der frå før, må ikkje leggjast ned utan vedlikehaldskostnaden er større enn nytta for båe eigedomane under eitt.\nMot hyttetuft i utmark har utmarkeigaren ingen skyldnad til å halda gjerde.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "path": [
+        "Tvang til å halda grannegjerde."
+      ],
+      "text": "Der det er gjerdehaldstvang etter § 7, ber kvar av grannane sin halvpart av gjerdehaldet. Fell det då urimeleg mykje av gjerdehaldsskyldnaden på ein av grannane etter den nytta han har av gjerdet, kan gjerdehaldsskyldnaden delast mellom dei av jordskifteretten.\nVil den eine grannen ha dyrare gjerde enn den andre har skyldnad til å vera med på, har han rett til det mot at han tek på seg meirkostnaden.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "path": [
+        "Tvang til å halda grannegjerde."
+      ],
+      "text": "Hus eller anna byggverk som står såleis, at det gjer teneste i staden for grannegjerde, vert ikkje medrekna i den gjerdelengda som skal delast. Der lende, grindhald eller andre tilhøve gjer gjerdehaldet dyrare på det eine stykket enn på det andre, skal skilnaden jamnast ut med avstytting i lengda eller på annan måte som jordskifteretten fastset.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 10",
+      "path": [
+        "Tvang til å halda grannegjerde."
+      ],
+      "text": "Der det er tenlegast så, kan jordskifteretten taka avgjerd om at grannane skal ha heile eller noko av gjerdehaldet i lag eller at den eine skal ha det heile åleine mot at den andre yter honom tilskot som jordskifteretten fastset.\nAvtale eller serlege rettshøve som hindrar ein rimeleg gjerdeskipnad, kan setjast til sides mot at den grannen som får vinninga, held den andre skadelaus.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 11",
+      "path": [
+        "Gjerdehaldet i serlege eige- og brukshøve."
+      ],
+      "text": "Der ein annan enn eigaren brukar eigedomen eller eit serskilt stykke, har både brukar og eigar ansvar for gjerdehaldet andsynes grannane og rett til å krevja lovleg gjerdehald frå deira side. Om deling av kostnaden mellom eigar og brukar gjeld § 8 på tilsvarande måte.\nDer ein annan enn eigaren har beiteretten på eit serskilt stykke, eller heile eigedomen, vert beiterettshavaren rekna for brukar.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 12",
+      "path": [
+        "Gjerdehaldet i serlege eige- og brukshøve."
+      ],
+      "text": "For område som ligg i sameige mellom bruk, er retten og skyldnaden til gjerdehald utetter som om det var ein eigedom for seg. Har sameigarane ikkje kvar sitt tydeleg fastsette gjerdehaldsstykke, er dei ansvarlege ein for alle og alle for ein.\nSegimellom er sameigarane skyldige til å bera så mykje av gjerdehaldet at det svarar til den parten kvar av dei har i sameiga.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 13",
+      "path": [
+        "Gjerdehaldet i serlege eige- og brukshøve."
+      ],
+      "text": "For serskilt område der to eller fleire som ikkje er sameigarar har rett til beite, gjeld fyrste stykket i § 12 på tilsvarande måte. Er det ikkje anna delingsgrunnlag, svarar kvar av dei for gjerdehaldet etter kor mykje dyr han har rett til å ha på beitet.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 14",
+      "path": [
+        "Avgjerd om gjerdehald"
+      ],
+      "text": "Jordskifteretten avgjer spørsmål om gjerdehald i samband med sak for jordskifterett, eller som eiga sak. Jordskiftelova § 5-7 gjeld for behandlinga i jordskifteretten av saker etter lova her.\nI spørsmål om gjerdehaldstvang og gjerdehaldsdeling kan ny avgjerd krevjast når minst 15 år er gått. Det same gjeld etter eigedomsdeling og etter andre særlege omskifte i dei tilhøva som låg til grunn for avgjerda.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 15",
+      "path": [
+        "Avgjerd om gjerdehald"
+      ],
+      "text": "Kjem jordskifteretten til at der er skyldnad til å halde gjerde, tek jordskifteretten turvande avgjerder om korleis gjerdet skal vera, og kva tid det seinast skal bli sett i lovleg stand. Slike avgjerder skal mest mogeleg retta seg etter det grannane sjølve ynskjer, og etter skikk og bruk på staden.\nEr det jordbruks- eller skogbrukseigedom på ei av sidene, skal gjerdet vera minst 1,10 meter høgt og så sterkt og tett, at det fredar mot hest, naut og sau, så langt ikkje anna fylgjer av vedtekt etter § 18 b, eller avtale partane imellom. Der det er rein jordbruks- eller skogbrukseigedom på båe sider, er det ingen skyldnad til å halda gjerdet i stand utanom den tida på året då marka er tenleg til beiting (jfr. § 18 c).",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 16",
+      "path": [
+        "Avgjerd om gjerdehald"
+      ],
+      "text": "Kostnaden ved avgjerd om gjerdehald etter §§ 7 og 8 ber partane i høve til den nytta kvar av dei har av gjerde, såframt ikkje jordskifteretten finn grunn til ei anna deling. Om kostnaden elles gjeld det som er fastsett i tvisteloven kapittel 20.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 17",
+      "path": [
+        "Tvangsfullføring."
+      ],
+      "text": "Avgjerdene jordskifteretten tek er tvangsgrunnlag på same måte som orskurder. Klagen har ikkje utsetjande verknad om ikkje jordskifteretten vedtek noko anna. Føresegna i tvisteloven § 19-13 tredje og fjerde stykket gjeld tilsvarande.\nNår den eine grannen ikkje oppfyller gjerdehaldsskyldnaden, kan nåmsmannen lata den andre få fullmakt til å setja arbeidet i verk på hans kostnad. Har kravet ikkje tvangskraft, skal nåmsmannen gjeva grannen høve til å seia si meining før han tek avgjerda si. Er det ikkje tvangsgrunnlag frå før, kan tvist om kostnadsspørsmålet avgjerast av jordskifteretten når arbeidet er gjort.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 18",
+      "path": [
+        "Vedtekter."
+      ],
+      "text": "I vedtekt stadfest av Kongen kan kommunestyret:setja forbod mot visse slag grannegjerde og gjeva nærare føresegner om korleis gjerde skal vera,fastsetja andre krav til høgd, styrke og tettleik på jordbruksgjerde enn dei som er sette i § 15, andre stykket,fastsetja kva tid på året marka skal reknast for tenleg til beiting, jfr. § 15, andre stykket.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 19",
+      "path": [
+        "Ikraftsetjing og overgangsføresegner."
+      ],
+      "text": "Denne lova tek til å gjelda frå den tid1 Kongen fastset. Samstundes held fyrste kapitlet i lova om jordfreding frå 16. mai 1860 [nr. 2] opp å gjelda. – – –\n– – –\nDen gjerdeskipnaden som er mellom eigedomane når denne lova tek til å gjelda, står ved lag så lenge ikkje anna vert fastsett i gjerdeskjøn eller på annan lovleg måte. Føresegna i § 2 fyrste punktumet, skal og gjelda for avtale om gjerdeskipnad frå tida før denne lova er sett i kraft.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 20",
+      "path": [
+        "Ikraftsetjing og overgangsføresegner."
+      ],
+      "text": "Vedtekt stadfest med heimel i lov frå 14. juli 1893 om Pigtraads Anvendelse til Gjærde held fram å gjelde så langt ho kunne ha vore stadfest med heimel i § 18 i denne lova.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    }
+  ]
+}

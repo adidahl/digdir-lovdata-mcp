@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1966-12-31-4097",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om enke- eller enkemannspensjon som er delt mellom gjenlevende ektefelle og fraskilt ektefelle (samordningsforskrift 21)",
+  "short_title": "Samordningsforskrift 21",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1967-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1966-12-31-4097",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1966-12-31-4097",
+  "raw_xml_sha256": "501dca7f85b68b9d74adab2b7f1287e633b0933b86cae1887aacf6a28230943b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Når enke- eller enkemannspensjon fra tjenestepensjonsordning er delt mellom gjenlevende ektefelle og fraskilt ektefelle, skal fradraget for pensjon fra folketrygden fordeles etter antall påbegynte år hver av dem har vært gift med avdøde.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 1967.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "FOR-1975-12-19-26",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om skattefrie fondsavsetninger m.v.",
+  "short_title": "Forskrift om fondsavsetninger, 1975",
+  "department": "Finansdepartementet",
+  "last_change_in_force": "1976-02-27",
+  "last_changed_by": "forskrift/1976-02-27-1",
+  "lovdata_refid": "forskrift/1975-12-19-26",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1975-12-19-26",
+  "raw_xml_sha256": "15c1184a0ac428addf73927bb52436a514a71861914aead0d6b0e232f6fd5f24",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "I medhold av § 1, annet ledd i lov om skattefrie fondsavsetninger av 14. desember 1962 nr. 1 suspenderes med virkning for inntektsåret 1975 eller avvikende regnskapsår som utløper i 1975, adgangen til å foreta skattefrie fondsavsetninger til senere kjøp av avskrivbare driftsmidler etter samme lovs kapittel I med de unntak som er nevnt i § 2.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Suspensjon av kapittel I skal dog ikke gjelde avsetninger til investeringer som er satt som vilkår for fortsatt drift i medhold av lov om rettshøve mellom granner av 16. juni 1961 § 23 a eller lov om vannforurensning av 26. juni 1970 § 11, jfr. § 16.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Det skal ytes renter med 5 pst. pr. år av avsetninger etter § 2.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "path": [
+        "II"
+      ],
+      "text": "Midler som i henhold til lov av 14. desember 1962 om skattefrie fondsavsetninger, kapittet I, er avsatt av inntekt for 1972 frigis i sin helhet. Midlene kan inntil videre bli stående på konto i Norges Bank.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "path": [
+        "II"
+      ],
+      "text": "Skattepliktige kan istedenfor å bruke av avsetninger for inntektsåret 1972 til kjøp av nytt driftsmiddel kreve å bli skattlagt for 85 pst. av midlene eller foreta en tilsvarende ekstraordinær avskrivning av kostprisen på eldre driftsmidler uten fradrag ved inntektsligningen.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "path": [
+        "II"
+      ],
+      "text": "Når frigitte midler skal brukes til kjøp av nytt driftsmiddel, må driftsmidlet være kjøpt innen 1 år etter utløpet av det år midlene ble utbetalt fra Norges Bank.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    }
+  ]
+}

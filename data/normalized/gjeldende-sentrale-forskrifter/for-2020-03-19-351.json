@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2020-03-19-351",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra taushetsplikt ved rapportering til transaksjonsregister",
+  "short_title": "Forskrift om unntak fra taushetsplikt ved rapportering til transaksjonsregister",
+  "department": "Finansdepartementet",
+  "date_in_force": "2020-03-19",
+  "lovdata_refid": "forskrift/2020-03-19-351",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-03-19-351",
+  "raw_xml_sha256": "b56196657b3b6feb1ed160c98bcde6a92bfbcdddd1e391125381e363b47e5072",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Verdipapirforetak som gir opplysninger om verdipapirfinansieringstransaksjoner, gjenbruk av sikkerheter og liknende transaksjoner i tilknytning til rapportering til transaksjonsregistre, skal ikke anses å overtre taushetsplikten i verdipapirhandelloven § 10-5.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

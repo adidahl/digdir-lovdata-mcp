@@ -1,0 +1,1438 @@
+{
+  "id": "FOR-2017-06-15-844",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om sivil håndtering av eksplosjonsfarlige stoffer (eksplosivforskriften)",
+  "short_title": "Eksplosivforskriften",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2017-07-01",
+  "last_change_in_force": "2026-02-17",
+  "last_changed_by": "forskrift/2026-02-17-227",
+  "lovdata_refid": "forskrift/2017-06-15-844",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-06-15-844",
+  "raw_xml_sha256": "9bcecda5ed2017c165c944a4d6aa1f517fa2df6e57ff3e2fb166129b232132f8",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel. 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften skal forebygge ulykker og uønskede hendelser knyttet til håndtering av eksplosjonsfarlige stoffer. Forskriften skal også forhindre at stoffene kommer på avveie eller havner i urette hender.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hva og hvem forskriften gjelder",
+      "path": [
+        "Kapittel. 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "(1) Forskriften gjelder for all sivil håndtering av eksplosjonsfarlige stoffer, tekniske krav til sivile eksplosiver, krav til tekniske kontrollorganer og krav til markedsdeltakere.(2) Forskriften gjelder for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger som skal brukes til produksjon av eksplosiver på brukersted, og produksjon av eksplosiver ved bruk av slike stoffer.(3) For produksjon og oppbevaring av ammunisjon gjelder bestemmelsene i kapittel 1 og 2. I tillegg gjelder kapittel 3 for produksjon av ammunisjon i virksomheter. De andre bestemmelsene i forskriften gjelder for ammunisjon dersom dette fremkommer direkte i forskriften.(4) Forskriften gjelder for lasting, lossing og stasjonær oppbevaring av eksplosjonsfarlige stoffer på norske skip som ligger ankret ved kai eller i indre farvann.(5) Pyrotekniske artikler regulert i forskrift om pyrotekniske artikler er unntatt fra forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forholdet til Forsvaret og politiet",
+      "path": [
+        "Kapittel. 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "(1) For politiets håndtering av eksplosiver gjelder kun § 5, § 12 og kapittel 5.(2) Forskriften gjelder ikke for Forsvarets håndtering av eksplosiver.(3) Kapittel 12, 13, 14 og 15 gjelder heller ikke for eksplosiver og ammunisjon som er bestemt for bruk av Forsvaret eller politiet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel. 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I forskriften menes medakkreditering: en attestering fra et nasjonalt akkrediteringsorgan om at et organ oppfyller kravene i harmoniserte standarder og eventuelle tilleggskrav, til å utøve en bestemt samsvarsvurderingsvirksomhetammunisjon:Patroner eller andre gjenstander som er laget for å bli brukt i skytevåpenDrivmiddel, tennmiddel og prosjektil til gjenstander som er nevnt i bokstav a. Krutt i løsvekt anses likevel ikke å være ammunisjonHåndgranat, bomber, raketter, miner eller liknende gjenstander, som er laget for å detonere, deflagere eller sende ut lys, gass, gift, røyk eller liknendebergsprengning: bruk av eksplosjonsfarlig stoff i berg/fjell og lignende, over og under jord, over og under vann, for å fragmentere, drive ut eller knuse massebringe i omsetning: gjøre et eksplosiv tilgjengelig i EØS for første gangCE-merking: merking der produsenten angir at eksplosivet oppfyller gjeldende krav fastsatt i EØS-regelverk for slik merkingdistributør: enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør eksplosiver tilgjengelig på markedeteksplosiv: eksplosjonsfarlige stoffer og gjenstander som i henhold til De forente nasjoners (FN) rekommandasjoner om transport av farlig gods er oppført i klasse 1eksplosjonsfarlig stoff: fast, flytende eller gassformig stoff, stoffblanding samt stoff som forekommer i kombinasjon av slike tilstander, som i kraft av sine egenskaper lett vil kunne forårsake eksplosjon ved støt, gnidning, eller ved kontakt med tennkilder eller andre stoffereksportør: enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver i omsetning i en tredjestatEØS-regelverk: regelverk i EØS som harmoniserer vilkårene for markedsføring av produkterfaregruppe: eksplosiver klassifisert etter farlighetsgrad i følgende grupper etter De forente nasjoners (FN) rekommandasjoner om transport av farlig gods:a)1.1Stoffer og gjenstander som innebærer fare for masseeksplosjon (en masseeksplosjon er en eksplosjon som nærmest momentant omfatter nesten hele beholdningen).b)1.2Stoffer og gjenstander uten masseeksplosjonsrisiko, men med fare for utkast.c)1.3Stoffer og gjenstander uten masseeksplosjonsrisiko, men som innebærer brannrisiko samt en mindre sprengningsfare og/eller en mindre fare for utkast og som- i tilfelle brann kan gi betydelig strålevarme; eller- når brannen skjer etappevis, gir mindre eksplosjoner og/eller utkast.d)1.4Stoffer og gjenstander som bare innebærer ubetydelig fare dersom de blir utsatt for tenning eller initiering. Virkningen er vesentlig begrenset til kolliet, og det ventes ikke utkast av nevneverdig størrelse eller i nevneverdig avstand. En utvendig brann må ikke kunne føre til at nesten hele innholdet i kolliet eksploderer nærmest momentant.e)1.5Meget ufølsomme stoffer, som kan forårsake masseeksplosjon, men som er så ufølsomme at det er meget liten sannsynlighet for tenning eller overgang fra brann til eksplosjon under normale forhold.f)1.6Ekstremt ufølsomme gjenstander uten fare for masseeksplosjon. Gjenstandene inneholder kun meget ufølsomme eksplosivstoffer og viser en neglisjerbar sannsynlighet for utilsiktet tenning eller detonasjonsoverføring.forsager: eksplosiver som ikke har gått av ved avfyring.gjøre tilgjengelig på markedet: enhver levering av eksplosiv for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfrittharmonisert standard: en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av EØS-regelverkhåndtering: enhver omgang med eksplosjonsfarlig stoff slik som tilvirkning, oppbevaring, behandling, transport, lasting, lossing erverv, handel, innførsel, utførsel, overføring, bruk og tilintetgjøringimportør: enhver fysisk eller juridisk person etablert i EØS som bringer eksplosiver fra en tredjestat i omsetning i EØSmarkedsdeltakere: produsenten, representanten, importøren, distributøren og alle andre fysiske eller juridiske personer som oppbevarer, bruker, overfører, importerer, eksporterer, eller driver handel med eksplosivermobil enhet for produksjon av eksplosiver: en enhet som produserer og lader eksplosiver fra farlig gods, som ikke er eksplosiver. Enheten kan være påmontert et kjøretøy.nasjonalt akkrediteringsorgan: det eneste organet i en EØS-stat som utfører akkreditering på oppdrag fra statennetto eksplosivinnhold (NEI): den totale massen av eksplosiv uten emballasje, rør, prosjektiler osv.overføring: enhver fysisk flytting av eksplosiver innenfor EØS-området unntatt forflytning innenfor ett og samme anleggoverføringstillatelse: den beslutningen som treffes om å tillate planlagt overføring av eksplosiver innenfor EØS-områdetproduksjon: enhver fremgangsmåte hvor eksplosiver blir fremstilt, sammenstilt eller bearbeidet. Klargjøring av ammunisjon, montering av tennmidler eller liknende handling som etter anerkjent praksis blir foretatt i forbindelse med bruken av eksplosivet, er ikke produksjonprodusent: enhver fysisk eller juridisk person som produserer et eksplosiv, eller får eksplosiver konstruert eller produsert, og som markedsfører det under eget navn eller varemerke, eller tar det i bruk til egne formålrepresentant: enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaversalveplan: skriftlig plan som beskriver hvordan boring, lading, tenning og dekking av den enkelte salven skal være, slik at sikkerheten blir ivaretatt som planlagt og beskrevet i sprengningsplanen.samsvarsvurdering: prosessen for å fastslå om et eksplosiv oppfyller de grunnleggende sikkerhetskravenesprengningsplan: skriftlig plan for hvordan sikkerheten skal ivaretas i forbindelse med sprengning på et bestemt områdesteinsprekking: bruk av teknisk innretning som ved hjelp av eksplosjonsfarlig stoff sprekker og deler berg eller annet materialeteknisk kontrollorgan: uavhengig organ som er utpekt etter lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingarteknisk spesifikasjon: et dokument der det er fastsatt hvilke tekniske krav som et eksplosiv skal oppfylleteknisk sprengning: annen sprengning enn bergsprengning, slik som sprengning ved smelteverk, seismikksprengning, bruk av sprengstoff ved skjøting av linjer eller kutting av trær, sprengning i brønnhull for kapasitetsøkning, samt demolering av byggverk eller faste installasjoner med liten risiko for skade på omgivelsertennmiddel: eksplosiv som brukes til å innlede sprengkjeden i et annet eksplosiv, unntatt tennmidler til ammunisjontilbakekalling: ethvert tiltak rettet mot tilbakelevering av et eksplosiv som allerede er gjort tilgjengelig for brukernetilbaketrekking: ethvert tiltak rettet mot å hindre at et eksplosiv i omsetningskjeden blir gjort tilgjengelig på markedet.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Krav til aktsomhet",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "Alle som har tilgang til eller kommer over eksplosjonsfarlige stoffer, skal gjøre det som er nødvendig for å forhindre fare for brann eller eksplosjon, og at stoffene kommer på avveie eller havner i urette hender.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Forbud mot bruk av åpen ild",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "Det er forbudt å bruke åpen ild eller andre tennkilder innenfor anlegg, områder eller i rom der det er eksplosjonsfarlige stoffer, dersom det kan føre til fare for brann eller eksplosjon. Virksomheten skal sørge for at informasjon om forbudet er lett synlig.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Forbudt håndtering av eksplosjonsfarlige stoffer",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Det er forbudt å eie eller ha eksplosjonsfarlige stoffer som ikke er knyttet til en lovlig håndtering.(2) Det er forbudt å overlate eksplosjonsfarlige stoffer til noen som ikke har lov til å ha slike stoffer.(3) Stoffer og stoffblandinger som ikke er definert som eksplosiv, men som ved bruk av enkle foredlingsprosesser som avdamping, filtrering eller liknende gir et eksplosiv, slik som for eksempel nitrocellulose, skal ikke gjøres tilgjengelig for eller håndteres av privatpersoner eller virksomheter som ikke har et yrkesmessig behov.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Forbudt håndtering av eksplosiver",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Det er forbudt å håndtere eksplosiver, dersom man ikke er en virksomhet med en tillatelse til den aktuelle håndteringen, eller dersom det ikke fremkommer direkte i forskriften.(2) Den som skal bruke eksplosiver på vegne av en virksomhet skal ha et sertifikat eller en særlig godkjenning fra Direktoratet for samfunnssikkerhet og beredskap, eller være registrert hos direktoratet eller den direktoratet har gitt en fullmakt, dersom ikke det fremkommer noe annet i forskriften.(3) Det er forbudt å eie, ha eller bruke eksplosiver som ikke er i samsvar med de grunnleggende sikkerhetskravene i vedlegg II, dersom det ikke skjer i forbindelse med produktutvikling etter § 58 eller etter en særlig godkjenning.(4) Eksplosiver skal bare brukes til det de er bestemt for og i tråd med anvisninger og sikkerhetsinformasjon fra produsent, produsentens representant eller importør.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Avdekke, vurdere og redusere risiko",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheter som håndterer eksplosjonsfarlige stoffer skal kartlegge farekilder og identifisere uønskede hendelser som kan oppstå ved håndteringen av stoffene. Kartleggingen skal omfatte både interne og eksterne forhold, og uønskede tilsiktede hendelser.(2) Virksomheten skal på bakgrunn av kartleggingen vurdere risikoen, og gjennomføre tiltak for å redusere risikoen til et akseptabelt nivå.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Beredskapsplan og egenberedskap",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheter som håndterer eksplosjonsfarlige stoffer skal utarbeide en beredskapsplan, og etablere en tilstrekkelig egenberedskap.(2) Virksomheten skal samordne beredskapsplanen sin med relevante nød- og beredskapsetater dersom virksomhetens art, risiko, størrelse eller kompleksitet tilsier det.(3) Beredskapsplanen skal inneholde opplysninger om hvordan egenberedskapen er organisert og beskriveansvar og oppgavefordeling under innsats ved ulykker og andre uønskede hendelseralarmeringsinstrukser og varslingslisteroppgaver som umiddelbart skal utføres ved alarmpersonell, materiell og utstyr som er tilgjengelig.(4) Virksomheten skal regelmessig gjennomgå beredskapsplanen og øve egenberedskapen.(5) Virksomheten skal sørge for at det er egnet slokke- og beredskapsutstyr lett tilgjengelig på steder der eksplosjonsfarlige stoffer håndteres.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "Nabovirksomheter",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "Nabovirksomheter som håndterer eksplosjonsfarlige stoffer hver for seg, og hvor en hendelse i en av virksomhetene kan få konsekvenser for den andre virksomheten, skal utveksle informasjon og samordne tiltak slik at sikkerheten blir ivaretatt.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "heading": "Krav til kvalifikasjoner, skikkethet og alder",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheter og personer som håndterer eksplosjonsfarlige stoffer, skal være skikket og ha kunnskap, erfaring og ferdigheter slik at stoffene blir håndtert på en sikker måte.(2) Personer som håndterer eksplosiver skal være over 18 år. Personer som er under opplæring i fjell- og bergverksfaget med fordypning bergsprengning, kan likevel håndtere eksplosiver fra de er fylt 16 år. Praksiskandidater må være fylt 18 år før praksisperioden etter § 81 starter opp.(3) Virksomheten skal ikke la noen planlegge en aktivitet med eller håndtere eksplosjonsfarlige stoffer, som går ut over det disse har kunnskap, erfaring og ferdigheter til, eller er skikket til.(4) Virksomheten skal sørge for at ansatte som håndterer eksplosjonsfarlige stoffer, har opplæring iregelverk som gjelder for stoffene og håndteringen av stoffenestoffenes egenskaper, sammensetning, virkemåte og risikosikker håndtering av stoffenesikring av stoffene.(5) Omfanget og innholdet i opplæringen skal være tilpasset det ansvaret og de oppgavene som den ansatte har.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "heading": "Krav til politiattest ved ansettelse",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheter som ansetter personer som skal håndtere eksplosiver skal sørge for at personen legger frem en ordinær politiattest, dersom personen ikke har et gyldig sertifikat som bergsprenger eller bergsprengningsleder.(2) Ved vurderingen av politiattesten skal det kun legges vekt på opplysninger som er av betydning for om personen er skikket til å håndtere eksplosiver, vurdert opp mot formålet med brann- og eksplosjonsvernlovgivningen.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 14",
+      "heading": "System for rapportering og oppfølging av ulykker og uønskede hendelser",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheter skal ha et system for intern rapportering av ulykker og uønskede hendelser ved håndtering av eksplosjonsfarlige stoffer.(2) Virksomheten skal etter en ulykke eller uønsket hendelse, gjennomgå og dokumentere hva som var årsaken og hva som er gjort for å rette opp forholdet slik at det samme ikke skjer igjen.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 15",
+      "heading": "Plikt til å melde til Direktoratet for samfunnssikkerhet og beredskap og varsle politiet",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheten skal etter en ulykke ved håndtering av eksplosjonsfarlig stoff, umiddelbart melde fra til Direktoratet for samfunnssikkerhet og beredskap. Meldingen kan gis muntlig. Snarest og senest innen tre virkedager skal virksomheten også sende en elektronisk melding om ulykken til Direktoratet for samfunnssikkerhet og beredskap. I tillegg skal politiet varsles dersom ulykken har eller kunne fått alvorlige konsekvenser for liv, helse, skade på samfunnsviktige institusjoner eller tredjemanns materielle verdier.(2) Virksomheten skal etter en uønsket hendelse ved håndtering av eksplosjonsfarlig stoff snarest og senest innen tre virkedager sende en elektronisk melding om hendelsen til Direktoratet for samfunnssikkerhet og beredskap.(3) Etter ulykker med bruk av eksplosiver eller ved mobil tilvirkning av eksplosiver, som har eller kunne fått alvorlige konsekvenser for liv, helse, skade på samfunnsviktige institusjoner eller tredjemanns materielle verdier, skal virksomheten ikke rydde skadestedet før dette er avtalt med politiet.(4) Virksomheten skal sende en elektronisk melding til Direktoratet for samfunnssikkerhet og beredskap om funn av forsagere.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 16",
+      "heading": "Plikt til å rapportere om tyverier og svinn til politiet",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "Virksomheter som håndterer eksplosiver skal ved tap, uforklarlig svinn, tyveri, forsøk på tyveri, mistenkelige kjøp eller forsøk på mistenkelige kjøp, straks melde fra til lokalt politi. Lokalt politi skal igjen varsle KRIPOS om de aktuelle forhold.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 17",
+      "heading": "Plikt til å varsle politiet ved funn av eksplosiver",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Alle som finner, eller uten lovlig adgang får eksplosiver i sin besittelse, skal snarest mulig varsle politiet om dette.(2) Politiet skal sørge for at eksplosivene blir tatt hånd om av produsent, importør eller distributør av eksplosivene, eller av virksomhet som har tillatelse til å tilintetgjøre eksplosiver.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-14",
+      "provision_ref": "§ 18",
+      "heading": "Plikt til å levere, hente og overta eksplosiver for tilintetgjøring",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Ingen skal bruke eksplosiver som er skadet, men levere disse tilbake til produsent, importør, distributør eller til virksomhet med tillatelse til tilintetgjøring.(2) Produsent, importør og distributør av eksplosiver har plikt til å hente, overta og om nødvendig tilintetgjøre sivile eksplosiver som er funnet eller er skadet, og som ikke lenger skal brukes. Denne plikten gjelder uavhengig av om produsent, importør og distributør har gjort de aktuelle sivile eksplosivene tilgjengelig på markedet.(3) Produsent, importør eller distributør må enten selv ha tillatelse til tilintetgjøring eller benytte en annen virksomhet som har tillatelse til å tilintetgjøre eksplosiver.",
+      "xml_path": "article#kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-15",
+      "provision_ref": "§ 19",
+      "heading": "Kostnader ved tilintetgjøring av eksplosiver",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Produsent, importør og distributør av eksplosiver kan kreve kostnadene med å hente, overta og tilintetgjøre eksplosiver etter § 18 annet ledd dekket av virksomheten som er eier, innehaver eller sluttbruker av eksplosivene.(2) Produsent, importør og distributør må selv dekke omkostningene med å hente, overta og tilintetgjøre sivile eksplosiver etter § 18 annet ledd, dersom eksplosivene er funnet av privatpersoner og eksplosivene ikke kan spores tilbake til distributør, siste lovlige eier, innehaver eller sluttbruker.",
+      "xml_path": "article#kapittel-2-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-16",
+      "provision_ref": "§ 20",
+      "heading": "Krav til risikovurdering før bruk av maskiner mv.",
+      "path": [
+        "Kapittel. 2. Felles bestemmelser for håndtering av eksplosiver og eksplosjonsfarlige stoffer"
+      ],
+      "text": "(1) Virksomheten skal ikke ta i bruk maskiner, apparat eller andre innretninger for håndtering av eksplosjonsfarlige stoffer, før det er gjennomført en dokumentert risikovurdering.(2) Virksomheten skal beskrive maskinen, apparatet eller innretningen og kartlegge farekilder og identifisere uønskede hendelser som kan oppstå ved bruken.(3) Virksomheten skal på bakgrunn av kartleggingen analysere og vurdere risikoen.(4) Virksomheten skal gjennomføre tiltak for å fjerne eller kontrollere risikomomentene.",
+      "xml_path": "article#kapittel-2-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Krav om tillatelse og hvem som gir den",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Overføring, import, eksport, produksjon, oppbevaring, distribusjon, erverv og tilintetgjøring av eksplosiver krever tillatelse fra Direktoratet for samfunnssikkerhet og beredskap. Søknaden skal leveres elektronisk og inneholde alle opplysninger det spørres etter.(2) Kommunen behandler søknader fra virksomheter om tillatelse til oppbevaring av inntil 50 kilo røyksvakt krutt.(3) Politiet behandler søknader om tillatelse til erverv av krutt eller tennmidler til ammunisjon fra privatpersoner.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Hvem som kan få tillatelse",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Tillatelse kan bare gis til virksomheter som er skikket og har et yrkesmessig behov, når hensynet til sikkerhet og sikring er ivaretatt, dersom det ikke fremkommer noe annet direkte i forskriften.(2) Virksomheten skal være registrert i Foretaksregisteret eller Enhetsregisteret, ha en dokumentert internkontroll og ha ansatt personell med nødvendig kunnskap, erfaring og ferdigheter.(3) Ved vurderingen av om en tillatelse skal gis, skal det særlig tas hensyn til om anlegg og systemer som er nødvendige for å opprettholde eller gjenopprette samfunnets kritiske funksjoner, eller andre sårbare objekter kan bli berørt.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Krav til god vandel for ledelsen i virksomheten",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "Ledelsen i virksomheten skal ha god vandel. Direktoratet for samfunnssikkerhet og beredskap kan kreve at virksomheten legger frem en tilfredsstillende ordinær politiattest for administrerende direktør, styreleder, styremedlem, daglig leder, innehaver av enkeltpersonsforetak, eller person som er overordnet den ansatte som skal håndtere eksplosiver. Politiattesten skal ikke være eldre enn tre måneder.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Dokumentasjon som skal legges frem ved søknad",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Den som sender melding eller søker om godkjenning, tillatelse eller sertifikat, skal gi de opplysningene og legge frem den dokumentasjonen og de risikovurderingene, som er nødvendige for å avgjøre om søknaden kan innvilges eller om meldingen er rettmessig. Dokumentasjonen skal tilpasses virksomhetens art, kompleksitet og størrelse.(2) Når vesentlige forutsetninger for en godkjenning, tillatelse eller melding endres, skal virksomheten informere tilsynsmyndigheten om endringen.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Dokumentasjon for oppfyllelse av krav til internkontroll",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Virksomhet som søker om tillatelse til håndtering av eksplosiver, skal på forespørsel kunne legge frem skriftlig informasjon som på en oversiktlig og enkel måte forklarer hvordan virksomheten oppfyller kravet til systematisk internkontroll. Det kan kreves at informasjonen legges frem elektronisk.(2) Virksomheten skal kunne dokumentere at den har personell med relevant kunnskap, erfaring og ferdigheter knyttet til det søknaden gjelder.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Vilkår i tillatelsen",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "Når det blir gitt en godkjenning, tillatelse eller sertifikat, kan det fastsettes særlige vilkår for å forebygge fare for brann, eksplosjon eller for at eksplosivene kommer på avveie eller i urette hender.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Varigheten av tillatelse og godkjenning",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Tillatelser og godkjenninger kan gis for inntil fem år. I særlige tilfeller kan tillatelsen gis for inntil ti år.(2) En tillatelse eller godkjenning faller bort dersom forutsetningene som lå til grunn for tillatelsen eller godkjenningen ikke lenger er oppfylt.(3) Innehaver av tillatelse eller godkjenning skal sende melding til den myndighet som ga tillatelsen eller godkjenningen dersom tillatelsen eller godkjenningen ikke lenger brukes.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 28",
+      "heading": "Konkursbo og videre drift av virksomhet med tillatelse til å håndtere eksplosiver",
+      "path": [
+        "Kapittel 3. Felles bestemmelser for tillatelser til håndtering av eksplosiver"
+      ],
+      "text": "(1) Konkursbo kan fortsette en virksomhet som har tillatelse etter forskriften i inntil ett år fra konkursåpning, dersom ikke gyldigheten av tillatelsen er av kortere varighet. Boet må følge de regler som gjelder for virksomheten og skal innen to måneder fra konkursåpning sende melding til Direktoratet for samfunnssikkerhet og beredskap om at det vil fortsette virksomheten.(2) Skiftemyndigheten, bobestyrer eller den som er legitimert ved skifteattest, kan uten tillatelse overlate eksplosiver til produsent, importør, distributør, eller til virksomhet med tillatelse til å erverve eksplosiver. Et konkursbo kan ikke levere tilbake beslaglagte eksplosiver til skyldneren, dersom skyldneren ikke har tillatelse til å håndtere eksplosivene.(3) Før boet avsluttes skal skiftemyndigheten, bobestyrer eller den som er legitimert ved skifteattest, sørge for en forsvarlig retur av eksplosiver til produsent, importør, distributør, eller til virksomhet med tillatelse til tilintetgjøring.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 29",
+      "heading": "Overføring av eksplosiver",
+      "path": [
+        "Kapittel 4. Overføring innenfor EØS-området, import og eksport"
+      ],
+      "text": "(1) Før eksplosiver kan overføres til Norge, skal mottakeren av eksplosivene ha en tillatelse til overføring utstedt på et særskilt skjema gitt av Direktoratet for samfunnssikkerhet og beredskap. Tillatelse til erverv av eksplosiver gjelder innenfor Norges grenser som tillatelse til overføring.(2) For å kunne få tillatelse til overføring til Norge, må mottakeren av eksplosivene tilfredsstille kravene til å kunne erverve eksplosiver etter forskriftens kapittel 8.(3) Tillatelsen til overføring eller en bekreftet kopi av tillatelsen skal følge eksplosivene frem til bestemmelsesstedet. Mottakeren av eksplosivene skal oppbevare tillatelsen til overføring eller en bekreftet kopi av tillatelsen i minst tre år fra overføringen har funnet sted.(4) Før overføring fra Norge må avsender forsikre seg om at mottaker av eksplosivene har en tillatelse til overføring fra vedkommende myndighet på bestemmelsesstedet.(5) Skjer overføringen via én eller flere stater innenfor EØS-området skal avsender av eksplosivene sørge for at vedkommende myndighet i de enkelte land får en melding om overføringen. Overføring skal ikke skje før disse myndighetene har gitt sitt samtykke. Dersom overføringen skjer fra eller via Norge skal avsender innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap.(6) Det kan stilles særlige krav til kontroll med overføring av eksplosiver dersom det er behov for å ivareta særlige hensyn til offentlig sikkerhet. Direktoratet for samfunnssikkerhet og beredskap kan i slike tilfeller kreve at følgende opplysninger skal legges frem ved søknad om tillatelse til overføring:foretaksnavn og adresse til de involverte markedsdeltakerneantall og mengde eksplosiver som skal overføresfullstendig beskrivelse og identifikasjon av eksplosivene, inkludert UN-nummer og identifikasjonsmerkehvordan samsvar med betingelsene for å bringe eksplosivene i omsetning etter kapittel 13 er ivaretatttransportmidler og transportruteavsendelsesdato og forventet ankomstdatonøyaktig sted for grensepasseringer.(7) Dersom det ikke er behov for å ivareta særlige hensyn til offentlig sikkerhet kan eksplosivene overføres uten at opplysningen i sjette ledd er meldt på forhånd. Tillatelsen til overføring gis da for en bestemt periode. Tillatelsen kan trekkes tilbake dersom det foreligger særlige grunner til det.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 30",
+      "heading": "Opplysningsplikt om overføring",
+      "path": [
+        "Kapittel 4. Overføring innenfor EØS-området, import og eksport"
+      ],
+      "text": "Markedsdeltakere plikter på forespørsel fra vedkommende myndigheter innenfor EØS å gi all relevant informasjon om overføring av eksplosiver.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 31",
+      "heading": "Import av eksplosiver",
+      "path": [
+        "Kapittel 4. Overføring innenfor EØS-området, import og eksport"
+      ],
+      "text": "(1) Før eksplosiver kan importeres til Norge fra tredjeland, skal mottakeren av eksplosivene ha en tillatelse til import.(2) For å kunne få tillatelse til import til Norge må mottakeren av eksplosivene tilfredsstille kravene til å kunne erverve eksplosiver etter kapittel 8.(3) Før transitt i forbindelse med import, skal det foreligge en tillatelse fra vedkommende myndighet i transittstaten.(4) Tillatelsen til import eller en bekreftet kopi av tillatelsen skal følge eksplosivene frem til bestemmelsesstedet. Mottakeren av eksplosivene skal oppbevare tillatelsen til import eller en bekreftet kopi av tillatelsen i minst tre år fra importen har funnet sted.(5) Dersom det er behov for å ivareta særlige hensyn til offentlig sikkerhet ved import av eksplosiver kommer bestemmelsene i § 29 sjette ledd til anvendelse.(6) Denne bestemmelsen gjelder også ved sivil import av eksplosiver som er bestemt for bruk av Forsvaret.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 32",
+      "heading": "Eksport av eksplosiver",
+      "path": [
+        "Kapittel 4. Overføring innenfor EØS-området, import og eksport"
+      ],
+      "text": "(1) Før eksplosiver kan eksporteres fra Norge til tredjeland, skal eksportør av eksplosivene ha en tillatelse til eksport.(2) Eksportkontrolloven kommer til anvendelse ved vurderingen av om tillatelse til eksport skal gis.(3) Før transitt i forbindelse med eksport, skal det foreligge en tillatelse fra vedkommende myndighet i transittstaten.(4) Tillatelsen til eksport eller en bekreftet kopi av tillatelsen skal følge eksplosivene frem til bestemmelsesstedet. Eksportør skal oppbevare tillatelsen til eksport eller en bekreftet kopi av tillatelsen i minst tre år fra eksporten har funnet sted.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 34",
+      "heading": "Tillatelse til oppbevaring av eksplosiver",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Før eksplosiver kan oppbevares skal det foreligge en tillatelse.(2) Uten tillatelse kan det allikevel forsvarlig nedlåst oppbevares:Inntil fem kilo røyksvakt kruttInntil tre kg svartkrutt separert i enheter på inntil én kilo.(3) Kommunen kan selv om eksplosivene kan oppbevares uten tillatelse, fastsette nærmere vilkår, begrensinger eller forbud mot oppbevaring, dersom eksplosivene etter forholdene på stedet kan medføre særlig fare for brann eller eksplosjon.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 35",
+      "heading": "Krav til vakttelefon og lokal lageransvarlig",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "Virksomhet som har tillatelse til å oppbevare eksplosiver, skal ha en vakttelefon som til enhver tid er bemannet. Virksomheten skal ha ansatt en eller flere lokale lageransvarlige, som på kort varsel skal kunne møte på oppbevaringsstedet. Lokal lageransvarlig skal ha god kunnskap om eksplosivene og lagerforholdene. Lokal lageransvarlig skal ha god vandel og kunne legge frem en ordinær politiattest som ikke er eldre enn tre måneder.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 36",
+      "heading": "Krav til arealmessige begrensninger",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "Virksomheten skal plassere eksplosivlageret slik at kravene til sikkerhetsavstander i § 37 oppfylles. Dersom kravene til sikkerhetsavstander ikke kan oppfylles, kan det legges frem en risikovurdering etter § 37 tredje ledd. Virksomheten skal til enhver tid kunne dokumentere at forutsetningene som er lagt til grunn for tillatelsen er oppfylt.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 37",
+      "heading": "Krav til plassering av rom, bygning eller innretning",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Rom, bygning eller innretning for oppbevaring av eksplosiver skal plasseres slik at sannsynligheten for og konsekvensen av en eventuell brann eller eksplosjon begrenses.(2) Lageret bør ikke plasseres i skred-, ras- eller flomutsatte områder.(3) Den som søker om tillatelse til oppbevaring skal dokumentere at kravet i første ledd er oppfylt. Dokumentasjonen kan skje gjennom å påvise at sikkerhetsavstandene i fjerde til tolvte ledd er oppfylt, eller ved en risikovurdering hvor resultatene sammenholdes med akseptkriterier som defineres av Direktoratet for samfunnssikkerhet og beredskap.(4) Sikkerhetsavstander beregnes etter formelen D = k x Qn hvor:D = Sikkerhetsavstand i meterk = konstant som er avhengig av eksplosivets egenskaper og hvilken type objekt som er utsattQ = netto eksplosiver i kgn = faktor som er avhengig av eksplosivenes egenskaper.(5) På grunn av fare for splinter og utkast skal sikkerhetsavstanden ikke være mindre enn den angitte minsteavstanden – Dmin – for den aktuelle situasjonen, dersom ikke risikovurderingen viser at mindre avstand er akseptabel. Denne avstanden er avhengig av type eksplosiver og utsatt objekt.(6) Ved samlagring av flere faregrupper, skal strengeste krav til avstand gjelde for totalmengden.(7) Sikkerhetsavstander og faktorer for faregruppe 1.1 er:Avstand i meter til:Sykehus, skole, barnehage, høyblokk og forsamlingslokalerAvstand i meter til:BolighusAvstand i meter til:Offentlig veg, kai, jernbane o.l.Avstand i meter mellom magasiner med barrikadeAvstand i meter mellom magasiner uten barrikadek = 44,4,n = 1/3k = 22,2,n = 1/3k = 14,8,n = 1/3k = 2,4,n = 1/3k = 22,2,n =1/3Dmin = 800Dmin = 400Dmin = 180Dmin = 8Dmin = 180(8) Sikkerhetsavstander og faktorer for faregruppe 1.2 er:Avstand i meter til:Sykehus, skole, barnehage, høyblokk og forsamlingslokalerAvstand i meter til:BolighusAvstand i meter til:Offentlig veg, kai, jernbane o.l.Avstand i meter mellom magasiner med/uten barrikadek = 136,n = 0.18k = 68,n = 0.18k = 68,n = 0.18---------------Dmin = 400Dmin = 270Dmin = 135Dmin = 90(9) Sikkerhetsavstander og faktorer for faregruppe 1.3 er:Avstand i meter til:Sykehus, skole, barnehage, høyblokk og forsamlingslokalerAvstand i meter til:BolighusAvstand i meter til:Offentlig vei, kai, jernbane o.l.Avstand i meter mellom magasiner med/uten barrikadek = 12,8,n = 1/3k = 6,4,n = 1/3k = 6,4,n = 1/3k = 0,22,n = ½Dmin = 240Dmin = 60Dmin = 60Dmin = 25(10) Sikkerhetsavstander for eksplosiver i faregruppe 1.4 er 25 meter til nærmeste nabo for mengder opp til ti tonn og 50 meter for mengder over ti tonn.(11) Sikkerhetsavstander og faktorer for eksplosiver i faregruppe 1.5 skal ved oppbevaring være de samme som for faregruppe 1.1.(12) Sikkerhetsavstander og faktorer for eksplosiver i faregruppe 1.6 skal ved oppbevaring være de samme som for faregruppe 1.2.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 38",
+      "heading": "Krav til lager",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Rom, bygning og innretning for oppbevaring av eksplosiver skal være utført og innredet slik at det ikke oppstår særlig fare for brann eller eksplosjon. De skal som et minimum kunne stå imot et innbruddsforsøk i 20 minutter og ellers være utført slik at eksplosivene ikke kommer på avveie eller havner i urette hender.(2) I rom, bygning og innretning hvor det er gitt tillatelse til oppbevaring av eksplosiver, skal det være installert alarm som sikrer tidlig varsling og forsvarlig respons.(3) Bygning og innretning skal være forsvarlig inngjerdet med låsbar port og med gjerde som slutter godt ned mot bakken.(4) Rom, bygning og innretning skal være betryggende forankret til grunnen og ha ventilasjon som sikrer god utlufting.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 39",
+      "heading": "Krav til elektriske installasjoner",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) I rom, bygning og innretning hvor det er gitt tillatelse til oppbevaring av eksplosiver skal det installeres jordingssystem for å hindre statisk elektrisitet.(2) I områder hvor lynnedslag ofte forekommer, skal det vurderes om det er behov for å ha et system for lynavledning.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 40",
+      "heading": "Generelle krav til sikker drift",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Rom, bygning og innretning for oppbevaring av eksplosiver skal drives og vedlikeholdes i samsvar med virksomhetens internkontroll og de risikovurderinger, driftsforutsetninger og tillatelser som gjelder for oppbevaringen. Det skal være utarbeidet egnede sikkerhetsinstrukser og beredskapsplaner for sikker drift og forsvarlig vedlikehold.(2) Sikkerhetsinstruksen og beredskapsplanen skal være utformet slik at de er tilpasset forholdene på stedet der oppbevaringen foregår.(3) Oppbevaringsstedet skal kontrolleres regelmessig, og som et minimum én gang per uke.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 41",
+      "heading": "Krav til å føre oversikt over beholdning",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "Virksomhet som har tillatelse til oppbevaring av eksplosiver, skal til enhver tid ha tilgjengelig en oppdatert oversikt over beholdningen av eksplosivene som oppbevares. Virksomhet som leier et oppbevaringssted, skal ha en tilsvarende oversikt over sin egen beholdning i lageret.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 42",
+      "heading": "Samlagring av eksplosiver",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Eksplosiver skal ikke oppbevares sammen med andre eksplosiver, med mindre de er forenlige. Sprengstoff og tennere skal uansett forenlighet ikke oppbevares sammen.(2) Når eksplosiver i flere faregrupper lagres sammen, gjelder det strengeste kravet til avstand til omgivelsene for hele mengden.(3) Avstand mellom container som inneholder sprengstoff og container som inneholder tennmidler skal være minst én meter.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 43",
+      "heading": "Samlagring av eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "(1) Eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1 skal oppbevares separert. Separasjonsavstanden beregnes etter formelen D= k*Qn. Følgende tabell for separasjonsavstander skal brukes:Avstand i meter mellom eksplosivmagasin med barrikade og lager med ammoniumnitratholdig stoff eller stoffblandingAvstand i meter mellom eksplosivmagasin og lager med ammoniumnitratholdig stoff eller stoffblanding som det ikke er barrikade mellomk= 2,4n= 1/3Dmin = 8 meterk= 22,2n= 1/3Dmin = 180 meter(2) Dersom tilstrekkelige separasjonsavstander mellom eksplosiver og ammoniumnitratholdige stoffer og stoffblandinger ikke innfris, skal den totale mengden eksplosiv beregnes etter følgende formel: Qtotal= Q + QAN/2 der Q er mengden av eksplosiver og QAN er total mengde av ANE, AN og ANSOL. Ved beregning av sikkerhetsavstand for Qtotal skal tabell for faregruppe 1.1 benyttes.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 44",
+      "heading": "Eksplosiver som er skadet",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "Eksplosiver som er skadet eller som skal tilintetgjøres, skal kontrolleres og merkes spesielt og ikke oppbevares unødig sammen med andre eksplosiver.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-12",
+      "provision_ref": "§ 45",
+      "heading": "Fjerning av eksplosiver før endringer",
+      "path": [
+        "Kapittel. 5. Oppbevaring"
+      ],
+      "text": "Eksplosiver skal fjernes før det settes i gang ombygging, endring eller reparasjon av rom, bygning eller innretning hvor eksplosivene oppbevares.",
+      "xml_path": "article#kapittel-5-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 46",
+      "heading": "Virkeområde for dette kapittelet",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "Dette kapittelet gjelder for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1, på lager som er etablert for produksjon av eksplosiver på brukersted, uavhengig av om lageret er etablert på brukerstedet. Kravene i § 55 og § 56 gjelder for all oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1 uansett hva som er formålet med oppbevaringen.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 47",
+      "heading": "Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Virksomheten som har tillatelse til produksjon av eksplosiver på brukersted skal ivareta kravene til sikkerhet og sikring som gjelder for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger som inngår i produksjonen.(2) Ammoniumnitratholdige stoffer og stoffblandinger til produksjon av eksplosiver på brukersted skal oppbevares i egnet tank, telt, bygning eller fjellhall.(3) Virksomheten skal til enhver tid ha oversikt over hvor oppbevaringen skjer og i hvor store mengder.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 48",
+      "heading": "Melding om oppbevaring",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Melding om oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger skal gis i tråd med forskrift 8. juni 2009 nr. 602 om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen om håndtering av farlig stoff. Meldingen skal i tillegg inneholde en bekreftelse på at sikkerhets- og sikringstiltakene etter dette kapittelet er oppfylt.(2) Meldingen skal oppdateres ved endringer.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 49",
+      "heading": "Krav til sikkerhetsavstand",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Virksomheter som oppbevarer ammoniumnitratholdige stoffer og stoffblandinger må sørge for at risikoen er redusert til et nivå som med rimelighet kan oppnås. Før oppbevaring må virksomheten kartlegge farer og problemer med oppbevaringen og på denne bakgrunn vurdere risikoen. Vurderingen skal spesielt ta hensyn til oppbevaring i nærheten av sykehus, skole, barnehage, høyblokk, forsamlingslokale, kjøpesenter eller liknende.(2) Videre skal vurderingen ta hensyn til andre virksomheter som håndterer farlige stoffer eller utfører en aktivitet som innebærer fare for brann eller eksplosjon.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 50",
+      "heading": "Forebyggende bygningstekniske sikkerhetstiltak",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "Lager for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger skalvære tørt og fritt for tilsig, og ha en temperatur som samsvarer med produsentens anvisning for stoffenevære konstruert av ikke-brennbart materialevære konstruert slik at flytende ammoniumnitratholdige stoffer eller stoffblandinger ikke kan samles i avløp og liknende med fare for trykkoppbygging, og slik at søl av kjemikalier kan oppdages og samles oppha et jordingssystemha et system for lynavledning i områder hvor lynnedslag ofte forekommer, dersom det er vurdert å være behov for detha brannalarm koblet til vaktordning eller nødalarmsentral.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 51",
+      "heading": "Forebyggende sikkerhetstiltak mot brann",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) I lager skal det være tilstrekkelig avstand mellom ammoniumnitratholdige stoffer og stoffblandinger og brannfarlige og brennbare stoffer.(2) Potensielle brannkilder skal være identifisert og nødvendige risikoreduserende tiltak skal være iverksatt.(3) Mobil enhet for produksjon og lading av eksplosiver skal være plassert i tilstrekkelig avstand fra lageret. Dersom dette ikke er mulig grunnet geografiske forhold, kan den mobile enheten parkeres i lageret dersom det er etablert et fysisk skille som kan tåle minst 60 minutter med brannpåkjenning.(4) Lageret skal ikke brukes til oppbevaring av annet brennbart materiale. Rundt lageret skal det være en tilstrekkelig sone som er fri for vegetasjon og brennbart materiale.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 52",
+      "heading": "Forebyggende tiltak mot sensitering",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Gassemiddel og syrer skal lagres slik at de ikke kommer i kontakt med ammoniumnitratholdige stoffer og stoffblandinger.(2) Materiale som kan komme i kontakt med ammoniumnitratholdige stoffer og stoffblandinger skal ikke inneholde stoffer eller metaller som kan medføre risiko for sensitering, slik som sink, kobber, nikkel, kobolt eller krom.(3) Spill og rester skal tas hånd om på en sikker måte og holdes separert fra ammoniumnitratholdige stoffer og stoffblandinger.(4) På lager for oppbevaring av ammoniumnitratholdige stoffer eller stoffblandinger skal det ikke oppbevares kjemikalier som ikke inngår i produksjonen av eksplosiver.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 53",
+      "heading": "Forebyggende tiltak mot andre uønskede hendelser",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) På lager skal det være tilstrekkelig avstand mellom ammoniumnitratholdige stoffer og stoffblandinger og tak og vegger, slik at all håndtering kan utføres på en forsvarlig måte.(2) Det skal være iverksatt nødvendige tiltak for å forhindre feilkobling av utstyr.(3) Dersom det er stor aktivitet rundt lageret skal det etableres sikringstiltak for å forhindre påkjøring.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 54",
+      "heading": "Krav til tank for oppbevaring og pumping av ammoniumnitratemulsjon (ANE)",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Ammoniumnitratemulsjon skal oppbevares i ventilert tank av aluminium eller av et annet medbrennende materiale.(2) Dersom det ikke benyttes pneumatisk drevet membranpumpe for overføring av ammoniumnitratemulsjon, skal det være installert et automatisk nødstoppsystem. Det skal være installert en grov sil ved innløpet til pumpen.(3) Virksomheten skal ha rutiner for vedlikehold og rengjøring av pumpen og tanken. Før tanken tas i bruk, skal den være rengjort og inspisert.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 55",
+      "heading": "Sikringskrav ved oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "(1) Ammoniumnitratholdige stoffer og stoffblandinger skal oppbevares utilgjengelig for uvedkommende og håndteres slik at de ikke kommer på avveie eller i urette hender.(2) Ammoniumnitratholdige stoffer og stoffblandinger skal være forsvarlig sikret mot at uvedkommende får fysisk tilgang, og oppbevares avlåst i egnet tank, telt, bygning eller fjellanlegg.(3) Virksomheten skal ha rutiner for oversikt over hvem som har adgang til lageret. Adgangen skal være begrenset til bestemte personer som har behov for adgang for å utføre arbeid.(4) Telt eller frittstående tanker til oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger skal være forsvarlig inngjerdet.(5) Materiale til telt skal være rivefast.(6) Tilsier risikovurderingen etter § 9 det, skal virksomheter innføre ytterligere sikringstiltak som for eksempel kameraovervåkning, vakthold, alarm eller ekstra innbruddssikring.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 56",
+      "heading": "Krav til merking ved oppbevaring",
+      "path": [
+        "Kapittel. 6. Oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1"
+      ],
+      "text": "Tank, telt, bygning eller fjellhall for oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger skal være tydelig merket medadgang forbudt for uvedkommendeforbud mot bruk av åpen ild eller andre tennkilderoksiderende stoff kl. 5.1.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 57",
+      "heading": "Tillatelse til produksjon",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Ved søknad om tillatelse til produksjon av eksplosiver eller ammunisjon skal det legges fremopplysninger om anlegg, prosess og metode og om stoffene som inngår i prosesseninformasjon om hvem som på virksomhetens vegne er ansvarlig for produksjonenforslag til transportklassifisering av produkt som ønskes produsertdokumentasjon på hvordan det sikres at eksplosivene er i samsvar med vedlegg IIdokumentasjon på at avstandskravene i kapittel 5 er oppfylt for eksplosiver eller ammunisjon som skal oppbevaresdokumentasjon på at bestemmelsene i kapittel 6 er oppfylt, når det skal oppbevares ammoniumnitratholdige stoffer eller stoffblandinger på lager som er etablert for produksjon av eksplosiver på brukersted.(2) Tillatelse til stasjonær produksjon av eksplosiver og ammunisjon gir også rett til å:erverve andre eksplosiver som inngår i produksjonsprosessenoppbevare eksplosiver og ammunisjon på produksjonsstedettilintetgjøre sine egne produserte eksplosiver og ammunisjondistribuere produserte eksplosiver.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 58",
+      "heading": "Produktutvikling og forskning",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Den som har tillatelse til å produsere eksplosiver, kan i forsøks øyemed også produsere eksplosiver som ikke er omfattet av tillatelsen, og eksplosiver som ikke er i overensstemmelse med kapittel 13, dersom eksplosivet er av samme type som det tillatelsen til produksjon omfatter.(2) Produksjon som nevnt i først ledd skal bare skje i en mengde som er nødvendig for å vurdere om eksplosivet er praktisk brukbart, eller for å vurdere hva som er nødvendig for å dokumentere en søknad om tillatelse. Eksplosivet skal ikke føres ut fra produksjonsområdet til andre formål enn forsøk. Dersom eksplosivet føres ut fra produksjonsområdet til forsøk skal det skje under ledelse og oppsyn av virksomhetens produksjonsansvarlig. Eksplosiver produsert etter denne paragrafen skal ikke brukes kommersielt.(3) Direktoratet for samfunnssikkerhet og beredskap kan i forbindelse med forsøk eller i vitenskapelig øyemed, gi tillatelse til produksjon av bestemte eksplosiver, herunder eksplosiver som ikke er i overensstemmelse med kapittel 13, dersom det søkes om det. En slik tillatelse kan kun gis til en virksomhet som har nødvendig kunnskap, erfaring og ferdigheter og ellers er skikket.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 59",
+      "heading": "Forbud mot særlige farlige produksjonsmetoder",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "Direktoratet for samfunnssikkerhet og beredskap kan forby fremgangsmåter for produksjon av eksplosiver og ammunisjon som fører med seg særlig fare under produksjonen, og kan bestemme at eksplosiver bare skal produseres til nærmere bestemte formål.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 60",
+      "heading": "Krav til virksomhet med tillatelse til produksjon",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Virksomhet som produserer eksplosiver eller ammunisjon skal sørge for at alle forhold som påvirker produksjonsprosessen er ivaretatt, slik som:planleggingproduktdefinisjon og reseptutviklingdesign av produksjonsprosess og utstyrbygging og etablering av anleggdrift og prosesskontrollhåndtering av eksplosiver og spillmaterialstyring og rapporteringsikring, sikkerhets- og kvalitetsstyringrekruttering og ansettelse av operatører og ledereopplæringmateriellforvaltning og vedlikeholdutfasing og destruksjonnedrigging og riving.(2) Bygging, ombygging, produksjon og vedlikehold av utstyr skal kun skje av virksomheter med tilstrekkelige kvalifikasjoner og som er akseptert av den virksomheten som har tillatelse til produksjon av eksplosiver og ammunisjon.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 61",
+      "heading": "Stasjonært produksjonsanlegg",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Ved vurderingen av hvor et stasjonært anlegg for produksjon av eksplosiver eller ammunisjon skal lokaliseres, kommer reglene om sikkerhetsavstander i kapittel 5 til anvendelse, og det skal være opprettet hensynssoner etter bestemmelsene i plan- og bygningslovgivningen.(2) Rom, bygning eller anlegg hvor eksplosiver eller ammunisjon skal produseres skal være utført og innrettet slik at det ikke oppstår særlig fare for brann og eksplosjon, og slik at varen ikke kommer på avveie eller i urette hender.(3) Anlegget skal være inngjerdet på en hensiktsmessig måte.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 62",
+      "heading": "Mobil enhet for produksjon på brukersted",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Mobil enhet for produksjon av eksplosiver, bærer til slik enhet, pumper, slanger, tanker og annet utstyr, skal være vurdert og funnet egnet etter § 20. Produksjonsprosessen og designet av den mobile enheten skal være tilpasset de særlige forholdene som følger av at produksjonen er mobil.(2) Ved endringer i utstyr, konstruksjon av utstyr eller i stoffer eller stoffblandinger som inngår i produksjonsprosessen, skal egnetheten vurderes. Vurderingen skal dokumenteres skriftlig og oppbevares av produsenten i hele den mobile enhetens levetid.(3) Kalibrering av utstyr skal skje periodisk og i henhold til utarbeidede rutiner. Dokumentasjonen på periodisk kalibrering skal oppbevares av produsenten i tre år.(4) Operasjons- og vedlikeholdsmanualer og delelister skal være på norsk.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 63",
+      "heading": "Krav til oversikt over mobil enhet for produksjon av eksplosiver",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "Virksomheter som produserer eksplosiver på brukersted, skal på anmodning fra Direktoratet for samfunnssikkerhet og beredskap, legge frem en oversikt med opplysninger om hvilke mobile produksjonsenheter de har og hvor disse er i bruk.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 64",
+      "heading": "Andre særlige krav ved produksjon av eksplosiver på brukersted",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Virksomhet med tillatelse til produksjon av eksplosiver på brukersted skal til enhver tid kunne dokumenterehvilken mobil produksjonsenhet som brukesgenerelle rutiner og prosedyrer for virksomhetens valg av produksjonssted på brukerstedetrisikovurdering for oppstilling og produksjon på det aktuelle brukerstedet.(2) Alle faser i produksjonen slik som lasting, lossing, pumping, blanding og lading skal overvåkes nøye. Under produksjonen skal produksjonsenheten overvåkes kontinuerlig.(3) Dersom operatøren ikke oppholder seg ved produksjonsenheten og overvåker denne fysisk under produksjonen, skal det være installert overvåkningssystemer som sikrer en tidlig deteksjon, varsling og prosessavbrudd ved avvik.(4) Det skal kunne dokumenteres hvor store mengder eksplosiver som er produsert og ladet.(5) Eksplosiver som er produsert på brukersted skal ikke føres bort fra brukerstedet uten tillatelse fra Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-9",
+      "provision_ref": "§ 65",
+      "heading": "Mobil produksjon og pumping av bulksprengstoff i nærheten av visse bygninger",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Produksjon og pumping av bulksprengstoff skal ikke skje nærmere enn 150 meter fra sykehus, skole, barnehage, høyblokk, forsamlingslokaler, kjøpesenter eller liknende.(2) Første ledd gjelder ikke når produksjonen foregår under jord, i sikker avstand fra tunnelportal.",
+      "xml_path": "article#kapittel-7-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-10",
+      "provision_ref": "§ 66",
+      "heading": "Kundeoperert produksjon av eksplosiver på brukersted",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Kundeoperert produksjon av eksplosiver over jord er forbudt.(2) Ved kundeoperert produksjon under jord skal virksomheten med tillatelse til produksjon, etter forespørsel fra Direktoratet for samfunnssikkerhet og beredskap, informere om hvem som opererer enhetene.(3) Kundens internkontrollsystem for produksjonsstedet skal være knyttet til produsentens styringssystem. Ethvert avvik som kan ha innflytelse på produksjon, materialflyt og vedlikehold, skal meldes til produsenten.(4) Produsenten skal rutinemessig føre tilsyn med den kundeopererte produksjonen og vedlikeholdet. Tilsynet skal dokumenteres.",
+      "xml_path": "article#kapittel-7-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-11",
+      "provision_ref": "§ 67",
+      "heading": "Vedlikehold, renhold og kontroll av utstyr til bruk ved produksjon av eksplosiver på brukersted",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Den som har tillatelse til produksjon av eksplosiver skal ha et forsvarlig vedlikehold, renhold og kontroll av mobil enhet for produksjon av eksplosiver, bærer til slik enhet, tanker, pumper, slanger og annet utstyr som brukes ved produksjonen.(2) Vedlikehold, renhold og kontroll skal skje regelmessig og i henhold til utarbeidede rutiner, og skal dokumenteres.(3) Før utskiftning eller bytte av materiale, deler, teknologi eller leverandør, skal det gjennomføres en risikovurdering som skal dokumenteres. Tegninger, dokumentasjon og prosessbeskrivelser skal holdes oppdatert gjennom hele levetiden til produksjonsenheten.",
+      "xml_path": "article#kapittel-7-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-12",
+      "provision_ref": "§ 68",
+      "heading": "Plassering og flytting av eksplosjonsfarlig stoff ved produksjon av eksplosiver på brukersted",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Det skal utføres en risikovurdering før ammoniumnitratholdige stoffer og stoffblandinger flyttes eller plasseres midlertidig under produksjonsprosessen.(2) Utenfor lukket område skal stoffene plasseres enten under kontinuerlig overvåkning, eller være forsvarlig innelåst.",
+      "xml_path": "article#kapittel-7-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-13",
+      "provision_ref": "§ 69",
+      "heading": "Tilintetgjøring av eksplosjonsfarlig stoff",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "Produsent av eksplosiver skal sørge for en forsvarlig håndtering av spill og rester slik som forurensede ammoniumnitratholdige stoffer eller stoffblandinger, råvarer eller eksplosivrester. Spill og rester skal holdes separat fra andre stoffer og kan tilintetgjøres av produsent på brukersted etter at det er utført en risikovurdering og eventuelle risikoreduserende tiltak er iverksatt.",
+      "xml_path": "article#kapittel-7-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-14",
+      "provision_ref": "§ 70",
+      "heading": "Behandling av forurenset materiale før tilintetgjøring",
+      "path": [
+        "Kapittel. 7. Produksjon av eksplosiver og ammunisjon"
+      ],
+      "text": "Forurenset materiale som inneholder ammoniumnitratholdige stoffer eller stoffblandinger eller andre kjemikalier, skal før de transporteres til tilintetgjøring behandles med vann for å redusere følsomheten for støt og varme.",
+      "xml_path": "article#kapittel-7-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 71",
+      "heading": "Tillatelse til å distribuere eksplosiver",
+      "path": [
+        "Kapittel. 8. Distribusjon og erverv"
+      ],
+      "text": "(1) For å få tillatelse til å distribuere eksplosiver, må virksomheten ha ett eller flere bestemte faste utleveringssteder, hvor det samtidig foreligger en tillatelse til oppbevaring av eksplosiver. Tillatelse til distribusjon av eksplosiver gir også rett til å erverve eksplosiver for videre distribusjon.(2) Tjenesteloven § 11 annet ledd om at tillatelsen anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for tillatelse til distribusjon av eksplosiver.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 72",
+      "heading": "Tillatelse til erverv av eksplosiver",
+      "path": [
+        "Kapittel. 8. Distribusjon og erverv"
+      ],
+      "text": "(1) For å få tillatelse til erverv av eksplosiver må virksomheten enten ha enegen tillatelse til oppbevaring av eksplosivene,avtale om leie av oppbevaring inngått med innehaveren av tillatelsen til oppbevaring, elleravtale med distributør om retur av eksplosivene.(2) Erverv kan bare skje fra virksomhet som har tillatelse til å produsere, importere, overføre eller distribuere eksplosiver.(3) Direktoratet for samfunnssikkerhet og beredskap kan sette begrensninger for hvor store mengder eksplosiver som kan erverves per gang.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 73",
+      "heading": "Krav til mottaker av eksplosiver",
+      "path": [
+        "Kapittel. 8. Distribusjon og erverv"
+      ],
+      "text": "(1) Den som skal motta eksplosivene på vegne av virksomheten skal ha god kunnskap om stoffene, sikker håndtering, stoffenes risiko, relevant regelverk og sikring av stoffene.(2) Den som skal motta eksplosivene på vegne av virksomheten skal ha god vandel og kunne legge frem en tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder.(3) Dersom det ikke kan legges frem en norsk politiattest for de siste fem årene, skal det legges frem politiattest fra de landene vedkommende har arbeidet i de siste fem årene.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 74",
+      "heading": "Overlevering av eksplosiver",
+      "path": [
+        "Kapittel. 8. Distribusjon og erverv"
+      ],
+      "text": "(1) Ved hver enkelt overlevering av eksplosiver skal det sjekkes ved oppslag i Direktoratet for samfunnssikkerhet og beredskaps elektroniske register at virksomheten har en gyldig tillatelse til erverv. Identiteten til navngitt mottaker skal kontrolleres ved hjelp av gyldig legitimasjon.(2) Distributør skal ikke overlevere eksplosiver til mottaker, dersom mottakers oppbevaringssted åpenbart er i strid med de fysiske sikkerhets- og sikringskravene i kapittel 5.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 77",
+      "heading": "Tillatelse til tilintetgjøring",
+      "path": [
+        "Kapittel 9. Tilintetgjøring av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Den som søker om å tilintetgjøre eksplosiver og ammunisjon, skal legge frem tilfredsstillende ordinær politiattest på personer som skal tilintetgjøre på virksomhetens vegne. Politiattesten skal ikke være eldre enn tre måneder.(2) For søknad om tillatelse til tilintetgjøring av eksplosiver eller ammunisjon, skal saksbehandlingsfristen som nevnt i tjenesteloven § 11 første ledd være 6 uker. Tjenesteloven § 11 annet ledd om at tillatelsen anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for tillatelse til tilintetgjøring av eksplosiver eller ammunisjon.(3) Tillatelsen til tilintetgjøring av eksplosiver gir også rett til å samle inn og motta eksplosiver for tilintetgjøring. Tillatelsen til tilintetgjøring av ammunisjon gir også rett til å motta ammunisjon for tilintetgjøring.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 78",
+      "heading": "Krav til virksomhet som tilintetgjør eksplosiver eller ammunisjon",
+      "path": [
+        "Kapittel 9. Tilintetgjøring av eksplosiver og ammunisjon"
+      ],
+      "text": "(1) Sted, lokaler og utstyr for tilintetgjøring av eksplosiver eller ammunisjon skal være slik at det ikke oppstår fare for liv, helse, miljø eller materielle verdier.(2) Virksomhet som tilintetgjør eksplosiver, skal føre oversikt over eksplosivene som tilintetgjøres og registrere data etter kapittel 15 dersom eksplosivets id-merke er lesbart.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 79",
+      "heading": "Bergsprengning",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Bergsprengning kan bare utføres av virksomheter som har ansatt et tilstrekkelig antall bergsprengningsledere og bergsprengere med gyldig sertifikat, eller personer med tilsvarende funksjoner som er godkjent etter lovgivningen om anerkjennelse av yrkeskvalifikasjoner.(2) Virksomheten skal som et minimum ha én bergsprengningsleder som er fulltidsansatt i virksomheten.(3) Virksomheten kan benytte personer som er under opplæring, jf. § 81 til å lade og avfyre salve dersom vedkommende er under direkte oppsyn av en bergsprenger, med gyldig sertifikat utstedt av Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 80",
+      "heading": "Sertifikat som bergsprengningsleder",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) For å arbeide som bergsprengningsleder, kreves sertifikat som bergsprengningsleder. Søknad om sertifikat sendes til Direktoratet for samfunnssikkerhet og beredskap.(2) Sertifikat kan utstedes til søkere som enten har to års dokumentert relevant praksis som bergsprenger, eller ett års relevant praksis i planlegging av bergsprengningsarbeid etter endt relevant ingeniørutdanning.(3) I tillegg må søkereha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,ha bestått prøve som bergsprengningsleder i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,kunne fremlegge tilfredsstillende politiattest som ikke er eldre enn tre måneder, ogvære skikket.(4) En kandidat som stryker to ganger på prøven som bergsprengningsleder, skal ta nytt kurs før kandidaten kan melde seg opp til ny prøve. Hvis kandidaten stryker tre ganger på prøven, må kandidaten vente i ett år før kandidaten kan gjennomføre nytt kurs og melde seg opp til ny prøve. En kandidat som stryker flere enn tre ganger, må ta nytt kurs og vente i ett år med å søke for hver gang han eller hun stryker.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-4",
+      "provision_ref": "§ 81",
+      "heading": "Sertifikat som bergsprenger",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) For å arbeide som bergsprenger, kreves sertifikat som bergsprenger. Søknad om sertifikat sendes til Direktoratet for samfunnssikkerhet og beredskap. Sertifikat kan utstedes til søkere somhar fagbrev i fjell- og bergverksfaget med fordypning bergsprengning,har bestått prøve som bergsprenger i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap,kan fremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder, oger skikket.(2) Sertifikat kan utstedes til søker som ikke tilfredsstiller kravet i første ledd bokstav a), dersom søker har fagbrev i fjell- og bergverksfaget med fordypning innen fjellsikring eller knuseverk, og som gjennom en særskilt opplæringsbok, kan dokumentere ett års relevant praksis fra bergsprengningsarbeid. Praksisen må ha funnet sted etter at søker besto fagprøven. Før oppstart av praksisperioden skal søker være meldt inn til Direktoratet for samfunnssikkerhet og beredskap som under opplæring i bergsprengning. Søker må i tillegg tilfredsstille de øvrige kravene i første ledd.(3) Sertifikat kan utstedes til søker som ikke tilfredsstiller kravet i første ledd bokstav a), dersom søker har fagbrev i steinfaget eller fagbrev i et annet anleggsfag, og som gjennom en særskilt opplæringsbok kan dokumentere to års relevant praksis fra bergsprengningsarbeid. Praksisen må ha funnet sted etter at søker besto fagprøven i et annet anleggsfag. Før oppstart av praksisperioden skal søker være meldt inn til Direktoratet for samfunnssikkerhet og beredskap som under opplæring i bergsprengning. Søker må i tillegg tilfredsstille de øvrige kravene i første ledd.(4) Sertifikatet kan utstedes til søker som ikke tilfredsstiller kravet i første ledd bokstav a), dersom søker har bestått relevant ingeniørutdanning, og som gjennom en særskilt opplæringsbok kan dokumentere ett års praksis fra bergsprengningsarbeid. Før oppstart av praksisperioden skal søker være meldt inn til Direktoratet for samfunnssikkerhet og beredskap som under opplæring i bergsprengning. Søker må i tillegg tilfredsstille de øvrige kravene i første ledd.(5) Personer som ønsker å ta fagbrev i fjell- og bergverksfaget med fordypning bergsprengning, som praksiskandidat etter opplæringslova, skal være meldt inn til Direktoratet for samfunnssikkerhet og beredskap som under opplæring i bergsprengning, før oppstart av praksis, og må gjennom en særskilt opplæringsbok dokumentere praksis fra bergsprengningsarbeid.(6) Maksimal innmeldingstid som under opplæring i bergsprengning er seks år og det skal ved innmeldingen til Direktoratet for samfunnssikkerhet og beredskap foreligge en plan for når vedkommende skal avlegge prøven som bergsprenger.(7) En kandidat som stryker to ganger på prøven som bergsprenger, må ta et oppfriskningskurs før kandidaten kan melde seg opp til ny prøve. Hvis kandidaten stryker tre ganger på prøven, må kandidaten vente i ett år før kandidaten kan gjennomføre et nytt oppfriskningskurs og melde seg opp til ny prøve. En kandidat som stryker flere enn tre ganger, må ta nytt oppfriskningskurs og vente i ett år med å søke for hver gang han eller hun stryker. Kandidaten må i karanteneperioden være meldt inn til Direktoratet for samfunnssikkerhet og beredskap, som under opplæring i bergsprenging.",
+      "xml_path": "article#kapittel-10-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-5",
+      "provision_ref": "§ 82",
+      "heading": "Gyldigheten av sertifikatene",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Sertifikat som bergsprenger og bergsprengningsleder er gyldig i inntil fem år regnet fra datoen sertifikatet ble utstedt. For å få fornyet sertifikatet skal søkergjennomføre et oppfriskningskurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskap,bestå prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskap, ogfremlegge tilfredsstillende ordinær politiattest som ikke er eldre enn tre måneder.(2) Dersom oppfriskningsprøven er bestått mer enn 12 måneder før utløpsdatoen på sertifikatet, gjelder det nye sertifikatet i fem år fra da oppfriskningsprøven ble bestått.(3) En kandidat som stryker til oppfriskningsprøven to ganger skal ta nytt oppfriskningskurs før kandidaten kan melde seg opp til ny oppfriskningsprøve. Hvis kandidaten stryker tre ganger på prøven, må kandidaten vente i ett år før kandidaten kan gjennomføre nytt oppfriskningskurs. En kandidat som stryker flere enn tre ganger, må ta nytt oppfriskningskurs og vente ett år med å søke for hver gang han eller hun stryker. I karantenetiden skal kandidat til bergsprengersertifikat være meldt inn som under opplæring, jf. § 81.(4) Det er bare den digitale utgaven av sertifikatene som er gyldig.",
+      "xml_path": "article#kapittel-10-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-6",
+      "provision_ref": "§ 83",
+      "heading": "Virksomhet som utfører bergsprengningsarbeid",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Ledelsen i virksomhet som selv utfører bergsprengningsarbeid skal sørge for at sikkerheten ved håndtering av eksplosiver blir ivaretatt på forsvarlig måte.(2) Ledelsen i virksomheten skal i samråd med bergsprengningsleder sørge for at det blir utarbeidet planer og rutiner for å ivareta all sikkerhet ved bruk av eksplosiver. Virksomheten skal kartlegge farer og problemer, herunder miljøpåvirkning, og på denne bakgrunn vurdere risiko, samt utarbeide tilhørende planer og tiltak for å redusere risikoforholdene. Planene skal omfatte sprengningsplan og plan for informasjon og varsling til berørte parter og skal foreligge skriftlig før sprengningsarbeidet igangsettes. Planene skal være basert på risikovurderinger, og være integrert i de overordnede planene for prosjektet/anlegget, og være en del av virksomhetens internkontrollsystem. Planene skal oppbevares i minst tre år etter sluttføring av sprengningsarbeidene.(3) Ledelsen i virksomheten skal sørge for at bergsprenger, i samråd med bergsprengningslederen, utarbeider salveplan i henhold til risikovurderingene og sprengningsplanen. Salveplan skal foreligge skriftlig før sprengningsarbeidet igangsettes.",
+      "xml_path": "article#kapittel-10-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-7",
+      "provision_ref": "§ 84",
+      "heading": "Virksomhet som får utført bergsprengningsarbeid",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Ledelsen i virksomhet som får utført bergsprengningsarbeid skal sørge for at sikkerheten ved bruk av eksplosiver blir ivaretatt på forsvarlig måte.(2) Ledelsen i virksomheten skal påse at den virksomheten som utfører selve sprengningsarbeidet ivaretar kravene i henhold til § 83. Ledelsen skal kunne dokumentere at den har ivaretatt denne plikten.(3) Dersom virksomheten som får utført sprengningsarbeidet gir føringer for hvordan arbeidet skal utføres, skal den dokumentere at den har tilstrekkelig kompetanse til å gi føringer som ivaretar kravene til en sikkerhetsmessig forsvarlig gjennomføring av sprengningsarbeidet.",
+      "xml_path": "article#kapittel-10-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-8",
+      "provision_ref": "§ 85",
+      "heading": "Bergsprengningsleders oppgaver",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Bergsprengningsleder er virksomhetens faglige rådgiver for å ivareta sikkerheten ved sprengningsarbeider.(2) Bergsprengningsleder skal bistå virksomhetens ledelse, og under ledelsens ansvar utarbeide risikovurderinger, sprengningsplaner og øvrige rutiner slik at sikkerheten ved all håndtering av sprengstoff, krutt og tennmidler blir ivaretatt på en forsvarlig måte. Bergsprengningslederen skal også bistå bergsprenger i utarbeidelse av salveplan, og ved behov kunne innfinne seg på brukersted innen rimelig tid.(3) Bergsprengningsleder skal bistå virksomhetens ledelse og under deres ansvar påse at rutiner og planer etterleves.(4) Bergsprengningsleder kan ikke selv utføre sprengningsarbeid, uten også å ha gyldig bergsprengersertifikat.",
+      "xml_path": "article#kapittel-10-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-9",
+      "provision_ref": "§ 86",
+      "heading": "Bergsprengers oppgaver",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Den som skal lade og avfyre salver, skal ha gyldig sertifikat som bergsprenger.(2) Før det bores, skal bergsprenger utarbeide salveplan i henhold til sikkerhetsvurderingene i risikovurderingen og sprengningsplanen.(3) Bergsprenger skal påse at boring, lading og alle sprengningsfaglige sikkerhetstiltak blir utført i henhold til sprengningsplanen og salveplanen slik at sprengningen kan skje forsvarlig. Når det lades med bulksprengstoff skal bergsprenger fortløpende kontrollere ladingen.(4) Salve som lades og avfyres som ledd i opplæringen som nevnt i 81, skal skje under direkte oppsyn av bergsprenger.(5) Etter hver salve skal bergsprenger utarbeide en skriftlig salverapport med nødvendige opplysninger om hvordan salven forløp og med beskrivelse av eventuelle avvik og hvordan avvikene er behandlet. Ved avvik skal bergsprenger i samråd med bergsprengningsleder vurdere om det er behov for å endre planene.",
+      "xml_path": "article#kapittel-10-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-10",
+      "provision_ref": "§ 87",
+      "heading": "Medhjelper",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "Medhjelper som er under oppsyn av bergsprenger kan laste, losse og bære frem eksplosiver på brukerstedet.",
+      "xml_path": "article#kapittel-10-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-11",
+      "provision_ref": "§ 88",
+      "heading": "Krav til boring",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Boring skal utføres i samsvar med salveplan.(2) Før boring starter skal stuff, pall mv. være forsvarlig rensket, sikret og kontrollert mot gjenstående ladninger og deler av ladninger fra tidligere arbeid. Boreutstyr skal være tilgjengelig til bergsprenger som skal avfyre salven har kontrollert og godkjent boringen.(3) Boring skal utføres slik at det oppnås størst mulig parallellitet mellom borehullene, nøyaktig hulldybde, kartlegging av svakhetssoner i berget med mer.(4) Borehull skal settes slik at man under boringen ikke kan treffe andre hull som kan inneholde ladninger.(5) Ved boring skal avstanden til allerede ladete hull være minst to meter. Dersom det nye borehullet er mer enn fire meter dypt, skal avstanden til allerede ladete hull økes, slik at avstanden til ladete hull tilsvarer minst halvparten av dybden på det nye borehullet.(6) Borer skal utarbeide skriftlig rapport om boreutførelsen.",
+      "xml_path": "article#kapittel-10-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-12",
+      "provision_ref": "§ 89",
+      "heading": "Vern mot skade på omgivelsene ved bergsprengning",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Det skal tas hensyn til og treffes tiltak for å hindre skade på omgivelsene og miljøpåvirkning av sprengningsarbeidet.(2) Salve som skal sprenges nær der mennesker eller dyr oppholder seg, eller der miljøet, tekniske innretninger eller kritisk infrastruktur kan skades, skal dekkes på hensiktsmessig måte, med mindre andre dokumenterte tiltak er iverksatt for å ivareta sikkerheten.",
+      "xml_path": "article#kapittel-10-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-13",
+      "provision_ref": "§ 90",
+      "heading": "Informasjon og varsling",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Virksomheten som utfører sprengningsarbeidet skal, i samsvar med plan for informasjon og varsling etter § 83, sørge for at beboere, politi og andre aktuelle offentlige myndigheter, eiere eller rettighetshavere og øvrige berørte i god tid før sprengningen tar til, gjøres kjent med varslingsplanen, de planlagte sprengningsarbeidene og hvilken risiko arbeidene representerer.(2) Ved sprengningen skal bergsprenger sørge for at alle nødvendige sikkerhetstiltak og rutiner iverksettes. Det skal varsles med sirene som med korte støt angir at sprengning skal skje. Det skal være et tilstrekkelig antall vaktposter som skal hindre mennesker og dyr fra å komme inn i det farlige området. Postene skal stå i åpen radio- eller telefonkontakt både med den som avfyrer salven og med hverandre, for umiddelbart å kunne melde fra om risikofylte uregelmessigheter.",
+      "xml_path": "article#kapittel-10-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-14",
+      "provision_ref": "§ 91",
+      "heading": "Lading og sprengning ved bergsprengning",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Lading skal utføres i samsvar med salveplan.(2) Det skal ikke lades mer enn det som skal sprenges i én salve.(3) Bulksprengstoff skal måles opp før, eller under selve ladningen.(4) Sprengningssted hvor salve er under lading eller står ferdig ladet, skal være bevoktet og, om nødvendig, avsperret inntil sprengningen finner sted.(5) Ferdig ladet salve skal avfyres straks alle forhold ved lading og sikkerheten til omgivelsene er kontrollert slik at sprengning kan foregå på en sikker måte.(6) Ved bruk av svartkruttlunte til avfyring skal det ikke benyttes kortere lunte enn én meter.(7) Etter avfyring skal det i samsvar med utarbeidet plan, og under oppsyn av bergsprenger kontrolleres at det ikke står igjen forsagere.",
+      "xml_path": "article#kapittel-10-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-15",
+      "provision_ref": "§ 92",
+      "heading": "Forsagere",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Bergsprenger skal etter avfyring av eksplosiver kontrollere at det ikke står igjen forsagere. Forsagere skal uskadeliggjøres snarest mulig. Området skal sperres av og der det er nødvendig skal det plasseres ut vakter inntil forsagerne er uskadeliggjort.(2) Bergsprenger skal når det står igjen forsagere, sørge for at alle som har eller får noe å gjøre med sprengningsarbeidet får varsel om dette.",
+      "xml_path": "article#kapittel-10-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-16",
+      "provision_ref": "§ 93",
+      "heading": "Midlertidig plassering og flytting av eksplosiver på brukerstedet",
+      "path": [
+        "Kapittel. 10. Bergsprengning"
+      ],
+      "text": "(1) Det skal ikke tas ut mer eksplosiver enn det som er planlagt for den salven som skal sprenges.(2) Eksplosiver skal som hovedregel ikke flyttes frem til sprengningsstedet før ladingen starter. Hvis forholdene likevel gjør det nødvendig kan eksplosiver plasseres midlertidig i maksimalt 12 timer enten under kontinuerlig vakthold eller forsvarlig innelåst. Plasseringsstedet skal være sikkert, tydelig merket, ryddig, oversiktlig og fritt for tennkilder og brennbart materiale. Tennere og sprengstoff skal være plassert i sikker avstand fra hverandre.(3) Dersom den midlertidige plasseringen, etter annet ledd, skjer på et kjøretøy eller tilhenger må kjøretøyet eller tilhengeren være låst og bevoktet. Kjøretøyet eller tilhengeren må være godkjent for eksplosivtransporten. Slik plassering skal omfattes av sikringsplanen for transporten. Plassering på mobil enhet for produksjon av eksplosiver er forbudt.(4) Det skal utføres en risikovurdering før eksplosivene midlertidig plasseres eller flyttes. Vurderingen skal ta hensyn til både sikkerhet og sikring.(5) Overskytende eksplosiver skal flyttes bort fra salven før denne avfyres.(6) Flytting av eksplosiver til og fra sprengningssted skal skje på en planlagt og trygg måte.",
+      "xml_path": "article#kapittel-10-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 94",
+      "heading": "Informasjon og sikring ved bruk av eksplosiver",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "Virksomheten skal før den bruker eksplosiver informere og varsle alle som kan bli berørt av bruken i form av rystelser, splinter, utkast, sjenerende støy eller luftsjokk. Området skal sikres med nødvendige tiltak, slik som avsperring eller bruk av vaktposter.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 95",
+      "heading": "Teknisk sprengning",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Teknisk sprengning skal bare utføres av virksomhet som har et tilstrekkelig antall teknisk sprengningskyndige eller personer med sertifikat som bergsprenger, som er meldt inn til Direktoratet for samfunnssikkerhet og beredskap.(2) Øvrige ansatte i virksomheten som skal delta ved teknisk sprengning skal gis tilfredsstillende opplæring dokumentert gjennom virksomhetens internkontrollsystem, og være meldt inn til Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 96",
+      "heading": "Teknisk sprengningskyndig",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Teknisk sprengningskyndig skalha gjennomført særskilt kurs i regi av kursadministrator og kursarrangør utpekt av Direktoratet for samfunnssikkerhet og beredskapha bestått prøve i regi av eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskaphvert femte år gjennomføre oppdateringskurs og bestå en prøve i regi av kursadministrator og kursarrangør eller eksamensadministrator utpekt av Direktoratet for samfunnssikkerhet og beredskapdokumentere produktkunnskap om relevante eksplosiver og aktiviteten der sprengningen inngår.(2) Personer med gyldig sertifikat som bergsprenger kan ha rollen som teknisk sprengningskyndig og må ikke oppfylle kravene i første ledd bokstav a til c.(3) Teknisk sprengningskyndig er virksomhetens faglige rådgiver for å ivareta sikkerheten ved den tekniske sprengningen. Teknisk sprengningskyndig skal bistå virksomhetens ledelse og under deres ansvar utarbeide risikovurderinger, planer og øvrige rutiner slik at sikkerheten ved all håndtering av eksplosiver blir ivaretatt på en forsvarlig måte.(4) Teknisk sprengningskyndig skal bistå virksomhetens ledelse og under deres ansvar påse at rutiner og planer etterleves.(5) En kandidat som stryker to ganger på prøven som teknisk sprengningskyndig, skal ta kurs før kandidaten kan melde seg opp til ny prøve. Hvis kandidaten stryker tre ganger på prøven, må kandidaten vente i ett år før kandidaten kan gjennomføre nytt kurs og melde seg opp til ny prøve. En kandidat som stryker flere enn tre ganger, må ta nytt kurs og vente i ett år med å søke for hver gang han eller hun stryker.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 97",
+      "heading": "Plikt til å ivareta sikkerheten ved teknisk sprengning",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Både ledelsen i virksomheten som skal ha utført teknisk sprengning, og ledelsen i virksomheten som selv utfører teknisk sprengning, skal sørge for at sikkerheten ved bruk av eksplosiver blir ivaretatt på forsvarlig måte.(2) Virksomheten som selv utfører teknisk sprengning, skal sørge for å vurdere risikoen og i samarbeid med teknisk sprengningskyndig gjennomføre tiltak slik at det tekniske sprengningsarbeidet kan gjennomføres på en sikker måte. Planer og rutiner for gjennomføring skal foreligge skriftlig før sprengningsarbeid igangsettes, og være en del av virksomhetens internkontrollsystem.(3) Ledelsen i virksomhet som skal ha utført teknisk sprengning skal påse at utførende virksomhet har utarbeidet nødvendige planer for å ivareta sikkerheten.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-5",
+      "provision_ref": "§ 98",
+      "heading": "Medhjelper",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "Medhjelper som er under oppsyn av teknisk sprengningskyndig kan benyttes til å laste, losse og bære frem eksplosiver på brukersted.",
+      "xml_path": "article#kapittel-11-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-6",
+      "provision_ref": "§ 99",
+      "heading": "Krav til den som skal utføre steinsprekking",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Den som skal utføre steinsprekking skal ha sertifikat som bergsprenger og kunne dokumentere opplæring i sikker bruk av produktet.(2) Den som har egen jord- og skogbrukseiendom kan likevel utføre steinsprekking på egen jord- og skogbrukseiendom.(3) Utstyr for steinsprekking skal benyttes i henhold til bruksanvisning.(4) Berget skal dekkes på tilfredsstillende måte. Områder hvor det er fare for utkast av stein eller annet materiale skal sperres av for uvedkommende. Etter bruk skal eventuelle gjenstående patroner identifiseres og fjernes. Inntil gjenstående patroner er fjernet skal området være bevoktet.",
+      "xml_path": "article#kapittel-11-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-7",
+      "provision_ref": "§ 100",
+      "heading": "Krav til den som overlater utstyr for steinsprekking til andre",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Den som mot eller uten vederlag overlater utstyr eller mindre innretning som inneholder eksplosiver til bruk ved steinsprekking til andre, plikter å gi vedkommende tilfredsstillende opplæring i sikker bruk av utstyret. Opplæringen skal kunne dokumenteres av den som overlater slikt utstyr til andre.(2) Det skal alltid følge med bruksanvisning på norsk og om nødvendig annet språk slik at bruker kan forstå bruksanvisningen.(3) Utstyr for steinsprekking skal ikke overlates til andre enn de som i henhold til § 99 lovlig kan bruke slikt utstyr.",
+      "xml_path": "article#kapittel-11-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-8",
+      "provision_ref": "§ 101",
+      "heading": "Krav til den som skal saluttere",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Saluttering uten bruk av kanon skal enten skje med eksplosiver som er beregnet for saluttering, eller med små mengder patronert sprengstoff. Den som skal saluttere med eksplosiver beregnet for saluttering skal inneha særskilt kompetansebevis for bruk av fyrverkeri kategori F4, og ha kunnskap og erfaring i saluttering. Den som skal saluttere med små mengder patronert sprengstoff skal ha bergsprengersertifikat, og ha kjennskap til det eksplosivet som benyttes og hvordan det fungerer ved saluttering. Saluttering på vann skal kun skje ved bruk av kanon.(2) (Opphevet)(3) Saluttering skal kun foretas som en del av et offentlig arrangement, og etter tillatelse i henhold til lokale politivedtekter. Politi skal varsles i god tid før salutteringen utføres.(4) Saluttering skal skje i sikker avstand til publikum.",
+      "xml_path": "article#kapittel-11-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-9",
+      "provision_ref": "§ 102",
+      "heading": "Plikt til å ivareta sikkerheten ved saluttering",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "(1) Både den som skal ha utført saluttering og den som utfører selve salutteringen hvor det brukes eksplosiver skal sørge for at sikkerheten ved bruk av eksplosiver blir ivaretatt på forsvarlig måte.(2) Den som utfører salutteringen skal vurdere risikoen ved salutteringen og gjennomføre tiltak slik at salutteringen kan gjennomføres på en sikker måte. Planer og rutiner for salutteringen skal foreligge skriftlig før salutteringen igangsettes, og blant annet inneholde plan for sikring av omgivelsene og informasjon og varsling til berørte parter.(3) Den som skal ha utført saluttering, skal påse at den som utfører salutteringen kan dokumentere tilfredsstillende kompetanse i saluttering og at vedkommende har utarbeidet planer for å ivareta sikkerheten ved salutteringen.",
+      "xml_path": "article#kapittel-11-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-10",
+      "provision_ref": "§ 103",
+      "heading": "Demolering",
+      "path": [
+        "Kapittel. 11. Teknisk sprengning, steinsprekking, saluttering og demolering"
+      ],
+      "text": "Virksomheter som skal demolere byggverk, faste installasjoner eller konstruksjoner, som på grunn av sin beliggenhet, størrelse eller kompleksitet kan medføre risiko for liv, helse eller materielle verdier, må søke godkjenning av Direktoratet for samfunnssikkerhet og beredskap. Det kan ved godkjenningen fastsettes særlige krav til kompetanse, sikkerhets- og sikringstiltak.",
+      "xml_path": "article#kapittel-11-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 104",
+      "heading": "Når kan eksplosiver gjøres tilgjengelig på markedet",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "Sivile eksplosiver kan bare gjøres tilgjengelig på markedet dersom de er i samsvar med kravene i forskriften og dette kan dokumenteres på den måten forskriften krever.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 105",
+      "heading": "Produsentens forpliktelser",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "(1) Produsenten skal sikre at eksplosiver er konstruert og produsert i samsvar med vedlegg II når eksplosivene bringes i omsetning eller brukes til produsentens eget formål.(2) Produsenten skal utarbeide teknisk dokumentasjon etter vedlegg III og utføre eller få utført samsvarsvurdering etter § 114.(3) Produsenten skal, når det er påvist at eksplosivet samsvarer med de relevante kravene, CE-merke eksplosivet og utarbeide en samsvarserklæring.(4) Produsenten skal oppbevare den tekniske dokumentasjonen og samsvarserklæringen i ti år etter at eksplosivet er brakt i omsetning.(5) Produsenten skal påse at det finnes fremgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i eksplosivets konstruksjon eller egenskaper og endringer i harmoniserte standarder eller andre tekniske spesifikasjoner som det er vist til i samsvarserklæringen.(6) Produsenten skal sørge for at eksplosiver som produsenten har bragt i omsetning er id-merket i samsvar med reglene for id-merking og sporing av eksplosiver fastsatt i kapittel 15.(7) Produsenten skal sikre at eksplosiver som produsenten har brakt i omsetning og som ikke omfattes av kravene til id-merking og sporing etter kapittel 15, har et type-, parti-, serienummer, eller lignende som gjør det mulig å identifisere dem. Dersom eksplosivets størrelse, art, form eller utforming ikke gjør dette mulig, skal de nødvendige opplysningene gis på emballasjen eller i et dokument som følger med eksplosivet.(8) Produsenten skal angi navn, firma eller registrert varemerke og kontaktadresse på eksplosivet. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller dokument som følger med eksplosivet. Det skal oppgis én adresse der produsenten kan kontaktes. Kontaktopplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.(9) Produsenten skal sikre at eksplosiver som produsenten bringer i omsetning følges av anvisninger og sikkerhetsinformasjon på norsk etter vedlegg III. Dersom eksplosivet skal bringes i omsetning i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten. Anvisninger, sikkerhetsinformasjon og eventuell merking skal være tydelig, forståelig og lesbar.(10) Produsent som har grunn til å tro at et eksplosiv som er brakt i omsetning, ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe eksplosivet i samsvar med forskriften eller om nødvendig trekke tilbake eller tilbakekalle eksplosivet. Dersom eksplosivet utgjør en risiko, skal produsenten samtidig varsle relevante nasjonale myndigheter i de EØS-statene der eksplosivet er gjort tilgjengelig på markedet. Det skal særlig gis opplysninger om eksplosivets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(11) Produsenten skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise eksplosivets samsvar med forskriften. Informasjonen og dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. Produsenten skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som treffes for å fjerne risiko forbundet med eksplosivene som er brakt i omsetning.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-3",
+      "provision_ref": "§ 106",
+      "heading": "Representantens forpliktelser",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "(1) En produsent kan ved skriftlig fullmakt utpeke en representant.(2) Forpliktelsene etter § 105 første ledd, og plikten til å utarbeide teknisk dokumentasjon nevnt i § 105 annet ledd, skal ikke omfattes av representantens fullmakt.(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at eksplosivet er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at eksplosivet er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med eksplosivene som omfattes av fullmakten.",
+      "xml_path": "article#kapittel-12-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-4",
+      "provision_ref": "§ 107",
+      "heading": "Importørens forpliktelser",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "(1) Importøren skal bare bringe i omsetning eksplosiver som er i samsvar med forskriften.(2) Før et eksplosiv bringes i omsetning, skal importøren sikre atprodusenten har gjennomført relevant fremgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjoneksplosivet er påført CE-merkingeksplosivet følges av de nødvendige dokumenteneprodusenten har oppfylt kravene i § 105.(3) En importør som har grunn til å tro at et eksplosiv ikke er i samsvar med kravene i vedlegg II, skal ikke bringe eksplosivet i omsetning før det er i samsvar med kravene. Dersom eksplosivet utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.(4) Importøren skal angi navn, firma eller registrert varemerke og kontaktadresse på eksplosivet. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med eksplosivet. Opplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.(5) Importøren skal sikre at eksplosivet følges av anvisninger og sikkerhetsinformasjon på norsk. Dersom eksplosivet skal bringes i omsetning i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten.(6) Importøren skal så lenge han har ansvar for eksplosivet, sikre at oppbevaring- eller transportforholdene ikke setter eksplosivets samsvar med vedlegg II i fare.(7) Importør som har grunn til å tro at et eksplosiv de har brakt i omsetning ikke er i samsvar med de grunnleggende kravene i vedlegg II, skal straks treffe nødvendige korrigerende tiltak for å bringe eksplosivet i samsvar, eller om nødvendig trekke tilbake eller tilbakekalle eksplosivet. Dersom eksplosivet utgjør en risiko, skal importøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der eksplosivet er gjort tilgjengelig på markedet. Det skal gis nærmere opplysninger om eksplosivets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(8) Importøren skal ha kopi av samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at eksplosivet er brakt i omsetning.(9) Importøren skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise at eksplosivet samsvarer med vedlegg II. Informasjonen og dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. Dersom eksplosivet er brakt i omsetning i en annen EØS-stat, skal opplysningene være på et språk som aksepteres av denne EØS-staten. Importøren skal på anmodning fra nevnte myndigheter samarbeide med disse om alle tiltak for å fjerne risikoen forbundet med eksplosiver som er brakt i omsetning.",
+      "xml_path": "article#kapittel-12-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-5",
+      "provision_ref": "§ 108",
+      "heading": "Distributørens forpliktelser",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "(1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når eksplosiver gjøres tilgjengelig på markedet.(2) Før eksplosiver gjøres tilgjengelig på markedet, skal distributøren kontrollere ateksplosivet er påført CE-merking og påskriftene etter § 105 tredje leddeksplosivet følges av de nødvendige dokumenteneeksplosivet følges av anvisninger og sikkerhetsinformasjon på norsk. Dersom eksplosivene skal gjøres tilgjengelig på markedet i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i § 105 sjuende og åttende leddimportøren har oppfylt kravene i § 107 fjerde ledd.(3) En distributør som har grunn til å tro at et eksplosiv ikke er i samsvar med kravene i vedlegg II, skal ikke gjøre eksplosivet tilgjengelig på markedet før det er i samsvar med kravene. Dersom eksplosivet utgjør en risiko, skal distributøren varsle produsenten eller importøren og markedstilsynsmyndighetene om dette.(4) Distributøren skal så lenge han har ansvar for eksplosivet, sikre at oppbevarings- eller transportforholdene ikke setter eksplosivets samsvar med kravene i vedlegg II i fare.(5) En distributør som har grunn til at tro at et eksplosiv som er gjort tilgjengelig på markedet ikke er i samsvar med forskriften, skal sikre at det treffes nødvendige korrigerende tiltak for å bringe eksplosivet i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle eksplosivet. Dersom eksplosivet utgjør en risiko, skal distributøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der eksplosivet er gjort tilgjengelig på markedet. Det skal gis nærmere opplysninger om eksplosivets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(6) Distributøren skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise eksplosivets samsvar med forskriften. Distributøren skal på anmodning fra nevnte myndigheter, samarbeide med disse om alle tiltak som er truffet for å fjerne risikoen forbundet med eksplosivet som er gjort tilgjengelig på markedet.",
+      "xml_path": "article#kapittel-12-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-6",
+      "provision_ref": "§ 109",
+      "heading": "Tilfeller der produsentens forpliktelser får anvendelse på importører og distributører",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 105 så langt bestemmelsen passer når importøren eller distrubutøren bringer eksplosiver i omsetning under eget navn eller varemerke, eller endrer et eksplosiv som allerede er brakt i omsetning på en slik måte at det kan påvirke eksplosivets samsvar med forskriften.",
+      "xml_path": "article#kapittel-12-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-7",
+      "provision_ref": "§ 110",
+      "heading": "Identifikasjon av markedsdeltakere",
+      "path": [
+        "Kapittel. 12 Markedsdeltakernes forpliktelser når eksplosiver gjøres tilgjengelig på markedet"
+      ],
+      "text": "For eksplosiver som ikke omfattes av reglene om id-merking og sporing i kapittel 15, skal markedsdeltakerne på anmodning fra markedstilsynsmyndighetene kunne identifisere enhver markedsdeltaker som de har mottatt eksplosiver fra og som de har levert eksplosiver til. Denne plikten gjelder i ti år etter at markedsdeltakerne fikk eksplosivet levert eller selv leverte eksplosivet.",
+      "xml_path": "article#kapittel-12-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-1",
+      "provision_ref": "§ 111",
+      "heading": "Samsvarsformodning for eksplosiver",
+      "path": [
+        "Kapittel. 13 Samsvar"
+      ],
+      "text": "Eksplosiver skal antas å oppfylle de grunnleggende sikkerhetskravene i vedlegg II dersom de er i samsvar med harmoniserte standarder eller deler av slike, i den utstrekning standardene eller deler av dem omfatter disse kravene.",
+      "xml_path": "article#kapittel-13-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-2",
+      "provision_ref": "§ 112",
+      "heading": "Samsvarserklæring",
+      "path": [
+        "Kapittel. 13 Samsvar"
+      ],
+      "text": "(1) Samsvarserklæringen skal fastslå at kravene i vedlegg II er oppfylt.(2) Samsvarserklæringen skalutformes etter malen i vedlegg IVinneholde elementene angitt i de relevante fremgangsmåtene for samsvarsvurdering i vedlegg IIIajourføres fortløpende.(3) Samsvarserklæringen skal være på norsk, svensk, dansk, eller engelsk. Dersom eksplosivet skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.(4) Dersom et eksplosiv omfattes av mer enn én EØS-rettsakt som krever samsvarserklæring, skal det utarbeides én samsvarserklæring som omfatter alle slike EØS-rettsakter. Erklæringen skal angi hvilke EØS-rettsakter den gjelder, herunder henvisninger til hvor de er kunngjort.(5) Ved å utarbeide samsvarserklæringen påtar produsenten seg ansvaret for at eksplosivet er i samsvar med forskriften.",
+      "xml_path": "article#kapittel-13-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-3",
+      "provision_ref": "§ 113",
+      "heading": "Utforming og påføring av CE-merkingen og annen merking",
+      "path": [
+        "Kapittel. 13 Samsvar"
+      ],
+      "text": "(1) CE-merking av eksplosiver skal bare påføres av produsenten eller dennes representant.(2) Ved å påføre eller få påført CE-merking påtar produsenten seg ansvaret for at eksplosivet er i samsvar med kravene i forskriften.(3) CE-merkingen skal være den eneste merkingen som bekrefter at eksplosivet er i samsvar med kravene.(4) Det er forbudt å påføre et eksplosiv, tegn eller inskripsjoner som kan villede tredjemann om CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres eksplosivet, forutsatt at den ikke gjør CE-merkingen mindre synlig, lesbar eller endrer dens betydning.(5) CE-merkingen skal påføres eksplosivet slik at den er godt synlig, lett å lese og ikke kan fjernes. Dersom dette ikke er mulig eller ikke aktuelt på grunn av eksplosivets art, skal den påføres emballasjen og i medfølgende dokumenter.(6) CE-merket skal påføres før eksplosivet bringes i omsetning.(7) CE-merkingen skal følges av identifikasjonsnummeret til det tekniske kontrollorganet dersom det tekniske kontrollorganet er involvert i produksjonskontrollen.(8) Det tekniske kontrollorganet påfører identifikasjonsnummeret sitt selv. Alternativt kan identifikasjonsnummeret påføres av produsenten eller dennes representant etter organets anvisning.(9) CE-merkingen, og der det er relevant, det tekniske kontrollorganets identifikasjonsnummer nevnt i åttende ledd, kan etterfølges av et annet merke som angir en særlig risiko eller bruk.(10) Ved produksjon av eksplosiver til eget bruk, skal CE-merkingen føres på følgedokumentene. Det samme gjelder for eksplosiver som transporteres og leveres uemballert eller i mobil enhet for produksjon av eksplosiver for direkte fylling i borehull, og eksplosiver som produseres på brukersted og lades umiddelbart etter produksjon.(11) CE-merking skal være utformet som vist i vedlegg V.",
+      "xml_path": "article#kapittel-13-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-4",
+      "provision_ref": "§ 114",
+      "heading": "Fremgangsmåter for samsvarsvurdering",
+      "path": [
+        "Kapittel. 13 Samsvar"
+      ],
+      "text": "Ved samsvarsvurdering av eksplosiver, skal produsenten følge en av følgende fremgangsmåter nevnt i vedlegg III:EU-typeprøving (modul B) og etter produsentens eget valg, en av følgende:typesamsvar basert på intern produksjonskontroll og overvåket produktkontroll med tilfeldige intervaller (modul C2)typesamsvar basert på kvalitetssikring av produksjonsprosessen (modul D)typesamsvar basert på av kvalitetssikring av produktene (modul E)typesamsvar basert på produktkontroll (modul F)samsvar basert på verifisering av enkelteksemplarer (modul G).",
+      "xml_path": "article#kapittel-13-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-1",
+      "provision_ref": "§ 115",
+      "heading": "Krav til tekniske kontrollorgan",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "(1) Et teknisk kontrollorgan skal opprettes etter norsk lovgivning og være en juridisk person.(2) Et teknisk kontrollorgan skal være en tredjepart som er uavhengig av organisasjonen eller eksplosivet det vurderer.(3) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderingene, skal ikke være de som konstruerer, produserer, leverer, installerer, kjøper, eier, bruker eller vedlikeholder eksplosivene de vurderer, eller være representant for noen av disse partene. Dette skal ikke hindre bruk av eksplosiver som er nødvendige for virksomheten til det tekniske kontrollorganet, eller bruk av eksplosiver for personlige formål.(4) Et teknisk kontrollorgan, dets øverste ledelse og personalet som har ansvar for å utføre samsvarsvurderinger, skal ikke delta direkte i utforming, konstruksjon, produksjon, markedsføring, installasjon, bruk eller vedlikehold av disse eksplosivene, eller representere parter som deltar i slik virksomhet. De skal ikke delta i virksomhet som kan påvirke deres uavhengige vurdering eller integritet i forbindelse med samsvarsvurderingsvirksomheten de er utpekt for. Dette gjelder særlig rådgivningstjenester.(5) Et teknisk kontrollorgan skal sikre at virksomhet i datterforetak eller underleverandører ikke påvirker fortroligheten, objektiviteten eller upartiskheten i organets samsvarsvurderingsvirksomhet.(6) Et teknisk kontrollorgan og dets personale skal utøve sin samsvarsvurderingsvirksomhet med høy grad av faglig integritet og ha nødvendige tekniske kvalifikasjoner på det aktuelle området. De skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som kan påvirke deres vurderinger eller resultatene av deres samsvarsvurderingsvirksomhet, særlig ikke fra personer eller grupper av personer som berøres av resultatene av denne virksomheten.(7) Et teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt etter vedlegg III og som det er utpekt for. Dette gjelder uansett om disse oppgavene utføres av organet selv eller på dets vegne og under dets ansvar.(8) Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av eksplosiver som det er utpekt for, ha til rådighetnødvendig personale med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingenbeskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåteneegnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som teknisk kontrollorgan og annen virksomhetframgangsmåter for utførelse av virksomheten, som tar tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks eksplosivets teknologi er, og produksjonsprosessens masse- eller seriepreg.(9) Et teknisk kontrollorgan skal ha nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgavene som er forbundet med samsvarsvurderingen, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige fasiliteter.(10) Personale med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som organet er utpekt fortilfredsstillende kunnskap om kravene som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av kravene i vedlegg II, de relevante harmoniserte standardene, relevante bestemmelser i EØS-regelverk og relevant nasjonal lovgivningnødvendige kvalifikasjoner til å utarbeide sertifikater, protokoller og rapporter som viser at vurderingene er utført.(11) Det skal sikres at det tekniske kontrollorganet, dets øverste ledelse og vurderingspersonalet er upartiske.(12) Godtgjøringen til det tekniske kontrollorganets ledelse og til vurderingspersonalet skal ikke være avhengig av antallet utførte vurderinger eller av resultatene av slike vurderinger.(13) Et tekniske kontrollorgan skal tegne ansvarsforsikring med mindre EØS-staten påtar seg ansvar eller selv er direkte ansvarlig for samsvarsvurderingen.(14) Et teknisk kontrollorgan sitt personale har taushetsplikt om alle opplysninger de får kjennskap til når de utfører sine oppgaver etter vedlegg III, unntatt overfor vedkommende myndigheter i den EØS-staten der organet utøver sin virksomhet.(15) Et teknisk kontrollorgan skal delta i eller påse at dets vurderingspersonale blir informert om relevant standardiseringsvirksomhet og virksomheten til samordningsgruppen for tekniske kontrollorgan, og anvende forvaltningsvedtakene og dokumentene som er resultat av denne gruppens arbeid, som generelle retningslinjer.",
+      "xml_path": "article#kapittel-14-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-2",
+      "provision_ref": "§ 116",
+      "heading": "Samsvarsformodning",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "Dersom et teknisk kontrollorgan dokumenterer at det oppfyller kriteriene i de relevante harmoniserte standardene eller deler av disse, skal det antas å oppfylle kravene i § 115 i den utstrekning de relevante harmoniserte standardene omfatter disse kravene.",
+      "xml_path": "article#kapittel-14-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-3",
+      "provision_ref": "§ 117",
+      "heading": "Datterforetak og underleverandører til tekniske kontrollorgan",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "(1) Dersom et teknisk kontrollorgan overdrar bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal kontrollorganet sikre at disse oppfyller kravene i § 115 og informere Direktoratet for samfunnssikkerhet og beredskap om dette.(2) Det tekniske kontrollorganet skal påta seg det fulle ansvaret for de oppgavene som blir utført av underleverandører eller datterforetak, uansett hvor disse er etablert.(3) Oppgaver kan bare overdras til en underleverandør eller et datterforetak dersom kunden har samtykket til dette.(4) Det tekniske kontrollorganet skal kunne stille de relevante dokumentene om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og det arbeidet de har utført etter vedlegg III til rådighet for Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-14-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-4",
+      "provision_ref": "§ 118",
+      "heading": "Søknad om utpeking som teknisk kontrollorgan",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "(1) Et organ som vil bli utpekt som teknisk kontrollorgan, skal søke Direktoratet for samfunnssikkerhet og beredskap om dette.(2) Organet skal ved utpekingen oppfylle kravene i § 115.(3) Søknaden skal følges av en beskrivelse av samsvarsvurderingsvirksomheten, den eller de samsvarsvurderingsmodulene og de eksplosivene som organet hevder å være kompetent for, og et akkrediteringsbevis utstedt av Norsk akkreditering som bekrefter at det tekniske kontrollorganet oppfyller kravene i § 115.(4) Dersom det tekniske kontrollorganet ikke kan legge fram et akkrediteringsbevis, skal det gi Direktoratet for samfunnssikkerhet og beredskap den dokumentasjonen som er nødvendig for å verifisere, anerkjenne og føre regelmessig tilsyn med at organet oppfyller kravene fastsatt i § 115.",
+      "xml_path": "article#kapittel-14-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-5",
+      "provision_ref": "§ 119",
+      "heading": "Begrensning eller tilbaketrekking av utpeking som teknisk kontrollorgan",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "Dersom et teknisk kontrollorgan ikke oppfyller sine forpliktelser, kan Direktoratet for samfunnssikkerhet og beredskap begrense, midlertidig oppheve eller trekke tilbake utpekingen.",
+      "xml_path": "article#kapittel-14-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-6",
+      "provision_ref": "§ 120",
+      "heading": "Driftsmessige forpliktelser",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "(1) Et teknisk kontrollorgan skal utføre samsvarsvurderinger etter framgangsmåtene for samsvarsvurdering etter vedlegg III.(2) Samsvarsvurderinger skal utføres på en måte som står i forhold til målet, slik at markedsdeltakerne ikke pålegges unødige byrder. Et teknisk kontrollorgan skal utøve sin virksomhet slik at det tas tilstrekkelig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, hvor kompleks eksplosivets teknologi er og produksjonsprosessens masse- eller seriepreg. I den forbindelse skal det likevel sikres at det vernenivået som kreves for at eksplosivet skal være i samsvar med forskriften blir ivaretatt.(3) Dersom et teknisk kontrollorgan fastslår at kravene i vedlegg II, tilhørende harmoniserte standarder eller andre tekniske spesifikasjoner ikke er oppfylt av en produsent, skal det ikke utstede samsvarssertifikat, men kreve at produsenten treffer egnede korrigerende tiltak, og ikke utstede samsvarssertifikat.(4) Dersom et teknisk kontrollorgan, i forbindelse med samsvarskontroll etter utstedelsen av et sertifikat, finner at et eksplosiv ikke lenger er i samsvar med kravene, skal det kreve at produsenten treffer egnede korrigerende tiltak, og om nødvendig oppheve sertifikatet midlertidig eller trekke det tilbake.(5) Dersom det ikke treffes korrigerende tiltak, eller dersom de ikke har den ønskede virkningen, skal det tekniske kontrollorganet begrense sertifikatet, oppheve det midlertidig eller trekke det tilbake, alt etter hva som er hensiktsmessig.",
+      "xml_path": "article#kapittel-14-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-7",
+      "provision_ref": "§ 121",
+      "heading": "Opplysningsplikt",
+      "path": [
+        "Kapittel. 14 Tekniske kontrollorgan"
+      ],
+      "text": "(1) Tekniske kontrollorganer skal varsle Direktoratet for samfunnssikkerhet og beredskap omalle tilfeller der et sertifikat er nektet utstedt eller er begrenset, opphevet midlertidig eller trukket tilbakealle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene angående opplysninger om samsvarsvurderingsvirksomhetsamsvarsvurderingsvirksomhet som er utøvd innenfor rammen av utpekingen og all annen virksomhet, herunder virksomhet og underleveranser over landegrensene, dersom direktoratet ber om dette.(2) Et teknisk kontrollorgan skal gi de andre organene som utøver tilsvarende samsvarsvurderingsvirksomhet for eksplosiver, relevante opplysninger om spørsmål knyttet til negative resultater av samsvarsvurderingen og i tillegg positive resultater dersom de ber om det.",
+      "xml_path": "article#kapittel-14-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-1",
+      "provision_ref": "§ 122",
+      "heading": "Virkeområdet for dette kapittelet",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "Bestemmelsene i dette kapittelet gjelder for eksplosiver, med unntak aveksplosiver som transporteres og leveres uemballert eller i pumpevogn i den hensikt å skulle losses direkte i borehulleteksplosiver som produseres på sprengningsstedet, og som lades umiddelbart etter at det er produsertammunisjonikke-detonerende lunte, i løpemetersikkerhetslunte av svartkrutt (svartkruttlunte), som brenner med forutsigbar hastighet og som ikke gir noen utvendig eksplosiv effekttennhette for håndvåpenammunisjon og små drivladninger.",
+      "xml_path": "article#kapittel-15-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-2",
+      "provision_ref": "§ 123",
+      "heading": "Unik id-merking",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) Den som produserer eller importerer eksplosiver eller monterer tennere, skal merke eksplosivene og alle forpakningsenheter, med et unikt identifikasjonsmerke (id-merke).(2) I de tilfeller hvor eksplosiver er gjenstand for ytterligere bearbeiding eller montering, behøver ikke produsenten å merke eksplosivet med et nytt unikt id-merke dersom det opprinnelige merket tilfredsstiller kravene i § 124.(3) Første ledd gjelder ikke i de tilfeller hvor eksplosiver produseres for eksport og eksplosivet er merket med et id-merke som gjør det mulig å spore det i henhold til kravene i importlandet.(4) Hvert produksjonssted tildeles en tresifret kode av Direktoratet for samfunnssikkerhet og beredskap. Produsent som har produksjonssted utenfor EØS-området skal kontakte Direktoratet for samfunnssikkerhet og beredskap for å få tildelt en kode til dette produksjonsstedet. Dersom både produksjonsstedet og produsenten er etablert utenfor EØS-området og eksplosivet importeres direkte til Norge, og ikke via en annen EØS-stat, skal importøren kontakte Direktoratet for samfunnssikkerhet og beredskap for å få tildelt kode.(5) Distributør som pakker om eksplosiver, skal påse at eksplosivet og alle forpakningsenheter, er merket med det unike id-merket.",
+      "xml_path": "article#kapittel-15-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-3",
+      "provision_ref": "§ 124",
+      "heading": "Id-merket",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) Eksplosivet skal påføres et permanent, fullt leselig og unikt id-merke, enten ved direkte trykk eller ved en selvklebende etikett.(2) Id-merket skal inneholde en lesbar del som inneholdernavn på produsenten alfanummerisk kode bestående av to bokstaver som identifiserer EØS-staten hvor eksplosivet er produsert eller importert til, en tresifret kode utstedt av myndigheten i EØS-staten som identifiserer produksjonssted, og en unik produktkode og logistikkinformasjon utviklet av produsenten.(3) Id-merket skal i tillegg inneholde en elektronisk lesbar strekkode eller matrisekode motsvarende den alfanumeriske koden, for eksempel slik som figuren under viser.(4) For artikler som er for små eller hvor utformingen gjør det teknisk umulig å få plass til hele den alfanumeriske koden, skal id-merket plasseres på hver minste emballasjeenhet.(5) Hver emballasjeenhet skal forsegles.",
+      "xml_path": "article#kapittel-15-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-4",
+      "provision_ref": "§ 125",
+      "heading": "Eksplosiver i patroner eller sekker",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For eksplosiver i patroner eller sekker skal id-merket bestå av et direkte trykk eller en selvklebende etikett på hver patron eller sekk. Hver kasse med patroner skal merkes på tilsvarende måte.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke festet til hver patron eller sekk, og tilsvarende for hver kasse med patroner.",
+      "xml_path": "article#kapittel-15-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-5",
+      "provision_ref": "§ 126",
+      "heading": "Tokomponent eksplosiver",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "For ferdigpakket tokomponent eksplosiver, skal det unike id-merket bestå av en selvklebende etikett eller et direkte trykk på hver enkelt av alle forpakninger, uansett størrelse, som inneholder de to komponentene.",
+      "xml_path": "article#kapittel-15-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-6",
+      "provision_ref": "§ 127",
+      "heading": "Fenghetter og tennrør",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For fenghetter og tennrør skal det unike id-merket bestå av en selvklebende etikett, eller av et direkte trykk eller stempel på hvert artikkelskall. Tilsvarende merking skal påføres enhver emballasje.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke festet til hver artikkel og tilsvarende for hver kasse med artikler.(3) Fenghetter og tennrør som er omfattet av unntaket i § 124 fjerde ledd skal ha varig merking slik at opplysningen i § 124 andre ledd er tydelig. Antallet fenghetter og tennrør i pakningen skal være angitt på den minste emballasjen.",
+      "xml_path": "article#kapittel-15-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-7",
+      "provision_ref": "§ 128",
+      "heading": "Elektriske, ikke-elektriske og elektroniske tennere",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For elektriske, ikke-elektriske og elektroniske tennere skal det unike id-merket bestå av en selvklebende etikett, eller av et direkte trykk eller stempel på hver hylse. Tilhørende kasse med tennere påføres tilsvarende merking.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke festet til hver tenner, og tilsvarende for hver kasse med tennere.",
+      "xml_path": "article#kapittel-15-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-8",
+      "provision_ref": "§ 129",
+      "heading": "Primere og boosterladninger",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For primere og boosterladninger skal det unike id-merket bestå av en selvklebende etikett, eller av et direkte trykk eller stempel på hver primer og booster. Tilhørende etikett skal påføres hver kasse med primere og boosterladninger.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke festet til hver primer og booster, og tilsvarende for hver kasse med primere og boosterladninger.",
+      "xml_path": "article#kapittel-15-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-9",
+      "provision_ref": "§ 130",
+      "heading": "Detonerende lunter",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For detonerende lunter skal det unike id-merket bestå av en selvklebende etikett eller av et direkte trykk på plasthylsen/strømpen. Id-merket påføres for hver femte meter med lunte, enten på den ytre korden eller lunten, eller på det indre ekstruderte plastlaget under den ytre fiberkorden eller lunten. En tilhørende etikett skal påføres spolen og hver emballasje med lunter.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke innført i hver detonerende lunte, og tilsvarende en tilhørende elektronisk brikke for hver kasse med detonerende lunter.(3) Hver detonerende lunte som er omfattet av unntaket i § 124 fjerde ledd skal merkes med unikt id-merke på rullen eller spolen og hvis relevant på den minste emballasjen.",
+      "xml_path": "article#kapittel-15-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-10",
+      "provision_ref": "§ 131",
+      "heading": "Kanner og tønner med eksplosiver",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) For kanner og tønner som inneholder eksplosiver skal det unike id-merket bestå av en selvklebende etikett eller av et direkte trykk på kannene eller tønnene.(2) Virksomheten kan i tillegg benytte en passiv elektronisk brikke festet til hver kanne eller tønne.",
+      "xml_path": "article#kapittel-15-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-11",
+      "provision_ref": "§ 132",
+      "heading": "Kopier av original etikett",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "Virksomheten kan feste avtakbare selvklebende kopier av originaletiketter på eksplosivene til bruk for deres kunder. Etikettene skal merkes som kopier for å hindre misbruk.",
+      "xml_path": "article#kapittel-15-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-12",
+      "provision_ref": "§ 133",
+      "heading": "Krav til oversikt og historikk",
+      "path": [
+        "Kapittel. 15. Id-merking og sporing av eksplosiver til sivil bruk"
+      ],
+      "text": "(1) Virksomheter som produserer, importerer eller distribuerer eksplosiver skal etablere et system som gir oversikt over flyten av eksplosiver inn og ut av virksomheten sin.(2) Oversikten skal inneholde data over alle eksplosiver virksomheten har eller har hatt i sin besittelse, i tillegg til relevante opplysninger om eksplosivtype og hvilken virksomhet eksplosivene er levert til. Denne oversikten skal også inneholde de unike alfanumeriske kodene, en angivelse av hvor eksplosivene er levert, samt hvem som er brukt som transportør og en erklæring fra sluttbruker om at eksplosivene er mottatt.(3) Sluttbruker skal ha en oversikt over de unike alfanumeriske kodene til eksplosiver som er levert i retur eller til tilintetgjøring.(4) Virksomheten skal beskytte innsamlede data mot skade, ødeleggelse eller misbruk.(5) Virksomheten skal på forespørsel kunne gi Direktoratet for samfunnssikkerhet og beredskap kontaktopplysninger til person som kan fremskaffe opplysninger som omhandlet i andre ledd, også utenom normal arbeidstid.(6) Den enkelte virksomhet skal oppbevare og vedlikeholde oversikten sin over flyten av eksplosiver inn og ut av virksomheten i en periode på ti år fra leveringsdato, eller forbruksdato.(7) Dersom virksomheten opphører eller er konkurs skal oversikten leveres til Direktoratet for samfunnssikkerhet og beredskap. Ved konkurs skal bobestyrer sørge for at oversikten leveres til Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-15-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-1",
+      "provision_ref": "§ 134",
+      "heading": "Tilsynsmyndighet",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Direktoratet for samfunnssikkerhet og beredskap fører tilsyn med at bestemmelsene gitt i forskriften blir overholdt.(2) Kommunen fører tilsyn med oppbevaring av inntil 50 kg røyksvakt krutt og eksplosiver som kan oppbevares uten tillatelse.(3) Privat sakkyndig som fører tilsyn på vegne av Direktoratet for samfunnssikkerhet og beredskap kan ta betaling til dekning av utgifter forbundet med de delegerte oppgavene.(4) Ved utøvelsen av tilsynet gjelder bestemmelsene i brann- og eksplosjonsvernloven § 33 til § 36 på tilsvarende måte.",
+      "xml_path": "article#kapittel-16-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-2",
+      "provision_ref": "§ 135",
+      "heading": "Kursadministrator, kursarrangør og eksamensadministrator",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Direktoratet for samfunnssikkerhet og beredskap utpeker kursadministrator, kursarrangør og eksamensadministrator for gjennomføring av kurs, eksamen og prøver etter forskriften. Kursadministrator, kursarrangør og eksamensadministrator kan ta gebyr til dekning av utgiftene forbundet med gjennomføring av kurs, prøve og eksamener, retting av prøver og utstedelse av kompetansebevis og sertifikat.(2) Vedtak fattet av kursadministrator, kursarrangør eller eksamensadministrator som har betydning for adgangen til deltakelse på kurs, gjennomføring av prøve, eksamen eller utstedelse av kompetansebevis kan påklages til Direktoratet for samfunnssikkerhet og beredskap.",
+      "xml_path": "article#kapittel-16-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-3",
+      "provision_ref": "§ 136",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) I særlige tilfeller kan Direktoratet for samfunnssikkerhet og beredskap dispensere fra forskriften§ 8 fjerde ledd§ 12 andre ledd§ 21 første ledd andre punktum§ 28 første ledd§ 36 første ledd§ 38§ 50§ 51§ 52§ 55 fjerde ledd§ 65§ 79a§ 80§ 81§ 82 første ledd§ 96.(2) Ved utplassering av eksplosiver eller innretninger med eksplosiver til snøsikring, kan det dispenseres fra forskriftens bestemmelser i kapittel 5, kapittel 6 og kapittel 11.(3) I forbindelser med nyutvikling eller andre helt særlige tilfeller kan det dispenseres fra de av forskriftens bestemmelser som ikke passer.(4) Søknad om dispensasjon skal inneholde en skriftlig risikovurdering med en tilhørende plan for hvordan risikoreduserende tiltak skal ivaretas. I vurderingen skal det særlig legges vekt på om tilfredsstillende sikring og sikkerhet likevel kan oppfylles ved iverksettelse av andre kompenserende tiltak.(5) Det kan stilles nødvendige vilkår for dispensasjonen. Direktoratet for samfunnssikkerhet og beredskap kan ved enkeltvedtak trekke tilbake dispensasjonen dersom vilkårene ikke oppfylles.",
+      "xml_path": "article#kapittel-16-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-4",
+      "provision_ref": "§ 137",
+      "heading": "Reaksjonsmidler",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Ved overtredelse av forskriften, eller vedtak truffet i medhold av denne, kommer bestemmelsene i brann- og eksplosjonsvernloven § 37, § 38 og § 40 til anvendelse.",
+      "xml_path": "article#kapittel-16-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-5",
+      "provision_ref": "§ 138",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Ved overtredelse av forskriften, eller vedtak truffet i medhold av denne, kommer bestemmelsene om tvangsmulkt i brann- og eksplosjonsvernloven § 39 til anvendelse.",
+      "xml_path": "article#kapittel-16-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-6",
+      "provision_ref": "§ 139",
+      "heading": "Markedstilsyn, kontroll og beskyttelsestiltak",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Dersom en markedsdeltaker ikke har oppfylt sine forpliktelser etter kapittel 12, eksplosivet utgjør en risiko eller ikke er i samsvar med forskriften, kan Direktoratet for samfunnssikkerhet og beredskapnedlegge forbud mot å importere, bringe i omsetning eller gjøre tilgjengelig på markedetkreve at eksplosivet tilbaketrekkeskreve at eksplosivet tilbakekalleskreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av eksplosivetkreve retting av avvikkreve at eksplosivet tilintetgjøresnedlegge forbud mot bruk av eksplosivetkreve merking av eksplosivet.",
+      "xml_path": "article#kapittel-16-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-7",
+      "provision_ref": "§ 140",
+      "heading": "Tilbakekall av tillatelse, særskilt godkjenning, eller sertifikat",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) En tillatelse eller godkjenning kan tilbakekalles nårdet er gitt uriktige eller mangelfulle opplysninger av vesentlig betydning for utstedelsen av tillatelsen eller godkjenningenhensynet til sikkerhet eller sikring er satt i fare ved alvorlige eller gjentatte brudd på forskriften, eller virksomheten på annen måte ikke er skikket til å håndtere eksplosjonsfarlige stoffervilkårene som gjelder ikke blir overholdtden blir brukt på en måte som er i strid med lov, forskrift eller vedtakdet er grunn til å frykte at eksplosjonsfarlige stoffer kan bli misbrukt av innehaverenforhold av sikkerhetsmessig betydning på stedet har endret seg vesentlig etter at tillatelsen ble gittkravene som ble stilt da tillatelsen eller godkjenningen ble gitt ikke lenger anses for å tilfredsstille til de kravene til sikkerhet og sikring som bør stilles.(2) Direktoratet for samfunnssikkerhet og beredskap kan trekke tilbake sertifikat, kompetansebevis og særskilt godkjenning dersom innehaver ikke er skikket til å håndtere eksplosjonsfarlige stoffer, eller ikke er skikket til å være bergsprengningsleder. Ved vurderingen kan det blant annet legges vekt på forholdene som er listet opp i første ledd. Direktoratet kan avgjøre når og på hvilke vilkår et eventuelt nytt sertifikat, kompetansebevis eller særskilt godkjenning kan utstedes etter en slik tilbaketrekking, for eksempel pålegge vedkommende å gjennomføre nytt kurs og avlegge ny prøve.(3) Politiet og Direktoratet for samfunnssikkerhet og beredskap kan ved mistanke om at innehaver ikke er skikket, midlertidig trekke tilbake sertifikat, kompetansebevis eller særskilt godkjenning inntil endelig avgjørelse om tilbaketrekking er truffet.",
+      "xml_path": "article#kapittel-16-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-8",
+      "provision_ref": "§ 141",
+      "heading": "Straff",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelsene i forskriftenkapittel 2 med unntak av § 19§ 29 første ledd§ 30§ 31. første ledd§ 32kapittel 5 med unntak av § 34 og § 36kapittel 6 med unntak av § 46kapittel 7 med unntak av § 57 og § 59kapittel 8 med unntak av § 71 og § 72kapittel 9 med unntak av § 77kapittel 10 med unntak av § 79a andre ledd tredje punktum, § 80 og § 81kapittel 11 med unntak av § 98kapittel 12kapittel 13 med unntak av § 111kapittel 14 med unntak av § 116, § 118 og § 119eller vedtak gitt i medhold av disse bestemmelsene, kan straffes med bøter eller fengsel etter brann- og eksplosjonsvernloven § 42.",
+      "xml_path": "article#kapittel-16-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-9",
+      "provision_ref": "§ 142",
+      "heading": "Klage",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Vedtak fattet av Direktoratet for samfunnssikkerhet og beredskap eller politiet kan påklages til Justis- og beredskapsdepartementet.(2) Vedtak fattet av kommunestyret kan påklages til Direktoratet for samfunnssikkerhet og beredskap. For øvrige vedtak fattet av kommunen gjelder forvaltningsloven § 28 annet ledd.",
+      "xml_path": "article#kapittel-16-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-10",
+      "provision_ref": "§ 143",
+      "heading": "Ikrafttredelse og oppheving",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Forskriften trer i kraft 1. juli 2017, med de unntak som følger av andre til syvende ledd. Fra samme tidspunkt oppheves forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff, med unntak av:bestemmelsene som gjelder håndtering av pyrotekniske artiklerkapittel 14 felles bestemmelser om godkjenning av yrkeskvalifikasjoner fra andre EØS-stater.(2) § 19 annet ledd om kostnader ved tilintetgjøring av eksplosiver, trer i kraft 1. januar 2018.(3) § 21 annet ledd om kommunens behandling av søknader om oppbevaring av røyksvakt krutt, trer i kraft 1. januar 2018.(4) § 35 første ledd om krav til vakttelefon og lokal lageransvarlig, trer i kraft 1. januar 2018 for tillatelser gitt før 1. juli 2017.(5) Kapittel 6 om oppbevaring av ammoniumnitratholdige stoffer og stoffblandinger i klasse 5.1, trer i kraft 1. januar 2018, med unntak av § 55 som trer i kraft straks.(6) § 79 om krav til at virksomheten som et minimum skal ha en bergsprengningsleder fulltidsansatt, trer i kraft 1. juli 2018.",
+      "xml_path": "article#kapittel-16-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-11",
+      "provision_ref": "§ 144",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Tillatelser gitt med hjemmel i forskrift 22. mars 1977 nr. 1 om eksplosive varer, forskrift 12. november 1991 nr. 732 om erverv, handel og innførsel av eksplosiv vare, forskrift 20. desember 1994 nr. 1191 om markedsføring og kontroll av eksplosiv vare til sivilt bruk og forskrift 16. desember 1999 nr. 1471 om oppbevaring av eksplosiv vare, oppheves 1. januar 2019. Slike tillatelser gitt for Svalbard, er fortsatt gjeldende.(2) Tidsbegrensede tillatelser gitt med hjemmel i forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff, gjelder til utløpsdato for tillatelsen. Tillatelser som er gitt på ubestemt tid utløper 1. januar 2019.(3) Tillatelser til produksjon av eksplosiver som er gitt med hjemmel i forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff kapittel 6, gjelder inntil utløpsdato i tillatelsen, men senest til 1. januar 2019. Godkjenning av mobile enheter for produksjon av eksplosiver etter tidligere forskrift § 2-7 tredje ledd, gjelder også inntil utløpsdato i godkjenningen, men senest til 1. januar 2019.(4) Eksplosiver som er bragt i omsetning før 20. april 2016, som er i samsvar med forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff, kan fortsatt gjøres tilgjengelig på markedet.(5) Bergsprenger- og bergsprengningsledersertifikater utstedt i henhold til forskrift 26. juni 2002 nr. 922 om håndtering av eksplosjonsfarlig stoff gjelder inntil utløpsdato av sertifikatet.",
+      "xml_path": "article#kapittel-16-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-12",
+      "provision_ref": "§ 145",
+      "heading": "Overgangsbestemmelse for undervannssprengning",
+      "path": [
+        "Kapittel. 16 Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Personer som er meldt inn som teknisk sprengningskyndige før 6. mai 2015 og driver med undervannssprengning skal innen 5 år etter innmelding eller senest 6. mai 2018 gjennomføre kurs som bergsprenger. Før påmelding til kurs som bergsprenger skal vedkommende dokumentere utdanning og erfaring av betydning for arbeidet med undervannssprengning. Direktoratet for samfunnssikkerhet og beredskap kan etter en konkret vurdering av kompetanse og erfaring pålegge gjennomføring av nærmere bestemte kurs og prøver, før kurs som bergsprenger kan gjennomføres.(2) Fra og med 6. mai 2015 er det ikke lenger mulig å melde inn undervannssprengning som teknisk sprengning. Fra og med 6. mai 2018 er det ikke lov til å drive undervannssprengning uten sertifikat som bergsprenger.",
+      "xml_path": "article#kapittel-16-paragraf-12"
+    }
+  ]
+}

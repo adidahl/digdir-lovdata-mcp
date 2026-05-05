@@ -1,0 +1,448 @@
+{
+  "id": "FOR-2020-10-09-2012",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pass og nasjonalt ID-kort (pass- og ID-kortforskriften)",
+  "short_title": "Pass- og ID-kortforskriften",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2020-10-19",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-18-2657 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2020-10-09-2012",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-10-09-2012",
+  "raw_xml_sha256": "fc2d201f6ee519ef178975cdaa5cf17b637795e433e54a9b4d6f84b27ec5250b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften gjelder utstedelse, bruk og forvaltning av pass og nasjonalt ID-kort.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Politidirektoratets ansvar og oppgaver",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Politidirektoratet er overordnet myndighet for utstedelse og forvaltning av pass og nasjonalt ID-kort.\nPolitidirektoratet fastsetter et styringsrammeverk, herunder instrukser, med nærmere regler om utstedelse og forvaltning av pass og nasjonalt ID-kort.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Utenriksstasjonenes passmyndighet",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Utenriksstasjoner med passmyndighet kan innvilge søknad om pass når det er åpenbart at vilkårene i passloven § 3 og § 4 er oppfylt, og det ikke foreligger opplysninger som tilsier at det er grunnlag for å vurdere passhindring etter passloven § 5. Utenriksstasjonene kan også avslå søknad om pass når vilkårene i passloven § 3 eller § 4 åpenbart ikke er oppfylt.\nUtenriksstasjonen som har mottatt søknaden står alltid som utstedende myndighet i passet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Gjennomføring av EU-rettsakter",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "EØS-avtalen vedlegg V nr. 1a (forordning (EU) nr. 2019/1157) gjelder som forskrift med de tilpasninger som følger av vedlegg VIII nr. 10a og av avtalen for øvrig.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Personlig fremmøte",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Søknad om pass fremmes ved personlig fremmøte hos passmyndighet i Norge eller ved norsk utenriksstasjon med passmyndighet. Søknad om nasjonalt ID-kort fremmes ved personlig fremmøte hos ID-kortmyndighet i Norge.\nHvis søkeren er sterkt bevegelseshemmet eller andre omstendigheter vanskeliggjør fremmøte, kan pass- og ID-kortmyndigheten oppsøke søkeren og motta nødvendige opplysninger for å behandle søknaden.\nVed søknad om pass eller nasjonalt ID-kort med reiserett til mindreårige og personer som er fratatt rettslig handleevne og ved søknad om nasjonalt ID-kort uten reiserett til mindreårige under 13 år, må en forelder med foreldreansvar, verge eller leder av norsk eller utenlandsk barneverntjeneste eller den lederen bemyndiger møte sammen med den umyndige. Fosterforeldre kan bemyndiges til å møte i stedet for barneverntjenesten.\nDen som møter sammen med søkeren etter tredje ledd skal godtgjøre sin identitet etter § 2-2 og kunne dokumentere sin stilling i barneverntjenesten, eller oppnevning som fosterforeldre og bemyndigelse. Er en annen person enn foreldrene verge, skal dennes stilling dokumenteres gjennom kopi av oppnevning, dom eller lignende. Foresattes identitet skal kontrolleres mot eventuelle opplysninger om den mindreåriges foresatte i passregisteret, ID-kortregisteret og Folkeregisteret.\nKrav til personlig fremmøte kan i særlige tilfeller fravikes etter retningslinjer fastsatt av Politidirektoratet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Godtgjøring av identitet",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Søkeren skal godtgjøre sin folkeregistrerte identitet ved å gi opplysninger, herunder navn, statsborgerskap, fødselsdato, fødselsnummer, fødested og familieforhold, og ved å fremlegge nødvendige underlagsdokumenter. Identiteten er godtgjort når det ikke er tvil om at dokumenter og andre opplysninger bekrefter søkerens identitet.\nSøkerens siste pass eller nasjonale ID-kort skal benyttes til identifisering, med mindre søkeren ikke tidligere har hatt pass eller nasjonalt ID-kort, disse er meldt tapt eller ikke er egnet til å identifisere søkeren. I tillegg kan det kreves fremlagt annen dokumentasjon som kan bidra til å bekrefte søkerens identitet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Godtgjøring av statsborgerskap",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Hvis søkeren tidligere har vært utenlandsk statsborger skal statsborgervedtaket fremlegges ved første gangs søknad om norsk pass eller nasjonalt ID-kort.\nFor søkere som bor eller oppholder seg i utlandet bør det i tvilstilfelle kreves at søkeren fremlegger erklæring fra bosteds- eller oppholdslandets myndigheter om at søkeren ikke før 1. januar 2020 etter søknad har ervervet statsborgerskap i dette landet. Dersom slik erklæring ikke kan skaffes, kan det kreves at søkeren fremlegger gyldig oppholdstillatelse fra oppholdslandet eller avgir en egenerklæring om at han eller hun ikke før 1. januar 2020 har ervervet annet lands statsborgerskap etter søknad eller uttrykkelig samtykke. Dersom søkeren opplyser å ha ervervet statsborgerskap i bosteds- eller oppholdslandet etter 1. januar 2020, bør det i tvilstilfelle kreves fremlagt dokumentasjon på når statsborgerskapet er ervervet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Innhenting av opplysninger fra Folkeregisteret, fødselsnummer, personnavn, mv.",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Personopplysningene som fremgår av pass og nasjonalt ID-kort skal samsvare med opplysningene om innehaveren i Folkeregisteret på søknadstidspunktet. Folkeregistrert personnavn kan forkortes når det er nødvendig av plasshensyn.\nFødselsnummeret skal innføres i ordinære pass, og fremgå på nasjonalt ID-kort. I midlertidig pass innføres bare fødselsdato.\nFor søkere født i utlandet som mangler fødselsnummer og ellers fyller vilkårene for pass eller nasjonalt ID-kort, fremsettes anmodning til Folkeregisteret om tildeling av fødselsnummer via pass- og ID-kortmyndigheten.\nNorsk utenriksstasjon med passmyndighet kan i særskilte tilfeller, når det anses åpenbart ubetenkelig, utstede midlertidig pass før fødselsnummer er tildelt. Politidirektoratet gir nærmere retningslinjer om slik utstedelse av midlertidig pass.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Samtykke til utstedelse av pass eller nasjonalt ID-kort med reiserett til mindreårige",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Samtykke etter passloven § 4 og ID-kortloven § 4 avgis ved personlig fremmøte på et søkersted for pass eller nasjonalt ID-kort. Identiteten skal godtgjøres etter § 2-2. I særlige tilfeller kan kravet om personlig fremmøte fravikes etter retningslinjer fastsatt av Politidirektoratet.\nSamtykke kan gis for en enkelt dokumentutstedelse, eller som varig samtykke til dokumentutstedelse til den mindreårige. Enkeltvis eller varig samtykke kan avgis uavhengig av søknad om pass eller nasjonalt ID-kort. Enkeltvis samtykke må ikke være eldre enn tre måneder når søknaden fremmes.\nEnkeltvis samtykke kan trekkes tilbake inntil søknad om pass eller nasjonalt ID-kort er innvilget. Varig samtykke kan trekkes tilbake med virkning for fremtidige utstedelser. Samtykke trekkes tilbake ved personlig fremmøte på et søkersted for pass eller nasjonalt ID-kort. Identiteten skal godtgjøres etter § 2-2.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Krav til ansiktsfoto",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Ved søknad om pass eller nasjonalt ID-kort skal det opptas ansiktsfoto av søkeren som kan brukes til biometrisk sammenligning. Politidirektoratet kan gi retningslinjer om innlevering av ansiktsfoto ved søknad om midlertidig pass eller dersom det tekniske utstyret ikke kan benyttes.\nBildene som opptas eller innleveres skal oppfylle ICAOs standard for kvalitet, herunder bakgrunn, belysning, ansiktsuttrykk mv. Hele ansiktet skal være avbildet. Begge øyne, øyebryn og ører skal være synlige. Briller og hodeplagg må ikke benyttes.\nPersoner kan av religiøse eller andre særlige grunner, for eksempel ved sykdom, bruke hodeplagg på bildet når det er grunn til å anta at tilsvarende hodeplagg vil bli brukt i fremtidige kontroller. Hodeplagget må ikke tildekke noe av ansiktet eller mer av hodet enn nødvendig.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Krav til fingeravtrykk",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Ved søknad om ordinært pass eller nasjonalt ID-kort skal det avgis fingeravtrykk av to fingre (fortrinnsvis pekefingre) som kan brukes til biometrisk sammenligning.\nDet skal ikke innhentes fingeravtrykk fra søkere under 12 år eller når innhenting av fingeravtrykk ikke er fysisk mulig.\nHvis det midlertidig ikke kan innhentes fingeravtrykk fra søkeren, kan det utstedes pass eller nasjonalt ID-kort uten fingeravtrykk med gyldighet inntil ett år.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Krav til navnetrekk",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Ved søknad om pass eller nasjonalt ID-kort skal søkere over 10 år avgi sitt navnetrekk, med mindre de ikke kan skrive navnet sitt.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Krav til bekreftelse",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Søkeren skal bekrefte at opplysningene i søknaden er korrekte.\nVed søknad om pass eller nasjonalt ID-kort med reiserett til mindreårige og til personer som er fratatt rettslig handleevne, og ved søknad om nasjonalt ID-kort uten reiserett til mindreårige under 13 år bekreftes opplysningene av den som møter sammen med søkeren etter § 2-1.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 2-10",
+      "heading": "Kontroll av søknaden",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Pass- og ID-kortmyndigheten skal foreta en grundig kontroll av søkerens identitet og fremlagte opplysninger, herunder opplysninger om foreldreansvar, og ektheten av fremlagte dokumenter.\nFor å kontrollere at vilkårene for utstedelse av pass eller nasjonalt ID-kort er oppfylt, skal det gjennomføres søk i passregisteret og ID-kortregisteret, herunder biometrisk sammenligning. Det skal også gjennomføres biometrisk sammenligning mot utlendingsregisteret ved utstedelse av nasjonalt ID-kort til utenlandske statsborgere. Det kan gjennomføres søk mot politiets registre i den utstrekning det er gitt adgang til det i politiregisterforskriften del 11.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 2-11",
+      "heading": "Innlevering og makulering av tidligere pass og nasjonalt ID-kort",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Søkerens tidligere pass eller nasjonale ID-kort skal innleveres for makulering eller meldes tapt før nytt pass eller nasjonalt ID-kort utleveres. Hvis dokumentet er tapt eller fremstår som ødelagt ved innlevering, skal søkeren opplyse hvordan dette har skjedd.\nHvis det tidligere passet har innstemplet visum eller oppholdstillatelse med gjenstående gyldighetstid, makuleres kun øvrige deler av passet. Det er passinnehaverens ansvar å opplyse om slikt visum eller oppholdstillatelse, og undersøke gyldigheten av disse i et ellers makulert pass.\nGjenfunnet tapsmeldt pass eller nasjonalt ID-kort skal innleveres pass- eller ID-kortmyndighet for makulering.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 2-12",
+      "heading": "Opplysning om straffansvar for uriktig forklaring mv.",
+      "path": [
+        "Kapittel 2. Søknad om pass og nasjonalt ID-kort"
+      ],
+      "text": "Søkeren, og foreldre eller verge som søker om pass eller nasjonalt ID-kort på vegne av mindreårige og personer som er fratatt rettslig handleevne, skal gjøres kjent med straffansvaret etter straffeloven § 202 om identitetskrenkelse, § 221 om uriktig forklaring og § 361 om dokumentfalsk.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 2a-1",
+      "heading": "Rett til nasjonalt ID-kort uten reiserett",
+      "path": [
+        "Kapittel 2A. Utstedelse av nasjonalt ID-kort til utenlandske statsborgere"
+      ],
+      "text": "Utenlandske statsborgere har etter søknad rett til nasjonalt ID-kort uten reiserett dersom dehar norsk fødselsnummer,har oppholdstillatelse som ikke er utløpt eller oppholdsrett etter utlendingsloven, oggodtgjør sin identitet i samsvar med §§ 2-2 og 2A-2.\nNasjonalt ID-kort dokumenterer ikke lovlig opphold eller andre rettigheter.\nDe alminnelige reglene i ID-kortloven og forskriften om utstedelse av nasjonalt ID-kort gjelder med de særregler som følger av dette kapittelet.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 2a-2",
+      "heading": "Dokumentasjonskrav",
+      "path": [
+        "Kapittel 2A. Utstedelse av nasjonalt ID-kort til utenlandske statsborgere"
+      ],
+      "text": "Søkere som er EØS- eller EFTA-borgere skal legge frem elektronisk maskinlesbart nasjonalt ID-kort eller pass fra hjemlandet.\nSøkere som ikke er EØS- eller EFTA-borgere skal legge frem norsk oppholdskort som dokumenterer oppholdstillatelsen eller oppholdsretten. Søkere som har pass fra hjemlandet, norsk utlendingspass eller reisebevis for flyktninger skal også legge frem dette.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 2a-3",
+      "heading": "Begrensninger i gyldighetstiden",
+      "path": [
+        "Kapittel 2A. Utstedelse av nasjonalt ID-kort til utenlandske statsborgere"
+      ],
+      "text": "Nasjonalt ID-kort til utenlandske statsborgere med midlertidig oppholdstillatelse eller oppholdsrett etter utlendingsloven § 114 skal ikke gis gyldighet utover oppholdskortets utløpsdato. ID-kort til mindreårige skal heller ikke gis gyldighet utover gyldighetstiden som følger av forskriften § 6-1 andre ledd bokstav b og c.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 2a-4",
+      "heading": "Opplysninger på kortet",
+      "path": [
+        "Kapittel 2A. Utstedelse av nasjonalt ID-kort til utenlandske statsborgere"
+      ],
+      "text": "ID-kortets maskinlesbare felt skal påføres standardtekst som viser at kortet er utstedt til utenlandsk statsborger.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Ekstra pass",
+      "path": [
+        "Kapittel 3. Ekstra pass og midlertidig pass"
+      ],
+      "text": "Innehaveren av et ordinært pass kan få utstedt et ekstra pass når det dokumenteres at tjenstlige eller andre grunner gir behov for å reise til flere land ogdet mellom disse landene råder slike politiske forhold at pass benyttet i ett land ikke kan benyttes i et annet, elleren eller flere reiser vanskeliggjøres fordi passet i anledning annen reise må innleveres til utenlandsk myndighet for utstedelse av visum.\nEkstra pass kan utstedes som ordinært pass eller som midlertidig pass.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Midlertidig pass",
+      "path": [
+        "Kapittel 3. Ekstra pass og midlertidig pass"
+      ],
+      "text": "Midlertidig pass kan utstedes til personer som på grunn av en nært forestående reise ikke kan avvente utstedelse av et ordinært pass. De alminnelige vilkårene for pass skal være oppfylt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Ugyldiggjøring og innlevering",
+      "path": [
+        "Kapittel 3. Ekstra pass og midlertidig pass"
+      ],
+      "text": "Ved utstedelse av midlertidig pass til personer som innehar et gyldig ordinært pass registreres det ordinære passet som ugyldig i passregisteret. I særlige tilfeller kan det gjøres unntak etter retningslinjer fastsatt av Politidirektoratet.\nEtter at reisen er avsluttet plikter innehaveren å innlevere det midlertidige passet og eventuelt ordinært pass som er ugyldiggjort etter første ledd.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Nektelse og tilbakekall av pass og nasjonalt ID-kort med reiserett",
+      "path": [
+        "Kapittel 4. Nektelse og tilbakekall av pass og nasjonalt ID-kort"
+      ],
+      "text": "Ved avgjørelse om nektelse og tilbakekall av pass eller nasjonalt ID-kort etter passloven § 5 andre og tredje ledd jf. § 7 eller ID-kortloven § 5 andre og tredje ledd jf. § 8, bør det legges vekt påomfanget og alvorlighetsgrad av eventuelt misbruk av pass eller nasjonalt ID-kortomfanget av eventuelle tapte pass og nasjonale ID-kort, herunder antall og hyppighet, samt omstendigheter knyttet til tapet og om tapsmelding ble innlevert straks tapet ble oppdageteventuell unndragelsesfare, herunder lengde av dom, når soning skal finne sted arbeids- og familieforhold, og tilknytning til utlandet, oghvilken betydning pass eller nasjonalt ID-kort har for den enkelte, herunder behov for pass eller nasjonalt ID-kort for å kunne opprettholde kontakt med familie.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Nektelse av midlertidig pass",
+      "path": [
+        "Kapittel 4. Nektelse og tilbakekall av pass og nasjonalt ID-kort"
+      ],
+      "text": "Midlertidig pass for utreise kan nektes utstedt dersom søkeren tidligere har fått utstedt flere midlertidige pass, tidligere utstedt midlertidig pass er meldt tapt, eller tidligere midlertidig pass ikke er innlevert etter avsluttet reise.\nVed avgjørelsen skal det særlig legges vekt på antall tidligere midlertidige pass søkeren har fått utstedt, i hvilken grad søkeren kan lastes for tap og årsaken til at midlertidig pass ikke er innlevert etter avsluttet reise. Søkerens behov for midlertidig pass skal også vektlegges.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Vedtakets varighet",
+      "path": [
+        "Kapittel 4. Nektelse og tilbakekall av pass og nasjonalt ID-kort"
+      ],
+      "text": "Vedtak om nektelse eller tilbakekall av pass eller nasjonalt ID-kort med reiserett skal ikke ha lenger varighet enn nødvendig basert på vedtakets begrunnelse og formål. Vedtaket skal angi når en ny søknad kan forventes innvilget eller hvilke forutsetninger som må være til stede for at søknad kan innvilges.\nVedtak om nektelse eller tilbakekall av pass etter passloven § 5 tredje ledd bokstav f eller g, jf. § 7 og vedtak om nektelse eller tilbakekall av nasjonalt ID-kort med reiserett etter ID-kortloven § 5 tredje ledd bokstav d eller e, jf. § 8 kan ikke ha lenger varighet enn ett år. Vedtaket kan innen utløpet av ettårsperioden forlenges med inntil ett år av gangen hvis vilkårene fremdeles er oppfylt.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Tilbakekall av pass eller nasjonalt ID-kort med reiserett til mindreårige",
+      "path": [
+        "Kapittel 4. Nektelse og tilbakekall av pass og nasjonalt ID-kort"
+      ],
+      "text": "Pass eller nasjonalt ID-kort med reiserett til mindreårige kan tilbakekalles dersom den eller de som har foreldreansvaret trekker tilbake samtykket. Har foreldrene felles foreldreansvar, må begge trekke samtykket tilbake. Pass eller nasjonalt ID-kort med reiserett til mindreårige kan også tilbakekalles i tilfeller som nevnt i barnelova § 41.\nI tilfeller som omfattes av barnevernloven § 4-31 om forbud mot å ta med barnet ut av Norge, kan pass eller nasjonalt ID-kort med reiserett til mindreårige tilbakekalles dersom barneverntjenesten ber om det.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Behandlingsansvar",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Politidirektoratet er behandlingsansvarlig for passregisteret, med unntak av behandlinger som nevnt i annet ledd.\nUtenriksdepartementet er behandlingsansvarlig for behandling av opplysninger om diplomatpass, tjenestepass og spesialpass i passregisteret. Utlendingsdirektoratet er behandlingsansvarlig for behandling av opplysninger om utlendingspass og reisebevis for flyktninger i passregisteret.\nPolitidirektoratet er behandlingsansvarlig for ID-kortregisteret.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Opplysninger som skal registreres i passregisteret",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "I tillegg til de opplysninger som kan registreres i passregisteret etter passloven § 8, skal det registreres opplysninger ompass som er meldt tapt eller stjåletvedtak om passhindring etter passloven § 5vedtak om tilbakekall og beslag av pass etter passloven § 7årsaken til at det utstedes pass uten fingeravtrykk etter forskriften § 2-7 tredje leddkopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften § 2-1 fjerde leddsamtykke til utstedelse av pass etter passloven § 4 ogugyldiggjorte pass.\nDet kan i tillegg registreres opplysninger som er nødvendig for forvaltning av registeret og utstedelse av pass.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Opplysninger som skal registreres i ID-kortregisteret",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "I tillegg til de opplysninger som kan registreres i ID-kortregisteret etter ID-kortloven § 9, skal det registreres opplysninger omID-kort som er meldt tapt eller stjåletvedtak om hindringer etter ID-kortloven § 5vedtak om tilbakekall og beslag etter ID-kortloven § 8årsaken til at det utstedes ID-kort uten fingeravtrykk etter forskriften § 2-7 tredje leddkopi av oppnevning, dom eller lignende er fremlagt, jf. forskriften § 2-1 fjerde leddsamtykke til utstedelse av ID-kort etter ID-kortloven § 4 ogugyldiggjorte ID-kort.\nDet kan i tillegg registreres opplysninger som er nødvendig for forvaltning av registeret og utstedelse av ID-kort.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 5-3a",
+      "heading": "Utlevering av opplysninger fra passregisteret og ID-kortregisteret",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Opplysninger fra passregisteret og ID-kortregisteret kan utleveres til utlendingsmyndighetene til bruk i arbeid etter utlendingsloven med å avklare identiteten til en person som har plikt til å gi opplysninger om egen identitet.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 5-4",
+      "heading": "Innsyn",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Den registrerte har rett til innsyn etter personvernforordningen artikkel 15.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 5-5",
+      "heading": "Retting og begrensning av behandling",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Retting av uriktige eller mangelfulle opplysninger skal skje ved at de opprinnelige opplysningene markeres og suppleres med korrekte eller oppdaterte opplysninger. Opplysningene kan bare rettes ved å erstatte dem med nye opplysninger dersom den opprinnelige opplysningen åpenbart ikke kan ha betydning som dokumentasjon.\nDersom behandlingen begrenses, skal opplysningene behandles i samsvar med personvernforordningen artikkel 18. Slike opplysninger skal tilgangsbegrenses.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 5-6",
+      "heading": "Sletting",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Opplysningene i passregisteret og ID-kortregisteret som er nødvendige for utstedelse av pass eller nasjonalt ID-kort slettes ikke så lenge utstedelse kan være aktuelt.\nUriktige opplysninger kan bare slettes dersom opplysningene åpenbart ikke kan ha verdi som dokumentasjon. Dersom opplysningene kan ha slik betydning, skal behandlingen begrenses, jf. § 5-5 annet ledd.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 5-7",
+      "heading": "Felles saksbehandlingsregler om innsyn, retting, begrensning av behandling og sletting",
+      "path": [
+        "Kapittel 5. Behandling av opplysninger i pass- og ID-kortregistrene"
+      ],
+      "text": "Begjæring om innsyn fremmes skriftlig for den behandlingsansvarlige eller på søkersted for pass eller nasjonalt ID-kort. Begjæring om innsyn i personopplysninger som er innført i passet eller i nasjonalt ID-kort, herunder foto og fingeravtrykk, skal fremmes for pass- og ID-kortmyndigheten i et politidistrikt.\nBegjæring om retting, begrensning av behandlingen eller sletting fremmes skriftlig for den behandlingsansvarlige.\nAvgjørelse om innsyn, retting, begrensning av behandlingen og sletting treffes av den behandlingsansvarlige. Avgjørelsene kan ikke påklages til overordnet organ.\nDen behandlingsansvarlige skal informere den registrerte om rettighetene etter personvernforordningen artikkel 77 og 79.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Gyldighetstiden for ordinært pass og nasjonalt ID-kort",
+      "path": [
+        "Kapittel 6. Gyldighetstid"
+      ],
+      "text": "Fra utstedelsesdatoen er et pass gyldigi 10 år når den det utstedes til er fylt 16 åri 5 år når den det utstedes til er 10 til 16 åri 3 år når den det utstedes til er 5 til 10 åri 2 år når den det utstedes til er under 5 år.\nFra utstedelsesdatoen er et nasjonalt ID-kort gyldigi 5 år når den det utstedes til er fylt 10 åri 3 år når den det utstedes til er 5 til 10 åri 2 år når den det utstedes til er under 5 år.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Begrensninger i gyldighetstiden for pass og nasjonalt ID-kort med reiserett",
+      "path": [
+        "Kapittel 6. Gyldighetstid"
+      ],
+      "text": "Pass eller nasjonalt ID-kort med reiserett utstedt til mindreårige med bare den ene forelderens samtykke, jf. passloven § 4 første ledd tredje punktum og ID-kortloven § 4 første ledd annet punktum, skal bare gis gyldighet for den tid som er nødvendig for å gjennomføre reisen.\nPass og nasjonalt ID-kort med reiserett til person som kan miste sitt norske statsborgerskap etter statsborgerloven § 24 første ledd (tap ved fravær fra riket) skal bare gis gyldighet frem til det tidspunktet søkeren kan miste sitt statsborgerskap.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Gyldighetstiden for ekstra pass og midlertidig pass",
+      "path": [
+        "Kapittel 6. Gyldighetstid"
+      ],
+      "text": "Ekstra pass kan gis gyldighet for den tid behovet er dokumentert, likevel ikke utover to år.\nMidlertidig pass kan gis gyldighet for den tid som er nødvendig for å gjennomføre reisen, likevel ikke utover ett år.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Søknadsgebyr for pass",
+      "path": [
+        "Kapittel 7. Gebyr"
+      ],
+      "text": "For behandling av søknad om pass fremmet i Norge betales følgende gebyr:Ordinært pass til søkere over 16 år 840 kroner.Ordinært pass til søkere under 16 år 510 kroner.Midlertidig pass 1320 kroner.\nFor behandling av søknad om pass fremmet ved norsk utenriksstasjon betales følgende gebyr:Ordinært pass til søkere over 16 år 1 290 kroner.Ordinært pass til søkere under 16 år 770 kroner.Midlertidig pass 1 690 kroner.\nSøknadsgebyret refunderes ikke ved avslag på søknaden.\nDet påløper ikke gebyr ved utstedelse av nytt pass som erstatning for pass med produksjonsfeil.\nSøknadsgebyret kan unntaksvis frafalles i samsvar med retningslinjer gitt av Politidirektoratet.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Søknadsgebyr for nasjonalt ID-kort",
+      "path": [
+        "Kapittel 7. Gebyr"
+      ],
+      "text": "For behandling av søknad om nasjonalt ID-kort betales følgende gebyr:Nasjonalt ID-kort til søkere over ti år 840 kroner.Nasjonalt ID-kort til søkere under ti år 510 kroner.\nSøknadsgebyret refunderes ikke ved avslag på søknaden.\nDet påløper ikke gebyr ved utstedelse av nytt nasjonalt ID-kort som erstatning for nasjonalt ID-kort med produksjonsfeil.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Søknadsgebyr ved samtidig søknad om pass og nasjonalt ID-kort",
+      "path": [
+        "Kapittel 7. Gebyr"
+      ],
+      "text": "Når en person søker om ordinært pass og nasjonalt ID-kort samtidig, reduseres gebyrprisen med et beløp tilsvarende 20 prosent per dokument (samsøkingsrabatt), avrundet til nærmeste ti kroner.\nSamsøkingsrabatt gjelder ikke ved søknad om midlertidig pass og ekstra pass.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Tilleggsgebyr for ekspresslevering av pass og nasjonalt ID-kort",
+      "path": [
+        "Kapittel 7. Gebyr"
+      ],
+      "text": "Pass og nasjonalt ID-kort kan utstedes med ekspresslevering mot et tilleggsgebyr på 240 kroner. Politidirektoratet gir nærmere retningslinjer om bestilling og levering.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 8. Andre bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 19. oktober 2020, unntatt § 2-5. Fra samme tidspunkt som forskriften trer i kraft oppheves forskrift 9. desember 1999 nr. 1263 om pass (passforskriften). § 2-5 trer i kraft 1. november 2022.\nPolitidirektoratet bestemmer fra hvilket tidspunkt og fra hvilke søkersteder i Norge utenlandske statsborgere, herunder grupper av utenlandske statsborgere, kan fremme søknad om nasjonalt ID-kort.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    }
+  ]
+}

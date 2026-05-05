@@ -1,0 +1,45 @@
+{
+  "id": "LOV-1932-04-22-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om merkning av vekten på tunge kolli som fraktes med fartøi",
+  "short_title": "Lov om merkning på tunge kolli",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Arbeidsrett > Arbeidsmiljø Transport og kommunikasjoner > Skipsfart",
+  "date_in_force": "1933-01-01",
+  "lovdata_refid": "lov/1932-04-22-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1932-04-22-1",
+  "raw_xml_sha256": "1f98ffc05923d7ccfe5441c88857c0f1982fd50e8e45438f23348464ea1cedbc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Avskiberen av kolli eller ting som har en bruttovekt på 1.000 kg. eller mer, skal påse at kolliet eller tingen har bruttovekten i kilogram tydelig og holdbart merket utenpå, før godset blir lastet på fartøi. Skal godset lastes i utenlandsk havn, hviler merkingsplikten på den som her i riket sender godset til et sted i utlandet.\nKan den nøiaktige vekt på grunn av særlige forhold undtagelsesvis ikke bestemmes, skal den omtrentlige vekt være påført.\nNærmere forskrifter kan gis av vedkommende departement.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Kontrollen med at denne lov blir overholdt, skal føres av det tilsyn som er oprettet ved lov om arbeiderbeskyttelse i industrielle virksomheter.1 Herunder skal vedkommende bestemmelser i nevnte lov gjelde på tilsvarende måte.\nDersom politiet, skibskontrollen, havne- eller tollvesenet blir kjent med noen overtredelse av denne lov, skal disse myndigheter straks melde dette til nærmeste tilsyn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Avskiber eller avsender som overtrer bestemmelsene i § 1 eller de forskrifter departementet gir i medhold av nevnte paragraf, straffes med bøter.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne lov trer i kraft 1 januar 1933.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

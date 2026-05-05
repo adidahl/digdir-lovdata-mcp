@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2014-12-05-1546",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til slepebåt for flyttbare innretninger som er underveis i territorialfarvannet",
+  "short_title": "Forskrift om krav til slepebåt i territorialfarvannet",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2015-01-01",
+  "lovdata_refid": "forskrift/2014-12-05-1546",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-12-05-1546",
+  "raw_xml_sha256": "20907afbabd698fa0b65fedaea33ea8a89b4f585a29abea67ec49fd66613ecae",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(virkeområde)",
+      "path": [],
+      "text": "Forskriften gjelder for flyttbare innretninger i territorialfarvannet.\nMed flyttbare innretninger menes innretninger som definert i forskrift 26. juni 2007 nr. 706 om skipssikkerhetslovens virkeområde for flyttbare innretninger § 1 første ledd.\nForskriften gjelder ikke for flyttbare innretninger med DP utstyrsklasse 3 sertifisert av klasseinstitusjon i henhold til IMO MSC /Circ. 645 «Guidelines for dynamic positioning» av 6. juni 1994 eller tilsvarende standard.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(krav om slepebåt m.m.)",
+      "path": [],
+      "text": "Flyttbare innretninger som er underveis skal ha minst en slepebåt tilkoblet.\nFlyttbare innretninger uten egen fremdriftskraft skal i tillegg være fulgt av minst en slepebåt.\nFlyttbare innretninger skal benytte så mange slepebåter at slepekraften, sammen med innretningens egen framdriftskraft, er tilstrekkelig til å kunne manøvrere og holde den flyttbare innretningen i ro under de maksimale sjø-, vind- og værforhold som kan være i området i det aktuelle tidsrommet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "(dispensasjon)",
+      "path": [],
+      "text": "Kystverkets hovedkontor kan i særlige tilfeller, etter skriftlig søknad fra rederiet, gjøre unntak fra forskriftens krav dersom ett av følgende krav er oppfylt:det godtgjøres at kravet ikke er vesentlig og at unntaket anses sikkerhetsmessig forsvarligdet godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "(ikrafttredelse)",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2015.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

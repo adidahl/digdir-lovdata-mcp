@@ -1,0 +1,44 @@
+{
+  "id": "FOR-2020-12-04-2594",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om imøtegåelse av uberettiget geoblokkering og andre former for forskjellsbehandling på grunnlag av kundenes nasjonalitet, bopel eller hjemsted i det indre marked",
+  "short_title": "Forskrift om imøtegåelse av uberettiget geoblokkering mv. på grunnlag av kundenes nasjonalitet, bopel eller hjemsted i det indre marked",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2021-01-01",
+  "lovdata_refid": "forskrift/2020-12-04-2594",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-12-04-2594",
+  "raw_xml_sha256": "05d3bb4131ad8a507d1fde8fcb6f8c876d7ddbd0ce9474070d48192d6bbcf753",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg X forordning (EU) 2018/302 (om geoblokkering og andre former for diskriminering på bakgrunn av nasjonalitet, bosted eller etableringssted (geoblokkeringsforordningen)) gjelder som forskrift med de tilpasninger som følger av vedlegg X, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Næringsdrivende som har omsetning opptil 50 000 kroner i en periode på tolv måneder er unntatt forordning (EU) 2018/302 artikkel 4(1)(b) slik den er gjennomført i forskriften § 1.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forbrukertilsynet skal gi praktisk assistanse til forbrukere ved tvist mellom en forbruker og en næringsdrivende om anvendelsen av bestemmelser gjennomført i forskriften § 1.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2021.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

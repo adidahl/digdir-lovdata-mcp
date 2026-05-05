@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1996-12-06-1128",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om område med forbud mot oppankring og fiske på Balderfeltet.",
+  "short_title": "Forskrift om fiskeforbud mv på Balderfeltet",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1996-12-06",
+  "lovdata_refid": "forskrift/1996-12-06-1128",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1996-12-06-1128",
+  "raw_xml_sha256": "6524aaea6a983857b05d3269a0b56d85da2c77cbcdb644edfbab525ceb5e5ed9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Denne forskriften får anvendelse rundt/over 4 grupper av undervannsinnretninger på Balderfeltet.\nOmrådenes utstrekning fremkommer som en sirkel med radius 500 meter og senter i følgende koordinater:UTMGeografiskeOmråde A, vest av produksjonsinnretningE 463 425N 6 561 700,002° 21' 35,4703'' E59° 11' 29,2985'' NOmråde B, sør-vest av produksjonsinnretningE 464 513N 6 560 20202° 22' 44,8970'' E59° 10' 41,2065'' NOmråde C, sør-øst av produksjonsinnretningE 466 274N 6 560 77402° 24' 35,4857'' E59° 11' 00,2131'' NOmråde D, nord-øst av produksjonsinnretningE 466 274N 6 562 62602° 24' 34,4531'' E59° 12' 00,0820'' N",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innenfor område som angitt i § 1 forbys all ugrunnet oppankring, samt fiske med bunnredskaper som bunntrål og snurrevad.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 66, jf. forskrift av 9. oktober 1987 nr. 810 om sikkerhetssoner § 15.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

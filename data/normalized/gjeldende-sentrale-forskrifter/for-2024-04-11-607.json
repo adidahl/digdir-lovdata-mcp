@@ -1,0 +1,47 @@
+{
+  "id": "FOR-2024-04-11-607",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om arbeidsmiljølovens anvendelse for dykkeoperasjoner fra skip mv.",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2024-07-01",
+  "lovdata_refid": "forskrift/2024-04-11-607",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-04-11-607",
+  "raw_xml_sha256": "b41d8a54aba40f895519e5060e9f248271d9fdc80e84b8c1490e9750fc46e4d7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Rettigheter og plikter etter skipsarbeidsloven",
+      "path": [],
+      "text": "For arbeidstaker som har sitt arbeid om bord på norsk skip, og som omfattes av arbeidsmiljøloven § 1-2 andre ledd bokstav a om arbeidsmiljølovens anvendelse for dykkeoperasjoner, gjelder bestemmelsene i skipsarbeidsloven § 2-4 første, andre og fjerde ledd, § 2-5, § 3-9, § 4-4, § 4-5, § 4-6, § 4-7, § 4-8, § 8-1, § 8-2, § 8-3, § 8-4, § 8-5, § 9-2, § 9-4, § 9-5 og § 9-7 tilsvarende, så langt de passer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forholdet mellom arbeidsmiljøloven og skipssikkerhetsloven ved dykkeoperasjoner fra skip",
+      "path": [],
+      "text": "Ved dykkeoperasjoner fra skip som omfattes av skipssikkerhetsloven gjelder både skipssikkerhetsloven og arbeidsmiljøloven. Ved eventuell motstrid har skipssikkerhetsloven og dens forskrifter forrang, med unntak av arbeidsmiljøloven kapittel 10 med tilhørende forskrifter og forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid kapittel 26. Se likevel andre, tredje og fjerde ledd.\nFor arbeidstaker med ledende eller særlig uavhengig stilling, jf. arbeidsmiljøloven § 10-12 første og andre ledd, gjelder likevel skipssikkerhetsloven § 24.\nDet kan ikke avtales unntak fra arbeidsmiljølovens bestemmelser i kapittel 10 i strid med skipssikkerhetsloven § 24 fjerde ledd.\nArbeidsmiljøloven § 10-12 tredje ledd utfylles av skipssikkerhetsloven § 24 andre ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak for Norsk Selskab til Skibbrudnes Redning",
+      "path": [],
+      "text": "Arbeidsmiljøloven § 1-2 andre ledd bokstav a om arbeidsmiljølovens anvendelse for dykkeoperasjoner gjelder ikke for Norsk Selskab til Skibbrudnes Redning (Redningsselskapet).",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2024.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

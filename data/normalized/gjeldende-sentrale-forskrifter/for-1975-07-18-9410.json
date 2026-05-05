@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1975-07-18-9410",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om begrensning av fradrag for alderspensjon fra folketrygden i pensjon fra personskadetrygd, når økt opptjening i folketrygden ellers fører til lavere samlet pensjon",
+  "short_title": "Forskrift om fradrag for alderspensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1975-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1975-07-18-9410",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1975-07-18-9410",
+  "raw_xml_sha256": "d4f0be579f1ad5aec7fc9f752c240690912aac4ab7aa8b8dc562a5bc509a3c4c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Ved samordning av personskadetrygd med folketrygd i forbindelse med at økt opptjening i folketrygden blir medregnet i pensjonen, skal samordningsfradraget for pensjon fra folketrygden begrenses, slik at den trygdede ikke får lavere samlet pensjon enn før omregningen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Bestemmelsen gis virkning fra 1. januar 1975 og gjelder inntil videre.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

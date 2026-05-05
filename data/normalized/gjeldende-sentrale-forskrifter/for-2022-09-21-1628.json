@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2022-09-21-1628",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fartøy som blir brukte av lag eller foreiningar",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2022-10-01",
+  "lovdata_refid": "forskrift/2022-09-21-1628",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-09-21-1628",
+  "raw_xml_sha256": "d1a63abba37ad8908c98a688c04cc480f91cb956d4598acd3d387f8c51984509",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Verkeområde",
+      "path": [],
+      "text": "Forskrifta gjeld for norske fartøy utan sertifikat for å føre passasjerar, med største lengd under 24 meter og som blir brukte av medlemmar i lag eller foreiningar til fritidsaktivitetar med 35 eller færre personar om bord. Lag eller foreining betyr lag eller foreining registrert i Brønnøysundregistrene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav til konstruksjon, utstyr og kvalifikasjonar",
+      "path": [],
+      "text": "Fartøy som blir brukte av medlemmar i lag eller foreiningar til fritidsaktivitetar med 35 eller færre personar om bord, og førar av slike fartøy, skal følge konstruksjons-, utstyrs- og kvalifikasjonskrav som gjeld for fritidsfartøy.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Iverksetjing",
+      "path": [],
+      "text": "Forskrifta trer i kraft 1. oktober 2022.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

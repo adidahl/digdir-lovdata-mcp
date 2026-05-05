@@ -1,0 +1,237 @@
+{
+  "id": "FOR-2025-09-08-1791",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om strømstønad",
+  "department": "Energidepartementet",
+  "date_in_force": "2025-09-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-18-2721 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2025-09-08-1791",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-09-08-1791",
+  "raw_xml_sha256": "44165d34f41eba5b9384f7c8436ebbf4895ffa278f734f08d4f998187b56f312",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å sikre økonomisk stønad til husholdningers strømforbruk.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder strømforbruk fra og med 15. september 2025 til og med 31. desember 2029, med mindre annet følger særskilt av forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift menes med:annet forbruk: alt annet strømforbruk enn husholdningsforbruk, herunder næringsforbruk og fritidsboligforbrukboligselskap: eierseksjonssameier, borettslag, boligaksjeselskaper og ikke-seksjonerte boligsameierfellesarealer: arealer eid av boligselskapet som husholdningene benytter i det daglige, f.eks. vaskekjeller, trappeoppgang, boder og garasjergårds- og grendeverk: et fordelingsnett med spenning under 1 000 volt vekselstrøm eller 1 500 volt likestrøm som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 Vhusholdningsforbruk: husholdningers strømforbruk i boliger. Med husholdningsforbruk menes også strømforbruk i fellesarealer og boenheter i boligselskap. Husholdningsforbruk knyttet til gårds- og grendeverk er også omfattethusholdningskunde: nettkunde på målepunkt som er rettmessig registrert som husholdningskunde hos nettselskapetnettkunde: kunde med målepunkt registrert i Elhub, tilknyttet nettselskapstønadsgrad: andelen av elspotpris over fastsatt terskelverdi som det gis støtte forterskelverdi: nivået på elspotpris i budområdet i øre per kWh eksklusiv merverdiavgift hvor stønaden slår inn. Det gis kun støtte for delen av elspotpris over terskelverdien.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Rett til stønad",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Følgende har rett på strømstønad:husholdningskunder, jf. lov om Norgespris og strømstønad til husholdninger § 5 første leddboligselskap med felles husholdningsforbruk, jf. denne forskrift § 7gårds- og grendeverk med husholdningsforbruk, jf. denne forskrift § 12husholdningskunder som bor fast i fritidsbolig, jf. denne forskrift § 11.\nVed uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen, kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten for energi avgjør saken ved enkeltvedtak. Vedtaket kan påklages til Energiklagenemnda.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Beregning av strømstønad",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Stønad skal beregnes etter lov om Norgespris og strømstønad til husholdninger § 6 første til fjerde ledd.\nFor forbruk fra og med 15. september 2025 til og med 31. desember 2025 er terskelverdien 75 øre per kWh eksklusiv merverdiavgift, og stønadsgrad 90 prosent. For forbruk fra og med 1. januar 2026 til og med 31. desember 2026 er terskelverdien 77 øre per kWh eksklusiv merverdiavgift, og stønadsgrad 90 prosent. Det skal beregnes strømstønad for de første 5 000 kWh per måned per målepunkt.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Beregning av stønad for nettkunder uten timesmåling",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "For nettkunder uten timesmåling skal nettselskapene ved beregning av stønad etter lov om Norgespris og strømstønad til husholdninger § 6 bruke forbruksprofil fastsatt av Elhub.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Husholdninger i boligselskap",
+      "path": [
+        "Kapittel 2. Husholdninger i boligselskap"
+      ],
+      "text": "Boligselskap hvor strømforbruk for husholdninger måles og avregnes per felles inntaksledning, har rett på strømstønad. Det samme gjelder boligselskap med målepunkt som forsyner boligselskapets fellesarealer, samt felles oppvarmings- og ventilasjonssystemer.\nBoligselskapet skal sørge for at stønaden fordeles på husholdningene.\nForbruk over 5 000 kWh per måned per boenhet i boligselskapet er ikke stønadsberettiget.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Innrapportering av annet forbruk enn husholdningsforbruk",
+      "path": [
+        "Kapittel 2. Husholdninger i boligselskap"
+      ],
+      "text": "Boligselskap med felles oppvarmings- eller ventilasjonssystem, skal rapportere til nettselskapet hvis mer enn 20 prosent av oppvarmet areal benyttes av andre enn boligselskapets husholdninger. Rapporteringen skal angi hvor stor andel av oppvarmet areal som benyttes av andre enn boligselskapets husholdninger. Rapportering til nettselskapet skal skje uten ugrunnet opphold.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Innrapportering av overskridelse av forbrukstak",
+      "path": [
+        "Kapittel 2. Husholdninger i boligselskap"
+      ],
+      "text": "Dersom fellesmålt husholdningsforbruk i et boligselskap samlet overstiger 5 000 kWh per boenhet i boligselskapet per måned, skal boligselskapet innrapportere antall boenheter i boligselskapet til nettselskapet uten ugrunnet opphold.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Korrigering av stønadsbeløp",
+      "path": [
+        "Kapittel 2. Husholdninger i boligselskap"
+      ],
+      "text": "Nettselskap som får informasjon etter § 8 skal gjøre en forholdsmessig justering av stønadsbeløpet.\nNettselskap som får informasjon etter § 9 skal justere stønadsbeløpet slik at det ikke gis stønad for forbruk over 5 000 kWh per boenhet i boligselskapet per måned.\nKorrigering av stønad skal gjøres på første mulige faktura.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 11",
+      "heading": "Husholdning med fritidsbolig som fast bolig",
+      "path": [
+        "Kapittel 3. Husholdninger med fritidsbolig som fast bosted"
+      ],
+      "text": "Nettkunde som bor fast i fritidsbolig, og som har egen strømmåler registrert hos et nettselskap, har rett til stønad dersom:nettkunden har fremlagt for nettselskapet gyldig vedtak fra kommunen om varig eller midlertidig bruksendringstillatelse til boligformål, ellerdet fremgår av Folkeregisteret at nettkunden er og har vært bostedsregistrert på nåværende adresse senest 9. juni 2025.\nStønad beregnes etter lov om Norgespris og strømstønad til husholdninger § 6 første til fjerde ledd. Nettkunde som nevnt i bokstav a og som fortsatt har et kundeforhold, har rett til stønad fra og med tidspunktet for vedtaket fra kommunen. Nettkunde som nevnt i bokstav b og som fortsatt har et kundeforhold, har rett til stønad for strømforbruk fra og med 15. september 2025.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Husholdning tilknyttet gårds- og grendeverk",
+      "path": [
+        "Kapittel 4. Husholdning tilknyttet gårds- og grendeverk"
+      ],
+      "text": "Husholdninger som er tilknyttet gårds- og grendeverk har rett til strømstønad. Dette gjelder ikke husholdninger som får strømstønad for husholdningsforbruk dekket gjennom andre stønadsordninger.\nFor å ha rett til stønad etter første ledd, må nettkunde i tilknytningspunktet rapportere opplysninger om gårds- og grendeverk og tilknyttede husholdninger til nettselskapet, jf. § 13.\nStønad beregnes etter lov om Norgespris og strømstønad til husholdninger § 6 første til fjerde ledd. Målt og avregnet uttak i tilknytningspunktet mellom gårds- og grendeverket og nettselskapet er stønadsberettiget. Det gis ikke stønad for forbruk som samlet overstiger 5 000 kWh per måned per husholdning tilknyttet gårds- og grendeverket, jf. § 13 første ledd bokstav a.\nStønaden skal utbetales av nettselskapet til nettkunde i tilknytningspunktet. Nettkunde i tilknytningspunktet skal sørge for at stønaden i sin helhet fordeles på de stønadsberettigede husholdningene tilknyttet gårds- og grendeverket basert på husholdningenes forbruk.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Opplysninger om gårds- og grendeverk og tilknyttede husholdninger",
+      "path": [
+        "Kapittel 4. Husholdning tilknyttet gårds- og grendeverk"
+      ],
+      "text": "Nettkunde i tilknytningspunktet skal opplyse nettselskapet om følgende informasjon:antall husholdninger bak målepunktet til gårds- og grendeverket som ikke får strømstønad for husholdningsforbruk gjennom andre stønadsordningeradresse til hver husholdningsamlet hovedsikringskapasitet i gårds- og grendeverket.\nNettkunde i tilknytningspunktet plikter å opplyse nettselskapet om endringer uten ugrunnet opphold.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Reguleringsmyndigheten for energi kan gi de pålegg som er nødvendige for gjennomføringen av bestemmelsene i denne forskriften.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Korrigering og tilbakebetaling av uriktig utbetalt stønad",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Nettselskapet skal korrigere uriktig utbetalt stønad på første mulige faktura. Nettselskapet kan kreve tilbakebetaling av uriktig utbetalt stønad fra nettkunde inntil seks måneder fra utbetalingen ble foretatt, uten vedtak fra Reguleringsmyndigheten for energi.\nReguleringsmyndigheten for energi kan treffe vedtak om stans i videre utbetaling eller tilbakebetaling av urettmessig stønad. Dette gjelder også utbetaling av uriktig stønad.\nReguleringsmyndigheten for energi kan treffe vedtak om stans i videre utbetaling eller tilbakebetaling av stønad, dersom pålegg etter § 14 ikke etterfølges.\nReguleringsmyndigheten for energi kan treffe vedtak om stans i videre utbetaling og tilbakebetaling av uriktig utbetalt stønad, dersom stønaden har tilfalt andre enn rettmessige mottakere etter § 12.\nVedtak etter denne bestemmelsen kan påklages til Energiklagenemnda.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Fakturering og fakturainformasjon",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Stønaden skal komme til fradrag i fakturert nettleie fra nettselskapet. Dersom nettleien faktureres separat og stønaden overstiger nettleien, skal det overskytende beløpet utbetales til kunden senest ved fakturaforfall.\nVed gjennomfakturering skal kraftleverandør sørge for at utbetaling til sluttkunden skjer gjennom fradrag på faktura. Dersom stønadsbeløpet overstiger nettleien, skal nettselskapet overføre overskytende beløp til kraftleverandøren.\nDersom nettkunden mottar strømstønad, skal dette tydelig fremkomme av kundens faktura.\nInformasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra nettselskapet eller kraftleverandøren som utfører gjennomfakturering. Det skal gis informasjon til nettkunden om at stønadssatser time for time offentliggjøres av Reguleringsmyndigheten for energi.\nFor nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første, tredje og fjerde ledd tilsvarende.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "Korrigering",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Dersom en nettkunde har stønad til gode og nettselskapet ikke har klart å betale ut pengene på konto, kan nettselskapet korrigere stønadsbeløp til gode mot fremtidig nettleie.\nDet kan ikke korrigeres mot tidligere ubetalte krav på nettleie.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 18",
+      "heading": "Rapportering for kontroll",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Nettselskapene skal hver måned oversende Reguleringsmyndigheten for energi dokumentasjon av stønadsbeløpene som er utbetalt til nettkundene.\nReguleringsmyndigheten for energi kan fastsette format på dokumentasjon.\nDokumentasjonen skal inneholde følgende informasjon:målepunkt-idstartdato og sluttdato for den aktuelle utbetalingensluttbrukergruppenæringskodetotalt forbruk i kWhkompensert forbruk i kWhmottatt stønad i kronerindikator for om målepunktet er en husholdning, et boligselskap, eller et gårds- og grendeverk (priskode).\nReguleringsmyndigheten for energi kan be om ytterligere relevant informasjon.\nOversendelse av informasjon må skje samtidig med fakturering. Ved utelatt informasjon kan Reguleringsmyndigheten for energi holde tilbake utbetaling av stønadsbeløp til nettselskapet.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 19",
+      "heading": "Opplysninger for forkontroll av fakturert beløp",
+      "path": [
+        "Kapittel 5. Forvaltning og kontroll"
+      ],
+      "text": "Avregningsansvarlig skal hver måned sende Reguleringsmyndigheten for energi informasjon om antall målepunkter som er omfattet av ordningen og anslått utbetalt strømstønad per nettselskap. f",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Behandling av personopplysninger",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Reguleringsmyndigheten for energi har rett til å behandle personopplysninger knyttet til forbruk, faktura og kundeinformasjon for å utføre sine oppgaver etter lov om Norgespris og strømstønad til husholdninger og denne forskriften.\nNettselskapene, kraftleverandører, avregningsansvarlig, Energiklagenemnda og andre med samtykke fra kunden, har rett til å behandle personopplysninger knyttet til nettkundens forbruk, faktura og annen kundeinformasjon for å utføre sine oppgaver etter lov om Norgespris og strømstønad til husholdninger og denne forskriften.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Reguleringsmyndigheten for energi kan i særskilte tilfeller gi dispensasjon fra bestemmelser i denne forskriften.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Ikraftsetting og varighet",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 15. september 2025 og oppheves 31. desember 2029. Fra samme tidspunkt oppheves midlertidig forskrift 21. januar 2022 nr. 103 om strømstønad.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    }
+  ]
+}

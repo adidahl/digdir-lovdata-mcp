@@ -1,0 +1,34 @@
+{
+  "id": "FOR-1997-12-22-1432",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fastsettelse og innkreving av avgifter til folketrygden for personer som har lønn som er skattepliktig etter lov om skattlegging av personer på Jan Mayen.",
+  "short_title": "Forskrift om folketrygdavgift, Jan Mayen",
+  "department": "Finansdepartementet",
+  "date_in_force": "1998-01-01",
+  "lovdata_refid": "forskrift/1997-12-22-1432",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-12-22-1432",
+  "raw_xml_sha256": "ddf89ded1e1c1126a10dd430b7978b246a43497273cefc5da7086f38b168f369",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Betaling og innkreving av trygdeavgift etter folketrygdloven § 23-3 skjer etter de samme reglene som gjelder for skatt etter lov av 29. november 1996 nr. 69 om skattlegging av personer på Jan Mayen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Arbeidsgiveravgift etter folketrygdloven § 23-2 skal svares av lønn m.v. til person som er pliktig medlem i folketrygden i medhold av folketrygdloven § 2-3.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

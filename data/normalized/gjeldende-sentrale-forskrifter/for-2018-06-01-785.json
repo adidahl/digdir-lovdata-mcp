@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2018-06-01-785",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om York–Antwerpen-reglene 2016 som fravikelige regler for felleshavarioppgjør",
+  "short_title": "Forskrift om York–Antwerpen-reglene 2016 som fravikelige regler for felleshavarioppgjør",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2019-01-01",
+  "lovdata_refid": "forskrift/2018-06-01-785",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-06-01-785",
+  "raw_xml_sha256": "f318f04dc2f1f5c99db7bd9554a7949764510e2d74dd038c467a3adb2f404ed1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "York–Antwerpen-reglene 2016",
+      "path": [],
+      "text": "York–Antwerpen-reglene 2016 gjelder for hvilke skader, tap og kostnader som skal henføres til felleshavari, og for havarifordelingen, når ikke annet er avtalt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse. Overgangsregler",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2019.\nNår ikke annet er avtalt, gjelder York–Antwerpen-reglene 1994 for skader, tap og kostnader som har oppstått før 1. januar 2019.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

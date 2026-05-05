@@ -1,0 +1,348 @@
+{
+  "id": "FOR-2017-06-19-941",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til teknisk standard for landbaserte akvakulturanlegg for fisk",
+  "short_title": "Forskrift om teknisk standard for landbaserte akvakulturanlegg for fisk",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2021-12-21",
+  "last_changed_by": "forskrift/2021-12-21-3869",
+  "lovdata_refid": "forskrift/2017-06-19-941",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-06-19-941",
+  "raw_xml_sha256": "a6e7bb2726f40d5be4ad7eed74bcc94b60a5ea835da398d98f3ef4f875a0e3ad",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften skal bidra til å forebygge rømming av fisk fra landbaserte akvakulturanlegg gjennom å sikre forsvarlig teknisk standard på anleggene.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forskriftens virkeområde",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gjelder alle landbaserte akvakulturanlegg for fisk på norsk landterritorium, uavhengig av formålet med akvakulturproduksjonen.\nForskriften gjelder for enhver som har eller plikter å ha akvakulturtillatelse for landbaserte akvakulturanlegg for fisk etter lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven), uavhengig av formålet med akvakulturproduksjonen.\nForskriftens kapitler 2, 3, 4, 5 og 6 gjelder også for vare- og tjenesteleverandøren til næringen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Henvisninger fra forskriften til krav fastsatt i NS 9416:2013 og NS 3424:2012",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Når det i denne forskriften henvises til NS 9416:2013 menes Norsk Standard 9416:2013; Landbaserte akvakulturanlegg for fisk – Krav til risikoanalyse, prosjektering, utførelse, drift, brukerhåndbok og produktdatablad.\nNår det i denne forskriften henvises til NS 3424:2012 menes Norsk Standard NS 3424:2012; Tilstandsanalyse av byggverk – Innhold og gjennomføring.\nKravene i standardene kan også oppfylles ved å følge europeisk standard, nasjonal standard i EØS-området eller internasjonal standard med tilsvarende sikkerhetsnivå som NS 9416:2013 og NS 3424:2012.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forskrift menes med;Avdeling: del av landbasert akvakulturanlegg, bygget for å produsere fisk, som på bakgrunn av for eksempel funksjon, vannstrøm, alder eller tilstand skal forståes som en egen enhet i tilstandsanalyser etter denne forskrift.Brukerhåndbok: dokument som beskriver korrekt identifikasjon av deler, transport, lagring, håndtering, montering, grensesnitt, drift av og begrensninger til komponenter i akvakulturanlegget, i tillegg til bruk og vedlikehold.Dimensjonerende brukstid: den forutsatte tidsperioden en konstruksjon eller deler av denne, med et tiltenkt formål og med antatt vedlikehold, skal kunne brukes uten at det skal være nødvendig med omfattende reparasjon.Fellesfunksjon: en del av et landbasert akvakulturanlegg som skal forstås som en egen enhet i tilstandsanalyser etter denne forskrift, som enten er felles for flere avdelinger eller ikke naturlig inngår i en avdeling, som for eksempel leveringssystem, vaksinasjonsbygg, kaianlegg eller felles hovedavløpssperre.Komponent: del som er relevant for rømming av fisk, for eksempel kar, sil, rør, slange, dødfisksystem, hovedavløpssperre, alarmsystem, oversvømmingssperre og leverings- og fortøyningssystem.Kar: Separat beholder som benyttes til produksjon av fisk.Landbasert akvakulturanlegg: produksjonsanlegg for akvakultur med fisk som er plassert på land.Leverandør av komponent: enhver som selger, leier ut eller på annen måte leverer komponenter, enten enkeltvis eller som en helhet, til akvakulturnæringen.Leveringssystem: slanger og rørsystemer fra et sikret område på det landbaserte akvakulturanlegget for fisk frem til mottak i brønnbåt, bil eller liknende.Produktsertifikat: sertifikat som angir at produktet er i samsvar med nasjonal eller internasjonal standard eller annen teknisk spesifikasjon, og at produksjonen er underlagt løpende kvalitetskontroll.Prosjekterende foretak: bygningskyndig foretak som utformer, dimensjonerer og planlegger (prosjekterer) landbaserte akvakulturanlegg for fisk etter denne forskrift.Prosjektering: utforming, dimensjonering og planlegging av utførelse.Referansenivå: en beskrivelse av ønsket tilstand for et byggverk, en bygningsdel eller et objekt. Dersom en tilstand er dårligere enn referansenivået, regnes det som et avvik.Rømmingsteknisk rapport: en sammenstilling av dokumenter som angir et landbasert akvakulturanlegg for fisk sin rømmingstekniske tilstand.Tilstandsgrad (TG): uttrykk for tilstanden et komponent har i forhold til referansenivået.Utførende foretak: bygningskyndig foretak som forestår oppføring, tilbygg og/eller påbygg av landbaserte akvakulturanlegg for fisk.Vedlikeholdsplan: et strukturert og dokumentert sett med oppgaver som omfatter aktivitetene, prosedyrene, ressursene og tidsforbruket som kreves for å utføre vedlikehold.Vedlikehold: kombinasjon av alle tekniske, administrative og styringsrelaterte tiltak gjennom livssyklusen til en enhet, som har til hensikt å bevare den i eller tilbakeføre den til en tilstand der den kan oppfylle nødvendige funksjonskrav.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Krav til kvalifikasjoner, utdanning og kompetanse for prosjekterende foretak",
+      "path": [
+        "Kapittel 2. Krav til prosjektering, utførelse, kontroll og dokumentasjon"
+      ],
+      "text": "Den som prosjekterer akvakulturanlegget må kunne dokumentere at foretaket har samlede kvalifikasjoner som er tilpasset ansvarsområdet etter dette kapittelet, herunder at det benyttes personell med nødvendige og relevante faglige kvalifikasjoner for å sørge for at krav i eller i medhold av akvakulturloven og NS 9416:2013 blir ivaretatt.\nDen som prosjekterer må kunne dokumentere at det har personell med relevant praksis fra prosjektering innen samme eller tilsvarende fagområde, og det skal legges vekt på om foretakets kvalifikasjoner med hensyn til utdanning og praksis fremstår som relevante.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Krav til prosjektering, utførelse og kontroll",
+      "path": [
+        "Kapittel 2. Krav til prosjektering, utførelse, kontroll og dokumentasjon"
+      ],
+      "text": "Et landbasert akvakulturanlegg for fisk skal prosjekteres og utføres i samsvar med krav i NS 9416:2013, slik at akvakulturvirksomheten kan foregå uten at oppdrettsfisk rømmer som følge av teknisk svikt.\nProsjekteringen skal inkludere alle deler av anlegget som kan ha relevans for rømming. Det skal tas hensyn til helheten, inkludert påvirkningen komponentene kan ha på hverandre. Det skal påvises at komponentene og anlegget tåler de lastene det utsettes for i den dimensjonerende brukstiden. Dersom flere prosjekterende utfører prosjektering på samme anlegg skal ett foretak stå ansvarlig for at de ulike delene er prosjektert i samsvar med bestemmelsene i denne forskrift.\nUtførelsen skal sikre at det landbaserte akvakulturanlegget og dets komponenter er plassert og montert i henhold til prosjekteringen og i henhold til teknisk spesifikasjon.\nDet prosjekterende foretaket har ansvar for å utarbeide dokumentasjon på at den faktiske utførelsen er i samsvar med prosjekteringen. Ved meldt avvik etter denne bestemmelsen har det prosjekterende foretaket ansvar for at endringen prosjekteres og dokumenteres i samsvar med kravene i NS 9416:2013.\nDersom det ikke foreligger tilstrekkelig prosjekteringsgrunnlag for utførelsen er det utførende foretaket ansvarlig for å melde dette til det prosjekterende foretaket og innehaver av akvakulturtillatelse. Dersom utførelsen avviker fra prosjekteringen skal det utførende foretaket melde tilbake til det prosjekterende foretaket.\nVed manglende eller mangelfull dokumentasjon på at landbasert akvakulturanlegg er prosjektert og utført i samsvar med krav i NS 9416:2013 kan Fiskeridirektoratet pålegge uavhengig kontroll av hele eller deler av prosjekteringen og utførelsen i samsvar med pålitelighetsklasse 3 i NS-EN 1990.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Krav til dokumentasjon",
+      "path": [
+        "Kapittel 2. Krav til prosjektering, utførelse, kontroll og dokumentasjon"
+      ],
+      "text": "Dokumentasjon av det prosjekterende foretaks systemer og kompetanse i henhold til denne forskrifts § 5 og § 6 må foreligge.\nDet prosjekterende og det utførende foretaket skal dokumentere at anlegget, avdeling eller fellesfunksjoner er bygget i henhold til NS 9416:2013 og tilfredsstiller kravene i kapittel 5 og 6 i denne forskriften før det tas i bruk til akvakultur, herunder at;det er gjennomført risikovurdering i samsvar med standarden,fundamenteringen er i henhold til standarden,det foreligger produktsertifikat for kar, rør og slanger,akvakulturanlegget og dets komponenter er plassert og montert som prosjektert, og i henhold til teknisk spesifikasjon. Eventuelle avvik i plassering og montering skal beskrives,alle komponentene er dimensjonert og i henhold til delelistene for anlegget. Komponentene skal være merket og sporbare til produsent,komponentene er uskadd etter montering,brukerhåndbok foreligger og er tilgjengelig for videre daglig drift.\nDokumentasjonen skal gjøres tilgjengelig for innehaver av akvakulturtillatelsen.\nDet prosjekterende og det utførende foretaket skal dokumentere overfor innehaveren av akvakulturtillatelsen at opplysningene i første og andre ledd er oppfylt, at kontroll er foretatt i samsvar med NS 9416:2013 og at det ikke foreligger avvik eller andre forhold som hindrer at akvakulturanlegget kan tas i bruk.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Plikter",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "Produsent, dennes representant og eventuell leverandør av komponenter skal sørge for at komponentene er produsert, merket og distribuert i samsvar med bestemmelsene i denne forskrift.\nProdusentens representant er den som innenfor EØS representerer en produsent som er etablert utenfor EØS.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Krav til komponenter",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "I nye landbaserte akvakulturanlegg skal komponenter være prosjektert, produsert og montert i samsvar med krav i NS 9416:2013. For komponenter som ikke er omtalt i NS 9416:2013, gjelder tilsvarende.\nKomponenter som tas i bruk på landbasert akvakulturanlegg som allerede er i drift, skal også etter denne forskriftens ikrafttredelse oppfylle kravene i NS 9416:2013. For kar og slanger gjelder i tillegg krav om produktsertifisering jf. § 16. Rør skal ha produktsertifikat utstedt av et uavhengig sertifiseringsorgan.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Krav til sporbarhet",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "Produsenten eller dennes representant, og eventuell leverandør av komponenter skal ha et system for å sikre sporbarhet og avvikshåndtering, slik at plikten etter § 13 kan ivaretas.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Krav til brukerhåndbok",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "Produsenten eller dennes representant, og eventuell leverandør av kar, dødfisksystem, alarmsystem og hovedavløpssperre skal sørge for at det følger med komponenten en brukerhåndbok som tilfredsstiller kravene i NS 9416:2013.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Krav til produktdatablad",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "Produsent eller dennes representant, og eventuell leverandør av andre komponenter enn nevnt i § 11 skal sørge for at det som minimum følger med komponenten et produktdatablad som tilfredsstiller kravene i NS 9416:2013.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Plikt til å iverksette tiltak ved avvik, varslingsplikt mv.",
+      "path": [
+        "Kapittel 3. Generelle krav til komponenter"
+      ],
+      "text": "Dersom produsent, dennes representant eller leverandør av komponenter har eller burde ha kjennskap til avvik ved egne produkter som kan føre til rømming av fisk, plikter de uten ugrunnet opphold, å iverksette egnede tiltak for å lukke avvikene. Det skal straks meldes fra om avviket til Fiskeridirektoratet og til mottakere av komponenten.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Krav til akkrediterte sertifiseringsorgan",
+      "path": [
+        "Kapittel 4. Krav om akkreditering"
+      ],
+      "text": "Sertifiseringsorganer skal være akkreditert etter ISO/IEC 17065:2012 Krav til sertifiseringsorganer for produkter, prosesser og tjenester – eller den til enhver tid gjeldende internasjonale standard med samme formål.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Krav til akkreditering",
+      "path": [
+        "Kapittel 4. Krav om akkreditering"
+      ],
+      "text": "Akkreditering som nevnt i § 14 skal foretas av Norsk Akkreditering eller annet akkrediteringsorgan som har undertegnet de relevant multilaterale avtaler for gjensidig internasjonal anerkjennelse, og som er etablert i et EU-/EØS-land.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Krav om produktsertifisering",
+      "path": [
+        "Kapittel 5. Krav til komponenter som skal produktsertifiseres av akkreditert sertifiseringsorgan"
+      ],
+      "text": "Kar og slanger skal være produktsertifisert av akkreditert sertifiseringsorgan, og i samsvar med krav fastsatt i NS 9416:2013 eller den til enhver tid gjeldende internasjonale standard med samme formål. Produktsertifikatet gjelder for ett bestemt produkt og skal utstedes til produsent, dennes representant eller eventuell leverandør. For kar med maksimalt volum mindre eller lik 1 m3 gjelder ikke kravet om produktsertifisering.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Krav til produktsertifisering",
+      "path": [
+        "Kapittel 5. Krav til komponenter som skal produktsertifiseres av akkreditert sertifiseringsorgan"
+      ],
+      "text": "Akkreditert sertifiseringsorgan skal fastslå og attestere at et eksemplar av et produkt som er representativt for den aktuelle produksjon samsvarer med kravene i NS 9416:2013. Produkteksemplaret skal stilles til rådighet av produsent eller dennes representant, for akkreditert sertifiseringsorgan.\nProdusent eller dennes representant, skal fremlegge teknisk dokumentasjon som skal gjøre det mulig for akkreditert sertifiseringsorgan å vurdere om produktet er i samsvar med kravene i NS 9416:2013 og andre relevante standarder som måtte gjelde for produktet. Den tekniske dokumentasjonen skal, så langt som det er nødvendig for vurderingen, omfatte produktets design, konstruksjonsstandard, framstilling, installasjon og funksjon.\nAkkreditert sertifiseringsorgan skal undersøke den tekniske dokumentasjonen og kontrollere at eksemplaret er produsert i samsvar med denne. Det skal også utføre eller få utført passende undersøkelser og den prøving som er nødvendig for å kontrollere om kravene i NS 9416:2013 og andre standarder som måtte gjelde produktet virkelig er anvendt.\nNår akkreditert sertifiseringsorgan har fastslått at produktet tilfredsstiller kravene i NS 9416:2013 og andre standarder som måtte gjelde, kan produktsertifikat utstedes.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Krav til produktsertifikat",
+      "path": [
+        "Kapittel 5. Krav til komponenter som skal produktsertifiseres av akkreditert sertifiseringsorgan"
+      ],
+      "text": "Produktsertifikat skal inneholde følgende opplysninger;sertifiseringsorganets navn, logo, adresse, akkrediteringsnummer og underskrift,akkrediteringsmerket til Norsk Akkreditering eller annet anerkjent akkrediteringsorgan,et unikt nummer,produktnavn og produkttype,hvilke standarder produktet samsvarer med,produsentens navn og adresse,navn og adresse til eventuell leverandør av det sertifiserte produktet,dato for utstedelse av produktsertifikat,nærmere beskrivelse av produktet, herunder dimensjonerende brukstid,dato og gyldighetsperiode for sertifiseringen,kriterier for gyldighet av sertifiseringen.\nEn liste over relevant teknisk dokumentasjon skal vedlegges sertifikatet. Akkreditert sertifiseringsorgan skal oppbevare en kopi av denne.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Oppfølging av produksjon",
+      "path": [
+        "Kapittel 5. Krav til komponenter som skal produktsertifiseres av akkreditert sertifiseringsorgan"
+      ],
+      "text": "Produsent av komponenter som skal produktsertifiseres skal kunne fremlegge dokumentasjon av sitt kvalitetssystem. Alle forhold, krav og bestemmelser som produsenten har tatt hensyn til, skal være dokumentert på en systematisk og ordnet måte i form av skriftlige tiltak, rutiner og instruksjoner. Dokumentasjonen av kvalitetssystemet skal sikre en ensartet fortolkning av kvalitetsprogrammer, -planer, -håndbøker og -registre.\nDokumentasjonen skal særlig omfatte en god beskrivelse av;kvalitetsmålene, organisasjonsplanen, ledernes ansvar og myndighet hva produktkvalitet angår,produksjonsprosessene, metodene for kvalitetskontroll og kvalitetssikring og de systematiske metoder og prosesser som vil bli anvendt,undersøkelsene og prøvingen som vil bli utført før, under og etter produksjonen, med angivelse av hvor ofte dette vil skje,kvalitetsregistrene, f.eks. inspeksjonsrapporter, kontrolldata og kalibreringsdata, rapporter om vedkommende personells kvalifikasjoner osv.,mulighetene for å kontrollere at den påkrevde produktkvalitet blir oppnådd, og at kvalitetssystemet fungerer effektivt.\nAkkreditert sertifiseringsorgan skal vurdere kvalitetssystemet for å avgjøre om det oppfyller kravene i denne bestemmelsen før produktsertifikat kan utstedes.\nAkkreditert sertifiseringsorgan skal minst hvert andre år utføre revisjoner for å forsikre seg om at produsenten opprettholder og anvender kvalitetssystemet. Dette skal dokumenteres i en revisjonsrapport.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Oppstart av nye landbaserte akvakulturanlegg, avdelinger og fellesfunksjoner",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Innehavere av akvakulturtillatelse for landbaserte akvakulturanlegg for fisk som prosjekteres etter 1. januar 2018, skal dokumentere at anleggets komponenter som har betydning for rømmingssikkerheten er prosjektert slik at vilkårene i § 6 og § 7 er oppfylt. Dokumentasjonen sendes Fiskeridirektoratet på fastsatt skjema. En ny avdeling eller fellesfunksjon kan tas i bruk til akvakultur når Fiskeridirektoratet har kvittert for mottak av dokumentasjonen.\nFørste ledd gjelder også for tiltakene som gjøres ved vesentlige endringer av avdelinger eller fellesfunksjoner.\nFor nye landbaserte akvakulturanlegg skal det gjennomføres tilstandsanalyse av avdelinger og fellesfunksjoner åtte år etter at anlegget er tatt i bruk til akvakultur.\nAvdelinger og fellesfunksjoner som opprettes som en del av et anlegg som ble prosjektert før 1. januar 2018, skal inngå i tilstandsanalysen åtte år etter at avdelingen eller fellesfunksjonen er tatt i bruk til akvakultur.\nAvdelinger og fellesfunksjoner som er vesentlig endret skal inngå i tilstandsanalysen åtte år etter at avdelingen eller fellesfunksjonen ble tatt i bruk til akvakultur etter endringen.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Krav om gyldig tilstandsgrad",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Alle avdelinger og fellesfunksjoner som inngår i et landbasert akvakulturanlegg for fisk skal ha gyldig tilstandsgrad innen 1. januar 2022. For avdelinger og fellesfunksjoner som inngår i anlegg nevnt i vedlegg 1 er fristen 1. januar 2023. Tilstandsgrad fastsatt før 1. januar 2022 gjelder fra 1. januar 2022.\nLandbaserte akvakulturanlegg for fisk skal for alle avdelinger og fellesfunksjoner til enhver tid ha en gyldig fastsatt tilstandsgrad. Tilstandsgraden skal fremkomme gjennom en tilstandsanalyse, og dokumenteres i rømmingsteknisk rapport. Kravet om gyldig tilstandsgrad gjelder likevel ikke for nye avdelinger eller fellesfunksjoner før de har utført sin første tilstandsanalyse, jf. § 20 tredje og fjerde ledd.\nTilstandsgrad og konsekvensgrad til komponentene skal inngå i vurdering av avdelingens eller fellesfunksjonens tilstandsgrad.\nAvdeling eller fellesfunksjon med en eller flere komponenter som har fått tilstandsgrad 3 kan ikke settes høyere enn i tilstandsgrad 2.\nAvdeling eller fellesfunksjon som har fått tilstandsgrad 3 kan ikke brukes til akvakultur.\nVed tilstandsgrad 0 skal ny tilstandsanalyse gjennomføres innen åtte år. Ved tilstandsgrad 1 skal ny tilstandsanalyse gjennomføres innen fire år. Ved tilstandsgrad 2 skal ny tilstandsanalyse gjennomføres innen to år. TGIU kan ikke gis for en avdeling eller fellesfunksjon.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Tilstandsanalyse",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Tilstandsanalysen skal gjennomføres etter det beste faglige skjønn, og den skal være etterprøvbar. Tilstandsanalysen skal utføres i tråd med kravene i NS 3424:2012.\nReferansenivået for tilstandsanalysen skal være et anlegg som er i samsvar med kravene i NS 9416:2013.\nTilstandsanalysen skal gjennomføres med et analysenivå som er tilpasset risikoen til komponenten. Som minimum skal analysenivå 2 i henhold til NS 3424:2012 benyttes for leveringssystem og kar med tilhørende siler.\nFastsetting av konsekvensgrad som følge av tilstandsgraden skal gjøres på bakgrunn av hvordan de ulike barrierene på anlegget samlet bidrar til å hindre rømming. Når risikoen vurderes, skal usikkerheten tas i betraktning.\nTilstandsanalysen skal inneholde:hvilke kriterier som representerer rammeverket ved fastsetting av tilstandsgrad for den enkelte komponent og komponentene samlet,fastsetting av tilstandsgrad 0, 1, 2 eller 3 for den enkelte komponent og komponentene samlet, herunder beskrivelse av avvik,vurdering av årsak til registrerte avvik, fastsetting av konsekvensgrad og risiko for komponenter i tilstandsgrad 2, 3 og tilstandsgrad ikke undersøkt (TGIU),vurdering, anbefaling og prioritering av tiltak for å sikre forsvarlig teknisk standard for rømmingssikkerheten.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 23",
+      "heading": "Krav om rømmingsteknisk rapport",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Innehaveren av akvakulturtillatelsen skal sørge for at det til enhver tid foreligger en oppdatert rømmingsteknisk rapport for akvakulturanlegget. Rapporten skal være tilgjengelig for tilsyn.\nDen rømmingstekniske rapporten skal inneholde:en tilstandsanalyse av anlegget i samsvar med denne forskrifts § 22,en plantegning og prosessdiagram over avløpssystem og leveringssystem i anlegget,en risikovurdering av drift og levering av fisk,informasjon om anleggets oppbygning og funksjon,en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,en vedlikeholdsplan for anlegget.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 24",
+      "heading": "Krav til kompetanse og uavhengighet for utarbeidelse av tilstandsanalyse",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Den eller de som utarbeider tilstandsanalysen skal tilfredsstille kravene til kompetanse som beskrevet i NS 3424:2012.\nForetaket som utfører tilstandsanalysen skal være en annen juridisk enhet enn det foretaket som er innehaver av akvakulturtillatelsen.\nForetaket som utfører tilstandsanalysen kan ikke kontrollere arbeid som det selv har prosjektert eller utført. Dette gjelder likevel ikke hvis arbeidsforholdet har vært opphørt i mer enn 10 år.\nForetaket som utfører tilstandsanalysen skal ikke ha personlig eller økonomisk tilknytning til innehaver av akvakulturtillatelsen som kan påvirke evnen til uavhengige vurderinger.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 25",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 6. Dokumentasjon av rømmingsteknisk tilstand"
+      ],
+      "text": "Innehaveren av akvakulturtillatelsen skal sende tilstandsanalyser utført etter § 22 til Fiskeridirektoratet innen to uker etter at tilstandsgrad er fastsatt. Tilstandsanalyser med tilstandsgrad for anleggets avdelinger og fellesfunksjoner skal sendes på den måten Fiskeridirektoratet bestemmer.\nInnehaveren av akvakulturtillatelse for landbaserte akvakulturanlegg for fisk som ble prosjektert før 1. januar 2018 skal i tillegg sende Fiskeridirektoratet;en plantegning og prosessdiagram av avløps- og leveringsrør,en geoteknisk vurdering av grunnen i samsvar med kravene i NS 9416:2013. For eksisterende anlegg hvor det ikke lar seg gjøre å vurdere grunnen, skal grunnforholdene i området hvor anlegget er plassert, dokumenteres,overordnet informasjon om anleggets oppbygning og funksjon.\nInformasjonen skal sendes innen 1. januar 2022. For innehavere av anlegg nevnt i vedlegg 1 skal informasjonen sendes innen 1. januar 2023.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 28",
+      "heading": "Montering og tilpasning",
+      "path": [
+        "Kapittel 8. Krav til drift, vedlikehold, ettersyn av og endringer på landbaserte akvakulturanlegg for fisk"
+      ],
+      "text": "Innehaver av akvakulturtillatelse skal påse at konstruksjonsdeler, komponenter og ekstrautstyr til enhver tid er montert riktig sammen og tilpasset hverandre i samsvar med krav oppstilt i NS 9416:2013, brukerhåndbøker, produktdatablad og brukerveiledninger.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 29",
+      "heading": "Bruk, vedlikehold og varslingsplikt",
+      "path": [
+        "Kapittel 8. Krav til drift, vedlikehold, ettersyn av og endringer på landbaserte akvakulturanlegg for fisk"
+      ],
+      "text": "Innehaveren av akvakulturtillatelsen skal påse at det landbaserte akvakulturanlegget til enhver tid er i forsvarlig teknisk stand.\nInnehaveren av akvakulturtillatelsen skal sørge for at drift, vedlikehold og ettersyn av akvakulturanlegget tilfredsstiller krav i NS 9416:2013. Drift, vedlikehold og ettersyn skal skje i samsvar med brukerhåndbok eller produktdatablad. For landbaserte akvakulturanlegg med komponenter uten brukerhåndbok eller produktdatablad etter kravene i NS 9416:2013 må vedlikehold og ettersyn være i samsvar med vedlikeholdsplanen i den rømmingstekniske rapporten.\nDet skal straks settes inn egnede tiltak for å hindre rømming av fisk dersom en komponent blir gitt tilstandsgrad 3 etter tilstandsanalyse. Dersom en tilstandsanalyse viser en komponent med tilstandsgrad 3, skal det ved innsending av tilstandsanalysen til Fiskeridirektoratet følge med en plan for utbedring til akseptabel tilstandsgrad.\nDet skal gjennomføres risikoreduserende tiltak for komponenter som ved tilstandsanalyse vurderes til høy risiko.\nDersom innehaver av akvakulturtillatelse har eller burde ha kjennskap til avvik ved komponenter eller kompatibiliteten til de komponentene som blir brukt sammen, plikter vedkommende uten ugrunnet opphold å iverksette egnede tiltak for å hindre eller begrense rømming. Innehaveren skal varsle fra om avviket til Fiskeridirektoratet og leverandøren av komponenten.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 30",
+      "heading": "Krav til dokumentasjon ved endringer og utskifting av utstyr",
+      "path": [
+        "Kapittel 8. Krav til drift, vedlikehold, ettersyn av og endringer på landbaserte akvakulturanlegg for fisk"
+      ],
+      "text": "Ved utskifting av den enkelte komponent skal det dokumenteres at ny komponent tilfredsstiller krav i NS 9416:2013.\nVed utskiftning av komponenter etter første ledd må det også dokumenteres at utskiftningen ikke medfører en uønsket påvirkning på andre komponenter. Dersom dokumentasjon viser en slik påvirkning må det iverksettes tiltak slik at den tekniske tilstand bringes i overensstemmelse med krav i NS 9416:2013.\nDet skal ikke gjøres endringer på eller i nær tilknytning til kar som kan medføre rømming av fisk uten at endringene er godkjent av produsent og de nødvendige vurderinger foreligger dokumentert. Dersom det ikke er mulig å få produsentens godkjenning skal det gjennomføres nødvendige analyser av karet som dokumenterer at og hvordan endringer kan gjøres.\nInnehaver av akvakulturtillatelse er ansvarlig for at det foreligger nødvendig grunnlagsdokumentasjon etter denne bestemmelsen.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 31",
+      "heading": "Krav til loggføring og oppbevaring",
+      "path": [
+        "Kapittel 8. Krav til drift, vedlikehold, ettersyn av og endringer på landbaserte akvakulturanlegg for fisk"
+      ],
+      "text": "Innehaver av akvakulturtillatelse er ansvarlig for at alle endringer og utskiftninger fortløpende loggføres i egen journal, og at dette oppbevares og gjøres tilgjengelig for kontroll på anlegget, til enhver tid. Journalen skal minimum inneholde opplysninger om;utført handling, herunder type ettersyn, vedlikehold eller reparasjon, med henvisning til plan og prosedyre,nødvendig oppfølging som konklusjon etter utført handling,dato for utført handling,underskrift fra den som utførte handlingen.\nSlik journal skal oppbevares på anlegget i minst 10 år.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 32",
+      "heading": "Tilsyn og vedtak",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet fører tilsyn med at denne forskriften blir fulgt og fatter enkeltvedtak jf. akvakulturloven § 27.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 33",
+      "heading": "Dispensasjonsadgang",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet kan i særlige tilfeller dispensere fra forskriften.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 34",
+      "heading": "Straff og andre reaksjoner ved overtredelse",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av forskriften eller vedtak fattet i medhold av den, kan medføre straff og andre reaksjoner etter lov 17. juni 2005 nr. 79 om akvakultur.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 35",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2018.\nForskriftens § 23 trer i kraft 1. januar 2022. For innehavere av anlegg nevnt i vedlegg 1 trer forskriftens § 23 i kraft 1. januar 2023.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    }
+  ]
+}

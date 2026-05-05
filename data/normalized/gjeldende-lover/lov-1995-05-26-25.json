@@ -1,0 +1,47 @@
+{
+  "id": "LOV-1995-05-26-25",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om gjennomføring av fellesregler om innenlands transport i EØS-avtalen",
+  "short_title": "Lov om innenlands transport i EØS-avtalen",
+  "department": "Samferdselsdepartementet",
+  "legal_area": "EU/EØS-rett > Transport Forbruker-, kjøps- og konkurranserett > Konkurranse Transport og kommunikasjoner > Luftfart",
+  "date_in_force": "1995-05-26",
+  "last_change_in_force": "2025-06-20",
+  "last_changed_by": "lov/2025-06-20-111",
+  "lovdata_refid": "lov/1995-05-26-25",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1995-05-26-25",
+  "raw_xml_sha256": "b754815fdfa7dd546514f75c39ff9873974c0ed1cddc7dea271cacfd1d1e02e2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Kongen kan gi forskrifter om gjennomføring av fellesregler om innenlands transport i EØS-avtalen, herunder regler om generelle retningslinjer, infrastruktur, konkurranseregler, statsstøtte, grenselettelser og kombinert transport.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Når EFTAs overvåkningsorgan behandler saker som gjelder EØS-avtalens vedlegg XIII punkt 6 (rådsforordning nr. 11 av 27. juni 1960) om avskaffelse av forskjellsbehandling med hensyn til transportpriser og transportvilkår i EØS, gjelder §§ 2 til 4 i EØS-konkurranseloven tilsvarende. Dersom slike saker bringes inn for EFTA-domstolen til overprøving, gjelder §§ 2 og 4 i den nevnte loven tilsvarende.\nNår saker som gjelder bestemmelsene i EØS-avtalen nevnt i første ledd behandles av Europakommisjonen, gjelder § 2 annet, tredje og fjerde ledd i EØS-konkurranseloven tilsvarende. Dersom slike saker bringes inn for Underretten ved Den europeiske unions domstol eller Den europeiske unions domstol til overprøving, gjelder § 2 første og annet ledd i den nevnte loven.\nKongen kan gi nærmere regler om fordelingen av myndighet mellom departementet og konkurransemyndighetene i saker som gjelder EØS-avtalens vedlegg XIII punkt 6, og som etter reglene i EØS-avtalen eller Avtalen mellom EFTA-statene om opprettelsen av et overvåkningsorgan eller en domstol kan behandles av nasjonale myndigheter.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer artikkel 5 nr. 2 eller artikkel 6 i EØS-avtalen vedlegg XIII punkt 6 (rådsforordning nr. 11 av 27 juni 1960), eller unnlater å etterkomme en anmodning etter avtalen artikkel 11 eller 1311 om å gi opplysninger til norske myndigheter, straffes som fastsatt i konkurranseloven § 32.\nPå samme måte straffes den som forsettlig gir norske myndigheter uriktige opplysninger.\nFor å sikre at en anmodning etter artikkel 11 eller 13 etterkommes, kan vedkommende myndighet ilegge tvangsmulkt etter reglene i konkurranseloven § 28.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

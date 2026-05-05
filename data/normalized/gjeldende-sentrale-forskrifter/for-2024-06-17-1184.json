@@ -1,0 +1,62 @@
+{
+  "id": "FOR-2024-06-17-1184",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om stønad til dekning av utgifter til fysioterapi m.m.",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2024-07-01",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-06-23-1196 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2024-06-17-1184",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-06-17-1184",
+  "raw_xml_sha256": "0700e4a06b7fd9ead69734f57a6dfb7ab0ae5c3c99736fa5b096223889d6e536",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det ytes stønad til fysioterapi ved sykdom, skade eller lyte. Behandlingen må være av vesentlig betydning for medlemmets sykdom og funksjonsevne.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Utgifter til fysioterapi dekkes bare hvis den som gir behandlingenhar autorisasjon som fysioterapeut etter lov 2. juli 1999 nr. 64 om helsepersonell m.v. § 48har godkjenning etter tidligere regelverk, jf. helsepersonelloven § 76 annet ledd, ellerer fysioterapeut fra et annet EØS-land og yter midlertidig tjeneste i Norge, jf. forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Stønad til fysioterapi ytes etter takstene i kapittel II. Det ytes stønad etter honorartakstene ved behandling ved skader og sykdom som går inn under folketrygdloven kapittel 13 Yrkesskadedekning, se loven § 5-25, og ved behandling av barn under 16 år.\nDen enkelte fysioterapeut er selv ansvarlig for å vurdere hvorvidt en pasient har krav på stønad i medhold av folketrygdloven § 5-8. Enhver undersøkelse og behandling skal være innenfor rammen av nødvendig og faglig forsvarlig fysioterapi. Det gis ikke stønad til alternativ behandling, jf. lov om alternativ behandling av sykdom mv. § 2 tredje ledd.\nFysioterapeuten må i journal dokumentere refusjonskravet, herunder hvilke undersøkelser som er utført og hvilken behandling som er gitt i det enkelte tilfellet. Pasientjournalen skal inneholde alle opplysninger som er relevante og nødvendige, jf. helsepersonelloven med tilhørende forskrifter.\nAvtalefysioterapeut som mottar turnuskandidat krever inn og beholder de egenandelene som turnuskandidaten utløser, jf. forskrift om egenandel for kommunale helse- og omsorgstjenester § 11 første ledd og forskrift om fastlønnstilskudd til delvis dekning av kommunenes utgifter til fysioterapitjenesten § 1 første ledd. Turnuskandidat kan utløse egenandelene som framkommer i kapittel II, pkt. T.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Hvis et medlem ikke kan møte fram på behandlingsstedet på grunn av sin helsetilstand, dekker kommunen reiseutgiftene for fysioterapeuten etter lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. § 11-1 fjerde og femte ledd.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Fullt driftstilskudd er fra 1. juli 2025 kroner 576 492 pr. år. Driftstilskuddet utbetales forholdsmessig etter antall driftstilskuddstimer fysioterapeuten har avtale om.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    }
+  ]
+}

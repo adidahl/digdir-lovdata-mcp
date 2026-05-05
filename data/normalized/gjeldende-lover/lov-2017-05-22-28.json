@@ -1,0 +1,57 @@
+{
+  "id": "LOV-2017-05-22-28",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "short_title": "Lov om tilskudd til sysselsetting av arbeidstakere til sjøs",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Transport og kommunikasjoner Transport og kommunikasjoner > Skipsfart",
+  "date_in_force": "2017-06-01",
+  "lovdata_refid": "lov/2017-05-22-28",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2017-05-22-28",
+  "raw_xml_sha256": "d05a3fb7dea7afc84edfe10c3fc5dca1853afaf08de8445cfb26578fed9c579b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med tilskuddsordningen for sysselsetting av arbeidstakere til sjøs er å legge til rette for maritim virksomhet. Ordningen skal sikre norsk maritim kompetanse, rekruttering av norske arbeidstakere til sjøs og bidra til at norske rederier får konkurransedyktige vilkår i forhold til vilkårene i andre land.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tilskuddsmottakere",
+      "path": [],
+      "text": "Tilskudd kan gis til organisasjoner som har drift av skip registrert i Norsk Ordinært Skipsregister (NOR) eller Norsk Internasjonalt Skipsregister (NIS).",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Beregning av tilskudd",
+      "path": [],
+      "text": "Tilskudd beregnes på grunnlag av skatt, trygdeavgift og norsk arbeidsgiveravgift for arbeidstakere som er tilskuddsberettiget etter ordningen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Departementet kan gi forskrift med nærmere bestemmelser om innretningen av tilskuddsordningen, som bestemmelser om virkeområde, beregning av tilskudd og forvaltning av ordningen, og om plikter og sanksjoner for private i forbindelse med forvaltningens kontroll av tilskuddsordningen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven gjelder fra den tid Kongen bestemmer.1\nGjeldende forskrift om tilskudd til sysselsetting av arbeidstakere til sjøs2 gjelder også etter at loven har trådt i kraft.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

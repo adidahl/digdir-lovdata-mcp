@@ -1,0 +1,63 @@
+{
+  "id": "FOR-1997-12-19-1421",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av nedsettelse av pensjonsgivende inntekt, pensjonsopptjening og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt",
+  "short_title": "Forskr om nedsettelse av pensjonsgivende inntekt mv",
+  "department": "Finansdepartementet",
+  "date_in_force": "1998-01-01",
+  "last_change_in_force": "2020-11-01",
+  "last_changed_by": "forskrift/2020-10-12-2016 fra 2020-11-01",
+  "lovdata_refid": "forskrift/1997-12-19-1421",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-12-19-1421",
+  "raw_xml_sha256": "9393f081b9af97d1f7fbdbbb979c15b548402d2931c6a4ca21a9ece7fbf94553",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Skattekontoret sender hvert år oppgave til Skattedirektoratet over skattytere som det er foretatt utgiftsføring eller nedsettelse/ettergivelse av fastsatt skatt og avgift for. Tilfelle som nevnt i Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstav b medtas ikke. Videre skal oppgaven omfatte skattytere med skatte- og avgiftsrestanser som fortsatt står ubetalt 3 år etter utløpet av skattefastsettingsåret.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Skattedirektoratet utarbeider på grunnlag av de mottatte data forslag til nedsettelse av den pensjonsgivende inntekt, pensjonsopptjening og trygdeavgift for de skattytere hvor nedsettelsen vil tilsvare minst 25 prosent av grunnbeløpet i folketrygden, jf. Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstav a. Lister over beregnede nedsettelser og avgifter til folketrygden og utkast til varsel etter skatteforvaltningsloven § 5-6, jf. nevnte forskrift § 2 første til tredje punktum, oversendes de respektive skattekontorer.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Skattekontoret kontrollerer at det ikke har skjedd endring av fastsetting som ikke er registrert av Skattedirektoratet. Videre skal skattekontoret fjerne fra listen de saker hvor skatte- og avgiftskravet ikke er endelig avgjort, jf. Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstavene f og g, samt eventuelle saker som nevnt i paragrafens bokstav b.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Skattekontoret må påse at varsel ikke sendes skattytere som omfattes av noen av unntaksbestemmelsene i Finansdepartementets forskrift 18. desember 1997 nr. 1408 om nedsettelse av pensjonsgivende inntekt, pensjonspoeng og avgift når fastsatt skatt og avgift helt eller delvis ikke er betalt § 3 bokstavene c–e, og korrigere listen tilsvarende.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "I"
+      ],
+      "text": "Skattemyndighetene gjennomfører nedsettelsene i henhold til den korrigerte listen. Skattedirektoratet underrettes om endringene for videre informasjon til Arbeids- og velferdsdirektoratet. Skattekontoret må påse av det ikke skjer noen utbetaling av nedsatt trygdeavgift.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2021-12-17-3771",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om avgrensning av tvungne betalingsmidler",
+  "short_title": "Forskrift om avgrensning av tvungne betalingsmidler",
+  "department": "Finansdepartementet",
+  "date_in_force": "2022-01-01",
+  "lovdata_refid": "forskrift/2021-12-17-3771",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-12-17-3771",
+  "raw_xml_sha256": "f41b13c793ec8277cab209b789d634c3673817d452be33bc4a1358e46bdb2273",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde og formål",
+      "path": [],
+      "text": "Forskriften avgrenser hva som er tvungent betalingsmiddel i Norge.\nFormålet med forskriften er å angi når sedler og mynter er så skadet at de ikke lenger kan forventes å bli akseptert som betalingsmidler, og derfor ikke bør ha status som tvungent betalingsmiddel.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Egenskaper",
+      "path": [],
+      "text": "Tvungent betalingsmiddel skal være av en slik kvalitet at det med letthet skal kunne fastslås at de er ekte. Mottaker må være trygg på at sedler og mynter egner seg for videre bruk, og de må kunne håndteres både maskinelt og manuelt på en hensiktsmessig måte.\nSedler inneholder flere sikkerhetselementer som gjør det mulig å ekthetskontrollere selv sterkt skadde sedler både manuelt og ved maskinell behandling.\nSedler med følgende avvik er likevel å anse som så sterkt skadde, at de ikke lenger er tvungent betalingsmiddel:Slitasje, skade eller andre endringer som vanskeliggjør gjenkjenning, for eksempel at flere av de synlige sikkerhetselementene ikke kan verifiseres.Mer enn 5 % av seddelens areal er borte.\nI utgangspunktet skal alle mynter i sirkulasjon ha samme diameter, kanttykkelse, vekt, legering, ledeevne og preg som spesifikasjonene for ny mynt satt i sirkulasjon av Norges Bank. Slitasje etter bruk kan imidlertid føre til mindre endringer som gjør at mynten avviker fra disse spesifikasjonene uten at det behøver å være tvil om ekthet og egnethet for videre bruk.\nMynt som er deformert eller har større visuelle avvik fra ny mynt eller vesentlige avvik i farge anses som sterkt skadet, og er ikke tvungent betalingsmiddel.\nStørre visuelle avvik vil være:svekket eller utydeliggjort preg, slik at en ikke lett kan se detaljeneat tall eller skrift ikke er tydelig lesbareat den er deformert, dvs. kraftige hakk eller bøyer, eller på annen måte endret form (ikke rund, osv.).\nNorges Bank angir ved behov nærmere retningslinjer for kjennetegn på sedler og mynter med større avvik etter denne bestemmelsen.\nIllustrasjonsbilder med eksempler på mynter som er så sterkt skadde at de ikke er tvungent betalingsmiddel finnes på Norges Banks nettsider.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Erstatning",
+      "path": [],
+      "text": "Norges Bank erstatter sterkt skadde sedler og mynter etter forskrift 17. desember 2021 nr. 3772 om erstatning for sterkt skadde eller bortkomne sedler og mynter, fastsatt av Norges Bank med hjemmel i lov 21. juni 2019 nr. 31 om Norges Bank og pengevesenet § 3-5 annet ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2022.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+{
+  "id": "FOR-2024-12-17-3181",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pliktig innmelding av grunnundersøkelser og naturfareutredninger",
+  "department": "EnergidepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2025-01-01",
+  "lovdata_refid": "forskrift/2024-12-17-3181",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-12-17-3181",
+  "raw_xml_sha256": "2d1d35dae65ac63a754cfb1a3ba2c502a55baac2d140726fa32b3caa093847fe",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål, definisjoner og myndighet"
+      ],
+      "text": "Forskriften skal bidra til sikkerhet, kunnskap og effektiv planlegging, ved at data og rapporter fra grunnundersøkelser og naturfareutredninger blir offentlig tilgjengelig for viderebruk.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Formål, definisjoner og myndighet"
+      ],
+      "text": "I denne forskriften menes med:Geotekniske grunnundersøkelser: fysiske undersøkelser i form av grunnboringer, feltforsøk og opptak av jordprøver, eventuelt med etterfølgende laboratorieundersøkelser, som sier noe om hvordan grunnen er satt sammen og hvilke egenskaper den har.Naturfareutredning: en skriftlig vurdering av fare for flom og alle typer skred som innebærer at naturfaren kvantifiseres og vises med sannsynlighet eller faregrad i form av et faresonekart, eller en skriftlig avklaring av faren for et mindre område. Med naturfareutredning menes både utredninger som bekrefter og avkrefter naturfare.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Myndighet",
+      "path": [
+        "Kapittel 1. Formål, definisjoner og myndighet"
+      ],
+      "text": "Registermyndigheten for grunnundersøkelser er Norges geologiske undersøkelse (NGU).\nRegistermyndigheten for naturfareutredninger er Norges vassdrags- og energidirektorat (NVE).",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Hvem innmeldingsplikten omfatter",
+      "path": [
+        "Kapittel 2. Innmeldingsplikten"
+      ],
+      "text": "Det er foretaket som har gjennomført en grunnundersøkelse eller naturfareutredning som er ansvarlig for å oppfylle innmeldingsplikten. Dersom et foretak benytter underleverandører til å utføre deler av undersøkelsen eller utredningen, er det hovedforetaket som er ansvarlig.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Hva innmeldingsplikten omfatter – Grunnundersøkelser",
+      "path": [
+        "Kapittel 2. Innmeldingsplikten"
+      ],
+      "text": "Etter gjennomført geoteknisk grunnundersøkelse, skal det meldes inn:komplett geoteknisk undersøkelse med stedfestede borehull, borehullsundersøkelser og digitale måledata, levert i henhold til gjeldende produktspesifikasjon etter norsk standardrapport med beskrivelse av undersøkelsen og resultater.\nDersom enkelte måledata ikke kan meldes inn i maskinlesbar, digital form i innmeldingsløsningen, skal dette leveres som vedlegg til grunnundersøkelsen i innmeldingsløsningen.\nInformasjon som er undergitt lovbestemt taushetsplikt, skal ikke meldes inn.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Hva innmeldingsplikten omfatter – Naturfareutredninger",
+      "path": [
+        "Kapittel 2. Innmeldingsplikten"
+      ],
+      "text": "Etter gjennomført naturfareutredning av flom, skal det meldes inn:de vurderinger som er gjort av flom, erosjon og massetransportstedfestede analyseområder, faresoner for flom og informasjon om flomvannstand, dersom slike er utarbeidetbefaringsrapporter og beregninger som er gjort som del av utredningen, dersom slike er utarbeidet.\nEtter gjennomført naturfareutredning av skred i bratt terreng, skal det meldes inn:de vurderinger som er gjort av alle typer skred i bratt terreng, herunder steinsprang, steinskred, fjellskred, snøskred, sørpeskred, flomskred og jordskredstedfestede analyseområder, faresoner for skred og skogpolygoner med betydning for skredfaren, dersom slike er utarbeidetbefaringsrapporter, dersom slike er utarbeidet.\nEtter gjennomført naturfareutredning av kvikkleireskred skal det meldes inn:de vurderinger som er gjortstedfestede analyseområder, løsne- og utløpsområder, og områder uten fare for kvikkleireskred, dersom slike er utarbeidetstabilitetsberegninger, befaringsrapporter, rapporter etter uavhengig kvalitetssikring og eventuelt rapporter for utførte sikringstiltak som ligger til grunn for endret faregrad for en faresone for kvikkleireskred, dersom slike er utarbeidet.\nInformasjon som er undergitt lovbestemt taushetsplikt, skal ikke meldes inn.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Hvordan innmeldingsplikten skal oppfylles",
+      "path": [
+        "Kapittel 2. Innmeldingsplikten"
+      ],
+      "text": "Innmeldingsplikten for grunnundersøkelser oppfylles gjennom å melde inn det som omfattes av § 5 til NGU som registermyndighet ved bruk av den eller de innmeldingsløsningene for komplette data som stilles til disposisjon.\nInnmeldingsplikten for naturfareutredninger oppfylles gjennom å melde inn det som omfattes av § 6 til NVE som registermyndighet ved bruk av innmeldingsløsningen som stilles til disposisjon.\nNGU og NVE kan foreta mindre justeringer når det gjelder hvilke opplysninger som til enhver tid omfattes av innmeldingsplikten. NGU og NVE kan også til enhver tid tilpasse terminologien i innmeldingsløsningene til den terminologien som gjelder på området.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Frist for innmelding",
+      "path": [
+        "Kapittel 2. Innmeldingsplikten"
+      ],
+      "text": "Den som er omfattet av § 4, skal snarest og senest innen tre måneder etter ferdig utarbeidet grunnundersøkelse eller naturfareutredning, melde inn data og rapporter elektronisk til den aktuelle registermyndigheten.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Tilgjengeliggjøring og viderebruk",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, viderebruk og dispensasjon"
+      ],
+      "text": "Registermyndigheten skal gjøre innmeldte data og rapporter tilgjengelig på internett.\nTilgjengeliggjorte data og rapporter kan brukes vederlagsfritt av enhver. Tredjeparts bruk av data og rapporter fra registrene skjer på eget ansvar.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 3. Tilgjengeliggjøring, viderebruk og dispensasjon"
+      ],
+      "text": "NGU og NVE kan i særlige tilfeller dispensere fra kravene fastsatt i denne forskriften. Det kan settes vilkår for dispensasjon.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 11",
+      "heading": "Retting og tvangsmulkt",
+      "path": [
+        "Kapittel 4. Kontroll og håndheving"
+      ],
+      "text": "Ved overtredelser av bestemmelser gitt i eller i medhold av denne forskriften, kan vedkommende registermyndighet treffe vedtak om retting og/eller tvangsmulkt i medhold av plan- og bygningsloven § 2-4.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 12",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 4. Kontroll og håndheving"
+      ],
+      "text": "Ved overtredelser av bestemmelser gitt i eller i medhold av denne forskriften, kan vedkommende registermyndighet ilegge overtredelsesgebyr på inntil 50 000 kroner i medhold av plan- og bygningsloven § 2-4.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 13",
+      "heading": "Overgangsbestemmelse",
+      "path": [
+        "Kapittel 5. Ikrafttredelse og overgangsregler"
+      ],
+      "text": "Innmeldingsfristen for geotekniske grunnundersøkelser vil være tre måneder etter at ny innmeldingsløsning (API) for komplette data er gjort tilgjengelig.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Ikrafttredelse og overgangsregler"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2025.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    }
+  ]
+}

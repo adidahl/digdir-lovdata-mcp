@@ -1,0 +1,228 @@
+{
+  "id": "FOR-2011-12-16-1250",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og behandling av helseopplysninger i Nasjonalt register over hjerte- og karlidelser (Hjerte- og karregisterforskriften)",
+  "short_title": "Hjerte- og karregisterforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2012-01-01",
+  "last_change_in_force": "2021-11-19",
+  "last_changed_by": "forskrift/2021-11-19-3235",
+  "lovdata_refid": "forskrift/2011-12-16-1250",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-16-1250",
+  "raw_xml_sha256": "779341c7d53184031027b879312ba8386e03d84ff07610a2fcae0b052a614447",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Nasjonalt register over hjerte- og karlidelser",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder Nasjonalt register over hjerte- og karlidelser, innsamling og annen behandling av helseopplysninger i registeret. Hjerte- og karregisteret består av et basisregister og tilknyttede medisinske kvalitetsregistre og kan inneholde opplysninger omalle personer som har eller har hatt hjerte- eller karlidelsepasienter som mottar helsehjelp for slik sykdom i Norge eller i utlandet etter henvisning fra spesialisthelsetjenesten i Norge.\nOpplysningene i Hjerte- og karregisteret kan ikke anvendes til formål som er uforenlig med § 1-2.\nOpplysninger om enkeltindivider som er fremkommet ved behandling av helseopplysninger etter forskriften, kan ikke brukes i forsikringsøyemed, av påtalemyndighet, domstol eller arbeidsgiver, selv om den registrerte samtykker.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Hjerte- og karregisterets formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med Hjerte- og karregisteret er å bidra til bedre kvalitet på helsehjelpen til personer med hjerte- og karsykdommer. Opplysninger i registeret skal benyttes til forebyggende arbeid, kvalitetsforbedring og helseforskning. Registeret skal også utgjøre et grunnlag for styring og planlegging av helsetjenester rettet mot personer med hjerte- og karsykdommer, overvåkning av nye tilfeller og forekomst av slike sykdommer i befolkningen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Dataansvarlig, databehandler og fagråd",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet er dataansvarlig for innsamling og behandling av helseopplysninger i registeret.\nFolkehelseinstituttet kan inngå avtale med en databehandler om behandling av opplysningene på vegne av instituttet. Avtalen skal være skriftlig.\nDen dataansvarlige skal opprette fagråd hvor de regionale helseforetakene er representert. Fagrådet skal avgi uttalelse før det fattes beslutninger av betydning for registerets innhold og organisering.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Opplysninger som kan registreres",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Basisregisteret kan, når det er relevant og nødvendig for å fremme registerets formål, uten samtykke fra den registrerte, inneholde opplysninger fra Folkeregisteret, Norsk pasientregister og Dødsårsaksregisteret, om:Identifikasjonsopplysninger:fødselsnummer eller annet entydig identifikasjonsnummerbostedskommunefødestedsivilstand.Administrative opplysninger:om henvisningom behandlende institusjonom konsultasjon og innleggelseom pasientrettigheterom dødstidspunkt og dødssted.Medisinske opplysninger:fagområdediagnose og diagnosekoderbehandling og prosedyrekodertidspunkt for oppstart og avslutning av helsehjelpdødsårsak, obduksjonsresultat og mistanke om unaturlig død.Når det er relevant og nødvendig for å fremme registerets formål kan kvalitetsregistrene inneholde flere og mer detaljerte opplysninger om sykdommen og helsehjelpen. Dette gjelder:kjente risikofaktorer for hjerte- og karsykdomtidligere sykehistorie og behandling, herunder komplikasjoneraktuell sykdomaktuell helsehjelp (medisinske detaljer)resultatene av helsehjelpenvidere behandling som,hvilke legemidler pasienten skal brukeandre sekundærforebyggende tiltak.\nOpplysningene skal følge den klassifikasjonen som Folkehelseinstituttet bestemmer.\nBiologisk materiale og resultat av genetisk prediktive undersøkelser, jf. bioteknologiloven § 5-1 bokstav b, skal ikke inngå i registeret.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Plikt til å melde opplysninger",
+      "path": [
+        "Kapittel 2. Innmelding, kontroll og behandling av opplysninger"
+      ],
+      "text": "Helseforetak, annen virksomhet som yter spesialisthelsetjenester og dataansvarlig for Norsk pasientregister og Dødsårsaksregisteret skal melde inn nødvendige helseopplysninger etter § 1-4.\nOpplysningene skal meldes inn elektronisk, i det format og etter rutiner og frister fastsatt av Folkehelseinstituttet.\nLovbestemt taushetsplikt er ikke til hinder for at opplysninger etter § 1-4 meldes til Hjerte- og karregisteret, jf. helseregisterloven § 13.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Ansvar for korrekte opplysninger",
+      "path": [
+        "Kapittel 2. Innmelding, kontroll og behandling av opplysninger"
+      ],
+      "text": "Folkehelseinstituttet skal sørge for at opplysninger som behandles i registeret er korrekte, relevante og nødvendige.\nMelder skal varsles dersom meldingen er mangelfull, jf. helseregisterloven § 13 andre ledd andre punktum.\nFolkehelseinstituttet skal sørge for at kvalitetskontrollerte data rutinemessig tilbakeføres til melder.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 3. Behandling av helseopplysninger i Hjerte- og karregisteret"
+      ],
+      "text": "Helseopplysninger i Hjerte- og karregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Informasjonsstrategi rettet mot brukergrupper",
+      "path": [
+        "Kapittel 3. Behandling av helseopplysninger i Hjerte- og karregisteret"
+      ],
+      "text": "For i samsvar med forskriftens formål å fremme bruken av opplysninger fra registeret og for å bygge opp informasjon og kunnskap, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi rettet mot helseforvaltningen, helsetjenesten, øvrig forvaltning, medisinsk og helsefaglig forskning, helsetjenesteforskning, samfunnsforskning og overfor publikum generelt.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Enhver som behandler helseopplysninger etter forskriften, har taushetsplikt etter helseregisterloven § 17.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet og databehandlere som Folkehelseinstituttet har inngått avtale med, skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Kryptering og tilgjengeliggjøring av opplysninger",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Direkte personidentifiserende kjennetegn som fødselsnummer og D-nummer skal separeres og lagres kryptert og adskilt fra andre registeropplysninger.\nBare personell som utfører tjenester eller arbeid mot registeret og arbeider under Folkehelseinstituttet eller databehandlers instruksjonsmyndighet, kan gis tilgang til opplysninger i registeret. Tilgangen kan ikke være mer omfattende enn det som er nødvendig for vedkommendes arbeid. Registeret skal ha systemer for hendelsesregistrering (logging) av elektroniske spor ved all tilgang til registeret.\nBare spesielt autoriserte personer som har behov for det i arbeidet, skal ha tilgang til ukrypterte opplysninger.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Krav til internkontroll",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sike og påvise at behandlingen av opplysningene utføres i samsvar med personvernforordningen, personopplysningloven og helseregisterloven, jf. helseregisterloven § 22. Databehandlere som behandler helseopplysninger på vegne av Folkehelseinstituttet, skal behandle opplysninger i samsvar med rutiner fastsatt av Folkehelseinstituttet.\nDet skal foreligge tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner som minst inneholder:en oversikt over hvordan virksomheten er organisert,en oversikt over ansvars- og myndighetsforhold,en oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å oppfylle kravene, herunder rutiner forat personidentifiserbare opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikten, jf. helseregisterloven § 6 og § 17,dokumentasjon og kvalitetskontroll av helseopplysningene, jf. § 2-1 og § 2-2,å behandle krav om informasjon og innsyn, jf. helseregisterloven § 24, samt forskriften § 5-1,tilgjengeliggjøring og sammenstilling av opplysninger fra helseregistre, jf. § 3-1,rutiner virksomheten følger dersom avvik oppstår og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem samsvarer med det systemet virksomheten har fastlagt, og oppfyller kravene i personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.\nDokumentasjonen skal være tilgjengelig for dem det måtte angå. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette dersom det anses påkrevd.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Oversikt over tilgjengeliggjøring",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal føre oversikt over hvem som får utlevert eller på annen måte tilgjengeliggjort opplysninger fra registeret og hjemmelsgrunnlaget for tilgjengeliggjøringene. Oversikten skal oppbevares i minst fem år etter angitte tidspunkt for prosjektavslutning.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Bevaring av helseopplysninger",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Opplysninger i registeret skal bevares så lenge det er nødvendig for å oppfylle formålet jf. § 1-2, med mindre annet følger av forskriften, helseregisterloven § 25 eller arkivloven.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Den registrertes rett til informasjon og innsyn",
+      "path": [
+        "Kapittel 5. Den registrertes rettigheter"
+      ],
+      "text": "Registrerte har rett til informasjon om registeret og innsyn i behandling av helseopplysninger om seg selv i samsvar med helseregisterloven § 24.\nRegistrerte har rett til innsyn i utleveringer som gis i personidentifiserbar form. Er den registrerte mindreårig, gjelder pasientrettighetsloven § 3-4 tilsvarende.\nInformasjon skal gis i en forståelig form.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Frist for å svare på henvendelser om innsyn",
+      "path": [
+        "Kapittel 5. Den registrertes rettigheter"
+      ],
+      "text": "Begjæringer om innsyn etter § 5-1 skal besvares uten ugrunnet opphold og senest én måned etter at henvendelsen kom inn, jf. personvernforordningen artikkel 12 nr. 3.\nDersom særlige forhold gjør det umulig å svare på henvendelsen innen én måned, kan gjennomføringen utsettes med ytterligere to måneder. Den dataansvarlige skal i så fall gi et foreløpig svar med opplysninger om grunnen til forsinkelsen og sannsynlig tidspunkt for når svar kan gis.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Retting og sletting av helseopplysninger",
+      "path": [
+        "Kapittel 5. Den registrertes rettigheter"
+      ],
+      "text": "Den registrerte har rett til å kreve retting og sletting av opplysninger etter bestemmelsene i helseregisterloven § 25.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Forsterket tilsyn med Hjerte- og karregisteret",
+      "path": [
+        "Kapittel 6. Tilsyn, pålegg, tvangsmulkt, straff og ikraftsetting"
+      ],
+      "text": "Datatilsynet fører tilsyn med Hjerte- og karregisteret, jf. helseregisterloven § 26 og personopplysningsloven § 20. Folkehelseinstituttet skal årlig gi Datatilsynet rapport om virksomheten.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 6. Tilsyn, pålegg, tvangsmulkt, straff og ikraftsetting"
+      ],
+      "text": "Datatilsynet kan ved behandling av opplysninger i strid med forskriften ilegge overtredelsesgebyr etter personvernforordningen artikkel 83 og personopplysningsloven §§ 26 og 27, jf. helseregisterloven § 29.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "(Ikraftsetting)",
+      "path": [
+        "Kapittel 6. Tilsyn, pålegg, tvangsmulkt, straff og ikraftsetting"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Endringer i andre forskrifter",
+      "path": [
+        "Kapittel 6. Tilsyn, pålegg, tvangsmulkt, straff og ikraftsetting"
+      ],
+      "text": "Fra 1. januar 2012 gjøres følgende endringer i andre forskrifter:",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    }
+  ]
+}

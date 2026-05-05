@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2007-11-26-1325",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gruppesøksmål",
+  "short_title": "Forskrift om gruppesøksmål",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2008-01-01",
+  "lovdata_refid": "forskrift/2007-11-26-1325",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-11-26-1325",
+  "raw_xml_sha256": "db34654ba9130064431b46feeb2160041aa24b1f4cf85c177be16934fab5bab1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Påmelding til gruppesøksmål etter tvisteloven § 35-6",
+      "path": [],
+      "text": "Begjæring om registrering som gruppemedlem i et gruppesøksmål etter tvisteloven § 35-6, settes fram for den domstolen som behandler gruppesøksmålet.\nBegjæringen kan være skriftlig eller muntlig. Muntlig begjæring inngis ved personlig oppmøte i den domstolen som behandler gruppesøksmålet. Begjæringen må angi de opplysningene som er nødvendig for å avgjøre om vilkårene for registrering som gruppemedlemmer er oppfylt:søkerens navn, adresse og person- eller organisasjonsnummergruppesøksmålet begjæringen gjelder ogdet krav som gjøres gjeldende, og det faktiske grunnlaget for kravet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Grupperegisteret",
+      "path": [],
+      "text": "Retten skal så snart den har avgjort begjæringen om registrering varsle søkeren om resultatet og føre vedkommende inn i grupperegisteret dersom begjæringen blir tatt til følge.\nGrupperegisteret føres elektronisk av domstolen, og skal så snart det er opprettet legges ut på lukket nettside for gruppemedlemmene, grupperepresentanten, prosessfullmektigen for gruppesøksmålet, saksøkte og saksøktes prosessfullmektig. Medlemmenes personnummer skal ikke legges ut på nettsiden. Grupperegisteret skal oppdateres når noen melder seg på eller trer ut av gruppesøksmålet.\nGrupperegisteret føres av den instans som behandler saken. Anke over kjennelser om saksbehandlingen etter tvisteloven § 29-3 (2) eller over beslutninger etter tvisteloven § 29-3 (3), medfører ikke at ankeinstansen får plikt til å føre grupperegister.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Uttreden som gruppemedlem i gruppesøksmål",
+      "path": [],
+      "text": "Enhver kan tre ut som gruppemedlem. Det gjøres ved sletting i grupperegisteret for medlemmer i gruppesøksmål etter § 35-6 og ved innføring i utmeldingsregisteret for medlemmer i gruppesøksmål etter § 35-7. Begjæring om utmelding framsettes for den domstolen som behandler gruppesøksmålet. Kravene i § 1 annet ledd første, annet og tredje punktum bokstav a og b gjelder tilsvarende. Utmeldingen er virksom fra det tidspunktet retten mottar begjæringen.\nStraks etter mottak av en begjæring om uttreden, skal retten sørge for at gruppemedlemmet slettes fra grupperegisteret eller innføres i utmeldingsregistret.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Utmeldingsregister",
+      "path": [],
+      "text": "Utmeldingsregisteret føres elektronisk av domstolen.\nGruppemedlemmene, grupperepresentanten, prosessfullmektigen for gruppesøksmålet, saksøkte og saksøktes prosessfullmektig har rett til innsyn i utmeldingsregisteret fra det tidspunktet gruppesøksmålet er fremmet.\nReglene i § 2 tredje ledd gjelder tilsvarende for utmeldingsregister.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Undergrupperegister",
+      "path": [],
+      "text": "I saker hvor retten etter tvisteloven § 35-10 annet ledd bestemmer at det skal være undergrupper, skal det opprettes undergrupperegistre som er knyttet til grupperegisteret for gruppesøksmålet. Bestemmelsene i § 2 og § 3 gjelder tilsvarende for undergrupperegister.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2008.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

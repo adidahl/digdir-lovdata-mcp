@@ -1,0 +1,37 @@
+{
+  "id": "FOR-1993-01-13-4041",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tidsfrist for krav om lovlighetskontroll.",
+  "short_title": "Forskrift om tidsfrist for lovlighetskontroll",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "1993-01-13",
+  "lovdata_refid": "forskrift/1993-01-13-4041",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-01-13-4041",
+  "raw_xml_sha256": "20f54209ebc8cbf1c60598f407fa71edf700d687eb71bd150b83981a4e74da54",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Fristen for å kreve lovlighetskontroll for medlemmer av kommunestyret eller fylkestinget er 3 uker.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Fristen løper fra det tidspunkt avgjørelsen ble truffet.\nFor beregning av fristen gjelder forvaltningsloven § 30 tilsvarende.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

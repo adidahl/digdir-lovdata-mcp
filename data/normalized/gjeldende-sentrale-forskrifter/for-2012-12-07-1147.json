@@ -1,0 +1,57 @@
+{
+  "id": "FOR-2012-12-07-1147",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om obligatorisk opplæring i sykmeldingsarbeid for leger",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2014-07-01",
+  "last_changed_by": "forskrift/2014-06-25-873 fra 2014-07-01",
+  "lovdata_refid": "forskrift/2012-12-07-1147",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-12-07-1147",
+  "raw_xml_sha256": "f68d6be65fe5fe9e45742c71accf9f840e8cfe90f4e9e23645c57ceb1951e0e1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med obligatorisk opplæring er å sikre at leger får tilstrekkelige kvalifikasjoner til å vurdere medlemmets arbeidsevne og mulighet til å være helt eller delvis i arbeid.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Målgrupper",
+      "path": [],
+      "text": "Forskriften gjelder for alle leger som vil dokumentere arbeidsuførhet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Retten til å dokumentere arbeidsuførhet",
+      "path": [],
+      "text": "Leger som vil dokumentere arbeidsuførhet (sykmelde) skal ha gjennomført obligatorisk opplæring i sykmeldingsarbeid som beskrevet i § 4. Gjennomført opplæring skal dokumenteres i Helsepersonellregisteret som grunnlag for Arbeids- og velferdsetatens godkjenning.\nLikestilt med opplæring som nevnt i første ledd regnes:gjennomført obligatorisk kurs i emnet trygdemedisin i henhold til forskrift 19. desember 2005 nr. 1653 om veiledet tjeneste for å få adgang til å praktisere som allmennlege med rett til trygderefusjon.egenerklæring fra sykmelder der vedkommende redegjør for hvordan han eller hun har tilegnet seg kunnskap om følgende tema:Regelverket for sykmelding, herunder medisinsk vurdering av vilkår for rett til sykepenger, funksjons- og arbeidsevnevurdering.Vurdering av arbeids- og aktivitetsmuligheter til tross for sykdom/skade.Vurdering av alternativer til sykmelding.Sykefraværsoppfølging og de ulike aktørers ansvar og plikter på sykefraværsområdet. Legens rolle og samhandling med øvrige aktører i sykefraværsarbeidet (legens samhandling med sykmeldt arbeidstaker, arbeidsgiver, NAV), herunder bruk av oppfølgingsplan og deltakelse i dialogmøter.Arbeidsgivers tilretteleggingsplikt, arbeidstakers medvirkningsplikt.Utfylling og bruk av sykmeldingsblanketten.Arbeidsrettede tiltak og virkemidler.\nI egenerklæringen må det sannsynliggjøres tilstrekkelig kunnskap om sykmeldingsarbeid, for eksempel gjennom deltakelse på aktuelle kurs. Ved eventuell stikkprøvekontroll må dette kunne dokumenteres.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Innhold og omfang",
+      "path": [],
+      "text": "Arbeidsdepartementet fastsetter nærmere bestemmelser om innhold og omfang av den obligatoriske opplæringen som beskrevet i § 3 første ledd i samarbeid med Helse- og omsorgsdepartementet. Opplæringen skal omfatte legens rolle i det inkluderende arbeidslivet, herunder sykmeldingsprosessen og samhandling mellom aktørene, samt regelverksforståelse når det gjelder sykmeldingsarbeid.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft fra 1. januar 2013.\nObligatorisk opplæring må være gjennomført innen ett år etter forskriftens ikrafttredelse.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

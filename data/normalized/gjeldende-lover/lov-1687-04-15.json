@@ -1,0 +1,73 @@
+{
+  "id": "LOV-1687-04-15",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Kong Christian Den Femtis Norske Lov",
+  "short_title": "Norske Lov – NL",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Anskaffelser, avtaler, bygg og entrepriser > Avtaler",
+  "last_change_in_force": "2023-07-01",
+  "last_changed_by": "lov/2023-06-16-40 fra 2023-07-01",
+  "lovdata_refid": "lov/1687-04-15",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1687-04-15",
+  "raw_xml_sha256": "2c00acf8bf3ee3837c9b2f4a77af038ab3a314a6319cc22723fcdf81638bef0c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "b1/k21/a15",
+      "heading": "15 Art.",
+      "path": [
+        "Første Bog. Om Retten og Rettens Personer.",
+        "21 Cap. Om Borgen og Forløfter."
+      ],
+      "text": "Forlover haver Magt til at søge Hovedmanden, som hand er Forlover for, for Gielden, naar hand til hannem lovligen sit Forløfte opsagt haver, og hand ikke betaler Creditoren; Dog kand hand ikke være fri for sit Forløfte til Creditoren, før end hand hannem fornøjet haver og sit Forløftnings Brev, indfriet.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "b5/k1/a1",
+      "heading": "1 Art.",
+      "path": [
+        "Femte Bog. Om Adkomst, Gods og Gield.",
+        "1 Cap. Om Contracter og Forpligter."
+      ],
+      "text": "En hver er pligtig at efterkomme hvis hand med Mund, Haand og Segl lovet og indgaaet haver.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "b5/k1/a2",
+      "heading": "2 Art.",
+      "path": [
+        "Femte Bog. Om Adkomst, Gods og Gield.",
+        "1 Cap. Om Contracter og Forpligter."
+      ],
+      "text": "Alle Contracter som frivilligen giøris af dennem, der ere Myndige, og komne til deris Lavalder, være sig Kiøb, Sal, Gave, Mageskifte, Pant, Laan, Leje, Forpligter, Forløfter og andet ved hvad Navn det nævnis kand, som ikke er imod Loven, eller Ærbarhed, skulle holdis i alle deris Ord og Puncter, saasom de indgangne ere.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-1",
+      "provision_ref": "b5/k8/a1",
+      "heading": "1 Art.",
+      "path": [
+        "Femte Bog. Om Adkomst, Gods og Gield.",
+        "8 Cap. Om Laan, Leje og betroet Gods."
+      ],
+      "text": "Laan maa ej fortabis men skal lydisløst hiemkomme og lige saa egot, som mand det annammede, være sig Fæ, Klæde, Vaaben, eller andet Gods. End forkommer det, saa at det ikke kand igienskaffis, da bør dets Værd nøjagtig at betalis.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-2",
+      "provision_ref": "b5/k8/a17",
+      "heading": "17 Art.",
+      "path": [
+        "Femte Bog. Om Adkomst, Gods og Gield.",
+        "8 Cap. Om Laan, Leje og betroet Gods."
+      ],
+      "text": "Annammer nogen anden Mands Gods i Forvaring og til at giemme, da bør hand det at giemme som sit eget Gods. End kommer der Ild i hans Huus og opbrænder det, eller Tyve bortstiæle det, eller det af anden Ulykke forkommer tillige med hans eget Gods, da være hand angerløs. End vorder hans eget Gods bevaret, og det bevisis, at hand hafde Tid og Lejlighed det betroede Gods med sit at frelse, da gielde hand igien det, som hand i Forvaring annammet hafde.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-2"
+    }
+  ]
+}

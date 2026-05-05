@@ -1,0 +1,97 @@
+{
+  "id": "FOR-2022-07-01-1283",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift for strømstøtteordningen for frivillig sektor",
+  "department": "Kultur- og likestillingsdepartementet",
+  "date_in_force": "2022-07-01",
+  "last_change_in_force": "2026-01-07",
+  "last_changed_by": "forskrift/2026-01-07-9",
+  "lovdata_refid": "forskrift/2022-07-01-1283",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-07-01-1283",
+  "raw_xml_sha256": "556622805fea650026b041d8bb870ee5e971bc9b9359825ec1fd74e19b72be2e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med ordningen er å motvirke negative konsekvenser av de høye strømprisene i frivillig sektor.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hvem kan søke",
+      "path": [],
+      "text": "Følgende organisasjoner har rett til å søke:Virksomheter som er registrert i FrivillighetsregisteretVirksomheter som ikke er i Frivillighetsregisteret, kan søke dersom eiere/medlemmer med bestemmende innflytelse er registrert i FrivillighetsregisteretAndre frivillige virksomheter som ikke dekkes under a. og b. kan motta støtte dersom virksomheten hovedsakelig drives av frivillig arbeidsinnsats og hvor det ikke er anledning for privatpersoner eller kommersielle foretak å oppnå økonomiske fordeler fra virksomheten. Frivillig arbeidsinnsats skal forstås som mennesker som bidrar uten lønn eller annen form for økonomisk motytelse, verken nå eller i fremtiden.\nSøker må ha organisasjonsnummer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Hvilke kostnader kan kompenseres",
+      "path": [],
+      "text": "Tilskuddsordningen vil kun gjelde strømforbruk med strømpris på over 75 øre per kWt. Terskelverdien endres til 77 øre per kWt for strømforbruk fra og med 1. januar 2026.\nFølgende skal ikke kompenseres:Strømforbruk knyttet til utføring av offentlig lovpålagte oppgaver på oppdrag fra stat, fylkeskommune eller kommune.Økonomisk virksomhet hvor kompensasjon til denne virksomheten er i strid med EØS-avtalens regler om offentlig støtte.Strømutgifter som allerede er kompensert gjennom de statlige strømstøtteordningene for husholdninger eller landbruket.Strømutgifter til virksomheter som er under konkursbehandling.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregning av tilskudd",
+      "path": [],
+      "text": "Tilskuddet beregnes basert på dokumentert strømforbruk. Forbruket per time beregnes ved hjelp av et gjennomsnittlig forbruksmønster for frivillige organisasjoner. For strømforbruk i 2025 får tilskuddsmottakere dekket 90 pst. av prisforskjellen mellom 75 øre per kWt og timesprisene. For strømforbruk fra og med 1. januar 2026 endres terskelverdien til 77 øre per kWt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til søknaden",
+      "path": [],
+      "text": "Virksomheter som får tilskudd etter denne forskriften, må dokumentere utgifter til strøm eller fjernvarme. Det gjennomføres kvartalsvise søknadsrunder. Ved svært lav støttesats kan Lotteri- og stiftelsestilsynet vurdere å slå sammen to søknadsrunder, slik at det beregnes og utbetales strømstøtte for to kvartaler av gangen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Varighet",
+      "path": [],
+      "text": "Tilskuddsordningen er midlertidig i perioden april 2022–desember 2026.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Forvaltning",
+      "path": [],
+      "text": "Lotteri- og stiftelsestilsynet forvalter ordningen på vegne av Kultur- og likestillingsdepartementet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Klageadgang",
+      "path": [],
+      "text": "Vedtak kan påklages, jf. forvaltningsloven § 28 første ledd. Kultur- og likestillingsdepartementet er klageinstans for Lotteri- og stiftelsestilsynets vedtak etter forskriften.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Tilbakebetaling",
+      "path": [],
+      "text": "Dersom det kommer frem nye opplysninger om at utbetalt tilskudd ikke er gitt i samsvar med forutsetningene, kan departementet eller tilskuddsforvalter kreve hele eller deler av tilskuddet tilbakebetalt, stoppe videre utbetalinger eller trekke fra beløp i senere tildeling av tilskudd. Dersom det utbetales uberettiget eller feil tilskudd kan dette også helt eller delvis kreves tilbake.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. juli 2022.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

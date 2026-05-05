@@ -1,0 +1,72 @@
+{
+  "id": "FOR-2021-12-17-3772",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om erstatning for sterkt skadde eller bortkomne sedler og mynter",
+  "short_title": "Forskrift om erstatning for sterkt skadde eller bortkomne sedler og mynter",
+  "department": "Finansdepartementet",
+  "date_in_force": "2022-01-01",
+  "lovdata_refid": "forskrift/2021-12-17-3772",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-12-17-3772",
+  "raw_xml_sha256": "12d41645f7a7901a21bd78abc77799d2668ea201232cd0e6ebba9249080a66d2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder erstatning for sedler og mynter som etter forskrift om avgrensning av tvungne betalingsmidler er så sterkt skadd at de ikke lenger er tvungent betalingsmiddel, samt for sedler og mynter som er helt eller delvis tilintetgjort eller kommet bort for godt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Vilkår for erstatning",
+      "path": [],
+      "text": "Norges Bank kan erstatte sterkt skadde sedler og mynter med utgangspunkt i pålydende verdi dersom Norges Bank ikke finner at disse er falske, og det etter Norges Banks skjønn ikke er grunn til mistanke om at de har tilknytning til straffbare handlinger.\nErstatning ytes normalt ikke dersom sedlene eller myntene er skadet eller kommet bort ved grov uaktsomhet eller forsett fra besitteren. Erstatning ytes normalt heller ikke når uforholdsmessige store beløp har vært oppbevart på uforsvarlig måte.\nGrov uaktsomhet eller forsett anses blant annet å foreligge hvis det er grunn til å anta at skadene har oppstått i forbindelse med kommersiell avfallshåndtering eller annen bevisst manipulering.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Sedler som ikke er hele",
+      "path": [],
+      "text": "Dersom deler av sedler er avrevet eller klippet, kan disse erstattes uten søknad, etter følgende regler:Mer enn 55 % av seddelen i behold: erstattes med pålydende verdi50–55 % av seddelen i behold: erstattes med halv pålydende verdiUnder 50 % av seddelen i behold: erstattes ikke\nErstatning for en skadd seddel som består av flere deler ytes bare hvis delene påviselig stammer fra samme seddel.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Billighetserstatning",
+      "path": [],
+      "text": "Sedler og mynter som er helt eller delvis tilintetgjort eller kommet bort for godt kan erstattes hvis Norges Bank anser det godtgjort at sedlene og myntene har vært til stede og vilkårene ellers i § 2 er oppfylt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Søknad og behandling",
+      "path": [],
+      "text": "Skriftlig søknad om erstatning sendes Norges Bank på fastsatt skjema, som minst skal inneholde opplysninger om søkerens navn og adresse og årsaken til at sedlene og myntene er skadet, tilintetgjort eller kommet bort for godt, samt slike opplysninger Norges Bank ellers mener er nødvendig for behandling av saken.\nMindre mengder skadde sedler og mynter (mindre enn 100 stk.) innleveres sammen med søknaden. Større mengder skadde sedler og mynter leveres etter nærmere avtale om sortering og pakking. Innleveringer som ikke oppfyller disse kravene vil bli avvist.\nBanker kan innlevere skadde sedler og mynter etter vilkår for bankenes innskudd og uttak av kontanter i Norges Bank.\nVed behandling av spesielt ressurskrevende saker kan Norges Bank kreve et gebyr som dekker faktiske kostnader. Gebyret kommer til fratrekk i erstatningen.\nNorges Bank kan fastsette nærmere saksbehandlingsregler og gebyr etter denne bestemmelsen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Innleverte sedler og mynter",
+      "path": [],
+      "text": "Innleverte sedler og mynter beholdes og destrueres når saken er ferdig behandlet.\nSedler og mynter som kreves utlevert etter avslag skal hentes av søkeren innen den fristen som Norges Bank fastsetter.\nVed avslag destrueres sedlene etter hentefristens utløp.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2022.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

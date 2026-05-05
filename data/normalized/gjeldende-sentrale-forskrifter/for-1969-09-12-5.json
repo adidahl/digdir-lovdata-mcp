@@ -1,0 +1,45 @@
+{
+  "id": "FOR-1969-09-12-5",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om forkynnelse av utenlandske dokumenter i Norge",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1969-10-01",
+  "last_change_in_force": "2023-01-01",
+  "last_changed_by": "forskrift/2022-12-16-2277 fra 2023-01-01",
+  "lovdata_refid": "forskrift/1969-09-12-5",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1969-09-12-5",
+  "raw_xml_sha256": "c386c388715981cd17ba7fcaacd899c505db8dfa6d5a116c89a84d43eb5b864d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Anmodninger om forkynnelse av utenlandske dokumenter i Norge skal bare etterkommes når det dokument som skal forkynnes, er skrevet på norsk, dansk eller svensk, eller når det med anmodningen følger en oversettelse av dokumentet til et av disse språk. I den utstrekning det følger av overenskomst med fremmed stat kan anmodninger om forkynnelse også etterkommes når de viktige deler av dokumentet er oversatt til et av de språk som er nevnt i første ledd, eller til et annet språk som mottakeren forstår. Oversettelse av dokumentet er dog ikke nødvendig når dokumentet bare skal overleveres til adressaten under forutsetning av at han frivillig tar mot det. Kompetent myndighet kan også i andre tilfelle når det finnes ubetenkelig tillate at forkynnelse skjer uten at oversettelse foreligger.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 1a",
+      "path": [],
+      "text": "I den utstrekning det følger av overenskomst med fremmed stat kan utenlandske dokumenter som skal forkynnes for personer i Norge fremsendes til kompetent myndighet eller til den som skal utføre forkynnelsen, ved bruk av elektroniske kommunikasjonsmidler. Før dokumentet forkynnes foretas rimelige undersøkelser for å sikre at det er fremsendt av kompetent myndighet i den anmodende stat, samt at det mottatte dokumentet tilsvarer det fremsendte dokument. Dersom det er nødvendig kan den myndighet som har saken til behandling be kompetent myndighet om bistand til å få bekreftet anmodningens ekthet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "I forskrifter av 24. juni 1927 om stevnevitners og polititjenestemenns utførelse av forkynnelser skal § 8 nytt annet ledd lyde:\nDersom en utenlandsk domstol eller annen myndighet har anmodet om at forkynnelsen foretas på en særskilt måte, skal anmodningen så vidt mulig etterkommes, såfremt det ikke er forbudt etter norsk rett.\nNåværende § 8 annet ledd blir tredje ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft 1. oktober 1969.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

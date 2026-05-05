@@ -1,0 +1,29 @@
+{
+  "id": "FOR-2023-12-21-2260",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler i forbindelse med ikrafttredelse av endring av folketrygdloven § 4-9 fra 1. januar 2024",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2024-01-01",
+  "lovdata_refid": "forskrift/2023-12-21-2260",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-12-21-2260",
+  "raw_xml_sha256": "a5f37fccfd8b085504c9e88836ecdd2eefd332d140ed0bebffb61b4c34c167c8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Endringene i folketrygdloven § 4-9 gjelder for vedtak om dagpenger som er innvilget med virkning fra og med 1. januar 2024.\nI vedtak om dagpenger som er innvilget med virkning før 1. januar 2024, avvikles ventetid etter folketrygdloven § 4-9 slik bestemmelsen lød til og med 31. desember 2023.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2024.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

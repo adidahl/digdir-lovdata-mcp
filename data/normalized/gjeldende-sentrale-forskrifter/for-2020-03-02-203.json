@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2020-03-02-203",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilgang til nødvendige opplysninger i forbindelse med smitteoppsporing",
+  "short_title": "Forskrift om tilgang til nødvendige opplysninger i forbindelse med smitteoppsporing",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2020-03-02",
+  "lovdata_refid": "forskrift/2020-03-02-203",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-03-02-203",
+  "raw_xml_sha256": "b4b157fc7a83abd362775a936cdd2b37b588895d1d5b387cdcf44cb644fe7ea3",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Tilgang til nødvendige opplysninger fra transportselskap",
+      "path": [],
+      "text": "Folkehelseinstituttet kan uten hinder av taushetsplikt kreve nødvendige kontaktopplysninger og seteplassering tilhørende passasjerer og ansatte fra transportselskap i forbindelse med smitteoppsporing.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "id": "FOR-2025-09-25-1997",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innkjøpsordning for funksjonell internettilgang",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "Departementet bestemmer",
+  "lovdata_refid": "forskrift/2025-09-25-1997",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-09-25-1997",
+  "raw_xml_sha256": "5c0e0b7215e74a72e1013e3fc10538b4de670bcba609beae9197bc42394f776e",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriftens formål er å sikre at alle husstander og små og mellomstore foretak som ikke har tilbud om funksjonell internettilgang kan få støtte til etablering av tilgang til slik tjeneste.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Geografisk virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for norsk landterritorium, med unntak for Svalbard, Jan Mayen, bilandene og Antarktis.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I forskriften menes med:Funksjonell internettilgang: bredbåndstilbud med mulighet til tilkobling til internett som gir sluttbruker minimum 30 Mbit/s nedlastingshastighet og 5 Mbit/s opplastingshastighet og som oppfyller minimumskrav til bruksområder som følger av § 9.Søker: privatpersoner og små og mellomstore foretak som ikke har et tilbud om funksjonell internettilgang.Små og mellomstore foretak: foretak med under 100 ansatte.Sesongbasert næringsvirksomhet: næringsvirksomhet som er stedbunden og har en nødvendig tilknytning til den aktuelle adressen, er knyttet til årstider, drives kun deler av året, men minst tre måneder, og har en årlig omsetning på minst 1 million kroner fra virksomheten som drives på stedet.Fast tilholdssted: privatpersoners folkeregistrerte adresse eller små og mellomstore foretaks faste driftssted for helårlig eller sesongbasert næringsvirksomhet.Leverandør: tilbyder av offentlig elektronisk kommunikasjonstjeneste som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang.Støtte: Med støtte menes at Nasjonal kommunikasjonsmyndighet inngår avtale med tilbyder om etablering av funksjonell internettilgang til en søker.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Hva det kan gis støtte til",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Det kan gis støtte til å etablere funksjonell internettilgang til søkers faste tilholdssted, når søker mangler tilbud om slik tjeneste.\nTilgangen som etableres gjennom støtten, må oppfylle kravene til funksjonell internettilgang og innebære minimum tre ganger så høy nedlastningshastighet som det eksisterende tilbudet søker har.\nStøtten skal dekke nødvendige engangskostnader til utstyr og nett som etablerer funksjonell internettilgang. Støtten skal ikke dekke løpende kostnader som abonnementskostnader eller kostnader til brukerutstyr som PC eller nettbrett.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Hvem som kan få støtte",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Privatpersoner og små og mellomstore foretak kan motta støtte dersom de oppfyller vilkårene i forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Rammer for tildeling av støtte",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet kan innvilge støtte i den utstrekning det finnes tilgjengelige midler.\nNasjonal kommunikasjonsmyndighet skal behandle søknader etter hvert som de kommer inn.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Støttebeløp",
+      "path": [
+        "Kapittel 2. Generelle bestemmelser"
+      ],
+      "text": "Støtte til søker om etablering av funksjonell internettilgang kan gis om den beregnede kostnaden for etablering av tilgang utgjør mer enn kr 5 000. Støtten som kan gis er oppad begrenset til kr 400 000.\nSøker må betale en egenandel for funksjonell internettilgang på kr 5 000.\nDersom det etter utlysning viser seg at den offentlige støtteandelen av kostnaden for etablering av funksjonell internettilgang overstiger det øvre taket for støtte etter første ledd, vil støtte ikke innvilges med mindre søker selv dekker det overskytende.\nI tilfeller der Nasjonal kommunikasjonsmyndighet finner det hensiktsmessig, kan to eller flere søknader slås sammen. Støttebeløpene kan i slike tilfeller også slås sammen. I slike tilfeller skal hver søker betale en egenandel på kr 5 000.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "EØS-regelverket om statsstøtte",
+      "path": [
+        "Kapittel 2. Generelle bestemmelser"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet kan stille ytterligere krav til tjenesten som skal etableres dersom det er nødvendig for å oppfylle kravene i statsstøtteregelverket, herunder krav til tredjepartstilgang.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Krav til bruksområder og stabilitet i tjenesten",
+      "path": [
+        "Kapittel 3. Krav til tjenesten"
+      ],
+      "text": "Søker skal som et minimum kunne benytte funksjonell internettilgang til:e-post,søkemotorer for å finne frem til informasjon,grunnleggende nettbaserte verktøy for opplæring og videreutdanning,aviser og nyheter på nett,kjøp eller bestilling av varer og tjenester på nett,jobbsøking og verktøy for jobbsøking,ervervsmessig nettverksbygging,digitale banktjenester,offentlige digitale tjenester,sosiale medier og direktemeldinger, oggjennomføre tale- og videosamtaler med standard kvalitet.\nTilbudet som etableres gjennom ordningen, skal gi stabil tilgang med minst 30 Mbit/s nedlastningshastighet og 5 Mbit/s opplastingshastighet for sluttbruker i travel time.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Krav til fastpris for databruk",
+      "path": [
+        "Kapittel 3. Krav til tjenesten"
+      ],
+      "text": "Funksjonell internettilgang som etableres gjennom ordningen skal tilbys sluttbruker til en fastpris som er uavhengig (eller tilnærmet uavhengig) av bruken.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Krav til abonnementspris",
+      "path": [
+        "Kapittel 3. Krav til tjenesten"
+      ],
+      "text": "Tjenesten som etableres gjennom ordningen skal gi sluttbruker tilbud om en abonnementspris som ikke er høyere enn abonnementspris for kommersielle tilbud i markedet av tilsvarende tjeneste.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Leverandørens plikter",
+      "path": [
+        "Kapittel 4. Leverandøren"
+      ],
+      "text": "Leverandører som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang etter en anskaffelsesprosess etter § 15 tredje ledd skalopprettholde tilbudet til sluttbruker i minimum to år med opsjon for sluttbruker på forlengelse i inntil fem år,tilby funksjonell internettilgang i samsvar med §§ 9 til 11.rette feil på tjenesten uten ugrunnet opphold etter at sluttbruker har meldt fra til leverandøren eller leverandøren selv har oppdaget feilen.som et minimum tilby betjent kundeservice på norsk, tilgjengelig per telefon i tidsrommet 0800–1600 på hverdager.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Leverandørens rettigheter",
+      "path": [
+        "Kapittel 4. Leverandøren"
+      ],
+      "text": "Leverandøren som inngår avtale med Nasjonal kommunikasjonsmyndighet om leveranse av funksjonell internettilgang etter en anskaffelsesprosess etter § 15 tredje ledd, vil ha eiendomsrett til nett og utstyr som er anlagt og installert gjennom støtte etter forskriften, frem til bygningens tilkoblingspunkt, med mindre annet er avtalt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Krav til søknad og dokumentasjon",
+      "path": [
+        "Kapittel 5. Krav til søknaden, saksbehandlingsregler, kontroll m.m."
+      ],
+      "text": "Søknad om støtte skal være skriftlig og sendes til Nasjonal kommunikasjonsmyndighet.\nSøknaden skal blant annet inneholde informasjon om:søkers navn og adresse,søkers personnummer eller organisasjonsnummer,søkers kontaktinformasjon,elforsyning til bygningen søknaden angår,beskrivelse av bygningens beliggenhet i forhold til nærmeste vei for biltrafikk,beskrivelse av siktforhold og omgivelsene rundt bygningen som kan ha betydning for mobildekning eller fremføring av kabler, ogopplysninger om eventuell tidligere kontakt mellom søker og leverandører om mulig etablering av bredbåndstilgang, herunder tilgang til satellittbredbånd.\nDokumentasjon på at vilkåret etter § 4 første ledd om fast tilholdssted er oppfylt, skal vedlegges søknaden.\nNasjonal kommunikasjonsmyndighet kan fastsette nærmere regler om søknadsformat, søknadsfrister og lignende.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Søknadsprosess",
+      "path": [
+        "Kapittel 5. Krav til søknaden, saksbehandlingsregler, kontroll m.m."
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet vurderer om søker oppfyller vilkår for støtte.\nVed vurderingen av om søker mangler et tilbud om funksjonell internettilgang, jf. § 4 første ledd, skal Nasjonal kommunikasjonsmyndighet også vektlegge om det er sannsynlig at søkeren innen rimelig tid etter søknadstidspunktet vil få tilbud om funksjonell internettilgang, i tråd med kravene i statsstøttereglene.\nDersom søker oppfyller vilkårene for støtte, vil Nasjonal kommunikasjonsmyndighet innvilge søknaden og igangsette en anskaffelsesprosedyre i samsvar med anskaffelsesloven, forutsatt at det finnes tilgjengelige midler.\nNasjonal kommunikasjonsmyndighet skal avslå søknaden dersom det ikke finnes tilgjengelige midler.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Klage",
+      "path": [
+        "Kapittel 5. Krav til søknaden, saksbehandlingsregler, kontroll m.m."
+      ],
+      "text": "Digitaliserings- og forvaltningsdepartementet er klageinstans for vedtak om støtte fattet i medhold av denne forskrift, jf. forvaltningsloven § 28.\nKlager fremsettes overfor Nasjonal kommunikasjonsmyndighet, jf. forvaltningsloven § 32.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 5. Krav til søknaden, saksbehandlingsregler, kontroll m.m."
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet fører kontroll med at leverandører som mottar støtte, oppfyller vilkårene etter forskriften.\nDet kan gjennomføres etterhåndskontroll av leverandørene som mottar støtte.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 18",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 5. Krav til søknaden, saksbehandlingsregler, kontroll m.m."
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet skal rapportere årlig til Digitaliserings- og forvaltningsdepartementet om hvilke tiltak som er gjennomført i medhold av forskriften.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 19",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften gjelder fra den tid departementet bestemmer.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    }
+  ]
+}

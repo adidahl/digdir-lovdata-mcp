@@ -1,0 +1,122 @@
+{
+  "id": "FOR-2011-10-28-1053",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om sikkerhetsforvaltning av veginfrastrukturen (vegsikkerhetsforskriften)",
+  "short_title": "Vegsikkerhetsforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2011-10-28",
+  "last_change_in_force": "2022-02-08",
+  "last_changed_by": "forskrift/2022-02-08-198",
+  "lovdata_refid": "forskrift/2011-10-28-1053",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-10-28-1053",
+  "raw_xml_sha256": "fb1870d01248ddbc95fe4667111c2a04a62086f93361654e6c919541ae784901",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og virkeområde",
+      "path": [],
+      "text": "Formålet med forskriften er å bedre sikkerheten i veginfrastrukturen ved å sette krav til sikkerhetsforvaltningen av denne.\nForskriften gjelder for veger i det transeuropeiske vegnettet i Norge (TEN-T-vegnettet), motorveger, hovedveger og øvrige riksveger. Forskriften gjelder for disse vegene i planfasen, prosjekteringsfasen, anleggsfasen og i drift.\nForskriften gjelder ikke for vegtunneler som omfattes av forskrift 15. mai 2007 nr. 517 om minimum sikkerhetskrav til visse vegtunneler (tunnelsikkerhetsforskriften) og forskrift 10. desember 2014 nr. 1566 om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.).\nVegmyndigheten og et statlig utbyggingsselskap for veg kan ellers unnta hovedveger som har lav sikkerhetsrisiko fra krav i forskriften. I en slik beslutning, skal det i vurderingen av sikkerhetsrisiko legges vekt på trafikkmengde og ulykkesstatistikk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften forstås med:TEN-T-vegnettet: vegnettet som er definert i Europaparlaments- og rådsforordning (EU) nr. 1315/2013 av 11. desember 2013 om unionsretningslinjer for utviklingen av et transeuropeisk transportnett og om oppheving av beslutning nr. 661/2010/EU.motorveg: en veg som er særlig konstruert og bygd for motorkjøretøyer, og som er uten påkjøring fra tilgrensende eiendommer, har separate kjørefelt atskilt med midtdeler/midttrekkverk, har planskilte kryssinger og er særskilt betegnet som motorveg.motortrafikkveg: veg som ikke tilfredsstiller vegnormalenes krav til motorvegstandard, men som ikke har direkte tilknytning til eiendommene langs vegen. Motortrafikkveg er forbeholdt motorkjøretøy, nærmere spesifisert i trafikkreglene og er angitt med skilt nr. 503 Motortrafikkveg.hovedveg: motortrafikkveg utenfor tettbygd strøk, som forbinder større byer og regioner.vegprosjekt: et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning eller en vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen.Med «et veginfrastrukturprosjekt som omfatter anlegg av ny vegstrekning» menes bygging av veg som i hovedsak legges i helt ny trase. Dette vil normalt være prosjekter der det er krav om konsekvensutredning (KU) enten i forbindelse med kommunedelplan eller reguleringsplan. Også prosjekt med fritak for KU kan omfattes av definisjonen dersom prosjektet medfører endring i trafikkstrømmer.Med «vesentlig endring av det eksisterende vegnettet som påvirker trafikkstrømmen» menes utbedring av eksisterende veg (breddeutvidelse, kurveutretting, mindre omlegginger, o.l.) eller oppgradering av veg, som i hovedsak følger eksisterende vegtrase, til høyere vegstandard. Samtidig må endringen være av en slik karakter at den påvirker trafikkstrømmen.Med «påvirker trafikkstrømmen» menes større omfordeling av trafikk mellom ulike veger i området som følge av vegprosjektet, større endring i fartsnivå og/eller større endring i trafikksammensetning (kjøretøygrupper, trafikantgrupper og lokal-/fjerntrafikk).Vurderingen om hvorvidt et vegprosjekt omfattes av vegsikkerhetsforskriften, skal godkjennes av prosjekteier eller person med tilsvarende funksjon.trafikksikkerhetsmessig konsekvensanalyse: en strategisk sammenlignende analyse av de virkninger en ny veg eller en vesentlig endring av det eksisterende vegnettet vil få for vegnettets sikkerhetsnivå,trafikksikkerhetsrevisjon: en uavhengig, detaljert, systematisk og teknisk sikkerhetskontroll av et vegprosjekts utformingsmessige egenskaper, som omfatter alle faser fra prosjektering til innledende bruk.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Trafikksikkerhetsmessig konsekvensanalyse av vegprosjekter",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres en trafikksikkerhetsmessig konsekvensanalyse av alle vegprosjekter som de har ansvar for. For riksveger som ikke er på TEN-T, motorveg eller hovedveg, kan vegmyndigheten og et statlig utbyggingsselskap for veg bestemme om trafikksikkerhetsmessig konsekvensanalyse skal unnlates for vegprosjekter som ikke er konsekvensutredningspliktig etter plan- og bygningsloven.\nEn trafikksikkerhetsmessig konsekvensanalyse er en strategisk sammenlignende analyse av de virkninger et vegprosjekt vil få for vegnettets sikkerhetsnivå. Den trafikksikkerhetsmessige konsekvensanalysen skal gjennomføres i den innledende planfasen før vegprosjektet er vedtatt. Ved gjennomføringen av analysen skal det bestrebes å oppfylle de veiledende elementene i vedlegg I.\nDen trafikksikkerhetsmessige konsekvensanalysen skal angi de trafikksikkerhetsmessige vurderingene som har bidratt til valget av den foreslåtte løsningen.\nDen trafikksikkerhetsmessige konsekvensanalysen skal inneholde alle relevante opplysninger som er nødvendige for å foreta en nytte- og kostnadsanalyse av de ulike alternativene som er analysert.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Trafikksikkerhetsrevisjoner av vegprosjekter",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres trafikksikkerhetsrevisjoner i forbindelse med gjennomføring av alle vegprosjekter. For riksveger som ikke er på TEN-T, motorveg eller hovedveg, kan vegmyndigheten og et statlig utbyggingsselskap for veg bestemme om trafikksikkerhetsrevisjon skal unnlates for alle eller enkelte faser.\nEn trafikksikkerhetsrevisjon er en uavhengig, detaljert, systematisk og teknisk sikkerhetskontroll av et vegprosjekts utforming, som omfatter alle faser fra prosjektering til innledende bruk.\nVed gjennomføringen av revisjonen skal det bestrebes å oppfylle de veiledende elementene i vedlegg II.\nTrafikksikkerhetsrevisjoner skal utgjøre en integrert del av utformingen av vegprosjektet under utarbeidelse av reguleringsplan, under detaljprosjekteringen, i fasen umiddelbart før vegen tas i bruk, samt i den innledende bruksfasen.\nVegmyndigheten og et statlig utbyggingsselskap for veg skal utnevne en revisor til å gjennomføre trafikksikkerhetsrevisjonen. Revisoren skal være godkjent i samsvar med bestemmelsene i § 8. Dersom revisjonen gjennomføres av en gruppe, skal minst ett medlem av gruppen være en godkjent revisor.\nRevisoren skal angi de elementene i utformingen som er avgjørende for sikkerheten i en revisjonsrapport for hver fase av vegprosjektet. Dersom det avdekkes farlige forhold under revisjonen, men utformingen ikke utbedres, skal revisoren angi årsakene til dette i et vedlegg til revisjonsrapporten.\nPå bakgrunn av revisjonsrapporten nevnt i sjette ledd, skal revisoren gi egnede anbefalinger fra et sikkerhetssynspunkt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Evaluering av sikkerhetsnivå på vegnettet",
+      "path": [],
+      "text": "Statens vegvesen og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres vegnettsevaluering av sikkerhetsnivået for det samlede vegnettet som er i drift.\nVegnettsevalueringen skal vurdere ulykkes- og skaderisiko basert på en visuell inspeksjon av vegens utforming. Inspeksjonen kan gjennomføres fysisk på vegen eller ved bruk av elektroniske verktøy. I tillegg skal det gjøres en særskilt analyse av strekninger som har vært i drift i mer enn tre år, og der det har forekommet et stort antall alvorlige ulykker sett i forhold til trafikkmengden.\nDen første vegnettsevalueringen skal være gjennomført senest innen 2024. Etterfølgende evalueringer skal gjennomføres tilstrekkelig ofte til å sikre et tilfredsstillende sikkerhetsnivå, og uansett minst hvert femte år.\nVed gjennomføring av vegnettsevalueringen kan det tas hensyn til de veiledende elementene som er angitt i vedlegg III.\nPå bakgrunn av resultatene fra vegnettsevalueringen, skal Statens vegvesen og et statlig utbyggingsselskap for veg klassifisere alle strekningene på det samlede vegnettet i én av minst tre kategorier som gir uttrykk for strekningens sikkerhetsnivå.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5a",
+      "heading": "Oppfølging av vegnettsevalueringer",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal følge opp resultatene fra vegnettsevalueringer gjennomført iht. § 5 gjennom målrettede sikkerhetsinspeksjoner eller ved gjennomføring av direkte utbedringstiltak.\nMålrettede sikkerhetsinspeksjoner etter første ledd skal utføres av en ekspertgruppe med minst ett medlem som oppfyller kravene fastsatt i § 8. Det kan tas hensyn til de veiledende elementene som er angitt i vedlegg IV.\nVegmyndigheten og et statlig utbyggingsselskap for veg skal følge opp resultatene fra en målrettet sikkerhetsinspeksjon med en begrunnet beslutning om hvorvidt det er behov for avbøtende tiltak. I beslutningsgrunnlaget skal vegstrekninger med behov for forbedring av sikkerheten identifiseres, med fastsatte prioriterte tiltak for økt sikkerhet på enkeltstrekningene.\nVegmyndigheten og et statlig utbyggingsselskap for veg skal hovedsakelig rette avbøtende tiltak mot vegstrekninger med et lavt sikkerhetsnivå, der det er mulig å gjennomføre tiltak med et stort potensial for å forbedre sikkerheten og redusere ulykkeskostnadene. De skal utarbeide og jevnlig oppdatere en risikobasert prioritert handlingsplan for å gjennomføre tiltakene.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Periodiske sikkerhetsinspeksjoner",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal sørge for at det gjennomføres periodiske sikkerhetsinspeksjoner på vegene som er i drift som de har ansvaret for. En periodisk sikkerhetsinspeksjon er en ordinær periodisk kontroll og gjennomgang av forhold og mangler som av sikkerhetsårsaker krever at det utføres vedlikehold eller lignende tiltak. Inspeksjonene skal gjennomføres tilstrekkelig ofte til å sikre at veginfrastrukturen har et tilfredsstillende sikkerhetsnivå.\nVegmyndigheten og et statlig utbyggingsselskap for veg skal gjennomføre periodiske sikkerhetsinspeksjoner av overgangssoner til tunneler omfattet av forskrift 15. mai 2007 nr. 517 om minimum sikkerhetskrav til visse vegtunneler (tunnelsikkerhetsforskriften) og forskrift 10. desember 2014 nr. 1566 om minimum sikkerhetskrav til visse tunneler på fylkesvegnettet og kommunalt vegnett i Oslo (tunnelsikkerhetsforskrift for fylkesveg m.m.). Inspeksjonene skal gjennomføres av personell som både har kompetanse innen trafikksikkerhet og tunnelsikkerhet. Inspeksjonene skal gjennomføres tilstrekkelig ofte til å sikre et tilstrekkelig sikkerhetsnivå, og minst hvert sjette år.\nStatens vegvesen skal fastsette ordninger for midlertidige sikkerhetstiltak i forbindelse med vegarbeider. Statens vegvesen skal etablere en ordning for inspeksjoner av sikkerhetstiltak i forbindelse med midlertidige vegarbeider.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 6a",
+      "heading": "Beskyttelse av sårbare trafikanter",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal sikre at hensynet til sårbare trafikanter blir tatt i betraktning når det gjennomføres trafikksikkerhetsmessige konsekvensanalyser av vegprosjekter som de har ansvar for og som er i bruk, trafikksikkerhetsrevisjoner, vegnettsevalueringer og periodiske sikkerhetsinspeksjoner. Med sårbare trafikanter menes syklende og gående, og brukere av tohjuls motorvogner, herunder motorsyklister.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 6b",
+      "heading": "Vegoppmerking og skilting",
+      "path": [],
+      "text": "Vegmyndigheten og et statlig utbyggingsselskap for veg skal i nåværende og framtidig planlegging, utforming og vedlikehold av vegoppmerking og skilting spesifikt ta hensyn til lesbarhet og identifiserbarhet for førere og automatiserte førerstøttesystemer.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 7",
+      "heading": "Behandling av data",
+      "path": [],
+      "text": "Statens vegvesen og et statlig utbyggingsselskap for veg utarbeider ulykkesrapport for hver dødsulykke som inntreffer på vegnett som de har ansvaret for i tråd med vedtatte retningslinjer.\nSamferdselsdepartementet skal sørge for at det beregnes gjennomsnittlige sosiale kostnader ved en dødsulykke og den gjennomsnittlige sosiale kostnaden ved en alvorlig ulykke. Kostnadssatsene kan spesifiseres ytterligere, og satsene skal ajourføres minst hvert femte år.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 8",
+      "heading": "Opplæring og godkjenning av revisorer",
+      "path": [],
+      "text": "Statens vegvesen skal sørge for at det utarbeides utdanningsplaner for trafikksikkerhetsrevisorer som utfører oppgaver i henhold til denne forskriften. Utdanningsplanen skal ha informasjon om hvordan sårbare trafikanter ivaretas i infrastruktur som benyttes av denne trafikantgruppen.\nTrafikksikkerhetsrevisorer skal ha en grunnopplæring som bekreftes med tildeling av et kompetansebevis, og regelmessig delta i videreopplæring.\nTrafikksikkerhetsrevisorer skal ha relevant erfaring eller utdannelse i vegutforming, tekniske trafikksikkerhetsløsninger og ulykkesanalyse. Statens vegvesen godkjenner revisorene.\nRevisorene skal ikke på revisjonstidspunktet være involvert i utformingen eller driften av vegprosjektet de er satt til å revidere.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 9",
+      "heading": "Hjemmel for retningslinjer",
+      "path": [],
+      "text": "Statens vegvesen kan gi retningslinjer for gjennomføringen av denne forskriften, herunder prosedyrer, metoder og faktorer som skal vektlegges.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

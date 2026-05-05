@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2017-08-09-1240",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av fisket med torsketrål og snurrevad – stenging av områder i fiskevernsonen ved Svalbard",
+  "short_title": "Forskrift om regulering av fisket med torsketrål og snurrevad – stenging av områder i fiskevernsonen ved Svalbard",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2017-08-09",
+  "lovdata_refid": "forskrift/2017-08-09-1240",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-08-09-1240",
+  "raw_xml_sha256": "fe464b882b94ea17d2d0792d67795d44dba725cf956867c746cfad11d0943338",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det er forbudt å fiske med torsketrål og snurrevad i et område nord for Bjørnøya, avgrenset av rette linjer mellom følgende posisjoner:Nord 74 grader 47,0 minutter. Øst 018 grader 10,0 minutter.Nord 75 grader 06,0 minutter. Øst 017 grader 51,0 minutter.Nord 75 grader 06,0 minutter. Øst 020 grader 36,0 minutter.Nord 74 grader 41,0 minutter. Øst 020 grader 13,7 minutter.herfra langs 20 milsonen rundt Bjørnøya tilbake til posisjon 1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

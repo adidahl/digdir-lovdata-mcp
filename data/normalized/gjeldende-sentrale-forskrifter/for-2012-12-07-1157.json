@@ -1,0 +1,768 @@
+{
+  "id": "FOR-2012-12-07-1157",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om sikkerhet og beredskap i kraftforsyningen (kraftberedskapsforskriften)",
+  "short_title": "Kraftberedskapsforskriften",
+  "department": "Energidepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2025-01-22",
+  "last_changed_by": "forskrift/2025-01-22-57",
+  "lovdata_refid": "forskrift/2012-12-07-1157",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-12-07-1157",
+  "raw_xml_sha256": "a2616b7605207e206c9e22d4ec8c128c9dc78fc059e7fab29006d1400357ee95",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Innenfor formålene i energiloven § 1-2, skal forskriften sikre at kraftforsyningen opprettholdes og at normal forsyning gjenopprettes på en effektiv og sikker måte i og etter ekstraordinære situasjoner for å redusere de samfunnsmessige konsekvensene.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder forebygging, håndtering og begrensning av virkningene av ekstraordinære situasjoner som kan skade eller hindre produksjon, omforming, overføring, omsetning og fordeling av elektrisk energi eller fjernvarme.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Hvem forskriften gjelder for",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for de virksomheter som er KBO-enheter etter § 2-1 annet ledd bokstav a eller som er blitt KBO-enheter etter § 2-1 annet ledd bokstav b. For KBO-enheter gjelder bestemmelsene rettet til KBO-enheter og virksomheter.\nBeredskapsmyndigheten kan ved enkeltvedtak bestemme at deler av forskriften skal gjelde for andre virksomheter som helt eller delvis eier eller driver anlegg, system eller annet som er eller kan bli av vesentlig betydning for produksjon, omforming, overføring, omsetning eller fordeling av elektrisk energi eller fjernvarme. For virksomheter som ikke er KBO-enheter, er det kun de bestemmelser som er rettet til virksomheter som kan gis anvendelse.\nBeredskapsmyndigheten kan ved enkeltvedtak bestemme at § 6-3 og § 6-4 skal gjelde for andre virksomheter enn de som er omfattet av første eller annet ledd.\nForskriften § 6-2 om taushetsplikt for kraftsensitiv informasjon gjelder for enhver.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Ansvar",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Leder for virksomhet som er omfattet av denne forskrift, har ansvar for at virksomheten er organisert og har funksjoner og ressurser slik at virksomheten er innrettet for å oppfylle kravene i energiloven kapittel 9, energilovforskriften § 3-5 bokstav c, § 5-3 bokstav c, og at bestemmelser gitt i eller i medhold av denne forskrift oppfylles.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Beredskapsplikt og beredskapsplan",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Virksomheter som er omfattet av denne forskrift, skal sørge for effektiv sikring og beredskap, og skal iverksette tiltak for å forebygge, håndtere og begrense virkningene av ekstraordinære situasjoner i samsvar med energiloven § 9-2 første ledd.\nVirksomheter som er omfattet av denne forskrift, skal ha en beredskapsplan for å håndtere og begrense virkningene av ekstraordinære situasjoner.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Kraftforsyningens beredskapsorganisasjon",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "Med KBO menes kraftforsyningens beredskapsorganisasjon. KBO består av KBO-enhetene, KDS og beredskapsmyndigheten, samt KSL når denne trer i kraft, jf. § 3-3.\nMed KBO-enhet menes:De virksomheter som eier eller driver anlegg, system eller annet og som i medhold av § 5-2 eller § 5-7 er klassifisert etter denne forskrift.Andre virksomheter beredskapsmyndigheten har vedtatt er KBO-enhet i medhold av § 3-1 annet ledd.\nMed KDS menes kraftforsyningens distriktssjefer.\nMed KSL menes kraftforsyningens sentrale ledelse. Kraftforsyningens sentrale ledelse består av beredskapsmyndigheten med deltakelse fra Statnett SF.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Organisasjon og funksjon",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal ha følgende funksjoner, som utpekes av leder for virksomheten:Beredskapsleder. Denne skal sørge for nødvendig planlegging og utøvelse av beredskapsarbeidet.Beredskapskoordinator. Denne skal ha oversikt over beredskapsarbeidet i virksomheten og være administrativt kontaktpunkt til beredskapsmyndigheten.IKT-sikkerhetskoordinator. Denne skal ha oversikt over IKT-sikkerhetsarbeidet i virksomheten og være faglig kontaktpunkt til beredskapsmyndigheten vedrørende IKT-sikkerhet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Risikovurdering",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal gjennomføre risikovurderinger knyttet til ekstraordinære forhold. Vurderingene skal ha et slikt omfang at KBO-enheten kan identifisere risiko og sårbarhet ved alle funksjoner, anlegg og tiltak av betydning for å oppfylle kravene i forskriften. Vurderingene skal minimum gjennomgås årlig og oppdateres ved behov.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Beredskapsplanlegging",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal ha et oppdatert beredskapsplanverk tilpasset virksomhetens art og omfang. Planverket skal bygge på risikovurderinger og skal omfatte alle beredskapstiltak etter denne forskriften.\nBeredskapsplanleggingen skal blant annet omfatte forberedelser og tiltak det kan bli nødvendig å iverksette ved store ulykker, vesentlige skader, trusselsituasjoner, rasjonering og andre ekstraordinære situasjoner som kan påvirke kraftforsyningens drift og sikkerhet. Beredskapsplanverket skal, innenfor rammene av kapittel 6 om informasjonssikkerhet, samordnes med berørte myndigheter og andre relevante virksomheter, deriblant andre KBO-enheter.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Varsling",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal uten ugrunnet opphold varsle beredskapsmyndigheten om ekstraordinære situasjoner. Situasjoner som angitt i § 2-6 bokstav a til h om rapportering, skal alltid varsles. Varselet skal kortfattet beskrive hendelsen, forventet gjenoppretting og kontaktperson.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal uten ugrunnet opphold og senest innen tre uker skriftlig innrapportere følgende uønskede hendelser til beredskapsmyndigheten:Forsøk på inntrengning og/eller manipulasjon av hele eller deler av driftskontrollsystemet og avanserte måle- og styringssystem (AMS).Innbrudd, hærverk, sabotasje eller andre kriminelle handlinger, eller forsøk på dette.Ved begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheter.Situasjoner hvor kraftsensitiv informasjon er blitt kjent for andre enn rettmessige brukere, eller mistanke om dette.Avbrudd i distribusjon av elektrisitet i mer enn to timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.Avbrudd i fjernvarmeforsyningen i mer enn 12 timer som berører viktige samfunnsfunksjoner eller et stort antall sluttbrukere.Større havarier i transmisjon- og regionalnettet.Omfattende feil og sikkerhetstruende hendelser i driftskontrollsystemer.\nBeredskapsmyndigheten kan kreve rapportering av andre tilfeller av uønskede hendelser enn de som er nevnt i første ledd.\nBeredskapsmyndigheten kan også pålegge virksomheter som eier eller driver anlegg eller system, som er eller kan bli av vesentlig betydning for produksjon, omforming, omsetning eller fordeling av elektrisk energi og fjernvarme, å rapportere uønskede hendelser i samsvar med annet ledd.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Øvelser",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal gjennomføre øvelser med slikt innhold og omfang at KBO-enheten vedlikeholder og utvikler sin kompetanse til å håndtere alle aktuelle ekstraordinære situasjoner. KBO-enheter skal ha en flerårig øvelsesplan og gjennomføre minimum én årlig øvelse.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Informasjonsberedskap",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal ha en informasjonsplan og en effektiv informasjonsberedskap i ekstraordinære situasjoner. Dette skal blant annet omfatte informasjon internt i KBO-enheten, til berørte myndigheter, samfunnskritiske virksomheter, andre relevante KBO-enheter, publikum og media, samt råd til kunder. Informasjonsplanen skal inngå som del av beredskapsplanverket, øves jevnlig og evalueres.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Evaluering",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal etter ekstraordinære situasjoner og øvelser gjennomføre en evaluering. Evalueringen skal brukes som grunnlag for at KBO-enhetens beredskapskompetanse utvikles, at risikovurderinger og beredskapsplaner oppdateres, og at det gjennomføres konkrete beredskapstiltak for anlegg, drift, gjenoppretting og øvrige tiltak som oppfyller kravene i denne forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 2-10",
+      "heading": "Internkontrollsystem",
+      "path": [
+        "Kapittel 2. Generelle krav for KBO-enheter"
+      ],
+      "text": "KBO-enheter skal ha et internkontrollsystem som dokumenterer at det er etablert en systematikk for å sikre etterlevelse av kravene i energiloven kapittel 9, energilovforskriften § 3-5 bokstav c, § 5-3 bokstav c og bestemmelser gitt i eller i medhold av denne forskrift.\nInternkontrollsystemet skal inneholde dokumentasjon for at alle tiltak etter kravene i første ledd er på plass og fungerer etter sin hensikt. Internkontrollsystemet skal holdes oppdatert og gjennomgås slik at det gjenspeiler faktisk tilstand.\nInternkontrollsystemet skal være tilrettelagt for gjennomføring av tilsyn i samsvar med de krav som er stilt.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Beredskapsmyndigheten",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "Beredskapsmyndigheten skal i samsvar med energiloven § 9-1 tredje ledd utpeke den samlede ledelse i KBO og samordne beredskapsarbeidet.\nBeredskapsmyndigheten kan ved enkeltvedtak bestemme at også andre virksomheter som eier eller driver anlegg, system eller annet som har vesentlig betydning for drift eller gjenoppretting av eller sikkerhet i produksjon, omforming, overføring, omsetning eller fordeling av elektrisk energi eller fjernvarme, skal være KBO-enheter.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Ansvar og oppgaver for KBO-enhetene",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "KBO-enhetene har ansvar for å utføre alle de oppgaver og plikter som følger av energiloven kapittel 9 og bestemmelser gitt eller i medhold av denne forskrift, herunder planlegging og håndtering av ekstraordinære situasjoner og gjenoppretting av normal situasjon.\nKBO-enheter skal sørge for nødvendig kontakt og samordning med tilgrensende virksomheter og aktuelle KDS.\nBeredskapsmyndigheten kan pålegge KBO-enheter eller KBO å utføre oppgaver i medhold av energiloven § 9-1 fjerde ledd.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Ansvar og oppgaver for KBO-enheter eller KBO under beredskap og krig",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "KBO-enheter eller KBO kan pålegges oppgaver under beredskap og i krig i samsvar med energiloven § 9-1 femte ledd og etter at beredskapsmyndigheten ved vedtak har konstatert at det anses nødvendig.\nDepartementet kan under beredskap og krig underlegge kraftforsyningen KBO. Kraftforsyningen plikter å følge de pålegg som gis og gjennomføre de tiltak som kreves. Beredskapsmyndigheten kan instruere KDS og KBO-enheter.\nI slike situasjoner overtar KSL ledelsen av KBO. Statnett SF skal i slike situasjoner være KSLs utøvende organ for regulering av produksjon, omforming, overføring, omsetning og fordeling av elektrisk energi.\nStatnett SF skal innrette sin organisasjon slik at virksomheten har regionale representanter med myndighet til å iverksette pålegg og gjennomføre de tiltak som kreves i en ekstraordinær situasjon, inkludert løpende kontakt med KDS.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Ansvar og oppgaver for KDS",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "Beredskapsmyndigheten skal beslutte inndeling av distrikter og utpeker KDS med stedfortredere.\nKDS skal bidra til å tilrettelegge for hensiktsmessig samarbeid om forebygging og håndtering av ekstraordinære situasjoner. Oppgaver for KDS kan reguleres gjennom avtaler mellom beredskapsmyndigheten og den person som er utpekt som KDS og i årlige forventningsbrev. Fullmakt til vedtak kan delegeres fra beredskapsmyndigheten til KDS.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Fritaksordninger",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "Etter søknad fra en KBO-enhet kan personell som er viktig for å opprettholde driften av kraftforsyningen i krig, få utsettelse eller fritak for fremmøte i Forsvaret ved mobilisering. Etter søknad fra en KBO-enhet kan slikt personell også få fritak for tjeneste i sivilforsvaret. Personell i KBO som er gitt utsettelse eller fritak for annen beredskapstjeneste får tjenesteplikt i KBO.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Sektorvist responsmiljø for IKT-sikkerhetshendelser",
+      "path": [
+        "Kapittel 3. Kraftforsyningens beredskapsorganisasjon (KBO)"
+      ],
+      "text": "Beredskapsmyndigheten er sektorvist responsmiljø for IKT-sikkerhetshendelser i kraftforsyningen.\nBeredskapsmyndigheten kan delegere oppgaver innenfor varsling, informasjonsdeling og analyse for IKT-sikkerhetshendelser i kraftforsyningen til en eller flere KBO-enheter.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Reparasjonsberedskap",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal planlegge for og etablere en organisasjon med nødvendig personell, kompetanse, utholdenhet og ressurser til å holde driften gående, gjenopprette funksjon og gjennomføre oppgaver som kreves under alle ekstraordinære situasjoner på en sikker og effektiv måte.\nReparasjonsberedskapen skal dimensjoneres etter stedlige forhold og anleggenes tilstand og klasse. Så langt som det er samfunnsmessig rasjonelt, skal hensynet til liv og helse og annen samfunnskritisk virksomhet prioriteres ved gjenoppretting av funksjon.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Kompetanse og personell",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal ha personell med nødvendig kompetanse som kreves for å kunne håndtere ekstraordinære situasjoner på en sikker og effektiv måte.\nKBO-enheter skal dekke dette personellbehovet og ha tilgang på personell for å forsterke kapasiteten og holde driften gående i ekstraordinære situasjoner.\nFor å dekke kravet til kompetanse og personell skal det foreligge en plan som angir kompetansebehovet, og som omfatter eget og innleid personell.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Drift i ekstraordinære situasjoner og gjenoppretting av funksjon",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal i ekstraordinære situasjoner drive de anlegg og den del av kraftforsyningen KBO-enheten har ansvaret for, herunder driftskontrollfunksjoner, og gjenopprette nødvendige funksjoner i og etter ekstraordinære situasjoner.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Materiell og utstyr",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal ha rask og sikker tilgang til reservemateriell og utstyr som trengs for å opprettholde kraftforsyningen i ekstraordinære situasjoner, og for å gjenopprette funksjon.\nMed reservemateriell menes materiell som kan erstatte komponenter som er nødvendige for drift av anlegg.\nMed utstyr menes verktøy, maskiner, reparasjonsmateriell, komponenter til driftskontrollsystemet og annet som er nødvendig for å foreta reparasjoner, gjenoppretting eller om nødvendig iverksette midlertidige tiltak.\nMateriell- og utstyrsbehovet kan dekkes ved at KBO-enheten enten har dette selv, eller sikrer tilgang fra andre. Materiell og utstyr skal holdes i forsvarlig stand og være tilgjengelig for KBO-enheten i ekstraordinære situasjoner.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Transport",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal ha en tilstrekkelig transportberedskap for å håndtere ekstraordinære situasjoner, og evne til rask gjenoppretting av funksjon. Dette omfatter tilgang til transportmidler med nødvendig utstyr og personer som kan håndtere disse.\nFor utstyr med transportvekt over 70 tonn, eller med store ytre dimensjoner, skal det utarbeides detaljerte transportplaner.\nKBO-enhetenes transportmidler og private transportmidler tilhørende kraftforsyningens personell som det er tjenstlig behov for, skal om mulig søkes fritatt for forberedt rekvirering til Forsvaret med videre",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Nasjonal tungtransportberedskap",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "Statnett SF skal ha en nasjonal tungtransportberedskap for å sikre at tunge komponenter av betydning for kraftforsyningen kan transporteres på kort varsel. Statnett SF skal vedlikeholde og oppgradere transportmidler med utstyr, samt anskaffe nye ressurser ved behov.\nStatnett SF kan benytte den virksomhet som er etablert for å ivareta ansvar for tungtransportberedskap etter første ledd, til å utføre virksomhet for andre på markedsmessige vilkår. Endringer i virksomheten skal forelegges beredskapsmyndigheten for godkjenning.\nDen nasjonale tungtransportberedskapen skal gjelde for ekstraordinære situasjoner, samt under beredskap og i krig.\nBeredskapsmyndigheten kan treffe vedtak om organisering, bruk og finansiering av nasjonal tungtransportberedskap.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Samband",
+      "path": [
+        "Kapittel 4. Ressurser og reparasjonsberedskap"
+      ],
+      "text": "KBO-enheter skal ha intern og ekstern sambandsberedskap for daglig drift, håndtering av ekstraordinære situasjoner og evne til rask gjenoppretting av nødvendige funksjoner for ledelse, drift og sikkerhet.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Sikringsplikt",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Virksomheter plikter å sikre anlegg, system eller annet som er eller kan bli av vesentlig betydning for virksomhetens ledelse, drift eller gjenoppretting i ekstraordinære situasjoner mot uønskede hendelser og handlinger, herunder adgang for uvedkommende. Med anlegg menes her også bygg og andre ressurser omfattet av kapittel 4.\nDet er den enkelte virksomhets ansvar å planlegge, gjennomføre og vedlikeholde sikringstiltak etter anleggets eller systemets type, oppbygging og funksjon.\nAlle anlegg m.m. som nevnt i første ledd skal holdes i funksjonsdyktig stand og skal så langt som mulig virke etter sin hensikt under ekstraordinære forhold.\nDet skal særlig tas hensyn til ekstraordinære forhold som:uvær og annen naturgitt skadebrann og eksplosjoneralvorlig teknisk sviktinnbrudd, hærverk, sabotasje og andre kriminelle handlinger.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Klasser",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Ved klassifisering av anlegg, system eller annet som har vesentlig betydning for drift eller gjenoppretting av eller sikkerhet i produksjon, omforming, overføring eller fordeling av elektrisk energi eller fjernvarme benyttes klasse 1 til 3. Klasse 3 benyttes der betydningen for kraftforsyningen er størst.\nKoblingsanlegg, kraftledning, muffeanlegg, lokalkontrollanlegg og annet som funksjonelt er en del av en kraft-, transformator- eller omformerstasjon klassifiseres etter vedkommende stasjons klasse.\nVindkraftanlegg klassifiseres ikke som kraftstasjon.\nDenne bestemmelse omfatter ikke anlegg for rene industriformål eller anlegg som eies av en virksomhet som selv er eneste sluttbruker av energien fra anlegget.\nDenne bestemmelse omfatter ikke midlertidige anlegg eller midlertidige løsninger som del av anlegg når det foreligger konkrete planer for utbygging eller oppgradering av spenningsnivå.\nI ytelseskriteriene i denne bestemmelse medregnes ikke mobile komponenter som reserveaggregat eller beredskapstransformatorer, midlertidige plasserte transformatorer, generatortransformatorer, eller transformatorer for regulering og spesielle formål (fasekompensering, spoler og lignende). For transformatorer med flere funksjoner (viklinger) regnes høyeste ytelse av transformering mellom nettnivåer.\nKlasse 1 omfatter:Kraftstasjon med samlet installert generatorytelse på minst 50 MVA.Transformatorstasjon med samlet hovedtransformatorytelse på minst 10 MVA.Omformerstasjon med samlet installert ytelse for omforming på minst 10 MVA.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 30 kV.Kraftledning bygget for et spenningsnivå på minst 5 kV.Fjernvarmesentral med samlet installert ytelse på minst 50 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 75 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b.Driftskontrollsystem som styrer eller overvåker anlegg som omfattet av bokstav a til g.\nKlasse 2 omfatter:Kraftstasjon med samlet installert generatorytelse på minst 100 MVA og kraftstasjoner på minst 100 MVA plassert i dagen.Transformatorstasjon med samlet hovedtransformatorytelse på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.Omformerstasjon med samlet installert ytelse for omforming på minst 50 MVA og høyeste spenningsnivå på minst 30 kV.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 100 kV.Kraftledning bygget for et spenningsnivå på minst 30 kV.Fjernvarmesentral med samlet installert ytelse på minst 150 MW. I ytelsen skal medregnes effekt i ekstern varmeleveranse.Transformatorstasjon til vindkraftanlegg med samlet installert ytelse på minst 500 MVA. Dersom transformatorstasjonen også transformerer til nettformål, klassifiseres den som transformatorstasjon etter bokstav b, men ikke lavere enn klasse 2.Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 50 000, eller flere anlegg omfattet av bokstav a til g.\nKlasse 3 omfatter:Kraftstasjon i fjell med samlet installert generatorytelse på minst 250 MVA.Transformatorstasjon med samlet hovedtransformatorytelse på mer enn 100 MVA og bygget for et høyeste spenningsnivå på minst 200 kV og transformering til sekundært spenningsnivå i nett på minst 30 kV.Selvstendig koblingsstasjon i kraftsystemet bygget for et spenningsnivå på minst 200 kV.Kraftledning bygget for et spenningsnivå på minst 200 kV.Driftskontrollsystem som styrer eller overvåker kraftforsyningen til befolkning på minst 250 000, eller flere anlegg omfattet av bokstav a til d.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Sikring av klassifiserte anlegg",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Alle klassifiserte anlegg skal prosjekteres, plasseres, utføres, utrustes, sikres, driftes og holdes i slik stand at risiko for skade, havari og funksjonssvikt og andre uønskede hendelser og handlinger blir minst mulig.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Sikringstiltak for klasse 1",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Anlegg klassifisert i klasse 1 skal, i tillegg til kravene til sikring etter § 5-1 og § 5-3, oppfylle følgende generelle krav til sikring:Anlegget skal utføres etter krav til normalt sikringsnivå, som nærmere angitt i vedlegg 1.Skader og funksjonstap skal oppdages innen rimelig tid.Skader skal utbedres og anleggets funksjoner skal gjenopprettes uten ugrunnet opphold.\nAnlegg klassifisert i klasse 1 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 1, jf. vedlegg 4.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Sikringstiltak for klasse 2",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Anlegg klassifisert i klasse 2 skal, i tillegg til kravene til sikring etter § 5-1 og § 5-3, oppfylle følgende generelle krav til sikring:Anlegget skal utføres og utstyres etter middels høye krav til sikring, som nærmere angitt i vedlegg 2.Tap av vitale funksjoner skal begrenses og etter eventuell skade skal anleggets funksjonalitet gjenopprettes uten ugrunnet opphold.\nAnlegg klassifisert i klasse 2 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 2, jf. vedlegg 4.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Sikringstiltak for klasse 3",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Anlegg klassifisert i klasse 3 skal, i tillegg til kravene til sikring etter § 5-1 og § 5-3, oppfylle følgende generelle krav til sikring:Anlegget skal utføres og utstyres etter høye krav til sikring, som nærmere angitt i vedlegg 3.Vitale funksjoner skal opprettholdes i ekstraordinære situasjoner og anleggets funksjonalitet skal gjenopprettes uten ugrunnet opphold.\nAnlegg klassifisert i klasse 3 skal også oppfylle særlige krav til sikring for sin klasse og anleggstype som fastsatt i vedlegg 3, jf. vedlegg 4.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Vedtak om sikring eller klasse",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Beredskapsmyndigheten kan treffe vedtak om andre eller ytterligere sikringstiltak i medhold av energiloven § 9-2 annet, jf. tredje ledd. Ved vedtak skal det tas hensyn til anleggets eller systemets betydning for kraftforsyningen.\nBeredskapsmyndigheten kan treffe vedtak om at anlegg, system eller annet skal klassifiseres i en annen klasse enn det som følger av § 5-2 dersom det anses nødvendig.\nBeredskapsmyndigheten kan treffe vedtak om at anlegg, system eller annet skal klassifiseres i en annen klasse enn det som følger av tidligere vedtak dersom det anses nødvendig.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 5-8",
+      "heading": "Vurdering",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Virksomheter som planlegger å bygge eller vesentlig endre eller utvide anlegg som er eller vil være klassifisert etter denne forskriften, skal på bakgrunn av anleggets klasse, foreta en risikovurdering og prosjektere, utføre og sikre anlegg og system som angitt i denne forskrift.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 5-9",
+      "heading": "Meldeplikt om sikringstiltak",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Virksomheter som planlegger å bygge, endre eller utvide anlegg, system eller annet, skal i god tid før arbeidets oppstart sende beredskapsmyndigheten skriftlig melding om hvilken klasse det vil bli utført etter, jf. § 5-2. Meldingen skal bekrefte at arbeidet vil skje i samsvar med kravene i § 5-4 til § 5-6.\nMelding skal gis på den måten beredskapsmyndigheten bestemmer. Meldingen skal være vedlagt den informasjon som beredskapsmyndigheten bestemmer.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 5-10",
+      "heading": "Vakthold",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Virksomheter som eier eller driver kraftforsyningsanlegg hvor politi eller forsvar planlegger bruk av sikringsstyrker skal samarbeide med disse om planlegging, tilrettelegging og gjennomføring av sikring.\nPlikten omfatter blant annet:Påvise anleggets vitale deler og beskaffenhet for øvrig.Anskaffe materiell for sikring av anlegget og gjennomføre øvrige tiltak for å hjelpe vaktstyrken.Tilrettelegge for øvelser på anleggets område.\nBeredskapsmyndigheten kan etter denne paragraf gi nærmere bestemmelser for objektsikring og gi bestemmelser for gjennomføring av øvelser i høyspenningsanlegg.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 5-11",
+      "heading": "Restriksjoner for adgang til steder og områder",
+      "path": [
+        "Kapittel 5. Klassifisering og sikringstiltak"
+      ],
+      "text": "Alle driftssentraler i klassifiserte driftskontrollsystemer, og alle anlegg klassifisert i klasse 3, skal ha restriksjoner for adgang. Beredskapsmyndigheten kan vedta at også anlegg i klasse 2 skal ha restriksjoner for adgang.\nVed anlegg underlagt restriksjoner for adgang skal:De besøkende følge en fast avgrenset rute.De besøkende til enhver tid være ledsaget av en erfaren og ansvarlig representant for anlegget.Fotografering være forbudt med mindre spesiell tillatelse er innhentet fra ansvarlig representant for anlegget.\nFor driftssentraler i driftskontrollsystemer i klasse 3 er det forbudt med besøkende og fotografering. Personer uten full bakgrunnssjekk etter § 6-7 skal ikke ha adgang til driftssentraler i klasse 3. Beredskapsmyndigheten kan vedta det samme for andre anlegg i klasse 3.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Identifisering av kraftsensitiv informasjon og rettmessige brukere",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "KBO-enheter skal etter energiloven § 9-3 første ledd identifisere hva som er kraftsensitiv informasjon, hvor denne befinner seg og hvem som har tilgang til den.\nIdentifiseringen av hva som er kraftsensitiv informasjon og hvor denne befinner seg, skal omfatte oppbevaring på papir, lagring i elektronisk form eller lagring på annen måte.\nMed rettmessig bruker menes fysiske eller juridiske personer som har tjenstlig behov for kraftsensitiv informasjon. Den enkelte KBO-enhet skal selv avgjøre hvem som har tjenstlig behov for kraftsensitiv informasjon innenfor sin virksomhet.\nDen enkelte KBO-enhet kan avgjøre om det er tjenstlig behov for å videreformidle kraftsensitiv informasjon til andre utenfor egen virksomhet. Den som har fått tilgang til kraftsensitiv informasjon av en KBO-enhet kan ikke videreformidle den kraftsensitive informasjonen til andre. Beredskapsmyndigheten kan i tvilstilfeller avgjøre hvem som er rettmessig bruker.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Kraftsensitiv informasjon",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Kraftsensitiv informasjon er underlagt taushetsplikt etter § 9-3 i energiloven.\nMed kraftsensitiv informasjon menes konkrete og detaljerte opplysninger om kraftforsyningen, herunder klassifiserte anlegg og system, som kan utnyttes til å skade kraftforsyningen eller svekke kraftforsyningens evne til å håndtere ekstraordinære situasjoner, som for eksempel:informasjon om systemer som ivaretar driftskontrollfunksjoner for klassifiserte anlegg.fremstilling av hele eller deler av kraftsystemet, herunder fremstillinger som viser eller beskriver enkeltkomponenter eller sammenkoblinger i klassifiserte anlegg.detaljert informasjon om klassifiserte transformator-, koblings-, og omformerstasjoner som anleggets klasse, informasjon om komponentene i stasjonen, beskrivelse av tiltak mot bevisst skadeverk og innvendige bygningstegninger. Dette inkluderer driftsmerking, antall, ytelse og omsetningsforhold på transformatorer, funksjon på bygg.oversikt over forsyning av kraft og fjernvarme til eiendommer, bygg og anlegg som understøtter viktige samfunnsfunksjoner.nøyaktig kartfesting av flere jordkabeltraseer samlet innenfor et større område. Nøyaktig kartfesting av fjernvarmerør, unntatt hovedrørnettet, tilknyttet varmesentraler i klasse 2.forebyggende sikkerhetstiltak mot bevisst skadeverk.lokalisering av reservedriftssentraler og andre beredskapsanlegg.informasjon som beskriver eller avdekker sårbarheter i kraftforsyningen eller klassifiserte anlegg.beredskapsplaner for å håndtere hendelser i kraftforsyningen.oversikt over reservemateriell, reserveløsninger eller reparasjonsberedskap.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Beskyttelse, avskjerming og tilgangskontroll",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Virksomheter som har eller behandler kraftsensitiv informasjon skal etablere, opprettholde og videreutvikle system og rutiner for effektiv avskjerming, beskyttelse og tilgangskontroll for kraftsensitiv informasjon. Beskyttelse skal omfatte tiltak mot avlytting og manipulering fra uvedkommende.\nSystem og rutiner skal omfatte merking, oppbevaring, bruk og distribusjon, tilintetgjøring og tiltak for intern og ekstern rapportering av hendelser av betydning for informasjonssikkerheten.\nSærskilte regler og sikkerhetstiltak skal utarbeides ved bruk av mobile enheter som kan motta, sende og lese kraftsensitiv informasjon.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Sikkerhetsinstruks",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Virksomheter som har eller behandler kraftsensitiv informasjon skal utarbeide og praktisere en sikkerhetsinstruks som sikrer at kravene til informasjonssikkerhet ivaretas. Sikkerhetsinstruksen skal beskrive hvilke system, rutiner og tiltak som er iverksatt for å etterleve kravene til informasjonssikkerhet, herunder krav til beskyttelse, avskjerming og tilgangskontroll.\nSikkerhetsinstruksen skal omfatte informasjon til ansatte og andre rettmessige brukere om taushetsplikten etter energilovens § 9-3 annet ledd og stille krav til undertegning av taushetserklæring. Sikkerhetsinstruksen skal også omfatte informasjon om at taushetsplikten medfører at kraftsensitiv informasjon ikke skal offentliggjøres.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Anskaffelser",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "KBO-enheter har ansvaret for at bestemmelsene om informasjonssikkerhet og taushetsplikt for kraftsensitiv informasjon ivaretas i anskaffelser. KBO-enheter skal i anskaffelser påse at leverandører er forpliktet til å etterleve bestemmelsene om informasjonssikkerhet og taushetsplikt for kraftsensitiv informasjon.\nDet skal i avtale sikres at KBO-enheter gis rett til å kontrollere, herunder revidere, leverandørens etterlevelse av disse bestemmelsene.\nPlikten til å påse innebærer at det skal iverksettes system og rutiner for å undersøke, og om nødvendig, følge opp at reglene om informasjonssikkerhet og taushetsplikt etterleves.\nBestemmelsene i første og annet ledd gjelder tilsvarende når KBO-enheter setter ut oppdrag for prosjektering, installering, vedlikehold og feilretting av driftskontrollsystemet.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Begrenset anbudsinnbydelse",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Anbudsinnbydelser og lignende skal begrenses når det er nødvendig for å hindre at sikkerhetsgradert eller kraftsensitiv informasjon blir offentlig tilgjengelig gjennom anbudsdokumentene.\nForståelsen av begrenset anbudsinnbydelse bygger på anskaffelsesregelverket.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "Personkontroll",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "KBO-enheter skal gjennomføre en bakgrunnssjekk av personer før ansettelse.\nKBO-enheter kan kreve at personer som skal få tilgang til anlegg, system eller annet i klasse 2 og 3 skal fremlegge kredittsjekk.\nKBO-enheter skal før de fremsetter krav etter annet ledd foreta en risikovurdering. Kredittsjekk skal ikke anvendes dersom det kan iverksettes andre egnede sikkerhetstiltak.\nBakgrunnssjekken etter første og annet ledd skal brukes som grunnlag for å vurdere en persons egnethet til å få tilgang til klassifiserte anlegg, system eller annet. Kredittsjekk skal slettes når egnethetsvurderingen er gjennomført.\nKrav om personkontroll etter første til fjerde ledd gjelder ikke personer som er sikkerhetsklarert og autorisert etter den til enhver tid gjeldende lov om nasjonal sikkerhet (sikkerhetsloven).\nBeredskapsmyndigheten kan etter søknad gi unntak fra kravene i første til fjerde ledd i denne bestemmelsen. Beredskapsmyndigheten kan ved vedtak fastsette krav om bakgrunnssjekk etter første til fjerde ledd for bestemte anlegg, system og annet.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 6-8",
+      "heading": "Sikkerhetskopier",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Virksomheter skal ha oppdaterte sikkerhetskopier av nødvendig informasjon, programvare og konfigurasjoner av driftskontrollsystemet som er av betydning for drift, sikkerhet og gjenoppretting av kraftforsyningen. Sikkerhetskopiene skal fjernlagres på et sikkert sted, som er lett tilgjengelig for virksomheten.\nNødvendig dokumentasjon om energisystemet og som lagres på datamedia, skal også foreligge som papirutskrifter. Disse skal oppdateres årlig og oppbevares på et sikkert sted som er lett tilgjengelig for virksomheten.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 6-9",
+      "heading": "Digitale informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Virksomheter skal sikre digitale informasjonssystemer slik at konfidensialitet, integritet og tilgjengelighet ivaretas.\nDet er den enkelte virksomhets ansvar å planlegge, gjennomføre og vedlikeholde sikringstiltak etter det digitale informasjonssystemets type, oppbygging og funksjon.\nVirksomheter skal ha en grunnsikring for digitale informasjonssystemer i henhold til anerkjente standarder og normer, herunder:Identifisere og dokumentereVirksomheter skal identifisere og dokumentere verdier, leveranser, tjenester, systemer og brukere i sine digitale informasjonssystemer. Dokumentasjonen skal holdes oppdatert.RisikovurderingVirksomheter skal gjennomføre risikovurdering ved systemendringer. Risikovurderingen skal holdes oppdatert.Sikre og oppdageVirksomheter skal sikre sine digitale informasjonssystemer for å motstå eller begrense skade fra uønskede hendelser. Virksomheter skal overvåke sine digitale informasjonssystemer slik at uønskede hendelser oppdages og registreres. Virksomheten skal varsle uønskede hendelser i sine digitale informasjonssystemer til den beredskapsmyndigheten bestemmer.Håndtere og gjenoppretteVirksomheter skal håndtere uønskede hendelser i sine digitale informasjonssystemer og gjenopprette normaltilstand uten ugrunnet opphold.TjenesteutsettingVirksomheter skal sørge for at sikkerhetsnivået opprettholdes eller forbedres ved utsetting av tjenester.SikkerhetsrevisjonVirksomheter skal jevnlig gjennomføre revisjoner av iverksatte sikringstiltak for digitale informasjonssystemer. Revisjoner skal påse at tiltakene faktisk er etablert og fungerer etter sin hensikt. Hver revisjon kan ta for seg deler av sikringstiltakene.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 6-10",
+      "heading": "Brytefunksjonalitet i avanserte måle- og styringssystem (AMS)",
+      "path": [
+        "Kapittel 6. Informasjonssikkerhet"
+      ],
+      "text": "Nettselskap som har avanserte måle- og styringssystem (AMS) med brytefunksjonalitet, skal sikre dette mot uønsket tilgang. Brytefunksjonalitet som definert i forskrift om måling, avregning, fakturering av nettjenester og elektrisk energi, nettselskapets nøytralitet mv. § 1-3, inkluderer i denne bestemmelsen begrensning av energi- og effektuttaket i det enkelte målepunkt. Nettselskap skal etablere og opprettholde egne sikkerhetstiltak for brytefunksjonaliteten, herunder:Det er kun nettselskap som har tillatelse til å utføre fjernstyring av brytefunksjonaliteten. Fjernstyring av brytefunksjonaliteten skal utføres fra en adgangskontrollert sone.Leverandør med fjerntilgang til brytefunksjonaliteten, skal være lokalisert i et land som er medlem i EFTA, EU eller NATO. Leverandør lokalisert i andre land kan få tidsavgrenset fjerntilgang til brytefunksjonalitet under løpende oppsyn av kvalifisert personell fra nettselskapet eller kvalifisert personell fra leverandør lokalisert i land som er medlem i EFTA, EU eller NATO.Før leverandør lokalisert i land utenfor EFTA, EU eller NATO får fjerntilgang til brytefunksjonaliteten, skal nettselskapet foreta en risikovurdering som inneholder en vurdering av landrisiko.Nettselskap har ansvar for at det etableres kontrollordninger for bruk av bryte- og oppdateringsfunksjonaliteten som hindrer at en enkelt person eller enkelt bruker kan koble ut flere målepunkt samtidig.Fjernoppdatering av programvaren i AMS skal utføres fra en adgangskontrollert sone hos nettselskap eller leverandør. Ved bruk av leverandør skal vilkårene i bokstav b være oppfylt.Hver enkelt måler skal ha en individuell sikkerhetsløsning for bryte-, og oppdateringsfunksjonen, som forhindrer at hendelser som kompromitterer sikkerheten i en måler, kompromitterer sikkerheten i en annen måler.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Generell plikt til å beskytte driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter med driftskontrollsystem skal sørge for at disse til enhver tid virker etter sin hensikt og skal beskytte driftskontrollsystemet mot alle typer uønskede hendelser.\nDriftskontrollsystemer omfatter driftssentraler, utstyr, nettverk, datarom, sambandsanlegg og øvrige anlegg og rom, systemer og komponenter som ivaretar driftskontrollfunksjoner. Med anlegg forstås også tilhørende bygningstekniske konstruksjoner for driftskontrollfunksjoner.\nDriftskontrollfunksjoner er alle organisatoriske, administrative og tekniske tiltak for å overvåke, styre og beskytte anlegg i kraftforsyningen.\nDet tillates ikke at eksterne leverandører som ikke er KBO-enhet, utfører driftskontrollfunksjoner i nettanlegg eller produksjonsanlegg.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Interne sikkerhetsregler",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal fastsette sikkerhetsregler for bruk, utvikling, drift, systemvedlikehold, sikring med mer av driftskontrollsystem slik at overvåking og kontroll av kraftforsyningen kan utføres på en sikker måte.\nVirksomheter skal gjennomgå sikkerhetsreglene minimum årlig for å sikre at de etterleves og at de gir tilfredsstillende beskyttelse.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Dokumentasjon av driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal til enhver tid ha oppdatert dokumentasjon av driftskontrollsystemet.\nI dokumentasjonen skal det inngå en oversikt over alle sikkerhetstiltak som er implementert. Dokumentasjonen skal også omfatte en oppdatert skjematisk fremstilling av driftskontrollsystemets logiske og fysiske nettverk som viser eventuelle tilgangspunkt mellom driftskontrollsystemet og andre nettverk. Dokumentasjonen skal også omfatte en komplett oversikt over utstyr i driftskontrollsystemet.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Kontroll med brukertilgang",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal kontrollere at kun rettmessige brukere har tilgang til driftskontrollsystemet. For dette skal det være kontrollordninger for tildeling, endring og sletting av brukertilgang.\nVirksomheter skal kontrollere hvilken bruker som er eller har vært pålogget driftskontrollsystemet, også når ekstern tilkobling brukes.\nKontrollordningene skal gjennomgås minimum årlig for å sikre at alle tilgangsrettigheter er korrekte og på riktig nivå.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Kontroll ved endringer i driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal hindre at utilsiktede feil og nye sårbarheter blir introdusert ved endring i driftskontrollsystemet. For dette skal det være kontrollordninger for vurdering, testing og godkjenning av endringer.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Kontroll med utstyr i driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal sørge for at utstyr som benyttes i driftskontrollsystemet ikke har blitt brukt eller blir brukt utenom driftskontrollsystemet, heller ikke midlertidig.\nVirksomheter skal hindre urettmessig tilgang mellom driftskontrollsystemet og andre informasjonssystemer.\nVirksomheter skal hindre urettmessig tilgang til utstyr som benyttes for å etablere logiske eller fysiske skiller mellom driftskontrollsystemet og andre informasjonssystemer.\nVirksomheter skal permanent slette all informasjon i utstyr som ikke lenger skal brukes i driftskontrollsystemet.\nDet er ikke tillatt å bruke personlig eid utstyr i driftskontrollsystemet.\nDatakommunikasjon i driftssentral og datarom skal være trådbundet.\nBeredskapsmyndigheten kan i særskilte tilfeller forby bruk av enkelte typer utstyr.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 7-7",
+      "heading": "Håndtering av feil, sårbarheter og sikkerhetsbrudd",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal håndtere feil, sårbarheter i programvare, sikkerhetsbrudd og andre hendelser som kan utgjøre en risiko for driftskontrollsystemet.\nVirksomheter skal ha tilgang til tilstrekkelig personell med nødvendig kompetanse som uten unødig opphold kan håndtere forhold angitt i første ledd.\nVirksomheter skal registrere alle sikkerhetsbrudd og -hendelser.\nForhold som kan utgjøre en umiddelbar risiko for driftskontrollsystemets funksjon, skal varsles og rapporteres til beredskapsmyndigheten, jf. § 2-5 og § 2-6.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "Beredskap ved svikt i driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal ha beredskap og forberedte tiltak for fortsatt drift av anlegg ved svikt i driftskontrollsystemet.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-9",
+      "provision_ref": "§ 7-9",
+      "heading": "Bemanning av driftssentral",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal til enhver tid ha tilstrekkelig og tilgjengelig autorisert personell med nødvendig kompetanse, slik at driftskontrollfunksjonen kan utøves uten ugrunnet opphold.\nVirksomhetens risikovurdering skal ligge til grunn for valg av bemanningens størrelse samt omfang av ordninger for påkalling av ekstra personell ved behov, jf. § 2-3 og § 5-8.",
+      "xml_path": "article#kapittel-7-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-10",
+      "provision_ref": "§ 7-10",
+      "heading": "Ekstern tilkobling til driftskontrollsystem",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal ha kontroll med ekstern tilkobling til driftskontrollsystemet.\nKun godkjente brukere kan gis tilgang til driftskontrollsystemet gjennom ekstern tilkobling. Virksomheter skal ha en oppdatert liste over alle godkjente brukere.\nDet skal foreligge en egen forhåndsavtalt prosedyre for ekstern tilkobling til driftskontrollsystemet.\nVirksomheter skal ha kontrollordninger for å godkjenne, vedlikeholde og avvikle ordninger for ekstern tilkobling til driftskontrollsystemet, og for funksjoner for innstilling av vern.\nVirksomheter skal ha kontrollordninger for vurdering, tildeling, endring og tilbaketrekking av brukertilgang.",
+      "xml_path": "article#kapittel-7-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-11",
+      "provision_ref": "§ 7-11",
+      "heading": "Systemredundans i driftskontrollsystemet",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal vurdere behovet for redundans i driftskontrollsystemet basert på lokale forhold og risikovurdering.",
+      "xml_path": "article#kapittel-7-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-13",
+      "provision_ref": "§ 7-13",
+      "heading": "Beskyttelse mot elektromagnetisk puls og interferens",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Virksomheter skal vurdere driftskontrollsystemets sårbarhet for elektromagnetisk puls (EMP) eller elektromagnetisk interferens (EMI). Dersom sårbarheter avdekkes, skal det gjennomføres sikrings- eller beredskapstiltak etter driftskontrollsystemets betydning for sikker drift og gjenoppretting av funksjon i kraftforsyningen.",
+      "xml_path": "article#kapittel-7-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-14",
+      "provision_ref": "§ 7-14",
+      "heading": "Særskilte krav til driftskontrollsystem klasse 2",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Foruten de generelle krav til beskyttelse av driftskontrollsystemet, skal virksomheter med driftskontrollsystem i klasse 2 oppfylle følgende tilleggskrav:SikkerhetskopierVirksomheten skal jevnlig teste at gjenoppretting av elektroniske sikkerhetskopier fungerer etter hensikten.SikkerhetsrevisjonVirksomheten skal jevnlig gjennomføre en sikkerhetsrevisjon og kontroll av pålagte beskyttelsestiltak i driftskontrollsystemet. Revisjonens formål skal være å påse at tiltakene faktisk er etablert og fungerer etter sin hensikt.Overvåking og loggingVirksomheten skal ha automatisk overvåking, logging, analyse og varsling ved uautorisert bruk, forsøk på uautorisert tilgang, unormal datatrafikk eller annen aktivitet som ikke er autorisert i driftskontrollsystemet.Utilgjengelig driftssentralDersom driftssentralen blir utilgjengelig, skal virksomheten kunne betjene og manuelt styre anlegg som inngår i virksomhetens driftskontrollsystem. I tillegg skal virksomheten ha planer for alternativ drift dersom driftssentralen blir utilgjengelig over lengre tid.Bemanning av driftssentralVirksomheten skal sørge for at alle påregnelige ekstraordinære situasjoner eller hendelser i energisystemet eller i driftskontrollsystemet umiddelbart oppdages og håndteres uten unødig opphold.Virksomheten skal senest innen én time kunne bemanne driftssentralen.Virksomheten skal ha en vaktordning som til enhver tid sikrer rask opptrapping av bemanningen ved behov.Ekstern tilkobling til driftskontrollsystemetVed tilkobling fra leverandører skal driftssentralen være bemannet.Virksomheter skal ha kontrollordning for korrekt verifisering av de brukere som er godkjent til å benytte ekstern tilkobling for tilgang til driftskontrollsystemet. Det er ikke tillatt at én brukeridentitet deles mellom flere personer eller systemer.Virksomheter skal sørge for at ekstern tilkobling utføres fra et sted med tilstrekkelig sikre omgivelser. Virksomheter skal utarbeide interne regler for hva som er et sikkert sted.Den eksterne tilkoblingen skal kun åpnes når det er behov for å få tilgang til driftskontrollsystemet. Tilkoblingen skal være lukket når den ikke er i bruk.Det skal foreligge en egen skriftlig prosedyre for ekstern tilkobling.Dersom KBO-enheten kan foreta styring av anlegg i kraftforsyningen gjennom ekstern tilkobling, skal styringen kun skje etter tillatelse eller retningslinjer fra bemyndiget person.Enhver påkobling til driftskontrollsystemet gjennom ekstern tilkobling skal loggføres.SystemredundansSamband i driftskontrollsystemet skal fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.Driftskontrollsystemet frem til anlegg i klasse 2 og 3 skal være redundant frem til det lokale kontrollanlegget. I det lokale kontrollanlegget skal virksomheten vurdere behovet for redundans.Redundante føringsveier for samband og redundante komponenter i driftskontrollsystemet skal være fysisk adskilte og uavhengige slik at én enkelt feil eller hendelse ikke medfører tap av viktige funksjoner.Det skal etableres reparasjonsberedskap for alt samband, jf. kapittel 4 og § 7-8.Særskilt om dubleringVed dublering som benytter identiske teknologier og løsninger i driftskontrollsystemet, må virksomheten innrette seg slik at samme systemfeil ikke rammer alle dublerte system samtidig, jf. § 7-7.Beskyttelse mot EMP og EMIDet skal gjennomføres sikrings- eller beredskapstiltak for beskyttelse av utrustning som nevnt i § 7-13 mot EMP og EMI for minst én sambandsvei til anlegg i klasse 2 og 3 som driftskontrollsystemet styrer.Sikker tidsreferanseDriftskontrollsystem som er avhengig av eksakt tidsreferanse, skal ha sikre kilder for tidsangivelse.krav til leverandørFor leveranser til driftskontrollsystemer tillates kun leverandører fra land som er medlem i EFTA, EU eller NATO. En leveranse omfatter levering av utstyr, komponenter, programvare, data, programmeringstjenester, oppdateringer, feilretting, service og vedlikehold.",
+      "xml_path": "article#kapittel-7-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-15",
+      "provision_ref": "§ 7-15",
+      "heading": "Særskilte krav til driftskontrollsystem klasse 3",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Foruten de generelle kravene samt særskilte krav til beskyttelse av driftskontrollsystem i klasse 2, skal virksomheter med driftskontrollsystem i klasse 3 oppfylle følgende tilleggskrav:Reserve driftssentralVirksomheter skal ha reservedriftssentral som skal plasseres i sikker avstand til ordinær driftssentral, slik at ikke samme hendelse kan ramme begge.Reservedriftssentral skal til enhver tid være klar til bruk og være utstyrt slik at den kan fungere helt uavhengig av ordinær driftssentral og kunne ivareta alle driftskontrollfunksjoner,Virksomheter skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. § 7-9, annet ledd.Bemanning av driftssentralDriftssentralen skal være døgnbemannet.Opptrapping av bemanningen skal kunne skje innen én time etter at påkalling er gjort.Virksomheten skal minimum årlig vurdere om det er behov for å øke bemanningen eller omfanget av vaktordningen for rask opptrapping av bemanning, jf. § 7-9, andre ledd.Ekstern tilkobling til driftskontrollsystemetKobling i nettanlegg eller styring av øvrige anlegg gjennom ekstern tilkobling er ikke tillatt.SystemredundansSambandsveiene i driftskontrollsystemet skal utføres så sikre og robuste og med en slik redundans og avstand at ikke samtidige eller påfølgende hendelser som uvær, brann eller omfattende teknisk svikt hindrer eller skader begge føringsveier og andre redundante delsystem.Frem til alle anlegg i klasse 3 skal virksomheten ha kontroll og råderett over alle komponenter og andre tekniske løsninger i minst én sambandsvei, og beskytte disse, jf. kapittel 5.Beskyttelse mot EMP og EMIDet skal gjennomføres sikringstiltak for beskyttelse av utrustning som nevnt i § 7-13 mot EMP og EMI for minst én sambandsvei til anlegg i klasse 3 som driftskontrollsystemet styrer. Beredskapsmyndigheten kan i særskilte tilfeller godkjenne beredskapstiltak som alternativ til sikringstiltak.I sambandsvei til anlegg i klasse 2 som driftskontrollsystemet styrer, skal det gjennomføres sikrings- eller beredskapstiltak.Fastsettelse av særlige krav til bemanningFor spesielt viktige driftskontrollsystemer kan beredskapsmyndigheten fastsette særlige krav, også til bemanning, jf. § 5-7.",
+      "xml_path": "article#kapittel-7-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-16",
+      "provision_ref": "§ 7-16",
+      "heading": "Vern av kraftsystem i regional- og transmisjonsnett",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "Kommunikasjonsbaserte vernsystemer i transmisjons- og regionalnett skal ha pålitelige og sikre samband som fungerer upåvirket av feiltilstander i kraftsystemet, og sørger for overføring av nødvendige signaler og meldinger mot relevante driftssentraler.\nVernsystemer skal sørge for rask og selektiv frakopling av enhet med funksjonsfeil for å begrense konsekvensen av feil i kraftsystemet.",
+      "xml_path": "article#kapittel-7-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-17",
+      "provision_ref": "§ 7-17",
+      "heading": "Mobile radionett – driftsradio",
+      "path": [
+        "Kapittel 7. Beskyttelse av driftskontrollsystem"
+      ],
+      "text": "KBO-enheter som er avhengig av pålitelig mobilkommunikasjon for drift, sikkerhet eller gjenoppretting av funksjon, skal ha tilgang til et mobilt sambandssystem. Dette sambandssystemet skal:Omfattes av den generelle sikringsplikten etter § 5-1.Til enhver tid holdes i funksjonsdyktig stand, være klar til bruk, og det skal være rask tilgang på kritiske reservedeler og kompetanse på feilretting.Kunne betjenes av personell med nødvendig kompetanse til bruk.Ha tilstrekkelig dekningsgrad for kraftforsyningens anlegg og drift.Kunne fungere uavhengig av funksjonssvikt i offentlige elektroniske kommunikasjonstjenester eller kommunikasjonsnett.Ha tilstrekkelig nødstrøm ved omfattende eller langvarige strømbrudd, herunder et nødstrømssystem med automatisk start og minimum 48 timer selvstendig driftstid.Ha nødvendig funksjonalitet med blant annet direkte apparat til apparat-kommunikasjon, gruppesending og felles oppkall.Kunne fungere som reservesamband om annet viktig samband svikter.Der hvor radionettet benytter anlegg tilhørende et klassifisert driftskontrollsystem eller hvor det må regnes som en del av dette, skal sambandssystemet beskyttes i henhold til driftskontrollsystemets klasse.Der hvor radionettet er digitalisert og f.eks. baserer seg på IP-løsninger, skal dette sikres mot uautorisert tilgang, spredning av uønsket programvare, urettmessig overtakelse m.m. etter relevante bestemmelser i denne forskrift.",
+      "xml_path": "article#kapittel-7-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Beredskapsmyndigheten fører kontroll med at bestemmelser gitt i eller i medhold av denne forskriften overholdes.\nVirksomheter skal medvirke til gjennomføring av kontroll. Dette omfatter blant annet å fremskaffe dokumentasjon og opplysninger som er nødvendige for å gjennomføre kontroll, og gi beredskapsmyndigheten adgang etter energiloven § 9-5 annet ledd.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Beredskapsmyndigheten kan gi de pålegg som er nødvendige for gjennomføring av bestemmelser gitt i eller i medhold av denne forskrift.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Beredskapsmyndigheten kan i særlige tilfeller gi dispensasjon fra bestemmelser gitt i eller i medhold av denne forskrift.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Ved overtredelse av bestemmelser gitt i eller i medhold av denne forskrift, kan beredskapsmyndigheten ilegge tvangsmulkt i medhold av energiloven § 10-3.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Ved overtredelse av bestemmelsene i kapittel 2 til 7, inkludert vedleggene til kapittel 5, og vedtak truffet i medhold av § 8-3 kan det ilegges overtredelsesgebyr i medhold av energiloven § 10-7.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av bestemmelsene i kapittel 2-8, inkludert vedleggene til kapittel 5, kan straffes med bøter eller fengsel i medhold av energiloven § 10-5.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-7",
+      "provision_ref": "§ 8-7",
+      "heading": "Sektoravgift til beredskapsmyndigheten",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Til dekning av beredskapsmyndighetens kostnader til arbeidet med kraftforsyningsberedskap innkreves en årlig sektoravgift.\nSektoravgiften fastsettes for den enkelte KBO-enhet på grunnlag av installert ytelse i klassifiserte anlegg og nettstasjoner pr. 1. januar det år sektoravgiften beregnes for. Satsene skal reguleres slik at de samlede sektoravgiftene tilsvarer de faktiske kostnader beredskapsmyndigheten har med beredskapsarbeidet.",
+      "xml_path": "article#kapittel-8-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-8",
+      "provision_ref": "§ 8-8",
+      "heading": "Ikrafttreden",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 2013. Fra samme tid oppheves forskrift 16. desember 2002 nr. 1606 om beredskap i kraftforsyningen.",
+      "xml_path": "article#kapittel-8-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-9",
+      "provision_ref": "§ 8-9",
+      "heading": "Forholdet til eldre vedtak om klassifisering og overgangsregler",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Kraftstasjoner klassifisert i klasse 1 med installert ytelse under 50 MVA, er ikke lenger klassifisert. Fjernvarmesentraler klassifisert i klasse 1 ved enkeltvedtak og som har lavere installert ytelse enn 50 MW, er ikke lenger klassifisert.\nØvrige vedtak om sikring eller andre vedtak i medhold av forskrift 16. desember 2002 nr. 1606 om beredskap i kraftforsyningen truffet etter 1. januar 2003 og før 1. januar 2013 står fortsatt ved lag inntil de blir endret eller opphevet i medhold av denne forskrift.\nAnlegg som er idriftssatt før 1. januar 2013, og som ikke er omfattet av vedtak omtalt i annet ledd, klassifiseres etter denne forskrift, men slik at sikringstiltak etter kapittel 5 kan tilpasses bygningsteknisk utforming og tidligere pålegg om fysisk sikring. Ved vesentlig ombygging eller utvidelse vil kravene etter kapittel 5 gjelde fullt ut for den del av anlegget som endres.\nVedtak om beredskapsmessige forhold til kraftforsyningen om annet enn klassifisering og sikringstiltak truffet før 1. januar 2003, og som ikke er erstattet av senere vedtak eller forskrifter står ved lag så langt de passer inntil de blir endret eller opphevet i medhold av denne forskrift.\nAlle anlegg som er satt i drift etter 1. januar 2013 skal klassifiseres og sikres etter denne forskrift. Dette gjelder selv om de har fått konsesjon før 2013. For disse anleggene gjelder en overgangsperiode på 2 år. Beredskapsmyndigheten kan gi én dispensasjon fra dette. Slik dispensasjon kan kun gis én gang for hvert anlegg for en periode på inntil 2 år.",
+      "xml_path": "article#kapittel-8-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-10",
+      "provision_ref": "§ 8-10",
+      "heading": "Overgangsregler for kraftsensitiv informasjon",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "For informasjon som er omfattet av § 6-2 annet ledd og som er gjort allment tilgjengelig før 1. januar 2025, gjelder endringsbestemmelsen § 6-2 fra 1. januar 2026.",
+      "xml_path": "article#kapittel-8-paragraf-10"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "FOR-1975-06-27-4943",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utlegg ved lønnstrekk o.l. i særlige tilfelle etter lov om fordringshavernes dekningsrett.",
+  "short_title": "Forskrift om utlegg ved lønnstrekk",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1975-10-01",
+  "last_change_in_force": "1992-12-04",
+  "last_changed_by": "forskrift/1992-12-04-899",
+  "lovdata_refid": "forskrift/1975-06-27-4943",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1975-06-27-4943",
+  "raw_xml_sha256": "c878ba37dac2c012c74a43565d233483f4c6f807673c08854785bb88b27f1d45",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "1",
+      "path": [],
+      "text": "Utleggsforretning om utlegg ved lønnstrekk o.l. etter § 2-7 i lov om fordringshavernes dekningsrett kan holdes på namsmannens kontor på det sted hvor utlegg søkes.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "1",
+      "path": [],
+      "text": "Seinest samtidig med at saksøkte varsles om berammelsen i utleggsforretningen, skal saksøkte med kjent oppholdssted i Norge få tilsendt et eksemplar av utleggsbegjæringen og gis høve til å uttale seg innen en nærmere angitt frist.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

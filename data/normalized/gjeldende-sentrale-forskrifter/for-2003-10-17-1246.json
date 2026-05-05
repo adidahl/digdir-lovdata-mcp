@@ -1,0 +1,258 @@
+{
+  "id": "FOR-2003-10-17-1246",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og behandling av helseopplysninger i Reseptbasert legemiddelregister (Reseptregisteret)",
+  "short_title": "Forskrift om Reseptregisteret",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2003-10-20",
+  "last_change_in_force": "2021-06-01",
+  "last_changed_by": "forskrift/2021-04-23-1269 fra 2021-06-01",
+  "lovdata_refid": "forskrift/2003-10-17-1246",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-10-17-1246",
+  "raw_xml_sha256": "c001cd4a84aa00bfe7eca989d068c7fbf62d36b1670ed98ee0a058a2d0da2faa",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Etablering av Reseptregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften etablerer et landsomfattende pseudonymt register for reseptbasert legemiddelstatistikk (Reseptregisteret). Forskriften gir bestemmelser for innsamling, lagring, tilgjengeliggjøring og annen behandling av opplysninger i registeret.\nInnsamling, lagring og behandling av opplysninger i Reseptregisteret skjer elektronisk.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I forskriften forstås med:pseudonyme helseopplysninger: helseopplysninger der identitet er kryptert eller skjult på annet vis, men likevel individualisert slik at det lar seg gjøre å følge hver person uten at identiteten røpes; definisjonen i personvernforordningen artikkel 4 nr. 5 gjelder ikke bestemmelsene om pseudonyme opplysninger i denne forskriften;kryptering: omforming av opplysninger slik at de ikke kan leses eller rekonstrueres av uvedkommende;dekryptering: rekonstruksjon av krypterte opplysninger;Reseptregisteret: datasystem hvor det oppbevares pseudonymiserte og kvalitetskontrollerte opplysninger fra alle resepter og rekvisisjoner som er ekspedert på norske apotek;tiltrodd pseudonymforvalter (TPF): en uavhengig instans som tildeler og forvalter pseudonymer på oppdrag fra den dataansvarlige.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Reseptregisterets formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med Reseptregisteret er å samle inn og behandle data om legemiddelbruk hos mennesker og dyr for å:kartlegge forbruket i landet og belyse endringer over tid,fremme og gi grunnlag for forskning og utredning for å kunne belyse positive og negative effekter av legemiddelbruk,gi myndighetene et statistisk grunnlag for kvalitetssikring av legemiddelbruk og overordnet tilsyn, styring og planlegging,gi legemiddelrekvirenter et grunnlag for internkontroll og kvalitetsforbedring.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Lovlig bruk av registeret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Opplysningene i Reseptregisteret kan bare anvendes til formål som er nevnt i § 1-3.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Dataansvarlig",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet er dataansvarlig for Reseptregisteret.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Databehandler",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den dataansvarlige kan inngå avtale med en databehandler om behandling av data på vegne av den dataansvarlige.\nAvtalen skal være skriftlig og kan ikke inneholde vilkår som er i strid med bestemmelsene i denne forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-7",
+      "heading": "Tiltrodd pseudonymforvalter (TPF)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den dataansvarlige skal inngå skriftlig avtale med en tiltrodd pseudonymforvalter (TPF) om tildeling og forvaltning av pseudonymer. Statistisk sentralbyrå skal være TPF for Reseptregisteret.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-8",
+      "heading": "Opplysninger i Reseptregisteret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Reseptregisteret inneholder opplysninger fra alle resepter og rekvisisjoner som er ekspedert ved norske apotek, både til human og veterinær bruk. Registeret kan bare inneholde opplysninger som direkte eller indirekte fremkommer av reseptene og rekvisisjonene, med mindre annet følger av fjerde ledd.\nRegisteret kan også, uten hinder av begrensningene i første ledd, inneholde opplysninger om legemiddelbehandling i institusjon.\nOpplysninger om pasient og rekvirent skal være pseudonymisert.\nReseptregisteret kan, uten samtykke fra den registrerte, inneholde følgende opplysninger i den utstrekning det er aktuelt og nødvendig for å oppnå formålet med registeret:tildelt pseudonym for pasient og rekvirent,pasientopplysninger: pasientens kjønn, fødselsår og -måned, dødsår og -måned og bosted,rekvirentopplysninger: rekvirentens kjønn, fødselsår, profesjon og spesialitet,legemiddelopplysninger: preparat og pakningsstørrelse (varenummer både for rekvirert preparat og utlevert preparat ved generisk bytte), antall pakninger, utleveringsgruppe, ATC eller ATC vet kode og definert døgndose (DDD), refusjonsordning, refundert beløp og refusjonskode iht. refusjonslisten, jf. forskrift 28. juni 2007 nr. 814 om stønad til dekning av utgifter til viktige legemidler mv. § 2 og forskrift 12. juni 2015 nr. 646 om helseforetaksfinansierte reseptlegemidler til bruk utenfor sykehus, pris (både for rekvirert preparat og utlevert preparat ved generisk bytte), dosering og diagnosekode eller refusjonskode,dyreslag ved ekspedisjon til dyr,apotekets konsesjonsnummer og kommune,leveranser til institusjon, helseenhetsregisternummer (HER) og kommune hvis mulig,leveranser til skip,utleveringsdato.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-9",
+      "heading": "Koding og klassifisering av opplysningene i Reseptregisteret, krav til dokumentasjon",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den dataansvarlige skal ved enhver registrering i registeret kunne dokumentere hvilke kodeverk og klassifikasjoner som er benyttet.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Apotekets plikt til å sende inn opplysninger, informasjonsplikt",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger fra apotek"
+      ],
+      "text": "Apotek plikter, uten hinder av taushetsplikten, å sende Reseptregisteret de opplysningene om hver enkelt ekspedert resept og rekvisisjon som gjør det mulig å registrere de opplysningene som er nevnt i § 1-8 fjerde ledd. Den dataansvarlige gir nærmere bestemmelser om plikten til å sende inn slike opplysninger.\nApoteket skal informere den registrerte om innsending av opplysninger til Reseptregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Tidspunkt for innsending mv.",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger fra apotek"
+      ],
+      "text": "Innsending av opplysninger skal følge de rutiner og tidsfrister som til enhver tid er fastsatt av den dataansvarlige for Reseptregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Overføringsformat, kvalitetskontroll og innsending",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger fra apotek"
+      ],
+      "text": "Overføring av opplysninger fra apotek til Reseptregisteret skal skje i et format som bestemmes av dataansvarlig.\nFør oversending fra apotek skal det foretas en teknisk kvalitetskontroll av at opplysningene er i henhold til forskriftens bestemmelser.\nFødselsnummer og helsepersonellnummer gjøres bare tilgjengelig for TPF. De øvrige opplysningene gjøres bare tilgjengelige for databehandler. Den dataansvarlige gir nærmere bestemmelser om overføringen av data.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Ansvar for sikring av at opplysningene er korrekte",
+      "path": [
+        "Kapittel 2. Innsending av opplysninger fra apotek"
+      ],
+      "text": "Den dataansvarlige skal sørge for at de opplysningene som blir samlet inn og behandlet i Reseptregisteret, er relevante og nødvendige for bruk til formål som nevnt i § 1-3.\nDatabehandler skal sørge for at de opplysningene som blir samlet inn og behandlet i Reseptregisteret, er korrekte og fullstendige.\nDersom de innsendte opplysningene er ufullstendige eller på annen måte mangelfulle, skal apoteket varsles, feil skal rettes og opplysningene eventuelt sendes på nytt fra apoteket. Dersom det ikke er mulig for databehandler å få korrekte data, skal den dataansvarlige varsles.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Pseudonymene",
+      "path": [
+        "Kapittel 3. Pseudonymisering og databehandling hos TPF"
+      ],
+      "text": "TPF skal opprette ett pseudonym for hver person det registreres opplysninger om i Reseptregisteret.\nFlere personer skal ikke tildeles samme pseudonym. Pseudonymet skal ikke brukes i eller på annen måte spres til andre registre eller andre områder.\nDet er ikke tillatt å gjenskape et fødselsnummer eller et helsepersonellnummer på grunnlag av et pseudonym.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Behandling og videresending fra TPF",
+      "path": [
+        "Kapittel 3. Pseudonymisering og databehandling hos TPF"
+      ],
+      "text": "TPF utsteder pseudonymer for fødselsnummeret og helsepersonellnummeret. TPF kan ikke ha tilgang til andre opplysninger fra resept eller rekvisisjon.\nUtstedelsen av pseudonymer skal skje i en prosess som bare involverer TPF. For å starte denne prosessen må to særskilt autoriserte personer godkjenne en elektronisk kjøreordre.\nTPF sender pseudonymene for fødselsnummeret og helsepersonellnummeret til databehandler.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Forbud mot samtidig tilgang",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Ingen, verken TPF, databehandler eller dataansvarlig, skal kunne få samtidig tilgang til pseudonym, reseptopplysninger og fødselsnummer eller helsepersonellnummer.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Tilgang til Reseptregisteret",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Bare den dataansvarlige, databehandlere og den som arbeider under den dataansvarliges eller databehandlers instruksjonsmyndighet, kan gis tilgang til Reseptregisteret. Tilgang kan bare gis i den grad dette er nødvendig for vedkommendes arbeid og i samsvar med gjeldende bestemmelser om taushetsplikt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Den dataansvarlige og databehandler skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Enhver som behandler opplysninger etter denne forskriften, har taushetsplikt etter helseregisterloven § 17.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Plikt til å sørge for internkontroll",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysingsloven og helseregisterloven, jf. helseregisterloven § 22. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve reglene om behandling av helseopplysninger, med særlig vekt på bestemmelser gitt i medhold av helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Innholdet i internkontrollen",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Internkontrollen innebærer at den dataansvarlige skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, og har denne dokumentasjonen tilgjengelig for dem den måtte angå.\nDokumentasjonen av internkontrollen skal minst inneholdeoversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre at kravene blir overholdt,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig for at rutinene blir overholdt,rutiner virksomheten følger for å hindre gjentakelse av avvik og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det systemet virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.\nSkriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapitlet når særlige forhold foreligger.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 5. Sammenstilling og tilgjengeliggjøring av opplysninger"
+      ],
+      "text": "Helseopplysninger i Reseptregisteret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.\nMottakeren må ikke offentliggjøre resultatet av behandlingen av opplysningene i slik form at enkeltpersoner eller apotek kan gjenkjennes. Dette er ikke til hinder for at legemiddelrekvirenter kan gjøre opplysninger som ikke er taushetsbelagte og som gjelder egen virksomhet tilgjengelig for andre.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Bevaring av opplysningene",
+      "path": [
+        "Kapittel 6. Bevaring av opplysninger i registeret og straffebestemmelse"
+      ],
+      "text": "Opplysninger i Reseptregisteret skal bevares i ubegrenset tid, med mindre annet følger av denne forskriften, personvernforordningen eller lov. Tildelt pseudonym kan endres, dersom det av sikkerhetsmessige grunner er hensiktsmessig.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Ikrafttreden",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften gjelder fra 20. oktober 2003.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    }
+  ]
+}

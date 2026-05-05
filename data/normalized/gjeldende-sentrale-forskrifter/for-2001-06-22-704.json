@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2001-06-22-704",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om åremålsstillinger i politiet.",
+  "short_title": "Forskrift om åremålsstillinger i politiet",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2001-06-22",
+  "lovdata_refid": "forskrift/2001-06-22-704",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-06-22-704",
+  "raw_xml_sha256": "19800d970f7e65b90267512293d826ab95b8f37a94649fa44147a97111df2f25",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskrift gjelder for de stillingskategorier hvor det i henhold til politiloven kan foretas åremålstilsetting.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Varighet, fornyelse og opphør",
+      "path": [],
+      "text": "Åremålsperiodene skal være seks år og etter utlysning med mulighet for forlengelse én gang for hver person i samme stilling eller embete.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

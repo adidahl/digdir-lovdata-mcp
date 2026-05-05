@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1982-11-01-1569",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift for godkjenning av gjeterhytter i reindriften.",
+  "short_title": "Forskrift om gjeterhytter i reindriften",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1982-11-01",
+  "last_change_in_force": "2014-09-03",
+  "last_changed_by": "forskrift/2014-09-03-1144",
+  "lovdata_refid": "forskrift/1982-11-01-1569",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1982-11-01-1569",
+  "raw_xml_sha256": "e684da0626d61221c20a79fb8b9868a2480626481a2a409eccaa412f29ccaaa5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Oppføring av gjeterhytte i reindriften skal godkjennes av Reindriftsstyret.\nSøknaden skal grunngi det reindriftsmessige behov og den omsøkte plassering, og skal være forelagt andre reinbeitedistrikt som blir berørt.\nDet skal legges vekt på at hytta får en hensiktsmessig plassering såvel reindriftsmessig som ut fra andre relevante hensyn, og at grunneier og andre berørte interesser ikke blir unødig belastet.\nGodkjenning er videre avhengig av at grunneier og de nødvendige instanser i henhold til øvrige lovverk er forelagt søknaden.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Vedtak etter § 1 kan påklages til Landbruksdepartementet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Reindriftsstyrets myndighet etter § 1 kan delegeres til Landbruksdirektoratet.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

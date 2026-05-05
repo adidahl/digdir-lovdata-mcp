@@ -1,0 +1,71 @@
+{
+  "id": "FOR-2026-01-12-26",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av fisket for fartøy som fører grønlandsk flagg i Norges økonomiske sone i 2026",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-12",
+  "lovdata_refid": "forskrift/2026-01-12-26",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-01-12-26",
+  "raw_xml_sha256": "961d1a3fa11acd981975464f7063cf4c9e71c2ee877424896ba1425117adeb70",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Generelt forbud",
+      "path": [],
+      "text": "Det er forbudt å drive fiske og fangst for fartøy som fører grønlandsk flagg i Norges økonomiske sone mellom 12 og 200 nautiske mil fra grunnlinjene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kvoter i Norges økonomiske sone nord for 62° N",
+      "path": [],
+      "text": "Uten hinder av forbudet i § 1 har fartøy som fører grønlandsk flagg adgang til å fiske følgende kvanta i Norges økonomiske sone nord for 62° N mellom 12 og 200 nautiske mil fra grunnlinjene:2 920 tonn torsk533 tonn hyse454 tonn sei425 tonn andre arter som bifangst, herunder uer og blåkveite.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Bifangst av uer",
+      "path": [],
+      "text": "Ved fiske etter andre arter er det tillatt å ha inntil 20 % bifangst av uer i de enkelte fangster og av landet fangst.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Bifangst av blåkveite",
+      "path": [],
+      "text": "Ved fiske etter andre arter er det tillatt å ha inntil 7 % bifangst av blåkveite om bord ved avslutning av fisket og av landet fangst. Det er likevel tillatt å ha inntil 12 % blåkveite som bifangst i de enkelte fangster.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Beregning av fangstkvanta",
+      "path": [],
+      "text": "Alle fangstkvanta skal beregnes i rund vekt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff og inndragning",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i forskriften straffes i henhold til lov 17. desember 1976 nr. 91 om Norges økonomiske sone §§ 8 og 9. På samme måte straffes medvirkning og forsøk.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks gjelder til og med 31. desember 2026.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

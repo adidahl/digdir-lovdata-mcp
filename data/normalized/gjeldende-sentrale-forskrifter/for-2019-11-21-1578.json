@@ -1,0 +1,252 @@
+{
+  "id": "FOR-2019-11-21-1578",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om selvdeklarasjon av ordninger for elektronisk identifikasjon (selvdeklarasjonsforskriften)",
+  "short_title": "Selvdeklarasjonsforskriften",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2019-11-21",
+  "last_change_in_force": "2025-11-01",
+  "last_changed_by": "forskrift/2025-10-14-2043 fra 2025-11-01",
+  "lovdata_refid": "forskrift/2019-11-21-1578",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-11-21-1578",
+  "raw_xml_sha256": "d8e2fc9a2ae2653599626b6f3f75532837d5576e738d86a257dd0f573b5bcc45",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og virkeområde",
+      "path": [
+        "Del I – formål og definisjoner"
+      ],
+      "text": "Formålet med forskriften er å definere sikkerhetsnivåer og tilsynsregime for elektroniske identifikasjonsordninger (eID-ordninger) og dermed øke tilliten til og bruken av elektroniske identifikasjonstjenester i Norge.\nForskriften skal også legge til rette for grenseoverskridende bruk av elektronisk identifikasjon, ved at selvdeklarerte eID-ordninger kan meldes til EU-kommisjonen og deretter omfattes av anerkjennelsesplikten i eIDAS-forordningen artikkel 6.\nForskriften etablerer en selvdeklarasjonsordning hvor tilbydere av eID-ordninger ved selvdeklarasjon kan melde fra til et oppnevnt tilsynsorgan om at forskriftens krav er oppfylt.\nForskriften gjelder for tilbydere som er etablert i Norge.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Del I – formål og definisjoner"
+      ],
+      "text": "eIDAS-forordningen: forordning om elektronisk identifisering og tillitstjenester for elektroniske transaksjoner i det indre markedet (forordning (EU) nr. 910/2014)identifikasjonsnivåforskriften: Kommisjonens gjennomføringsforordning (EU) 2015/1502 av 8. september 2015 til eIDAS-forordningen, jf. forskrift 21. november 2019 nr. 1577 om tillitstjenester for elektroniske transaksjoner § 6eID: elektronisk identitetsbevis, tilsvarer elektronisk identifikasjonsmiddel i eIDAS-forordningeneID-ordninger: ordninger for elektronisk identifikasjon.Med mindre annet fremgår av sammenhengen gjelder eIDAS-forordningens definisjoner i artikkel 3.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Selvdeklarasjon – eID nivå høyt",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Krav til selvdeklarerte eID-ordninger"
+      ],
+      "text": "Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå høyt i denne forskriftens del III.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Selvdeklarasjon – eID nivå betydelig",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Krav til selvdeklarerte eID-ordninger"
+      ],
+      "text": "Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå betydelig i denne forskriftens del III.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Selvdeklarasjon – eID nivå lavt",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Krav til selvdeklarerte eID-ordninger"
+      ],
+      "text": "Tilbyder av eID-ordning skal oppfylle alle krav som er beskrevet for nivå lavt i denne forskriftens del III.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Tilsyn",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Melding om frivillig selvdeklarasjon mv."
+      ],
+      "text": "Tilsynsorgan etter denne forskriften skal være Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Krav til meldingens innhold",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Melding om frivillig selvdeklarasjon mv."
+      ],
+      "text": "Selvdeklarasjon etter denne forskriften skal sendes tilsynsorganet og inneholde beskrivelse av hvordan kravene etter § 3, § 4 eller § 5 er oppfylt.\nTilsynsorganet skal utarbeide standardskjema som skal benyttes ved melding etter første ledd.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Meldeplikt om endringer i opplysninger gitt etter § 7",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Melding om frivillig selvdeklarasjon mv."
+      ],
+      "text": "Endrede forhold som påvirker opplysninger gitt etter § 7 skal uten ugrunnet opphold meldes til tilsynsorganet.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Tilsynets kontrolloppgaver",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Tilsynsorganets oppgaver mv."
+      ],
+      "text": "Tilsynsorganet skal kontrollere at mottatt melding etter § 7 er fullstendig og at kravene etter § 3, § 4 eller § 5 er oppfylt.\nNår særlige grunner tilsier det kan tilsynsorganet gjøre unntak fra bestemmelsene i denne forskrift.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Krav om tilleggsinformasjon og revisjon",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Tilsynsorganets oppgaver mv."
+      ],
+      "text": "Dersom tilsynsorganet finner at tilbyder av eID-ordning ikke oppfyller kravene etter § 3, § 4 eller § 5, eller at meldingen etter § 7 ikke er fullstendig, kan tilsynsorganet pålegge tilbyder av eID-ordning innen en angitt tidsfrist å dokumentere at kravene er oppfylt eller å komplettere meldingen. Dette kan skje ved fremleggelse av dokumentasjon eller på annen måte som tilsynsorganet finner hensiktsmessig.\nTilsynsorganet kan også kreve at tilbyder av eID-ordning foretar en revisjon for å vise at kravene i § 3, § 4 eller § 5 er oppfylt. Revisjonen skal foretas av en uavhengig tredjepart godtatt av tilsynsorganet og resultatet av revisjonen skal sendes tilsynsorganet.\nTilbyder av eID-ordning kan pålegges å betale for revisjonen.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Tilsynsorganets kompetanse",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Tilsynsorganets oppgaver mv."
+      ],
+      "text": "Tilsynsorganet for selvdeklarasjonsordningen har kompetanse til å avgjøre om kravene i denne forskriftens del III er oppfylt. Tilsynsorganet skal vurdere alle relevante forhold, både eventuelle sikkerhetsbrudd og andre erfaringer med aktuelle løsninger.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Tilsynsorganets dispensasjonsadgang",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Tilsynsorganets oppgaver mv."
+      ],
+      "text": "Tilsynet kan dispensere fra kravene i denne forskriftens del III, dersom en risikovurdering viser at avviket fra kravet etter tilsynets mening må anses kompensert av andre risikoreduserende tiltak, slik at løsningen samlet sett likevel tilfredsstiller det aktuelle sikkerhetsnivået.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Offentliggjøring av informasjon om tilbyder av eID-ordning mv.",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Tilsynsorganets oppgaver mv."
+      ],
+      "text": "Tilsynsorganet skal publisere en liste over selvdeklarerte eID-ordninger med opplysninger om hvilke eID-nivåer som tilbydere av eID-ordninger har selvdeklarert etter denne forskriften, sammen med mottatt melding etter § 7.\nTilsynsorganet kan nekte publisering etter første ledd dersom mottatt melding ikke oppfyller kravene i § 7, eller at det er åpenbart for tilsynsorganet at kravene etter § 3, § 4 eller § 5 ikke er oppfylt.\nTilsynsorganet skal fjerne aktuelt eID-nivå fra publisert liste etter første ledd dersom tilbyder av eID-ordning ikke etterkommer kravene i § 8 eller tilsynsorganets pålegg etter § 10.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-4-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Øvrige bestemmelser"
+      ],
+      "text": "Tilsynsorganet kan ilegge tilbyder av eID-ordning tvangsmulkt etter lov om elektroniske tillitstjenester § 4. Tvangsmulkt kan også ilegges næringsdrivende som i salgs- og markedsføringsøyemed uriktig angir at de tilbyr en ordning som er oppført på liste publisert etter § 13 første ledd.",
+      "xml_path": "article#kapittel-2-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-4-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Sektoravgift",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Øvrige bestemmelser"
+      ],
+      "text": "Tilbyder av eID-ordning som sender inn melding etter § 7 kan pålegges å betale årlig sektoravgift til tilsynsorganet etter lov om elektroniske tillitstjenester § 7 og forskrift 17. januar 2024 nr. 79 om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndigheit § 7.\nTilsynsorganet kan nekte oppføring på liste publisert etter § 13 første ledd før sektoravgiften er betalt.",
+      "xml_path": "article#kapittel-2-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-4-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Klageinstans",
+      "path": [
+        "Del II – selvdeklarasjon av eID-ordninger",
+        "Øvrige bestemmelser"
+      ],
+      "text": "Kommunal- og moderniseringsdepartementet er klageinstans for tilsynsorganets enkeltvedtak fastsatt i henhold til § 9 til § 14.\nKlage på fastsatt sektoravgift avgjøres av Kommunal- og moderniseringsdepartementet etter forskrift 20. mars 2017 nr. 386 om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#kapittel-2-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 17",
+      "heading": "Gjenbruk av kravsettet i identifikasjonsnivåforskriften (Kommisjonens gjennomføringsforordning (EU) 2015/1502)",
+      "path": [
+        "Del III – Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer"
+      ],
+      "text": "Alle kravene i identifikasjonsnivåforskriften gjelder med de tilpasninger som fremgår nedenfor.\nHenvisninger i identifikasjonsnivåforskriften pkt. 2.1.2 til bekreftelser fra et samsvarsvurderingsorgan tilfredsstilles også av selvdeklarerte løsninger etter denne forskrift.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 18",
+      "heading": "Identifikasjonen skal gi entydig kobling til Folkeregistrert person",
+      "path": [
+        "Del III – Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer"
+      ],
+      "text": "Identitetspåstanden må gjelde en person som finnes i Folkeregisteret. eID-tilbyderen må kunne gi en sikker og entydig kobling til denne personens identifikator i Folkeregisteret (fødsels- eller d-nummer). Det at koblingen er sikker og entydig innebærer at koblingen ikke kan baseres på personens navn eller andre kjennetegn som kan være i bruk av flere personer. eID-tilbyderen kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret om personens utenlandske identifikasjonsnummer.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 19",
+      "heading": "Tilpasninger for nivå høyt",
+      "path": [
+        "Del III – Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer"
+      ],
+      "text": "For identifikasjonsnivåforskriften pkt. 2.1.2 høyt nr. 1 bokstav a gjelder følgende tilpasning:Som gyldig identitetsbevis regnes pass eller nasjonalt identitetskort. For utenlandsk identitetsbevis må entydig knytning til norsk identitetsnummer godtgjøres.Kravet er også oppfylt for eID på nivå 4 iht. rammeverket fra 2008 for autentisering og uavviselighet.\nFor identifikasjonsnivåforskriften 2.3.1 høyt nr. 2 gjelder følgende presisering:Kravet er ikke til hinder for at identitetsinformasjon, f.eks. fødselsnummer, gjøres tilgjengelig på annen måte, eksempelvis i oppslagstjeneste eller at det lagres i sertifikatet for PKI-baserte eID-er. Kravet i 2.3.1 nr. 2 høyt gjelder utlevering av identitetsinformasjon ved autentisering.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 20",
+      "heading": "Tilpasninger for nivå betydelig",
+      "path": [
+        "Del III – Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer"
+      ],
+      "text": "For identifikasjonsnivåforskriften pkt. 2.1.2 nivå betydelig nr. 1 gjelder følgende tilpasning:Kravet til å besitte et bevis kan oppfylles ved at personen godtgjør at han/hun har tilgang til en adresse (postal eller elektronisk) som er registrert på personen i det norske Folkeregisteret eller annet register som gir tilstrekkelig sikkerhet, eksempelvis kontaktregisteret. I tillegg må det finnes tiltak for å sikre at riktig person tar eID-en i bruk, typisk varsling til annen eller samme adresse.\nFor identifikasjonsnivåforskriften pkt. 2.4.6. nivå betydelig gjelder følgende tilpasning:Kravet kan eksempelvis oppnås ved bruk av sikrede maskinvaremoduler (HSM) eller kombinasjoner av tilgangsstyring, logging, overvåking og tjenestedeling. Kravet tar sikte på å hindre at autoriserte personer alene og uoppdaget kan kompromittere prosessene.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 21",
+      "heading": "Tilpasninger for nivå lavt",
+      "path": [
+        "Del III – Sikkerhetsnivåer for ordninger for elektronisk identifikasjon for fysiske personer"
+      ],
+      "text": "For identifikasjonsnivåforskriften pkt. 2.1.2 skal også kravene for nivå betydelig tilfredsstilles, jf. § 20 første ledd.\nFor identifikasjonsnivåforskriften 2.4.7 gjelder følgende presisering:Kravet kan eksempelvis oppfylles ved revisjon iht. ISO 17065, som bl.a. dekker tillitstjenester, med relevante tilleggskrav i ETSI 319403.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Ikrafttredelse og overgangsordning",
+      "path": [
+        "Del IV – ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft straks.\nSeks måneder etter denne forskriftens ikrafttredelse oppheves forskrift 21. november 2005 nr. 1296 om frivillige selvdeklarasjonsordninger for sertifikatutstedere.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    }
+  ]
+}

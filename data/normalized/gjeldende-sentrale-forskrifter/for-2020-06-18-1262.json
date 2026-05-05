@@ -1,0 +1,62 @@
+{
+  "id": "FOR-2020-06-18-1262",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos psykolog",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2020-07-01",
+  "last_change_in_force": "2026-01-06",
+  "last_changed_by": "forskrift/2026-01-06-7",
+  "lovdata_refid": "forskrift/2020-06-18-1262",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-06-18-1262",
+  "raw_xml_sha256": "8130f77c3d831434eb8674ec9f60b9b3b5ecc4492a585363936d38464d76aa2b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det ytes stønad til dekning av utgifter til undersøkelse og behandling hos psykolog når undersøkelsen og behandlingen skjer i forbindelse med sykdom som trygden ellers er stønadspliktig for.Stønaden ytes etter takstene i kapittel II. Det ytes stønad etter honorartakstene ved behandling av pasienter til og med det kalenderår pasientene fyller 26 år og ved behandling av pasienter med HIV-infeksjon.Denne forskriften gjelder ikke når en psykolog foretar undersøkelse eller behandling i en helseinstitusjon hvor vedkommende er ansatt.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det er et vilkår for rett til stønad at undersøkelsen og behandlingen skjer hos psykologspesialist. Vilkåret om norsk spesialistgodkjenning gjelder ikke for psykologer fra andre EØS-stater som yter midlertidige tjenester i Norge, jf. forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.\nDet er videre et vilkår at medlemmet er henvist fra lege, psykolog eller fra barnevernsadministrasjonens leder. Dette gjelder likevel ikke for opptil tre utredende undersøkelser eller samtaler, se merknad til takst 10 a–d og f.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det ytes bare stønad for undersøkelse og behandling hos en psykolog i forbindelse med den samme sykdommen. Det kan gjøres unntak hvis det foreligger spesielle forhold som tilsier det. Saken må i så fall forelegges Helsedirektoratet eller det organ Helsedirektoratet bestemmer på forhånd.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Psykologen plikter å føre journaler og kartotek for å kunne gi de opplysninger og oversikter som Helsedirektoratet eller det organ Helsedirektoratet bestemmer krever, og plikter for øvrig å følge gjeldende bestemmelser i folketrygdloven og i forskrifter som er gitt med hjemmel i denne loven.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Hvis medlemmet på grunn av sin helsetilstand ikke kan møte fram på behandlingsstedet, dekker det regionale helseforetaket reiseutgiftene for psykologen etter lov 2. juli 1999 nr. 61 om spesialisthelsetjenesten m.m. § 2-1a første ledd nr. 6.\nFolketrygden yter reisetillegg i samsvar med reglene og takstene i kapittel II. Reisetillegg utbetales direkte til psykologen mot innsending av spesifisert regning.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    }
+  ]
+}

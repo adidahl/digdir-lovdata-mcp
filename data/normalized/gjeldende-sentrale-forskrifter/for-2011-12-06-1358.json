@@ -1,0 +1,278 @@
+{
+  "id": "FOR-2011-12-06-1358",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer (forskrift om tiltaks- og grenseverdier)",
+  "short_title": "Forskrift om tiltaks- og grenseverdier",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2026-04-10",
+  "last_changed_by": "forskrift/2026-04-10-580",
+  "lovdata_refid": "forskrift/2011-12-06-1358",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-06-1358",
+  "raw_xml_sha256": "2601238376ef7fc4be251b91bbddd6cafc8bd53cde1479af7dc73c524adc3b67",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å beskytte arbeidstakerne mot farer på grunn av fysiske, kjemiske eller biologiske faktorer i virksomheten ved å angi grenseverdier, tiltaksverdier og smitterisikogrupper.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for virksomheter hvor arbeidstakere kan utsettes for fysiske, kjemiske eller biologiske faktorer.\nForskriftens kapittel 2 om støy gjelder ikke for petroleumsvirksomheten til havs.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Hvem forskriften retter seg mot",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Arbeidsgiver skal sørge for at bestemmelsene i denne forskriften blir gjennomført.\nForskriftens kapitler 1, 4, 5 og 6 gjøres gjeldende for virksomheter som ikke sysselsetter arbeidstakere.\nForskriftens kapitler 2 og 3 skal også gjennomføres av virksomheter som ikke sysselsetter arbeidstakere når det gjelder virksomheti bygge- og anleggsvirksomheti landbruket.\nForskriften gjelder også leverandør av pusteluft.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Definisjoner – støy",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Daglig støyeksponeringsnivå, LEX,8h : ekvivalentnivå (LpAeq,T ) for en arbeidsdag normalisert til 8 timer i henhold til internasjonal standard ISO 1999:1990 punkt 3.5 og 3.6. Dette omfatter all støy på arbeidsplassen,Grenseverdier: verdier for støyeksponering som ikke skal overskrides,Gruppe I: arbeidsforhold hvor det stilles store krav til vedvarende konsentrasjon eller behov for å føre uanstrengt samtale og i spise- og hvilerom,Gruppe II: arbeidsforhold hvor det er viktig å føre samtale eller vedvarende store krav til presisjon, hurtighet eller oppmerksomhet,Gruppe III: arbeidsforhold med støyende maskiner og utstyr under forhold som ikke går inn under arbeidsgruppe I og II,Toppverdi av lydtrykknivå, LpC,peak : høyeste observerte C-veide lydtrykknivå målt i løpet av måletiden med målerinnstilling «peak»,Tiltaksverdier: verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen og uheldig belastning til et minimum.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Definisjoner – vibrasjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Daglig eksponeringsverdi: energiekvivalent middelverdi av den frekvensveide akselerasjonen gjennom arbeidsdagen korrigert til en referansetid på 8 timer (A(8)). A(8) = A(T)√T/8 hvor A(T) er daglig vibrasjonseksponering gjennom en arbeidsdag med samlet varighet T timer. For hånd- og armvibrasjoner fastsettes A(T) etter NS-EN-ISO-5349-1, kapittel 4 og 5 og vedlegg A. For helkroppsvibrasjoner fastsettes A(T) etter NS-ISO-2631-1, kapittel 5 til 7 og vedlegg A og B som verdien for daglig vibrasjonseksponering i den akseretningen som gir høyest verdi når k-faktorer for sittende eller stående person benyttes,Grenseverdi for daglig eksponering (A((8)): daglig eksponeringsverdi som ikke skal overskrides,Helkroppsvibrasjoner: mekaniske vibrasjoner som overføres til hele kroppen og medfører risiko for helseskade, særlig i ryggraden, og som også kan innebære en sikkerhetsrisiko,Hånd- og armvibrasjoner: mekaniske vibrasjoner som overføres fra arbeidsutstyr til hånd eller arm og medfører risiko for skade på blodkar, skjelett, ledd, nerver eller muskler, og som også kan innebære en sikkerhetsrisiko,Tiltaksverdi for daglig eksponering (A(8)): daglig eksponeringsverdi som krever iverksetting av tiltak for å redusere risikoen til et minimum.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Definisjoner – kjemikalier",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Fibre: Partikler med lengde større enn 5 mikrometer, med diameter mindre eller lik 3 mikrometer, og med forholdet lengde:diameter større eller lik 3:1.Grenseverdi: Maksimumsverdi for gjennomsnittskonsentrasjonen av et kjemisk stoff i pustesonen til en arbeidstaker i en fastsatt referanseperiode på åtte timer.Kjemikalie: Grunnstoffer, kjemiske forbindelser eller blandinger av slike, enten de forekommer i naturlig tilstand eller er industrielt fremstilt eller brukes eller frigjøres, ved enhver arbeidsoperasjon, uavhengig av om fremstillingen er tilsiktet eller ikke. Dette gjelder uavhengig av om kjemikaliene er tilgjengelige på markedet eller ikke.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-7",
+      "heading": "Definisjoner – biologiske faktorer",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Biologisk grenseverdi: Grensen for konsentrasjonen av en gitt agens i et biologisk miljø, dens metabolitt eller en effektindikator.Biologiske faktorer: mikroorganismer, inkludert de som har blitt genmodifisert, cellekulturer, humane endoparasitter og prioner som kan fremkalle infeksjoner, allergi eller giftvirkning hos mennesker.Med mikroorganismer menes: mikrobiologisk enhet, cellulær eller ikke-cellulær, som er i stand til replikasjon eller overførsel av genetisk materiale.Med cellekultur menes: resultatet av in vitro-dyrking av celler fra flercellede organismer.Levende biologiske faktorer: en cellulær eller ikke-cellulær mikrobiologisk enhet som er i stand til å formere seg eller til å overføre genetisk materiale.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-8",
+      "heading": "Definisjoner – stråling",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift menes med:Elektromagnetisk felt: statisk elektrisk, statisk magnetisk og tidsvarierende elektrisk, magnetisk og elektromagnetisk felt med frekvenser opp til 300 GHz,Grenseverdi: verdier fastsatt ut fra biofysiske og biologiske hensyn, spesielt på bakgrunn av de vitenskapelig veletablerte korttids- og akutte direkte effekter som termiske effekter og elektrisk stimulering av vev, som ikke skal overskrides,Grenseverdi for helsemessige virkninger: de grenseverdier som kan gi utsatte arbeidstakere helseskadelige virkninger som oppvarming og stimulering av nerve- og muskelvev, som ikke skal overskrides,Grenseverdi for sensoriske virkninger: de grenseverdier som kan gi utsatte arbeidstakere forbigående sanseforstyrrelser og mindre endringer i hjernefunksjonene, som ikke skal overskrides,Ikke-koherent optisk stråling: kunstig optisk stråling, unntatt laserstråling,Ioniserende stråling: røntgenstråling, partikkelstråling, eller stråling fra radioaktivt stoff i bølgelengdeområde 0,01–10 nm,Kunstig optisk stråling: elektromagnetisk stråling i bølgelengdeområdet 100 nm–1 mm som ikke emitteres fra solen. Det optiske strålingsspekteret inndeles i ultrafiolett stråling, synlig stråling (lys) og infrarød stråling,Ultrafiolett stråling: optisk stråling i bølgelengdeområde 100 nm–400 nm. Området oppdeles videre i UVA (315–400 nm), UVB (280–315 nm) og UVC (100–280 nm),Synlig stråling: optisk stråling i bølgelengdeområde 380 nm–780 nm,Infrarød stråling: optisk stråling i bølgelengdeområdet 780 nm–1 mm. Området deles videre i IR-A (780–1400 nm), IR-B (1400–3000 nm) og IR-C (3000 nm–1 mm),Tiltaksverdi: verdier for eksponering som krever iverksetting av tiltak for å redusere helserisikoen og uheldig belastning til et minimum.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-9",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Arbeidstilsynet, Havindustritilsynet og Luftfartstilsynet kan på sine områder gi dispensasjon fra forskriften dersom det foreligger særlige grunner, det er sikkerhets- og helsemessig forsvarlig og det ikke strider mot EØS-avtalen.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Tiltaksverdier",
+      "path": [
+        "Kapittel 2. Støy"
+      ],
+      "text": "Tiltaksverdiene for støyeksponering er:a)nedre tiltaksverdi for arbeidsforhold i gruppe I:LEX,1h = 55 dBb)nedre tiltaksverdi for arbeidsforhold i gruppe II:LEX,1h = 70 dBc)nedre tiltaksverdi for arbeidsforhold i gruppe III:LEX,8h = 80 dBd)øvre tiltaksverdier:LEX,8h = 85 dB og LpC,peak = 130 dB\nFor arbeidsforhold i gruppene I og II skal støy fra egen aktivitet ikke inngå i vurderingen i forhold til nedre tiltaksverdi såfremt arbeidstakeren kan avbryte støyen. For spise- og hvilerom skal kun bakgrunnsstøy fra installasjoner, tilstøtende lokaler og omgivelser inngå i vurderingen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Grenseverdier for støy",
+      "path": [
+        "Kapittel 2. Støy"
+      ],
+      "text": "Grenseverdier for støyeksponering er:daglig støyeksponeringsnivå, LEX,8h : 85 dBtoppverdi av lydtrykknivå, LpC,peak : 130 dB\nVed fastleggingen av arbeidstakerens faktiske eksponering, skal det tas hensyn til den effektive dempingsvirkningen av påbudt personlig hørselsvern som arbeidstakeren skal bruke.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tiltaksverdier",
+      "path": [
+        "Kapittel 3. Vibrasjoner"
+      ],
+      "text": "Tiltaksverdiene for den daglige eksponeringen (A(8)):for hånd- og armvibrasjoner: 2,5 m/s2,for helkroppsvibrasjoner: 0,5 m/s2.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Grenseverdier",
+      "path": [
+        "Kapittel 3. Vibrasjoner"
+      ],
+      "text": "Grenseverdiene for den daglige eksponeringen (A(8)):for hånd- og armvibrasjoner: 5,0 m/s2,for helkroppsvibrasjoner: 1,1 m/s2.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Grenseverdier for ioniserende stråling",
+      "path": [
+        "Kapittel 4. Stråling"
+      ],
+      "text": "Følgende grenseverdier skal ikke overskrides:Grenseverdien for arbeidstakere over 18 år er 20 mSv per kalenderår.Stråledosen til øyelinsen skal ikke overstige 20 mSv per kalenderår.Stråledosen til hud, hender og føtter skal ikke overstige 500 mSv per kalenderår.For lærlinger mellom 16 og 18 år som bruker strålekilder som ledd i sin utdannelse, gjelder i stedet for dosene angitt under a–c dosegrenser på henholdsvis 5, 15 og 150 mSv per kalenderår.For gravide kvinner skal dosen til fosteret ikke overstige 1 mSv for den resterende delen av svangerskapet, dvs. etter at graviditet er kjent.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Grenseverdier for kunstig optisk stråling",
+      "path": [
+        "Kapittel 4. Stråling"
+      ],
+      "text": "Grenseverdier for eksponering for kunstig optisk stråling, unntatt laserstråling, er fastsatt i vedlegg 3. Grenseverdier for eksponering for laserstråling er fastsatt i vedlegg 4.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Tiltaks- og grenseverdier for elektromagnetisk felt",
+      "path": [
+        "Kapittel 4. Stråling"
+      ],
+      "text": "Tiltaks- og grenseverdier ved eksponering for elektromagnetisk felt er fastsatt i vedlegg 5, 6 og 7.\nEksponering kan overskride grenseverdiene dersom eksponeringen skjer i forbindelse med installering, utprøving, bruk, utvikling, vedlikehold eller forskning i tilknytning til magnetisk resonansbildedannelse (MRI)-utstyr til pasienter i helsesektoren, dersom følgende er oppfylt:risikovurderingen viser at grenseverdiene er overskredet,samtlige tekniske og organisatoriske tiltak er innført,omstendighetene begrunner overskridelsen av grenseverdiene,arbeidsplassens, arbeidsutstyrets eller arbeidsmetodens særlige karakter er tatt i betraktning, ogarbeidsgiveren påviser at arbeidstakerne fortsatt er beskyttet mot helseskadelige virkninger og sikkerhetsrisiko, herunder sikrer at de instrukser for sikker bruk som produsenten av utstyret har gitt har blitt fulgt.\nEksponering kan overskride grenseverdiene midlertidig i bestemte sektorer eller i forbindelse med bestemte aktiviteter som ikke er omfattet av andre ledd, dersom følgende er oppfylt:risikovurderingen viser at grenseverdiene er overskredet,samtlige tekniske og organisatoriske tiltak er innført,arbeidsplassens, arbeidsutstyrets eller arbeidsmetodens særlige karakter er tatt i betraktning, ogarbeidsgiveren påviser at arbeidstakerne fortsatt er beskyttet mot helseskadelige virkninger og sikkerhetsrisiko, herunder ved å benytte sammenlignbare, mer spesifikke og internasjonalt anerkjente standarder og retningslinjer.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Grenseverdier for forurensninger i arbeidsatmosfæren",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Grenseverdier ved forurensning i arbeidsatmosfæren er gitt i vedlegg 1 til forskriften.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Biologiske grenseverdier",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Grenseverdi for bly er 45 µg Pb per liter blod for kvinner i fertil alder og 150 µg Pb per liter blod for øvrige arbeidstakereGrenseverdi for kvikksølv i urin er 30 μg Hg/g kreatinin.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Krav til sand og annet blåsemiddel som blir brukt til sandblåsing",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Sand og annet blåsemiddel som blir brukt til sandblåsing skal ikke være kreftfremkallende.\nBlåsemidler skal ikke inneholde bly eller blyforbindelser, biologisk tilgjengelig nikkel eller mer enn 1 vektprosent kvarts eller andre krystallinske silika.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Krav til sement og sementholdige stoffblandinger",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Det skal ikke brukes sement og sementholdige stoffblandinger som i hydrert form inneholder mer enn 2 mg løselig seksverdig krom pr. kg. tørr sement.\nKravet i første ledd gjelder ikke for bruk i forbindelse med kontrollerte, lukkede og helautomatiserte prosesser, hvor sement og sementholdige stoffblandinger utelukkende behandles maskinelt, og det ikke er mulighet for kontakt med huden.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Krav til pusteluft fra fyllingsanlegg",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Trykkluft fra fyllingsanlegget skal være mest mulig fri for forurensninger og fri for lukt og smak.\nFølgende verdier skal ikke overskrides:10 ppm (11 mg/m3) karbonmonoksid (CO)500 ppm (900 mg/m3) karbondioksid (CO2 )1 mg/m3 olje50 mg/m3 vann for flasker med fyllingstrykk 200 bar og 30 mg/m3 vann for flasker med fyllingstrykk 300 bar\nO2 -innholdet skal være 21,0 % +/– 0,5 %.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Forbud mot arbeid med spesielle kjemikalier",
+      "path": [
+        "Kapittel 5. Kjemikalier"
+      ],
+      "text": "Forbud mot arbeid med spesielle kjemikalier fremgår av forskrift om organisering, ledelse og medvirkning kapittel 12 og forskrift om utførelse av arbeid kapittel 3 og 4.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Liste over klassifiserte biologiske faktorer (smitterisikogrupper)",
+      "path": [
+        "Kapittel 6. Klassifisering av biologiske faktorer"
+      ],
+      "text": "Som grunnlag for beskyttelsestiltak mot biologiske farekilder skal arbeidsgiveren anvende listen i vedlegg 2 ved vurderingen av den risiko som biologiske faktorer utgjør.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av denne, eller medvirkning til dette, er straffbart i henhold til arbeidsmiljøloven kapittel 19.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Dersom noen som har handlet på vegne av virksomheten har overtrådt bestemmelser i forskriften her eller vedtak gitt i medhold av denne, kan virksomheten ilegges overtredelsesgebyr etter arbeidsmiljøloven § 18-10.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 2013.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    }
+  ]
+}

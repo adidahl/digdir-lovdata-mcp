@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2000-04-05-347",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overskuddsutdeling fra Nordpolet AS",
+  "short_title": "Forskrift om overskudd fra Nordpolet AS",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2000-04-05",
+  "last_change_in_force": "2024-11-26",
+  "last_changed_by": "forskrift/2024-11-26-2855",
+  "lovdata_refid": "forskrift/2000-04-05-347",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-04-05-347",
+  "raw_xml_sha256": "cfd4a053b6d6cd739e575207270656628ee3c2ea2d4d2d82538e2025e279f2f1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Fastsettelse av nettooverskuddet",
+      "path": [],
+      "text": "Nordpolet AS skal drive normal forretningsmessig virksomhet hvor overskuddet skal gå til velferdsformål i samsvar med selskapets vedtekter. Salgsprisene skal fastsettes slik at det sikres et normalt overskudd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Fordeling til velferdsformål",
+      "path": [],
+      "text": "Nordpolet AS' nettooverskudd skal overføres til Longyearbyen lokalstyre for fordeling til velferdsformål og i samsvar med overordnede mål for norsk svalbardpolitikk. Overføringen skal finne sted etter at regnskapet er godkjent.\nMed velferdsformål menes allmennyttige tiltak for befolkningen i Longyearbyen.\nLongyearbyen lokalstyre kan bestemme at deler av det årlige overskuddet skal avsettes til senere tildelinger.\nLongyearbyen lokalstyre utarbeider årlig en rapport til Sysselmesteren om fordelingen av midlene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

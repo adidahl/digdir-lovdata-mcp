@@ -1,0 +1,45 @@
+{
+  "id": "FOR-1994-09-19-897",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hvordan retten til utsettelse av oppsigelser ved masseoppsigelser skal nyttes og Arbeids- og velferdsetaten rolle ved slik utsettelse.",
+  "short_title": "Forskrift om utsettelse ved masseoppsigelse",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1994-09-19",
+  "last_change_in_force": "2006-07-01",
+  "last_changed_by": "forskrift/2006-06-30-790 fra 2006-07-01",
+  "lovdata_refid": "forskrift/1994-09-19-897",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1994-09-19-897",
+  "raw_xml_sha256": "eccc20d8651859c8ff4c0c704daf84251d4bcf1a31a66e035f856e7110f6f16a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Arbeids- og velferdsetaten kan forlenge fristen som nevnt i arbeidsmiljøloven § 56 A nr. 6 på oppfordring av en av partene eller på eget initiativ dersomdet ikke er ført drøftinger mellom arbeidsgiveren og de tillitsvalgte i løpet av den opprinnelige 30 dagers fristenellerdet er helt klare indikasjoner på at partene vil komme frem til en avtale i løpet av de neste 30 dager.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Selv om et av vilkårene i § 1 er oppfylt skal utsettelse ikke skje hvis arbeidsgiveren mangler midler til å dekke lønnsutbetalinger.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Arbeids- og velferdsetaten skal innta en nøytral rolle og kan bistå partene i deres bestrebelser på å komme frem til en avtale. Ved forlengelse av fristen skal Arbeids- og velferdsetaten på vanlig måte vurdere bistand og bruk av arbeidsmarkedstiltak for å redusere konsekvensene av oppsigelsen.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    }
+  ]
+}

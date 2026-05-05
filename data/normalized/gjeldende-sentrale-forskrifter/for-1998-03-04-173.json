@@ -1,0 +1,82 @@
+{
+  "id": "FOR-1998-03-04-173",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av fiske i farvann utenfor noen stats fiskerijurisdiksjon.",
+  "short_title": "Forskrift om fiske i statsløse områder",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1998-03-04",
+  "last_change_in_force": "1999-06-25",
+  "last_changed_by": "forskrift/1999-06-25-757",
+  "lovdata_refid": "forskrift/1998-03-04-173",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-03-04-173",
+  "raw_xml_sha256": "c4e627ba646a74fb9be275fdc7ddca65f87fcd9a86eaa5abc481163654e3d900",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskrift gjelder for norske statsborgere og personer bosatt i Norge som driver fiske med norske fartøyer i farvann utenfor noen stats fiskerijurisdiksjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Deltakelse",
+      "path": [],
+      "text": "Det er forbudt å drive fiske som beskrevet i § 1 uten på forhånd å ha fått tillatelse til å registrere fartøyet hos Fiskeridirektoratet. Registreringen gjelder for ett kalenderår.\nFiskeridirektoratet kan ved forskrift gi nærmere bestemmelser om registrering etter denne paragraf.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Adgang til å nekte registrering av fartøy",
+      "path": [],
+      "text": "Fiskeridirektoratet kan nekte registrering av fartøy nårfisket anses å være i strid med norske fiskeriinteresser,når internasjonale avtaler gjør det nødvendig,når fisket er regulert av regionale – eller subregionale, fiskeriforvaltningsorganisasjoner eller -arrangementer,en rasjonell eller hensiktsmessig utøvelse eller gjennomføring av fisket tilsier det.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Adgang til å stryke fartøy som er registrert",
+      "path": [],
+      "text": "Fiskeridirektoratet kan stryke fartøy i registeret når fartøyeier eller -bruker har overtrådt gjeldende forskrifter for området angitt i § 1, eller når bevarings- og forvaltningstiltak fastsatt av regionale- eller subregionale fiskeriforvaltningsorganisasjoner eller -arrangementer er overtrådt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Rapporteringsplikt",
+      "path": [],
+      "text": "Den som deltar i fisket i henhold til § 2, skal sende melding om når fisket starter, når fisket avsluttes og ukentlige meldinger til Fiskeridirektoratet om oppfisket kvantum spesifisert på fiskearter og med angivelse av hvilke områder fangsten er tatt. Det skal også sendes melding til Fiskeridirektoratet ved overføring av fangst.\nFiskeridirektoratet kan ved forskrift fastsette nærmere bestemmelser om rapporteringsplikten etter første ledd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Oppgaveplikt",
+      "path": [],
+      "text": "Den som deltar i fisket i henhold til § 2, skal føre fangstdagbok og innen én måned etter endt tur sende dagboken til Fiskeridirektoratet, jfr. forskrift av 26. juli 1993 nr. 772 om oppgaveplikt for fiske og fangstfartøy.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til lov av 16. juni 1972 nr. 57 om regulering av deltagelsen i fisket § 11 og lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v. § 53.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

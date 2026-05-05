@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2016-10-28-1250",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten",
+  "short_title": "Forskrift om ledelse og kvalitetsforbedring i helse- og omsorgstjenesten",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2017-01-01",
+  "last_change_in_force": "2020-03-01",
+  "last_changed_by": "forskrift/2020-02-04-119 fra 2020-03-01",
+  "lovdata_refid": "forskrift/2016-10-28-1250",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-10-28-1250",
+  "raw_xml_sha256": "3a2ce4beb8eb4d17fcbdf9100611bbf23ac74df28ddec689f7fb76057a5797d9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å bidra til faglig forsvarlige helse- og omsorgstjenester, kvalitetsforbedring og pasient- og brukersikkerhet, og at øvrige krav i helse- og omsorgslovgivningen etterleves.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder virksomheter som er pålagt internkontrollplikt etterhelsetilsynsloven § 5spesialisthelsetjenesteloven § 2-1a tredje leddhelse- og omsorgstjenesteloven § 3-1 tredje ledd ellertannhelsetjenesteloven § 1-3a.\nForskriften gjelder også virksomheter som er pålagt plikt til å arbeide systematisk for kvalitetsforbedring og pasient- og brukersikkerhet etterspesialisthelsetjenesteloven § 3-4a ellerhelse- og omsorgstjenesteloven § 4-2.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ansvaret for styringssystem",
+      "path": [],
+      "text": "Den som har det overordnede ansvaret for virksomheten skal sørge for at det etableres og gjennomføres systematisk styring av virksomhetens aktiviteter i tråd med denne forskriften og at medarbeiderne i virksomheten medvirker til dette.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjon",
+      "path": [],
+      "text": "I denne forskriften betyr styringssystem for helse og omsorgstjenesten den del av virksomhetens styring som omfatter hvordan virksomhetens aktiviteter planlegges, gjennomføres, evalueres og korrigeres i samsvar med krav fastsatt i eller i medhold av helse- og omsorgslovgivningen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Omfang og dokumentasjon",
+      "path": [],
+      "text": "Styringssystemet, jf. pliktene i § 6 – § 9, skal tilpasses virksomhetens størrelse, egenart, aktiviteter og risikoforhold og ha det omfang som er nødvendig.\nHvordan pliktene etter denne forskriften etterleves, skal dokumenteres i den form og det omfang som er nødvendig ut i fra virksomhetens art, aktiviteter, risikoforhold og størrelse.\nDokumentasjonen skal til enhver tid være oppdatert og tilgjengelig.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Plikten til å planlegge",
+      "path": [],
+      "text": "Plikten til å planlegge virksomhetens aktiviteter innebærer følgende oppgaver:ha oversikt over og beskrive virksomhetens mål, oppgaver, aktiviteter og organisering. Det skal klart fremgå hvordan ansvar, oppgaver og myndighet er fordelt og hvordan det skal arbeides systematisk for kvalitetsforbedring og pasient- og brukersikkerhet i virksomheteninnhente tilstrekkelig informasjon og kunnskap til å kunne planlegge og gjennomføre oppgaveneha oversikt over relevant regelverk, retningslinjer og veiledere, og planlegge hvordan dette skal gjøres kjent i virksomhetenha oversikt over områder i virksomheten hvor det er risiko for svikt eller mangel på etterlevelse av myndighetskrav og områder hvor det er behov for vesentlig forbedring av kvaliteten på tjenesten og pasient- og brukersikkerhetenplanlegge hvordan risiko som beskrevet i § 6 d kan minimaliseres og særlig legge vekt på risikofaktorer forbundet med samhandling internt og eksterntha oversikt over medarbeideres kompetanse og behov for opplæringha oversikt over avvik, herunder uønskede hendelser, evalueringer, klager, brukererfaringer, statistikk, informasjon og annet som sier noe om virksomheten overholder helse- og omsorgslovgivningen, inkludert om tjenestene er faglig forsvarlige og om virksomheten arbeider systematisk for kvalitetsforbedring og pasient- og brukersikkerhet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Plikten til å gjennomføre",
+      "path": [],
+      "text": "Plikten til å gjennomføre virksomhetens aktiviteter innebærer følgende oppgaver:sørge for at virksomhetens oppgaver, organisering og planer er kjent i virksomheten og gjennomføressørge for at medarbeidere i virksomheten har nødvendig kunnskap om og kompetanse i det aktuelle fagfeltet, relevant regelverk, retningslinjer, veiledere og styringssystemetutvikle og iverksette nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av helse- og omsorgslovgivningen, inkludert brudd på krav til faglig forsvarlighet og systematisk arbeid for kvalitetsforbedring og pasient- og brukersikkerhetsørge for at virksomhetens medarbeidere medvirker slik at samlet kunnskap og erfaring utnyttessørge for å gjøre bruk av erfaringer fra pasienter, brukere og pårørende.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Plikten til å evaluere",
+      "path": [],
+      "text": "Plikten til å evaluere virksomhetens aktiviteter innebærer følgende oppgaver:kontrollere at virksomhetens oppgaver, tiltak, planer og mål gjennomføresvurdere om gjennomføringen av oppgavene, tiltakene og planene er egnet til å etterleve krav i helse- og omsorgslovgivningen, inkludert krav til faglig forsvarlighet og systematisk arbeid for kvalitetsforbedring og pasient- og brukersikkerhetevaluere om iverksatte tiltak ivaretar kravene i helse- og omsorgslovgivningenvurdere virksomheten på bakgrunn av pasienter, brukere og pårørendes erfaringergjennomgå avvik, herunder uønskede hendelser, slik at lignende forhold kan forebyggesminst en gang årlig systematisk gjennomgå og vurdere hele styringssystemet opp mot tilgjengelig statistikk og informasjon om virksomheten for å sikre at det fungerer som forutsatt og bidrar til kontinuerlig forbedring av virksomheten.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Plikten til å korrigere",
+      "path": [],
+      "text": "Plikten til å korrigere virksomhetens aktiviteter innebærer følgende oppgaver:rette opp uforsvarlige og lovstridige forholdsørge for korrigerende tiltak som bidrar til at helse- og omsorgslovgivningen etterleves, inkludert faglig forsvarlige tjenester, og at systematisk arbeid for kvalitetsforbedring og pasient- og brukersikkerhet gjennomføres.forbedre nødvendige prosedyrer, instrukser, rutiner eller andre tiltak for å avdekke, rette opp og forebygge overtredelse av helse- og omsorgslovgivningen, inkludert krav til faglig forsvarlighet og systematisk arbeid for kvalitetsforbedring og pasient- og brukersikkerhet.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2017. Fra samme tidspunkt oppheves forskrift 20. desember 2002 nr. 1731 om internkontroll i helse- og omsorgstjenesten.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

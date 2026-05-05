@@ -1,0 +1,80 @@
+{
+  "id": "FOR-2011-03-15-290",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om treningsstandard for personell som attesterer for komponentvedlikehold",
+  "short_title": "Forskrift om treningsstandard for vedlikeholdspers.",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2011-04-01",
+  "lovdata_refid": "forskrift/2011-03-15-290",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-03-15-290",
+  "raw_xml_sha256": "e9680ff0f9855a3f2af2f4656c58c50633c04822b56d7d2d244224f0c98384de",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre at attest for luftdyktighet (CRS) for komponenter som kan benyttes i luftfartøy blir utstedt av personer med nødvendig teoretisk og praktisk kompetanse.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for personell som skal attestere for luftdyktighet etter komponentvedlikehold i henhold til forskrift 24. mai 2005 nr. 462 om kontinuerlig luftdyktighet for luftfartøyer og luftfartøyprodukter, -deler og -utstyr og om godkjenning av organisasjoner og personell som deltar i disse oppgaver (vedlikeholdsforskriften), vedlegg III, Part-66.A.200.\nForskriften gjelder for personell som skal attestere for luftdyktighet på komponenter tilhørende luftfartøyer dekket av forskrift 19. juni 2008 nr. 614 om krav for utstedelse, utvidelse og fornyelse av nasjonal rettighet for vedlikehold av luftfartøy (BSL C 7-1).",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til treningsstandard for komponentvedlikehold",
+      "path": [],
+      "text": "Personell som skal attestere for komponentvedlikehold (CRS) i organisasjoner som er godkjent i henhold til vedlikeholdsforskriftens Annex II, Part-145 eller i andre vedlikeholdsorganisasjoner med nasjonal godkjennelse, skal ha opplæring og trening som tilfredsstiller de krav som fremgår av § 4 og § 5. Opplæring og trening skal dokumenteres gjennom undervisningsprogram og treningsprogram med utpekte instruktører og eksaminatorer.\nTeoretisk opplæring skal gi kunnskap om komponenter. Praktisk trening (OJT – On the Job Training) skal gi kunnskap om inspeksjon, reparasjon og overhaling.\nOpplæring og trening skal gjennomføres i godkjente Part-147 organisasjoner, godkjente Part-145 organisasjoner eller tilsvarende.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Teoretisk opplæring og praktisk trening",
+      "path": [],
+      "text": "Teoretisk opplæring skal omfatte:komponentens plassering og funksjon i systemet eller luftfartøyeteventuell BITE (Built In Test Equipment) eller annet vedlikeholdsverktøy tilhørende luftfartøyetsikkerhetsaspektereventuell spesialbehandlingkomponentens oppbygging og virkemåteoppbygging av manualereventuelt testutstyr.\nPraktisk trening (OJT) skal omfatte:bruk av manualerbruk av håndverktøy og spesialverktøydemontering og monteringinspeksjonfeilsøkingreparasjontestinglagring og forsendelsedokumentasjonHMS.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Teoretisk og praktisk prøve",
+      "path": [],
+      "text": "Opplæring og trening skal avsluttes med en prøve som må bestås. Prøven kan gjennomføres som en kombinert praktisk og teoretisk prøve eller som to separate prøver.\nTeoretisk prøve kan være muntlig eller skriftlig.\nPraktisk prøve skal vise om kandidaten kan bruke verktøy og utstyr i utførelse av vedlikeholdsoppgaver.\nPrøve vurderes til bestått eller ikke bestått.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overgangsordninger og tidsfrister mv.",
+      "path": [],
+      "text": "Personell som har vært innehavere av nasjonale flyteknikersertifikater for komponenter (ICAO MII, MIV og X) som senere er konvertert til Part-66 sertifikater, oppfyller kravene i denne forskriften.\nPersonell som ved ikrafttredelse av denne forskrift har gyldig autorisasjon gitt av en vedlikeholdsorganisasjon beholder sine autorisasjoner begrenset til det som var gjeldende ved ikrafttredelse uten ekstra trening.\nOrganisasjoner som har godkjente prosedyrer for autorisasjon av personell som attesterer for luftdyktighet på komponenter, må innen 1. april 2012 ha oppdatert sine prosedyrer for trening i henhold til denne forskrift.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Luftfartstilsynet kan i særlige tilfeller gi dispensasjon fra kravene i denne forskriften. For at dispensasjon skal kunne gis må det fremlegges dokumentasjon for utdanning og erfaring som er egnet til å forsikre Luftfartstilsynet om at søkeren har nødvendig teoretisk og praktisk kompetanse.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. april 2011.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

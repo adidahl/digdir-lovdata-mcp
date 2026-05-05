@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2004-10-15-1338",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsreglar ved ikraftsetjing av lov 2. juli 2004 nr. 63 om endringer i lov 20. desember 1996 nr. 106 om tomtefeste mv.",
+  "short_title": "Forskrift om overgangsreglar til tomtefestelova",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2004-11-01",
+  "lovdata_refid": "forskrift/2004-10-15-1338",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-10-15-1338",
+  "raw_xml_sha256": "85a92735f5715a339c3b2703a4136ef76711543aa1e0c4619f123daf65d2e289",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Endringane i lov 20. desember 1996 nr. 106 om tomtefeste § 7, § 32, § 33, § 34, § 36 første og andre ledd, § 37 og § 38 skal gjelde der krav om innløysing eller lenging fremjast på grunnlag av at innløysingstida er inne eller festetida er ute 1. januar 2006 eller seinare.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Regelen i § 36 tredje ledd om bortfall av retten til innløysing eller lenging gjeld der festetida går ut 1. januar 2007 eller seinare.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Ved krav om innløysing eller lenging når festetida er ute for ei tomt som er festa bort for festaren si livstid, gjeld likevel endringane i § 7, § 32, § 33, § 34, § 36, § 37 og § 38 der festaren døyr 1. november 2004 eller seinare.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Endringane i § 43 gjeld der krav om skjønn blir sett fram 1. november 2004 eller seinare. Gjeld skjønnet krav om innløysing, skal endringane likevel berre gjelde der endringane i tomtefestelova § 37 gjeld for kravet etter § 1 eller § 3 i forskrifta her.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Forskrifta gjeld frå 1. november 2004.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

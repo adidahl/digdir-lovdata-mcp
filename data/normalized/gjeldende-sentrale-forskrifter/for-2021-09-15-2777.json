@@ -1,0 +1,57 @@
+{
+  "id": "FOR-2021-09-15-2777",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om meldeplikt ved utkontraktering av virksomhet mv.",
+  "department": "Finansdepartementet",
+  "date_in_force": "2022-01-01",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-06-27-1363 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2021-09-15-2777",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-15-2777",
+  "raw_xml_sha256": "3bf6f81630ab83836e0bb343ad692261b04de0fe56488bd0268c7a705801fe0f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Samlet oversikt over avtaler om utkontraktering",
+      "path": [],
+      "text": "Alle foretak som er omfattet av finanstilsynsloven § 1 skal ha en oppdatert oversikt over alle avtaler om utkontraktering av virksomhet.\nOversikten skal inneholde opplysninger som nevnt i § 4 første ledd.\nDenne bestemmelsen gjelder ikke for IKT-tjenesteavtaler som er omfattet av lov om digital operasjonell motstandsdyktighet i finanssektoren.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Foretak som er unntatt fra meldeplikten etter finanstilsynsloven § 4c",
+      "path": [],
+      "text": "Meldeplikt ved utkontraktering etter finanstilsynsloven § 4c gjelder ikke for:forvaltningsselskap for verdipapirfondforvaltere av alternative investeringsfondregnskapsførerforetakrevisjonsforetakeiendomsmeglingsforetakadvokater som driver eiendomsmeglinginkassoforetaklåneformidlereforsikringsformidlere.\nForetak som nevnt i bokstav a og b som yter investeringstjenester, jf. verdipapirfondloven § 2-1 annet og tredje ledd, og AIF-loven § 2-2 tredje og fjerde ledd, skal likevel være omfattet av forskriften for så vidt gjelder disse tjenestene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Meldepliktige utkontrakteringsavtaler",
+      "path": [],
+      "text": "Meldeplikten ved utkontraktering etter finanstilsynsloven § 4-6 gjelder avtaler om utkontraktering av virksomhet som er kritisk eller viktig for foretaket.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til melding",
+      "path": [],
+      "text": "Melding om utkontraktering av virksomhet skal inneholde opplysninger om:navn og organisasjonsnummer på oppdragstakervirksomheten/oppgavene som utkontrakteresoppdragstaker driver virksomhet i Norge, i norsk selskap, i filial eller som grensekryssende virksomhet. Dersom oppdragstaker er etablert i utlandet skal det også opplyses hvilket land foretakets hovedkontor er etablert inavn og organisasjonsnummer på underleverandører som oppdragstaker bruker ved utførelse av oppgaver på vegne av foretaket. Dersom underleverandør er etablert i utlandet bes det opplyst hvilket landavtalens oppstarts- og opphørsdato, herunder opplysninger om rullerende avtaleperiodehvordan foretaket vil følge opp sitt ansvar for den utkontrakterte virksomheten, samt foretakets risikovurdering av utkontrakteringen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2022.\nFølgende forskrift oppheves når forskrift om meldeplikt ved utkontraktering av virksomhet mv. trer i kraft:Forskrift 5. juni 2015 nr. 613 om unntak fra meldeplikt ved utkontraktering av virksomhet.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

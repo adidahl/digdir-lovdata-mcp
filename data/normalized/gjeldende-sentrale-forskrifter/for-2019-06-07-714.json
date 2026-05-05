@@ -1,0 +1,658 @@
+{
+  "id": "FOR-2019-06-07-714",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. (budsjett- og regnskapsforskriften for kommuner og fylkeskommuner mv.)",
+  "short_title": "Budsjett- og regnskapsforskriften for kommuner og fylkeskommuner mv.",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2020-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-09-12-1858 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2019-06-07-714",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-06-07-714",
+  "raw_xml_sha256": "b4feee7db076571c4870baf9faba3305b027e9ebede67a0f452951cb1d99fce1",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Saklig virkeområde",
+      "path": [
+        "Kapittel 1. Virkeområde"
+      ],
+      "text": "Forskriften gjelder forøkonomiplanen, årsbudsjettet, årsregnskapene og årsberetningen til kommuner og fylkeskommunerårsbudsjettet, årsregnskapet og årsberetningen til kommunale og fylkeskommunale foretak etter kommuneloven kapittel 9årsbudsjettet, årsregnskapet og årsberetningen til interkommunale politiske råd etter kommuneloven kapittel 18 og kommunale oppgavefellesskap etter kommuneloven kapittel 19årsbudsjettet og årsregnskapet til lånefond etter kommuneloven § 14-14 tredje leddinterkommunale styrer etter § 27 i kommuneloven av 1992 som i medhold av kommuneloven av 2018 § 31-2 første ledd ikke er omdannet til interkommunalt politisk råd eller kommunalt oppgavefellesskap.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Inntekter og utgifter mv. i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal omfatteløpende inntekterutgifter til driftoverføring til investeringbruk av og avsetninger til driftsfonddekning av tidligere års merforbruk.\nØkonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal også omfatteutlån og mottatte avdrag på utlån når det følger av § 2-7inntekter fra salg av aksjer når det følger av § 2-9.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Inntekter og utgifter mv. i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal omfatteutgifter til investeringer i anleggsmidler og inntekter knyttet til anskaffelser av anleggsmidlerinntekter fra salg av anleggsmidler og utgifter knyttet til salg av anleggsmidlerbruk av lånutlån og mottatte avdrag på utlånoverføring fra driftbruk av og avsetninger til investeringsfonddekning av tidligere års udekket beløp.\nØkonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet skal også omfattetilskudd til andres investeringer når det følger av § 2-4avdrag på lån når det følger av § 2-5utbytte og uttak av kapital fra selskaper når det følger av § 2-8.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Vedlikehold og påkostninger på varige driftsmidler",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Utgifter til vedlikehold av varige driftsmidler regnes som utgifter til drift. Utgifter til vesentlige og varige påkostninger regnes som utgifter til investeringer i anleggsmidler.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Tilskudd til andres investeringer",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Tilskudd til andres investeringer regnes som utgifter til drift. Tilskudd til andres investeringer som kan lånefinansieres etter kommuneloven § 14-16 første eller andre ledd, trossamfunnsloven § 14 fjerde ledd eller gravplassloven § 3 tredje ledd, skal likevel føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet hvis tilskuddet finansieres av inntekter her.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Avdrag på lån",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Avdrag på lån som er tatt opp etter kommuneloven § 14-15 første eller andre ledd eller § 14-16 eller med hjemmel i annen lov, regnes som utgifter til drift. I økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet skal det føres avdrag på slike lån som samlet minst tilsvarer minimumsavdraget beregnet etter kommuneloven § 14-18. Avdrag på slike lån som overstiger minimumsavdraget, skal bare føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet, hvis avdraget finansieres av inntekter her.\nAvdrag på lån som er tatt opp etter kommuneloven § 14-17 første ledd, føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Bruk av lån",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Den delen av et lån som er brukt til å finansiere utgifter i regnskapsåret, føres i investeringsregnskapet. Den delen av et lån som ikke er brukt, registreres på memoriakonto for ubrukte lånemidler.\nBruk av lån i investeringsregnskapet kan ikke være høyere enn det som er fastsatt i investeringsbudsjettet.\nBruk av lån kan ikke være høyere enn utgiftene i investeringsregnskapet som med hjemmel i lov kan finansieres med lån.\nBruk av lån kan likevel være høyere enn det som følger av tredje ledd hvis bruken finansierer dekning av et tidligere års udekket beløp i investeringsregnskapet, og hvis det udekkete beløpet knytter seg til utgifter som med hjemmel i lov kan finansieres med lån.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Sosiale utlån og næringsutlån",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Sosiale utlån regnes som utgifter til drift. Næringsutlån regnes som utgifter til drift hvis utlånet finansieres av løpende inntekter.\nMottatte avdrag på utlån som er ført i drift etter første ledd regnes som løpende inntekter.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Utbytte og uttak av kapital fra selskaper",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "Utdeling av resultater som er opptjent i selskapet i løpet av kommunens eller fylkeskommunens eiertid, regnes som løpende inntekter.\nUtdeling av innskutt kapital eller verdier som kommunen eller fylkeskommunen har betalt vederlag for, føres i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Salg av aksjer klassifisert som finansielle anleggsmidler",
+      "path": [
+        "Kapittel 2. Skillet mellom drift og investering"
+      ],
+      "text": "En andel av inntektene fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal regnes som løpende inntekter. Dette gjelder bare hvis kommuner eller fylkeskommuner har bestemmende innflytelse i selskapet.\nAndelen som utgjør løpende inntekter etter første ledd, er den delen av salgsinntekten som gjenspeiler resultatene som er opptjent i selskapet i løpet av kommunens eller fylkeskommunens eiertid, og som ved en videreføring av eierskapet til aksjene kunne blitt utdelt og inntektsført i driften etter § 2-8 første ledd.\nBeløpet etter andre ledd skal reduseres med utbyttet som eventuelt utbetales til kommunen eller fylkeskommunen, hvis utbyttet inngår i beregningen etter andre ledd og inntektsføres i driften etter § 2-8 første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Klassifisering av eiendeler og gjeld",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Eiendeler som er vesentlige og til varig eie, klassifiseres i balanseregnskapet som anleggsmidler. Andre eiendeler klassifiseres som omløpsmidler.\nLån som er tatt opp etter kommuneloven § 14-15 første eller andre ledd, § 14-16, § 14-17 første ledd eller kirkeloven § 15 sjette ledd, klassifiseres i balanseregnskapet som langsiktig gjeld. Annen gjeld klassifiseres som kortsiktig gjeld.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Måling av anleggsmidler og langsiktig gjeld",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Anleggsmidler måles til anskaffelseskost. Anleggsmidler som har begrenset utnyttbar levetid, avskrives etter § 3-4. Anleggsmidler nedskrives til virkelig verdi ved et vesentlig og varig verdifall. Nedskrivningen reverseres i den grad grunnlaget for nedskrivningen faller bort.\nLangsiktig gjeld måles til opptakskost. Langsiktig gjeld oppskrives ved en varig økning i forpliktelsen. Langsiktig gjeld oppskrives likevel ikke ved renteendringer på lån. Oppskrivningen reverseres i den grad grunnlaget for oppskrivningen faller bort.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Måling av omløpsmidler og kortsiktig gjeld",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Omløpsmidler måles til det laveste av anskaffelseskost og virkelig verdi. Markedsbaserte finansielle omløpsmidler måles til virkelig verdi.\nKortsiktig gjeld måles til det høyeste av opptakskost og virkelig verdi.\nVed sikring skal gevinst eller tap på et sikringsinstrument sammenstilles med tap eller gevinst på sikringsobjektet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Avskrivninger av anleggsmidler",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Anleggsmidler som har begrenset utnyttbar levetid, avskrives over den utnyttbare levetiden til anleggsmidlet. Avskrivningsperioden kan likevel ikke være lengre enn5 år for IKT-utstyr, kontormaskiner, og lignende10 år for inventar og innredning, større utstyr, verktøy og maskiner, kjøretøy, og lignende15 år for programvare20 år for brannbiler og andre større nyttekjøretøy, større anleggsmaskiner, båter og ferger, og lignende40 år for veger og parkeringsplasser, terminalbygninger, kaier og kaianlegg, forbrenningsanlegg, renseanlegg, pumpestasjoner, høydebasseng, og lignende50 år for barnehagelokaler, skolelokaler, idrettshaller og idrettsanlegg, boliger og lokaler til bofellesskap, administrasjonslokaler, institusjonslokaler, kulturbygg, lagerbygg, brannstasjoner, og lignende80 år for ledningsnett, og lignende.\nAvskrivningene skal være lineære, hvis ikke noe annet følger av god kommunal regnskapsskikk.\nAvskrivningene skal starte senest året etter at anleggsmidlet er anskaffet.\nStørre varige driftsmidler som består av deler med ulik levetid, kan dekomponeres slik at delene av driftsmidlet avskrives hver for seg. Ved dekomponering skal gjennomsnittlig avskrivningstid for de ulike delene ikke være lengre enn det som følger av første ledd.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-4a",
+      "heading": "Endringer i avskrivninger av tidligere investeringer i ledningsnett mv.",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Avskrivningstiden for forbrenningsanlegg, renseanlegg, pumpestasjoner og høydebasseng som er anskaffet i 2019 og tidligere, skal vurderes på nytt og fastsettes i tråd med § 3-4 første ledd.\nAvskrivningstiden for ledningsnett som er anskaffet i 2025 og tidligere, skal vurderes på nytt og fastsettes i tråd med § 3-4 første ledd.\nVed endring av avskrivningstiden i tråd med første og andre ledd, skal bokført verdi i årsregnskapet per 31. desember 2025 fordeles over ny gjenværende levetid.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-5",
+      "heading": "Pensjonspremier, premieavvik, pensjonsmidler og pensjonsforpliktelser",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Årets pensjonspremie skal utgiftsføres i tråd med kommuneloven § 14-6 tredje ledd bokstav c.\nÅrets premieavvik er differansen mellom årets pensjonspremie og årets beregnete netto pensjonskostnad. Årets premieavvik inntektsføres og balanseføres hvis pensjonspremien er større enn netto pensjonskostnad. Årets premieavvik utgiftsføres og balanseføres hvis pensjonspremien er mindre enn netto pensjonskostnad.\nPremieavviket som er balanseført etter andre ledd, skal fra og med påfølgende år tilbakeføres over syv år med like årlige beløp. Premieavvik som oppsto i regnskapsårene 2011 til og med 2013 skal tilbakeføres over ti år. Premieavvik som oppsto i regnskapsårene til og med 2010 skal tilbakeføres over femten år.\nEt premieavvik som er balanseført etter andre ledd kan i stedet for tilbakeføring etter tredje ledd tilbakeføres fullt ut i året etter at premieavviket oppsto.\nPensjonsmidlene klassifiseres som anleggsmidler i balanseregnskapet. Egenkapital i egen pensjonskasse eller gjensidig livsforsikringsselskap skal ikke innregnes i pensjonsmidlene. Pensjonsmidlene måles til virkelig verdi. Obligasjoner som holdes til forfall måles likevel til anskaffelseskost.\nPensjonsforpliktelsen klassifiseres som langsiktig gjeld i balanseregnskapet. Pensjonsforpliktelsene måles til nåverdien av opptjente fremtidige pensjonsytelser.\nEstimatavvik for pensjonsmidlene og pensjonsforpliktelsene, og virkningen av planendringer på pensjonsforpliktelsene, regnskapsføres kun i balansen.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 3-6",
+      "heading": "Forutsetningene for beregning av netto pensjonskostnad, pensjonsmidlene og pensjonsforpliktelsene",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Beregningene av netto pensjonskostnad, pensjonsmidlene og pensjonsforpliktelsene etter § 3-5 skal gjøres på grunnlag av de økonomiske forutsetningene som departementet fastsetter og på grunnlag av anerkjente aktuarmessige forutsetninger. De aktuarmessige forutsetningene kan inneholde sikkerhetsmarginer. Departementet kan fastsette nærmere aktuarmessige forutsetninger.\nDepartementet fastsetter tidspunktet for implementering av endringer i aktuarmessige forutsetninger hvis endringene har vesentlig betydning for måling av netto pensjonskostnad, pensjonsmidlene eller pensjonsforpliktelsene. Departementet fastsetter også tidspunktet for implementering av planendringer i beregningene av netto pensjonskostnad, pensjonsmidlene og pensjonsforpliktelsene.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 3-7",
+      "heading": "Virkninger av endring av regnskapsprinsipp",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "Virkninger av endring av regnskapsprinsipp føres direkte mot egenkapitalen. Virkninger som påvirker arbeidskapitalen, føres mot konto for prinsippendringer. Virkninger som påvirker anleggsmidler eller langsiktig gjeld, føres mot kapitalkonto.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 3-8",
+      "heading": "Bokføring",
+      "path": [
+        "Kapittel 3. Klassifisering og måling av eiendeler og gjeld, regnskapsføring av pensjon, virkninger av endring i regnskapsprinsipp og bokføring"
+      ],
+      "text": "For virksomhet som er bokføringspliktig etter kommuneloven § 14-6 femte ledd, skal pliktig regnskapsrapportering etter bokføringsloven § 3 omfatte regnskapsrapportering etter kommuneloven § 14-6, § 14-8 og § 16-1.\nHvis kontantsalg i en avgrenset virksomhet er mindre enn tre ganger folketrygdens grunnbeløp i løpet av et regnskapsår, kan kravene i bokføringsforskriften § 5-3-2 fravikes for denne virksomheten. Hvis bokføringsforskriften § 5-3-2 fravikes, skal kontantsalget dokumenteres etter reglene i bokføringsforskriften delkapittel § 5-4 så langt de passer. Første og andre punktum gjelder ikke for virksomhet som er bokføringspliktig etter bokføringsloven § 2 andre ledd.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Regnskapsføring av bruk av lån og egenkapitaldisposisjoner",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Ved avslutningen av regnskapet skal følgende disposisjoner regnskapsføres i samsvar med budsjetterte beløp:bruk av lånoverføring fra drift til investeringavsetning til og bruk av disposisjonsfond og ubundet investeringsfonddekning av tidligere års merforbruk.I tillegg regnskapsføres overføring fra drift til investering og avsetning til og bruk av disposisjonsfond og ubundet investeringsfond som er vedtatt av underordnet organ. I tillegg regnskapsføres dekning av tidligere års udekket beløp i samsvar med kommuneloven § 14-11 eller § 14-12 eller denne forskriften § 9-5 tredje ledd.\nRegnskapsførte beløp etter første ledd skal strykes eller økes når det følger av § 4-2 til § 4-6.\nFør regnskapet avsluttes, skal i tillegg følgende strykes:overføring fra drift til investering, hvis det er nødvendig for å unngå at løpende inntekter avsettes til investeringsfond i strid med kommuneloven § 14-9 andre ledd andre punktumbruk av lån, hvis det er nødvendig for å unngå bruk av lån til formål som ikke kan finansieres med lån i strid med kommuneloven § 14-15 til § 14-17.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Strykninger av egenkapitaldisposisjoner og bruk av disposisjonsfond ved merforbruk i driftsregnskapet",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Hvis driftsregnskapet viser et merforbruk etter at disposisjonene i § 4-1 første ledd er gjennomført, skal merforbruket reduseres så mye som mulig ved åstryke overføring til investeringstryke avsetning til disposisjonsfondstryke inndekning av tidligere års merforbruk.Overføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav a. Strykninger etter bokstav a og b skal gjennomføres så mye som mulig før det foretas strykninger etter bokstav c.\nHvis regnskapet fortsatt viser et merforbruk etter strykningene, skal merforbruket reduseres ytterligere ved bruk av disposisjonsfond, så lenge det er tilgjengelige midler på fondet. Den delen av disposisjonsfondet som i det opprinnelige budsjettvedtaket for året etter regnskapsåret brukes til å finansiere driftsbudsjettet, kan likevel ikke brukes til å redusere merforbruket. Et merforbruk som ikke kan reduseres etter første punktum, fremføres til inndekning etter kommuneloven § 14-11 eller § 14-12.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Strykninger av egenkapitaldisposisjoner og avsetning til disposisjonsfond ved mindreforbruk i driftsregnskapet",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Hvis driftsregnskapet viser et mindreforbruk etter at disposisjonene i § 4-1 første ledd er gjennomført, skal mindreforbruket reduseres så mye som mulig ved å stryke bruk av disposisjonsfond.\nHvis regnskapet fortsatt viser et mindreforbruk etter strykningene, skal mindreforbruket dekke inn eventuelle tidligere års merforbruk. Et mindreforbruk som ikke dekker inn et merforbruk skal avsettes til disposisjonsfond.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Bruk av disposisjonsfond ved tidligere års merforbruk",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Hvis balanseregnskapet viser et merforbruk fra tidligere år etter at disposisjonene i § 4-2 eller § 4-3 er gjennomført, skal merforbruket dekkes inn ved bruk av midler på disposisjonsfond, så lenge det er tilgjengelige midler på fondet som ikke er skjermet etter § 4-2 andre ledd andre punktum.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Strykninger av egenkapitaldisposisjoner ved udekket beløp i investeringsregnskapet",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Hvis investeringsregnskapet viser et udekket beløp etter at disposisjonene i § 4-1 første ledd er gjennomført, skal det udekkete beløpet reduseres så mye som mulig ved å stryke avsetninger til ubundet investeringsfond.\nHvis regnskapet fortsatt viser et udekket beløp etter strykningene, skal det udekkete beløpet føres opp til dekning på investeringsbudsjettet i det året som regnskapet legges fram.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Strykninger av bruk av lån, egenkapitaldisposisjoner og avsetning til ubundet investeringsfond ved udisponert beløp i investeringsregnskapet",
+      "path": [
+        "Kapittel 4. Avslutning av årsregnskapet"
+      ],
+      "text": "Hvis investeringsregnskapet viser et udisponert beløp etter at disposisjonene i § 4-1 første ledd er gjennomført, skal det udisponerte beløpet reduseres så mye som mulig ved åstryke bruk av lånstryke overføring fra driftstryke bruk av ubundet investeringsfondOverføring av midler som etter lov eller avtale er reservert for særskilte formål, kan likevel ikke strykes etter bokstav b.\nHvis regnskapet fortsatt viser et udisponert beløp etter strykningene, skal det udisponerte beløpet avsettes til ubundet investeringsfond.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Oppstillinger i økonomiplanen og årsbudsjettet",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Økonomiplanen og årsbudsjettet skal inneholde oppstillingene som nevnt i § 5-4 til § 5-7. Oppstillingene etter § 5-4 til § 5-6 skal også vise beløp for det forrige budsjettåret og det sist vedtatte årsregnskapet.\nFørste ledd gjelder tilsvarende for innstillingene til vedtak om økonomiplan og årsbudsjett. Oppstillingen etter § 5-6 kan likevel utarbeides etter at økonomiplanen eller årsbudsjettet er vedtatt.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Oppstillinger og noteopplysninger i årsregnskapet",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Årsregnskapet skal inneholde oppstillingene som nevnt i § 5-4 til § 5-6 og § 5-8 til § 5-9. Oppstillingene etter § 5-4 til § 5-6 skal også vise beløp for det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet. Oppstillingen etter § 5-8 skal også vise beløpene for det forrige årsregnskapet.\nÅrsregnskapet skal inneholde noteopplysningene som nevnt i § 5-10 til § 5-15.\nFørste og andre ledd gjelder tilsvarende for avleggelsen av årsregnskapet og innstillingen til vedtak om årsregnskap.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Spesifisering av poster",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "I oppstillingene etter § 5-4 til § 5-6 og § 5-8 til § 5-9 kan det foretas en oppdeling av poster eller tilføyelse av poster som ikke framgår av oppstillingsplanene. Det skal foretas en oppdeling av poster eller tilføyelse av poster når vesentlige forhold tilsier det.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Bevilgningsoversikter – drift",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Inntektene som ikke knytter seg til bestemte formål i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, og disponeringen av disse inntektene, skal stilles opp slik:RammetilskuddInntekts- og formuesskattEiendomsskattAndre generelle driftsinntekterSum generelle driftsinntekterSum bevilgninger drift, nettoAvskrivningerSum netto driftsutgifterBrutto driftsresultatRenteinntekterUtbytterGevinster og tap på finansielle omløpsmidlerRenteutgifterAvdrag på lånNetto finansutgifterMotpost avskrivningerNetto driftsresultatDisponering eller dekning av netto driftsresultat:Overføring til investeringAvsetninger til bundne driftsfondBruk av bundne driftsfondAvsetninger til disposisjonsfondBruk av disposisjonsfondDekning av tidligere års merforbrukSum disponeringer eller dekning av netto driftsresultatFremført til inndekning i senere år (merforbruk).Første punktum er ikke til hinder for at renter og avdrag i stedet kan inngå i bevilgningene etter andre ledd. I økonomiplanen, årsbudsjettet og årsregnskapet kan postene 7 til 9 og 16 utelates.\nBevilgningene til de enkelte budsjettområdene i økonomiplanens driftsdel og driftsbudsjettet skal stilles opp i samsvar med det som er bestemt av det organet som har budsjettmyndigheten. Nettosummen av bevilgningene skal tilsvare beløpet på post 6 i oppstillingen etter første ledd.\nÅrsregnskapet skal inneholde en tilsvarende oppstilling som nevnt i andre ledd.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Bevilgningsoversikter – investering",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Utgiftene, inntektene, avsetningene og bruken av avsetninger i økonomiplanens investeringsdel, investeringsbudsjettet og investeringsregnskapet, skal stilles opp slik:Investeringer i varige driftsmidlerTilskudd til andres investeringerInvesteringer i aksjer og andeler i selskaperUtlån av egne midlerAvdrag på lånSum investeringsutgifterKompensasjon for merverdiavgiftTilskudd fra andreSalg av varige driftsmidlerSalg av finansielle anleggsmidlerUtdeling fra selskaperMottatte avdrag på utlån av egne midlerBruk av lånSum investeringsinntekterVidereutlånBruk av lån til videreutlånAvdrag på lån til videreutlånMottatte avdrag på videreutlånNetto utgifter videreutlånOverføring fra driftAvsetninger til bundne investeringsfondBruk av bundne investeringsfondAvsetninger til ubundet investeringsfondBruk av ubundet investeringsfondDekning av tidligere års udekket beløpSum overføring fra drift og netto avsetningerFremført til inndekning i senere år (udekket beløp).\nBevilgningene til investeringer i varige driftsmidler, tilskudd til andres investeringer, investeringer i aksjer og andeler, og utlån av egne midler, skal stilles opp i samsvar med det som er bestemt av det organet som har budsjettmyndigheten. Oppstillingen av bevilgningene skal inneholde bruttobeløp. Bruttobeløpene til henholdsvis investeringer i varige driftsmidler, tilskudd til andres investeringer, investeringer i aksjer og andeler, og utlån av egne midler, skal tilsvare beløpene på postene 1 til 4 i oppstillingen etter første ledd.\nÅrsregnskapet skal inneholde en tilsvarende oppstilling som nevnt i andre ledd.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Økonomisk oversikt etter art – drift",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Inntektene, utgiftene, avsetningene og bruken av avsetninger i økonomiplanens driftsdel, driftsbudsjettet og driftsregnskapet, skal stilles opp etter art slik:RammetilskuddInntekts- og formuesskattEiendomsskattAndre skatteinntekterAndre overføringer og tilskudd fra statenOverføringer og tilskudd fra andreBrukerbetalingerSalgs- og leieinntekterSum driftsinntekterLønnsutgifterSosiale utgifterKjøp av varer og tjenesterOverføringer og tilskudd til andreAvskrivningerSum driftsutgifterBrutto driftsresultatRenteinntekterUtbytterGevinster og tap på finansielle omløpsmidlerRenteutgifterAvdrag på lånNetto finansutgifterMotpost avskrivningerNetto driftsresultatDisponering eller dekning av netto driftsresultat:Overføring til investeringAvsetninger til bundne driftsfondBruk av bundne driftsfondAvsetninger til disposisjonsfondBruk av disposisjonsfondDekning av tidligere års merforbrukSum disponeringer eller dekning av netto driftsresultatFremført til inndekning i senere år (merforbruk).",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Oversikt over gjeld og andre vesentlige langsiktige forpliktelser i økonomiplanen og årsbudsjettet",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Økonomiplanen og årsbudsjettet skal inneholde en oversikt over den årlige utviklingen i gjeld og andre vesentlige langsiktige forpliktelser i planperioden.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 5-8",
+      "heading": "Balanseregnskapet",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Eiendeler, egenkapital og gjeld skal stilles opp slik:",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 5-9",
+      "heading": "Oversikt over samlet budsjettavvik og årsavslutningsdisposisjoner",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Disposisjonene som er foretatt i samsvar med § 4-1 til § 4-4 skal for driftsregnskapet stilles opp slik:Netto driftsresultatAvsetninger til bundne driftsfondBruk av bundne driftsfondOverføring til investering i henhold til årsbudsjettet og fullmakterAvsetninger til disposisjonsfond i henhold til årsbudsjettet og fullmakterBruk av disposisjonsfond i henhold til årsbudsjettet og fullmakterBudsjettert dekning av tidligere års merforbrukÅrets budsjettavvik (mer- eller mindreforbruk før strykninger)Strykning av overføring til investeringStrykning av avsetninger til disposisjonsfondStrykning av dekning av tidligere års merforbrukStrykning av bruk av disposisjonsfondMer- eller mindreforbruk etter strykningerBruk av disposisjonsfond for reduksjon av årets merforbruk etter strykningerBruk av disposisjonsfond for inndekning av tidligere års merforbrukBruk av mindreforbruk etter strykninger for dekning av tidligere års merforbrukAvsetning av mindreforbruk etter strykninger til disposisjonsfondFremført til inndekning i senere år (merforbruk).De av postene 9 til 12 og 14 til 17 som ikke er aktuelle, utelates.\nDisposisjonene som er foretatt i samsvar med § 4-1, § 4-5 og § 4-6, skal for investeringsregnskapet stilles opp slik:Sum utgifter og inntekter eksklusive bruk av lånAvsetninger til bundne investeringsfondBruk av bundne investeringsfondBudsjettert bruk av lånOverføring fra drift i henhold til årsbudsjettet og fullmakterAvsetninger til ubundet investeringsfond i henhold til årsbudsjettet og fullmakterBruk av ubundet investeringsfond i henhold til årsbudsjettet og fullmakterDekning av tidligere års udekket beløpÅrets budsjettavvik (udekket eller udisponert beløp før strykninger)Strykning av avsetninger til ubundet investeringsfondStrykning av bruk av lånStrykning av overføring fra driftStrykning av bruk av ubundet investeringsfondUdekket eller udisponert beløp etter strykningerAvsetning av udisponert beløp etter strykninger til ubundet investeringsfondFremført til inndekning i senere år (udekket beløp).De av postene 10 til 13 og 15 som ikke er aktuelle, utelates.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 5-10",
+      "heading": "Faste noteopplysninger om arbeidskapitalen, kapitalkonto og endringer i regnskapsprinsipp",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:Det skal opplyses om hva arbeidskapitalen er ved inngangen av året, årets endring i arbeidskapitalen, og hva arbeidskapitalen er ved utgangen av året. Årets endring i arbeidskapitalen skal spesifiseres med netto driftsresultat, netto utgifter i investeringsregnskapet, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.Årets endring i kapitalkonto skal spesifiseres med årets endring i bokført verdi av anleggsmidlene og langsiktig gjeld, endring i ubrukte lånemidler og virkningen av endring i regnskapsprinsipp.Det skal opplyses om vesentlige endringer i regnskapsprinsipp. Det skal også opplyses om vesentlige endringer i regnskapsestimater og om vesentlige korrigeringer av tidligere års feil.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 5-11",
+      "heading": "Faste noteopplysninger om eiendeler",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For hver gruppe av varige driftsmidler skal det opplyses om avskrivningsperioder. For hver gruppe av varige driftsmidler skal det også opplyses om balanseført verdi ved inngangen av året, årets tilgang, avgang, avskrivninger, nedskrivninger og eventuelle reverseringer av nedskrivninger, og balanseført verdi ved utgangen av året. Leide varige driftsmidler som er balanseført, skal spesifiseres hvis leieavtalen er vesentlig. Det skal i tillegg opplyses om årsaken til vesentlige nedskrivninger og eventuelle reverseringer av slike.For aksjer og andeler under finansielle anleggsmidler skal det for hvert selskap opplyses om eierandelen og balanseført verdi ved utgangen av regnskapsåret. Det skal også opplyses om vesentlige endringer i eierandeler. Det skal i tillegg opplyses om vesentlige nedskrivninger, og eventuelle reverseringer av slike, og årsaken til dette.For utlån under finansielle anleggsmidler skal det for hvert utlån opplyses om lånets størrelse, hvem som er låntaker, og om utlånet er finansiert med egne midler eller med lån etter kommuneloven § 14-17 første ledd. Utlån til samme låntaker kan angis samlet. Utlån til privatpersoner kan også angis samlet. Det skal i tillegg opplyses om vesentlige tap på utlån.For markedsbaserte finansielle omløpsmidler skal det opplyses om sum anskaffelseskost, balanseført verdi ved inngangen av året, årets resultatførte verdiendring og balanseført verdi ved utgangen av året. Første punktum gjelder tilsvarende for derivater som ikke regnskapsføres etter reglene om sikring i § 3-3 tredje ledd.Det skal opplyses om hvilke finansielle eiendeler og finansielle forpliktelser som regnskapsføres etter reglene om sikring, hva som er tilhørende sikringsobjekter, formålet med sikringen og sikringens varighet.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-12",
+      "provision_ref": "§ 5-12",
+      "heading": "Faste noteopplysninger om lån, avdrag, pensjon og andre forpliktelser",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For lån skal det opplyses om hvor mye som gjelder lån til henholdsvis egne investeringer, andres investeringer, innfrielse av kausjoner og videreutlån. Leieforpliktelser som er balanseført skal spesifiseres hvis forpliktelsen er vesentlig. Det skal også opplyses om gjennomsnittlig løpetid og rente. Det skal i tillegg opplyses om verdien på lån som forfaller og må refinansieres i det året regnskapet legges fram.Det skal opplyses om størrelsen på minimumsavdraget beregnet etter kommuneloven § 14-18 første ledd. Det skal også opplyses om sum avskrivninger, verdien på lånegjelden og verdien på de varige driftsmidlene som ligger til grunn for beregningen. Hvis mottatte avdrag på videreutlån er brukt til å betale avdrag på lån til formål som nevnt i § 14-15 første og andre ledd og § 14-16, skal det opplyses om beløpet og hvordan minimumsavdraget er korrigert for dette.Det skal opplyses om årets pensjonspremier, netto pensjonskostnad og premieavvik, og om årets amortiseringskostnader og samlet pensjonskostnad. Det skal også opplyses om hvilke amortiseringsperioder som benyttes for amortisering av premieavvik. Det skal i tillegg opplyses om størrelsen på bruk av premiefond i året og midler på premiefond ved utgangen av året. Årets netto pensjonskostnad og årets endring i pensjonsmidler og brutto pensjonsforpliktelse skal spesifiseres. Det skal opplyses om hvilke beregningsforutsetninger som er brukt.For hver garanti skal det opplyses om hvem garantien er stilt for, hvilket formål garantien gjelder, type garanti, vedtatt garantiramme, garantiansvaret ved utgangen av regnskapsåret og når garantiansvaret utløper. Hvis en garanti gjelder for lån som enda ikke er tatt opp, skal det også opplyses om forventet låneopptak. Hvis garantien også omfatter renter, omkostninger og lignende, skal det opplyses om dette i tillegg til lånebeløpet. For hver garanti skal det opplyses om garantien er godkjent eller kun vedtatt men enda ikke godkjent, eller om garantien gjelder for små beløp. Garantier som gjelder privatpersoner kan summeres og opplyses samlet. Hvis en garanti er innfridd eller det er sannsynlig at en garanti må innfris, skal det opplyses om hvilken garanti det gjelder og innfrielsesbeløpet.",
+      "xml_path": "article#kapittel-5-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-13",
+      "provision_ref": "§ 5-13",
+      "heading": "Faste noteopplysninger om andre forhold",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "I noter til årsregnskapet skal det alltid gis følgende opplysninger, så langt opplysningene er aktuelle:For bundne fond som er vesentlige, skal det opplyses om hvilket formål fondet er bundet til. Det skal også opplyses om årets avsetning til eller bruk av fondet og størrelsen på fondet ved utgangen av året. Hvis det ikke har vært brukt av fondet i regnskapsåret, skal det i tillegg opplyses om årsaken til dette.For gebyrer som etter lov eller forskrift ikke skal være større enn selvkost, skal det for hvert gebyrområde opplyses om gebyrinntekter, beregnet selvkost, selvkostresultat, avsetning til eller bruk av selvkostfondet, eventuelt dekning av fremført underskudd fra tidligere år eller fremføring av årets underskudd til dekning i senere år. Det skal også opplyses om størrelsen på selvkostfondet, eventuelt akkumulert underskudd, ved utgangen av året.For inntekter fra salg av aksjer som er klassifisert som finansielle anleggsmidler, skal det opplyses om beløpet som er ført i henholdsvis investeringsregnskapet og driftsregnskapet.Det skal opplyses om ytelser til ledende personer i virksomheten.Det skal opplyses om godtgjørelser til revisor, fordelt på revisjon og rådgivning.",
+      "xml_path": "article#kapittel-5-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-14",
+      "provision_ref": "§ 5-14",
+      "heading": "Separat resultatoppstilling for maritime og offshorerelaterte sikkerhetskurs",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Hvis fylkeskommunen har skoler som tilbyr maritime og offshorerelaterte sikkerhetskurs i markedet, skal det i note til fylkeskommunens årsregnskap gis resultatoppstillinger for slike kurs og for skolens ordinære opplæringsvirksomhet.\nDet skal også opplyses om prinsippene for fordelingen av inntekter og kostnader mellom virksomhetene, og om begrunnelsen for prinsippene som er valgt. Prinsippene skal være konsekvente og objektive, og gjenspeile skolens økonomiske og organisatoriske struktur. Prinsippene skal også være slik at kursvirksomheten dekker alle kostnadene knyttet til sin virksomhet, herunder alle variable kostnader og en forholdsmessig andel av skolens faste kostnader.",
+      "xml_path": "article#kapittel-5-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-15",
+      "provision_ref": "§ 5-15",
+      "heading": "Andre noteopplysninger i årsregnskapet og krav om nummerering av notene",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Det skal også gis noteopplysninger om andre forhold hvis opplysningene ikke framgår av årsregnskapet for øvrig og er vesentlige for vurderingen av den økonomiske utviklingen og stillingen. Det skal også gis noteopplysninger om andre forhold når det følger av annen lov eller forskrift.\nNotene skal nummereres. I oppstillingene i årsregnskapet skal det så langt som mulig gis henvisninger fra regnskapsposter til tilhørende note.",
+      "xml_path": "article#kapittel-5-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-16",
+      "provision_ref": "§ 5-16",
+      "heading": "Frister for oversendelse av økonomiplanen, årsbudsjettet, årsregnskapet og årsberetningen til departementet",
+      "path": [
+        "Kapittel 5. Obligatoriske oppstillinger og opplysninger i økonomiplanen, årsbudsjettet og årsregnskapet. Frister for oversendelse til departementet"
+      ],
+      "text": "Økonomiplanen og årsbudsjettet skal sammen med saksdokumentene fra det innstillende organet sendes til departementet snarest mulig og senest 30 dager etter at økonomiplanen eller årsbudsjettet er vedtatt. Oppstillingen etter § 5-6 skal sendes til departementet snarest mulig, og senest 1. mars i det året som budsjettet gjelder for.\nÅrsregnskapet og årsberetningen skal sammen med saksdokumentene fra det innstillende organet, revisjonsberetningen og kontrollutvalgets uttalelse til årsregnskapet og årsberetningen sendes til departementet snarest mulig og senest 30 dager etter at årsregnskapet og årsberetningen er vedtatt.",
+      "xml_path": "article#kapittel-5-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Unntak fra kravene til oppstillinger i årsbudsjettet og årsregnskapet i kapittel 5",
+      "path": [
+        "Kapittel 6. Særlige regler for kommunale og fylkeskommunale foretak"
+      ],
+      "text": "Kommunale og fylkeskommunale foretak kan i oppstillingene etter § 5-4 til § 5-6 og § 5-8 slå sammen uvesentlige poster med andre poster, og utelate poster som ikke er aktuelle. Kommunale og fylkeskommunale foretak kan utelate oppstillingen etter § 5-4 andre ledd.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Særlige noteopplysninger i årsregnskapet",
+      "path": [
+        "Kapittel 6. Særlige regler for kommunale og fylkeskommunale foretak"
+      ],
+      "text": "I tillegg til noteopplysningene som nevnt i § 5-10 til § 5-15 skal årsregnskapet til kommunale og fylkeskommunale foretak inneholde noter med følgende opplysninger:Hvor stor andel av foretakets inntekter som kommer fra egen kommune eller fylkeskommune, og hvor stor andel av foretakets inntekter som kommer fra andre.Overføringer fra kommunekassen eller fylkeskommunekassen som er foretatt for å dekke inn et merforbruk i foretaket.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Årsregnskap etter regnskapsloven",
+      "path": [
+        "Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet"
+      ],
+      "text": "Et kommunalt eller fylkeskommunalt foretak kan utarbeide årsregnskapet etter regnskapsloven hvis foretaket driver næringsvirksomhet og hvis det i vedtektene til foretaket er gitt adgang til å følge regnskapsloven. Kommunale og fylkeskommunale foretak skal utarbeide årsregnskapet etter regnskapsloven når det følger av annen lov eller forskrift.\nHvis foretaket utarbeider årsregnskapet etter regnskapsloven, gjelder bestemmelsene i § 7-2 til § 7-5. Hvis det følger av annen lov eller forskrift at foretaket skal utarbeide årsberetningen etter regnskapsloven, gjelder likevel ikke § 7-4. Bestemmelsene i § 2-1 til § 5-15 og § 6-1 til § 6-2 i forskriften her og kommuneloven § 14-6 andre til fjerde ledd gjelder ikke.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Årsbudsjettets innhold",
+      "path": [
+        "Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet"
+      ],
+      "text": "Årsbudsjettet kan tilpasses den virksomheten som drives. Årsbudsjettet skal inneholde en resultatoppstilling som nevnt i regnskapsloven § 6-1 eller § 6-1a og en oppstilling av investeringsutgiftene og finansieringen av disse. Oppstillingene skal vise beløp for budsjettåret, det forrige budsjettåret og det sist vedtatte årsregnskapet.\nÅrsbudsjettet skal også inneholde en oversikt over foretakets utvikling i gjeld og andre vesentlige langsiktige forpliktelser, og angi hvor mye lån som skal tas opp i budsjettåret samt størrelsen på foretakets avdrag på lån.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Årsregnskapets innhold",
+      "path": [
+        "Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet"
+      ],
+      "text": "Årsregnskapet skal utarbeides etter regnskapsloven kapittel 3 til 7. Årsregnskapet skal i tillegg inneholde en oppstilling av investeringsutgiftene og finansieringen av disse. Årsregnskapet skal også inneholde noteopplysninger som nevnt i § 5-12 første ledd bokstav b og § 6-2 første ledd bokstav a og b. I note skal det også opplyses om størrelsen på foretakets avdrag på lån.\nOppstillingen av resultatregnskapet etter regnskapsloven § 6-1 eller § 6-1a og oppstillingen av investeringsutgiftene og finansieringen skal vise beløp for regnskapsåret, det opprinnelige vedtatte årsbudsjettet, det regulerte årsbudsjettet og det forrige årsregnskapet.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Årsberetningens innhold",
+      "path": [
+        "Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet"
+      ],
+      "text": "Årsberetningen skal utarbeides etter kommuneloven § 14-7.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Inndekning av merforbruk",
+      "path": [
+        "Kapittel 7. Særlige regler for kommunale og fylkeskommunale foretak som driver næringsvirksomhet"
+      ],
+      "text": "Tidligere års merforbruk skal dekkes inn etter kommuneloven § 14-12 første og andre ledd. Som merforbruk regnes negativ egenkapital i foretaket målt etter regnskapslovens regler.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Unntak fra kravene til oppstillinger i årsbudsjettet og årsregnskapet i kapittel 5",
+      "path": [
+        "Kapittel 8. Særlige regler for interkommunale politiske råd og kommunale oppgavefellesskap"
+      ],
+      "text": "Interkommunale politiske råd og kommunale oppgavefellesskap kan i oppstillingene etter § 5-4 til § 5-6 og § 5-8 slå sammen uvesentlige poster med andre poster, og utelate poster som ikke er aktuelle. Interkommunale politiske råd og kommunale oppgavefellesskap kan utelate oppstillingen etter § 5-4 andre ledd.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Særlige noteopplysninger i årsregnskapet",
+      "path": [
+        "Kapittel 8. Særlige regler for interkommunale politiske råd og kommunale oppgavefellesskap"
+      ],
+      "text": "I tillegg til noteopplysningene som nevnt i § 5-10 til § 5-15 skal årsregnskapet til interkommunale politiske råd og kommunale oppgavefellesskap inneholde noter med følgende opplysninger:Hvor stor andel av samarbeidets inntekter som kommer fra deltakerkommunene, og hvor stor andel av samarbeidets inntekter som kommer fra andre.Overføringer fra deltakerkommunene som er foretatt for å dekke inn et merforbruk i samarbeidet.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Unntak fra kravet om eget årsbudsjett, årsregnskap og årsberetning",
+      "path": [
+        "Kapittel 8. Særlige regler for interkommunale politiske råd og kommunale oppgavefellesskap"
+      ],
+      "text": "Interkommunale politiske råd og kommunale oppgavefellesskap som ikke er et eget rettssubjekt, og som har forventete brutto driftsinntekter på mindre enn 5 millioner kroner i budsjettåret, kan unnlate å utarbeide eget årsbudsjett, årsregnskap og årsberetning etter kommuneloven § 14-8 første ledd første og andre punktum. Første punktum gjelder bare hvis det er fastsatt i samarbeidsavtalen at samarbeidet kan unnlate å utarbeide eget årsbudsjett, årsregnskap og årsberetning. Hvis samarbeidet ikke utarbeider eget årsbudsjett, årsregnskap og årsberetning, gjelder § 8-4, men ikke kommuneloven § 14-8 første ledd tredje punktum, § 14-8 andre ledd, § 14-12 og § 24-1 fjerde ledd.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Særlige regler når det ikke utarbeides eget årsbudsjett og årsregnskap",
+      "path": [
+        "Kapittel 8. Særlige regler for interkommunale politiske råd og kommunale oppgavefellesskap"
+      ],
+      "text": "Inntektene til det interkommunale politiske rådet eller det kommunale oppgavefellesskapet, og disponeringen av inntektene, skal inngå i årsbudsjettet og årsregnskapet til kontorkommunen.\nDen økonomiske rammen for samarbeidets virksomhet skal i årsbudsjettet til kontorkommunen føres opp som en egen bevilgning i bevilgningsoversiktene etter § 5-4 andre ledd og § 5-5 andre ledd. Representantskapet i samarbeidet fastsetter den nærmere fordelingen av bevilgningen i et detaljbudsjett.\nSamarbeidets inntekter og utgifter skal i årsregnskapet til kontorkommunen føres opp i bevilgningsoversiktene etter § 5-4 andre ledd og § 5-5 andre ledd med samme detaljeringsnivå som bevilgningen i kontorkommunens årsbudsjett. Den nærmere fordelingen av inntekter og utgifter skal forelegges representantskapet i et detaljregnskap på samme detaljeringsnivå som detaljbudsjettet.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Unntak fra plikten til å oversende årsbudsjettet, årsregnskapet og årsberetningen til departementet",
+      "path": [
+        "Kapittel 8. Særlige regler for interkommunale politiske råd og kommunale oppgavefellesskap"
+      ],
+      "text": "Plikten til å oversende årsbudsjettet, årsregnskapet og årsberetningen i kommuneloven § 14-3 femte ledd, jf. § 5-16 i forskriften her, gjelder ikke for interkommunale politiske råd og kommunale oppgavefellesskap.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Lånefondets årsbudsjett og årsregnskap",
+      "path": [
+        "Kapittel 9. Særlige regler for lånefond"
+      ],
+      "text": "Årsbudsjettet og årsregnskapet til kommunens eller fylkeskommunens lånefond opprettet etter kommuneloven § 14-14 tredje ledd skal bare omfatte transaksjoner som er knyttet til lån som tas opp til lånefondet og til utlån som gis fra lånefondet til virksomheter som er en del av kommunen eller fylkeskommunen som rettssubjekt.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Mottatte avdrag på lån i lånefondets årsbudsjett og årsregnskap",
+      "path": [
+        "Kapittel 9. Særlige regler for lånefond"
+      ],
+      "text": "Lånefondet skal føre mottatte avdrag på utlån i drift. Første punktum gjelder ikke hvis lånefondets låntaker har ført avdraget i investering.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "Unntak fra kravene til oppstillinger i årsbudsjettet og årsregnskapet i kapittel 5",
+      "path": [
+        "Kapittel 9. Særlige regler for lånefond"
+      ],
+      "text": "Lånefondet kan i oppstillingene etter § 5-5, § 5-6 og § 5-8 slå sammen uvesentlige poster med andre poster, og utelate poster som ikke er aktuelle.\nOppstillingskravene i § 5-4 og § 5-7 gjelder ikke for lånefondet.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 9-4",
+      "heading": "Særlige noteopplysninger i lånefondets årsregnskap",
+      "path": [
+        "Kapittel 9. Særlige regler for lånefond"
+      ],
+      "text": "I tillegg til noteopplysningene som nevnt i § 5-10 til § 5-15 skal det i note til lånefondets årsregnskap opplyses om overføringer fra kommunekassen eller fylkeskommunekassen som er foretatt for å dekke inn et merforbruk i lånefondet.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 9-5",
+      "heading": "Inndekning av merforbruk i driftsregnskapet og udekket beløp i investeringsregnskapet",
+      "path": [
+        "Kapittel 9. Særlige regler for lånefond"
+      ],
+      "text": "Et merforbruk i driftsregnskapet til lånefondet skal dekkes inn året etter at merforbruket oppsto.\nHvis et merforbruk i driftsregnskapet til lånefondet ikke er fullt ut dekket inn i regnskapet i året etter at merforbruket oppsto, gjelder kommuneloven § 14-12 andre ledd tilsvarende for kommunekassen eller fylkeskommunekassen.\nEt udekket beløp i investeringsregnskapet til lånefondet skal føres opp til dekning på lånefondets investeringsbudsjett året etter at det oppsto.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 10-1",
+      "heading": "Konsolidering",
+      "path": [
+        "Kapittel 10. Konsolidert årsregnskap for kommuner og fylkeskommuner"
+      ],
+      "text": "Det konsoliderte årsregnskapet etter kommuneloven § 14-6 første ledd bokstav d skal vise kommunen eller fylkeskommunen som én økonomisk enhet.\nDet konsoliderte årsregnskapet utarbeides ved å slå sammen årsregnskapene til de enhetene som skal inngå i konsolideringen. Transaksjonene og mellomværendene mellom enhetene skal elimineres, men bare så langt det følger av god kommunal regnskapsskikk. Årsregnskapet til kommunale og fylkeskommunale foretak som fører regnskap etter regnskapsloven, skal omarbeides før konsolideringen så langt det er nødvendig etter god kommunal regnskapsskikk.\nReglene om årsavslutning i kapittel 4 gjelder ikke for det konsoliderte årsregnskapet.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "Unntak fra kravene til oppstillinger i årsregnskapet i kapittel 5",
+      "path": [
+        "Kapittel 10. Konsolidert årsregnskap for kommuner og fylkeskommuner"
+      ],
+      "text": "Oppstillingene av det konsoliderte årsregnskapet etter § 5-5 første ledd, § 5-6 og § 5-8 skal vise beløp for årets regnskap og det forrige årsregnskapet.\nOppstillingskravene i § 5-4, § 5-5 andre ledd og § 5-9 gjelder ikke for det konsoliderte årsregnskapet.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "Unntak fra kravet om konsolidering",
+      "path": [
+        "Kapittel 10. Konsolidert årsregnskap for kommuner og fylkeskommuner"
+      ],
+      "text": "Interkommunalt politisk råd og kommunalt oppgavefellesskap som ikke er et eget rettssubjekt og som fører eget regnskap, kan utelates fra konsolideringen hvis dette ikke har betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling. Hvis det er flere enheter som hver for seg kan utelates etter første punktum, skal enhetene likevel tas med i konsolideringen så langt det er nødvendig for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-4",
+      "provision_ref": "§ 10-4",
+      "heading": "Særlige noteopplysninger i det konsoliderte årsregnskapet",
+      "path": [
+        "Kapittel 10. Konsolidert årsregnskap for kommuner og fylkeskommuner"
+      ],
+      "text": "I tillegg til noteopplysningene som nevnt i § 5-10 til § 5-15, skal det konsoliderte årsregnskapet inneholde noter med følgende opplysninger:Hvilke enheter som inngår i det konsoliderte regnskapet.Hvilke enheter som eventuelt er utelatt etter § 10-3.Hvilke enheter som har kommet til eller som har gått ut av det konsoliderte regnskapet siden forrige regnskapsår.Regnskapsopplysninger om enheter som nevnt i bokstav b og c, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.Andelen av inntekter, utgifter, eiendeler, gjeld eller egenkapital som er knyttet til de øvrige deltakerkommunene i interkommunalt politisk råd eller kommunalt oppgavefelleskap som ikke er eget rettssubjekt, hvis dette har vesentlig betydning for vurderingen av kommunens eller fylkeskommunens økonomiske utvikling og stilling.\nI det konsoliderte årsregnskapet kan noteopplysninger som nevnt i § 5-10 til § 5-14 utelates så langt det er i samsvar med god kommunal regnskapsskikk.",
+      "xml_path": "article#kapittel-10-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 11. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2020. § 11-2 trer i kraft straks.\nFra samme tidspunkt oppheves følgende forskrifter:Forskrift 15. desember 2000 nr. 1423 om årsbudsjett (for kommuner og fylkeskommuner).Forskrift 15. desember 2000 nr. 1424 om årsregnskap og årsberetning (for kommuner og fylkeskommuner).Forskrift 24. august 2006 nr. 1033 om særbudsjett, særregnskap og årsberetning for kommunale og fylkeskommunale foretak.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 11-2",
+      "heading": "Overgangsregler",
+      "path": [
+        "Kapittel 11. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Endringene i § 5-4, § 5-5 og § 5-6 vedtatt i forskrift 9. desember 2021 nr. 3479 om endring i forskrift om økonomiplan, årsbudsjett, årsregnskap og årsberetning for kommuner og fylkeskommuner mv. gjelder ikke for årsregnskapet for 2021.\nKommuneloven § 14-8 og forskriften kapittel 2 til 5, 8 og 10 gjelder tilsvarende for interkommunale styrer etter § 27 i kommuneloven av 1992 som i medhold av kommuneloven av 2018 § 31-2 første ledd ikke er omdannet til interkommunalt politisk råd eller kommunalt oppgavefellesskap.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    }
+  ]
+}

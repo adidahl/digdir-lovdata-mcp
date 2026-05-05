@@ -1,0 +1,38 @@
+{
+  "id": "LOV-1901-05-29-6",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om forskjellige forhold vedkommende Røros Kobberverks Skogvæsen",
+  "short_title": "Lov om Røros Kobberverks Skogvæsen",
+  "department": "Klima- og miljødepartementet",
+  "legal_area": "Landbruk, jakt og skogbruk > Skogbruk",
+  "date_in_force": "1901-07-01",
+  "lovdata_refid": "lov/1901-05-29-6",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1901-05-29-6",
+  "raw_xml_sha256": "05b1213b6bb5f9ce127f1c2b5017d8abe4c260132e44cfbee6e24d5b8acd48a9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Bestemmelsen i Lov om det beneficerede Gods af 20de August 18211 § 38 skal ikke være til Hinder for, at Staten frafalder til Fordel for Røros Verk ethvert Krav paa Rettigheder i og over Strækningerne Røros vestre Statsalmenning og Røros østre Statsalmenning, saaledes at der fra Statens Side indrømmes, at disse Strækninger fremtidig tilhører Røros Verk med fra Statens side ubestridt Eiendomsret. Den Ret til Jagt og Fangst efter Smaavildt, som efter [Lov angaaende Jagt og Fangst af 20de Mai 1899 § 6]2 tilkommer Indvaanere af Røros Herred, samt de Rettigheder, som ifølge Kontrakt, Hævd, Alders Tids Brug eller Lov maatte tilkomme Almuen, – skal forbeholdes Vedkommende.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Gjældende Lovbestemmelser om Udskiftning af Almenninger skal ikke være til Hinder for, at det Røros Verk tilhørende matrikulerede Jordegods i Tufsingdalen af den omliggende Statsalmenning tildeles fornøden Eiendomsskog som Vederlag for den Brugene tilkommende Husbehovsret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne Lov træder i Kraft 1ste Juli 1901.\nFra samme Tid ophæves følgende Bestemmelser: – – –",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

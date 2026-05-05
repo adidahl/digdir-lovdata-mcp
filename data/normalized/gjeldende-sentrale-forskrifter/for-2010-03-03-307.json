@@ -1,0 +1,97 @@
+{
+  "id": "FOR-2010-03-03-307",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om betaling av gebyr for veterinær grensekontroll",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2010-03-03",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-19-2824 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2010-03-03-307",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-03-03-307",
+  "raw_xml_sha256": "d7eb659e6051a6515a1eb2160a37c2a395103f23e52ee4745208d5e88b0fd2a9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder ved import til og transitt mv. i Norge av levende dyr, animalske næringsmidler og andre produkter av animalsk opprinnelse mv. fra tredjeland.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Plikt til å betale gebyr",
+      "path": [],
+      "text": "Importør skal betale gebyr for veterinær grensekontroll i henhold til denne forskriften. Gebyr skal også betales dersom tilsyn og kontroll har resultert i avvisning eller destruksjon av varepartiet.\nBetalingen skal foretas før fortolling, transittering eller innleggelse på tollager eller som følge av vedtak om avvisning eller destruksjon. Alternativt kan importøren stille sikkerhet for betaling av gebyret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gebyr for næringsmidler og produkter",
+      "path": [],
+      "text": "For import av alle animalske næringsmidler, andre produkter av animalsk opprinnelse og høy og halm skal det betaleskr 3 295 per vareparti eller forsendelse ogkr 110,75 per tonn for fisk og fiskevarer, animalske produkter som ikke er næringsmidler, samt høy og halm, ellerkr 1,12 per kg for andre næringsmidler enn fisk og fiskevarer ellerkr 26,45 per tonn for fiskemel og fullfôr til fisk, ellerkr 22,00 per tonn for fiskeolje og olje for sjøpattedyr.\nFor import av svært små varepartier eller forsendelser betales i stedet kr 2 200 per vareparti eller forsendelse.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Gebyr for levende dyr",
+      "path": [],
+      "text": "For import av levende dyr skal det betaleskr 3 295 per forsendelse ogkr 110,75 per tonn for storfe, dyr av hestefamilien, svin, sauer, geiter, fjørfe, kaniner, smått fuglevilt, smått marklevende vilt, villsvin eller drøvtyggere.\nFor import av svært små forsendelser betales i stedet kr 2 200 per forsendelse.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Gebyr for transitt, omlasting og gjeninnførsel",
+      "path": [],
+      "text": "Ved transitt av vareparti eller forsendelse skal det, i stedet for gebyr etter reglene i § 3 og § 4, betaleskr 1 100 per vareparti eller forsendelse ogkr 359 for hvert påbegynte kvarter for hver av Mattilsynets medarbeidere som deltar ved kontroll av varepartiet eller forsendelsen.\nVed omlasting av vareparti eller forsendelse skal det betaleskr 288 for hvert påbegynte kvarter, ogdersom Mattilsynet må foreta dokumentkontroll, kr 1 100 ellerdersom Mattilsynet må underkaste varepartiet eller forsendelsen endelig veterinærkontroll, gebyr etter reglene i § 3 og § 4.\nVed gjeninnførsel av produkter og levende dyr som er avvist av tredjeland, skal importøren eller dennes representant betale gebyr etter reglene i § 3 og § 4.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overtidsgebyr",
+      "path": [],
+      "text": "Må kontrollen gjennomføres utenfor tidsrommet kl. 08.00 og 15.30 og dette ikke skyldes forhold ved grensekontrollstasjonen, skal det i tillegg til gebyrene fastsatt i § 3 til og med § 5 betaleskr 421 for hver påbegynte time på hverdager mellom kl. 06.00 og 08.00 og mellom 15.30 og 21.00 ellerkr 840 for hver påbegynte time på hverdager mellom kl. 21.00 og 06.00 og på lørdager, søndager og offentlige helge- og høytidsdager.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ventegebyr",
+      "path": [],
+      "text": "Kan kontrollen ikke gjennomføres på det tidspunktet som er forhåndsanmeldt og dette medfører ventetid for Mattilsynets personell, og dette verken skyldes omstendigheter ved grensekontrollstasjonen eller force majeure på importørens side, skal det betaleskr 1 100 for hver påbegynte time med forsinkelse på hverdager mellom kl. 08.00 og 15.30 ellerkr 1 470 for hver påbegynte time med forsinkelse på hverdager mellom kl. 06.00 og 08.00 og mellom kl. 15.30 og 21.00 ellerkr 1 885 for hver påbegynte time med forsinkelse på hverdager mellom kl. 21.00 og 06.00, og på lørdager, søndager og offentlige helge- og høytidsdager.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Kopigebyr",
+      "path": [],
+      "text": "For hver attestert kopi av det originale CHED som blir utstedt av Mattilsynet, skal det betales kr 520. Med CHED menes det felles innførselsdokumentet om helse til bruk ved import, som fastsatt i forskrift 9. mars 2020 nr. 715 om offentlig kontroll – IMSOC – forordning (EU) 2019/1715.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.\nFra samme tidspunkt oppheves forskrift 20. januar 2000 nr. 47 om gebyr for tilsyn og kontroll ved import og transitt mv. av levende dyr, animalske næringsmidler og produkter av animalsk opprinnelse mv. fra tredjeland.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

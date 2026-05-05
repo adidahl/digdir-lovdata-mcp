@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2011-10-20-1038",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av alderspensjoner fra tjenestepensjonsordning etter samordningsloven § 7 når en eller flere av alderspensjonene er levealdersjustert",
+  "short_title": "Forskrift om samordning av alderspensjoner",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2011-10-20",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/2011-10-20-1038",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-10-20-1038",
+  "raw_xml_sha256": "5e3b798ae3ea42316829ce7ebc60266b4bd40983b192e334479db7560aa40a08",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelsesområde",
+      "path": [],
+      "text": "Forskriften gjelder ved samordning av alderspensjoner fra tjenestepensjonsordning etter samordningsloven § 7 når en eller flere av pensjonene er levealdersjustert ved bruk av justeringstall.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fastsetting av pensjon som inngår i samordningsberegningen",
+      "path": [],
+      "text": "Det er alderspensjon etter levealdersjustering som skal legges til grunn ved samordningsberegningen.\nDet beløp som den samlede pensjon ikke kan overstige, skal levealdersjusteres ved bruk av justeringstallet på samordningstidspunktet.\nVed levealdersjusteringen skal det likevel ikke benyttes lavere justeringstall enn 1,000, men med de unntak som følger av lov om Statens pensjonskasse § 24 tredje ledd tredje og fjerde punktum og tilsvarende regelverk for årskull født i perioden 1954–1962. For årskull født i 1963 eller senere gjelder ingen nedre grense for justeringstallet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks og gis virkning fra 1. januar 2011.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "id": "FOR-2025-04-03-594",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om å begrense utslipp fra bygge- og anleggsplasser",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2025-04-03",
+  "last_change_in_force": "2025-06-17",
+  "last_changed_by": "forskrift/2025-06-17-1436",
+  "lovdata_refid": "forskrift/2025-04-03-594",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-04-03-594",
+  "raw_xml_sha256": "db0fbc4fd6bf9226a31cf15b999a0fc61d0efb17704a6ba15c321b8f31c16976",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Kommunens myndighet",
+      "path": [],
+      "text": "Kommunen kan fastsette forskrift etter forurensningsloven § 9 om å påby bruk av nullutslippsløsninger og biogass på bygge- og anleggsplasser. Med nullutslippsløsninger menes at det ikke er direkte utslipp av CO2 og andre klimagasser eller NOx og svevestøv fra energibruk på bygge- og anleggsplassen. Kommunen kan ikke stille krav til anleggsplasser som strekker seg ut over kommunens grenser eller tiltak som er unntatt kommunens byggesaksbehandling etter lov 27. juni 2008 nr. 71 § 20-5 første ledd, med tilhørende forskrifter. Kommunen skal tilpasse kravene til lokale forhold og forutsetninger",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Unntak fra kravene",
+      "path": [],
+      "text": "Vedtar kommunen forskrift som nevnt i § 1, skal forskriften åpne for unntak i tilfeller der kravene:ikke er teknisk mulig å nå,blir uforholdsmessig kostbare.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

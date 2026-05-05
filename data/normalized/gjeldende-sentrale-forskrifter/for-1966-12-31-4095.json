@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1966-12-31-4095",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om redusert samordningsfradrag når pensjon til gjenlevende ektefelle fra folketrygden er redusert for arbeidsinntekt (samordningsforskrift 20)",
+  "short_title": "Samordningsforskrift 20",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1967-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-21-2283 fra 2024-01-01",
+  "lovdata_refid": "forskrift/1966-12-31-4095",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1966-12-31-4095",
+  "raw_xml_sha256": "3810c5ad71bd297b28649c70b9c6b7290718b9b6d644898587abb4d955979f81",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "I tilfeller der ytelsen fra folketrygden til gjenlevende ektefelle er redusert etter folketrygdloven § 17 A-6, skal samordningsfradraget for andre pensjonselementer enn grunnpensjon i enke- eller enkemannspensjon fra tjenestepensjonsordning og personskadetrygd begrenses i samme forhold som ytelsen fra folketrygden",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 1967.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

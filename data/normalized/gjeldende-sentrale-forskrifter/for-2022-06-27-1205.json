@@ -1,0 +1,47 @@
+{
+  "id": "FOR-2022-06-27-1205",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsregler til lov 22. juni 2022 nr. 80 om endringer i verdipapirhandelloven (flagging)",
+  "department": "Finansdepartementet",
+  "date_in_force": "2022-09-01",
+  "lovdata_refid": "forskrift/2022-06-27-1205",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-06-27-1205",
+  "raw_xml_sha256": "f2e74ad29b03ed9f7243277f4d2c8043b974764a834010450995446d43d3f929",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Generelle overgangsregler",
+      "path": [],
+      "text": "For handlinger foretatt før 1. september 2022, skal det gis melding etter reglene om flagging slik de lød før 1. september 2022. For handlinger foretatt etter 1. september 2022, skal det gis melding etter reglene om flagging slik de lyder etter endringene ved lov 22. juni 2022 nr. 80 om endringer i verdipapirhandelloven (flagging) og tilhørende forskrifter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Unntaksregler som er betinget av melding til Finanstilsynet",
+      "path": [],
+      "text": "Meldinger til Finanstilsynet etter verdipapirforskriften § 4-4 (3) og § 4-5 slik den lød før 1. september 2022, forblir gyldige etter 1. september 2022. Bruk av unntaksreglene basert på melding inngitt før 1. september 2022 forutsetter at vilkårene for unntak og kravene til melding i forbindelse med unntak etter reglene om flagging, slik de lyder etter endringene ved lov 22. juni 2022 nr. 80 om endringer i verdipapirhandelloven (flagging) og tilhørende forskrifter, er innfridd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Saker om overtredelsesgebyr",
+      "path": [],
+      "text": "Reglene om flagging og overtredelsesgebyr som gjaldt på handlingstidspunktet skal legges til grunn når det treffes vedtak om overtredelsesgebyr etter verdipapirhandelloven § 21-3 første ledd. Lovgivningen på tidspunktet for avgjørelsen skal likevel anvendes når dette fører til et gunstigere resultat for den ansvarlige.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Overgangsreglene trer i kraft 1. september 2022.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

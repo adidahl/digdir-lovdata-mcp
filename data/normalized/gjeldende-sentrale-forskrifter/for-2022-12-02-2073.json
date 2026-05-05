@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2022-12-02-2073",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsregler til lov 17. juni 2022 nr. 57 om erstatning fra staten til voldsutsatte (voldserstatningsloven)",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2023-01-01",
+  "lovdata_refid": "forskrift/2022-12-02-2073",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-12-02-2073",
+  "raw_xml_sha256": "5612e3dbd80ddb67c343d8f2035e6ac62371c78c5473460de1e45cb9070445ba",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Skjæringstidspunkt",
+      "path": [],
+      "text": "Med mindre annet er særskilt bestemt, gjelder voldsoffererstatningsloven og voldsoffererstatningsforskriften for søknader som er fremmet før voldserstatningsloven trer i kraft. Tilsvarende gjelder for søknad om tilleggserstatning for et forhold som allerede er behandlet etter voldsoffererstatningsloven eller voldsoffererstatningsforskriften.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Klageinstans etter voldsoffererstatningsloven og voldsoffererstatningsforskriften",
+      "path": [],
+      "text": "Fra voldserstatningsloven trer i kraft skal Statens sivilrettsforvaltning behandle alle klagesaker etter voldsoffererstatningsloven og voldsoffererstatningsforskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Delegering av omgjøringsmyndighet",
+      "path": [],
+      "text": "Justis- og beredskapsdepartementet delegerer myndighet til å omgjøre vedtak fattet av Erstatningsnemnda for voldsofre til Statens sivilrettsforvaltning.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Søknadsfrist i saker som er rettskraftig avgjort eller endelig påtaleavgjort før voldserstatningslovens ikrafttredelse",
+      "path": [],
+      "text": "For saker som er rettskraftig avgjort eller endelig påtaleavgjort før voldserstatningsloven trer i kraft, regnes fristene i voldserstatningsloven § 6 annet ledd og § 7 annet ledd første punktum fra tidspunktet for lovens ikrafttredelse.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Overgangsreglene gjelder fra 1. januar 2023.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

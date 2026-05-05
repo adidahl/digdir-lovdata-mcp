@@ -1,0 +1,81 @@
+{
+  "id": "FOR-2021-03-15-797",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fiske etter anadrome laksefisk i sjøen",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2021-03-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-16-2613 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2021-03-15-797",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-03-15-797",
+  "raw_xml_sha256": "b366133f875d4a5015183696ddef3721554ae47ac79ca0cedf72fa428c8e90b4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder fiske etter anadrome laksefisk i sjøen. Paragraf 3 gjelder også fiske etter saltvannsfisk, jf. lakse- og innlandsfiskloven § 40.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fiske med stang og håndsnøre",
+      "path": [],
+      "text": "Med de begrensninger som følger av § 3 og forskrift gitt i medhold av lakse- og innlandsfiskloven § 40, er det åpnet for fiske etter anadrome laksefisk med stang og håndsnøre, fra land og båt, hele året.\nDet åpnes likevel ikke for fiske etter anadrome laksefiskfra land og båt, i tidsrommet 1. mars til 30. april, i følgende områder:Ryfylkefjordene i Rogaland innenfor ei linje mellom Tungenes og Kårstø, unntatt Lysefjorden innenfor Lysefjordbrua og Skjoldafjorden nord for Borgøyna,Hardangerfjorden innenfor ei linje mellom Bleiknes ved Husnes og til Ystadnes ved Ølve i Kvinnherad kommune,Møre og Romsdal, med unntak av Smøla,fra land og båt, i tidsrommet 1. mars til 31. mai, i Trøndelag,fra båt, i tidsrommet 1. mars til 31. mai, i Nordland. I Skjerstadfjorden, innenfor Fylkesvei 17, gjelder fiskeforbudet fram til 30. juni.fra land og båt, hele året, innenfor ei linje i indre Oslofjord som er avgrenset av koordinatene for nullfiskeområde Indre fjord som angitt i vedlegg II til forskriften.fra land og båt, hele året, i et område i Færder nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Færder som angitt i vedlegg II til forskriften.fra land og båt, hele året, i et område i Ytre Hvaler nasjonalpark som er avgrenset av koordinatene for nullfiskeområde Hvaler som angitt i vedlegg II til forskriften.\nDet åpnes heller ikke for fiske etter laks (Salmo salar) fra land og båt i forvaltningsregionene Tanafjorden, Karlebotn, Kjøfjord/Bøkfjord, Indre Varangerfjord–Jarfjorden og kysten av Finnmark, og for fiske etter sjøørret fra land og båt i fjordområdet Sunndalsfjorden, Tingvollfjorden, Bergsøyfjorden og Batnfjorden innenfor E39 i Møre og Romsdal.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Begrensninger på alt fiske ved utløpet av vassdrag med anadrome laksefisk",
+      "path": [],
+      "text": "Utenfor vassdrag med bestander av anadrome laksefisk som er oppført i vedlegg I eller II til forskrift 15. mars 2021 nr. 798 om fiske etter anadrome laksefisk i vassdrag, er alt fiske etter anadrome laksefisk og saltvannsfisk forbudt i området som strekker seg 100 meter fra grense elv-sjø (elvemunningen) og ut i sjøen (100-metersonen). Unntatt fra dette er fiske etter anadrome laksefisk med stang og håndsnøre fra land i den tida det er åpnet for fiske etter den aktuelle arten av anadrome laksefisk i vassdraget i medhold av forskrift gitt med hjemmel i lakse- og innlandsfiskloven. Fiske etter saltvannsfisk tillates på samme vilkår i den tida det er åpnet for fiske etter anadrome laksefisk i vassdraget.\nDersom det i forskrift gitt med hjemmel i lakse- og innlandsfiskloven er gitt individuelle kvotebestemmelser for det aktuelle vassdraget, gjelder disse også for fiske etter anadrome laksefisk i 100-metersonen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fiske med kilenot og lakseverp",
+      "path": [],
+      "text": "Det er åpnet for fiske etter anadrome laksefisk med kilenot og lakseverp i de områder og til de fisketider som er angitt i vedlegget til denne forskriften. Unntatt fra dette er fiske etter sjøørret på strekningen fra Rogaland til og med region Åfjorden i Trøndelag.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Miljødirektoratet kan, etter søknad, gjøre unntak fra § 2 til § 4 i enkelttilfeller dersom dette antas å ikke ville ha nevneverdig negativ innvirkning på bestander av laks, sjøørret eller sjørøye.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Annet fiske og uttak av rømt oppdrettsfisk i sjøen",
+      "path": [],
+      "text": "I områder med stort innslag av rømt oppdrettsfisk av anadrome laksefisk, kan statsforvalteren, gjennom enkeltvedtak, gi tillatelse til fiske til andre tider og med andre redskaper enn det som følger av denne forskriften, såframt dette antas å ikke ville ha nevneverdig negativ innvirkning på bestander av laks, sjøørret eller sjørøye.\nStatsforvalteren kan, av eget tiltak, iverksette uttak av rømt oppdrettsfisk av anadrome laksefisk. Slikt uttak regnes ikke som enkeltvedtak, og kan om nødvendig skje på annens eiendom, jf. naturmangfoldloven § 18 tredje ledd.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Håndheving og sanksjoner",
+      "path": [],
+      "text": "Overtredelse av forskriften, eller vedtak fattet i medhold av forskriften, håndheves og sanksjoneres etter lakse- og innlandsfiskloven § 47, § 47a, § 48a og § 49.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Fra samme tid oppheves forskrift 10. mai 2012 nr. 431 om fisketider for fiske etter anadrome laksefisk i sjøen.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

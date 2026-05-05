@@ -1,0 +1,36 @@
+{
+  "id": "FOR-2020-12-18-2868",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for behandling av arrestordre og anmodninger om gjensidig hjelp i straffesaker som følge av Storbritannias uttreden av Den europeiske union",
+  "short_title": "Forskrift om overgangsregler for behandling av arrestordre og anmodninger om gjensidig hjelp i straffesaker som følge av Storbritannias uttreden av Den europeiske union",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2021-01-01",
+  "lovdata_refid": "forskrift/2020-12-18-2868",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-12-18-2868",
+  "raw_xml_sha256": "8a362fe958b0f9d45ca50b0acb4e35d4e4dc0c80f33be0d93d1188692d0ed8a3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Overgangsregler for anmodninger om gjensidig hjelp i straffesaker",
+      "path": [
+        "I"
+      ],
+      "text": "En anmodning om bistand fra Storbritannia mottatt før utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden av EU § 2, skal behandles i samsvar med reglene i konvensjon 29. mai 2000 om gjensidig hjelp i straffesaker mellom Den europeiske unions medlemsstater og protokoll av 2001 til denne konvensjonen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Overgangsregler for behandling av arrestordre",
+      "path": [
+        "I"
+      ],
+      "text": "Er en person pågrepet med sikte på overlevering til Storbritannia før utløpet av overgangsperioden som fastsatt i lov 29. mars 2019 nr. 8 om en overgangsperiode ved Storbritannias uttreden av EU § 2, kommer reglene i avtale 28. juni 2006 nr. 20 mellom Den europeiske union, Island og Norge om overleveringsprosedyre mellom partene til anvendelse. Er den ettersøkte ikke pågrepet, gjelder tilsvarende dersom politiet har informert vedkommende om arrestordren før utløpet av overgangsperioden.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

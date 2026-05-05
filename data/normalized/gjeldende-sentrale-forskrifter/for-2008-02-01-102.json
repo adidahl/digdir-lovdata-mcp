@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2008-02-01-102",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om støyemisjon fra luftfartøy",
+  "short_title": "Forskrift om støyemisjon fra luftfartøy",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2008-02-01",
+  "last_change_in_force": "2008-10-13",
+  "last_changed_by": "forskrift/2008-10-13-1103",
+  "lovdata_refid": "forskrift/2008-02-01-102",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2008-02-01-102",
+  "raw_xml_sha256": "4b0d303dceefd3c4cfe617b4e473faa50e423ae6335c40b61a6e6c3e26a09833",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Denne forskriften har som formål å regulere bruken av sivile subsoniske jetfly i tråd med reglene i § 3.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "(1) Forskriften gjelder for luftfartøy med høyeste tillatte startvekt 34 000 kg eller mer, eller som har mer enn 19 passasjerseter. Seter forbeholdt besetningen holdes utenom.(2) Forskriften gjelder ikke for Svalbard.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Hovedregel om støybegrensning",
+      "path": [],
+      "text": "Alle sivile subsoniske jetfly som opereres fra norske lufthavner, skal oppfylle normene i bind 1, del II, kapittel 3 i bilag 16 til konvensjonen om sivil luftfart (Chicago-konvensjonen), andre utgave (1988). Dette gjelder også fly på utenlandsk register.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Luftfartøy av historisk interesse kan etter søknad til Luftfartstilsynet unntas fra hovedregelen i § 3.\nI forbindelse med innvilgelse av unntak etter 1. ledd, underretter Luftfartstilsynet EFTA Surveillance Authority (ESA) samt de ansvarlige myndigheter i EØS-området. Unntak skal begrunnes.\nNorske myndigheter anerkjenner unntak som en annen EU/EØS-stat har gjort for luftfartøy registrert i denne statens register.\nLuftfartstilsynet kan, etter søknad, i enkelttilfeller gi tillatelse til at luftfartøy som ikke kan opereres på grunnlag av bestemmelser i denne forskriften, likevel opereres fra norske lufthavner. Slike unntak er begrenset til:luftfartøyer, hvis bruk er så spesiell at det ville være urimelig å nekte et midlertidig unntak.Luftfartøy som utfører ikke-inntektsbringende flyvninger med henblikk på endring, reparasjon eller vedlikehold.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Overtredelse",
+      "path": [],
+      "text": "Bruk av luftfartøy i strid med denne forskriften, straffes i henhold til luftfartslovens § 14-29.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "LOV-1949-07-28-15",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om adgang for Kongen til å inngå overenskomster med fremmede stater til forebyggelse av dobbeltbeskatning mv. (dobbeltbeskatningsavtaleloven)",
+  "short_title": "Dobbeltbeskatningsavtaleloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Skatte- og avgiftsrett > Skatteavtaler",
+  "date_in_force": "1949-07-28",
+  "last_change_in_force": "2016-06-17",
+  "last_changed_by": "lov/2016-06-17-33",
+  "lovdata_refid": "lov/1949-07-28-15",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1949-07-28-15",
+  "raw_xml_sha256": "0b4c06febecf138ed76d08335aec5888e4b63701a08a7652594939101968ca89",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Under forbehold av gjensidighet kan Kongen med Stortingets samtykke ved overenskomst med fremmed stats regjeringmed omsyn til offentlige skatter og avgifter fastsette regler for deling av skattefundamentene og herunder innrømme slik lempning i beskatningen at dobbeltbeskatning helt eller delvis unngås,vedta bestemmelser om at norske myndigheter, uten hinder av gjeldende bestemmelser om taushetsplikt, skal innhente og meddele opplysninger til bruk for vedkommende stats myndigheter ved utskrivningen av offentlige skatter og avgifter, ogvedta bestemmelser om at eksigible krav på offentlige skatter og avgifter, utskrevet i vedkommende stat, skal være bindende her i riket, og kunne inndrives av den norske stat etter de regler som gjelder for inndriving og oppkreving av tilsvarende eller lignende norske skatter og avgifter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Bestemmelser i den øvrige lovgivning om plikt til å gi opplysninger til bruk for myndighetene ved utskriving av skatt eller avgift for andre skatte- eller avgiftspliktige får tilsvarende anvendelse, når det med hjemmel i overenskomst med fremmed stat søkes innhentet opplysninger til bruk for utenlandske skattemyndigheter.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne lov trer i kraft straks. – – –",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

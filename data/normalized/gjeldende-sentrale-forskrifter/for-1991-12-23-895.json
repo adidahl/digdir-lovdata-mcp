@@ -1,0 +1,56 @@
+{
+  "id": "FOR-1991-12-23-895",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning av sluttpoengtall etter samordningsloven § 23 nr. 2.",
+  "short_title": "Forskrift om beregning av sluttpoengtall",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1992-01-01",
+  "lovdata_refid": "forskrift/1991-12-23-895",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1991-12-23-895",
+  "raw_xml_sha256": "fe323f16c466576102e4f1fd1395a2cf088736dab830a5bdaa8f34fb4009f957",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Definisjoner.",
+      "path": [],
+      "text": "Med G menes i forskriften her grunnbeløpet i folketrygden til enhver tid.\nMed poengår menes år som er regnet som år med pensjonspoeng ved beregninga av tilleggspensjonen i folketrygden.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Pensjonsgivende inntekt opp til 6 G.",
+      "path": [],
+      "text": "Utgjør pensjonsgivende inntekt i pensjonsordninga ikke mer enn 6 G, skal sluttpoengtallet etter samordningsloven § 23 nr. 2 svare til den pensjonsgivende inntekta fratrukket G og deretter dividert med G.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Pensjonsgivende inntekt over 6 G.",
+      "path": [],
+      "text": "Utgjør pensjonsgivende inntekt i pensjonsordninga mer enn 6 G, skal det beregnes poengtall på grunnlag av denne inntekta for det antall år som svarer til antallet poengår i folketrygden. Bare inntekt inntil 12 G tas med.\nPoengtall etter første ledd fastsettes som følger:For det antall år som svarer til antallet poengår før 1992, skal poengtallet beregnes som nevnt i § 2, men slik at pensjonsgivende inntekt mellom 8 og 12 G bare medregnes med en tredel.For det antall år som svarer til antallet poengår etter 1991, skal poengtallet beregnes som nevnt i § 2, men slik at pensjonsgivende inntekt mellom 6 og 12 G bare medregnes med en tredel.\nSluttpoengtallet etter samordningsloven § 23 nr. 2 skal være gjennomsnittet av de 20 høyeste poengtall som er beregnet etter første og annet ledd. Dersom det er beregnet mindre enn 20 poengtall, skal sluttpoengtallet være gjennomsnittet av samtlige poengtall.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Avrunding av poengtall.",
+      "path": [],
+      "text": "Poengtall etter forskriften her fastsettes med to desimaler og avrundes oppover eller nedover til nærmeste hundredel.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse.",
+      "path": [],
+      "text": "Forskriften her trer i kraft 1. januar 1992 og gjelder også for tilfelle hvor pensjon gis med virkning for tidsrom før nevnte dato.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

@@ -1,0 +1,154 @@
+{
+  "id": "FOR-2014-07-01-955",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om radiokommunikasjonsutstyr for norske skip og flyttbare innretninger",
+  "short_title": "Forskrift om radiokommunikasjonsutstyr for skip mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2014-09-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-16-2652 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2014-07-01-955",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-07-01-955",
+  "raw_xml_sha256": "922b5e28cb19f47b01e386c2e01b798600b1f1bcebeb446a563bc605d72a8347",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norskelasteskip med lengde (L) 24 meter eller mer eller med bruttotonnasje 300 eller merskip med passasjersertifikatskip med sikkerhetssertifikat for passasjerskip i utenriksfartflyttbare innretningerfritidsfartøy med største lengde 24 meter eller mer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav om radiokommunikasjonsutstyr for lasteskip og passasjerskip",
+      "path": [],
+      "text": "Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel IV, som endret ved resolusjon MSC.496(105) gjelder som forskrift.\nFørste ledd gjelder tilsvarende for lasteskip med bruttotonnasje under 300 i utenriksfart og skip i innenriksfart.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak for lasteskip med fartsområde 2 og mindre",
+      "path": [],
+      "text": "Lasteskip med fartsområde 2 og mindre kan unnlate å følge radioutstyrskravene i § 2 og § 3a, jf. SOLAS regel IV/7 og IV/8, når skipet er utstyrt medVHF-DSC radioinstallasjonto håndholdte VHF-radioerhar bruttotonnasje 100 eller mer og er utstyrt med SART.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3a",
+      "heading": "Krav om SART og håndholdt VHF-radio på lasteskip med bruttotonnasje under 300",
+      "path": [],
+      "text": "Lasteskip med bruttotonnasje under 300 skal ha følgende antall SART og håndholdte VHF-radioer:to håndholdte VHF-radioerén SART.\nFor lasteskip med bruttotonnasje under 100 gjelder kravet i første ledd bokstav b kun i fartsområde 3 eller større fartsområde.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Krav til EPIRB for lasteskip med fartsområde 3 og større",
+      "path": [],
+      "text": "Lasteskip med fartsområde 3 og større skal ha manuell satellitt-EPIRB montert i styrehuset, slik at den lett kan aktiveres og tas med til en redningsfarkost.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Unntak for passasjerskip i innenriksfart",
+      "path": [],
+      "text": "Passasjerskip med fartsområde på elver og innsjøer unntas fra kravene i § 2 annet ledd.\nPassasjerskip med fartsområde 1 til og med liten kystfart kan unnlate å følge radioutstyrskravene i SOLAS regel IV/7 og IV/8, jf. § 2 annet ledd, når skipmed fartsområde 1 og større fartsområder er utstyrt med en VHF-radioinstallasjon som kansende og motta DSC på frekvensen 156,525 MHz (kanal 70)sette i gang sending av nødalarm på kanal 70 fra stedet hvor skipet normalt navigeres frasende og motta radiotelefoni på frekvensene 156,300 MHz (kanal 6), 156,650 MHz (kanal 13) og 156,800 MHz (kanal 16)med fartsområde 1 og større fartsområder er utstyrt med én håndholdt VHF. Passasjerskip som kan føre mer enn 12 passasjerer, skal være utstyrt med to håndholdte VHF-er. Passasjerskip som kan føre mer enn 250 passasjerer, skal være utstyrt med tre håndholdte VHF-ermed fartsområde 2 og større fartsområder som kan føre mer enn 12 passasjerer er utstyrt med radar-SART eller AIS-SARTmed fartsområde 4 og liten kystfart er utstyrt med fri-flyt nødpeilesendermed liten kystfart har ekstra fastmontert eller bærbart maritimt VHF-utstyr.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Tilleggskrav til passasjerskip med arrangement for helikopteroperasjoner",
+      "path": [],
+      "text": "Passasjerskip med arrangement for helikopteroperasjoner skal, i tillegg til kravene etter § 2,kunne kommunisere med helikoptre fra skipets styrehus, bro eller skipets radiostasjon. Kommunikasjonen skal foregå på maritim VHF eller aeronautisk VHF hvis det er gitt tillatelse til bruk av aeronautiske frekvenser;kunne operere i treveis kommunikasjon mellom helikopteret, helikopterdekkvakten og radiooperatøren, ogha håndholdt VHF-apparat med hodesett tilgjengelig for helikopterdekkvakten.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Krav om radiokommunikasjonsutstyr på flyttbare innretninger",
+      "path": [],
+      "text": "Flyttbare innretninger skal følge kravene for lasteskip i § 2 med unntak av kravene i SOLAS kapittel IV regel 7.2, 7.3, 7.4, 7.5 og 7.6.\nAntall og plassering av VHF-radiotelefonapparater (VHF), radar-SART og AIS-SART for livbåter og redningsflåter skal oppfylle MODU-koden 11.6. «Should» i MODU-koden skal erstattes med «skal».\nHMOB-båt skal ha VHF.\nVHF i livbåter og HMOB-båt skal ha hodesett. Føreren skal kunne bruke VHF og føre båten samtidig.\nDersom VHF i livbåten er håndholdt, skal den være koblet til en ekstra antenne som er fastmontert i livbåten.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Unntak for flyttbare innretninger uten egen fremdrift",
+      "path": [],
+      "text": "Flyttbare innretninger uten egen fremdrift kan unnlate å følge radioutstyrskravene i § 7 første ledd, jf. SOLAS regel IV/8, /9, /10 og /11, når innretningen oppfyller kravene i MODU-koden (Code for the Construction and Equipment of Mobile Offshore Drilling Units, 2009) pkt. 11.4 og 11.5.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Tilleggskrav for flyttbare innretninger med helikopterdekk",
+      "path": [],
+      "text": "Flyttbar innretning med helikopterdekk skal, i tillegg til kravene etter § 7, jf. § 2, være utstyrt medto fastmonterte VHF/AM radiotelefonstasjoner, som skal kunne opereres fra et sted med oversikt over hele helikopterdekket, og et bærbart VHF/AM radiotelefonapparat til hvert medlem av helikopterdekkbemanningen til å kommunisere med helikoptre i frekvensområdet 118–137 MHz. Den ene fastmonterte stasjonen skal være koblet til batterier som har kapasitet til å drifte stasjonen i minst 6 timer, eller batterier for utstyr tilknyttet Det globale maritime nød- og sikkerhetssystemet (GMDSS), når batteriene har kapasitet til å drifte begge typer utstyr samtidig;aeromobilt radiofyr for sending av peilesignaler. Radiofyret skal tilfredsstille Den internasjonale organisasjon for sivil luftfart, ICAOs bestemmelser for operasjon og drift av «Non-Directional Radio Beacon (NDB)», Av/på-bryter for radiofyret skal være plassert i rom som tilfredsstiller kravene i SOLAS regel IV/6.2.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Krav til dobbelt sett utstyr og vedlikehold av radioutstyr",
+      "path": [],
+      "text": "Radioutstyret på skip og flyttbare innretninger skal ha landbasert vedlikehold i samsvar med produsentens instruksjoner.\nVedlikeholdet av nødpeilesender på skip og flyttbare innretninger skal utføres av utstyrsfabrikanten eller en servicestasjon godkjent av utstyrsfabrikanten. Batteriet skal kobles fra før nødpeilesenderen sendes til service eller periodisk vedlikehold.\nNødpeilesender skal være merket med datoen for sist utførte periodiske vedlikehold.\nSkip og flyttbare innretninger i radiodekningsområdene A3 eller A4 skal ha dobbelt sett radioutstyr. På flyttbar boreinnretning skal radioutstyret som kreves med hjemmel i første punktum plasseres med størst mulig avstand fra det primære radioutstyret som kreves etter § 7.\nBatteriene som brukes som reservekraftkilde, jf. SOLAS regel IV/13, jf. § 2, skal skiftes ut straks de viser tegn til redusert kapasitet. Blyakkumulatorer skal uansett skiftes ut senest hvert femte år.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Dokumentasjon",
+      "path": [],
+      "text": "Rederiet skal kunne dokumentere at forskriftens krav til utstyr og plassering av dette er oppfylt. Rederiet skal fremlegge de opplysningene som er nødvendig for å ta stilling til om kravene i forskriften er oppfylt, når Sjøfartsdirektoratet ber om det.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 12",
+      "heading": "Radioopptegnelser",
+      "path": [],
+      "text": "Det skal føres radioopptegnelser i en egen radiodagbok eller i fartøyets dekksdagbok.\nSkip og flyttbare innretninger skal følge reglene om føring av radioopptegnelser i forskrift 27. april 1999 nr. 537 om vakthold på passasjer- og lasteskip vedlegg A nr. 87–89.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 13",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.\nSjøfartsdirektoratet kan unnta et skip i innenriksfart, et lasteskip med bruttotonnasje under 300 i utenriksfart eller en flyttbar innretning fra ett eller flere av kravene i forskriften hvis rederiet søker skriftlig om unntak og ett av følgende vilkår er oppfylt:Det godtgjøres at kravet ikke er vesentlig og at unntaket vurderes som sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. september 2014.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 15",
+      "heading": "Overgangsbestemmelser",
+      "path": [],
+      "text": "Passasjerskip i innenriksfart skal oppfylle kravene i forskriften § 5 annet ledd bokstav b innen 1. juli 2015.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "paragraf-17",
+      "provision_ref": "§ 16",
+      "heading": "Oppheving av og endringer i andre forskrifter",
+      "path": [],
+      "text": "Ved forskriftens ikrafttredelse opphevesforskrift 11. november 1991 nr. 731 om radiokommunikasjon for passasjerskipforskrift 15. september 1992 nr. 693 om innretning og føring av dagbøker på skip og flyttbare innretninger § 14 og § 19forskrift 16. desember 1993 nr. 1200 om installasjon og bruk av radioutstyr på flyttbare innretningerforskrift 27. januar 1999 nr. 149 om radioanlegg og radiotjeneste på passasjer- og lasteskip som omfattes av den internasjonale sjøsikkerhetskonvensjonen, SOLAS 1974forskrift 12. november 2002 nr. 1314 om vilkår for periodisk vedlikehold av fri-flyt nødradiopeilesendereforskrift 17. desember 2004 nr. 1856 om radiokommunikasjon for lasteskipforskrift 15. januar 2008 nr. 72 om helikopterdekk på flyttbare innretninger § 33 og § 34.",
+      "xml_path": "article#paragraf-17"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2015-11-10-1267",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om grenselengdegebyr",
+  "short_title": "Forskrift om grenselengdegebyr",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2016-01-01",
+  "lovdata_refid": "forskrift/2015-11-10-1267",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-11-10-1267",
+  "raw_xml_sha256": "0fda26adab497589b993e200677cbbd1f3edd340bba7c8ebcac2c548a8ed82e8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Grenselengdegebyr etter jordskifteloven § 7-3 er to ganger rettsgebyret pr. påbegynt 0,5 kilometer fastlagt grense.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2016.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

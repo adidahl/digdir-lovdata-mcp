@@ -1,0 +1,47 @@
+{
+  "id": "LOV-2001-06-15-73",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om organisert kampaktivitet som tillater knockout [knockoutloven]",
+  "short_title": "Knockoutloven",
+  "department": "Kultur- og likestillingsdepartementet",
+  "legal_area": "Kultur, idrett og underholdning > Idrett. Sport",
+  "date_in_force": "2002-01-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/2001-06-15-73",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2001-06-15-73",
+  "raw_xml_sha256": "ea632538ab7d4dd547297f151962bab8b310384c48f6fe15a2f514322789dc47",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Organisert konkurranse, oppvisning eller treningskamp der knockout er tillatt, kan bare finne sted etter godkjenning av Kongen. Med knockout menes at en deltaker må avbryte kampen på grunn av støt mot hodet.\nI vurderingen av om godkjenning skal gis, skal det blant annet legges vekt på om kampaktiviteten i tilstrekkelig grad tar hensyn til utøverens helse og sikkerhet.\nKongen kan fastsette nærmere sikkerhetsbestemmelser som en godkjent kampaktivitet må følge.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Med bøter eller fengsel i inntil tre måneder straffes den som uten å ha innhentet godkjenning:arrangerer, deltar, gir økonomisk støtte til eller stiller lokaler til rådighet for kampaktivitet som nevnt i § 1 første ledd,inngår avtale om kampaktivitet som nevnt i § 1 første ledd, ellergjør tjeneste som dommer eller sekundant ved kampaktivitet som nevnt i § 1 første ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Loven gjelder her i riket, herunder Svalbard.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

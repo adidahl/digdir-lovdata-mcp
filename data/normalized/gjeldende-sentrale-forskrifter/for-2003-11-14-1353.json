@@ -1,0 +1,228 @@
+{
+  "id": "FOR-2003-11-14-1353",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og behandling av helseopplysninger i Norsk overvåkningssystem for resistens hos bakterier, sopp og virus (Resistensregisterforskriften)",
+  "short_title": "Resistensregisterforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2004-01-01",
+  "last_change_in_force": "2021-11-19",
+  "last_changed_by": "forskrift/2021-11-19-3235",
+  "lovdata_refid": "forskrift/2003-11-14-1353",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-11-14-1353",
+  "raw_xml_sha256": "99ad6da9f3a3d1cf0a3a2c47180d8b05ad0a78b9cc0004c0a457c6f1008daa4d",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "(Etablering av NORM og RAVN)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften etablerer et landsomfattende Norsk overvåkingssystem for resistens mot legemidler brukt til behandling av infeksjoner med bakterier (antibiotika) og sopp (antimykotika) (NORM).\nForskriften etablerer videre en landsomfattende Resistensovervåking av virus i Norge (RAVN) for overvåking av resistens mot legemidler brukt til behandling av virusinfeksjoner (antiviralia) hos mennesker.\nForskriften gir regler for innsamling og behandling av helseopplysninger i overvåkingssystemene.\nInnsamling og behandling av helseopplysninger i NORM og RAVN kan skje manuelt og ved hjelp av elektroniske hjelpemidler.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "(Innholdet i NORM og RAVN)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "NORM inneholder avidentifiserte helseopplysninger om personer som har avgitt prøve med nærmere bestemte bakterie- og sopparter, opplysninger om disse mikroorganismene og om deres resistens mot antibiotika og antimykotika. RAVN inneholder avidentifiserte helseopplysninger om personer som har avgitt prøve med nærmere bestemte virus, opplysninger om disse virus og om deres resistens mot antiviralia.\nDen databehandlingsansvarlige bestemmer i samråd med fagmiljøene hvilke bakterie- og sopparter og antibiotika og antimykotika og hvilke virus og antiviralia, jf. første ledd, som skal inkluderes i NORM og RAVN. Ved valg av bakterie- og sopparter i NORM skal det blant annet tas hensyn til:klinisk viktige bakterie- og sopparter, for eksempel bakterier og sopp som ofte fører til sykdom, som gir særlig alvorlig sykdom eller som man har få antibiotika eller antimykotika mot,bakterie- og sopparter som man frykter vil bli resistente i nær fremtid, eller som har utviklet resistens i andre land,bakterie- og sopparter som kan forekomme i næringsmidler eller som ofte er importert,bakterie- og sopparter som lett erverver resistens og dermed tidlig signaliserer at det foreligger et uheldig seleksjonspress, men som ikke nødvendigvis er sykdomsfremkallende (indikatormikrober).\nVed valg av antibiotika og antimykotika i NORM, skal det blant annet tas hensyn til:klinisk viktige antibiotika og antimykotika, dvs. antibiotika og antimykotika som vanligvis benyttes i empirisk behandling av infeksjoner med de aktuelle bakterier og sopper, og som er representative for de aktuelle gruppene av antibiotika og antimykotika, ogantibiotika og antimykotika som det ofte utvikles resistens mot tidlig, eller som indikerer prinsipielt viktige resistensmekanismer (indikatorantibiotika, indikatorantimykotika).\nVed valg av virus i RAVN skal det blant annet tas hensyn til:klinisk viktige virus som har folkehelsemessig betydning og som det finnes antiviralia mot,virus som man frykter vil bli resistente i fremtiden, eller som har utviklet resistens i andre land,virus som kan skape helseproblemer i dyreoppdrett og ha humanmedisinsk betydning.\nVed valg av antiviralia i RAVN skal det blant annet tas hensyn til:klinisk viktige antiviralia, spesielt de som benyttes i empirisk behandling av virusinfeksjoner,antiviralia som det ofte utvikles resistens mot tidlig i behandlingsforløpet,resistens som indikerer prinsipielt viktige resistensmekanismer for eksempel mot grupper av antiviralia.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-2a",
+      "heading": "(Avidentifiserte opplysninger)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Med avidentifiserte opplysninger forstås i denne forskriften helseopplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-3",
+      "heading": "(Formålet med NORM og RAVN)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med NORM er å:innsamle og behandle data om bakterie- og soppisolaters resistens mot antibiotika og antimykotika for å kartlegge forekomst og utbredelse av resistens mot slike midler og belyse endringer over tid,drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til bakteriers og sopps utvikling av resistens mot antibiotika og antimykotika, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av bakterier og sopp,bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antibiotika og antimykotika,gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.\nFormålet med RAVN er å:innsamle og behandle data om virusresistens mot antiviralia for å kartlegge forekomst og utbredelse av resistens mot antiviralia og belyse endringer over tid,drive, fremme og gi grunnlag for forskning for å utvikle ny viten om årsaker til virus utvikling av resistens mot antiviralia, med den hensikt å fremme og utvikle kvaliteten på forebyggende tiltak mot antiviral resistens og helsehjelp som tilbys og ytes mot infeksjonssykdommer forårsaket av virus,bidra til å skaffe grunnlag for å gi befolkningen og lokal, regional og sentral helseforvaltning og helsetjeneste råd og informasjon om tiltak som kan forebygge utvikling av resistens mot antiviralia,gi norske myndigheter grunnlag for å bidra til internasjonal statistikk på nærmere avgrensede områder.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-4",
+      "heading": "(Forbud mot bruk)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Opplysningene i NORM og RAVN kan ikke anvendes til formål som er uforenelig med formål som nevnt i § 1-3.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-5",
+      "heading": "(Dataansvarlig)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet er dataansvarlig for NORM og RAVN.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-6",
+      "heading": "(Databehandler)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Universitetssykehuset i Nord-Norge HF er databehandler for NORM.\nFolkehelseinstituttet skal inngå skriftlig avtale med databehandler om innsamling og behandling av opplysninger i NORM og RAVN, herunder om overvåking og forskning, jf. forskriften § 1-3, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data til brukere.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-7",
+      "heading": "(Opplysninger i NORM og RAVN)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "NORM og RAVN kan inneholde følgende opplysninger om personer som har avgitt prøve med bakterier, sopp eller virus, som er bestemt inkludert i NORM eller RAVN, jf. § 1-2 annet ledd:avidentifiserte personopplysninger:mikrobiologiske laboratoriums løpenummer til bakterie- eller soppisolatet eller viruset,pasientens bostedskommune,pasientens alder og kjønn,administrative opplysninger:virksomhet som har innsendt opplysningene om prøven som inneholdt bakterie- eller soppisolatet eller viruset,mikrobiologisk laboratorium som har påvist bakterie- eller soppisolatet eller viruset og undersøkt det med hensyn til resistens mot antibiotika, antimykotika og antiviralia, samt tidspunkt for slik isolasjon eller påvisning og undersøkelse,om bakterie- eller soppisolatet eller viruset:hvilken type bakterie, sopp eller virus som er isolert eller påvist,smittested dersom dette er relevant for den påviste bakterie, sopp eller virus,hvilken type prøvemateriale bakterie, sopp eller virus er isolert eller påvist fra,hvilke egenskaper bakterie- eller soppisolatet eller viruset har ved undersøkelse av resistens mot antibiotika, antimykotika eller antiviralia og opplysninger om hvilken metode som er brukt ved denne undersøkelsen.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-8",
+      "heading": "(Koding og klassifisering av opplysningene i NORM og RAVN, krav til dokumentasjon, kvalitetskontroll)",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet skal sørge for at opplysninger som behandles i NORM og RAVN er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 1-3. Folkehelseinstituttet skal ved enhver registrering i NORM og RAVN kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet og hvilke mikrobiologiske metoder som er brukt for å frembringe de registrerte opplysningene, jf. § 2-3 annet ledd.\nDersom meldingsskjema er mangelfullt utfylt, skal avsenderen av opplysningene varsles, jf. helseregisterloven § 13 andre ledd andre punktum.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "(Virksomhetenes deltakelse i NORM og RAVN)",
+      "path": [
+        "Kapittel 2. Melding av opplysninger til NORM og RAVN mv."
+      ],
+      "text": "NORM og RAVN er basert på frivillig deltakelse fra medisinsk mikrobiologiske laboratorier eller annen virksomhet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "(Helsepersonellets meldingsplikt av opplysninger til NORM og RAVN)",
+      "path": [
+        "Kapittel 2. Melding av opplysninger til NORM og RAVN mv."
+      ],
+      "text": "Helsepersonell ved deltakende virksomheter som isolerer og undersøker bakterier, sopp eller virus, jf. forskriften § 1-2 annet ledd, skal melde opplysninger som nevnt i § 1-7 til NORM eller RAVN.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "(Metoder, meldingsskjema, formkrav)",
+      "path": [
+        "Kapittel 2. Melding av opplysninger til NORM og RAVN mv."
+      ],
+      "text": "Melding av opplysninger som nevnt i § 2-2 skal skje på skjema eller på annen måte fastsatt av departementet.\nDepartementet kan gi pålegg om bruk av bestemte metoder for fremskaffing av opplysningene i NORM og RAVN, gi pålegg om bruk av bestemte klassifikasjoner og kodeverk ved registrering av opplysningene, samt gi pålegg om bruk av bestemte standardiserte meldingsformater ved forsendelsen av opplysningene.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "(Virksomhetens plikter)",
+      "path": [
+        "Kapittel 2. Melding av opplysninger til NORM og RAVN mv."
+      ],
+      "text": "Medisinsk mikrobiologiske laboratorier eller annen virksomhet som deltar i NORM og RAVN har ansvar for at pliktene som nevnt i § 2-2 og § 2-3 oppfylles, og skal sørge for at det finnes rutiner og standarder som sikrer dette.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "(Rapportering fra NORM og RAVN)",
+      "path": [
+        "Kapittel 2. Melding av opplysninger til NORM og RAVN mv."
+      ],
+      "text": "Folkehelseinstituttet skal sørge som regelmessig rapportering om forekomsten av smittsomme sykdommer, jf. § 1-3, gjennom å offentliggjøre årlige oversikter over utbredelsen av antibiotikaresistens, antimykotikaresistens og antiviraliaresistens basert på den gjennomførte overvåkningen.\nFolkehelseinstituttet skal sørge for rapportering av opplysninger om forekomst om resistens mot antibiotika, antimykotika og antiviralia i Norge til Verdens helseorganisasjon og Kommisjonen, jf. vedtak nr. 2119/98/EF. Slike opplysninger skal være avidentifiserte.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 3. Behandling av opplysninger i NORM og RAVN, tilgjengeliggjøring for forskning mv."
+      ],
+      "text": "Helseopplysninger i NORM og RAVN skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "(Informasjonsstrategi rettet mot brukergrupper)",
+      "path": [
+        "Kapittel 3. Behandling av opplysninger i NORM og RAVN, tilgjengeliggjøring for forskning mv."
+      ],
+      "text": "For å fremme bruken av data fra NORM og RAVN og for å bygge opp informasjon og kunnskap for formål som nevnt i § 1-3, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helse- og omsorgsforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "(Informasjonssikkerhet)",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "(Plikt til internkontroll)",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysningsloven og helseregisterloven, jf. helseregisteloven § 22. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve reglene om behandling av helseopplysninger, med særlig vekt på bestemmelser gitt i medhold av helseregisterloven § 21.\nDatabehandler som behandler helseopplysninger på vegne av Folkehelseinstituttet, skal behandle opplysninger i samsvar med rutiner Folkehelseinstituttet har oppstilt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "(Internkontrollens innhold)",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem det måtte angå.\nInternkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften § 1-8,hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften § 3-1,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.\nSkriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevet. Tilsynsmyndigheten kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "(Bevaring av helseopplysninger)",
+      "path": [
+        "Kapittel 5. Bevaring av helseopplysninger i NORM og RAVN"
+      ],
+      "text": "Opplysningene i NORM og RAVN kan i den utstrekning det er nødvendig for å nå formålet med registrene, bevares i ubegrenset tid, med mindre annet følger av helseregisterloven § 25.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "(Ikraftsetting)",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2004.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    }
+  ]
+}

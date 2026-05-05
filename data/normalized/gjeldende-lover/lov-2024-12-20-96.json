@@ -1,0 +1,297 @@
+{
+  "id": "LOV-2024-12-20-96",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om abort (abortloven)",
+  "short_title": "Abortloven",
+  "department": "Helse- og omsorgsdepartementet",
+  "legal_area": "Helse- og omsorgsrett",
+  "date_in_force": "2025-06-01",
+  "lovdata_refid": "lov/2024-12-20-96",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2024-12-20-96",
+  "raw_xml_sha256": "a8e118ff2ec7ae621df3a14a91dfdc5f0a8bb926d3789513ad6661ebeb636d44",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Loven skal sikre gravide rett til selvbestemmelse, lik rett til abort og tilgang til trygge aborter og at den gravide ivaretas og gis informasjon, veiledning og støtte. Samtidig skal loven sikre respekten for det ufødte liv og retten til å fullføre svangerskapet.\nLoven skal sikre gravide mulighet til å ta selvstendige beslutninger om egen kropp og eget privatliv basert på objektiv og nøytral informasjon og uten å bli utsatt for press.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Loven gjelder aborter som tilbys eller utføres i riket, og for alle som oppholder seg her.\nKongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Rett til abort der hele svangerskapet avbrytes",
+      "path": [
+        "Kapittel 2. Rett til abort m.m."
+      ],
+      "text": "Gravide har rett til å få utført selvbestemt abort som avbryter hele svangerskapet, frem til utgangen av 18. svangerskapsuke.\nEtter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre en abort som avbryter hele svangerskapet. Abortnemnda skal gi tillatelse dersom:svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,graviditeten er et resultat av at den gravide har vært utsatt for voldtekt, incest eller andre seksuallovbrudd,det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, ellermedisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.\nAbortnemnda skal legge betydelig vekt på den gravides oppfatning av situasjonen.\nEtter utgangen av 22. svangerskapsuke kan abort bare utføres dersom det er klart at fosteret vil dø under svangerskapet eller kort tid etter fødselen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Rett til fosterantallsreduksjon",
+      "path": [
+        "Kapittel 2. Rett til abort m.m."
+      ],
+      "text": "Gravide har rett til å få utført selvbestemt abort der antallet fostre reduseres (fosterantallsreduksjon), frem til utgangen av 18. svangerskapsuke.\nEtter utgangen av 18. svangerskapsuke kreves tillatelse fra en abortnemnd for å utføre fosterantallsreduksjon. Abortnemnda skal gi tillatelse dersom:svangerskapet, fødselen eller omsorgen for barnet medfører fare for den gravides fysiske eller psykiske helse,det er høy risiko for spontanabort eller for tidlig fødsel dersom svangerskapet videreføres for alle fostre,det er sannsynlig at fosteret har en alvorlig tilstand, eller at fosteret vil dø under svangerskapet eller kort tid etter fødsel, ellermedisinske forhold ved fosteret, forhold ved den gravide, den gravides livssituasjon eller en kombinasjon av disse gjør svangerskap, fødsel, barnets oppvekst eller fremtidig omsorg for barnet særlig krevende.\nTillatelse etter andre ledd bokstav d kan bare gis dersom begrunnelsen for fosterantallsreduksjon veier tyngre enn risikoen for skade, for tidlig fødsel eller død for gjenværende foster.\n§ 3 tredje og fjerde ledd gjelder tilsvarende.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Nødssituasjoner",
+      "path": [
+        "Kapittel 2. Rett til abort m.m."
+      ],
+      "text": "Dersom svangerskapet fører til akutt og alvorlig fare for den gravides liv eller helse, kan det avbrytes uten hensyn til bestemmelsene i denne loven.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Rett til informasjon, veiledning og oppfølgingssamtaler",
+      "path": [
+        "Kapittel 2. Rett til abort m.m."
+      ],
+      "text": "Gravide som vurderer abort, har rett til veiledning i valget mellom å fullføre svangerskapet eller å ta abort og informasjon om relevante offentlige velferdsordninger og tjenestetilbud.\nFør abort gjennomføres, har den gravide rett til informasjon om aborten og medisinske virkninger.\nDen som har gjennomgått abort, har rett til oppfølgingssamtaler.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Krav om abort",
+      "path": [
+        "Kapittel 3. Krav om abort"
+      ],
+      "text": "Krav om abort skal settes frem av den gravide.\nVed behov skal helsepersonell gi den gravide individuelt tilpasset hjelp til å sette frem krav om abort.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Gravide under 16 år",
+      "path": [
+        "Kapittel 3. Krav om abort"
+      ],
+      "text": "Når en gravid som er under 16 år, setter frem krav om abort, gjelder pasient- og brukerrettighetsloven § 3-4 om informasjon til foreldrene eller andre som har foreldreansvaret.\nDersom en gravid som er under 16 år, ikke er i stand til å forstå valgsituasjonen og hva inngrepet innebærer, eller ikke selv kan fremsette krav om abort, kan kravet settes frem av foreldrene eller andre som har foreldreansvaret. Pasient- og brukerrettighetsloven § 4-4 om samtykke på vegne av barn gjelder tilsvarende. Den gravide skal først ha fått tilbud om informasjon og veiledning etter § 6 i loven her. Det skal legges vekt på hva den gravide mener, i samsvar med den gravides alder og modenhet. Dersom den gravide ikke har fått tilbud om informasjon og veiledning, eller dersom den gravide motsetter seg inngrepet, kan det ikke gjennomføres. Dette gjelder ikke dersom den gravide risikerer vesentlig helseskade.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Gravide som mangler samtykkekompetanse",
+      "path": [
+        "Kapittel 3. Krav om abort"
+      ],
+      "text": "Dersom den gravide mangler samtykkekompetanse etter pasient- og brukerrettighetsloven § 4-3 andre til fjerde ledd, og har en verge eller fremtidsfullmektig som har et mandat som omfatter bistand i spørsmålet om abort, kan vergen eller fremtidsfullmektigen kreve abort på den gravides vegne. Den gravide skal først ha fått tilbud om informasjon og veiledning etter § 6 i loven her. Vergen skal legge den gravides eget ønske til grunn, ut fra den beste tolkningen av den gravides vilje og preferanser.\nDersom den gravide ikke har fått tilbud om informasjon og veiledning, eller dersom den gravide motsetter seg inngrepet, kan det ikke gjennomføres. Dette gjelder ikke dersom den gravide risikerer vesentlig helseskade.\nHvis den gravide ikke har verge eller fremtidsfullmektig som har mandat til å bistå i spørsmålet om abort, kan statsforvalteren oppnevne verge eller endre vergemålet i tråd med vergemålsloven §§ 20 og 21.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Vedtaksmyndighet ved krav om abort etter 18. svangerskapsuke",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemndene behandler krav om abort etter § 3 andre ledd og § 4 andre ledd.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Organisering og oppnevning",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemndene er uavhengige organer.\nAbortnemndene skal bestå av en lege som er nemndas leder, en jurist og en person med helse- eller sosialfaglig kompetanse. Legen skal ha relevant spesialistutdanning. I saker om fosterantallsreduksjon skal legen ha kompetanse innen fostermedisin. To av nemndas medlemmer skal være kvinner.\nFor hver av de faste medlemmene skal det oppnevnes et personlig varamedlem med tilsvarende kvalifikasjoner.\nMedlemmer og varamedlemmer oppnevnes av de regionale helseforetakene for fire år, med mulighet for én gangs gjenoppnevning. Når det er nødvendig for å behandle en sak om fosterantallsreduksjon, byttes nemndas leder ut med en lege som har kompetanse innen fostermedisin.\nDe regionale helseforetakene kan løse et medlem fra sitt verv dersom medlemmet ber om det av personlige grunner eller medlemmet grovt har krenket plikter som følger med vervet. I særlige tilfeller kan de regionale helseforetakene løse ett eller flere medlemmer fra vervet hvis det er nødvendig for at nemnda skal ivareta sine oppgaver.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Hurtig saksbehandling",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Saksbehandlingen i abortnemnda skal skje raskt og uten unødvendig opphold.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Behandling i møte og vedtaksførhet m.m.",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemnda skal behandle krav og treffe vedtak i møte.\nNemnda kan treffe vedtak når alle medlemmene er til stede og avgir stemme. Vedtak fattes med alminnelig flertall.\nVedtak om å gi tillatelse til abort etter § 3 andre ledd bokstav c og § 4 andre ledd bokstav c kan fattes av nemndleder alene.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Rett til å møte for nemnda",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Den gravide har rett til å møte for abortnemnda og legge frem sin sak muntlig. Den gravide kan ha med en støtteperson.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 15",
+      "heading": "Abortnemndas vedtak og underretning",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemndas vedtak skal være skriftlig og begrunnet.\nBegrunnelsen skal vise til hvilke regler og faktiske forhold vedtaket bygger på, og hvilke hensyn nemnda har lagt vekt på.\nDen gravide skal så snart som mulig underrettes skriftlig om vedtaket og begrunnelsen.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 16",
+      "heading": "Møteprotokoll",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemnda skal føre protokoll med opplysninger om når vedtak er truffet, hva vedtaket gjelder, og hvordan nemndas medlemmer har stemt.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 17",
+      "heading": "Åpenhet",
+      "path": [
+        "Kapittel 4. Vedtaksmyndighet i abortsaker"
+      ],
+      "text": "Abortnemnda skal informere offentligheten om sin praksis, innenfor rammen av taushetsplikten, jf. § 25.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Automatisk overprøving ved avslag",
+      "path": [
+        "Kapittel 5. Nasjonal klagenemnd for abort (Abortklagenemnda)"
+      ],
+      "text": "Ved avslag på krav om abort skal abortnemnda straks sende vedtaket og sakens dokumenter til Abortklagenemnda.\nAbortklagenemnda skal prøve alle sider av saken.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Organisering og oppnevning m.m.",
+      "path": [
+        "Kapittel 5. Nasjonal klagenemnd for abort (Abortklagenemnda)"
+      ],
+      "text": "Abortklagenemnda er et uavhengig organ.\nMedlemmene i Abortklagenemnda oppnevnes av departementet for fire år, med mulighet for én gangs gjenoppnevning.\nAbortklagenemnda skal bestå av fem medlemmer. Minst to av medlemmene skal være leger, og ett medlem skal være jurist. Minst én av legene skal ha relevant spesialistutdanning. Leder skal være lege. For hvert medlem kan det oppnevnes inntil to varamedlemmer.\nDepartementet kan løse et medlem fra sitt verv dersom medlemmet ber om det av personlige grunner eller medlemmet grovt har krenket plikter som følger med vervet. I særlige tilfeller kan departementet løse ett eller flere medlemmer fra vervet hvis det er nødvendig for at nemnda skal ivareta sine oppgaver.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Informasjon om vedtak",
+      "path": [
+        "Kapittel 5. Nasjonal klagenemnd for abort (Abortklagenemnda)"
+      ],
+      "text": "Abortklagenemnda kan uten hinder av taushetsplikt informere abortnemnda som fattet det aktuelle vedtaket, om Abortklagenemndas vedtak og begrunnelse.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 21",
+      "heading": "Saksbehandling",
+      "path": [
+        "Kapittel 5. Nasjonal klagenemnd for abort (Abortklagenemnda)"
+      ],
+      "text": "Bestemmelsene i § 12 om hurtig saksbehandling, § 13 første og andre ledd om behandling i møte og vedtaksførhet m.m., § 14 om rett til å møte for nemnda, § 15 om vedtak og underretning, § 16 om møteprotokoll og § 17 om åpenhet gjelder tilsvarende for Abortklagenemnda.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Tilbud om abort",
+      "path": [
+        "Kapittel 6. Helsetjenestens plikter"
+      ],
+      "text": "De regionale helseforetakene skal sørge for tilbud om abort til personer som oppholder seg i helseregionen.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Tilbud om informasjon, veiledning og oppfølgingssamtaler",
+      "path": [
+        "Kapittel 6. Helsetjenestens plikter"
+      ],
+      "text": "Kommunene og de regionale helseforetakene skal sørge for tilbud om:individuell og tilpasset informasjon og veiledning til gravide som vurderer abort, jf. § 6 første leddinformasjon om aborten og mulige komplikasjoner, jf. § 6 andre leddoppfølgingssamtaler for personer som har gjennomgått abort, jf. § 6 tredje ledd.\nAll informasjon og veiledning i forbindelse med abort skal være objektiv og nøytral.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Reservasjonsrett for helsepersonell",
+      "path": [
+        "Kapittel 6. Helsetjenestens plikter"
+      ],
+      "text": "Helsepersonell som av samvittighetsgrunner ønsker det, skal fritas fra å utføre eller assistere ved aborter, inkludert å rekvirere og ordinere medikamenter ved medikamentell abort. Retten til fritak omfatter ikke stell og pleie før, under og etter aborten.\nFritaket må gjøres generelt og gjelde for alle former for abort.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 25",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 7. Andre bestemmelser"
+      ],
+      "text": "Medlemmer i abortnemndene og Abortklagenemnda har taushetsplikt etter helsepersonelloven §§ 21 til 23, med mindre noe annet fremgår av loven her.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 26",
+      "heading": "Forholdet til forvaltningsloven",
+      "path": [
+        "Kapittel 7. Andre bestemmelser"
+      ],
+      "text": "Dersom ikke annet er bestemt, gjelder forvaltningsloven for virksomheten i abortnemndene og Abortklagenemnda.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 27",
+      "heading": "Forskrift til loven",
+      "path": [
+        "Kapittel 7. Andre bestemmelser"
+      ],
+      "text": "Departementet kan gi forskrift om abortnemndenes og Abortklagenemndas organisering og saksbehandling og om reservasjonsrett for helsepersonell.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 28",
+      "heading": "Ikrafttredelse og overgangsregler",
+      "path": [
+        "Kapittel 8. Ikrafttredelse mv."
+      ],
+      "text": "Loven trer i kraft fra den tiden1 Kongen bestemmer.\nKongen kan gi nærmere overgangsregler.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    }
+  ]
+}

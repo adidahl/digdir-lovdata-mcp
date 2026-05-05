@@ -1,0 +1,178 @@
+{
+  "id": "FOR-2017-12-12-1989",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om koordinering og bruk av satellittinnmelding (satellittinnmeldingsforskrifta)",
+  "short_title": "Satellittinnmeldingsforskrifta",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3423 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2017-12-12-1989",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-12-1989",
+  "raw_xml_sha256": "2ee1bf6aa11207c1bcde2b6e57adeefdafb2eca6403398350082a77dc524649f",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Føremål",
+      "path": [
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "Forskrifta fastsett reglar for søknad om, og innmelding og bruk av satellittinnmeldingar, som skal sikre at innmeldinga og innmeldingsprosessen er i samsvar med ekomlova og innanfor folkerettens rammer.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Verkeområde",
+      "path": [
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "Forskrifta gjeld krav til søkjar om satellittinnmelding, innhald i søknad om satellittinnmelding og koordinering og bruk av satellittinnmeldingar, som Nasjonal kommunikasjonsmyndigheit melder inn til Den Internasjonale Teleunionen (ITU).",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjonar og forkortingar",
+      "path": [
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "I forskrifta tydar:satellitt: ubemanna kunstig objekt som er plassert i bane rundt jorda.satellittsystem: system for radiokommunikasjon mellom ein eller fleire satellittar og tilhøyrande jordstasjonar.satellittinnmelding: ei elektronisk fil på det formatet som er fastsett i medhald av forskrifta og med det tekniske innhaldet som ITU (Den Internasjonale Teleunionen) krev i samband med koordinering og notifisering av satellittsystem i medhald av ITU-RR (Den Internasjonale Teleunionens Radioreglement).satellittoperatør: den som skal operere og drifte satellittsystemet, og koordinere og bruke satellittinnmeldinga.ITU: Den Internasjonale TeleunionenITU-RR: Den Internasjonale Teleunionens Radioreglement.\nElles gjeld definisjonane i lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Krav til søknad",
+      "path": [
+        "Kapittel 2. Søknad om og koordinering av satellittinnmelding"
+      ],
+      "text": "Ein satellittoperatør som vil melde inn eit satellittsystem til ITU må sende søknad om innmelding til Nasjonal kommunikasjonsmyndigheit.\nSøknaden skal vere på det formatet og innehalde den informasjonen som krevjast i medhald av ITU-RR. Søknaden skal òg innehalde eit samandrag av søknaden og dokumentasjon som viser at kravet i § 5 er oppfylt. Nasjonal kommunikasjonsmyndigheit kan utarbeide ein rettleiar for utfylling av søknaden.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Krav til søkar",
+      "path": [
+        "Kapittel 2. Søknad om og koordinering av satellittinnmelding"
+      ],
+      "text": "Søkar må vere ein satellittoperatør som er registrert i norsk føretaksregister. Satellittoperatøren må òg ha slik verksemd, organisasjon eller tilknyting til Noreg at norske myndigheiter er relevant myndigheit for å gjennomføre innmeldinga til ITU.\nSøkar skal dekke kostnadane staten har overfor ITU i samband med innmeldinga. Nasjonal kommunikasjonsmyndigheit kan krevje at søkar leverer bankgaranti før søknaden om satellittinnmelding vert sakshandsama.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Koordinering",
+      "path": [
+        "Kapittel 2. Søknad om og koordinering av satellittinnmelding"
+      ],
+      "text": "Ved innmelding til ITU fattar Nasjonal kommunikasjonsmyndigheit vedtak om nasjonal og internasjonal koordinering av satellittinnmeldinga.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Krav til bruksløyve",
+      "path": [
+        "Kapittel 3. Bruk og notifisering av satellittinnmelding"
+      ],
+      "text": "Ein satellittoperatør som vil bruke satellittinnmeldinga må sende søknad om bruksløyve til Nasjonal kommunikasjonsmyndigheit.\nSøknaden må innehalde:dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem,ei liste over status for koordineringsprosessen med satellittsystem som er identifisert av ITU.\nSatellittoperatøren plikter å sørgje for at bruk av satellittinnmeldinga ikkje skapar skadeleg interferens.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Notifisering av satellittinnmeldinga",
+      "path": [
+        "Kapittel 3. Bruk og notifisering av satellittinnmelding"
+      ],
+      "text": "Ein satellittoperatør kan søke Nasjonal kommunikasjonsmyndigheit om notifisering av satellittinnmeldinga til ITU.\nSøknaden må vere på det formatet og innehalde den informasjonen som krevjast i medhald av ITU-RR.\nSøknaden må òg innehalde:dokumentasjon som viser status for koordineringsprosessen med relevante norske satellittsystem.\nNasjonal kommunikasjonsmyndigheit kan sende satellittinnmeldinga vidare til ITU for notifisering og endeleg registrering i Master International Frequency Register (MIFR).",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Stans i innmeldingsprosessen",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndigheit kan nekte å gjennomføre innmeldinga til ITU når vilkår som er fastsett i eller i medhald av forskrifta ikkje er oppfylt.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Overdraging ved sal eller utleige av løyve",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndigheit kan etter søknad fatte enkeltvedtak som gjev innehavar av løyve etter § 6 og § 7, rett til å overdra løyvet ved sal eller utleige. Overdraging ved sal og ved vesentlige endringar i eigarsamansetning eller eigarstruktur hjå satellittoperatør skal meldast Nasjonal kommunikasjonsmyndigheit utan ugrunna opphald. Nasjonal kommunikasjonsmyndigheit kan stille vilkår til overdraginga. Nasjonal kommunikasjonsmyndigheit kan nekte overdraging, dersom ny innehavar ikkje oppfyller krava fastsett i forskrifta.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndigheit fører tilsyn med at føresegnene i forskrifta eller vedtak fatta med heimel i forskrifta overhaldast, jf. ekomloven § 15-1.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Reaksjonar",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndigheit kan gi pålegg om retting eller opphør av ulovlege forhold som er i strid med krava fastsett i medhald av forskrifta, jf. ekomloven § 15-5.\nNasjonal kommunikasjonsmyndigheit kan ved brot på krav i eller i medhald av forskrifta fatte vedtak om tvangsmulkt etter ekomloven § 15-11, eller vedtak om tilbakekall etter ekomloven § 15-6.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Sektoravgift",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Satellittoperatøren skal betale ei årleg sektoravgift til Nasjonal kommunikasjonsmyndigheit etter forskrift 20. mars 2017 nr. 386 om sektoravgift og gebyr til Nasjonal kommunikasjonsmyndigheit.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 14",
+      "heading": "Klagemyndigheit",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Digitaliserings- og forvaltningsdepartementet avgjer klage over enkeltvedtak fatta av Nasjonal kommunikasjonsmyndigheit.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 15",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndigheit kan i særskilte høve og innanfor folkerettens rammer gjere unntak frå forskrifta eller frå føresegner i forskrifta.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 16",
+      "heading": "Iverksetjing",
+      "path": [
+        "Kapittel 4. Generelle føresegner og tilsyn"
+      ],
+      "text": "Forskrifta trer i kraft 1. januar 2018.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    }
+  ]
+}

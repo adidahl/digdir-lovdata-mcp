@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2003-12-19-1618",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra medlemskap i Statens pensjonskasse",
+  "short_title": "Forskrift om unntak fra medlemskap i Statens pensjonskasse",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2004-01-01",
+  "last_change_in_force": "2021-08-01",
+  "last_changed_by": "forskrift/2021-06-18-1965 fra 2021-08-01",
+  "lovdata_refid": "forskrift/2003-12-19-1618",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-12-19-1618",
+  "raw_xml_sha256": "5bba752b17a8dbd4694e6d4fc5585db9d6bb0ffb31ebf68a2383debbae81500f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Følgende er unntatt fra retten til medlemskap i Statens pensjonskasse:Arbeidstakere som deltar i midlertidige arbeidsrettede tiltak som helt eller delvis finansieres over statsbudsjettet. Arbeidstakere som tilsettes i ordinær stilling med lønnstilskudd er likevel ikke unntatt fra loven.Meteorologiske observatører.Hydrologiske observatører.Arbeidstakere som gjør tjeneste på pensjonistvilkår.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. januar 2004.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

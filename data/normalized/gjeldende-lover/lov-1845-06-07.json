@@ -1,0 +1,24 @@
+{
+  "id": "LOV-1845-06-07",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Perlefiskeriet",
+  "short_title": "Lov om Perlefiskeriet",
+  "department": "Klima- og miljødepartementet",
+  "legal_area": "Fiskeri- og fangstrett og havbruk > Fiskeri",
+  "lovdata_refid": "lov/1845-06-07",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1845-06-07",
+  "raw_xml_sha256": "9107f86d07f0c8430334fa0340cc6a75f2ad714c30b7b5c37d275858816f3b76",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Lov om Perlefiskeriet",
+      "path": [],
+      "text": "Forordningen af 28de Mai 1718 om Perlefangsten i Christianssands og andre Stifter i Norge samt den Kongelige Resolution af 5te Januar 1791 om Perlefiskeriet i førstmeldte Stift tilligemed alle øvrige særskilt om dette Fiskeri udgivne Bestemmelser ophæves herved, saaledes at Perlefiskeriet fremtidigen skal tilkomme Eierne af de Grunde, paa hvilke Muslingerne findes.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

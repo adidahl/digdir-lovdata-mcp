@@ -1,0 +1,54 @@
+{
+  "id": "FOR-2007-02-09-151",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om iverksetting av matrikkelen",
+  "short_title": "Forskrift om iverksetting av matrikkelen",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2007-02-09",
+  "last_change_in_force": "2009-02-27",
+  "last_changed_by": "forskrift/2009-02-27-244",
+  "lovdata_refid": "forskrift/2007-02-09-151",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-02-09-151",
+  "raw_xml_sha256": "e107294292b0a5f2ba6e35e5032facc9f90abc990f5f65499f5437c5f0ff8091",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Statens kartverk bestemmer når matrikkelen skal settes i verk for den enkelte kommune og for Svalbard. Der hvor matrikkelen er satt i verk, gjelder bestemmelsene i § 2 og § 3.\nKommuner kan før iverksettingen etter avtale med Statens kartverk føre matrikkelen sammen med GAB-registeret og eiendomskart. Føringen skal skje etter bestemmelsen i § 3.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Matrikkelen erstatter GAB-registeret og kommunens eiendomskart. Når det i lov eller forskrift direkte eller indirekte vises til GAB-registeret eller kommunens eiendomskartverk, skal bestemmelsen gjelde matrikkelen tilsvarende.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Føring av opplysninger i matrikkelen skal følge instruks fastsatt av Statens kartverk. Lov 23. juni 1978 nr. 70 om kartlegging, deling og registrering av grunneiendom (delingsloven) og lov 17. juli 1925 nr. 11 om Svalbard § 25, med tilhørende forskrifter, gjelder ellers så langt de passer.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Statens kartverk bestemmer når kommunen skal overføre data fra kommunale grunneiendoms-, adresse- og bygningsregistre og digitale eiendomskart til matrikkelen, og på hvilken måte. Bestemmelsen gjelder tilsvarende for Longyearbyen lokalstyre.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2021-12-16-3961",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Mellombels forskrift om sensurfristar ved Norges Handelshøyskole (NHH)",
+  "short_title": "Mellombels forskrift om sensurfristar ved Norges Handelshøyskole (NHH)",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "Frå og med eksamenar avlagt i vårsemesteret 2022 og til og med eksamenar avlagt i haustsemesteret 2022",
+  "lovdata_refid": "forskrift/2021-12-16-3961",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-12-16-3961",
+  "raw_xml_sha256": "beb796d390afcad9c9c086d99d020dbdc014b2f9af4950655b82054c440daa0e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Område denne forskrifta gjeld for",
+      "path": [],
+      "text": "Forskrifta gjeld nærare oppgjevne eksamenar i bachelorstudiet i økonomi og administrasjon og for autorisasjonsprøve i oversettelse (translatøreksamen) ved Norges Handelshøyskole.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kunngjeringsdatoar for ordinære eksamenar i bachelorstudiet i økonomi og administrasjon",
+      "path": [],
+      "text": "Sensur vert kunngjort seinast fire veker etter eksamensdagen i RET1 Rettslære for økonomer og MET3 Databehandling for økonomer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kunngjeringsdatoar for autorisasjonsprøve i oversettelse",
+      "path": [],
+      "text": "Sensur vert kunngjort seinast fem veker etter eksamensdagen i autorisasjonsprøve i oversettelse.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikraftsetjing m.m.",
+      "path": [],
+      "text": "Forskrift tek til å gjelde frå og med eksamenar avlagt i vårsemesteret 2022 og gjeld til og med eksamenar avlagt i haustsemesteret 2022. For eksamen i emne som ikkje er nemnd i forskrift, gjeld fristen på tre veker etter lov om universiteter og høyskoler.\nUnntak for ordinær sensurfrist gjeld det semesteret emnet vert undervist.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

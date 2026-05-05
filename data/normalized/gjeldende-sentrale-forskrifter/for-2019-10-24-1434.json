@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2019-10-24-1434",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring i norsk rett av EØS-avtalen vedlegg IV nr. 47 (forordning (EF) nr. 713/2009 om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter)",
+  "short_title": "Forskrift om gjennomføring av forordning (EF) nr. 713/2009",
+  "department": "Energidepartementet",
+  "date_in_force": "2019-11-01",
+  "lovdata_refid": "forskrift/2019-10-24-1434",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-10-24-1434",
+  "raw_xml_sha256": "9923e459f6483c64f577be68a766ec56302bcd76088c79c63f6196c506d7551c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg IV nr. 47 (forordning (EF) nr. 713/2009 om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter) gjelder som forskrift med de endringer og tillegg som følger av vedlegg IV, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "«Reguleringsmyndighet» skal i forordning (EF) nr. 713/2009 om opprettelse av et byrå for samarbeid mellom energireguleringsmyndigheter forstås som Reguleringsmyndigheten for energi.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. november 2019.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1997-04-18-332",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bidrag til visse helsetjenester",
+  "short_title": "Forskrift om bidrag til visse helsetjenester",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1997-05-01",
+  "last_change_in_force": "2009-01-01",
+  "last_changed_by": "forskrift/2008-11-25-1265 fra 2009-01-01",
+  "lovdata_refid": "forskrift/1997-04-18-332",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-04-18-332",
+  "raw_xml_sha256": "804f729c7e2a864bd9dff7f837c8ba6ac8c1afd35cb7b5a5df8adb1ebd4ad2ca",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Bidrag kan ytes til dekning av utgifter til helsetjenester når utgiftene ikke ellers dekkes etter folketrygdloven eller andre lover.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Helsedirektoratet fastsetter nærmere retningslinjer for ytelse av bidrag.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

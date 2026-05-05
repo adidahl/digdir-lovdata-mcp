@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2006-12-20-1521",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av godtgjørelse til fiskere i forhold til lov om obligatorisk tjenestepensjon.",
+  "short_title": "Forskrift om OTP for fiskere",
+  "department": "Finansdepartementet",
+  "date_in_force": "2006-12-20",
+  "lovdata_refid": "forskrift/2006-12-20-1521",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-12-20-1521",
+  "raw_xml_sha256": "ea6e88645691eab7d38e919758db98d0b62557f773b60001ef159aea2d2a94af",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Hyre og annen godtgjørelse utbetalt fra foretak i fiskerisektoren skal, i den grad godtgjørelsen ligningsmessig behandles som lønn, også behandles som lønn i forhold til regelverket om obligatorisk tjenestepensjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 20. desember 2006.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

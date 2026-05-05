@@ -1,0 +1,63 @@
+{
+  "id": "FOR-1992-11-05-979",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om når en utenlandsk statsborger skal anses å være fast bosatt i Norge i forbindelse med prøving av ekteskapsvilkår",
+  "short_title": "Forskrift om prøving av ekteskapsvilkår",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "1993-01-01",
+  "last_change_in_force": "2013-01-23",
+  "last_changed_by": "forskrift/2013-01-23-56",
+  "lovdata_refid": "forskrift/1992-11-05-979",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-11-05-979",
+  "raw_xml_sha256": "ba459ddbef201f3c8355a62628f52f61a67b2f35ce6123647d819f479454c068",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Utenlandsk statsborger med permanent oppholdstillatelse anses for å være fast bosatt i Norge.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Utenlandsk statsborger med oppholdstillatelse som kan danne grunnlag for permanent oppholdstillatelse kan etter en skjønnsmessig vurdering foretatt av folkeregistermyndigheten anses som fast bosatt i Norge. Det skal bl.a. legges vekt på utlendingens tilknytning til Norge, hvor lenge vedkommende har hatt opphold i Norge, om han/hun har til hensikt å bli boende, om utlendingen har nær familie i Norge, fast arbeid mv.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Utenlandsk statsborger som har status som flyktning og som er innvilget asyl i Norge likestilles med norsk borger etter ekteskapsloven § 7 h, selv om vedkommende ikke kan anses som fast bosatt i riket.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Folkeregistermyndigheten kan kreve den utenlandske statsborgerens pass og/eller andre relevante dokumenter fremlagt for å klarlegge vedkommendes utlendingsrettslige status.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "I"
+      ],
+      "text": "Ved prøving av ekteskapsvilkårene for statsborger av annet nordisk land, gjelder bestemmelsene i Konvensjon 6. februar 1931 mellom Norge, Danmark, Finland, Island og Sverige inneholdende internasjonal-privatrettslige bestemmelser om ekteskap mv, jf lov 19. desember 1969 nr. 75 og Justis- og politidepartementets forskrift 19. desember 1969. Bestemmelsene i konvensjonen gjelder likevel ikke ved inngåelse av ekteskap mellom to personer av samme kjønn.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    }
+  ]
+}

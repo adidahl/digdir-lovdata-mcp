@@ -1,0 +1,268 @@
+{
+  "id": "FOR-2000-12-21-1406",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om skadedyrbekjempelse",
+  "short_title": "Forskrift om skadedyrbekjempelse",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2001-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-21-2281 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2000-12-21-1406",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-12-21-1406",
+  "raw_xml_sha256": "eb66a69f1c17e6197528620bbac85b9b82858a52bbb15c4eca4987d7a6a63f89",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å forebygge at skadedyroverfører smittsomme sykdommer til mennesker,blir årsak til sykdommer hos mennesker ellerblir årsak til andre helseproblemer hos mennesker.\nForskriften skal sikre at det ved skadedyrbekjempelse blir benyttet midler og metoder som motvirker at skadedyr overfører smittsomme sykdommer eller blir årsak til sykdommer eller andre helseproblemer hos mennesker, og som ikke medfører helseskade eller miljøskadelige virkninger.\nForskriften skal sikre at skadedyrbekjempelse blir foretatt av personer som kan utføre den fagmessig korrekt og effektivt, og påse at det ikke oppstår helse- eller miljøskade.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder forebygging og bekjempelse av skadedyr, som foretas privat eller ervervsmessig, i bygninger og innretninger mv., herunder:alle bygg mv. som omfattes av plan- og bygningsloven, herunder boliger, drifts- og næringsbygg med tilhørende tomteområder, kornsiloer,transportmidler til lands, til sjøs og i luften, faste og flytende installasjoner til sjøs,inventar, utstyr, maskiner, produkter og annet løsøre i bygninger,tunneler, kloakker, avfallsplasser, kaianlegg, leirplasser, friluftsområder, flyplasser,lukkede rom beregnet på skadedyrutryddelse, herunder telt, overdekninger med mer.\nForskriften fritar ikke fra forbud eller krav som følger av annet regelverk.\nForskriften gjelder ikke desinfeksjonstiltak i helsetjenesten, farmasøytisk virksomhet eller lignende virksomhet. Forskriften gjelder ikke skadedyrbekjempelse etter forskrift 6. mai 2015 nr. 455 om plantevernmidler, med unntak av bruk som nevnt i forskrift om plantevernmidler § 8a.\nFor innretninger og anlegg på kontinentalsokkelen gjelder de administrative bestemmelser som følger av forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg.\nForskriften gjelder med de tilpasninger som måtte følge av internasjonale avtaler som Norge har tiltrådt.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift forstås med:Skadedyr:Pattedyr, fugler, insekter og andre levende organismer som kan overføre smittsomme sykdommer eller forårsake andre sykdommer eller helseproblemer hos mennesker, eller som gjør materiell skade og derved utløser bekjempelsestiltak. Sykdomsfremkallende mikroorganismer regnes ikke som skadedyr etter forskriften her.Bekjempelsesmiddel:Biocidholdige produkter, kjemiske eller biologiske, bestående av ett eller flere virksomme stoffer, eller konstruksjoner som fordriver, tillokker, fanger eller avliver skadedyr eller hindrer deres formering.Bekjempelsesmetode:Fremgangsmåte for bruk av bekjempelsesmiddel.Skadedyrbekjempelse:Alle tiltak som skal forebygge forekomst av skadedyr eller tar sikte på å utrydde eller redusere forekomst av skadedyr.Skadedyrbekjemper:Person som har godkjenning til å foreta skadedyrbekjempelse.Internkontroll:Systematiske tiltak som skal sikre at virksomhetens aktiviteter planlegges, organiseres, utføres og vedlikeholdes i samsvar med krav fastsatt i denne forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Plikt til å iverksette forebyggende tiltak",
+      "path": [
+        "Kapittel II. Plikt til skadedyrbekjempelse"
+      ],
+      "text": "Eier eller bruker av bygning, innretning mv., jf. § 1-2, skal sørge for at det settes i verk nødvendige tiltak for å forebygge og eventuelt oppdage forekomst av skadedyr.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Plikt til å iverksette utrydding",
+      "path": [
+        "Kapittel II. Plikt til skadedyrbekjempelse"
+      ],
+      "text": "Eier eller bruker av bygning, innretning mv., jf. § 1-2, skal sørge for at det settes i verk nødvendige tiltak for å utrydde skadedyr når forekomst av skadedyr tilsier dette.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Pålegg om å iverksette forebyggende tiltak",
+      "path": [
+        "Kapittel II. Plikt til skadedyrbekjempelse"
+      ],
+      "text": "Kommunen kan pålegge eier eller bruker av bygning, innretning mv., jf. § 1-2, å iverksette nødvendige tiltak for å forebygge og eventuelt oppdage forekomst av skadedyr eller når forekomst av skadedyr tilsier dette. Dersom pålegget ikke følges, kan kommunen gjennomføre pålegget for eiers eller brukers regning.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Pålegg om å iverksette utrydding",
+      "path": [
+        "Kapittel II. Plikt til skadedyrbekjempelse"
+      ],
+      "text": "Kommunen kan pålegge eier eller bruker av bygning, innretning mv., jf. § 1-2, å iverksette nødvendige tiltak for å utrydde skadedyr når forekomst av skadedyr tilsier dette. Dersom pålegget ikke følges, kan kommunen gjennomføre pålegget for eiers eller brukers regning.\nDersom det foreligger forhold som medfører en overhengende fare for helseskade, kan kommunen forby bruk av bygning, innretning mv., jf. § 1-2, til forholdet er rettet.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Hastevedtak",
+      "path": [
+        "Kapittel II. Plikt til skadedyrbekjempelse"
+      ],
+      "text": "Dersom det er nødvendig for å hindre overhengende helsefare, kan kommunelegen utøve kommunenes myndighet etter § 2-4 første ledd og bestemme at skadedyrbekjempelse skal skje straks. Bestemmelsen i § 3-4 annet ledd gjelder tilsvarende. Utgiftene skal dekkes av eier eller bruker, jf. § 5-3.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Hvem som kan utføre skadedyrbekjempelse",
+      "path": [
+        "Kapittel III. Gjennomføring av skadedyrbekjempelse"
+      ],
+      "text": "Eier eller bruker av bygning, innretning mv., jf. § 1-2, kan selv utføre skadedyrbekjempelse på egen eiendom.\nKun skadedyrbekjempere har rett til å planlegge og å utføre ervervsmessig skadedyrbekjempelse. Skadedyrbekjempere kan benytte ikke-godkjente personer som medhjelpere, men kan ikke overlate ansvaret for noe tiltak til medhjelperen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Bruk av bekjempelsesmidler",
+      "path": [
+        "Kapittel III. Gjennomføring av skadedyrbekjempelse"
+      ],
+      "text": "Den som skal foreta skadedyrbekjempelse plikter å bruke det middel og den metode som gir minst skadevirkninger for miljø og helse og som kan føre til ønsket resultat.\nKjemiske midler som benyttes til skadedyrbekjempelse skal være godkjent i henhold til de enhver tid gjeldende bestemmelser for slike produkter og være deklarert og merket i henhold til forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP).\nDet er forbudt å bruke gassingsprodukter klassifisert i farekategoriene: Acute Tox. 1, Acute Tox. 2, Acute Tox. 3, og merket med faresetningene «Dødelig ved innånding» eller «Giftig ved innånding» for andre enn skadedyrbekjempere med tilleggskurs. Personer uten godkjenning kan medvirke som medhjelpere.\nFor øvrig skal bruk av bekjempelsesmidler eller bestemte helsefarlige metoder være i samsvar med de til enhver tid gjeldende bestemmelser fastsatt av departementet, blant annet bestemmelser om tillatte restmengder i luft, overflate og lignende, plikt til å benytte bestemte bekjempelsesmetoder, egnede tiltak for bekjempelse av enkelte typer skadedyr og godkjenning av ikke biocidholdige bekjempelsesmidler.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Meldingsplikt",
+      "path": [
+        "Kapittel III. Gjennomføring av skadedyrbekjempelse"
+      ],
+      "text": "Dersom skadedyrbekjempelse skal gjennomføres ved bruk av midler som nevnt i § 3-2 tredje ledd, skal skadedyrbekjemperen senest tre uker før tiltaket legge frem melding for kommunen med en vurdering av alle forhold som kan ha innvirkning på helse, hygiene eller sikkerhet ved skadedyrbekjempelsen. Gjenpart av nabovarsel skal sendes kommunen sammen med meldingen, jf. § 3-4.\nFristen på tre uker gjelder ikke der kommunen gir pålegg om skadedyrbekjempelse eller ved hastevedtak, jf. § 2-4 og § 2-5.\nSenest tre uker etter gjennomføringen skal skadedyrbekjemperen gi ny melding til kommunen om at tiltaket er gjennomført og om resultatet av tiltaket.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Nabovarsel",
+      "path": [
+        "Kapittel III. Gjennomføring av skadedyrbekjempelse"
+      ],
+      "text": "Enhver som skal foreta skadedyrbekjempelse skal varsle naboer og andre som kan bli berørt av skadedyrbekjempelsen. Disse skal bli orientert om når tiltaket skal gjennomføres, hvilket bekjempelsesmiddel som skal brukes og om faresignaler og forholdsregler som må tas. Nabovarsel kan utelates dersom dette anses åpenbart unødvendig eller ikke er praktisk gjennomførbart.\nFør tiltaket iverksettes skal den som skal foreta skadedyrbekjempelsen forvisse seg om at naboer og berørte er klar over gjennomføringstidspunktet.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Plikt til å føre protokoll, gi opplysninger og veiledning",
+      "path": [
+        "Kapittel III. Gjennomføring av skadedyrbekjempelse"
+      ],
+      "text": "Skadedyrbekjemperen skal føre løpende protokoll over hvilke bekjempelsestiltak som iverksettes. Tilsynsmyndigheten, jf. § 5-2, kan til enhver tid kreve å få seg forelagt protokollen eller andre opplysninger som er nødvendige for at tilsynsmyndighetene skal kunne føre tilsyn. Av protokollen skal det fremgå følgende: Tidspunkt for tiltaket, sted, eier, oppdragsgiver, anvendt middel, kvantum, metode, resultat, hvilken type skadedyr, nabovarsel og eventuelle skader.\nSkadedyrbekjemperen har opplysningsplikt overfor oppdragsgiver for opplysninger i henhold til første ledd.\nSkadedyrbekjemperen plikter å gi medhjelper nødvendig veiledning i metoder og midler som nyttes.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Godkjenning av skadedyrbekjempere",
+      "path": [
+        "Kapittel IV. Godkjenning av skadedyrbekjempere mv."
+      ],
+      "text": "Som skadedyrbekjempere kan bare godkjennes personer som kan godtgjøre at de har den nødvendige kunnskap om, og praksis fra skadedyrbekjempelse.\nSøkere skal ha gjennomgått teoretisk utdanning, relevante kurs og praksis som fastsatt av departementet før godkjenning gis.\nGodkjenningen gjelder for ti år. Det kan settes vilkår for godkjenningen.\nFor å få fornyet godkjenning må søkeren dokumentere at vedkommende har tilstrekkelig praksis og har oppdaterte kunnskaper om gjeldende bekjempelsesmidler og metoder. Det kan kreves avlagt teoretisk prøve før fornyelse av godkjenning gis.\nFor søknad om godkjenning som skadedyrbekjemper skal saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum, være 30 dager. Tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av skadedyrbekjempere.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Godkjenningsmyndighet",
+      "path": [
+        "Kapittel IV. Godkjenning av skadedyrbekjempere mv."
+      ],
+      "text": "Helsedirektoratet skal:godkjenne skadedyrbekjempere ogtilbakekalle godkjenning dersom vilkårene er bortfalt eller skadedyrbekjemperen anses uskikket til å utøve virksomheten.\nHelsedirektoratet kan i særskilte tilfeller forlenge en godkjenning i inntil ett år.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Ansvar og internkontroll",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Den ansvarlige for virksomheter som omfattes av denne forskrift skal, dersom virksomheten sysselsetter arbeidstaker, sørge for at det innføres og utøves internkontroll. For skadedyrbekjempere gjelder kravet til internkontroll uavhengig om skadedyrbekjemperen sysselsetter arbeidstakere.\nInternkontrollen skal dokumenteres i den form og i det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Kommunen skal føre systematisk tilsyn med at bestemmelsene i forskriften overholdes.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Utgifter",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Utgifter som følger av skadedyrbekjempelse skal bæres av eiendommens, innretningens eller virksomhetens eier eller bruker.\nKommunen kan vedta å dekke utgifter som følger av pålegg etter § 2-3 – § 2-5 og er ansvarlig overfor skadedyrbekjemper for vederlag for tiltak som iverksettes for eier eller brukers regning.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Virkemidler",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Kommunen kan foreta gransking, retting, stansing og ilegge tvangsmulkt i samsvar med § 13 til § 16 i lov 24. juni 2011 nr. 29 om folkehelsearbeid.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Klage",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Kommunens enkeltvedtak kan påklages til statsforvalteren etter § 19 i lov 24. juni 2011 nr. 29 om folkehelsearbeid.\nEnkeltvedtak fattet etter § 4-2 kan påklages til overordnet organ.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Delegering",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Kommunens myndighet etter denne forskriften kan delegeres etter bestemmelsene i lov om kommuner og fylkeskommuner.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Utstedelse av hygienesertifikater på skip",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Når det er påkrevd i henhold til forskrift 21. desember 2007 nr. 1573 om varsling av og tiltak ved alvorlige hendelser av betydning for internasjonal folkehelse § 21, skal kommunen utstede nødvendig sertifikat for hygienekontroll på skip eller sertifikat for dispensasjon. Helsedirektoratet bestemmer hvilke kommuner som skal utstede sertifikatene.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 5-8",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Tilsynsmyndigheten kan i særlige tilfeller gi dispensasjon fra bestemmelser gitt i eller i medhold av forskriften her. Det kan settes vilkår for en eventuell dispensasjon.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 5-9",
+      "heading": "Straff",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Overtredelse av bestemmelsene i forskriften straffes etter lov 24. juni 2011 nr. 29 om folkehelsearbeid § 18 og lov 5. august 1994 nr. 55 om vern mot smittsomme sykdommer § 8-1.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 5-10",
+      "heading": "Ikrafttredelse mv.",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 2001. For kravet til godkjenning i kap. IV gis det en overgangstid frem til utgangen av 2003. Innen denne tid må alle skadedyrbekjempere ha søkt om godkjenning i henhold til forskriften.\nFra 1. januar 2001 oppheves følgende forskrifter og rundskriv:",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    }
+  ]
+}

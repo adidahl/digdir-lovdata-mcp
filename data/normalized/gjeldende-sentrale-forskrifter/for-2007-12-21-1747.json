@@ -1,0 +1,385 @@
+{
+  "id": "FOR-2007-12-21-1747",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til automatiske gravimetriske fyllemaskiner",
+  "short_title": "Forskrift om krav til fyllemaskiner",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2008-01-01",
+  "last_change_in_force": "2025-10-01",
+  "last_changed_by": "forskrift/2025-08-21-1680 fra 2025-10-01",
+  "lovdata_refid": "forskrift/2007-12-21-1747",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-12-21-1747",
+  "raw_xml_sha256": "26e881fea7602c58344285da6cc80bd5b79f7c7ca5c6e10518736388ff6f7a4d",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder når det er fastsatt krav til automatiske gravimetriske fyllemaskiner i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1.\nForskriften setter ikke krav til elektromagnetisk stråling som avgis av måleinstrumentet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Automatisk gravimetrisk fyllemaskin: En automatisk vekt som fyller pakninger fra bulk med en forhåndsbestemt og tilnærmet konstant masseAutomatisk vekt: Et måleredskap som bestemmer massen av et produkt uten inngrep fra en operatør, og som følger et forhåndsdefinert program av automatiske prosesser karakteristisk for måleredskapetMålestørrelsen: Den bestemte størrelsen som skal målesPåvirkende størrelse: En størrelse som ikke er målestørrelsen, men som påvirker måleresultatetAngitte driftsbetingelser: De verdier av målestørrelsen og påvirkende størrelser som utgjør måleredskapets normale driftsbetingelserForstyrrelse: En påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i hensiktsmessige krav, men utenfor måleredskapets angitte driftsbetingelser. En påvirkende størrelse er uansett en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelserKritiske endringsverdi: Den verdien der endringen i måleresultatet anses som uønsketKlimatiske miljøer: De omgivelser der måleredskap kan benyttes. Det er definert en rekke temperaturgrenser for å ta høyde for klimaforskjeller mellom EØS-statene.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til automatiske gravimetriske fyllemaskiner",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Automatiske gravimetriske fyllemaskiner skal minimum oppfylle de grunnleggende kravene fastsatt i kapittel 2. Maksimale tillatte målefeil for automatiske gravimetriske fyllemaskiner er angitt i § 30.\nAutomatiske gravimetriske fyllemaskiner som er typegodkjent etter tidligere regelverk, skal under bruk oppfylle de kravene som var gjeldende da den automatiske gravimetriske fyllemaskinen ble typegodkjent, herunder kravene til målenøyaktighet under bruk.\nAutomatiske gravimetriske fyllemaskiner som ikke er rettmessig samsvarsmerket eller har gyldig typegodkjenning og førstegangsgodkjenning, er ikke tillatt å bruke.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Kontroll og godkjenning ved salg av automatiske gravimetriske fyllemaskiner",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Automatiske gravimetriske fyllemaskiner som selges eller tilbys for salg, skal ha gyldig samsvarsvurdering etter bestemmelsene i forskrift om målenheter og måling kapittel 4.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsynet med en automatisk gravimetrisk fyllemaskin i bruk",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Testing av automatiske gravimetriske fyllemaskiner i forbindelse med kontrollen skal utføres i henhold til relevante deler av gjeldende OIML R61 og Justervesenets prosedyrer, med mindre Justervesenet anser det mer hensiktsmessig og måleteknisk forsvarlig å utføre testingen på annen måte.\nDen automatiske gravimetriske fyllemaskinen skal normalt testes med de produktene den vanligvis benyttes til å veie og under normale driftsbetingelser. Under testingen må det være tilgjengelig tilstrekkelig mengde av testproduktene, håndteringsutstyr, kvalifisert personell og nødvendig kontrollinstrument i nærheten av vekten",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Måleteknisk beskyttelse og kvalitetsnivå",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal ha en høy grad av måleteknisk beskyttelse, slik at alle berørte parter kan ha tillitt til måleresultatet, og den skal konstrueres og fremstilles etter tilfredstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Påtenkt bruk og påregnelig feilbruk",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Det skal tas hensyn til den automatiske gravimetriske fyllemaskinens påtenkte bruk samt den påregnelige feilbruk ved valg av løsninger som anvendes for å oppfylle kravene.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Tillatte feil",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Under de angitte driftsbetingelser og i fravær av en forstyrrelse skal målefeilen ikke overstige den maksimale tillatte målefeil som er fastsatt i § 30.\nMed mindre annet er angitt i avsnitt II, uttrykkes den maksimale tillatte målefeil som avviket fra den sanne måleverdi som et tosidig intervall.\nUnder de angitte driftsbetingelser og dersom det foreligger en forstyrrelse, er kravet til yteevne som fastsatt i avsnitt II.\nDersom den automatiske gravimetriske fyllemaskinen er beregnet brukt i et gitt permanent kontinuerlig elektromagnetisk felt, skal måleresultatet under forsøket med amplitudemodulert elektromagnetisk felt ligge innenfor maksimal tillatt målefeil.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-4",
+      "provision_ref": "§ 9",
+      "heading": "Påvirkende størrelser",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Produsenten skal angi det klimatiske og elektromagnetiske miljø som den automatiske gravimetriske fyllemaskinen er beregnet brukt i, samt strømforsyning og andre påvirkende størrelser som kan påvirke målenøyaktigheten, idet det tas hensyn til kravene fastsatt i avsnitt II.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-5",
+      "provision_ref": "§ 10",
+      "heading": "Klimatisk miljø",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Produsenten skal angi øvre og nedre temperaturgrense blant verdiene i tabell 1, men slik at temperaturområdet er minimum 30 °C. Produsenten skal også angi hvorvidt vekten er konstruert for kondenserende eller ikke-kondenserende fuktighet, samt om den tiltenkte plassering er åpen eller lukket.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-6",
+      "provision_ref": "§ 11",
+      "heading": "Elektromagnetiske miljø",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Det elektromagnetiske miljø klassifiseres i klasse E1, E2 eller E3 som beskrevet nedenfor i tabell 2, med mindre annet er fastsatt i avsnitt II.\nDet skal tas hensyn til følgende påvirkende størrelse i forbindelse med elektromagnetiske miljøer:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-7",
+      "provision_ref": "§ 12",
+      "heading": "Andre påvirkende størrelser",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Det skal tas hensyn til følgende andre påvirkende størrelser når det er hensiktsmessig:SpenningsvariasjonVariasjoner i nettfrekvensNettgenererte magnetiske feltAndre størrelser som kan påvirke automatiske gravimetriske fyllemaskinens nøyaktighet i vesentlig grad.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-8",
+      "provision_ref": "§ 13",
+      "heading": "Grunnleggende regler for forsøk og bestemmelse av feil",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "De grunnleggende kravene angitt i § 8 skal kontrolleres for hver relevant påvirkende størrelse. Med mindre annet er angitt i avsnitt II, gjelder disse grunnleggende kravene når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstant ved sine referanseverdier.\nMåleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for den automatiske gravimetriske fyllemaskinen når denne påvirkende størrelsen kan antas å opptre.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-9",
+      "provision_ref": "§ 14",
+      "heading": "Luftfuktighet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Avhengig av det klimatiske miljø den automatiske gravimetriske fyllemaskinen er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).\nTestforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-10",
+      "provision_ref": "§ 15",
+      "heading": "Reproduserbarhet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Dersom den automatiske gravimetriske fyllemaskinen brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimal tillatt målefeil.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-11",
+      "provision_ref": "§ 16",
+      "heading": "Repeterbarhet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Dersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimale tillatte målefeil.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-12",
+      "provision_ref": "§ 17",
+      "heading": "Oppløsning og følsomhet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal være tilstrekkelig følsom, og skal ha tilstrekkelig oppløsning tilpasset måleoppgaven.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-13",
+      "provision_ref": "§ 18",
+      "heading": "Holdbarhet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatiske gravimetriske fyllemaskin skal være konstruert slik at dens måletekniske egenskaper er tilstrekkelig stabile i et tidsrom som produsenten fastsetter, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-14",
+      "provision_ref": "§ 19",
+      "heading": "Pålitelighet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal konstrueres slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat, reduseres så langt som mulig, med mindre en slik feil er åpenbar.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-15",
+      "provision_ref": "§ 20",
+      "heading": "Egnethet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal være:Egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, og det skal ikke stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatRobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserKonstruert slik at målefunksjonen skal kunne kontrolleres etter at fyllemaskinen er markedsført og tatt i bruk. Om nødvendig skal særskilt utstyr eller programvare til denne kontrollen være en del av fyllemaskinen. Testprosedyren skal være beskrevet i bruksanvisningenUfølsom overfor små variasjoner i målestørrelsens verdi, eller det skal reagere på en hensiktsmessig måte dersom fyllemaskinen er beregnet til måling av verdier av målestørrelsen som er konstant over tid.\nEn automatisk gravimetrisk fyllemaskin skal ikke være av en slik art at det lett kan brukes til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig.\nDersom en automatisk gravimetrisk fyllemaskin har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen, kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-16",
+      "provision_ref": "§ 21",
+      "heading": "Beskyttelse mot manipulering",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Dersom en automatisk gravimetrisk fyllemaskinen koples til en annen anordning direkte eller ved fjerntilkopling, skal dets måletekniske egenskaper ikke påvirkes av anordningen på en feilaktig måte.\nKomponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.\nProgramvare som har avgjørende betydning for de måletekniske egenskapene, skal være merket tilsvarende, og skal være sikret. Identifikasjon av slik programvare skal lett framskaffes fra fyllemaskinen. Eventuell informasjon eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i et rimelig tidsrom.\nMåledata, programvare som er av avgjørende betydning for måleegenskapene, og måleteknisk viktige parametere som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-17",
+      "provision_ref": "§ 22",
+      "heading": "Opplysninger som skal påføres eller følge den automatiske gravimetriske fyllemaskinen",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal være påført produsentens merke eller navn og opplysninger om vektens nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres den automatiske gravimetriske fyllemaskinen:Relevante opplysninger om bruksbetingelserMålekapasitetMåleområdeIdentitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseOpplysninger om tilleggsutstyr som gir måleresultater, overholder bestemmelsene i fastsatte forskrifter vedrørende lovregulert måleteknisk kontroll.\nOpplysninger om betjening skal følge den automatiske gravimetriske fyllemaskinen med mindre vekten er så enkel at dette er unødvendig. Opplysningene skal være lette å forstå, og skal i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrense, om kondensasjon er akseptabelt eller ikke, åpen eller lukket plasseringAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskap.\nAlle merker og påskrifter skal være tydelige og utvetydige og de skal ikke kunne fjernes eller flyttes.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-18",
+      "provision_ref": "§ 23",
+      "heading": "Angivelse av måleverdi",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Med mindre annet er angitt i avsnitt II, skal minstedelingen for en målt verdi være på formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.\nDet skal benyttes målenheter og symboler som er i samsvar med bestemmelsene i forskrift om målenheter og måling.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-19",
+      "provision_ref": "§ 24",
+      "heading": "Visning av resultat",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Resultatet skal vises på et display eller som papirutskrift.\nAlle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises, skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måletekniske kontrollerte resultatene.\nVed utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-20",
+      "provision_ref": "§ 25",
+      "heading": "Ytterligere behandling av data for å avslutte en handelstransaksjon",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "Automatiske gravimetriske fyllemaskiner skal på en varig måte registrere måleresultatet sammen med opplysninger som identifiserer den bestemte transaksjon, når målingen ikke kan gjentas og fyllemaskinen normalt er beregnet brukt når den ene parten i transaksjonen er fraværende.\nI tillegg skal et varig bevis på måleresultatet og opplysninger for identifikasjon av transaksjonen kunne stilles til rådighet på anmodning idet målingen avsluttes.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-21",
+      "provision_ref": "§ 26",
+      "heading": "Samsvarsvurdering",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt I – Generelle krav"
+      ],
+      "text": "En automatisk gravimetrisk fyllemaskin skal være konstruert slik at det lett kan vurderes om det er i samsvar med de relevante kravene i denne forskriften.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-1",
+      "provision_ref": "§ 27",
+      "heading": "Angitte driftsbetingelser",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "Produsenten skal angi nominelle bruksforhold for automatiske gravimetriske fyllemaskiner som følger:For målestørrelsen: Måleområdet i form av største og minste lastFor påvirkende størrelser fra elektrisitetsforsyning:For vekselstrømforsyning: Nominell vekselstrømspenning, eller grenser for vekselstrømspenningFor likestrømforsyning: Nominell og minste likestrømspenning, eller grenser for likestrømspenningFor mekaniske og klimatiske påvirkende størrelser: Minste temperaturintervall er 30 °C. For fyllemaskiner som brukes under spesiell mekanisk belastning, f.eks. fyllemaskiner som er innbygd i kjøretøyer, skal produsenten definere de mekaniske bruksforholdeneFor andre påvirkende størrelser (om relevant):Arbeidshastighet(er)Egenskaper ved produkt(er) til veiing.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-2",
+      "provision_ref": "§ 28",
+      "heading": "Egnethet",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "Det skal finnes midler til å begrense virkningene av skråstilling, belastning og arbeidshastighet slik at maksimal verdi for maksimal tillatte målefeil ikke overskrides ved normal drift. Det skal finnes egnede anordninger for materialhåndtering og en hensiktsmessig nullstillingsfunksjon slik at vekten kan overholde maksimal tillatte målefeil under normal drift.\nBetjeningsanordningers grenseflater skal være tydelige og effektive. Operatøren skal kunne kontrollere at en eventuell indikator er pålitelig. Resultater som faller utenfor måleområdet, skal identifiseres som slike dersom det er mulig med utskrift.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-3",
+      "provision_ref": "§ 29",
+      "heading": "Nøyaktighetsklasser",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "Produsenten skal angi både referansenøyaktighetsklassen Ref(x) og driftsmessig(e) nøyaktighetsklasse(r) X(x).\nEn måleredskapstype tildeles en referansenøyaktighetsklasse, Ref(x), som tilsvarer den best mulige nøyaktighet for måleredskaper av typen. Etter installering betegnes enkeltredskaper med én eller flere driftsmessige nøyaktighetsklasser, X(x), idet det er tatt hensyn til de bestemte produkter som skal veies. Klassifiseringsfaktoren (x) skal være ≤ 2 og ha formen 1×10k, 2×10k eller 5×10k, hvor k er et negativt heltall eller null.\nReferansenøyaktighetsklassen, Ref(x), gjelder for statiske belastninger.\nFor den driftsmessige klassen X(x) er X et system som sammenholder nøyaktigheten med lastens vekt, og (x) er en multiplikator for feilgrensene angitt for klasse X(1) i § 30 tredje ledd.\nKlasse X(x) når x ≤ 1 benyttes ved veiing av ferdig bearbeidede produkter, fisk og lignende handelstransaksjoner. Ved veiing av andre produkter vil nøyaktighetsklasse bli bestemt av Justervesenet i hvert enkelt tilfelle.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-4",
+      "provision_ref": "§ 30",
+      "heading": "Maksimale tillatte målefeil",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "For statiske belastninger under angitte driftsbetingelser skal maksimal tillatte avvik for referansenøyaktighetsklassen Ref(x) være 0,312 ganger maksimal tillatte avvik for hver fyll fra gjennomsnittet, som angitt i tabell 3, multiplisert med klassifiseringsfaktoren (x).\nFor automatiske gravimetriske fyllemaskiner der fylling kan utgjøre mer enn én last (f.eks. kumulative eller selektive kombinasjonsvekter), skal maksimal tillatte feil for statiske belastninger være den nøyaktighet som kreves for fyllingen som angitt i tredje ledd (dvs. ikke summen av maksimal tillatte feil for hver enkeltlast).\nTabell 3 viser maksimal tillatt avvik fra gjennomsnittlig fylling ved salg og tabell 4 viser maksimal tillatt avvik fra gjennomsnittlig fylling under bruk. Det beregnede avviket for hver fylling fra gjennomsnittet kan justeres for å ta hensyn til virkningen av materialets partikkelstørrelse.\nFor automatiske gravimetriske fyllemaskiner der det er mulig å forhåndsinnstille en fylling, skal maksimal differanse mellom den forhåndsinnstilte verdien og gjennomsnittsmassen til fyllingene ikke overstige 0,312 av det maksimale tillatte avvik for hver fylling fra gjennomsnittet, som angitt i kolonne 2 i tabell 3.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-5",
+      "provision_ref": "§ 31",
+      "heading": "Ytelse under påvirkende faktorer og elektromagnetisk forstyrrelse",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "Maksimal tillatte feil som følge av påvirkende faktorer er som angitt i § 30 første og annet ledd.\nDen kritiske endringsverdien som følge av en forstyrrelse er den endring av den statiske vektangivelsen tilsvarende maksimal tillatte feil som angitt i § 30 første og annet ledd beregnet for minste tillatte fylling, eller en endring som ville gi en virkning tilsvarende fyllingen for fyllemaskiner der fyllingen består av flere delmengder. Den beregnede kritiske endringsverdien avrundes til vektens neste høyere deling (d).\nProdusenten skal angi minste tillatte fylling.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-6",
+      "provision_ref": "§ 31a",
+      "heading": "Tilleggskrav til automatiske gravimetriske fyllemaskiner som brukes ved landing av fisk",
+      "path": [
+        "Kapittel 2 – Krav til automatiske gravimetriske fyllemaskiner",
+        "Avsnitt II – Spesifikke krav"
+      ],
+      "text": "Automatisk gravimetrisk fyllemaskin som brukes ved landing av fisk skal ha hovedvisningsenhet plassert i eller ved vekten.\nVeid kvantum landet fisk skal kunne avleses fortløpende. Bruker skal etter andre menyvalg umiddelbart sette vekten tilbake til avlesningsmodus.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 32",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 3 – Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 33",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3 – Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 2008.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

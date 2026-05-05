@@ -1,0 +1,599 @@
+{
+  "id": "LOV-1994-08-05-55",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om vern mot smittsomme sykdommer [smittevernloven]",
+  "short_title": "Smittevernloven – smvl",
+  "department": "Helse- og omsorgsdepartementet",
+  "legal_area": "Helse- og omsorgsrett",
+  "date_in_force": "1995-01-01",
+  "last_change_in_force": "2024-06-01",
+  "last_changed_by": "lov/2023-04-28-9 fra 2024-06-01, lov/2024-01-12-3",
+  "lovdata_refid": "lov/1994-08-05-55",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1994-08-05-55",
+  "raw_xml_sha256": "04326936772a46a43aafbc7fd6ad667287ea9f7d5c6766bf7ad49575b418e5a2",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Lovens formål",
+      "path": [
+        "Kap. 1. Innledende bestemmelser"
+      ],
+      "text": "Denne loven har til formål å verne befolkningen mot smittsomme sykdommer ved å forebygge dem og motvirke at de overføres i befolkningen, samt motvirke at slike sykdommer føres inn i Norge eller føres ut av Norge til andre land.\nLoven skal sikre at helsemyndighetene og andre myndigheter setter i verk nødvendige smitteverntiltak og samordner sin virksomhet i smittevernarbeidet.\nLoven skal ivareta rettssikkerheten til den enkelte som blir omfattet av smitteverntiltak etter loven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Lovens virkeområde",
+      "path": [
+        "Kap. 1. Innledende bestemmelser"
+      ],
+      "text": "Lovens bestemmelser om tjenester og tiltak gjelder for enhver som oppholder seg i Norge.\nDepartementet kan gi forskrifter som begrenser anvendelsen av loven overfor personer som ikke er norske statsborgere, eller som ikke har bosted i Norge. Departementet kan også gi forskrifter om at loven skal gjelde for personer som oppholder seg i utlandet, men som har tilknytning til Norge.\nDepartementet kan gi forskrifter om anvendelse av loven på Svalbard, Jan Mayen og kontinentalsokkelen, og på norske fartøy og luftfartøy hvor de enn befinner seg.\nLovens bestemmelser gjelder med de begrensninger som er anerkjent i folkeretten eller følger av overenskomst med fremmed stat.\nKongen kan gi regler til gjennomføring av avtale med fremmed stat om forhold som omfattes av denne loven.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kap. 1. Innledende bestemmelser"
+      ],
+      "text": "Med følgende uttrykk i loven her forstås:smittsom sykdom: en sykdom eller smittebærertilstand som er forårsaket av mikroorganismer eller andre smittestoff som kan overføres fra, til eller mellom mennesker.smittet person: en person som har eller etter en faglig vurdering antas å ha en smittsom sykdom.allmennfarlig smittsom sykdom: en sykdom som er særlig smittsom, eller som kan opptre hyppig, eller har høy dødelighet eller kan gi alvorlige eller varige skader, og somvanligvis fører til langvarig behandling, eventuelt sykehusinnleggelse, langvarig sykefravær eller rekonvalesens, ellerkan få så stor utbredelse at sykdommen blir en vesentlig belastning for folkehelsen, ellerutgjør en særlig belastning fordi det ikke fins effektive forebyggende tiltak eller helbredende behandling for den.alvorlig utbrudd av allmennfarlig smittsom sykdom: et utbrudd eller fare for utbrudd som krever særlig omfattende tiltak. Helsedirektoratet kan i tvilstilfelle avgjøre når det foreligger et alvorlig utbrudd av allmennfarlig smittsom sykdom.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Forskrifter om allmennfarlige smittsomme sykdommer",
+      "path": [
+        "Kap. 1. Innledende bestemmelser"
+      ],
+      "text": "Departementet fastsetter i forskrift hvilke sykdommer som er allmennfarlige smittsomme sykdommer.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Grunnleggende krav ved iverksetting av smitteverntiltak",
+      "path": [
+        "Kap. 1. Innledende bestemmelser"
+      ],
+      "text": "Smitteverntiltak etter loven skal være basert på en klar medisinskfaglig begrunnelse, være nødvendig av hensyn til smittevernet og fremstå tjenlig etter en helhetsvurdering. Ved iverksettelse av smitteverntiltak skal det legges vekt på frivillig medvirkning fra den eller de tiltaket gjelder.\nTvangstiltak kan ikke brukes når det etter sakens art og forholdene ellers vil være et uforholdsmessig inngrep.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Informasjon og personlig smittevernveiledning til smittede personer.",
+      "path": [
+        "Kap. 2. Informasjon til smittede personer, unntak fra taushetsplikt, meldinger og varsler"
+      ],
+      "text": "Den undersøkende eller behandlende legen skal snarest mulig gi en smittet person med en allmennfarlig smittsom sykdom informasjon og personlig smittevernveiledning omsykdommen, sykdommens smittsomhet og smittemåter, og hva den smittede selv kan gjøre for å motvirke at sykdommen blir overført til andre, ogrettigheter og plikter en smittet person med en allmennfarlig smittsom sykdom har, herunder etter smittevernloven kapittel 5 og 6.\nEr den smittede under 12 år eller en person over 16 år som på grunn av sinnslidelse, andre psykiske forstyrrelser, senil demens, psykisk utviklingshemming eller legemlig funksjonshemming ikke kan ivareta sine anliggender når det gjelder smittefaren, har både den smittede og uten hinder av legens lovbestemte taushetsplikt også de som har omsorgen for den smittede, krav på informasjon og personlig smittevernveiledning etter første ledd.\nEr den smittede mellom 12 og 16 år, har både den smittede og uten hinder av legens lovbestemte taushetsplikt også de som har omsorgen for den smittede, krav på informasjon og personlig smittevernveiledning. Opplysninger må likevel ikke gis til dem som har omsorgen, hvis den smittede eller andre som kjenner den smittedes situasjon har innvendinger mot at dette blir gjort og legen mener at innvendingene bør respekteres.\nDersom legen har grunn til å anta at en smittet person ikke følger den personlige smittevernveiledningen, skal legen uten hinder av lovbestemt taushetsplikt underrette kommunelegen hvis hensynet til smittevernet krever det. Kommunelegen skal da overta den videre smittevernveiledningen av personen.\nHovedinnholdet av den informasjon og den personlige smittevernveiledning som legen gir til den smittede, skal føres inn i pasientens journal.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Unntak fra taushetsplikt",
+      "path": [
+        "Kap. 2. Informasjon til smittede personer, unntak fra taushetsplikt, meldinger og varsler"
+      ],
+      "text": "Legen skal så langt råd er søke å oppnå samtykke fra en smittet person når det av hensyn til smittevernet er behov for å gi videre opplysninger underlagt taushetsplikt og det er overveiende sannsynlig at det er eller har vært fare for overføring av en allmennfarlig smittsom sykdom.\nEr det ikke mulig å oppnå samtykke fra den smittede, kan det gis opplysninger om smittestatus og andre nødvendige opplysninger uten hinder av lovbestemt taushetsplikt. Legen kan gi opplysningene tilhelsepersonell som har ansvar for oppfølging av pasienten eller som har ansvar for at annet personell, andre pasienter eller besøkende ikke smittes, når det er overveiende sannsynlig at helsepersonellet, pasientene eller de besøkende er i fare for å få overført en allmennfarlig smittsom sykdom,den som med overveiende sannsynlighet er i fare for å få overført en allmennfarlig smittsom sykdom,den som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom, når opplysningene kan motvirke at sykdommen blir overført til andre, eller er avgjørende for å kunne begynne medisinsk behandling av den smitteutsatte, ellerden som med overveiende sannsynlighet har vært i fare for å få overført en allmennfarlig smittsom sykdom fordi den smittede har opptrådt klanderverdig.\nDersom det er åpenbar fare for overføring etter annet ledd bokstav b, skal opplysningene gis, med mindre legen vet at en annen lege gir opplysningene.\nEr legen i tvil om opplysninger bør gis etter andre ledd, kan legen forelegge spørsmålet for kommunelegen til uttalelse. Nekter legen å gi opplysninger, kan den som ønsker opplysninger etter andre ledd, eller kommunelegen forelegge spørsmålet for statsforvalteren, som kan bestemme at opplysningene skal gis.\nNår opplysninger gis med hjemmel i andre ledd, skal legen informere den smittede skriftlig om at opplysningene er gitt.\nNår vilkårene i første og andre ledd er oppfylt, kan en tannlege, jordmor eller sykepleier gi nødvendige opplysninger til den smittede personens lege eller til kommunelegen.\nHelsepersonell som mottar opplysninger etter denne paragrafen, har samme taushetsplikt som den som gir opplysningene.\nNår det er nødvendig for iverksetting av tiltak eller for oversikt og kontroll i forbindelse med smittsomme sykdommer, kan kommunelegen, statsforvalteren, Helsedirektoratet, Statens helsetilsyn og Folkehelseinstituttet kreve opplysninger fra offentlige kilder eller privat helse- og omsorgstjeneste uten hinder av lovbestemt taushetsplikt. Helsedirektoratet og Folkehelseinstituttet kan i en smittesituasjon behandle opplysninger samlet inn etter dette ledd i samsvar med helseberedskapsloven § 2-4.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Meldingsplikt for leger. Varslingsplikt for sykepleiere og jordmødre",
+      "path": [
+        "Kap. 2. Informasjon til smittede personer, unntak fra taushetsplikt, meldinger og varsler"
+      ],
+      "text": "En lege som oppdager en smittet person, har meldingsplikt etter forskrifter gitt i medhold av fjerde ledd uten hinder av lovbestemt taushetsplikt. En lege, sykepleier, jordmor eller tannlege som i sin virksomhet oppdager en smittet person har varslingsplikt etter forskrifter gitt i medhold av fjerde ledd, uten hinder av lovbestemt taushetsplikt.\nDen som etter første ledd mottar opplysninger undergitt taushetsplikt, har samme taushetsplikt som dem som gir opplysningene.\nNår helsepersonell nevnt i bestemmelsen i første ledd, gir en melding eller varsel som identifiserer en person, skal det gis informasjon til den opplysningene angår, om hvem som er mottaker og hva opplysningene skal brukes til.\nKongen i Statsråd kan gi forskrifter om behandling av helseopplysninger, herunder om bruk av navn, fødselsnummer eller andre personidentifiserende kjennetegn i samsvar med helseregisterloven. Forskriftene skal angi formålet med behandlingen av opplysningene, og hvilke smittsomme sykdommer som skal meldes eller varsles. Kongen i Statsråd kan også gi forskrifter om meldingsplikt for bivirkninger av forebyggende tiltak, og om undersøkelse, behandling og andre tiltak etter loven. Kongen kan gi nærmere bestemmelser om hvem som skal melde eller varsle, og om formkrav, meldingsskjemaer og frister for meldingene og varslene, herunder om hvem som kan eller skal motta meldinger og varsler.\nUten samtykke fra departementet kan verken private eller offentlige sette i verk meldingsordninger for smittsomme sykdommer hos mennesker. Dette gjelder ikke interne systemer.\nVed utbrudd av allmennfarlig smittsom sykdom, eller når det er fare for slikt utbrudd, og når det er nødvendig av hensyn til smittevernet, kan Helsedirektoratet med øyeblikkelig virkning pålegge personer som nevnt i første ledd midlertidige meldings- og varslingsplikter som fraviker fra forskrifter etter fjerde ledd uten hinder av lovbestemt taushetsplikt.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Forskrifter om undersøkelse av befolkningen",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Dersom det er avgjørende for å kunne bedømme hvilke forebyggende tiltak eller undersøkelses-, behandlings- eller pleietiltak som er nødvendige for å forebygge en smittsom sykdom eller motvirke at den blir overført, kan departementet i forskrift fastsette plikt for befolkningen eller grupper av den til å gjennomgå blodprøvetaking, eller andre tilsvarende undersøkelser som er medisinskfaglig forsvarlig og kan gjøres uten fare.\nEr den smittede under 16 år eller en person over 16 år som på grunn av sinnslidelse, andre psykiske forstyrrelser, senil demens, psykisk utviklingshemming eller legemlig funksjonshemming ikke kan ivareta sine anliggender, skal den som har omsorgen for den smittede, medvirke til at vedkommende oppfyller pliktene etter første ledd.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Forhåndsundersøkelse av arbeids- og utdanningssøkere, undersøkelse av arbeidstakere og personer under utdanning mv.",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Departementet kan, når hensynet til smittevernet krever det, og dersom smittede personer kan utgjøre alvorlig fare for overføring av smittsom sykdom i sitt arbeid eller virke, gi forskrift om plikt til å gjennomgå undersøkelse som nevnt i § 3-1 forarbeids- eller utdanningssøkere før ansettelse eller opptak,arbeidstakere, innleide arbeidstakere, oppdragstakere, skoleelever eller studenter, ogpersoner som skal oppholde seg i Norge som ledd i kulturutveksling, frivillig arbeid eller lignende.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Forhåndsundersøkelse av pasienter",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "En helseinstitusjon kan kreve at en pasient skal la seg forhåndsundersøke når det gjelder en smittsom sykdom, før det blir foretatt en diagnostisk utredning, og før pasienten får behandling eller pleie. En slik undersøkelse kan ikke fastsettes som rutine for alle pasienter og kan ikke omfatte endoskopi, biopsi, spinalpunksjon eller andre lignende undersøkelser/inngrep.\nForhåndsundersøkelse kan kreves bare når en slik sykdom vil forårsake ekstraordinære forebyggende tiltak av hensyn til faren for overføring til andre pasienter eller til personale, og såfremt tiltakene kan gi vesentlig større sikkerhet mot smitteoverføring eller bety en vesentlig lettelse eller besparelse for helse- og omsorgstjenesten.\nForhåndsundersøkelse etter første ledd må ikke føre til at behandlingen av pasienten blir alvorlig forsinket, eller til at han eller hun blir utsatt for fare eller urimelig ulempe.\nVedtak om forhåndsundersøkelse kan påklages til statsforvalteren.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Forskrifter om undersøkelse av gravide",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Departementet kan gi forskrifter om plikt for gravide til å avgi blodprøve eller gjennomgå nødvendig undersøkelse som kan gjøres uten fare, når formålet med undersøkelsen er å fastslå om det er grunn til å sette i verk tiltak for å motvirke at en allmennfarlig smittsom sykdom blir overført til barna.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Legens plikt til å foreta undersøkelse av smittede personer",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Legen skal være særlig oppmerksom på muligheten for at pasienten har en allmennfarlig smittsom sykdom. En lege som får mistanke om at en pasient har en allmennfarlig smittsom sykdom, skal etter samtykke fra pasienten foreta eller sette i verk de undersøkelser som er nødvendige for å bringe på det rene om det foreligger en slik sykdom. I så fall skal legen straks og i samråd med den smittede pasienten gjøre sitt for å motvirke at sykdommen blir overført til andre.\nHvis det er tvil etter første ledd, skal legen uten hinder av lovbestemt taushetsplikt ta kontakt med kommunelegen. Tar legen kontakt med kommunelegen, skal kommunelegen overta den videre oppklaring og oppfølging når det viser seg at den første legen ikke har de nødvendige forutsetninger for arbeidet.\nEn lege plikter å undersøke en smittet person, ta blodprøve eller foreta andre nødvendige undersøkelser, når smittevernnemnda har gjort vedtak etter § 5-2 og undersøkelsen kan gjennomføres uten fare.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Legens plikt til å foreta smitteoppsporing.",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "En lege som har sikker kunnskap eller har mistanke om en allmennfarlig smittsom sykdom som skyldes overføring av smitte fra en person til en annen, skal foreta smitteoppsporing dersom dette er gjennomførbart og hensynet til smittevernet krever det. Legen skal i så fall spørre den smittede om hvem smitten kan være overført fra, om når og på hvilken måte smitteoverføringen kan ha skjedd og om hvem han eller hun kan ha overført smitten til. Annen lege kan kontaktes i sammenheng med smitteoppsporing uten hinder av taushetsplikt.\nEr vilkårene etter første ledd oppfylt skal legen, eventuelt gjennom den smittede, ta kontakt med dem som smitten kan være overført fra eller til og undersøke disse. Plikten bortfaller dersom den smittede pasienten eller de som han eller hun oppgir som smittekilder eller mulig smittet, godtgjør at aktuelle personer allerede er undersøkt eller får nødvendig behandling eller omsorg.\nDersom legen ikke ser seg i stand til å gjennomføre smitteoppsporing og oppfølging av de mulig smittede etter første og andre ledd, skal legen uten hinder av lovbestemt taushetsplikt gi underretning om dette til kommunelegen hvis hensynet til smittevernet krever det. Legen skal da også gi opplysning om smittekontakter. Legen skal alltid ta kontakt med kommunelegen når det er mistanke om en allmennfarlig smittsom sykdom som skyldes miljøsmitte, f.eks. en sykdom som skyldes overføring av smitte fra drikkevann, matvarer eller dyr.\nHvis en lege tar kontakt med kommunelegen etter tredje ledd, skal kommunelegen overta den videre oppklaring og oppfølging når det viser seg at den første legen ikke har de nødvendige forutsetninger for arbeidet.\nDersom kommunelegen får opplysninger om en smittet person som bor eller oppholder seg utenfor kommunen, skal kommunelegen uten hinder av lovbestemt taushetsplikt gi opplysningene til kommunelegen i den kommunen der den smittede bor eller oppholder seg, hvis hensynet til smittevernet krever det.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 3-7",
+      "heading": "Kartleggingsundersøkelse og metodeutprøving",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Tilgjengelig blod, serum og annet biologisk materiale fra mennesker kan ikke analyseres med henblikk på en smittsom sykdom for et ikke-diagnostisk formål uten samtykke fra de personene prøvene stammer fra.\nLaboratorier/institusjoner kan likevel utføre kartleggingsundersøkelser ved bruk av tilgjengelig prøvemateriale som nevnt i første ledd uten samtykke fra de som har avgitt prøvene dersom formålet med undersøkelsen er å:overvåke utviklingen av en epidemi som sprer seg i befolkningen, ellerbelyse forekomsten av en smittsom sykdom i befolkningen eller en del av den, ellerbedømme om og i tilfelle hvor godt befolkningen er beskyttet mot en smittsom sykdom som det vaksineres mot,og undersøkelsens resultat er av betydning for smittevernarbeidet.\nLaboratorier/institusjoner kan også utføre metodeutprøving ved bruk av tilgjengelig prøvemateriale som nevnt i første ledd uten samtykke fra de som har avgitt prøvene dersom formålet med utprøvingen er å utvikle ny metodikk eller forbedre eksisterende metodikk for påvisning og karakterisering av en smittsom sykdom.\nHelsedirektoratet kan pålegge et laboratorium eller en institusjon å utføre kartleggingsundersøkelser som nevnt i andre ledd når dette anses påkrevd av hensyn til smittevernet.\nDepartementet kan i forskrift gi nærmere bestemmelser om gjennomføringen av undersøkelser etter denne paragraf, og om bruken av resultatene, herunder plikt for laboratorier/institusjoner til å gi melding om analysefunn uten hinder av lovbestemt taushetsplikt.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 3-8",
+      "heading": "Vaksinering og immunisering av befolkningen",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Departementet skal fastlegge et nasjonalt program for vaksinering mot smittsomme sykdommer. Kommunen skal tilby befolkningen dette programmet.\nDepartementet har ansvar for å sikre nødvendig vaksineforsyning og vaksineberedskap.\nNår det er avgjørende for å motvirke et alvorlig utbrudd av en allmennfarlig smittsom sykdom, kan departementet i forskrift fastsette at befolkningen eller deler av den skal ha plikt til å la seg vaksinere.\nVed et alvorlig utbrudd av en allmennfarlig smittsom sykdom kan departementet i forskrift bestemme at personer som ikke er vaksinertmå oppholde seg innenfor bestemte områder,skal nektes deltakelse i organisert samvær med andre, f.eks. i barnehage, skole, møter eller kommunikasjonsmidler,må ta nødvendige forholdsregler etter kommunelegens nærmere bestemmelse.\nNår det ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom er nødvendig å vaksinere befolkningen eller deler av den med en gang for at folkehelsen ikke skal bli vesentlig skadelidende, kan Helsedirektoratet påby vaksinering etter tredje ledd og tiltak etter fjerde ledd.\nKongen i Statsråd kan i forskrift fastsette at helsepersonell uten hinder av lovbestemt taushetsplikt skal gi nødvendige opplysninger for gjennomføring av et kontrollsystem basert på vaksinasjonsregistre, og gi regler for slike registre, jf. helseregisterloven.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 3-9",
+      "heading": "Forskrifter om undersøkelser og vaksinasjoner",
+      "path": [
+        "Kap. 3. Undersøkelser og vaksinasjoner"
+      ],
+      "text": "Departementet kan gi forskrifter om den nærmere gjennomføringen av smitteverntiltak etter §§ 3-1, 3-2, 3-3, 3-4 og 3-8 andre og tredje ledd, herunder omhvilke grupper av befolkningen som tiltakene skal omfatte, og om fritak,hvem som kan gi fritak, og om tilsyn med gjennomføringen av tiltakene,at enkelte undersøkelser og vaksinasjoner bare må utføres av særskilt godkjent helsepersonell, hvem som kan gi godkjenning, og hvilken opplæring personellet må gjennomgå for å få slik godkjenning,plikt for helsepersonell til å foreta eller medvirke ved undersøkelser og vaksinasjoner,at undersøkelser eller analyser skal gjøres slik Helsedirektoratet bestemmer, og at de må foretas av noen som Helsedirektoratet har godkjent,hvem som skal dekke utgiftene med tiltakene.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Møteforbud, stenging av virksomhet, begrensning i kommunikasjon, isolering og smittesanering",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Når det er nødvendig for å forebygge en allmennfarlig smittsom sykdom eller for å motvirke at den blir overført, kan kommunestyret vedtaforbud mot møter og sammenkomster eller påbud om andre begrensninger i den sosiale omgangen overalt der mennesker er samlet,stenging av virksomheter som samler flere mennesker, f.eks. barnehager, skoler, svømmehaller, flyplasser, butikker, hoteller eller andre bedrifter og arbeidsplasser – eller begrensninger i aktiviteter der,stans eller begrensninger i kommunikasjoner,isolering av personer i geografisk avgrensede områder eller andre begrensninger i deres bevegelsesfrihet i opptil sju dager om gangen,pålegg til private eller offentlige om rengjøring, desinfeksjon eller destruksjon av gjenstander eller lokaler. Pålegget kan også gå ut på avliving av selskapsdyr, utrydding av rotter og andre skadedyr, avlusing eller annen smittesanering.\nVed et alvorlig utbrudd av en allmennfarlig smittsom sykdom og når det er avgjørende å få satt tiltak i verk raskt for å motvirke overføring av sykdommen, kan Helsedirektoratet treffe vedtak som nevnt i første ledd for hele landet eller for deler av landet.\nHar kommunestyret eller Helsedirektoratet truffet vedtak om tiltak etter første eller andre ledd som den ansvarlige ikke retter seg etter, kan kommunestyret sørge for at tiltakene blir satt i verk. Kommunestyret kan sørge for iverksetting av tiltakene også dersom den ansvarliges holdning eller atferd kan medføre at iverksettingen blir forsinket, eller dersom det er uvisst hvem som er den ansvarlige. Tiltakene gjennomføres for den ansvarliges regning, kommunen hefter for kravet om vederlag.\nVed iverksetting av tiltak som nevnt i bokstav e, kan kommunestyret bruke og om nødvendig skade den ansvarliges eiendom. Ved iverksetting av tiltak som nevnt i første ledd bokstav d og e, kan kommunestyret mot vederlag også bruke eller skade andres eiendom. Det er et vilkår at vinningen er vesentlig større enn skaden eller ulempen ved inngrepet.\nDen som har satt i verk tiltaket, skal straks oppheve vedtaket eller begrense omfanget av det når det ikke lenger er nødvendig. I hastesaker kan kommunelegen utøve den myndighet kommunestyret har etter denne paragrafen.\nDepartementet kan i forskrift gi nærmere bestemmelser om de forskjellige tiltak, herunder fastsette krav til metoder og midler som skal brukes og til kvalifikasjoner hos de personer som skal sette i verk tiltak. I forskrift kan det også fastsettes bestemmelser om plikt til løpende gjennomføring av tiltak som nevnt i første ledd bokstav e.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Forbud mot utførelse av arbeid m.m.",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "En smittet person med en allmennfarlig smittsom sykdom som gjennom sitt arbeid eller ved deltagelse i undervisning er en alvorlig fare for overføring av smitte til andre, kan forbys å utføre dette arbeidet eller delta i undervisningen for opptil tre uker dersom hensynet til smittevernet krever det. Ved nytt vedtak kan forbudet forlenges med opptil tre uker.\nVedtak etter første ledd skal gjøres av kommunelegen sammen med vakthavende infeksjonsmedisinske overlege ved sykehus i helseregionen.\nStatsforvalteren avgjør klage over vedtak. Når legene som skal gjøre vedtak etter andre ledd er uenige, skal statsforvalteren delta i avgjørelsen. Helsedirektoratet avgjør klagen når statsforvalteren har vært med i første instans. En klage har ikke utsettende virkning på iverksetting av vedtak etter denne paragrafen.\nNår smittede personer gjennom sitt arbeid eller ved deltagelse i undervisning kan utgjøre en alvorlig fare for overføring av smitte til andre, kan departementet i forskrift fastsette at det skal være forbudt for smittede personer å utføre et bestemt arbeid eller deler av det eller delta i undervisning.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Forskrifter om karantenebestemmelser",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Kongen kan gi forskrifter for å motvirke at smittsomme sykdommer føres inn i landet eller spres til andre land (karantenetiltak), herunder bestemmelser om tiltak som gjelder personer, dyr, transportmidler, varer og gjenstander som kan tenkes å overføre smittsomme sykdommer. I forskriftene kan Kongen også fastsette nærmere krav til undersøkelser, smittesanering og dokumentasjon i forbindelse med innreise til og utreise fra Norge og i forbindelse med inn- og utførsel av varer.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-3a",
+      "heading": "Forskrift om isolering, smittekarantene og andre begrensninger i bevegelsesfriheten",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Ved alvorlig utbrudd av en allmennfarlig smittsom sykdom, jf. § 1-3 nr. 3 og 4, kan Kongen, for å forebygge eller motvirke overføring av sykdommen, gi forskrift omisolering for smittede personer, jf. § 1-3 nr. 2, ogsmittekarantene for personer som har økt risiko for å være smittet av den allmennfarlige smittsomme sykdommen etter nærkontakt med en smittet eller antatt smittet person, eller annen smittekilde.\nKongen kan i forskrift fastsette andre begrensninger i bevegelsesfriheten for personer som omfattes av første ledd, og nærmere krav til undersøkelser i forbindelse med, eller til erstatning for, isolering, smittekarantene eller begrensninger i bevegelsesfriheten.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-4",
+      "heading": "Transport av smittefarlig materiale",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Innførsel, transport og annen håndtering av smittefarlig materiale som kan overføre smitte til mennesker skal skje på en forsvarlig måte, slik at smittefaren blir så liten som mulig.\nDepartementet kan i forskrift fastsette begrensninger og andre nærmere bestemmelser om innførsel, transport og annen håndtering av smittefarlig materiale som kan bety en fare for overføring av smittsom sykdom til mennesker.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-5",
+      "heading": "Obduksjon",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Kommunelegen kan vedta at en avdød med en allmennfarlig smittsom sykdom skal obduseres dersom det er nødvendig for å fastslå sykdommens art eller for å påvise andre forhold som det er viktig å kjenne til for å kunne forebygge en slik sykdom eller motvirke at den blir overført.\nVed alvorlig utbrudd av allmennfarlig smittsom sykdom bærer staten utgiftene for rekvirerte obduksjoner.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-6",
+      "heading": "Gravferd og transport av lik",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Ved et alvorlig utbrudd av en allmennfarlig smittsom sykdom kan kommunestyret vedta forholdsregler i forbindelse med gravferd, herunder bestemme at avdøde personer skal kremeres, eller at det skal settes i verk andre spesielle tiltak i forbindelse med gravferder.\nDepartementet kan i forskrift gi bestemmelser om transport av lik innenfor landet og fra og til utlandet, og fastsette hygieniske bestemmelser i forbindelse med gravferd, herunder minimums- og maksimumskrav til emballering og hvilke opplysninger som transportør, begravelsesbyrå og andre kan kreve.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-7",
+      "heading": "Forskrifter om helsetjenesteassosierte infeksjoner",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Departementet kan i forskrift fastsette bestemmelser om tiltak for å motvirke helsetjenesteassosierte infeksjoner. I forskriften kan det gis bestemmelser for helsepersonell og eiere av virksomheter som driver medisinsk undersøkelse, behandling eller pleie, for å forebygge eller motvirke at pasienter, ansatte eller andre blir påført infeksjoner. Det kan gis egne bestemmelser om smittevern for pasienter som har nedsatt immunforsvar, herunder at slike pasienter kan undersøkes, behandles eller pleies bare ved institusjoner som departementet har godkjent.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-8",
+      "heading": "Massemedier – informasjonsplikt",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Ved et alvorlig utbrudd av allmennfarlig smittsom sykdom kan departementet eller Helsedirektoratet pålegge ethvert innenlandsk massemedium å ta inn meldinger til hele befolkningen eller avgrensede grupper av den.\nDen som har formidlet en melding etter bestemmelsen, har krav på vederlag.\nEn klage har ikke utsettende virkning for iverksetting av vedtaket.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 4-9",
+      "heading": "Plikt for helsepersonell til å gjennomgå opplæring, følge faglige retningslinjer og gjennomføre tiltak",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Etter pålegg fra kommunestyret har helsepersonell ansatt i kommunen eller som yter helse- og omsorgstjenester på vegne av kommunen, plikt til å gjennomgå nødvendig opplæring for å kunne delta i de særlige oppgaver som smittevernarbeidet krever.\nVed et alvorlig utbrudd av en allmennfarlig smittsom sykdom har helsepersonell som har gjennomgått nødvendig opplæring, plikt til å delta og utføre nødvendige oppgaver i smittevernarbeidet etter kommunestyrets nærmere bestemmelse.\nHelsepersonell har plikt til å følge Helsedirektoratets pålegg etter § 7-10 om at en allmennfarlig smittsom sykdom skal forebygges, undersøkes, behandles, eller pleies etter bestemte faglige retningslinjer, eller at undersøkelser eller analyser skal gjøres slik Helsedirektoratet bestemmer eller bare må gjøres av noen som Helsedirektoratet har godkjent.\nEn lege som er ansatt i kommunen eller som yter helse- og omsorgstjenester på vegne av kommunen, har plikt til å delta i forebyggelse av en allmennfarlig smittsom sykdom og i undersøkelse og behandling av en person som er smittet med en slik sykdom, når det er nødvendig og etter vedtak av kommunestyret.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-11",
+      "provision_ref": "§ 4-10",
+      "heading": "Informasjonsplikt og bistandsplikt for andre myndigheter",
+      "path": [
+        "Kap. 4. Andre smitteverntiltak"
+      ],
+      "text": "Ansatte ved politiet, tollvesenet, havner, flyplasser, Mattilsynet, Forsvaret, Kystvakten, Kystverket, Fiskeridirektoratet, Sjøfartsdirektoratet og Direktoratet for samfunnssikkerhet og beredskap plikter å ha særlig oppmerksomhet rettet mot smittsomme sykdommer. De plikter å bistå med gjennomføringen og overholdelsen av bestemmelsene som er gitt i denne loven eller helse- og omsorgstjenesteloven, eller i medhold av disse lovene.\nAnsatte etter første ledd skal uten hinder av lovbestemt taushetsplikt underrette kommunelegen når de har en sterk mistanke om en allmennfarlig smittsom sykdom eller oppdager et tilfelle av en slik sykdom. Det samme gjelder når de blir oppmerksom på forhold som kan medføre en nærliggende fare for overføring av en slik sykdom og det åpenbart er nødvendig med hjelp eller tiltak fra helse- og omsorgstjenesten. Hvis kommunelegen ikke er til stede, skal ansatte underrette Folkehelseinstituttet.\nMattilsynet skal straks underrette kommunelegen og Folkehelseinstituttet ved mistanke om eller tilfelle av smittsom dyresykdom som kan utgjøre en fare for mennesker eller ved mistanke om smittsom sykdom som formidles til mennesker via næringsmidler.\nI tillegg til pliktene etter første og andre ledd skal politiet etter anmodning bistå med gjennomføringen av tiltak etter §§ 4-1, 4-3, 5-2, 5-3 og 5-4.\nDepartementet kan i forskrift fastsette nærmere plikter for andre myndigheter, herunder bestemme hvem som skal betale for utgiftene til bistand.",
+      "xml_path": "article#kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Plikter for en person som er smittet med en allmennfarlig smittsom sykdom",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Den som har grunn til å anta at han selv eller noen han har omsorgen for, er smittet med en allmennfarlig smittsom sykdom, skal snarest gi beskjed til lege og oppsøke legen for nødvendig undersøkelse.\nEn smittet person med en allmennfarlig smittsom sykdom har plikt til å gi nødvendige opplysninger om hvem smitten kan være overført fra. Dersom overføringen kan ha skjedd ved miljøsmitte, f.eks. drikkevann, matvarer eller dyr, har vedkommende også plikt til å opplyse om dette. Dessuten har vedkommende plikt til å opplyse hvem han eller hun selv kan ha overført smitten til. Opplysningene skal gis til den undersøkende legen eller til kommunelegen.\nEn smittet person med en allmennfarlig smittsom sykdom har plikt til å ta imot og følge den personlige smittevernveiledningen som legen gir, jf. § 2-1 for å motvirke at sykdommen blir overført til andre og plikt til å la seg isolere dersom det er nødvendig.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Tvungen legeundersøkelse – innleggelse til undersøkelse og kortvarig isolering",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Når det er nødvendig for å forebygge en allmennfarlig smittsom sykdom eller motvirke at den blir overført, skal legen eller eventuelt kommunelegen be en smittet person om å la seg undersøke av lege.\nDersom en smittet person motsetter seg undersøkelse etter første ledd, kan det gjøres vedtak om at vedkommende skal legges inn på sykehus til legeundersøkelse og eventuelt til kortvarig isolering. Slik tvungen legeundersøkelse eller kortvarig isolering kan bare gjennomføres for å klarlegge om det foreligger en allmennfarlig smittsom sykdom, og dette er nødvendig for å motvirke overføring av en slik sykdom til andre og såfremt undersøkelsen kan skje uten fare. Tvungen isolering kan vedtas for opptil sju dager.\nNår det er forsvarlig å foreta legeundersøkelsen uten innleggelse i sykehus ut fra hensynet til den smittede eller dem som skal undersøke, kan undersøkelsen gjøres poliklinisk eller på et annet egnet sted.\nFør det blir gjort vedtak om tvungen legeundersøkelse eller kortvarig isolering, skal den smittede personen gis varsel slik at han eller hun får uttale seg om spørsmålet. Varsel kan sløyfes når det ikke er praktisk mulig eller vil medføre fare for at undersøkelsen eller isoleringen ikke kan gjennomføres.\nVedtak etter andre og tredje ledd skal gjøres av smittevernnemnda, se §§ 7-5, 7-6 og 7-8, etter reglene i §§ 5-5 til 5-7. Se likevel § 5-8 om hastevedtak. Det har ikke utsettende virkning dersom vedtaket bringes inn for tingretten.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Tvungen isolering i sykehus",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Når det er nødvendig for å forebygge en allmennfarlig smittsom sykdom eller motvirke at den blir overført, skal legen, eventuelt kommunelegen be en smittet person om å la seg isolere.\nDersom en smittet person motsetter seg isolering etter første ledd og andre tiltak som kan forebygge eller motvirke overføring av sykdommen har vært forsøkt eller det er overveiende sannsynlig at slike tiltak ikke vil føre frem, kan det gjøres vedtak om at vedkommende skal legges inn på sykehus til isolering. Slik tvungen isolering kan bare gjennomføres når dette etter en helhetsvurdering er den klart mest forsvarlige løsningen i forhold til faren for smitteoverføring og den belastningen som tvangsinngrepet må antas å medføre, og det er overveiende sannsynlig at andre ellers vil bli smittet.\nVedtak etter denne bestemmelsen kan gjøres for opptil tre uker. Ved nytt vedtak kan isoleringstiden forlenges med opptil seks uker om gangen inntil ett år fra første vedtak. Dersom det er nødvendig å fullføre behandling av allmennfarlig smittsom sykdom av særlig alvorlig karakter for å forhindre smitteoverføring, kan vedtaket forlenges utover ett år.\nI sammenheng med forlengelse av isoleringstiden kan det vedtas tvungen legemiddelbehandling når det kan redusere isoleringstiden vesentlig. Vedtak om tvungen legemiddelbehandling kan bare fattes når behandlingen er medisinskfaglig forsvarlig og kan gjøre en smittet person smittefri. Påbegynt legemiddelbehandling må fullføres dersom det er fare for tilbakefall, resistensutvikling eller andre tungtveiende smittevernhensyn tilsier det. Departementet kan i forskrift fastsette nærmere bestemmelser om legemiddelbehandlingen.\nVedtak om tvungen isolering i sykehus og legemiddelbehandling gjøres av smittevernnemnda, se §§ 7-5, 7-6 og 7-8, etter reglene i §§ 5-5 til 5-7. Tvangsvedtaket skal oppheves av avdelingens overlege så snart vilkårene for innleggelsen ikke lenger foreligger. Smittevernnemnda skal varsles så tidlig som mulig, og senest tre døgn før den smittede blir utskrevet.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Gjennomføring av isolering i sykehus",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Innleggelse til tvungen undersøkelse og kortvarig isolering etter § 5-2 eller isolering etter § 5-3 skal skje i en egnet sykehusavdeling eller sengepost. Avdelingen eller sengeposten skal være spesielt lagt til rette for å motta smittede slik at de kan få det medisinske og pleiemessige behandlingstilbud som vil føre til så kortvarig isolering som mulig.\nUnder isoleringen kan det iverksettes pleiemessige og sikkerhetsmessige tiltak for å gjennomføre en effektiv isolering. Tiltakene skal være begrenset til det som er helt påkrevd i forhold til faren for smitteoverføring. Oppholdet skal så langt råd er gi muligheter for normal livsutfoldelse og kontakt med nære pårørende.\nNår særlige forhold krever det, kan smittede personer isoleres i andre institusjoner godkjent av Helsedirektoratet.\nDepartementet kan i forskrifter fastsette nærmere krav til de fysiske og faglige forholdene ved sykehus og andre institusjoner som nyttes til isolering.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Forberedelse til tvangssak for smittevernnemnda",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "En sak om vedtak etter §§ 5-2 eller 5-3 innledes ved at kommunelegen utarbeider begjæring om tiltak etter den aktuelle paragrafen. I begjæringen skal det redegjøres for de omstendigheter kommunelegen legger til grunn for det tiltak som blir foreslått.\nBegjæringen skal omgående sendes til smittevernnemnda med kopi til statsforvalteren.\nHelsedirektoratet kan selv reise sak for nemnda.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Oppnevning av fullmektig for den smittede m.m.",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Smittevernnemnda skal sørge for at det blir oppnevnt advokat for de private parter. Advokaten skal omgående gjøres kjent med begjæring om tiltak med vedlagte dokumenter, og gis frist for tilsvar etter barnevernsloven § 14-10.\nDe begrensninger i den smittedes rett til å se saksdokumentene som er fastsatt i forvaltningsloven § 19 første ledd bokstav d og de begrensinger i den smittedes rett til innsyn i sin journal med vedlegg som er fastsatt for innsynsretten, gjelder ikke når smittevernnemnda er anmodet om å gjøre vedtak etter loven.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Vedtak og begrunnelse",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Smittevernnemnda skal komme sammen så raskt som mulig og senest innen sju dager for å drøfte og fatte vedtak i saken. Til møtet i nemnda kan en representant for den som har begjært tvangsvedtaket og den smittedes fullmektig møte. Dersom noen av partene ønsker det, skal de under møtet gis anledning til vitneførsel og til å legge frem annet materiale det ikke har vært mulig å presentere under saksforberedelsen.\nReglene i tvisteloven om dommers innhold og begrunnelse gjelder tilsvarende.\nI meldingen om vedtaket skal det særskilt gjøres oppmerksom på overprøvingsadgangen etter § 5-9.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 5-8",
+      "heading": "Hastevedtak",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Kommunelegen og vakthavende infeksjonsmedisinske overlege ved sykehus i helseregionen kan sammen treffe hastevedtak etter § 5-2 og 5-3 hvis hensynet til smittevernet tilsier at vedtaket blir fattet. Det skal særlig legges vekt på åpenbar fare for smitteoverføring. Bestemmelsen i § 4-2 tredje ledd annet punktum gjelder tilsvarende. Vedtak om tvungen isolering gjelder frem til smittevernnemnda har vurdert saken, men ikke utover sju dager.\nKopi av hastevedtak skal omgående sendes til smittevernnemnda.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 5-9",
+      "heading": "Overprøving av tvangsvedtak",
+      "path": [
+        "Kap. 5. Plikter for smittede personer – tvangstiltak"
+      ],
+      "text": "Smittevernnemndas vedtak kan bringes inn for tingretten etter reglene i tvisteloven kapittel 36. Dette gjelder også hastevedtak etter § 5-8.\nVedtak om tvungen isolering i sykehus etter § 5-3 kan settes i verk dersom vedtaket bringes inn for tingretten. Vedtak om tvungen legemiddelbehandling etter § 5-3 skal ikke settes i verk dersom vedtaket bringes inn for tingretten.\nSøksmål kan reises av den vedtaket retter seg mot eller vedkommendes nærmeste, av statsforvalteren eller Statens helsetilsyn. En mindreårig kan opptre som part og gjøre partsrettigheter gjeldende dersom vedkommende er fylt 12 år og forstår hva saken gjelder.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Rett til smittevernhjelp",
+      "path": [
+        "Kap. 6. Rett til smittevernhjelp m.m."
+      ],
+      "text": "Enhver har rett til nødvendig smittevernhjelp. Smittevernhjelp er å anse som en del av retten til nødvendige helse- og omsorgstjenester, jf. pasient- og brukerrettighetsloven § 2-1 første og annet ledd og § 2-2.\nDen som etter en faglig vurdering anses å være i fare for å bli smittet med en allmennfarlig smittsom sykdom, har rett til nødvendig smittevernhjelp i form av vaksinasjon, informasjon og annen nødvendig forebyggende hjelp.\nEn smittet person med en allmennfarlig smittsom sykdom har rett til nødvendig smittevernhjelp, herunder medisinsk vurdering og utredning (diagnostikk), behandling og pleie.\nDen som søker smittevernhjelp eller dens pårørende som mener denne bestemmelsen er brutt, kan klage til statsforvalteren i det fylket hvor vedkommende mener feil er begått. Klagen sendes til den som har truffet enkeltvedtaket eller avgjørelsen.\nDepartementet kan gi forskrifter til utfylling av denne bestemmelsen.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Dekning av tjenester og tiltak",
+      "path": [
+        "Kap. 6. Rett til smittevernhjelp m.m."
+      ],
+      "text": "Departementet kan gi forskrift om at tjenester eller tiltak etter loven skal være uten kostnad for den som er smittet eller er i fare for å bli smittet med en smittsom sykdom.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Kommunen",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Kommunen skal sørge for at alle som bor eller midlertidig oppholder seg i kommunen med hensyn til smittsom sykdom er sikret nødvendige forebyggende tiltak, undersøkelsesmuligheter, behandling og pleie utenfor institusjon og pleie i sykehjem eller annen kommunal helseinstitusjon.\nKommunen skal også utføre de oppgaver innen smittevernet som pålegges i loven her eller bestemmelser i medhold av loven, herunder skaffe seg oversikt over arten og omfanget av de smittsomme sykdommer som forekommer i kommunen, drive opplysning om smittsomme sykdommer og gi råd og veiledning om hvordan de forebygges, sørge for at individuelt forebyggende tiltak blir satt i verk, sørge for at andre tiltak etter loven her, folkehelseloven eller helse- og omsorgstjenesteloven blir satt i verk.\nTiltak og tjenester for å forebygge smittsomme sykdommer eller motvirke at de blir overført skal utgjøre et eget område i planen for kommunens helse- og omsorgstjeneste. Helse- og omsorgstjenesten i kommunen skal samarbeide med myndigheter som har oppgaver av betydning for tiltakene.\nKommunen skal føre tilsyn og sørge for at reglene i loven blir overholdt og at vedtak i medhold av loven blir gjennomført.\nVed iverksetting av tiltak etter §§ 3-1 og 3-8 kan kommunen mot vederlag bruke og om nødvendig skade andres eiendom.\nKommunens myndighet etter denne lov kan delegeres etter reglene i kommuneloven eller til et interkommunalt organ.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Kommunelegen",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Kommunelegen skal utføre de oppgaver innen smittevernet som pålegges i loven her. I kommuner med flere kommuneleger skal kommunestyret utpeke en av dem til å utføre disse oppgavene. Det bør også utpekes en stedfortreder for denne. I store bykommuner med bydelsforvaltning skal kommunestyret utpeke en lege til å utføre de av kommunelegenes oppgaver som angår hele kommunen eller store områder.\nKommunelegen skalutarbeide forslag til plan for helse- og omsorgstjenestens arbeid med vern mot smittsomme sykdommer, herunder beredskapsplaner og -tiltak, og organisere og lede dette arbeidet,ha løpende oversikt over de infeksjonsepidemiologiske forholdene i kommunen,utarbeide forslag til forebyggende tiltak for kommunen,bistå kommunen, helsepersonell og andre i kommunen som har oppgaver i arbeidet med vern mot smittsomme sykdommer,gi informasjon, opplysninger og råd til befolkningen om vern mot smittsomme sykdommer,utføre alle andre oppgaver som følger av loven eller bestemmelser i medhold av loven, og medvirke til effektive tiltak for å forebygge smittsomme sykdommer og motvirke at de blir overført.\nDepartementet kan i forskrift bestemme at kommunelegen også skal ha andre oppgaver, og herunder angi det nærmere innholdet i de enkelte oppgaver.\nNår kommunen har lagt smittevernoppgavene til et interkommunalt organ, jf. § 7-1 sjette ledd, kan kommunestyret delegere kommunelegens myndighet etter denne lov til en eller flere leger ansatt i dette organet.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Det regionale helseforetaket",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Det regionale helseforetaket skal sørge for at befolkningen i helseregionen med hensyn til smittsom sykdom er sikret nødvendig spesialistundersøkelse, laboratorieundersøkelse, poliklinisk behandling og sykehusbehandling, forsvarlig isolering i sykehus, og annen spesialisthelsetjeneste.\nDet regionale helseforetaket skal utarbeide en plan om det regionale helseforetakets tiltak og tjenester for å forebygge smittsomme sykdommer eller motvirke at de blir overført.\nDet regionale helseforetaket skal sørge for at det finnes et regionalt kompetansesenter i smittevern i helsetjenesten. Departementet kan i forskrift gi bestemmelser om senterets oppgaver.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Statsforvalteren",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Statsforvalteren skal ha særlig oppmerksomhet rettet mot smittevernet i fylket, herunder ha oversikt over og kunnskap om lokale planer om smittevern, samt yte bistand ved behov.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Smittevernnemnda",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Gjennomføring av tiltak med tvang etter denne lovs §§ 5-2 og 5-3 avgjøres av smittevernnemnda. Smittevernnemnda er den av barneverns- og helsenemndene, jf. barnevernsloven § 14-1, som departementet utpeker til denne oppgaven. Når det foreligger et alvorlig utbrudd av allmennfarlig smittsom sykdom, jf. § 1-3 nr. 4, kan flere nemnder utpekes til smittevernnemnder.\nReglene i barnevernsloven kapittel 14 gjelder i den utstrekning annet ikke fremgår av loven her.\nDepartementet kan bestemme at smittevernnemnda også skal behandle andre saker etter loven her.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Smittevernnemndas sammensetning",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Smittevernnemnda settes sammen etter reglene i barnevernsloven § 14-2.\nFør det blir oppnevnt utvalg, jf. første ledd, skal det innhentes forslag fra statsforvalteren og de regionale helseforetakene.\nSmittevernemndas medlemmer og sekretariat har taushetsplikt i samsvar med bestemmelsene i helsepersonelloven kapittel 5.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "Smittevernnemndas sammensetning i den enkelte sak",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "I den enkelte sak skal smittevernnemnda være sammensatt av lederen pluss to medlemmer som trekkes ut, ett fra hvert av de utvalg som er nevnt i § 7-6.",
+      "xml_path": "article#kapittel-8-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-9",
+      "provision_ref": "§ 7-9",
+      "heading": "Folkehelseinstituttet",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Folkehelseinstituttet er statens smitteverninstitutt. Folkehelseinstituttet skal overvåke den nasjonale epidemiologiske situasjonen og delta i overvåkingen av den internasjonale epidemiologiske situasjonen, utføre helseanalyser og drive forskning på smittevernområdet. Folkehelseinstituttet kan behandle helseopplysninger og andre personopplysninger som er nødvendig for å gjennomføre disse oppgavene.\nFolkehelseinstituttet skal gi smittevernfaglige råd og bistand til helsepersonell, kommuner, fylkeskommuner og statlige virksomheter i forbindelse med oppklaring og kontroll av utbrudd av smittsomme sykdommer.",
+      "xml_path": "article#kapittel-8-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-10",
+      "provision_ref": "§ 7-10",
+      "heading": "Helsedirektoratet",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Helsedirektoratet skal, ved å utføre myndighetsoppgaver, medvirke til at befolkningens behov for tjenester og tiltak blir dekket i forbindelse med smittsomme sykdommer.\nHelsedirektoratet kan bestemme at kommuner, fylkeskommuner eller statlige institusjoner skal organisere eller utføre nærmere bestemte tjenester eller tiltak, samarbeide, eller følge nærmere bestemte retningslinjer når det er nødvendig for å sikre et effektivt og forsvarlig smittevern.\nPå tilsvarende måte som etter foregående ledd kan Helsedirektoratet pålegge helsepersonell å følge nærmere bestemte faglige retningslinjer.",
+      "xml_path": "article#kapittel-8-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-11",
+      "provision_ref": "§ 7-10a",
+      "heading": "Statens helsetilsyn",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Statens helsetilsyn skal ha det overordnede tilsynet med at den kommunale, fylkeskommunale og statlige virksomheten er i samsvar med loven og med forskrift eller enkeltvedtak med hjemmel i loven.\nStatens helsetilsyn kan gi pålegg om retting eller stenging i samsvar med helsetilsynsloven.\nKommuneloven kapittel 30 gjelder når det føres tilsyn med kommuner.",
+      "xml_path": "article#kapittel-8-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-12",
+      "provision_ref": "§ 7-11",
+      "heading": "Forskrifter om organisering, samarbeid, oppgaver, utgiftsfordeling og smittevernberedskap",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Departementet kan i forskrift gi bestemmelser om samarbeid, og om hvilket ansvar og hvilke oppgaver kommuner, fylkeskommuner og regionale helseforetak skal ha etter denne loven, helse- og omsorgstjenesteloven og spesialisthelsetjenesteloven i forbindelse med smittsomme sykdommer.\nDepartementet kan bestemme at lov 23. juni 2000 nr. 56 om helsemessig og sosial beredskap helt eller delvis skal gjelde på tilsvarende måte når det er påkrevd av hensyn til smittevernet, bl.a for å kunne pålegge kommuner, fylkeskommuner, regionale helseforetak og helsepersonell nødvendig smittevernberedskap. Departementet kan i forskrift fastsette nærmere bestemmelser om beredskap og beredskapsplaner i forbindelse med et alvorlig utbrudd av en allmennfarlig smittsom sykdom.",
+      "xml_path": "article#kapittel-8-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-13",
+      "provision_ref": "§ 7-12",
+      "heading": "Særlig fullmakt for Kongen",
+      "path": [
+        "Kap. 7. Administrative organer og deres ansvar"
+      ],
+      "text": "Når et utbrudd av en allmennfarlig smittsom sykdom truer folkehelsen, eller når det er fare for et slikt utbrudd og det på grunn av disse forhold er fare ved opphold, kan Kongen gi bestemmelser av lovgivningsmessig innhold for å trygge folkehelsen, og for at det kan settes inn tiltak til vern om befolkningen. Om nødvendig kan Kongen gjøre avvik fra gjeldende lovgivning. Lov av 15. desember 1950 om særlige rådgjerder under krig, krigsfare og liknende forhold §§ 3 og 4 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-8-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Straff",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Med unntak av overtredelse av plikter etter § 5-1 eller plikter som omfattes av helsepersonellovgivningen, straffes forsettlig eller uaktsom overtredelse av loven her eller vedtak gitt med hjemmel i loven med bot eller fengsel inntil 2 år. Dersom overtredelsen har tap av menneskeliv eller betydelig skade på kropp eller helse som følge, er straffen bot eller fengsel inntil 4 år.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Klage over vedtak",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Statsforvalteren avgjør klage over kommunalt eller interkommunalt vedtak såfremt ikke noe annet er bestemt i loven.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Gjennomføring og utfylling",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Departementet kan gi forskrifter til gjennomføring og utfylling av denne loven.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Forholdet til vedtak etter eldre lovgivning",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Forskrifter eller enkeltvedtak med hjemmel i lovbestemmelser som blir opphevet etter § 8-7, står fortsatt ved lag inntil de blir endret eller opphevet i medhold av denne loven.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Ikrafttredelse m.m.",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Denne loven trer i kraft fra den tid Kongen bestemmer.1 I forbindelse med lovens ikrafttredelse eller senere kan departementet sette en frist for alle eller enkelte kommuner eller fylkeskommuner til å oppfylle de forpliktelser som loven pålegger kommunene eller fylkeskommunene.",
+      "xml_path": "article#kapittel-9-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-7",
+      "provision_ref": "§ 8-7",
+      "heading": "Oppheving av andre lover.",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Når denne lov trer i kraft, oppheves følgende lover – – –",
+      "xml_path": "article#kapittel-9-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-8",
+      "provision_ref": "§ 8-8",
+      "heading": "Endringer i andre lover",
+      "path": [
+        "Kap. 8. Straff, erstatning, klage, ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Når denne lov trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#kapittel-9-paragraf-8"
+    }
+  ]
+}

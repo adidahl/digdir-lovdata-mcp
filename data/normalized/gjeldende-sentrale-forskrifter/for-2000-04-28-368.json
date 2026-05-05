@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2000-04-28-368",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kjøpers renteplikt ved betaling etter oppgjørsdagen, jf. tvangsfullbyrdelsesloven § 11-27 annet ledd.",
+  "short_title": "Forskrift om kjøpers renteplikt ved sen betaling",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2000-07-01",
+  "lovdata_refid": "forskrift/2000-04-28-368",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-04-28-368",
+  "raw_xml_sha256": "0e6a225432571bb7255cc0fdbdfed690ddd3e34c172fa75ab331f6b9c066d1c1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Betales ved tvangssalg av et realregistrert formuesgode hele eller en del av kjøpesummen etter oppgjørsdagen, men innen to uker etter at stadfestelsen er rettskraftig, betales et rentetillegg av 6% årlig rente, jf. tvangsfullbyrdelsesloven § 11-27 annet ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2000 og gjelder for tvangssalg der oppgjørsdagen er etter ikrafttredelsen.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

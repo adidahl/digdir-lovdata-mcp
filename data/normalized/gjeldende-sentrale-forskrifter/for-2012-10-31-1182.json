@@ -1,0 +1,80 @@
+{
+  "id": "FOR-2012-10-31-1182",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om klagenemnd for Husbanken",
+  "short_title": "Forskrift om klagenemnd for Husbanken",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2013-01-01",
+  "lovdata_refid": "forskrift/2012-10-31-1182",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-10-31-1182",
+  "raw_xml_sha256": "f62b1761b81ea4965a36b604cb1a2cf72b6dc03f98f08344359e17119db7a2e1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Kompetansen til klagenemnda",
+      "path": [],
+      "text": "Klagenemnda er klageinstans for enkeltvedtak Husbanken gjer om lån, tilskot og bustøtte.\nKlagenemnda skal avgjere klage på enkeltvedtak omtildeling, utmåling, avvisning og avslag på lån, tilskot og bustøttekrav på tilbakebetaling av bustøtte, jf lov om bustøtte § 11.\nDepartementet kan ikkje instruere klagenemnda om verken tolking av regelverket, utøving av skjønn, avgjerd av enkeltsaker eller sakshandsaminga.\nAvgjerder tekne av klagenemnda kan ikkje påklagast.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Oppnemning og samansetjing av nemnda",
+      "path": [],
+      "text": "Klagenemnda skal setjast saman av tre medlemmer med personlege varamedlemmer.\nDepartementet nemner opp medlemmene for fire år og peiker ut leiaren og den personlege varamedlemmen.\nLeiaren og den personlege varamedlemmen skal ha juridisk embetseksamen eller mastergrad i rettsvitskap.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Sekretariatet for nemnda",
+      "path": [],
+      "text": "Sekretariatet har ansvar for å førebu og leggje sakene til rette for klagenemnda. Sekretariatet skal elles utføre oppgåver som klagenemnda eller leiaren av nemnda delegerer til sekretariatet. Nemnda kan gje instruks om arbeidet i sekretariatet.\nHusbankens hovudkontor tek hand om sekretariatet for klagenemnda.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Samansetjing av nemnda i den enkelte saka o.a.",
+      "path": [],
+      "text": "Nemnda er vedtaksfør i den enkelte saka når to av medlemmene, medrekna leiaren, er til stades og begge meiner det er tilrådeleg å handsame saka.\nNemnda skal ta avgjerd i møte. Nemnda må ha fleirtal for å ta gyldig avgjerd.\nNemnda skal halde møte etter behov. Leiaren fastset tid og stad for møtet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Teieplikt og habilitet",
+      "path": [],
+      "text": "Alle som deltek i handsaminga av saker for nemnda har teieplikt etter reglane i forvaltningslova § 13 til § 13 e.\nReglane om habilitet i forvaltningslova § 6 til § 10 gjeld for medlemmene i nemnda så langt dei passar.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Sakshandsaming o.a.",
+      "path": [],
+      "text": "Klager skal sendast til Husbanken, jf. forvaltningslova § 32. Dersom Husbanken ikkje treffer vedtak etter forvaltningslova § 33, annet ledd, skal parten ha skriftleg melding om det med grunngjeving. Parten må innan tre veker gje beskjed om han vil halde fast ved klagen. Saken skal då leggjast fram for klagenemnda til avgjerd.\nReglane om klage i forvaltningslova § 29 – § 34 gjeld elles.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Årsmelding",
+      "path": [],
+      "text": "Klagenemnda skal årleg gje ei melding om verksemda.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Iverksetting",
+      "path": [],
+      "text": "Forskrifta gjeld frå 1. januar 2013.\nFrå same tid blir forskrift 14. september 1992 nr. 692 om klagenemnda for Husbanken oppheva.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

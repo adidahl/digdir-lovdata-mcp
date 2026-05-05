@@ -1,0 +1,54 @@
+{
+  "id": "LOV-1996-03-22-16",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om regulering av byggje- og anleggsverksemd",
+  "short_title": "Lov om regulering av byggje- og anleggsverksemd",
+  "department": "Kommunal- og distriktsdepartementet",
+  "legal_area": "Anskaffelser, avtaler, bygg og entrepriser > Boligoppføring Anskaffelser, avtaler, bygg og entrepriser > Byggesaksbehandling",
+  "date_in_force": "1996-03-22",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1996-03-22-16",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1996-03-22-16",
+  "raw_xml_sha256": "3ad60294760cb1dd4b41428890b2ec51f2ae1b2b339e36dd7644ece2893a23bc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Er det fare for vekstkonsentrasjonar som trugar den økonomiske stabiliteten og som kan føre til alvorlege samfunnsproblem, kan Kongen ved forskrift gje nærmare føresegnar om regulering av byggje- og anleggsverksemda. Det kan mellom anna fastsetjast at det ikkje kan iverksetjast nybygg eller ombygging av byggverk, anlegg m.v. utan samtykke frå Kongen. Det kan setjast vilkår for samtykke.\nI forskrifta kan det fastsetjast minstegrenser for kva som går inn under lova. Minstegrensene kan fastsetjast som eit minste areal, investert kapital eller tal på sysselsette under anleggsperioden eller som ein kombinasjon av desse.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Det kan i forskrift fastsetjast at reguleringa berre skal gjelda i nærmare nemnde kommunar. Det kan fastsetjast strengare reglar i somme kommunar.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Kongen kan i forskrift påleggje fylkeskommunane og kommunane oppgåver etter lova her.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Den som bryt lova her eller forskrift med heimel i lova, vert straffa med bøter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Kongen fastset når lova skal ta til å gjelde.1",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

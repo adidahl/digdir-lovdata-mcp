@@ -1,0 +1,52 @@
+{
+  "id": "FOR-2006-06-19-648",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Bestemmelser for gjennomføring av nye tjenestetidsbestemmelser for mannskap som er fritatt for militærtjeneste etter lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner.",
+  "short_title": "Bestemmelser for tjenestetid for siviltjeneste",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2006-07-01",
+  "lovdata_refid": "forskrift/2006-06-19-648",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-06-19-648",
+  "raw_xml_sha256": "73e1fac606f4dc21bf92388e9c815b26c9ce883c874a63526ed648c048e938d4",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Mannskap som vil bli ferdige med tjenesten før 1. juli 2006 fullfører denne etter de eldre reglene.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "For mannskap som ikke vil være ferdige med sin sivile førstegangstjeneste før 1. juli 2006, skal tjenestetiden omberegnes pr. 1. juli 2006 etter de nye bestemmelsene om tjenestetidens lengde.\nAlle mannskap som 1. juli 2006 har avtjent eller blitt godskrevet minst 12 måneder tjeneste, dimitteres 1. juli 2006.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Mannskap som er inne til tjeneste pr. 1. juli 2006, og som ønsker tjenestegjøring i samsvar med tidligere angitt tjenestetid, skal gis anledning til å fullføre tjenesten i samsvar med dette.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Mannskap som har avbrutt avtjeningen av sin sivile førstegangstjeneste, underrettes om sin nye gjenstående tjenestetid. Er avbrytelsen skjedd med tillatelse, innkalles mannskapene ikke til avtjening av ny gjenstående førstegangstjeneste av varighet på mindre enn 30 dager.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

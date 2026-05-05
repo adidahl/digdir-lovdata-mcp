@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2022-06-17-1114",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om merking av retusjert reklame",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2022-07-01",
+  "lovdata_refid": "forskrift/2022-06-17-1114",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-06-17-1114",
+  "raw_xml_sha256": "0fb778876fb1c6cd6043751e911bd06e25c41cef2ead89202e482c27b12da137",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Merking av reklame",
+      "path": [],
+      "text": "Reklamebilder og reklamefilmer der en kropps fasong, størrelse eller hud er endret ved retusjering eller annen manipulering, skal merkes ved bruk av et offentlig, standardisert merke, se vedlegg til forskriften.\nMerket skal utgjøre en kontrast til bakgrunnen og utgjøre omtrent 7 % av bildeflaten. Merket skal plasseres i øvre venstre hjørne på reklamen, under eventuelle filtre og brukernavn, med mindre det står et annet påbudt merke i dette hjørnet. I så fall skal merket plasseres i et annet hjørne.\nFor reklamefilmer skal merket bli stående under hele filmen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2022. Forskriften får virkning for reklame som publiseres fra og med denne dato.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

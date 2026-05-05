@@ -1,0 +1,47 @@
+{
+  "id": "FOR-2023-09-18-1440",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forenklet saksbehandling av søknader om naturskadeerstatning etter flomhendelsene høsten 2023",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2023-09-18",
+  "lovdata_refid": "forskrift/2023-09-18-1440",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-09-18-1440",
+  "raw_xml_sha256": "f2a4e218e95e4773e9ed5615d643c81638b36ec85c49f4f0e9ae56d957db47b0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å bidra til at saksbehandlingen av søknader om naturskadeerstatning etter flomhendelsene høsten 2023 skal kunne behandles mer effektivt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften er avgrenset til søknader om naturskadeerstatning etter flomhendelsene i Sør-Norge høsten 2023.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dokumentasjon av skaden",
+      "path": [],
+      "text": "Skadelidte kan dokumentere gjenopprettingskostnaden med takst eller anbud. Ved dokumentasjon gjennom anbud, er det tilstrekkelig med ett anbud. Anbud skal innhentes fra foretak med ansvarsrett, jf. plan- og bygningsloven § 23-1, når gjenopprettingsarbeidet krever det.\nDersom antatt gjenopprettingskostnad er under 100 000 kroner, kan skadelidte istedenfor takst eller anbud dokumentere kostnadene med egenoppgave og bildedokumentasjon.\nFor øvrig gjelder bestemmelsene i forskrift om dokumentasjon, saksbehandling og erstatning etter naturskader (naturskadeerstatningsforskriften).",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

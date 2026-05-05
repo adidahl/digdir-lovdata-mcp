@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2012-03-23-248",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om politiattest i henhold til arbeidsmarkedsloven",
+  "short_title": "Forskrift om politiattest iht. arbeidsmarkedsloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2012-05-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "forskrift/2015-06-19-673 fra 2015-10-01",
+  "lovdata_refid": "forskrift/2012-03-23-248",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-03-23-248",
+  "raw_xml_sha256": "2f38ba22f9518301f22b66b1522fe0a0798e8da86ae1c5172c5adca0e9341497",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Politiattest for ansatte i bedrifter som tilbyr tiltaket varig tilrettelagt arbeid",
+      "path": [],
+      "text": "Bedrift som tilbyr tiltaket varig tilrettelagt arbeid skal kreve fremleggelse av politiattest i samsvar med reglene i politiregisterloven § 39 første ledd av person som skal ansettes i slik bedrift og som kan komme i et tillits- eller ansvarsforhold hvor overgrep eller skadelig påvirkning overfor utviklingshemmede kan finne sted.\nMed ansatte menes i denne sammenheng ordinært ansatte.\nAttesten skal ikke være eldre enn tre måneder.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Framgangsmåte",
+      "path": [],
+      "text": "Arbeidsgiver skal i utlysingsteksten gjøre søkere oppmerksom på at det vil bli krevd politiattest ved ansettelse, men at denne ikke skal legges ved søknaden. Attest skal kun kreves av den søkeren som tilbys stillingen. Politiattest skal foreligge før arbeidstaker tiltrer stillingen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Følger av anmerkninger på politiattest",
+      "path": [],
+      "text": "Person med anmerkning på politiattest i samsvar med § 1 første ledd, skal ikke få adgang til å ha oppgaver eller posisjoner der overgrep eller skadelig påvirkning overfor utviklingshemmede kan finne sted.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Oppbevaring av politiattest og taushetsplikt",
+      "path": [],
+      "text": "Politiattesten skal oppbevares utilgjengelig for uvedkommende og skal makuleres umiddelbart etter å ha vært benyttet i ansettelsessaken.\nDen som får kjennskap til opplysninger gjennom en politiattest, plikter å hindre at uvedkommende får adgang eller kjennskap til disse. Overtredelse kan straffes etter straffeloven § 209.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Fornyet vandelskontroll",
+      "path": [],
+      "text": "Brukeren av tidligere utstedt politiattest kan få utlevert nye opplysninger av betydning i samsvar med reglene i politiregisterloven § 43.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. mai 2012.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

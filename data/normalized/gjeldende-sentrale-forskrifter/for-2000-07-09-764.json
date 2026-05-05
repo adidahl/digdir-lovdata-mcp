@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2000-07-09-764",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om advarselsmerking av honning.",
+  "short_title": "Forskrift om advarselsmerking av honning",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2000-07-09",
+  "last_change_in_force": "2004-01-15",
+  "last_changed_by": "forskrift/2004-01-15-267",
+  "lovdata_refid": "forskrift/2000-07-09-764",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-07-09-764",
+  "raw_xml_sha256": "6359e1bc136cccb16314381af68191c7f7728c3d3d2371685ed1ad74badd7afb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å forebygge helseskade hos spedbarn fra honning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Advarselsmerking",
+      "path": [],
+      "text": "Honning som omsettes skal ha advarselsmerking hvor det klart framgår at produktet ikke må gis til barn under 12 måneder.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4a",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

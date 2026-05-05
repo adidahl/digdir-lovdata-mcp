@@ -1,0 +1,67 @@
+{
+  "id": "FOR-2000-12-20-1554",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om internatpasienters betaling for opphold i spesialsykehjem",
+  "short_title": "Forskrift om internatpasienters betaling",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2001-01-01",
+  "last_change_in_force": "2021-09-17",
+  "last_changed_by": "forskrift/2021-09-17-2821",
+  "lovdata_refid": "forskrift/2000-12-20-1554",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-12-20-1554",
+  "raw_xml_sha256": "2ee08990ee956cc96324c17de3769e1bbe7fa514a1096b7aedb43bc21cf4c623",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det regionale helseforetaket i pasientens bostedsregion kan bestemme at en pasient helt eller delvis skal betale inntil 25% av normert pris for behandling av gjestepasienter i spesialsykehjem. Med spesialsykehjem menes medisinske institusjoner som gir pasienter opphold og i denne forbindelse medisinsk behandling, omsorg og pleie som ikke gjør opphold i sykehus eller sykestue nødvendig.\nPasienten, eventuelt pårørende eller verge, skal underrettes om at det kan treffes vedtak om betaling i samsvar med disse forskrifter samtidig som det gjøres avtale om flytting til sykehjem.\nVedtak om betaling kan bare gjøres gjeldende for tiden etter at slik underretning er gitt.\nSenere oppjustering av egenbetalingen som følge av forhøyelse av den normerte prisen kan skje med tilbakevirkende kraft fra 1. januar det aktuelle året, hvis det tas uttrykkelig forbehold om dette overfor den person (pasienten, pårørende eller verge) som gis underretning om førstegangsfastsettelsen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Ved fastsettelsen av betalingsplikt for pasienter innlagt etter 1. mars 1982 skal det bare tas hensyn til pasientens egen inntekt. Ved fastsettelse av betalingsplikt for pasienter innlagt før 1. mars 1982 skal det bare tas hensyn til pasientens egen inntekt og formue. Krav om refusjon kan først gjøres gjeldende fra og med den 2. kalendermåned etter innflytting i sykehjemmet, heri medregnet hel kalendermåned som pasienten har oppholdt seg i aldershjem og sykehjem og boform for heldøgns pleie og omsorg.\nIfølge spesialisthelsetjenesteloven § 5-5 nr. 3, skal det ses bort fra:kontantytelser som pasienten oppebærer etter folketrygdlovenoppsparte midler som skriver seg fra slike ytelser.\nRefusjon på mindre enn kr 100 pr. måned innkreves ikke.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Har pasienten under oppholdet i løpet av året annen inntekt enn folketrygdens ytelser som etter fradrag av skatt overstiger halve folketrygdens grunnbeløp pr. 1. januar hvert år, kan han pålegges å betale med inntil 75% av den overskytende inntekt. Det kan ikke kreves at pasienten betaler med oppsparte midler som skriver seg fra pasientens egen andel av slike inntekter.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Dersom pasienten har ektefelle som ikke er i institusjon, mindreårige barn mv., må det ved fastsettingen av betalingen tas hensyn til dette. Det skal også tas hensyn til om pasienten helt eller delvis forsørger barn over 18 år eller har forholdsvis store utgifter til egen bolig som vedkommende gjerne vil beholde.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Dersom pasientens økonomiske situasjon endrer seg, eller tidligere vedtak viser seg å bygge på uriktige opplysninger, kan saken tas opp til ny vurdering.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Pasienten, eventuelt pårørende eller verge, kan påklage det regionale helseforetakets vedtak til statsforvalteren.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2001. Fra samme tidspunkt oppheves forskrift av 16. januar 1978 nr. 2 om internatpasienters betaling for opphold i spesialsykehjem, i psykiatriske sykehjem og i helsevernet for epilektikere.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

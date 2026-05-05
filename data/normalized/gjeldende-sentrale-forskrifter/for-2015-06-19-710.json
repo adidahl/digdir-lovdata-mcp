@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2015-06-19-710",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om opptjening av pensjonsrettigheter i lovfestet offentlig tjenestepensjonsordning for personer som har midlertidig uførepensjon og uførepensjon",
+  "short_title": "Forskrift om uføres opptjening i off. tjenestepensjonsordning",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2015-06-19",
+  "lovdata_refid": "forskrift/2015-06-19-710",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-06-19-710",
+  "raw_xml_sha256": "52559c0002e2e3ea3087a063773e8d0071181db15f7c377c30fef51d5392fdf4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder opptjening av pensjonsrettigheter for personer som har midlertidig uførepensjon og uførepensjon fra Statens pensjonskasse, pensjonsordning for apotekvirksomhet mv. og pensjonsordning for sykepleiere.\nForskriften gjelder ikke når det er innvilget oppsatt uførepensjon etter lov om Statens pensjonskasse § 27 femte ledd og tilsvarende bestemmelser i de øvrige pensjonsordningene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Opptjening av pensjonsrettigheter",
+      "path": [],
+      "text": "Ved medregning av tjenestetid for tidsrom medlemmet har midlertidig uførepensjon eller uførepensjon, fastsettes opptjeningen i forhold til uføregraden i nevnte tidsrom.\nDersom uførepensjonen er redusert på grunn av arbeidsinntekt, legges utbetalingsgraden til grunn. Utbetalingsgraden framkommer ved å dividere den reduserte uførepensjonen med uførepensjonen beregnet etter 100 prosent uførhet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks og gis virkning fra 1. januar 2015.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

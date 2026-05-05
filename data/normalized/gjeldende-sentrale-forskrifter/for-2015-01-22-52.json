@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2015-01-22-52",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra samordning av alderspensjon fra tjenestepensjonsordning før 67 år eller avtalefestet pensjon fra 65 år beregnet som tjenestepensjon med uføretrygd eller arbeidsavklaringspenger fra folketrygden",
+  "short_title": "Forskrift om unntak fra samordning av alderspensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2015-01-01",
+  "last_change_in_force": "2026-02-23",
+  "last_changed_by": "forskrift/2026-02-23-263",
+  "lovdata_refid": "forskrift/2015-01-22-52",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-01-22-52",
+  "raw_xml_sha256": "7461a6174d63abb28bf5de0e07b639061d170b8ee74567af0e0bc647a36973a9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften kommer til anvendelse når det samtidig utbetalesdelvis alderspensjon før fylte 67 år og delvis uførepensjon fra tjenestepensjonsordning eller delvis avtalefestet pensjon fra 65 år som er beregnet som alderspensjon og delvis uførepensjon fra tjenestepensjonsordning oguføretrygd eller arbeidsavklaringspenger fra folketrygden.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Unntak fra samordning",
+      "path": [],
+      "text": "Det skal ikke gjøres samordningsfradrag i alderspensjonen eller den tjenestepensjonsberegnede avtalefestede pensjonen for uføretrygden eller arbeidsavklaringspengene fra folketrygden.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks og gis virkning fra 1. januar 2015.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

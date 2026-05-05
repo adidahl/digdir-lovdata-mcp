@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2009-06-05-598",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Reservasjonsregisteret",
+  "short_title": "Forskrift om Reservasjonsregisteret",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2009-06-05",
+  "last_change_in_force": "2018-07-20",
+  "last_changed_by": "forskrift/2018-06-27-1055 fra 2018-07-20",
+  "lovdata_refid": "forskrift/2009-06-05-598",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-06-05-598",
+  "raw_xml_sha256": "7117af410ea71abc846afcf71990924cfdc85ec5493bd8c47984df2734eea238",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Innledning",
+      "path": [],
+      "text": "Det skal føres et sentralt reservasjonsregister for direktemarkedsføring (Reservasjonsregisteret). Registeret føres av Registerenheten i Brønnøysund.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fremgangsmåten ved registrering m.m.",
+      "path": [],
+      "text": "Registerenheten fastsetter nærmere den tekniske fremgangsmåten ved registrering og hvilke opplysninger den enkelte må gi for å kunne foreta registrering eller sletting eller endring av registreringer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Utlevering av opplysninger m.m.",
+      "path": [],
+      "text": "Opplysninger fra Reservasjonsregisteret utleveres til næringsdrivende som markedsfører direkte, til andre som faller inn under markedsføringsloven § 12 eller § 13 og til de som skal oppdatere adresseregistre for direktemarkedsførere. Utleveringen skal skje på den måten, på de vilkår og til de priser som Registerenheten fastsetter. Prisene skal ikke overstige det som er nødvendig for å dekke kostnadene ved registeret inklusiv en forholdsmessig andel av felleskostnadene ved Registerenheten.\nBare opplysninger som er nødvendige for oppdatering av adresseregistre for direktemarkedsføring, utleveres. Fødselsnummer utleveres i tillegg bare på forespørsel og dersom det aktuelle adresseregisteret inneholder fødselsnummer. Utleverte opplysninger kan bare brukes til å oppdatere adresseregistre for direktemarkedsføring. Mottakeren kan bare bruke opplysningene til å oppdatere sitt eget adresseregister med mindre vedkommende har oppgitt til Registerenheten at opplysningene skal brukes til å oppdatere adresseregistre for andre som markedsfører direkte. I de tilfeller oppdatering skal skje for andre som markedsfører direkte, skal vedkommende dokumentere overfor Registerenheten at det foreligger en databehandleravtale.\nRegisterenheten kan som eget oppdrag til avtalt pris, ved bruk av data registrert i Reservasjonsregisteret, gjennomføre oppdatering av adresseregistre for direktemarkedsføring.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse og oppheving",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks. Fra samme tidspunkt oppheves kapittel 5 om Reservasjonsregisteret i forskrift 15. desember 2000 nr. 1265 om behandling av personopplysninger (personopplysningsforskriften).",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

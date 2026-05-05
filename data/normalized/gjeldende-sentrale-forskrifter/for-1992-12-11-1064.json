@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1992-12-11-1064",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring i norsk rett av EØS-avtalens vedlegg IV som retter seg mot private rettssubjekter (rådsdirektiv 76/491/EØF og 90/377/EØF) med hjemmel i lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 57 annet punktum.",
+  "short_title": "Forskrift om EØS-avtalen i norsk rett",
+  "department": "Energidepartementet",
+  "date_in_force": "1994-01-01",
+  "lovdata_refid": "forskrift/1992-12-11-1064",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-12-11-1064",
+  "raw_xml_sha256": "7336b22f7c65a7898d20d080f7a35ade5f938c5b92ff33cbc78f2b2af114c5da",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Departementet kan pålegge foretak å gi opplysninger som nevnt i EØS-avtalens vedlegg IV punkt 3 (Rådsdirektiv 76/491/EØF) artikkel 2 til departementet hvert kvartal.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Departementet kan pålegge foretak å gi opplysninger som nevnt i EØS-avtalens vedlegg IV punkt 7 (Rådsdirektiv 90/377/EØF) artikkel 1 til departementet 1. januar og 1. juli hvert år.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften gjelder ikke for Svalbard.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft fra den tid Avtalen om Det europeiske økonomiske samarbeidsområde trer i kraft for Norge.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

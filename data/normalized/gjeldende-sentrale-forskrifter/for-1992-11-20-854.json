@@ -1,0 +1,54 @@
+{
+  "id": "FOR-1992-11-20-854",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om registrering og melding av vigsel",
+  "short_title": "Forskrift om registrering og melding av vigsel",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "1993-01-01",
+  "last_change_in_force": "2021-01-01",
+  "last_changed_by": "forskrift/2020-12-18-2826 fra 2021-01-01",
+  "lovdata_refid": "forskrift/1992-11-20-854",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-11-20-854",
+  "raw_xml_sha256": "be950817749609489eafda7641bc640e964bde9d23dc40e990c208fa13a2aad4",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kap. 1. Registrering av vigsel"
+      ],
+      "text": "Det skal føres vigselsbok over vigsler som utføres avprest i Den norske kirkeperson som er tildelt vigselsrett i medhold av trossamfunnslovensærskilt oppnevnt vigsler etter ekteskapsloven § 12 eordfører, varaordfører eller kommunalt ansatt eller folkevalgt som kommunestyret selv har gitt vigselsmyndighet.\nVigselsboken skal føres av den som utfører vigselen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kap. 2. Melding om vigsel"
+      ],
+      "text": "Vigsleren skal snarest, og senest innen tre dager sende melding om vigselen til prøvingsmyndigheten.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kap. 2. Melding om vigsel"
+      ],
+      "text": "Meldingen sendes på blankett fastsatt av departementet eller elektronisk gjennom tilrettelagt digital løsning. Samtlige spørsmål skal besvares så langt de passer. Vigsler etter ekteskapsloven § 12, unntatt prest i Den norske kirke, skal, sammen med vigselsmeldingen, legge ved dokumentasjon for sin vigselsmyndighet. Kravet om å legge ved dokumentasjon for vigselsmyndighet gjelder ikke ved bruk av tilrettelagt digital løsning, som på en betryggende måte bekrefter at vigsler har vigselsmyndighet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kap. 3. Ikrafttreden"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 1993.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    }
+  ]
+}

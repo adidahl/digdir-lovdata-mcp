@@ -1,0 +1,105 @@
+{
+  "id": "LOV-2014-06-20-40",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om rituell omskjæring av gutter",
+  "short_title": "Lov om rituell omskjæring av gutter",
+  "department": "Helse- og omsorgsdepartementet",
+  "legal_area": "Helse- og omsorgsrett > Helsepersonell Helse- og omsorgsrett Strafferett > Alminnelig strafferett Strafferett > Utenfor straffeloven",
+  "date_in_force": "2015-01-01",
+  "lovdata_refid": "lov/2014-06-20-40",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2014-06-20-40",
+  "raw_xml_sha256": "d708656c4939316232ce37fe4effc96b6bf0f661d4f6e9ac7b54614ea15e1a83",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Lovens formål er å sikre at rituell omskjæring av gutter utføres på en forsvarlig måte, samt sikre at et tilbud om rituell omskjæring er tilgjengelig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjon av rituell omskjæring",
+      "path": [],
+      "text": "Med rituell omskjæring menes i denne lov et kirurgisk inngrep hvor forhud rundt penis fjernes helt eller delvis, og hvor formålet er religiøst begrunnet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Virkeområdet – forholdet til andre lover",
+      "path": [],
+      "text": "Loven gjelder den som tilbyr eller utfører rituell omskjæring i riket.\nVed utførelse av rituell omskjæring kommer helsepersonelloven og pasient- og brukerrettighetsloven til anvendelse så langt de passer. Pasient- og brukerrettighetsloven kapittel 2 kommer ikke til anvendelse.\nPasientskadeloven gjelder ved utførelse av rituell omskjæring.\nKongen kan gi forskrift om at loven helt eller delvis skal gjelde for Svalbard og Jan Mayen, og kan fastsette særlige regler under hensyn til de stedlige forholdene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Offentlig tilbud",
+      "path": [],
+      "text": "Regionale helseforetak i henhold til helseforetaksloven § 2 skal organisere spesialisthelsetjenesten slik at de som ønsker det innen helseregionen, kan få utført rituell omskjæring av gutter på en forsvarlig måte. I den grad det ikke hindrer et forsvarlig tilbud, skal det tas hensyn til helsepersonell som av samvittighetsgrunner ikke ønsker å utføre eller assistere ved slike inngrep.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Adgang til å utføre rituell omskjæring",
+      "path": [],
+      "text": "Rituell omskjæring av gutter skal utføres av lege.\nRituell omskjæring kan også utføres av andre dersom lege er til stede og står ansvarlig for inngrepet. Legen skal påse at inngrepet skjer i henhold til denne loven.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Smertelindring",
+      "path": [],
+      "text": "Rituell omskjæring av gutter kan bare utføres dersom det gis nødvendig smertelindring. Nødvendig smertelindring skal gis forut for, under og etter inngrepet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Informasjon",
+      "path": [],
+      "text": "Informasjon skal gis i samsvar med helsepersonelloven § 10. Informasjon skal også gis til gutten dersom han har nådd en alder og modenhet som er nødvendig for å forstå informasjonen.\nOpplysning om den informasjon som er gitt, skal nedtegnes i journal som nevnt i helsepersonelloven § 39.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Samtykke til rituell omskjæring",
+      "path": [],
+      "text": "Rituell omskjæring av gutter under 18 år kan bare utføres etter samtykke fra den eller de som har foreldreansvaret for gutten.\nGutter som er i stand til å danne seg egne synspunkter skal ha rett til informasjon om inngrepet og gis anledning til å si sin mening. Det skal legges behørig vekt på guttens mening i samsvar med alder og modenhet. Rituell omskjæring kan ikke utføres mot guttens vilje.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Straff",
+      "path": [],
+      "text": "En lege som forsettlig eller grovt uaktsomt overtrer lovens §§ 5-8, eller bestemmelser gitt i medhold av lovens § 3, straffes med bøter eller fengsel i inntil tre måneder.\nDen som uten å være lege forsettlig eller grovt uaktsomt overtrer lovens §§ 5-8, eller bestemmelser gitt i medhold av lovens § 3, straffes med bøter eller fengsel i inntil to år.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1 Kongen kan bestemme at de enkelte bestemmelsene skal tre i kraft til forskjellig tidspunkt.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Endringer i andre lover",
+      "path": [],
+      "text": "– – –",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

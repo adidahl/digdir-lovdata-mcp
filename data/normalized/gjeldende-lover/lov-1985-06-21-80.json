@@ -1,0 +1,61 @@
+{
+  "id": "LOV-1985-06-21-80",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om prokura [prokuraloven]",
+  "short_title": "Prokuraloven – prokl",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Anskaffelser, avtaler, bygg og entrepriser > Avtaler Selskaper, fond og foreninger > Selskaper. Statsforetak",
+  "date_in_force": "1988-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "lov/2025-06-20-106 fra 2026-01-01",
+  "lovdata_refid": "lov/1985-06-21-80",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1985-06-21-80",
+  "raw_xml_sha256": "183ab19d44c0f2db2b250f9b7285b5c14addcf3876ed0ddd32e176e0bfb9cc65",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Har en næringsdrivende gitt noen en fullmakt som uttrykkelig er kalt prokura, eller på annen måte betegnet noen som sin prokurist, er denne bemyndiget til å opptre på vegne av foretaket i alt som hører til driften av dette. Prokuristen kan likevel ikke uten uttrykkelig fullmakt overdra eller behefte foretakets faste eiendom eller løsøre som kan registreres i skipsregisteret eller luftfartøyregisteret, eller opptre på dets vegne i søksmål.\nOm registrering av prokura gjelder bestemmelsene i foretaksregisterloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Prokura kan gis flere personer slik at de bare kan nytte den i fellesskap (kollektivprokura). Annen innskrenkning i prokuristens fullmakt etter § 1 kan ikke registreres, jf. foretaksregisterloven § 3-4, og heller ikke gjøres gjeldende overfor godtroende tredjepart.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Når en prokurist tegner firmaet, skal han til dette gjøre en tilføyelse som viser prokuraforholdet (pr prokura, p p eller annen forkortelse av disse ord). For øvrig gjelder reglene om firmategning i foretaksnavneloven § 7-1.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "En prokurist kan ikke overføre prokuraen til en annen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Prokura kan når som helst tilbakekalles. Prokurafullmakten faller ikke bort om innehaveren av et registrert enkeltpersonforetak dør. Er enkeltpersonforetaket ikke registrert, gjelder regelen i avtaleloven § 21.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Loven tar til å gjelde fra den tid1 Kongen bestemmer.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

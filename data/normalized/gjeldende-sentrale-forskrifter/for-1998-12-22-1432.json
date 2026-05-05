@@ -1,0 +1,108 @@
+{
+  "id": "FOR-1998-12-22-1432",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring m.m. av undersøkelser for smittsom sykdom av biologisk materiale for ikke-diagnostiske formål.",
+  "short_title": "Forskrift om undersøkelser for smittsom sykdom",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1999-01-01",
+  "last_change_in_force": "2013-01-17",
+  "last_changed_by": "forskrift/2013-01-17-61",
+  "lovdata_refid": "forskrift/1998-12-22-1432",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-12-22-1432",
+  "raw_xml_sha256": "5ef66ae5cbce0ffca004c517ae84b99a8f3b40e63974bf110eb198f170fad532",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kap. 1. Formål, virkeområde, definisjoner"
+      ],
+      "text": "Forskriften har som formål at gjennomføring m.m. av undersøkelser av tilgjengelig biologisk materiale med henblikk på en smittsom sykdom skal skje forsvarlig slik at faglige og personvernmessige hensyn blir ivaretatt.\nForskriften har også til formål at resultatene av kartleggingsundersøkelser og metodeutprøving skal brukes til nytte for smittevernarbeidet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kap. 1. Formål, virkeområde, definisjoner"
+      ],
+      "text": "Denne forskriften gjelder for alle laboratorier eller institusjoner som utfører undersøkelser med henblikk på en smittsom sykdom i prøvemateriale fra mennesker.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kap. 1. Formål, virkeområde, definisjoner"
+      ],
+      "text": "Med biologisk materiale menes her prøver av blod, serum, vevsprøver, sekreter, urin, avføring, puss m.m. fra syke eller friske mennesker. Mikrobiologiske isolater omfattes ikke.\nMed tilgjengelig menes at materiale, som er avgitt/innsamlet i et bestemt øyemed, er oppbevart og kan stilles til disposisjon for annet formål.\nMed ikke-diagnostisk formål menes at biologisk materiale nyttes til analyser som utføres i annen hensikt enn diagnosestilling, valg av behandling eller kontroll av den som har avgitt materialet.\nMed kartleggingsundersøkelse forstås en systematisk undersøkelse av et antall prøver av en bestemt art med henblikk på en bestemt smittsom sykdom ved påvisning av smittestoffet direkte, eller av karakteristiske markører eller antistoffer. Seroepidemiologiske undersøkelser som brukes som betegnelse når prøvematerialet er serum, omfattes her av betegnelsen kartleggingsundersøkelser.\nMed metodeutprøving forstås en systematisk bruk av tilgjengelig biologisk materiale for å fastslå om en analysemetode egner seg for et gitt formål.\nMed avidentifisert forstås at opplysningene ikke er personidentifiserbare uten gjennom en kodenøkkel.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Faglige krav",
+      "path": [
+        "Kap. 2. Gjennomføring m.v."
+      ],
+      "text": "Kartleggingsundersøkelser og metodeutprøvinger skal utføres i henhold til vanlig god faglig praksis. Dette innebærer at det skal foreligge en begrunnelse, at utførelsen har god kvalitet og at resultatene vurderes korrekt. Det skal blant annet vurderes hvilke individuelle resultater som kan foranledige videre tiltak i smittevernøyemed, se § 2-4.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Personvern",
+      "path": [
+        "Kap. 2. Gjennomføring m.v."
+      ],
+      "text": "Prøvemateriale som nyttes til en undersøkelse som omfattes av denne forskriften, skal være avidentifisert. Kun laboratorieleder skal ha tilgang til opplysninger/kodenøkkel som forbinder opplysninger fra prøvematerialet med den person materialet stammer fra.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Rapportering",
+      "path": [
+        "Kap. 2. Gjennomføring m.v."
+      ],
+      "text": "Det laboratorium eller den institusjon som har ansvaret for gjennomføringen av en kartleggingsundersøkelse skal avgi rapport til Helsedirektoratet når undersøkelsen er avsluttet med tilråding om eventuelle tiltak.\nRapporteringsplikten kan oppfylles ved å publisere resultatene av undersøkelsen i fagtidsskrift. Resultater av metodeutprøvinger skal gjøres kjent for relevante laboratorier.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Tilbakeføring",
+      "path": [
+        "Kap. 2. Gjennomføring m.v."
+      ],
+      "text": "Gjøres det ved undersøkelser eller utprøvinger som omfattes av denne forskriften et analysefunn som viser at den person prøvematerialet stammer fra har en smittsom sykdom som kan behandles eller krever tiltak for å motvirke smitteoverføring, skal den som er ansvarlig for undersøkelsen/utprøvingen bringe personens identitet på det rene og underrette behandlende lege eller kommunelegen om funnet.\nLegen som blir underrettet, skal informere personen det gjelder om funnet og gi tilbud om videre diagnostikk og behandling samt gjennomføre tiltak som kan motvirke overføring av smitte. Er behandlende lege og kommunelegen ikke samme person skal oppfølgingen skje i samråd med kommunelegen. Foreligger det fare for smitteoverføring, skal kommunelegen treffe de nødvendige smitteforebyggende tiltak.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Økonomiske forhold",
+      "path": [
+        "Kap. 3. Andre bestemmelser"
+      ],
+      "text": "Et laboratorium eller en institusjon som har fått pålegg av Helsedirektoratet om å utføre en undersøkelse der tilgjengelig biologisk materiale nyttes, har krav på å få sine utgifter refundert av Helsedirektoratet. Undersøkelsen skal ikke settes i verk før et utgiftsbudsjett er satt opp og tilsagn om dekning av utgiftene er gitt.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kap. 3. Andre bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 1999.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

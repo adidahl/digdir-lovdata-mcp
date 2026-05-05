@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2017-12-15-2037",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunens myndighet i mindre vannkraftsaker",
+  "short_title": "Forskrift om kommunens myndighet i mindre vannkraftsaker",
+  "department": "Energidepartementet",
+  "date_in_force": "2018-01-01",
+  "lovdata_refid": "forskrift/2017-12-15-2037",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-15-2037",
+  "raw_xml_sha256": "f0320f0f2eb9af1a186578421d7210fa8ad014f04236e5fb920a49bd4cb44375",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Unntak fra kommunens myndighet etter vannressursloven § 64 annet ledd",
+      "path": [],
+      "text": "Kommunens myndighet til å treffe vedtak om konsesjon etter vannressursloven § 64 annet ledd omfatter ikke følgende vannkraftverk:vannkraftverk i vernede vassdragvannkraftverk i nasjonale laksevassdragvannkraftverk som berører flere kommunervannkraftverk i vassdrag der det er søkt om flere vannkraftverk som til sammen overstiger 1 MW installert effektvannkraftverk som er planlagt i kombinasjon med annen konsesjonspliktig utnyttelsevannkraftverk i vassdrag der det er flere planlagte vassdragstiltak som konkurrerer om samme vannressursvannkraftverk som bør vurderes sammen med andre prosjekter av hensyn til sumvirkninger.\nNorges vassdrags- og energidirektorat treffer vedtak for vannkraftverk som omfattes av unntakene i første ledd.\nAlle søknader om konsesjon sendes til Norges vassdrags- og energidirektorat, som videresender søknaden til den aktuelle kommunen dersom saken ikke er omfattet av noen av unntaksbestemmelsene i første ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Utøvelse av kommunens myndighet",
+      "path": [],
+      "text": "Kommunen skal ved utøvelse av myndighet etter vannressursloven § 64 annet ledd ta utgangspunkt i de til enhver tid gjeldende retningslinjer for små vannkraftverk som er fastsatt av Olje- og energidepartementet.\nFastsettelse av konsesjonsvilkår skal ta utgangspunkt i standardvilkår utarbeidet av energi- og vassdragsmyndighetene i samråd med andre myndigheter.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2018.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

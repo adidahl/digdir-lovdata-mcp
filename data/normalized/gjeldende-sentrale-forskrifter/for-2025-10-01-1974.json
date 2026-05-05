@@ -1,0 +1,77 @@
+{
+  "id": "FOR-2025-10-01-1974",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til lov 20. juni 2025 nr. 105 om Enhetsregisteret og lov 20. juni 2025 nr. 106 om Foretaksregisteret",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "last_change_in_force": "2026-01-09",
+  "last_changed_by": "forskrift/2026-01-09-22",
+  "lovdata_refid": "forskrift/2025-10-01-1974",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-10-01-1974",
+  "raw_xml_sha256": "c787192c5d93c815d85db0d574720e090073740795a3734ccb4e817df5604130",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Avregistrering av personer som er registrert i Foretaksregisteret med rollen observatør",
+      "path": [
+        "Kapittel 1. Overgangsregler om avregistrering av observatører og kontaktpersoner og om omregistrering av nestledere i styret"
+      ],
+      "text": "Registerføreren skal innen 1. juli 2026 avregistrere den som per 31. desember 2025 er registrert i Foretaksregisteret med rollen observatør. Registerføreren skal straks underrette foretaket om avregistreringen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Avregistrering av personer som er registrert i Enhetsregisteret som kontaktperson",
+      "path": [
+        "Kapittel 1. Overgangsregler om avregistrering av observatører og kontaktpersoner og om omregistrering av nestledere i styret"
+      ],
+      "text": "(1) Registerføreren skal innen 1. januar 2027 avregistrere den som per 31. desember 2025 er registrert i Enhetsregisteret som kontaktperson for en enhet som ikke skal ha kontaktperson registrert ifølge lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 4-2 andre ledd. Registerføreren skal straks underrette enheten om avregistreringen.(2) For enheter som skal ha kontaktperson registrert i Enhetsregisteret ifølge lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 4-2 andre ledd, men som per 31. desember 2025 har registrert to eller flere kontaktpersoner, skal registerføreren innen 1. juli 2026 sørge for at enheten bare har registrert én kontaktperson. Registerføreren skal underrette enheten og gi en rimelig frist til å angi hvilken kontaktperson enheten skal ha registrert. Dersom enheten ikke svarer innen fristen, skal kontaktpersonen som ble registrert sist i Enhetsregisteret forbli registrert. Registerføreren skal straks underrette enheten om avregistreringen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Omregistrering av personer som er registrert i Foretaksregisteret med rollen nestleder i styret",
+      "path": [
+        "Kapittel 1. Overgangsregler om avregistrering av observatører og kontaktpersoner og om omregistrering av nestledere i styret"
+      ],
+      "text": "Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den som per 31. desember 2025 er registrert i Foretaksregisteret med rollen nestleder i styret i et foretak som ikke er underlagt krav i lov eller i medhold av lov til å ha nestleder i styret. Registerføreren skal straks underrette foretaket om omregistreringen.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Omregistrering av personer som er registrert i Enhetsregisteret med rollen nestleder i styret",
+      "path": [
+        "Kapittel 1. Overgangsregler om avregistrering av observatører og kontaktpersoner og om omregistrering av nestledere i styret"
+      ],
+      "text": "Registerføreren skal innen 1. januar 2027 omregistrere til «styremedlem» den som per 31. desember 2025 er registrert i Enhetsregisteret med rollen nestleder i styret. Registerføreren skal straks underrette enheten om omregistreringen.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Sletting av opphørte enheter fra Enhetsregisteret",
+      "path": [
+        "Kapittel 2. Overgangsregler om sletting av opphørte enheter fra Enhetsregisteret"
+      ],
+      "text": "Inntil lov 20. juni 2025 nr. 105 om Enhetsregisteret (enhetsregisterloven) § 8-3 første ledd tredje og fjerde punktum trer i kraft, kan registerføreren slette en opphørt enhet fra Enhetsregisteret dersom følgende vilkår er oppfylt:registerføreren har sendt varsel om sletting som nevnt i enhetsregisterloven § 8-3 første ledd første og andre punktum til enheten og de som har meldeplikt etter enhetsregisterloven § 5-3, ogdet er ikke gitt opplysninger til registerføreren som sannsynliggjør at enheten fortsatt består innen fristen i varselet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    }
+  ]
+}

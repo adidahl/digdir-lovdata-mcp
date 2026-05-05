@@ -1,0 +1,79 @@
+{
+  "id": "FOR-2025-07-09-1510",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om enkelte spørsmål knyttet til saksbehandlingen hos namsmannen",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-07-09-1510",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-07-09-1510",
+  "raw_xml_sha256": "4340fc7f8c21fcc37272ba961c2c40b0da3da5e79a4704b81d712fcaf3468d03",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for alminnelig namsmann. For kommune som utøver namskompetanse etter tvangsfullbyrdelsesloven kapittel 2 avsnitt II, gjelder forskriften § 2.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Foreleggelse av begjæring om utlegg",
+      "path": [],
+      "text": "Samtidig som begjæringen forelegges, skal namsmannen gjøre saksøkte oppmerksom på at det kan tas utlegg i formuesgoder som tilhører saksøkte og at det kan besluttes utleggstrekk i saksøktes inntekt som sikkerhet for kravet. Dersom saksøkte er en privatperson, skal namsmannen i tillegg opplyse om hvilke opplysninger namsmannen har om saksøkte, og som er av betydning for en beslutning der utleggstrekkets størrelse skal fastsettes.\nOpplysninger som skal gis etter første ledd omfattersaksøktes inntekt og informasjon om hvordan inntekten er beregnetforskuddstrekk i saksøktes inntekt, som er lagt til grunn ved beregningenhvilke livsoppholdssatser som gjelder for saksøkte og saksøktes husstandsaksøktes øvrige utgifter til et rimelig livsopphold som namsmannen kjenner til eller har stipulert.\nNamsmannen skal gjøre saksøkte oppmerksom på at opplysningene nevnt i annet ledd vil bli lagt til grunn i vurderingen av utleggstrekkets størrelse, med mindre andre opplysninger blir sannsynliggjort.\nLøper det allerede utleggstrekk mot saksøkte, skal saksøkte forelegges opplysningene etter andre ledd bokstav c og d. Namsmannen skal i tillegg opplyse om trekkets størrelse. Samtidig skal saksøkte få opplysninger om hvor beregningsgrunnlaget for trekket finnes tilgjengelig, og hvordan saksøkte skal gå frem dersom saksøkte er uenig i opplysningene som er lagt til grunn i beregningsgrunnlaget.\nVed foreleggelse etter tvangsfullbyrdelsesloven § 2-17 femte ledd gjelder første ledd andre punktum, andre ledd og tredje ledd tilsvarende.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Automatisert innhenting av opplysninger fra banker og andre finansforetak",
+      "path": [],
+      "text": "Banker og andre finansforetak kan gi opplysninger etter tvangsfullbyrdelsesloven § 5-7 gjennom en automatisert oppslagstjeneste. Med automatisert oppslagstjeneste menes en teknisk løsning der opplysninger gjøres tilgjengelige gjennom et felles teknisk grensesnitt mellom namsmyndigheten og finansforetaket, i et forhåndsdefinert format og uten manuell behandling fra finansforetakets side.\nOppslagstjenesten kan benyttes til innhenting av følgende opplysninger:kontoeierskap,kontotype,saldo og beholdning, ogregistrerte heftelser.\nNamsmyndigheten skal blant annet sørge for sikker autentisering av forespørselen, angivelse av hjemmelen for forespørselen og logging av forespørsler og svar. Namsmyndigheten skal ha rutiner for å minimere og slette overskuddsinformasjon. Opplysningene som gis gjennom oppslagstjenesten, skal krypteres. Namsmyndigheten skal begrense hvilke ansatte som har tilgang til oppslagstjenesten, og tilgangen skal begrenses i omfang og tid etter den ansattes tjenstlige behov. Namsmyndigheten skal jevnlig føre kontroll med bruken av oppslagstjenesten, herunder ved bruk av automatisert logganalyse.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fordringshaveres innsyn i opplysninger om løpende utleggstrekk",
+      "path": [],
+      "text": "Saksøker med krav som deltar i utleggstrekk har rett til å få opplyst:summen av krav i trekket med bedre artsprioritet enn saksøkerens krav,summen av krav i trekket med lik artsprioritet som saksøkerens krav, samt kravenes samlede grunnlag for forholdsmessig fordeling etter dekningsloven § 2-8 tredje ledd,hvor mye av trekket som skal dekke uforfalte bidragskrav,datoen for sist gjennomførte trekk og hvilket beløp som ble trukket, oggjeldende beslutning om trekkets størrelse og hvem som er trekkpliktig.\nOpplysningene gjøres tilgjengelig for saksøker via elektronisk selvbetjeningstjeneste.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Kompetanse til å endre utleggstrekk i særlige situasjoner",
+      "path": [],
+      "text": "Er flere namsmenn kompetente etter tvangsfullbyrdelsesloven § 7-21 andre ledd andre punktum, treffes avgjørelse av den av de som først etablerte eller meldte krav inn i trekket.\nHar ingen av de aktuelle namsmenn etablert eller meldt krav inn i trekket, treffes avgjørelse av namsmannen i distriktet der saksøkte har bosted i henhold til folkeregisterloven kapittel 5 dersom saksøkte har bopel i flere namsmannsdistrikter. Har saksøkte ukjent adresse, treffes avgjørelse av namsmannen utpekt etter tvangsfullbyrdelsesloven § 7-3 tredje ledd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Deling av taushetsbelagte opplysninger med Innkrevingsmyndigheten",
+      "path": [],
+      "text": "Dersom Innkrevingsmyndigheten krever inn krav mot en skyldner, kan følgende opplysninger deles uten hinder av taushetsplikt:opplysninger om skyldnerens formuesgoder,opplysninger om skyldnerens lønnsinntekter og andre ytelser det kan besluttes utleggstrekk i,opplysninger som kan ha betydning ved en vurdering av hva skyldneren trenger til underhold av seg selv og sin husstand etter dekningsloven §§ 2-5 og 2-7,opplysninger om skyldnerens faktiske adresser, ogopplysninger som kan bidra til å ivareta skyldnerens eller tjenestepersons sikkerhet.\nOpplysninger kan deles med Innkrevingsmyndigheten uten hinder av taushetsplikt for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Deling av taushetsbelagte opplysninger med Innkrevingsmyndigheten under gradvis anvendelse av nytt regelverk for utlegg",
+      "path": [],
+      "text": "Alminnelig namsmann kan uten hinder av taushetsplikt dele opplysninger Innkrevingsmyndigheten trenger for å fastslå om nytt regelverk for utlegg har kommet til anvendelse for en skyldner.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2026. Bestemmelsene gjelder bare i saker som blir behandlet etter nytt regelverk for utlegg, jf. delegering 10. juni 2025 nr. 968 av Kongens myndighet etter innkrevingsloven § 40 andre og tredje ledd til Finansdepartementet.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

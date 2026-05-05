@@ -1,0 +1,67 @@
+{
+  "id": "LOV-1998-08-21-65",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om pensjonsordning for ballettdansere, sangsolister og korsangere ved Den Norske Opera & Ballett [operapensjonsloven]",
+  "short_title": "Operapensjonsloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Kultur, idrett og underholdning > Musikk og teater Pensjons- og trygderett",
+  "date_in_force": "1999-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "lov/2019-06-21-26 fra 2020-01-01",
+  "lovdata_refid": "lov/1998-08-21-65",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1998-08-21-65",
+  "raw_xml_sha256": "802ec27b2cb8ce03aa2328af2201db270012fe2c8613a396634d5548e8fbb044",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Hvem loven gjelder for",
+      "path": [],
+      "text": "Denne loven gjelder for ballettdansere, sangsolister og korsangere som er ansatt ved Den Norske Opera & Ballett.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Pensjonsordning",
+      "path": [],
+      "text": "Ballettdansere, sangsolister og korsangere er medlem i Statens pensjonskasse, med de rettigheter og de plikter som følger av lov av 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de unntakene som følger av loven her.\nBestemmelsen her gjelder bare for den som er fast ansatt eller midlertidig ansatt for minst ett år, og som arbeider minst 50 prosent av arbeidstiden i en hel stilling.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Aldersgrense og pensjonsalder",
+      "path": [],
+      "text": "Aldersgrensen er det tidspunktet når ballettdanserens, sangsolistens eller korsangerens ansettelse ved Den Norske Opera & Ballett opphører uten oppsigelse. For ballettdansere er denne grensen lik utgangen av den sesongen når vedkommende fyller 41 år, mens den for sangsolister og korsangere er lik utgangen av den sesongen når vedkommende fyller henholdsvis 52 og 56 år. Kunstneren kan likevel fortsette i aktiv, lønnet tjeneste ved Den Norske Opera & Ballett i inntil tre sesonger etter at aldersgrensen er nådd, når kunstneren og Operaen blir enige om det.\nPensjonsalderen er det tidspunktet når ballettdanseren, sangsolisten eller korsangeren tidligst kan ta ut alderspensjon. For ballettdansere og sangsolister er denne alderen lik aldersgrensen, mens den for korsangere er lik utgangen av den sesongen når vedkommende fyller 53 år.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregning av pensjon",
+      "path": [],
+      "text": "Beregning av pensjon skal skje etter reglene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse, med unntak av kapittel 5 a. Alderspensjon beregnes etter kapittel 5. Kravet til tjenestetid for rett til full pensjon for den som står i stilling ved pensjonering, er 20 år for ballettdansere og 23 år for sangsolister og korsangere.\nFor den som har rett til oppsatt pensjon, skal den oppsatte pensjonen utgjøre en så stor del av full pensjon som forholdet mellom opptjent tjenestetid og den tjenestetiden vedkommende ville fått fra den dagen han eller hun ble medlem i pensjonsordningen og fram til aldersgrensen, likevel ikke mer enn 40 år og ikke mindre enn 20 år for ballettdansere og 23 år for sangsolister og korsangere.\nEt medlem kan ha krav på et garantert pensjonsnivå etter reglene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse §§ 24 b og 24 c, likevel slik at kravet til full tjenestetid fastsettes etter første og andre ledd i bestemmelsen her.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Departementet kan gi utfyllende bestemmelser til §§ 2 til 4.\nKongen kan gi forskrifter om utbetalingstidspunktet for oppsatt pensjon som avviker fra bestemmelsene i lov av 28. juli 1949 nr. 26 om Statens pensjonskasse.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse. Overgangsregler",
+      "path": [],
+      "text": "Denne loven trer i kraft fra den tiden Kongen bestemmer.1 Den tiden ballettdanseren, sangsolisten eller korsangeren har vært omfattet av den tidligere avtalebaserte pensjonsordningen for det kunstneriske personalet ved Den Norske Opera & Ballett, regnes som pensjonsgivende tjenestetid etter denne loven. Loven griper ikke inn i rettigheter opptjent før loven trer i kraft. Kongen kan gi nærmere overgangsregler.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

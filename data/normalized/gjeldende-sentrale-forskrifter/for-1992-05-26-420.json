@@ -1,0 +1,74 @@
+{
+  "id": "FOR-1992-05-26-420",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om farlige næringsmiddelimitasjoner.",
+  "short_title": "Forskrift om næringsmiddelimitasjoner",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1992-07-01",
+  "last_change_in_force": "2003-11-06",
+  "last_changed_by": "forskrift/2003-11-06-1318",
+  "lovdata_refid": "forskrift/1992-05-26-420",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-05-26-420",
+  "raw_xml_sha256": "bc886191e9bdf9d3d4d6a22d9dd2bed25ad1c8a039b235fd83410c32d4ddeb19",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forbud",
+      "path": [],
+      "text": "Det er forbudt å tilvirke for videresalg, innføre for videresalg eller på annen måte omsette farlige næringsmiddelimitasjoner.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Departementet kan gjøre unntak fra denne forskrift.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjon",
+      "path": [],
+      "text": "1. Med næringsmiddelimitasjoner menes produkter som på tross av at de ikke er næringsmidler har en form, lukt, utseende, farge, presentasjonsform, merking, størrelse, volum el. som gjør at de, særlig av barn, kan forveksles med næringsmidler.2. Med farlige næringsmiddelimitasjoner menes produkter som er nevnt i § 3, nr. 1 dersom disse utgjør en risiko for helseskade. Det skal særlig vurderes om barn vil kunne foreta en slik forveksling og derved putte dem i munnen, suge på dem, inhalere dem el., og dette kan medføre fare i form av kvelning, forgiftning, perforering eller blokkering av spiserøret osv.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilsyn",
+      "path": [],
+      "text": "Departementet eller den departementet gir fullmakt, fører tilsyn med at denne forskrift følges.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Klage",
+      "path": [],
+      "text": "Enkeltvedtak departementet treffer i medhold av denne forskrift kan påklages Kongen i statsråd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av denne forskrift, eller vedtak truffet i medhold av forskriften, straffes etter lov om produktkontroll § 12, dersom ikke strengere straffebestemmelser kommer til anvendelse.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. juli 1992 for produsenter og importører og 1. oktober 1992 for detaljister.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "FOR-2001-11-04-1250",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gebyr for offentlig fastsettelse av barnebidrag",
+  "short_title": "Forskrift om gebyr for bidragsfastsettelse",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2002-06-01",
+  "last_change_in_force": "2018-04-01",
+  "last_changed_by": "forskrift/2018-03-13-339 fra 2018-04-01",
+  "lovdata_refid": "forskrift/2001-11-04-1250",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-11-04-1250",
+  "raw_xml_sha256": "100e8bd08c6a669e11d73983a2e0b6bf494cea583fd35a8d8347963411e8c95f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Når det skal fastsettes gebyr",
+      "path": [],
+      "text": "I saker der bidragsfogden fatter vedtak om fastsettelse eller endring av barnebidrag etter barneloven § 68, § 70 eller § 74 skal hver av partene betale et gebyr til staten.\nBidragsfogdens vedtak kan påklages til nærmeste overordnede organ eller det organ som Arbeids- og velferdsdirektoratet bestemmer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gebyrets størrelse",
+      "path": [],
+      "text": "Gebyret settes tilsvarende ett rettsgebyr etter lov om rettsgebyr av 17. desember 1982 nr. 86.\nHver av partene skal betale ett gebyr for hvert vedtak som fattes mellom samme parter.\nDer et krav om fastsettelse eller endring av barnebidrag medfører flere vedtak, skal partene likevel bare betale ett gebyr hver når vedtakene gjelder partenes felles barn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Parter som ikke ville hatt bidragsevne etter barnelova § 71 første ledd andre punktum vurdert som enslig uten barn, fritas for gebyr. Den som krever fritak for gebyr må selv dokumentere sine inntektsforhold overfor bidragsfogden på den måte som bidragsfogden bestemmer.\nFastsetter eller endrer bidragsfogden barnebidraget etter eget tiltak etter barneloven § 70 sjette ledd eller § 74 femte ledd eller § 75, skal det ikke betales gebyr. Det samme gjelder der bidragsfogden endrer bidraget etter eget tiltak etter forskotteringsloven § 3.\nDet skal ikke ilegges gebyr der Norges forpliktelser etter internasjonale konvensjoner og avtaler er til hinder for det.\nI tilfeller der det åpenbart ville være urimelig, kan bidragsfogden unnlate å ilegge gebyr.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Innkreving",
+      "path": [],
+      "text": "Gebyret innkreves av Innkrevingssentralen for bidrag og tilbakebetalingskrav etter reglene i lov 29. april 2005 nr. 20 om innkreving av underholdsbidrag mv. (bidragsinnkrevingsloven). Innkreves bidraget gjennom Innkrevingssentralen for bidrag og tilbakebetalingskrav, kan det tas dekning for gebyret i overføringen mellom partene.\nVed delinnbetalinger fra bidragspliktige dekkes løpende bidrag og bidragsgjeld før ilagt gebyr.\nMottar en eller flere parter bidragsforskott, kan det tas dekning for gebyret i bidragsforskottet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. juni 2002.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

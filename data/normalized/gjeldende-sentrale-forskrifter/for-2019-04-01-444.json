@@ -1,0 +1,74 @@
+{
+  "id": "FOR-2019-04-01-444",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elektronisk faktura i offentlige anskaffelser",
+  "short_title": "Forskrift om elektronisk faktura i offentlige anskaffelser",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2019-04-02",
+  "last_change_in_force": "2020-10-16",
+  "last_changed_by": "forskrift/2020-10-16-2063",
+  "lovdata_refid": "forskrift/2019-04-01-444",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-04-01-444",
+  "raw_xml_sha256": "ceccc9fbcf0db5966ff8e0c1cd8e34d136186fbf65a53d140b1f930cac99df5b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal fremme effektiv og miljøvennlig fakturahåndtering i offentlige anskaffelser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder fakturering knyttet til anskaffelser som er omfattet av anskaffelsesloven.\nForskriften gjelder for oppdragsgivere som angitt i anskaffelsesloven § 2 annet ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Elektronisk faktura",
+      "path": [],
+      "text": "Med elektronisk faktura menes betalingskrav som er utformet, oversendt og mottatt elektronisk fra fakturautsteder til fakturamottaker, og som kan behandles automatisk i fakturamottakers økonomisystem.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Godkjente standardformater",
+      "path": [],
+      "text": "Godkjente standardformater for fakturaer knyttet til kontrakter under EØS-terskelverdi er EHF (Elektronisk handelsformat) fakturering versjon 3.0 eller nyere og PEPPOL BIS (PEPPOL Business Interoperability Specification) Billing v3.0 eller nyere.\nGodkjente standarder for fakturaer knyttet til kontrakter over EØS-terskelverdi er EHF fakturering versjon 3.0 eller nyere, PEPPOL BIS Billing v3.0 eller nyere og andre godkjente standardformater som implementerer den europeiske normen for elektronisk faktura (EN16931).\nDigitaliseringsdirektoratet skal sørge for at lenker til godkjente standardformater finnes på sine nettsider som del av Referansekatalogen for IT-standarder som er obligatoriske eller anbefalte for offentlig sektor.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Oppdragsgiverens forpliktelser",
+      "path": [],
+      "text": "Oppdragsgiveren skal i sine kontrakter stille krav om bruk av elektronisk faktura i godkjent standardformat.\nDersom leverandøren ikke etterkommer krav om bruk av elektronisk faktura stilt i medhold av første ledd, kan oppdragsgiveren holde tilbake betaling inntil elektronisk faktura i godkjent standardformat leveres. Oppdragsgiveren skal uten unødig opphold gi melding om dette. Dersom slik melding er gitt, løper opprinnelig betalingsfrist fra tidspunktet elektronisk faktura i godkjent standardformat er levert.\nOppdragsgiveren skal kunne ta imot elektronisk faktura i standardformat gjennom PEPPOL-nettverket.\nOppdragsgiveren skal behandle faktura elektronisk.\nOppdragsgiveren skal kunne rapportere til Direktoratet for forvaltning og økonomistyring hvor mange fakturaer de mottar totalt og på godkjent standardformat.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Faktura eller fakturagrunnlag med sensitivt innhold",
+      "path": [],
+      "text": "Dersom opplysninger i faktura eller fakturagrunnlag inneholder opplysninger som er underlagt lovbestemt taushetsplikt, og det vil være fare for avsløring av slike opplysninger, kan krav om elektronisk faktura fravikes, med mindre det finnes tilfredsstillende tekniske sikringsløsninger som ivaretar konfidensialitet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 2. april 2019.\nForskriften gjelder fakturering knyttet til anskaffelser iverksatt etter forskriftens ikrafttredelse. En anskaffelse er iverksatt når den er kunngjort. En anskaffelse som ikke kunngjøres, er iverksatt når oppdragsgiveren har sendt ut en forespørsel til en eller flere leverandører om å melde sin interesse eller inngi tilbud i forbindelse med en planlagt anskaffelse.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

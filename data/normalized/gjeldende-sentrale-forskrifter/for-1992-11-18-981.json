@@ -1,0 +1,108 @@
+{
+  "id": "FOR-1992-11-18-981",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om saksbehandlingen for statsforvalteren ved separasjon og skilsmisse m.v.",
+  "short_title": "Forskrift om saksbehandling ved separasjon m.v.",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "1993-01-01",
+  "last_change_in_force": "2022-01-26",
+  "last_changed_by": "forskrift/2022-01-26-130",
+  "lovdata_refid": "forskrift/1992-11-18-981",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-11-18-981",
+  "raw_xml_sha256": "225d9e8248239edd632045527816f5750719c85dfa6a3cf5f9f7394d0fd469a3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kap. 1. Fellesregler for fremgangsmåten ved separasjon og skilsmisse"
+      ],
+      "text": "Ved søknad om separasjon og skilsmisse skal benyttes blankett fastsatt av departementet. Vigselsattest og gyldig meklingsattest må vedlegges. Det er kun i de tilfeller hvor partene har felles barn under 16 år meklingsattest må vedlegges.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Kap. 1. Fellesregler for fremgangsmåten ved separasjon og skilsmisse"
+      ],
+      "text": "Ektefellenes underskrift skal bekreftes av to vitterlighetsvitner, eller av en advokat eller offentlig tjenestemann, med mindre søknaden er sendt ved bruk av elektronisk kommunikasjon, og det er benyttet betryggende metode for å autentisere avsenderen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kap. 1. Fellesregler for fremgangsmåten ved separasjon og skilsmisse"
+      ],
+      "text": "På forespørsel fra foreldrene skal statsforvalteren orientere om foreldreansvar, hvor barna skal bo fast og samværsrett.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Reglene i dette kapittel gjelder når begge ektefeller eller en av dem søker skilsmisse etter §§ 21 eller 22.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Statsforvalteren skal i alle saker der det er mulig innhente skriftlig bekreftelse fra 2 vitner om at ektefellene har levet adskilt i separasjonstiden, og ikke gjenopptatt samlivet. Ved slik erklæring nyttes blankett fastsatt av departementet. Bekreftelsen må ikke være eldre enn 4 måneder.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Vitnene skal være over 18 år, og kjenne ektefellene eller en av dem.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Statsforvalteren kan, dersom det finnes hensiktsmessig, innkalle vitnene til personlig møte, jf ekteskapsloven § 29 første ledd. Dersom det på grunn av reiseavstanden eller av andre grunner er vanskelig for en part eller et vitne å møte hos statsforvalteren, kan statsforvalteren i stedet be for eksempel sosialkontoret eller familievernkontoret der parten eller vitnet bor om å innkalle vedkommende til en samtale. Fra slikt møte skal det settes opp rapport som sendes statsforvalteren.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Statsforvalteren kan for å opplyse saken innhente opplysninger fra andre offentlige myndigheter i den grad dette kan gjøres uten hinder av reglene om taushetsplikt, jf forvaltningsloven § 13 b nr. 5.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kap. 2. Særlig om adskillelseskravet i skilsmissesaker"
+      ],
+      "text": "Dersom ektefellenes eller vitnenes forklaring gir grunn til det, bør statsforvalteren gjøre disse kjent med sin adgang til å begjære bevisopptak ved domstolene, jf domstolsloven § 43 annet ledd, annet pkt.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 10",
+      "path": [
+        "Kap. 3. Ikrafttreden"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 1993.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    }
+  ]
+}

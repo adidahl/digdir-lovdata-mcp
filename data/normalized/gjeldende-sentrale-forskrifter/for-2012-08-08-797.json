@@ -1,0 +1,146 @@
+{
+  "id": "FOR-2012-08-08-797",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om infrastruktur for geografisk informasjon (geodataforskriften)",
+  "short_title": "Geodataforskriften",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2012-08-08",
+  "last_change_in_force": "2024-12-12",
+  "last_changed_by": "forskrift/2024-12-12-3070",
+  "lovdata_refid": "forskrift/2012-08-08-797",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-08-08-797",
+  "raw_xml_sha256": "bea878992c11c74153a52819267e6f52c8b4bc841b2bd04d5224bd5b600c16e2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Hvem forskriften gjelder",
+      "path": [],
+      "text": "Forskriften gjelder deltakende virksomheter etter geodataloven § 4 første ledd. Jordskifterettene regnes som deltakende virksomheter.\n§ 5, § 6, § 13 og § 14 gjelder også virksomheter som har offentlig ansvar, utfører offentlige oppgaver eller yter offentlige tjenester knyttet til miljøet, og som er under tilsyn av noen som nevnt i geodataloven § 4 første ledd bokstav a, b eller c.\nForskriften gjelder ikke Stortinget, Stortingets organer eller andre domstoler enn jordskifterettene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hva forskriften gjelder",
+      "path": [],
+      "text": "Forskriften gjelder virksomhetens geodatasett som er nødvendige for virksomhetens offentlige oppgaver, og tilhørende geodatatjenester, og omfatter:koordinatbasert referansesystemgeografiske rutenettsystemerstedsnavnadministrative enheteradressereiendomsteigertransportnetthydrografivernede områderhøydearealdekkeortofotogeologistatistiske enheterbygningerjordarterarealbrukmenneskers helse og sikkerhetallmennyttige og offentlige tjenesteranlegg for miljøovervåkingproduksjons- og industrianlegganlegg for landbruk og akvakulturbefolkningsfordelingrapporteringsenheter og områder med særlig forvaltning eller restriksjonerområder med naturbetingede fareratmosfæriske forholdmeteorologiske geografiske forholdoseanografiske geografiske forholdhavområderbiogeografiske områderhabitater og biotoperartsfordelingenergiressursermineralressurser.\nForskriften gjelder også geodatasett som inngår i det offentlige kartgrunnlaget og kommunalt planregister, jf. plan- og bygningsloven § 2-1 og § 2-2.\nFinnes det flere utgaver av et geodatasett, gjelder forskriften den utgaven som de andre kan avledes av.\nGeodatasett som andre enn deltakende virksomheter eller virksomheter etter § 1 andre ledd har immaterielle rettigheter til, omfattes bare når det foreligger avtale om det.\nForskriften gjelder ikke geodatasett som er merket eller skal merkes etter sikkerhetsloven § 11 og § 12.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften menes medgeodata: data i elektronisk form med direkte eller indirekte referanse til et bestemt sted eller geografisk områdegeodatasett: identifiserbar samling av geodatageodatatjeneste: operasjoner som kan utføres ved å opprette en forbindelse ved hjelp av et dataprogram, på geodata i geodatasett eller på tilknyttede metadatageografisk objekt: abstrakt representasjon av et virkelig fenomen knyttet til et bestemt sted eller geografisk områdeinfrastruktur for geografisk informasjon: fundament for tilgang til og anvendelse av geodatametadata: informasjon som beskriver geodatasett og geodatatjenester, og som gjør det mulig å finne fram til, liste opp og bruke geodata.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Nasjonal geodatakoordinator",
+      "path": [],
+      "text": "Statens kartverk er nasjonal geodatakoordinator.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Metadata",
+      "path": [],
+      "text": "Deltakende virksomheter og virksomheter etter § 1 andre ledd skal framstille og oppdatere metadata for geodatasett og tilhørende geodatatjenester. Metadataene skal publiseres gjennom den nasjonale geodataportalen, jf. § 8.\nEØS-avtalen vedlegg XX nr. 1ja (forordning (EF) nr. 1205/2008) om gjennomføring av direktiv 2007/2/EF med hensyn til metadata gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Kravene gjelder geodatasett og geodatatjenester etter § 2 første ledd. Kravene gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle slike geodata.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Harmonisering og samvirkningsevne",
+      "path": [],
+      "text": "Deltakende virksomheter og virksomheter etter § 1 andre ledd skal sørge for at geodatasett og tilhørende geodatatjenester kan virke sammen med andre geodatasett og geodatatjenester uten gjentatte manuelle inngrep, slik at verdien av geodatasettene og geodatatjenestene økes. Dette kan gjøres ved tilpasning eller gjennom omformingstjenester.\nEØS-avtalen vedlegg XX nr. 1je (forordning (EU) nr. 1089/2010) om gjennomføring av direktiv 2007/2/EF med hensyn til samvirkningsevnen til geodatasett og -tjenester med endringer (forordning (EU) nr. 102/2011, forordning (EU) nr. 1253/2013, forordning (EU) nr. 1312/2014 og forordning (EU) 2023/2431) gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Kravene gjelder geodatasett og tilhørende geodatatjenester etter § 2 første ledd. Kravene gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle slike geodata.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Nettjenester",
+      "path": [],
+      "text": "Deltakende virksomheter skal for geodatasett og geodatatjenester etter § 2 første ledd, opprette og drive et nett av følgende tjenester:søketjenester som gjør det mulig å søke etter geodatasett og geodatatjenester og vise metadatavisningstjenester som gjør det mulig å vise geodatasett med forklarende informasjon og tilhørende metadatanedlastningstjenester som gjør det mulig å laste ned eller få direkte tilgang til kopier av hele eller deler av geodatasettomformingstjenester som gjør det mulig å omdanne geodatasett slik at de kan virke sammen med andre geodatatjenester som gjør det mulig å aktivere geodatatjenester.\nEØS-avtalen vedlegg XX nr. 1jc (forordning (EF) nr. 976/2009) om gjennomføring av direktiv 2007/2/EF med hensyn til nettjenester med endringer (forordning (EU) nr. 1088/2010 og forordning (EU) nr. 1311/2014) gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig. Omformingstjenestene skal kombineres med de andre nettjenestene slik at de kan virke sammen, jf. § 6.\nBestemmelsen gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle geodata som nevnt i § 2 første ledd.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Nasjonal geoportal",
+      "path": [],
+      "text": "Statens kartverk skal tilby en geoportal med søke- og visningsfunksjoner til bruk for allmennheten. Portalen skal gi tilgang til geodatasett, metadata og nettjenester.\nGeodatasett og geodatatjenester som oppfyller kravene i § 5, § 6 og § 7 kan etter avtale med Statens kartverk kobles til geoportalen. I slike tilfeller gjelder § 9 til § 14 tilsvarende.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Tilgang til geodatatjenester",
+      "path": [],
+      "text": "Nettjenestene skal være tilgjengelige for allmennheten via Internett eller andre elektroniske kommunikasjonstjenester. Søketjenester og visningstjenester skal være gratis tilgjengelige for allmennheten. Data som er gratis tilgjengelige gjennom visningstjenester, kan være i en form som hindrer viderebruk i næringsvirksomhet.\nVisningstjenester for bruk i næringsvirksomhet og andre geodatatjenester kan gjøres tilgjengelige mot betaling. Når det kreves betaling, skal tjenester for elektronisk handel være tilgjengelige.\nTilgang til geodatatjenester kan gjøres avhengig av at brukeren aksepterer vilkår for betaling, bruk og viderebruk. Avgjørelse om å nekte tilgang fordi gjeldende vilkår ikke aksepteres, kan ikke påklages.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Begrensninger i tilgangen",
+      "path": [],
+      "text": "Tilgang til geodatasett og geodatatjenester skal ikke gis i strid med lovpålagt taushetsplikt.\nBestemmelsene om unntak fra innsynsrett i offentleglova gjelder tilsvarende for offentlig tilgang til geodatasett og geodatatjenester gjennom visningstjenester, nedlastingstjenester, omformingstjenester og aktiveringstjenester og tilhørende tjenester for elektronisk handel. Slik tilgang kan også begrenses av hensyn tilpersonvernetden som har lagt fram den aktuelle informasjonen uten å være rettslig forpliktet til det, med mindre vedkommende gir samtykke til at informasjonen utleveresvernet av miljøet som informasjonen gjelderimmaterielle rettigheter.\nAdgangen til å begrense tilgangen etter andre ledd gjelder også for søketjenester når unntaket er begrunnet i hensynet til internasjonale forbindelser, offentlig sikkerhet eller nasjonalt forsvar.\nSelv om det er adgang til å begrense tilgangen etter andre og tredje ledd, skal den virksomheten som driver nettjenesten vurdere om det skal gis hel eller delvis tilgang. Allmennhetens interesse av tilgang skal avveies mot interessen som ivaretas ved begrensninger i eller vilkår for slik tilgang. Begrensninger som gjelder tilgang til informasjon om utslipp til miljøet kan kun gjøres gjeldende etter andre ledd av hensyn til internasjonale forbindelser, offentlig sikkerhet, nasjonalt forsvar eller immaterielle rettigheter.\nAdgangen til å begrense tilgangen etter andre og tredje ledd, begrenser ikke allmennhetens rett til innsyn etter offentleglova og annen lovbestemt rett til innsyn.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Deling av geodata og geodatatjenester mellom deltakende virksomheter",
+      "path": [],
+      "text": "Tiltak for deling av data etter geodataloven § 6 skal ikke føre til praktiske hindringer for tilgang til geodata og geodatatjenester på brukerstedet. Deltakende virksomheter skal gi hverandre bruksrett til geodatasett og tilhørende geodatatjenester. Bruksretten omfatter alle former for bruk i egen virksomhet og virksomhetens utadrettede informasjons- og veiledningsarbeid. Deltakende virksomheter skal ha teknisk mulighet til å koble geodata og geodatatjenester til den geografiske infrastrukturen.\nDeltakende virksomheter kan for sine offentlige oppgaver gi en underleverandør tilgang til geodata og geodatatjenester som de selv har bruksrett til. Underleverandøren erverver ingen rettigheter til geodata eller geodatatjenester.\nDeltakende virksomheter skal betale et årlig vederlag for bruksretten. Vederlaget skal fastsettes på grunnlag av nytteverdien hver virksomhet har av å dele geodata og geodatatjenester, sett i forhold til nytteverdien for de andre deltakende virksomhetene.\nDeltakende virksomheter kan begrense deling som kan sette behandling av saker ved domstolene, offentlig sikkerhet, nasjonalt forsvar eller internasjonale forbindelser i fare.\nMiljøverndepartementet kan fastsette vilkår for bruk og viderebruk, de årlige vederlagene og tilbakebetalingen mellom de deltakende virksomhetene, og gi andre pålegg om deling av geodata og geodatatjenester. Slike pålegg kan ikke påklages.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Deling av geodata og geodatatjenester med institusjoner i andre land",
+      "path": [],
+      "text": "Deltakende virksomheter skal gi EU- og EØS-institusjoner, offentlig forvaltning og andre institusjoner som utfører offentlige forvaltningsoppgaver i andre EØS-stater, tilgang til geodatasett og geodatatjenester etter § 2 første ledd for utføring av oppgaver som kan påvirke miljøet. Tilgang skal gis via nettjenestene nevnt i § 7. Avtale om eller tillatelse til slik tilgang kan inngås av berørte deltakende virksomheter selv eller av Statens kartverk med hjemmel i geodataloven § 7 første ledd. Avtale eller tillatelse som vedrører EU- og EØS-institusjoner skal være i samsvar med kravene i fjerde ledd.\nBestemmelsen gjelder tilsvarende overfor institusjoner opprettet ved internasjonale avtaler som Norge og EU er parter i, og for tilgang til nettjenestene via den felleseuropeiske geoportalen INSPIRE.\nBestemmelsen gjelder for kommuner og fylkeskommuner når de etter annen lov eller forskrift har plikt til å samle inn eller formidle geodata som nevnt i § 2 første ledd.\nEØS-avtalen vedlegg XX nr. 1jd (forordning (EU) nr. 268/2010) om gjennomføring av direktiv 2007/2/EF med hensyn til Fellesskapets institusjoners og organers tilgang til medlemsstatenes geodatasett og -tjenester på harmoniserte vilkår, gjelder som forskrift med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.\nDet kan med hjemmel i lov knyttes vilkår til bruken av geodata og geodatatjenester. Eventuell betaling skal settes så lavt som mulig og ikke overstige en forholdsmessig andel av kostnadene ved innsamling, produksjon, reproduksjon, formidling og en rimelig avkastning på investeringen. Deltakende virksomheter kan ikke kreve betaling for geodata og geodatatjenester som leveres til EØS-institusjoner for å oppfylle EØS-avtalens rapporteringsplikter knyttet til miljøet. § 11 gjelder ellers så langt den passer.\nDersom Statens kartverk har inngått avtale om datadeling med institusjoner i andre land, skal berørte deltakende virksomheter snarest informeres. Tilsvarende skal deltakende virksomheter som inngår slik avtale, informere Statens kartverk.\nStatens kartverk kan pålegge deltakende virksomheter å rette mangler ved delingen når det er nødvendig for å oppfylle kravene i første ledd. Slike pålegg kan ikke påklages.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Koordinering og samarbeid om infrastrukturen",
+      "path": [],
+      "text": "Statens kartverk skal koordinere arbeidet med den geografiske infrastrukturen med bistand fra en samordningsgruppe. Gruppen oppnevnes av Miljøverndepartementet etter forslag fra deltakende virksomheter.\nDeltakende virksomheter og virksomheter etter § 1 andre ledd skal bistå Statens kartverk med å identifisere relevante geodata, klarlegge brukerbehov og ellers bidra til gjennomføringen av geodataloven. To deltakende virksomheter kan avtale at den ene gjør geodatasett tilgjengelige etter kravene i § 5, § 6, § 7, § 11 eller § 12 på vegne av den andre. Statens kartverk og deltakende virksomheter skal samarbeide med tilsvarende organer i nabolandene for å sikre at geodata knyttet til geografiske objekter som strekker seg over grensen til andre EØS-stater, kan virke sammen.\nStatens kartverk skal sikre at teknisk dokumentasjon om den geografiske infrastrukturen er tilgjengelig.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Kontroll og rapportering",
+      "path": [],
+      "text": "Statens kartverk skal kontrollere gjennomføringen og bruken av infrastrukturen for geografisk informasjon og publisere resultatene i en fast oppsummeringsrapport. Rapporten skal oppdateres hvert år innen 31. mars og skal inkludere en sammenfattende beskrivelse avhvordan koordinering og kvalitetssikring mellom leverandører og brukere av geodata og geodatatjenester i offentlig sektor er organisert, bruken av formidlingsorganer og forholdet til andre brukerehvordan deltakende virksomheter og andre deltakere bidrar til samordningen av infrastrukturen og hvordan den virkerbruken av infrastrukturenavtaler om deling av datakostnader og nytte ved gjennomføringen av geodataloven.\nRapporter og resultatindikatorer skal utarbeides i samsvar med EØS-avtalen vedlegg XX nr. 1jb (gjennomføringsbeslutning (EU) 2019/1372) om gjennomføring av europaparlaments- og rådsdirektiv 2007/2/EF med hensyn til overvåking og rapportering med de tilpasninger som følger av vedlegg XX, protokoll 1 til avtalen og avtalen for øvrig.\nDeltakende virksomheter og virksomheter etter § 1 andre ledd skal bidra med nødvendig informasjon om egen virksomhet og eget ansvarsområde. Statens kartverk kan gi pålegg og sette krav til virksomhetenes rapportering. Slike pålegg kan ikke påklages.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Gjennomføringsfrister",
+      "path": [],
+      "text": "Metadata for geodatasett og geodatatjenester etter § 2 første ledd nummer 1 til 13 skal være etablert etter kravene i § 5 andre ledd innen 3. desember 2013. Metadata for geodatasett og geodatatjenester etter § 2 første ledd nummer 14 til 34 skal være etablert etter kravene i § 5 andre ledd innen 3. desember 2016. Andre krav til metadata etter § 5 skal være oppfylt innen 9. mai 2014.\nGeodatasett etter § 2 første ledd skal være tilgjengelige med samvirkningsevne etter kravene i § 6 andre ledd innen23. november 2015 for data etter nummer 1 til 9 som nyetableres eller gjennomgår vesentlig omstrukturering21. oktober 2018 for data etter nummer 10 til 34 som nyetableres eller gjennomgår vesentlig omstrukturering23. november 2020 for andre data etter nummer 1 til 921. oktober 2023 for andre data etter nummer 10 til 34.\nAktiverbare geodatatjenester som opererer på geodatasett etter § 2 første ledd, skal ha samvirkningsevne etter kravene i § 6 andre ledd innen10. desember 2018 i samsvar med forordning (EU) nr. 1089/2010 vedlegg V10. desember 2019 i samsvar med forordning (EU) nr. 1089/2010 vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på datasett som er nyetablert eller har gjennomgått vesentlig omstrukturering i samsvar med forordning (EU) nr. 1089/201010. desember 2024 i samsvar med forordning (EU) nr. 1089/2010 vedlegg VI, og dersom det er mulig vedlegg VII, for tjenester som opererer på andre datasett som er strukturert i samsvar med forordning (EU) nr. 1089/2010.\nAndre krav til harmonisering og samvirkningsevne etter § 6 skal være oppfylt innen 9. mai 2014.\nSøke- og visningstjenester for geodatasett og geodatatjenester som det er etablert metadata for, skal leveres etter kravene i § 7 andre ledd med innledende driftskapasitet innen 9. mai 2014 og med full driftskapasitet innen 9. november 2014. Nedlastnings- og omformingstjenester for geodatasett og geodatatjenester som det er etablert metadata for, skal leveres etter kravene i § 7 andre ledd med innledende driftskapasitet innen 28. juni 2015 og med full driftskapasitet innen 28. desember 2015. Alle nettjenester skal håndtere nye krav til metadata som følger av forordning (EU) nr. 1311/2014 innen 31. desember 2017.\nEn nasjonal geoportal etter § 8 første ledd skal være etablert innen 9. mai 2014.\nNye avtaler eller tillatelser om deling av geodata og geodatatjenester som vedrører EU- og EØS-institusjoner, skal oppfylle kravene i § 12 fjerde ledd innen 19. oktober 2014. Eksisterende avtaler eller tillatelser skal endres slik at de oppfyller kravene ved fornyelse og senest innen 19. april 2016.\nStatens kartverk skal utarbeide resultatindikatorer etter § 14 fra og med rapporteringsåret 2012. Statens kartverk skal publisere resultatindikatorer og utarbeide rapporten etter § 14 første gang innen 15. mai 2013.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.\nFra samme tidspunkt oppheves forskrift 3. september 2010 nr. 1247 om nasjonal geodatakoordinator.",
+      "xml_path": "article#paragraf-16"
+    }
+  ]
+}

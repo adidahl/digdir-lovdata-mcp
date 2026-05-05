@@ -1,0 +1,59 @@
+{
+  "id": "LOV-2019-11-29-75",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om informasjonstilgang m.m. for Partnerdrapsutvalget",
+  "short_title": "Lov om informasjonstilgang m.m. for Partnerdrapsutvalget",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Strafferett > Vold Strafferett > Vold > Drap",
+  "date_in_force": "2019-11-29",
+  "last_change_in_force": "2020-12-15",
+  "last_changed_by": "lov/2019-11-29-75 fra 2020-12-15",
+  "lovdata_refid": "lov/2019-11-29-75",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2019-11-29-75",
+  "raw_xml_sha256": "615a728130a40fd1e73dda746612d15630be39d1db0a73fbaf535212476770cb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formålet med loven",
+      "path": [],
+      "text": "Formålet med loven er å gi utvalg oppnevnt av Kongen i statsråd 12. oktober 2018, som skal gjennomgå saker med drap der gjerningspersonen er daværende eller tidligere partner, tilgang til opplysninger som er nødvendige for å avdekke om, i hvilken grad og eventuelt på hvilken måte det har forekommet svikt i det offentlige tjenesteapparatets håndtering i forkant av disse sakene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Taushetsplikt",
+      "path": [],
+      "text": "Bestemmelsene i forvaltningsloven §§ 13 til 13 f om taushetsplikt gjelder for enhver som utfører tjeneste eller arbeid for utvalget, med følgende særregler:Taushetsplikten bortfaller etter 100 år.Forvaltningsloven § 13 b første ledd nr. 6 gjelder ikke.Hvis personer omfattet av denne paragrafen mottar opplysninger som er undergitt strengere taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Forholdet til arkivregelverket",
+      "path": [],
+      "text": "Arkivmateriale som ikke skal avleveres til Arkivverket skal kasseres når utvalget har avsluttet sitt arbeid.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Forbud mot bruk av opplysninger som bevis i senere straffesak eller sivil sak",
+      "path": [],
+      "text": "Opplysninger som er mottatt i medhold av § 3, kan ikke brukes som bevis i en senere straffesak eller sivil sak.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Loven trer i kraft straks. §§ 2, 3 og 5 oppheves når utvalget har levert sin utredning.1",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "id": "FOR-2023-12-12-2083",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Mellombels forskrift om sensurfristar ved Norges Handelshøyskole (NHH)",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "Frå og med eksamenar avlagt i vårsemesteret 2024 til og med eksamenar avlagt i haustsemesteret 2024",
+  "lovdata_refid": "forskrift/2023-12-12-2083",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-12-12-2083",
+  "raw_xml_sha256": "10c5f037d0ef8c110be11c8a26c3dbf3ba0954038688a279b805703115fc44da",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Område denne forskrifta gjeld for",
+      "path": [],
+      "text": "Forskrifta gjeld nærare oppgjevne eksamenar i bachelorstudiet i økonomi og administrasjon og for autorisasjonsprøve i oversettelse (translatøreksamen) ved Norges Handelshøyskole.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kunngjeringsdatoar for ordinære eksamenar i bachelorstudiet i økonomi og administrasjon",
+      "path": [],
+      "text": "Sensur vert kunngjort seinast fire veker etter eksamensdagen i RET1 Rettslære for økonomar.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kunngjeringsdatoar for heimeeksamen i autorisasjonsprøve i oversettelse",
+      "path": [],
+      "text": "Sensur vert kunngjort seinast fem veker etter eksamensdagen ved heimeeksamen i autorisasjonsprøve i oversettelse.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikraftsetjing m.m.",
+      "path": [],
+      "text": "Forskrift tek til å gjelde frå og med eksamenar avlagt i vårsemesteret 2024 og gjeld til og med eksamenar avlagt i haustsemesteret 2024. For eksamen i emne som ikkje er nemnd i forskrift, gjeld fristen på tre veker etter lov om universiteter og høyskoler.\nUnntak for ordinær sensurfrist gjeld det semesteret emnet vert undervist.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

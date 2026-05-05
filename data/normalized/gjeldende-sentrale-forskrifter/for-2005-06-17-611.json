@@ -1,0 +1,228 @@
+{
+  "id": "FOR-2005-06-17-611",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Norsk overvåkingssystem for antibiotikabruk og helsetjenesteassosierte infeksjoner (NOIS-registerforskriften)",
+  "short_title": "NOIS-registerforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2005-07-01",
+  "last_change_in_force": "2021-11-19",
+  "last_changed_by": "forskrift/2021-11-19-3235",
+  "lovdata_refid": "forskrift/2005-06-17-611",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-06-17-611",
+  "raw_xml_sha256": "35ba5f46c902e3c5830f5ec75218952fbbbff7e9064523ad382580f0ef70abc2",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Etablering av Norsk overvåkingssystem for antibiotikabruk og helsetjenesteassosierte infeksjoner i sykehjem og spesialisthelsetjenesten",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften etablerer et landsomfattende Norsk overvåkingssystem for antibiotikabruk og helsetjenesteassosierte infeksjoner i sykehus, dagkirurgiske klinikker og sykehjem. Forskriften gir regler for innsamling og behandling av helseopplysninger i overvåkingssystemet.\nInnsamling og behandling av helseopplysninger i registeret skjer etter nærmere bestemmelser fra Helsedirektoratet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Registerets formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Registeret skal bidra til overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner hos pasienter i sykehus, dagkirurgiske klinikker og sykehjem gjennom systematisk fortløpende eller periodisk innsamling av data. Rapportering, tolkning og analyse av data fra disse virksomhetene jf. § 1-3 annet ledd, skal legge grunnlaget for åovervåke antibiotikabruk og forekomsten av helsetjenesteassosierte infeksjoner i virksomhetene over tid,oppdage og bidra til oppklaring av utbrudd av helsetjenesteassosierte infeksjoner,evaluere tiltak for rasjonell antibiotikabruk og virkninger av smitteverntiltak i virksomhetene,gi råd til helsepersonell, virksomheter og forvaltning om antibiotikabruk og smitteverntiltak,gi grunnlag for forskning om antibiotikabruk og forskning om helsetjenesteassosierte infeksjoner i sykehus, dagkirurgiske klinikker og sykehjem,bidra med data til europeisk overvåking av antibiotikabruk og helsetjenesteassosierte infeksjoner.\nOpplysninger i registeret kan foruten de formål som nevnt ovenfor, behandles til styring, planlegging og kvalitetssikring av helse- og omsorgstjenesten og helse- og omsorgsforvaltningen, samt til utarbeiding av statistikk og til forskning.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Innholdet i registeret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Registeret kan inneholde avidentifiserte helseopplysninger om hvorvidt personer som følges opp under og etter et opphold i sykehus, dagkirurgiske klinikker og sykehjemhar mottatt antibiotika for forebygging eller behandlinghar blitt påført en helsetjenesteassosiert infeksjon.\nHelsedirektoratet gir nærmere bestemmelser om antibiotikabruk som skal rapporteres, hvilke infeksjoner som skal rapporteres, hvilke sykehus, dagkirurgiske klinikker, sykehjem og pasientgrupper, jf. første ledd som skal inkluderes i registeret og hvilke som skal delta i prevalens- eller insidensundersøkelser.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-3a",
+      "heading": "Avidentifiserte opplysninger",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Med avidentifiserte opplysninger i denne forskriften forstås helseopplysninger der navn, fødselsnummer og andre personentydige kjennetegn er fjernet, slik at opplysningene ikke lenger kan knyttes til en enkeltperson, og hvor identitet bare kan tilbakeføres ved sammenstilling med de samme opplysninger som tidligere ble fjernet.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-4",
+      "heading": "Forbud mot bruk",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Opplysningene i registeret kan ikke anvendes til formål som er uforenelig med formål som nevnt i § 1-2.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-5",
+      "heading": "Dataansvarlig",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet er dataansvarlig for registeret.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-6",
+      "heading": "Databehandler",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet kan inngå skriftlig avtale med en databehandler om innsamling og behandling av helseopplysninger i registeret, herunder om overvåking og forskning, jf. § 1-2, drift og kvalitetssikring av registeret, samt tilgjengeliggjøring av data.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-7",
+      "heading": "Opplysninger i registeret",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Registeret kan inneholde følgende opplysninger om personer som tilhører de pasientgrupper som er bestemt inkludert i registeret, jf. § 1-3 annet ledd.avidentifiserte personopplysninger:virksomhetens løpenummer for pasienten,pasientens kjønn,pasientens fødselsår.administrative opplysninger:innleggelsesdato, utskrivingsdato og oppfølgingsdatoer,virksomhet der pasienten var innlagt og avdelingstype,om operasjonen, som operasjonskode, -type, -dato, -klokkeslett og -varighet,bruk av pasientnært utstyr; type og varighet.medisinske opplysninger:om forebyggende antibiotikabruk og antibiotikabruk som ikke relaterer seg til helsetjenesteassosierte infeksjoner, herunder indikasjon, virkestoff(er), dose, varighet og administrasjonsmåte.om antatt disponerende faktorer for helsetjenesteassosierte infeksjoner,om type infeksjon og innsykningsdato,om smittestoffet inkludert antibiotikaresistens,om antibiotikabehandling, varighet og eventuelle følgetilstander,status ved utskrivelse og i oppfølgingsperioden.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-8",
+      "heading": "Koding og klassifisering av opplysningene i registeret, krav til dokumentasjon, kvalitetskontroll",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Folkehelseinstituttet skal sørge for at helseopplysninger som behandles i registeret, er korrekte, relevante og nødvendige for de formål de innsamles for, jf. § 1-2. Folkehelseinstituttet skal ved enhver registrering i registeret kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet.\nDepartementet kan gi nærmere bestemmelser om hvilke nasjonale eller internasjonale kodeverk og klassifikasjoner som skal benyttes ved registrering av opplysninger i registeret.\nDersom meldingsskjema er mangelfullt utfylt, skal avsenderen av opplysningene varsles, jf. helseregisterloven § 13 andre ledd andre punktum.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Virksomhetenes deltaking i overvåkingssystemet",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til registeret mv."
+      ],
+      "text": "Virksomheter som behandler pasienter i pasientgrupper, jf. forskriften § 1-3 annet ledd, skal delta i overvåkingssystemet for antibiotikabruk og helsetjenesteassosierte infeksjoner i sykehjem og spesialisthelsetjenesten dersom ikke dataansvarlig har fritatt dem for deltakelse.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Helsepersonellets meldingsplikt av opplysninger til registeret",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til registeret mv."
+      ],
+      "text": "Helsepersonell ved virksomheter som behandler pasienter i pasientgrupper, jf. forskriften § 1-3 annet ledd, skal melde opplysninger som nevnt i § 1-7 til registeret.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Meldingsskjema, formkrav",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til registeret mv."
+      ],
+      "text": "Melding av opplysninger som nevnt i § 2-2, skal skje som fastsatt av Helsedirektoratet etter nærmere bestemmelser om form, innhold og frister for melding til registeret.\nHelsedirektoratet kan gi pålegg om bruk av standardiserte meldingsformater ved forsendelsen av opplysningene.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Virksomhetens plikter",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til registeret mv."
+      ],
+      "text": "Ledelsen ved virksomheter er ansvarlig for registrering av opplysninger som skal meldes til registeret, jf. § 1-7, og har ansvar for at pliktene som nevnt i § 2-1 til § 2-3, oppfylles, og skal sørge for at det finnes rutiner som sikrer dette.\nLedelsen ved virksomhetene skal påse at resultatene av overvåkingen sendes til Folkehelseinstituttet.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Rapportering fra registeret",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til registeret mv."
+      ],
+      "text": "Folkehelseinstituttet skal sørge for regelmessig rapportering om forekomsten av antibiotikabruk og helsetjenesteassosierte infeksjoner til de aktuelle delene av helsetjenesten, jf. § 1-2, gjennom å offentliggjøre årlige oversikter om antibiotikabruk og om forekomst av helsetjenesteassosierte infeksjoner i virksomhetene i landet.\nFolkehelseinstituttet skal ivareta rapportering om antibiotikabruk til Verdens helseorganisasjon og forekomst av helsetjenesteassosierte infeksjoner til EU-kommisjonen jf. vedtak 2119/98/EF. Slike opplysninger skal være avidentifiserte.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 3. Behandling av helseopplysninger i registeret"
+      ],
+      "text": "Helseopplysninger i NOIS-registeret skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven §§ 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Informasjonsstrategi rettet mot brukergrupper",
+      "path": [
+        "Kapittel 3. Behandling av helseopplysninger i registeret"
+      ],
+      "text": "For å fremme bruk av data fra registeret og for å bygge opp informasjon og kunnskap, jf. forskriften § 1-3, skal Folkehelseinstituttet ha en aktiv informasjonsstrategi og -plan rettet mot så vel helse- og omsorgsforvaltningen, helse- og omsorgstjenesten og øvrig forvaltning, som mot forskere innen medisinsk forskning, helse- og omsorgstjenesteforskning og samfunnsforskning.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet og databehandleren skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Plikt til internkontroll",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Folkehelseinstituttet skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysingsloven og helseregisterloven, jf. helseregisterloven § 22. Tiltakene skal tilpasses virksomhetens art, aktiviteter og størrelse i det omfang det er nødvendig for å etterleve reglene om behandling av helseopplysninger, med særlig vekt på bestemmelser gitt i medhold av helseregisterloven § 21.\nDatabehandleren som behandler helseopplysninger på vegne av Folkehelseinstituttet, skal behandle opplysninger i samsvar med rutiner Folkehelseinstituttet har oppstilt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Internkontrollens innhold",
+      "path": [
+        "Kapittel 4. Informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Internkontrollen innebærer at Folkehelseinstituttet skal ha kunnskap om gjeldende regler om behandling av helseopplysninger, tilstrekkelig og oppdatert dokumentasjon for gjennomføring av rutiner, samt ha denne dokumentasjonen tilgjengelig for dem det måtte angå.\nInternkontrollen skal blant annet inneholde:oversikt over hvordan virksomheten er organisert,oversikt over ansvars- og myndighetsforhold,oversikt over de krav i og i medhold av personvernforordningen, personopplysningsloven og helseregisterloven som gjelder for virksomheten,rutiner virksomheten følger for å sikre overholdelse av kravene, herunder rutiner for:oppfyllelse av krav om at avidentifiserende opplysninger bare behandles når dette er nødvendig for å fremme formålet med behandlingen av opplysningene, og i tråd med gjeldende bestemmelser om taushetsplikt, jf. helseregisterloven § 6 og § 17,dokumentasjon og kvalitetskontroll av helseopplysningene, jf. forskriften § 1-8,hvordan virksomheten oppfyller bestemmelsene om tilgjengeliggjøring av opplysninger fra helseregistre, jf. forskriften § 3-1,rutiner virksomheten følger dersom avvik oppstår, og opplysninger om hvem som er ansvarlig,rutiner virksomheten følger for å hindre gjentakelse av avvik, og opplysninger om hvem som er ansvarlig,rutiner for hvordan virksomheten systematisk og regelmessig gjennomgår sin internkontroll for å kontrollere at aktivitetene og resultatene av dem stemmer overens med det system virksomheten har fastlagt, og om det medfører oppfyllelse av personvernforordningen, personopplysningsloven og helseregisterloven,rutiner for hvordan virksomheten sikrer seg at alle aktuelle og kun gjeldende rutiner blir benyttet, ogrutiner for hvordan virksomheten sikrer at de ansatte har tilstrekkelig kompetanse til å overholde forskriftens krav.\nSkriftlig dokumentasjon skal minst omfatte dokumentasjon av rutiner som nevnt i annet ledd nr. 1 til 8. Tilsynsmyndighetene kan gi pålegg om skriftlig dokumentasjon ut over dette, dersom det anses påkrevd. Tilsynsmyndighetene kan dispensere fra hele eller deler av dette kapittel når særlige forhold foreligger.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Bevaring av helseopplysninger",
+      "path": [
+        "Kapittel 5. Bevaring av helseopplysninger i registeret"
+      ],
+      "text": "Opplysninger i registeret kan i den utstrekning det er nødvendig for å nå formålet med registeret, bevares i ubegrenset tid, med mindre annet følger av denne forskriften eller helseregisterloven § 25.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. juli 2005.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    }
+  ]
+}

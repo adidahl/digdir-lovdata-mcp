@@ -1,0 +1,138 @@
+{
+  "id": "FOR-2008-12-19-1618",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om dypfryste næringsmidler",
+  "short_title": "Forskrift om dypfryste næringsmidler",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2010-03-01",
+  "last_change_in_force": "2014-12-13",
+  "last_changed_by": "forskrift/2014-11-24-1495 fra 2014-12-13",
+  "lovdata_refid": "forskrift/2008-12-19-1618",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2008-12-19-1618",
+  "raw_xml_sha256": "56567a30c3a076816ba71cf9e8738ee40fd08ea9c9c432327553dae37c385ff3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Formålet med denne forskriften er å fastsette betingelser for bruk av betegnelsen «dypfryste næringsmidler» og å sikre at dypfrysing skjer på en slik måte at hensynet til næringsmidlenes opprinnelige kvalitet ivaretas.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gir alminnelige bestemmelser om krav til innfrysing og fryselagring av næringsmidler som omsettes og markedsføres som «dypfryste næringsmidler». Forskriften omfatter både innfrysing og fryselagring av produkter som leveres til sluttforbruker og innfrysing og fryselagring av råvarer med sikte på videre bearbeiding eller produksjon.\nForskriften gir også bestemmelser om utstyr til bruk ved innfrysing og fryselagring, og om måleutstyr for overvåking og kontroll av temperaturer i henhold til første ledd.\nForskriften gjelder ikke spiseis.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forskriften forstås med:Dypfryst næringsmiddel: næringsmiddel som har gjennomgått en nedfrysingsprosess (dypfrysing) på en slik måte at temperaturområdet for optimal krystallisering for det aktuelle produkt er nådd så raskt som mulig, og slik at temperaturen over alt i varen er -18 °C eller lavere.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Bestemmelser om innfrysing og fryselagring av næringsmidler",
+      "path": [
+        "Kapittel II. Innfrysing og fryselagring"
+      ],
+      "text": "Dypfrysing av råvarer og næringsmidler skal foregå snarest mulig etter at de nødvendige produksjonstrinn er avsluttet. Dypfrysing skal foregå i utstyr med tilstrekkelig kapasitet og på en slik måte at området for maksimal krystallisering nås så raskt som mulig for det aktuelle næringsmiddel. Dersom utstyret samtidig brukes til lagring av dypfryste næringsmidler, skal kapasiteten være slik at temperaturen i de dypfryste næringsmidlene ikke påvirkes i vesentlig grad.\nDe eneste frysemediene som må komme i direkte kontakt med næringsmidler, er luft, nitrogen og karbondioksid.\nDypfryste råvarer og dypfryste ferdige næringsmidler skal, når ikke annet er bestemt, emballeres i egnet forpakning hos produsent eller pakkevirksomhet og merkes, lagres og omsettes som dypfryste varer. Frysekjeden skal opprettholdes gjennom samtlige omsetningsledd.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Bestemmelser om temperatur",
+      "path": [
+        "Kapittel II. Innfrysing og fryselagring"
+      ],
+      "text": "Dypfryste næringsmidler skal etter termisk stabilisering hele tiden oppbevares slik at temperaturen er -18 °C eller kaldere i hele næringsmidlet. Ved lokal transport og ved omsetning til sluttforbruker tillates temperaturavvik på inntil 3 °C.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 5a",
+      "heading": "Merking av dypfryste næringsmidler som er beregnet for omsetning til forbruker eller storhusholdning",
+      "path": [
+        "Kapittel IIa. Merking av dypfryste næringsmidler"
+      ],
+      "text": "Dypfryste næringsmidler skal i tillegg til varebetegnelsen merkes «dypfryst».\nDypfryste næringsmidler som i uendret stand er beregnet på omsetning til forbruker eller storhusholdning, skal i tillegg til holdbarhetsdato merkes med anbefalt oppbevaringstid ved andre aktuelle oppbevaringstemperaturer.\nDypfryste næringsmidler som omsettes til forbruker eller storhusholdning, skal merkes med «Bør ikke fryses på nytt etter opptining».\nMerkingen av dypfryste næringsmidler skal i tillegg inneholde en referanse som gjør det mulig å identifisere hvilken batch næringsmidlet er en del av.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 5b",
+      "heading": "Merking av dypfryste næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning",
+      "path": [
+        "Kapittel IIa. Merking av dypfryste næringsmidler"
+      ],
+      "text": "Dypfryste næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning, skal merkes med opplysninger om:varebetegnelse i tillegg til «dypfryst»,nettoinnhold,en referanse som gjør det mulig å identifisere hvilken batch næringsmidlet er en del av ognavnet eller forretningsnavnet og adressen til produsenten eller pakkeren av næringsmidlet eller en virksomhet etablert innen EØS som omsetter næringsmidlet.\nOpplysningene i første ledd skal angis på pakningen, containeren eller innpakningen eller på en etikett på disse.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Gjennomføring av forordning (EF) nr. 37/2005",
+      "path": [
+        "Kapittel III. Bestemmelser om temperaturkontroll i forbindelse med transport, oppbevaring og lagring av dypfryste næringsmidler"
+      ],
+      "text": "EØS-avtalen vedlegg II kapittel XII nr. 54zzr (forordning (EF) nr. 37/2005) om temperaturkontroll i forbindelse med transport, oppbevaring og lagring av dypfryste næringsmidler beregnet på konsum gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.\nI henhold til forordning (EF) nr. 37/2005 artikkel 3 nr. 2 gjelder forordningens bestemmelser likevel ikke for kjølerom mindre enn 10 m3 til lagring av varer hos detaljist, når lufttemperaturen måles med et lett synlig termometer.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Tilsyn og vedtak",
+      "path": [
+        "Kapittel IV. Administrative bestemmelser"
+      ],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften, jf. matloven § 23.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel IV. Administrative bestemmelser"
+      ],
+      "text": "Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i kapittel II forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Straff",
+      "path": [
+        "Kapittel IV. Administrative bestemmelser"
+      ],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller vedtak gitt i medhold av den er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel IV. Administrative bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft den tid departementet bestemmer.1 Samtidig oppheves forskrift 22. desember 2005 nr. 1722 om gjennomføring av forordning (EF) nr. 37/2005 av 12. januar 2005 om måling av temperatur ved lagring, transport m.v. av dypfryste næringsmidler.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    }
+  ]
+}

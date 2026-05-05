@@ -1,0 +1,559 @@
+{
+  "id": "LOV-2011-12-16-60",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om pensjonsordning for stortingsrepresentanter og regjeringsmedlemmer (stortings- og regjeringspensjonsloven)",
+  "short_title": "Stortings- og regjeringspensjonsloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Pensjons- og trygderett Stats-, statsforfatnings- og statsborgerrett > Stortinget",
+  "date_in_force": "2012-01-01",
+  "last_change_in_force": "2022-04-01",
+  "last_changed_by": "lov/2022-04-01-17",
+  "lovdata_refid": "lov/2011-12-16-60",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2011-12-16-60",
+  "raw_xml_sha256": "91fe569a2231f29ce1ab2e87760357b060bc9927cef735aac582d5a7168613ab",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med pensjonsordningen for stortingsrepresentanter og regjeringsmedlemmer er å sikre medlemmene pensjonsytelser ved alderdom og uførhet. Ordningen skal også sikre pensjonsytelser til etterlatte.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Medlemskap",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Stortingsrepresentanter og regjeringsmedlemmer er medlemmer i pensjonsordningen.\nVararepresentanter til Stortinget er medlemmer for den tiden de møter i Stortinget.\nRegjeringsmedlemmer som ilegges karantene før overgang til ny stilling, opprettholder medlemskap i ordningen til karantenen utløper.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Samordning",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Alderspensjon etter kapittel 2 er nettoberegnet ytelse og skal ikke samordnes etter bestemmelsene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser. Det samme gjelder midlertidig uførepensjon og uførepensjon etter kapittel 5, med unntak av når den midlertidige uførepensjonen og uførepensjonen er beregnet etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 28 andre ledd (bruttopensjon).\nAlderspensjon etter kapitlene 3 og 4 samordnes etter bestemmelsene i samordningsloven. Alderspensjon etter kapitlene 3 og 4 skal regnes som to forskjellige ordninger ved anvendelse av bestemmelsene i samordningsloven.\nEtterlattepensjon etter kapittel 6 skal samordnes etter bestemmelsene i samordningsloven når pensjonen beregnes som bruttoytelse. Når pensjonen beregnes som nettoytelse, gjelder bestemmelsen i samordningsloven § 3 tredje ledd.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Kapitlet gjelder alderspensjon til stortingsrepresentanter og regjeringsmedlemmer.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Opptjening av alderspensjon – pensjonsbeholdning",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Pensjonsbeholdningen danner grunnlag for beregning av alderspensjonen, og den bygges opp ved å summere all pensjonsopptjening i ordningen.\nOpptjeningsgrunnlaget er den faste godtgjørelsen som gis til den enkelte stortingsrepresentant eller regjeringsmedlem. Tillegg som gis til stortingsrepresentant som er medlem av Stortingets presidentskap eller er leder av Stortingets fagkomiteer, skal medregnes. Opptjeningsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.\nDet gis pensjonsopptjening til den som mottar midlertidig uførepensjon eller uførepensjon etter § 5-3 første ledd. Opptjeningsgrunnlaget skal være pensjonsgrunnlaget som uføreytelsen beregnes etter.\nKongen kan gi forskrift om pensjonsopptjening ved permisjon uten eller med redusert godtgjørelse.\nPensjonsopptjeningen utgjør 6,03 prosent av opptjeningsgrunnlaget opp til 7,1 ganger folketrygdens grunnbeløp og 24,13 prosent av opptjeningsgrunnlaget mellom 7,1 og 12 ganger grunnbeløpet. Opptjeningen gjennomføres på månedsbasis. Ved opptjening i deler av en måned skal det foretas en forholdsmessig beregning av pensjonsopptjeningen.\nPensjonsopptjeningen tilføres pensjonsbeholdningen fortløpende.\nPensjonsbeholdningen reguleres årlig i samsvar med lønnsveksten, se § 7-2 første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Krav til medlemstid for rett til alderspensjon",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Det kreves minst ett års samlet medlemskap for å ha rett til alderspensjon etter kapitlet her.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Alder ved uttak av alderspensjon",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Alderspensjon kan tidligst tas ut fra fylte 62 år. Dersom pensjonen ikke er tatt ut innen vedkommende fyller 75 år, skal pensjonen uansett utbetales fra og med måneden etter fylte 75 år.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Levealdersjustering og nøytralt uttak",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Alderspensjonen skal levealdersjusteres, det vil si at den enkeltes pensjon justeres ved uttakstidspunktet for endringer i befolkningens levealder.\nAlderspensjonen skal være nøytral i forhold til uttaksalder, det vil si at forventet nåverdi av den enkeltes samlede pensjonsutbetalinger er uavhengig av uttaksalder.\nLevealdersjustering og nøytralt uttak gjennomføres ved hjelp av delingstall. For årskull fra og med 1963-kullet benyttes delingstall som i folketrygden, se folketrygdloven §§ 20-12 og 20-13. For årskullene 1943 til og med 1962 benyttes særskilte delingstall som sikrer at levealdersjusteringen mellom årskull skal være den samme som i folketrygden. De særskilte delingstallene fastsettes av Statens pensjonskasse. Departementet kan gi forskrift om fastsetting av særskilte delingstall.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Beregning av alderspensjon",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Pensjonen beregnes på grunnlag av pensjonsbeholdningen på uttakstidspunktet. Pensjonsbeholdingen gjøres om til årlig pensjon ved å dividere den med vedkommendes delingstall ved inngangen til den måneden pensjonen tas ut fra.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Tidspunkt for uttak og opphør av alderspensjon",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Alderspensjonen gis tidligst fra og med måneden etter den måned melding om uttak av pensjon ble gitt, likevel tidligst fra og med måneden etter fylte 62 år.\nAlderspensjonen opphører ved utgangen av måneden etter pensjonistens død. Dersom avdøde etterlater seg ektefelle, utbetales pensjonen i ytterligere én måned.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Omregning av alderspensjon ved opptjening etter pensjonsuttak",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "Pensjonsopptjening som tilføres pensjonsbeholdningen etter uttak, regnes om til årlig pensjon ved hjelp av delingstallet på omregningstidspunktet og legges til pensjonen som allerede er tatt ut. For pensjonsopptjening etter fylte 75 år benyttes delingstallet ved fylte 75 år.\nOmregningen foretas med virkning fra 1. januar året etter at opptjeningen fant sted.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Alderspensjon til den som også har opptjening etter kapitlene 3 og 4",
+      "path": [
+        "Kapittel 2. Alderspensjon"
+      ],
+      "text": "For den som har opptjening etter kapitlet her, og som har opptjente rettigheter etter kapittel 3 eller 4 eller begge kapitlene, skal samlet pensjon ikke overstige en beregnet maksimal pensjon.\nBeregnet maksimal pensjon skal tilsvare pensjon beregnet etter kapitlene 3 og 4 for hele opptjeningstiden som den enkelte har som stortingsrepresentant og regjeringsmedlem. Har vedkommende både vært stortingsrepresentant og regjeringsmedlem, skal reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser (samordningsloven) kapittel II også anvendes. Eventuelle andre pensjoner som er omfattet av samordningsloven skal holdes utenfor ved beregningen av maksimal pensjon.\nVed beregning etter første og andre ledd skal delingstallet ved 65 år benyttes.\nBlir samlet pensjon høyere enn beregnet maksimal pensjon, skal pensjonen opptjent etter kapitlet her settes ned med det overskytende beløpet. Gjenværende beløp multipliseres med delingstallet ved 65 år og divideres med delingstallet på uttakstidspunktet.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Opptjeningstid",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.\nDen tiden en person som var valgt som stortingsrepresentant har vært regjeringsmedlem, medregnes som opptjeningstid etter kapitlet her så lenge den ikke samtidig benyttes som opptjeningstid etter kapittel 4.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Krav til opptjeningstid for rett til alderspensjon",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Uttak av alderspensjon",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Alderspensjonen kan tas ut fra fylte 65 år.\nAlderspensjonen kan tas ut før fylte 65 år når summen av alder og opptjeningstid er minst 75 år. Dette gjelder likevel ikke når vedkommende har eller får pensjonsgivende inntekt etter folketrygdloven § 3-15, eller arbeidsinntekt av samme art i utlandet, som overstiger en inntektsgrense. Inntektsgrensen skal settes til full pensjon beregnet etter § 3-6 første ledd første punktum i loven her ut fra pensjonsgrunnlaget fastsatt ved lovens ikrafttredelse og oppregulert etter § 7-2 andre ledd. Feriepenger som skriver seg fra opphørte arbeidsforhold, skal ikke medregnes. Pensjonen kan heller ikke tas ut samtidig med midlertidig uførepensjon eller uførepensjon etter loven her.\nPensjonen en har rett til i perioden fra 65 til 67 år, kan tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 3-6 tredje ledd. Det kan ikke tas ut alderspensjon etter andre og tredje ledd i paragrafen her samtidig. Den som tar ut pensjon etter første punktum i leddet her, mister retten til å ta ut pensjon etter andre ledd.\nDet gis ikke pensjon etter tredje ledd for tidsrom der det ytes avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller uførepensjon fra folketrygden eller uførepensjon etter loven her.\nDet gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller har minst 80 prosent stilling som kommunalt ombud.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Pensjonsgrunnlag",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "For den som er stortingsrepresentant ved lovens ikrafttredelse, er pensjonsgrunnlaget den årlige bruttogodtgjørelsen som er fastsatt for stortingsrepresentanter på dette tidspunktet.\nFor stortingsrepresentant som har fratrådt vervet før lovens ikrafttredelse, benyttes det pensjonsgrunnlaget som følger av reglene i tidligere lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.\nFør pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Pensjonsberegning",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Full alderspensjon gis etter 12 års opptjeningstid, og den utgjør 66 prosent av pensjonsgrunnlaget. Ved kortere opptjeningstid reduseres pensjonen forholdsmessig.\nReglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse §§ 24, 24 a, 24 b og 24 c gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full tjenestetid fastsettes etter første ledd.\nPensjon som tas ut etter § 3-4 tredje ledd, beregnes slik:Det tas utgangspunkt i summen av årlig alderspensjon etter § 3-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 3-5.Summen av alderspensjon for perioden fra 65 til 67 år beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.\nDersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 3-7",
+      "heading": "Barnetillegg",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 3-4 tredje ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.\nBarnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 3-8",
+      "heading": "Tidspunkt for uttak og opphør av alderspensjon",
+      "path": [
+        "Kapittel 3. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for stortingsrepresentanter"
+      ],
+      "text": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 3-4 tredje ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.\nAlderspensjonen opphører ved utgangen av måneden etter pensjonistens død. Dersom avdøde etterlater seg ektefelle, utbetales pensjonen i ytterligere en måned.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Kapitlet gjelder alderspensjon som er opptjent etter tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Opptjeningstid",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Opptjeningstiden etter kapitlet her beregnes etter bestemmelsene om pensjonsgivende tid i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Krav til opptjeningstid for rett til alderspensjon",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Det kreves minst tre års opptjeningstid for å ha rett til alderspensjon etter kapitlet her, jf. likevel reglene i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6. Det kan gis alderspensjon for kortere opptjeningstid når summen av opptjeningstid etter kapitlet her og medlemstid etter kapittel 2 er minst tre år.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Uttak av alderspensjon",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Alderspensjonen kan tas ut fra fylte 65 år.\nPensjonen en har rett til i perioden fra 65 til 67 år, kan likevel tas ut tidligst fra fylte 62 år beregnet etter bestemmelsen i § 4-6 tredje ledd. Dersom vedkommende også har rett til å ta ut pensjon etter § 3-4 andre ledd før fylte 65 år, kan ikke pensjonen etter første punktum i leddet her tas ut samtidig. Den som tar ut pensjon etter første punktum, mister retten til å ta ut pensjon etter § 3-4 andre ledd.\nDet gis ikke pensjon etter andre ledd i paragrafen her for tidsrom der det gis avtalefestet pensjon som nevnt i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1 nr. 1 første ledd bokstav d, arbeidsavklaringspenger eller midlertidig uførepensjon eller uførepensjon fra folketrygden eller uførepensjon etter loven her.\nDet gis ikke alderspensjon til den som har verv som stortingsrepresentant eller stilling som regjeringsmedlem. Det samme gjelder den som er ansatt i statlig eller kommunal tjeneste i minst 80 prosent stilling, eller som har minst 80 prosent stilling som kommunalt ombud.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Pensjonsgrunnlag",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Pensjonsgrunnlaget for den som er regjeringsmedlem ved lovens ikrafttredelse, er den årlige bruttogodtgjørelsen som er fastsatt for regjeringsmedlemmer på dette tidspunktet.\nFor regjeringsmedlem som har fratrådt vervet før lovens ikrafttredelse, benyttes det pensjonsgrunnlaget som følger av reglene i tidligere lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder.\nFør pensjonen tas ut, reguleres pensjonsgrunnlaget årlig i samsvar med lønnsveksten, se § 7-2 andre ledd.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Pensjonsberegning",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Full alderspensjon gis etter 6 års opptjeningstid, og den utgjør 57 prosent av pensjonsgrunnlaget. Ved kortere opptjeningstid reduseres pensjonsprosenten med 5 prosentpoeng for hvert opptjeningsår slik at årlig alderspensjon for dem med 3 års opptjeningstid, utgjør 42 prosent av pensjonsgrunnlaget.\nReglene om levealdersjustering og garantert pensjonsnivå i lov 28. juli 1949 nr. 26 om Statens pensjonskasse §§ 24, 24 a, 24 b og 24 c gjelder tilsvarende fra fylte 67 år. Ved anvendelsen av reglene om garantert pensjonsnivå skal kravet til full opptjeningstid og pensjonsprosent fastsettes etter første ledd.\nPensjon som tas ut etter § 4-4 andre ledd, beregnes slik:Det tas utgangspunkt i summen av årlig alderspensjon etter § 4-6 første ledd i perioden fra 65 til 67 år beregnet ut fra pensjonsgrunnlaget på uttakstidspunktet, se § 4-4.Summen av årlig alderspensjon beregnet etter bokstav a fordeles på perioden fra pensjonsuttaket til 67 år.Pensjonen utbetales fram til 67 år og erstattes da av alderspensjon beregnet etter første og andre ledd i paragrafen her.\nDersom det er opptjent rett til tjenestepensjon som omfattes av lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser og som kan tas ut ved 65 år, skal denne inngå som en del av beregningen etter tredje ledd bokstav a ved at det foretas samordning som om den var tatt ut fra 65 år.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Barnetillegg",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Forsørger pensjonisten barn under 18 år, skal det for hvert barn gis et barnetillegg på 10 prosent av alderspensjonen etter levealdersjustering. Alderspensjonen med barnetillegg må likevel ikke overstige 90 prosent av pensjonsgrunnlaget etter levealdersjustering når pensjonen er beregnet etter full opptjeningstid. Er pensjonen beregnet etter redusert opptjeningstid, reduseres begrensningen tilsvarende. Når alderspensjonen tas ut etter § 4-4 andre ledd, gis det barnetillegg fra 65 år. Tillegget beregnes som om alderspensjonen hadde vært tatt ut ved 65 år.\nBarnetillegg utbetales til og med den måneden barnet fyller 18 år. Dersom barnet dør før fylte 18 år, utbetales tillegget til og med måneden etter at barnet døde.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-8",
+      "heading": "Tidspunkt for uttak og opphør av alderspensjon",
+      "path": [
+        "Kapittel 4. Alderspensjon opptjent etter den tidligere loven om pensjonsordning for statsråder"
+      ],
+      "text": "Alderspensjonen gis fra og med måneden etter den måneden vedkommende fyller vilkårene for rett til alderspensjon. Alderspensjon etter § 4-4 andre ledd gis tidligst fra og med måneden etter den måneden melding om uttak av pensjon ble gitt.\nAlderspensjonen opphører ved utgangen av måneden etter pensjonistens død. Dersom avdøde etterlater seg ektefelle, utbetales pensjonen i ytterligere en måned.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Kapitlet gjelder midlertidig uførepensjon og uførepensjon for den som er eller har vært stortingsrepresentant eller regjeringsmedlem.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Forholdet til lov om Statens pensjonskasse",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Reglene om midlertidig uførepensjon og uførepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 6 gjelder så langt ikke annet følger av loven her.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Rett til midlertidig uførepensjon og uførepensjon",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Midlertidig uførepensjon og uførepensjon gis når et medlem må fratre vervet som stortingsrepresentant eller stilling som regjeringsmedlem på grunn av sykdom, skade eller lyte, og vedkommende er under 65 år.\nDen som blir ufør etter at vervet som stortingsrepresentant eller stilling som regjeringsmedlem er fratrådt, har rett til uførepensjon etter samme uføregrad som i folketrygden når vedkommendehar rett til uføretrygd etter folketrygdloven,har en samlet medlemstid i ordningen på minst tre år, der opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder også regnes med, oger under 65 år.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Pensjonsgrunnlag",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Pensjonsgrunnlaget for den som omfattes av § 5-3 første ledd, er det opptjeningsgrunnlaget som stortingsrepresentanten eller regjeringsmedlemmet har på tidspunktet den midlertidige uførepensjonen eller uførepensjonen gis virkning fra, se § 2-2 andre ledd.\nPensjonsgrunnlaget for den som omfattes av § 5-3 andre ledd, er opptjeningsgrunnlaget på fratredelsestidspunktet. Har vedkommende fratrådt ved lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten, se § 7-4 om reguleringsfaktorer.\nPensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Pensjonsgivende opptjeningstid",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Som opptjeningstid regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For den som omfattes av § 5-3 første ledd, skal tiden fram til fylte 65 år regnes med i opptjeningstiden.\nOpptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved atopptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, ogopptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.\nLov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Full opptjeningstid",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Når midlertidig uførepensjon og uførepensjon gis etter § 5-3 første ledd, er full opptjeningstid 30 år. Det samme gjelder for den som omfattes av § 5-3 andre ledd og som har opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.\nNår uførepensjonen gis etter § 5-3 andre ledd og pensjonisten ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år.\nBeregningen av midlertidig uførepensjon og uførepensjon skjer for øvrig i samsvar med lov 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Opphør av midlertidig uførepensjon og uførepensjon",
+      "path": [
+        "Kapittel 5. Midlertidig uførepensjon og uførepensjon."
+      ],
+      "text": "Midlertidig uførepensjon og uførepensjon opphører ved utgangen av måneden pensjonisten fyller 65 år.\nDersom pensjonisten dør før fylte 65 år, opphører midlertidig uførepensjon og uførepensjon ved utgangen av måneden etter dødsfallet. Dersom avdøde etterlater seg ektefelle, utbetales pensjonen i ytterligere én måned.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Kapitlet gjelder etterlattepensjon til gjenlevende ektefelle og barn under 20 år etter stortingsrepresentanter og regjeringsmedlemmer.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Forholdet til lov om Statens pensjonskasse",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Reglene om etterlattepensjon i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 7 gjelder så langt ikke annet følger av loven her.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Rett til etterlattepensjon",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Etterlattepensjon gis når en stortingsrepresentant eller et regjeringsmedlem dør.\nDet kan også ytes etterlattepensjon til etterlatt etter tidligere stortingsrepresentant eller regjeringsmedlem når samlet medlemstid i pensjonsordningen er minst tre år. Som medlemstid regnes også opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Pensjonsgrunnlag",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Pensjonsgrunnlaget for etterlatte som omfattes av § 6-3 første ledd, er opptjeningsgrunnlaget avdøde hadde på tidspunktet for dødsfallet, se § 2-2 andre ledd.\nFor etterlatte som omfattes av § 6-3 andre ledd, er pensjonsgrunnlaget det opptjeningsgrunnlaget avdøde hadde ved fratredelsen. Har avdøde fratrådt før lovens ikrafttredelse, fastsettes pensjonsgrunnlaget etter § 3-5 andre ledd eller § 4-5 andre ledd. Pensjonsgrunnlaget reguleres fram til virkningstidspunktet for pensjonen i samsvar med lønnsveksten. Når avdøde var over 67 år ved dødsfallet, skal pensjonsgrunnlaget for tiden fra 67 år reguleres med et gjennomsnitt av lønns- og prisvekst. Ved regulering benyttes de reguleringsfaktorer som fastsettes årlig, jf. § 7-4.\nPensjonsgrunnlaget begrenses til tolv ganger folketrygdens grunnbeløp.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Pensjonsgivende opptjeningstid",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Som opptjeningstid ved beregning av etterlattepensjon regnes den tid stortingsrepresentanten eller regjeringsmedlemmet har vært medlem av pensjonsordningen. For tilfeller der retten til etterlattepensjon følger av § 6-3 første ledd, regnes tiden som avdøde ville ha fått ved å fortsette i vervet eller stillingen fram til fylte 65 år med i opptjeningstiden.\nOpptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder skal medregnes som opptjeningstid ved beregning av pensjon etter kapitlet her. Opptjeningstiden skal omregnes ved atopptjeningstid inntil 12 år fra pensjonsordningen for stortingsrepresentanter skal multipliseres med 2,5, ogopptjeningstid inntil 6 år fra pensjonsordningen for statsråder skal multipliseres med 5.\nLov 28. juli 1949 nr. 26 om Statens pensjonskasse § 19 første ledd om avrunding av opptjeningstid gjelder tilsvarende.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Pensjonsberegning",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Det gis full etterlattepensjon ved 30 års opptjeningstid når etterlattepensjonen gis etter § 6-3 første ledd. Det samme gjelder når etterlattepensjonen gis etter § 6-3 andre ledd og avdøde hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder.\nNår etterlattepensjon gis etter § 6-3 andre ledd og avdøde ikke hadde opptjeningstid etter de tidligere lovene om pensjonsordninger for stortingsrepresentanter og statsråder, regnes full opptjeningstid som perioden fra vedkommende ble medlem og fram til 65 år, likevel ikke mer enn 40 år og ikke mindre enn 30 år.\nVed kortere opptjeningstid enn full opptjeningstid, skal pensjonen beregnes ut fra forholdet mellom opptjeningstiden og full opptjeningstid.\nBeregningen av etterlattepensjon skjer for øvrig i samsvar med lov 28. juli 1949 nr. 26 om Statens pensjonskasse, men med de særskilte beregningsfaktorene som framgår av kapitlet her.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "Opphør av etterlattepensjon",
+      "path": [
+        "Kapittel 6. Etterlattepensjon"
+      ],
+      "text": "Etterlattepensjonen opphører i samsvar med bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse kapittel 7.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Regulering av alderspensjon",
+      "path": [
+        "Kapittel 7. Regulering"
+      ],
+      "text": "Alderspensjon etter kapittel 2 under utbetaling reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.\nRegulering av alderspensjon etter kapitlene 3 og 4 under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig med virkning fra 1. mai i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter pensjonsuttak gjelder første ledd andre punktum tilsvarende.\nAlderspensjon etter kapitlene 3 og 4 som er tatt ut før 67 år, skal omregnes fra måneden etter fylte 67 år ved at pensjonsgrunnlaget oppreguleres med lønnsveksten fra uttakstidspunktet og fram til omregningstidspunktet. Bestemmelsen i første ledd andre punktum gjelder tilsvarende ved første regulering etter at pensjonsgrunnlaget er omregnet.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Regulering av opptjente rettigheter før uttak av alderspensjon",
+      "path": [
+        "Kapittel 7. Regulering"
+      ],
+      "text": "Pensjonsbeholdningen etter § 2-2 reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten.\nPensjonsgrunnlaget etter §§ 3-5 og 4-5 reguleres med lønnsveksten fram til tidspunktet det tas ut alderspensjon etter loven her.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Regulering av midlertidig uførepensjon, uførepensjon og etterlattepensjon",
+      "path": [
+        "Kapittel 7. Regulering"
+      ],
+      "text": "Regulering av midlertidig uførepensjon, uførepensjon og etterlattepensjon til gjenlevende ektefelle under utbetaling foretas ved at pensjonsgrunnlaget reguleres årlig med virkning fra 1. mai i samsvar med lønnsveksten.\nFra måneden etter fylte 67 år reguleres etterlattepensjonen i samsvar med et gjennomsnitt av lønns- og prisvekst. Ved første reguleringstidspunkt etter 67 år i månedene juni til april settes fratrekket forholdsmessig ned ut fra når i perioden pensjonen ble tatt ut.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Reguleringsfaktorer",
+      "path": [
+        "Kapittel 7. Regulering"
+      ],
+      "text": "Ved regulering benyttes de reguleringsfaktorene som er fastsatt av Kongen etter folketrygdloven § 19-14 åttende ledd og § 20-18 åttende ledd.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Administrasjon",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "Pensjonsordningen administreres av Statens pensjonskasse.\nPensjonskassen skal senest seks måneder etter at regnskapsåret er avsluttet, utarbeide en beretning om virksomheten i siste regnskapsår. Beretningen utarbeides for departementet og forelegges Stortinget.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Melding om uttak av fleksibel alderspensjon",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "For å få alderspensjon etter kapittel 2, § 3-4 tredje ledd og § 4-4 andre ledd må den som har rett til ytelsen, gi melding om uttak av pensjonen.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Plikt til å gi opplysninger",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "Den som skal ha utbetalt en pensjon etter loven her, har plikt til å gi de opplysninger og levere de dokumenter som er nødvendige for at Statens pensjonskasse skal kunne vurdere om vedkommende har rett til ytelsen. Den som mottar en ytelse, plikter å underrette Statens pensjonskasse om forhold som etter loven her kan føre til at ytelsen skal endres eller falle bort.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Innhenting av opplysninger",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "Statens pensjonskasse har rett til å innhente de opplysninger som er nødvendige for å kontrollere om vilkårene for pensjon etter loven her er oppfylt eller har vært oppfylt i tilbakelagte perioder. Opplysninger kan innhentes fra nåværende og tidligere arbeidsgivere, andre tjenestepensjonsordninger, folketrygdens organer samt skatteetaten.\nDen som blir pålagt å gi opplysninger, plikter å gjøre dette uten godtgjørelse og uten hinder av taushetsplikt.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Utbetaling av pensjon",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "Utbetaling skjer til den som har rett til pensjon. Når særlige grunner tilsier det, kan pensjonen utbetales til andre enn den som har pensjonsretten. Restpensjon når en alderspensjonist dør, eller når en pensjonist med midlertidig uførepensjon eller uførepensjon dør, utbetales til ektefellen eller til boet dersom avdøde ikke etterlater seg ektefelle. Restpensjon ved en etterlattepensjonists død utbetales til boet.\nPensjon utbetales etterskuddsvis hver måned. Terminbeløp avrundes til nærmeste hele krone.\nFeilutbetalt pensjon kan kreves tilbakebetalt etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 sjette til niende ledd.\nRenter ved forsinket utbetaling av pensjon gis etter bestemmelsene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 44 a.\nDet er et vilkår for rett til ytelser etter kapitlene 3 til 6 at pensjonssøkeren setter fram krav om tilsvarende ytelser etter folketrygdloven. Departementet kan gi forskrift om framsetting av slikt krav.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Finansiering",
+      "path": [
+        "Kapittel 8. Forskjellige bestemmelser"
+      ],
+      "text": "Utgifter til pensjoner og administrasjon etter denne loven dekkes av staten.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 9. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Loven trer i kraft 1. januar 2012.\nFra samme tidspunkt oppheves lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder og lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel 9. Ikrafttredelse og overgangsbestemmelser"
+      ],
+      "text": "Det godskrives opptjening etter bestemmelsene i kapittel 2 i perioden 1. oktober 2009 til 31. desember 2011 til dem som i denne perioden er eller har værtstortingsrepresentanter og som ikke hadde opparbeidet rett til pensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter før 1. oktober 2009,regjeringsmedlemmer og som ikke har opparbeidet rett til pensjon etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder før 1. januar 2012.\nVed vurderingen av om det er tjent opp rett til pensjon etter første ledd gjelder bestemmelsen i lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 6 om sammenlegging av tjenestetid.\nStortingsrepresentanter og regjeringsmedlemmer som får opptjening i kapittel 2 etter første ledd skal ikke ha opptjening etter kapitlene 3 og 4 for samme periode.\nPensjonsopptjening etter første ledd skal legges til grunn for fastsetting av en pensjonsbeholdning 1. januar 2012. Opptjeningen beregnes etter § 2-2. Opptjeningen 1. mai 2010 reguleres i samsvar med økningen i folketrygdens grunnbeløp på dette tidspunkt. Opptjeningen 1. mai 2011 reguleres i samsvar med folketrygdens grunnbeløp på dette tidspunkt.\nDe som før 1. januar 2012 mottar uførepensjon eller etterlattepensjon etter lov 12. juni 1981 nr. 61 om pensjonsordning for stortingsrepresentanter eller etter lov 14. desember 1951 nr. 11 om pensjonsordning for statsråder, skal fortsatt ha pensjonen beregnet etter disse reglene. For øvrig gjelder loven her. Ved overgang fra uførepensjon til alderspensjon ved fylte 65 år skal alderspensjonen beregnes etter bestemmelsene i kapitlene 3 og 4.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    }
+  ]
+}

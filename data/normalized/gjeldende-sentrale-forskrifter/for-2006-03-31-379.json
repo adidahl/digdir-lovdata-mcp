@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2006-03-31-379",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om varslings- og rapporteringsplikt i forbindelse med jernbaneulykker og jernbanehendelser (varslings- og rapporteringsforskriften).",
+  "short_title": "Varslings- og rapporteringsforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2006-04-30",
+  "last_change_in_force": "2020-07-01",
+  "last_changed_by": "forskrift/2020-02-26-188 fra 2020-07-01",
+  "lovdata_refid": "forskrift/2006-03-31-379",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-03-31-379",
+  "raw_xml_sha256": "07913655449c7179ea3baa54a8c2972ddd2c71c360952b4417b0478a2cf0ed22",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder varsling og rapportering av jernbaneulykker, alvorlige jernbanehendelser og jernbanehendelser med jernbane som omfattes av jernbaneloven.\nKabelbane anses ikke som jernbane etter jernbaneundersøkelsesloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Myndighetene",
+      "path": [],
+      "text": "Statens havarikommisjon er undersøkelsesmyndighet.\nStatens jernbanetilsyn er tilsynsmyndighet etter forskriften her.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Varsling av jernbaneulykke",
+      "path": [],
+      "text": "Personell i jernbanevirksomheten som blir involvert i jernbaneulykke, skal straks varsle nærmeste trafikkstyringsenhet, nærmeste politimyndighet eller Hovedredningssentralen om ulykken. Den som mottar varsel skal straks varsle de andre instansene som nevnt i første punktum, samt varsle undersøkelsesmyndigheten. Varsel skal skje muntlig.\nJernbanevirksomheten har et eget ansvar for å påse at varsel etter første ledd blir gitt.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Varsling av alvorlig jernbanehendelse",
+      "path": [],
+      "text": "Jernbanevirksomheten skal straks sørge for varsling av alvorlig jernbanehendelse til undersøkelsesmyndigheten. Dersom hendelsens art gir grunnlag for å varsle andre myndigheter, sørger jernbanevirksomheten for dette. Varsel skal skje muntlig.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Rapportering av jernbaneulykke og alvorlig jernbanehendelse",
+      "path": [],
+      "text": "Jernbanevirksomheten skal rapportere jernbaneulykke og alvorlig jernbanehendelse skriftlig til både undersøkelsesmyndigheten og tilsynsmyndigheten så snart som mulig og senest innen 72 timer. Rapportering kan skje elektronisk.\nRapportering skal skje på skjema fastsatt av tilsynsmyndigheten og undersøkelsesmyndigheten i fellesskap.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Rapportering av jernbanehendelse",
+      "path": [],
+      "text": "Jernbanevirksomheten skal rapportere jernbanehendelse til tilsynsmyndigheten innen 8 dager. Rapportering kan skje elektronisk.\nRapportering av jernbanehendelser skal skje på skjema fastsatt av tilsynsmyndigheten.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Nærmere om varslings- og rapporteringsplikten",
+      "path": [],
+      "text": "Dersom jernbanevirksomheten er i tvil om det aktuelle forholdet er å anse som en jernbaneulykke, alvorlig hendelse eller jernbanehendelse, skal det varsles og/eller rapporteres i henhold til den paragraf i forskriften som er den mest omfattende.\nUndersøkelsesmyndigheten og tilsynsmyndigheten har rett til å omklassifisere enhver mottatt rapport og kan til enhver tid forlange utdypende opplysninger om et innrapportert forhold.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Implementering i sikkerhetsstyringssystemet",
+      "path": [],
+      "text": "Den som har tillatelse til å drive jernbanevirksomhet eller som har lisens eller sikkerhetssertifikat fastsatt med hjemmel i jernbaneloven skal innarbeide innholdet i denne forskrift i sitt sikkerhetsstyringssystem.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Undersøkelsesmyndigheten og tilsynsmyndigheten kan innenfor sitt ansvarsområde gjøre unntak fra bestemmelsene i denne forskrift, dersom dette vil føre til en mer hensiktsmessig rapportering eller dersom særlige forhold tilsier det.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 30. april 2006. Fra samme tidspunkt oppheves forskrift 29. januar 2002 nr. 123 om varslings- og rapporteringsplikt i forbindelse med jernbaneulykker og jernbanehendelser.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

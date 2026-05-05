@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2022-09-15-1583",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av dødsbo når avdøde ikke har arvinger og departementets adgang til å fordele formue til nærstående mv.",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2022-09-15",
+  "lovdata_refid": "forskrift/2022-09-15-1583",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-09-15-1583",
+  "raw_xml_sha256": "b96f7071c92cfc51c2b568233f45e31f64573651cff5343badf201fd7b251303",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Departementets oppgaver under bobehandlingen når avdøde ikke har arvinger",
+      "path": [],
+      "text": "I et dødsbo hvor avdøde ikke har arvinger etter loven eller testament, åpner retten offentlig skifte av eget tiltak, jf. arveloven § 129 første ledd eller § 133 der det er tvil om hvem som er rette arvinger i dødsboet.\nDepartementet treffer de avgjørelser under skiftet som ellers treffes av arvingene. Dette inkluderer også spørsmål om salg av fast eiendom og løsøre, jf. arveloven § 104 annet ledd. Kompetansen til å uttale seg, og retten til å binde retten og bostyrer som følger av arveloven § 138, ligger i disse sakene hos departementet. Booppgjør og bostyrers godtgjørelse fastsettes i samsvar med arveloven, jf. særlig § 155, § 160 og § 161 første ledd.\nDepartementet skal påse at utgiftene til bobehandling og gravferd blir dekket, og at det blir satt av midler til fremtidige utgifter til stell av graven. Utgiftene dekkes av boets midler. Departementet kan utpeke en ansvarlig for graven og bestiller av gravstellet, og kan også instruere bostyrer om å sørge for dette.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fordeling av formuen helt eller delvis til nærstående mv.",
+      "path": [],
+      "text": "I særlige tilfeller kan departementet bestemme at formuen helt eller delvis skal fordeles til slektninger eller andre som har stått avdøde nær. Slik avgjørelse kan treffes etter søknad. Departementet kan sette frist for innsendelse av slik søknad.\nSom hovedregel kan slik avgjørelse bare treffes dersom det over tid har vært et meget nært forhold mellom avdøde og søkeren, f.eks. regelmessig økonomisk støtte, felles bolig eller lignende.\nDersom avdøde selv i en klart bevist form har erklært at vedkommende søker skal ta arv, kan også slik avgjørelse treffes. Det samme gjelder overfor institusjoner eller ideelle organisasjoner, dersom særlige forhold taler for det. Slik avgjørelse kan likevel ikke treffes på det grunnlag at institusjonen har fungert som bopel for avdøde eller avdøde har vært medlem av organisasjonen, med mindre avdødes vilje klart tilsier dette.\nDepartementet kan bestemme at personer som har bistått avdøde økonomisk eller praktisk, eller har bistått i forbindelse med dødsfallet eller booppgjøret, kan gis en begrenset påskjønnelse av boets midler.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse og overgangsregel mv.",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.\nFor dødsfall som fant sted før 1. september 2015, gjelder forskrift 30. august 1991 nr. 564 om salg av arvemidler og avkall på arv til staten.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

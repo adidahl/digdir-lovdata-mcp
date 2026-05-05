@@ -1,0 +1,58 @@
+{
+  "id": "FOR-2012-05-04-400",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pliktmessig avhold for helsepersonell",
+  "short_title": "Forskrift om pliktmessig avhold for helsepersonell",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2012-05-04",
+  "last_change_in_force": "2021-09-17",
+  "last_changed_by": "forskrift/2021-09-17-2821",
+  "lovdata_refid": "forskrift/2012-05-04-400",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-05-04-400",
+  "raw_xml_sha256": "040b794fc7f1ccade4845eb126baff6435a6a73922b739c1a2eacdadec9f86b4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Tidsrom for pliktmessig avhold",
+      "path": [],
+      "text": "Helsepersonell skal ikke innta eller være påvirket av alkohol eller andre rusmidler i arbeidstiden, jf. helsepersonelloven § 8 første ledd.\nHelsepersonell skal ikke innta alkohol eller andre rusmidler i et tidsrom av 8 (åtte) timer før arbeidstiden begynner.\nMed arbeidstiden menes i denne forskriften tidsrommet fra helsepersonell i henhold til sin tjenesteplikt skal påbegynne utførelse av slikt arbeid som stillingen krever og til arbeidet er avsluttet. Som arbeidstid regnes også de tidsperioder hvor helsepersonell mot godtgjøring og i henhold til vaktordninger og arbeidsavtaler har forpliktet seg til å møte på arbeid på kort varsel eller til å gi råd og veiledning på telefon eller ved annen form for elektronisk kommunikasjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Plikt til å avlegge prøve",
+      "path": [],
+      "text": "Er det grunn til å tro at helsepersonell har overtrådt forbudet mot å innta eller å være påvirket av alkohol eller andre rusmidler i arbeidstiden, kan arbeidsgiver eller statsforvalteren pålegge helsepersonell å avgi utåndingsprøve, blodprøve eller lignende prøve. Slik prøvetaking skal foretas av helsepersonell som nevnt i helsepersonelloven § 12.\nDersom helsepersonell nekter eller på annen måte unndrar seg fra å avgi prøver som nevnt i første ledd, kan arbeidsgiver eller statsforvalteren be politiet om bistand til å fremstille helsepersonellet for prøvetaking.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Konsentrasjon av rusmidler i blodet",
+      "path": [],
+      "text": "Helsepersonell må ikke på noe tidspunkt i løpet av arbeidstiden ha høyere konsentrasjon av rusmidler i blodet enn hva som tilsvarer 0,2 promille alkohol.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Villfarelse om rusmiddelkonsentrasjonens størrelse",
+      "path": [],
+      "text": "Villfarelse med hensyn til rusmiddelkonsentrasjonens størrelse, fritar ikke for administrativ reaksjon eller straffereaksjon etter helsepersonelloven.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

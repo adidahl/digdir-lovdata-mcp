@@ -1,0 +1,147 @@
+{
+  "id": "FOR-2004-01-28-221",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gebyr i matforvaltningen",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2004-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-19-2824 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2004-01-28-221",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-01-28-221",
+  "raw_xml_sha256": "47ff91355b27be546defcd7e4f4f1e40a179fc40e9b7dac6189a83175d3d01ad",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kap. I. Innledende bestemmelser"
+      ],
+      "text": "Formålet med denne forskriften er å fastsette gebyr til dekning av kostnader i forbindelse med særskilte ytelser fra Mattilsynet og ytterligere offentlig kontroll.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kap. I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften fastsetter gebyr for særskilte ytelser i henhold til matloven, dyrevelferdsloven, dyrehelsepersonelloven, husdyravlsloven, produktkontrolloven og forskrifter gitt med hjemmel i disse lovene og gebyr for ytterligere offentlig kontroll i henhold til forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kap. I. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift forstås ved:----------Særskilte ytelser: behandling av søknader om godkjenning, utstedelse av attester, tildeling av merke- og eierrettigheter, avgiftsrettigheter og lignende.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Plikt til å betale gebyr",
+      "path": [
+        "Kap. IV. Gebyr for særskilte ytelser"
+      ],
+      "text": "Det skal betales gebyr for særskilte ytelser fra Mattilsynet. Gebyret skal kunne dekke de kostnader Mattilsynet har ved ytelsen.\nKostnadene omfatter alle forhold rundt behandling av søknader og utstedelse av attester o.l., også undersøkelser som må foretas forut for at søknaden kan ferdigbehandles eller attesten utstedes.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Fastsettelse av gebyr",
+      "path": [
+        "Kap. IV. Gebyr for særskilte ytelser"
+      ],
+      "text": "Mattilsynet fastsetter gebyret ut fra et forhåndsstipulert ressursforbruk for hver type særskilt ytelse.\nGebyrene er inndelt i følgende gebyrklasser:1 timeverk opp til 2 timeverk2 timeverk opp til 5 timeverk5 timeverk opp til 1 dagsverk1 dagsverk opp til 2 dagsverk2 dagsverk opp til 1 ukeverk1 ukeverk opp til 2 ukeverk2 ukeverk opp til 5 ukeverk5 ukeverk og oppover,hvor gebyret i hver klasse fastsettes ut fra det laveste ressursforbruk i gebyrklassen.\nFor ytelser med forhåndsstipulert ressursforbruk lavere enn 1 timeverk fastsettes gebyret uten bruk av gebyrklasse.\nGebyret beregnes ut fra en timesats på kr 925. Departementet kan i særskilte tilfelle fastsette avvikende timesats for ulike ytelser.\nMattilsynet fastsetter gebyr for plantevernmidler ut fra avvikende satser.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Ekstraordinære utgifter",
+      "path": [
+        "Kap. IV. Gebyr for særskilte ytelser"
+      ],
+      "text": "Dersom behandling av en særskilt søknad medfører ekstraordinære kostnader, så som ekstraordinære analysekostnader, eksterne rapporter mv., kan Mattilsynet kreve at disse også dekkes inn ved gebyr.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Innbetaling av gebyr",
+      "path": [
+        "Kap. IV. Gebyr for særskilte ytelser"
+      ],
+      "text": "Utgifter ved innkreving av gebyr skal belastes søker. For gebyr som ikke betales i rett tid skal det betales rente i samsvar med lov av 17. desember 1976 nr. 100 om renter ved forsinket betaling. Det kan også pålegges purregebyr.\nMattilsynet kan fastsette nærmere retningslinjer for innbetalingsmåten.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 15a",
+      "heading": "Gebyr til dekning av kostnader som følge av ytterligere offentlig kontroll",
+      "path": [
+        "Kap. IV A. Gebyr til dekning av kostnader som følge av ytterligere offentlig kontroll"
+      ],
+      "text": "Gebyr til dekning av kostnader som følge av ytterligere offentlig kontroll i henhold til forskrift 3. mars 2020 nr. 704 om offentlig kontroll for å sikre etterlevelse av regelverket for mat, fôr, plantevernmidler, dyrehelse og dyrevelferd (kontrollforskriften), jf. kontrollforordningen artikkel 79, skal utgjøre kr 2 775.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 15b",
+      "heading": "Innbetaling av gebyr",
+      "path": [
+        "Kap. IV A. Gebyr til dekning av kostnader som følge av ytterligere offentlig kontroll"
+      ],
+      "text": "Gebyrpliktig plikter å innbetale gebyr innen frist fastsatt av Mattilsynet.\nFor gebyr som ikke betales i rett tid skal det betales rente i samsvar med lov 17. desember 1976 nr. 100 om renter ved forsinket betaling. Det kan også pålegges purregebyr.\nMattilsynet kan fastsette nærmere retningslinjer for innbetalingen.\nGebyr er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Klage på vedtak",
+      "path": [
+        "Kap. V. Administrative bestemmelser"
+      ],
+      "text": "Vedtak etter denne forskrift kan påklages til departementene.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kap. V. Administrative bestemmelser"
+      ],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Straff og tvangsmulkt",
+      "path": [
+        "Kap. V. Administrative bestemmelser"
+      ],
+      "text": "Bestemmelser om straff og tvangsmulkt i matlov, dyrevernlov, husdyravlslov, dyrehelsepersonellov og forskrift gitt i medhold av disse lovene, kommer til anvendelse ved overtredelse av denne forskrift.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 20",
+      "heading": "Ikrafttredelse og overgangsbestemmelser",
+      "path": [
+        "Kap. V. Administrative bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 2004.\nSamtidig oppheves:Forskrift av 27. november 1992 nr. 875 om næringsmiddelavgift,Forskrift av 22. desember 1999 nr. 1525 om gebyr for tilsynsmyndighetenes tjenester,Forskrift av 16. juli 2002 nr. 842 om avgift for å finansiere TSE-testing,Forskrift av 17. desember 2002 nr. 1653 om avgift for å finansiere kontrollen med merkeordningen for beskyttede betegnelser,Forskrift av 21. desember 2000 nr. 1566 om avgift på fôr til selskapsdyr,Forskrift av 13. august 2000 nr. 869 om autorisasjonsavgift for såvareforretninger og avgift ved omsetning av såvare,Forskrift av 28. februar 1997 nr. 155 om innkreving av gebyr for behandling av søknader om godkjenning av tekniske desinfeksjonsmidler til bruk i fiskeoppdrettsanlegg m.v.,Forskrift av 28. februar 1997 nr. 157 om innkreving av gebyr for behandling av søknader om godkjenning av transportenheter for akvatiske organismer.\nFor avgift på importerte varer vil reglene i forskrift av 27. november 1992 nr. 875 om næringsmiddelavgift likevel gjelde og anvendes framfor denne forskrift til 9. februar 2004.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    }
+  ]
+}

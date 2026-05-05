@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1997-04-11-277",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om mellombels område med forbod mot oppankring og fiske på Njordfeltet.",
+  "short_title": "Forskrift om oppankringsforbod, Njord",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-04-15",
+  "lovdata_refid": "forskrift/1997-04-11-277",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-04-11-277",
+  "raw_xml_sha256": "5906afea765d7b1bb4d1d74a46bbfff8e039f20d3172a370aa4858b94305718e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften skal gjelda for forankringssystemet til høvesvis produksjonsplattforma og lagerinnretninga på Njordfeltet. Utstrekninga av området framgår av vedlagde koordinater.UTMGeografiskYtterpunkterNordØstNordØst17.129.260411.94064°16' 35,35''7°10' 53,56''27.129.550412.24064°16' 44,99''7°11' 15,23''37.129.980414.90064°17' 01,29''7°14' 32,00''47.129.710415.80064°16' 53,37''7°15' 39,43''57.129.040416.24064°16' 32,12''7°16' 13,49''67.128.330416.22064°16' 09,18''7°16' 13,44''77.127.830415.72064°15' 52,59''7°15' 37,31''87.127.650414.94064°15' 46,09''7°14' 39,75''97.127.630412.24064°15' 43,00''7°11' 19,30''107.127.980411.88064°15' 53,97''7°10' 57,82''\nUTM koordinater. UTM sone 32, SM 9° Ø – ED50.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innanfor området som er angitt i § 1 skal det være forbod mot all ugrunna oppankring, samt fiske med bunnreiskap som bunntrål og snurrevad.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettleg eller uaktsam brot av denne forskriften straffast etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 66, jf forskrift om sikkerhetssoner § 15.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. april 1997, og opphører når departementet bestemmer.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

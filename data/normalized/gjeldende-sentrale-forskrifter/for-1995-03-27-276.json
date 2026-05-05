@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1995-03-27-276",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kompetansekrav for bruk av særlige undersøkelses- og behandlingsmetoder.",
+  "short_title": "Forskrift om bruk av undersøkelsesmetoder mm",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1995-05-01",
+  "last_change_in_force": "2004-01-09",
+  "last_changed_by": "forskrift/2004-01-09-47",
+  "lovdata_refid": "forskrift/1995-03-27-276",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1995-03-27-276",
+  "raw_xml_sha256": "4f62d08c72dbbdd1859ba81d533fa323671eaae92ae19fdcf227d22f4ba0fe31",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Bare veterinærer kan bruke ultralydapparat til rektal undersøkelse av dyr.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Overtredelse av bestemmelsene gitt i denne forskrift er straffbart, jf. dyrehelsepersonelloven § 37.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne forskriften trer i kraft fra 1. mai 1995.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

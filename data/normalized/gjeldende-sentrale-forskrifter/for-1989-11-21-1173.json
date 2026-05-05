@@ -1,0 +1,73 @@
+{
+  "id": "FOR-1989-11-21-1173",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kapitalkrav for utenlandske livsforsikringsselskaper med filial i Norge",
+  "short_title": "Forskr. om kapitalkrav, utenl. livsforsikring",
+  "department": "Finansdepartementet",
+  "date_in_force": "1989-11-21",
+  "last_change_in_force": "2009-12-21",
+  "last_changed_by": "forskrift/2009-12-18-1726 fra 2009-12-21",
+  "lovdata_refid": "forskrift/1989-11-21-1173",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1989-11-21-1173",
+  "raw_xml_sha256": "6878029544f621305786d5580b0b0c9fa0b37a48bc0d5fe9566b493e332172e5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Minste kapital",
+      "path": [],
+      "text": "Utenlandsk livsforsikringsselskap med filial i Norge skal ha en kapital her i riket som tilsvarer de krav til egenkapital som er fastsatt for norske livsforsikringsselskaper med hjemmel i lovens § 7-3 annet ledd bokstav a.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Garanti",
+      "path": [],
+      "text": "Inntil halvparten av den kapital som kreves etter loven og denne forskrift, kan erstattes av bank- eller forsikringsgaranti stillet overfor og godkjent av Finanstilsynet dersom garantien:er utstedt av bank eller kredittforsikringsselskap som ikke tilhører det konsern filialen inngår ier undergitt norsk rettkan gjøres gjeldende ved påkravtvist om dekning i garantien kan avgjøres ved søksmål her i riket.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Uttalelse fra revisor",
+      "path": [],
+      "text": "Filialens revisor skal ved utløpet av hvert år avgi uttalelse til Finanstilsynet om kapitalkravet er tilfredsstillet, jf §§ 1 og 2.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Kapitalforvaltning",
+      "path": [],
+      "text": "Selskapet skal forvalte den kapital som selskapet i henhold til forsikringsvirksomhetsloven § 12-5 og § 1 i forskriften her skal ha her i riket i samsvar med bestemmelsene som gjelder for norske forsikringsselskap, jf. forsikringsvirksomhetsloven §§ 7-2, 7-4 med forskrifter samt lov 10. juni 1988 nr. 40 om finansieringsvirksomhet og finansinstitusjoner § 2-10.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Frigivelse av kapital og opphør av garanti",
+      "path": [],
+      "text": "Kapitalen kan bare tas ut av riket med Finanstilsynets godkjenning.\nGarantien etter § 2 kan først opphøre ett år etter utløpet av det kalenderår filialen måtte bli nedlagt, eller med Finanstilsynets godkjenning.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Avvikling av filial",
+      "path": [],
+      "text": "Dersom det ikke er tilstrekkelig kapital her i riket, skal det tilføres kapital slik at kravet tilfredsstilles innen en frist på fire uker eller en annen frist som fastsettes av Finanstilsynet.\nDersom det manglende beløp ikke blir innbetalt innen fristens utløp, skal filialen nedlegges. Det skal utarbeides en plan for avviklingen. Planen skal godkjennes av Finanstilsynet. Er planen ikke utarbeidet innen en frist på fire uker fra utløpet av den frist som er fastsatt i første ledd, gir Finanstilsynet regler for avviklingen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Bestemmelsene i denne forskrift gjelder ikke for filial for forsikringsselskap som har sitt hovedsete i en annen stat innenfor Det europeiske økonomiske samarbeidsområde.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

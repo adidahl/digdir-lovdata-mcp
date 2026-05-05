@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2005-09-09-1043",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler ved avviklingen av de særlige reglene om nettoligning av visse sameier i skatteloven § 10-40 annet ledd.",
+  "short_title": "Forskrift om overgangsregler til lov 2005:74",
+  "department": "Finansdepartementet",
+  "date_in_force": "Inntektsåret 2006",
+  "lovdata_refid": "forskrift/2005-09-09-1043",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-09-09-1043",
+  "raw_xml_sha256": "a40366819c58c6f7108949848cc52603e963b91b68b42403c848bf17aaabb145",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Realisasjon",
+      "path": [],
+      "text": "Den enkelte sameiers eierandel i sameiets enkelte eiendeler, skal ved overgangen til bruttoligning tilsvare den enkelte sameiers eierandel i det nettolignede sameiet pr. 31. desember 2005. Overgangen fra nettoligning til bruttoligning i samsvar med første punktum anses ikke som realisasjon av de enkelte sameieres andeler i sameiet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Sameiets skatteposisjoner",
+      "path": [],
+      "text": "Den enkelte sameiers skattemessige inngangsverdi for de eiendeler som inngår i sameiet, settes til en andel av sameiets skattemessig inngangsverdi for eiendelene pr. 31. desember 2005, svarende til eierandelen i sameiet. Sameiets øvrige skatteposisjoner, herunder gevinst- og tapskonto, negative saldi, tomme positive saldi, betingede skattefrie gevinster mv., fordeles mellom sameierne på samme måte.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Over- og underpris ved erverv av andel",
+      "path": [],
+      "text": "Andelseierens over- eller underpris ved erverv av andelen, jf. skatteloven § 10-44 tredje ledd tredje punktum, legges til eller trekkes fra i inngangsverdien for andelen i de driftsmidler som inngår i sameiet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Særregler ved endring av ligningsmåte fra brutto- til nettoligning pr. 1. januar 1992",
+      "path": [],
+      "text": "For deltaker som fikk endret ligningsmåte fra brutto- til nettoligning i forbindelse med skattereformen 1992, og som pr. 31. desember 1991 hadde rett til oppregulering av inngangsverdien på eiendel som tilhørte sameiet, skal deltakerens andel av den oppregulerte verdien tillegges deltakerens inngangsverdi for andelen av eiendelen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Skattefritak for visse realisasjonsgevinster",
+      "path": [],
+      "text": "Ved realisasjon av andel av eiendom som etter sin art faller inn under skatteloven § 9-3 annet til sjette ledd, skal sameierens eier- og brukstid mens sameiet har vært gjenstand for nettoligning, regnes med ved vurderingen av om kravene til eier- og brukstid er oppfylt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks med virkning fra og med inntektsåret 2006.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

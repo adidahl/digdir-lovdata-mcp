@@ -1,0 +1,418 @@
+{
+  "id": "FOR-2009-10-01-1226",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til taksametre",
+  "short_title": "Forskrift om krav til taksametre",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2010-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-01-1989 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2009-10-01-1226",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-10-01-1226",
+  "raw_xml_sha256": "8b5b7eeaf6be734ccf2db9eb69da109d4a6331887c74f084fc1b9adbe13f4895",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder når det er fastsatt krav til taksametre i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1.\nForskriften fastsetter krav til installasjon og bruk av taksametre og gir utfyllende regler om kontroll og godkjenning ved installasjon og under bruk. Forskriften fastsetter også krav til tilleggsinnretninger.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "I forskriften menes medtaksameter: en innretning som sammen med en signalgenerator utgjør et måleredskap. Innretningen måler varighet og beregner distanse på grunnlag av et signal levert av avstandssignalgeneratoren og beregner og angir beløpet som skal betales for en tur, på grunnlag av turens beregnede distanse og/eller målt varighettilleggsinnretning: en innretning eller programvare som kobles til taksameterets grensesnittmålestørrelsen: den bestemte størrelsen som skal målesoppdragspris: det samlede pengebeløp som skal betales for en tur basert på en fast starttakst og/eller turens lengde og/eller varighet uten tillegg for ekstra tjenesterbrytningspunkt: hastighetsverdien man får ved å dividere en tidstakst med avstandstakstnormal beregningsmåte S (anvendelse av enkelttakst): prisberegning basert på anvendelse av tidstaksten under brytningspunktet og anvendelsen av avstandstaksten over brytningspunktetnormal beregningsmåte D (anvendelse av parallelltakst): prisberegning basert på samtidig anvendelse av tidstakst og avstandstakst under hele turendriftsstillinger: forskjellige modus for taksameterets ulike funksjoner. Driftsstillingene kjennetegnes av følgende:Ledig: driftsstilling der prisberegningen er deaktivertOpptatt: driftsstilling der prisberegningen gjøres på grunnlag av en takst for turens tilbakelagte distanse og/eller tid og en eventuell starttakstStopp: driftsstilling der oppdragsprisen for turen er angitt, og i hvert fall prisberegningen som er basert på tid, er deaktivert.påvirkende størrelse: en størrelse som ikke er målestørrelsen, men som påvirker måleresultatetangitte driftsbetingelser: de verdier av målestørrelsen og påvirkende størrelser som utgjør taksameterets normale driftsbetingelserforstyrrelse: en påvirkende størrelse med en verdi som er innenfor de grenser som er spesifisert i de relevante krav, men utenfor taksameterets angitte driftsbetingelser. En påvirkende størrelse er en forstyrrelse dersom den ikke er spesifisert i de angitte driftsbetingelserklimatiske miljøer: de omgivelser der taksameteret kan benyttes.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kontroll og godkjenning ved salg av taksametre",
+      "path": [
+        "Kapittel 1 – Innledende bestemmelser"
+      ],
+      "text": "Taksametre som selges eller tilbys for salg, skal ha gyldig samsvarsvurdering etter bestemmelsene i forskrift 20. desember 2007 nr. 1723 om målenheter og måling kapittel 4.\nSamsvarsvurderingen skal omfatte taksameterets tilkoblingsmuligheter til de påkrevde tilleggsinnretninger, jf. § 8 og muligheten for automatisk forhindring av drift av taksameteret dersom de påkrevde tilleggsinnretningene ikke er installert eller ikke fungerer korrekt.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Konstruksjonskrav",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Et taksameter skal ha en høy grad av måleteknisk beskyttelse slik at alle berørte parter kan ha tillit til måleresultatet, og det skal konstrueres og fremstilles etter tilfredsstillende kvalitetsnivå med hensyn til måleteknologi og måledataenes sikkerhet.\nEt taksameter skal være konstruert slik at det lett kan vurderes om det er i samsvar med kravene i denne forskriften. Det skal tas hensyn til taksameterets påtenkte bruk og påregnelig feilbruk ved valg av løsninger som anvendes for å oppfylle kravene.\nEt taksameter skal være konstruert slik at dets måletekniske egenskaper er tilstrekkelig stabile i et tidsrom fastsatt av produsenten, forutsatt at det monteres, vedlikeholdes og brukes korrekt i samsvar med produsentens anvisninger og i det miljø det er bestemt for.\nEt taksameter skal være konstruert slik at det kan overholde maksimale tillatte målefeil uten regulering over et tidsrom på minst ett år med normal bruk.\nEt taksameter skal være konstruert slik at det beregner distansen og måler varigheten av en tur. For at taksameteret skal kunne prøves etter installasjon, skal det ha mulighet til separat prøving av nøyaktigheten i tids- og avstandsmålingen og av nøyaktigheten i beregningen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Egnethet mv.",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Et taksameter skal væreegnet til den påtenkte bruk ved at det tas hensyn til driftsbetingelser som forekommer i praksis, og ved at det ikke skal stilles urimelige krav til brukeren for å oppnå et korrekt måleresultatrobust og framstilt av materialer som er velegnet til de påtenkte driftsbetingelserkonstruert slik at målefunksjonen skal kunne kontrolleres etter at taksameteret er markedsført og tatt i bruk, og om nødvendig skal særskilt utstyr eller programvare til kontrollen være en del av taksameteret. Testprosedyren skal være beskrevet i bruksanvisningentilstrekkelig følsomt og ha tilstrekkelig oppløsning tilpasset måleoppgavenkonstruert slik at virkningen av en funksjonsfeil som medfører et unøyaktig måleresultat reduseres så langt som mulig, med mindre feilen er åpenbar.\nEt taksameter skal ikke ha noen egenskaper som gjør det egnet for bruk til bedrageri, og muligheten for feilbruk skal være minst mulig. Kravet skal oppfylles på en slik måte at interessene til kunde, fører, førerens arbeidsgiver og skatte- og avgiftsmyndigheter beskyttes.\nDersom et taksameter kobles til en annen innretning direkte eller ved fjerntilkobling, skal dets måletekniske egenskaper ikke påvirkes av innretningen på en feilaktig måte.\nDersom et taksameter har tilknyttet programvare med andre funksjoner enn målefunksjonen, skal programvaren som har avgjørende betydning for målefunksjonen kunne identifiseres, og den skal ikke utsettes for forstyrrende påvirkning fra de tilknyttede programvarefunksjonene.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Krav til normaltidsklokke",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Et taksameter skal være utstyrt med en sanntidsklokke som holder rede på klokkeslett og dato, som kan brukes til automatisk endring av takster. Kravene til sanntidsklokken er følgende:Tidsmålingen skal ha en nøyaktighet på minimum 0,02 %Korrigeringsmuligheten skal ikke være på mer enn 2 minutter per uke og korrigering for sommer- og vintertid skal utføres automatiskAutomatisk og manuell korrigering under en tur skal forhindres.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Krav til tilleggsinnretninger som skal kunne tilkobles taksametre",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Følgende tilleggsinnretninger skal kunne tilkobles et taksameter:SkriverTakskiltBetalingsterminalKommunikasjonsenhet for overføring av data.\nTilleggsinnretningenes funksjoner kan bygges inn i taksameteret helt eller delvis.\nDersom tilleggsinnretningene som er angitt i første ledd, ikke er installert eller ikke fungerer korrekt, skal det ved hjelp av en sikret innstilling være mulig å automatisk forhindre drift av taksameteret.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Opplysninger som skal påføres taksametre",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Et taksameter skal være påført produsentens merke eller navn og opplysninger om taksameterets nøyaktighet. I den grad det er relevant skal også følgende opplysninger påføres:Opplysninger om bruksbetingelserMålekapasitetMåleområdeUnikt identitetsmerkeNummer på sertifikat for EF-typegodkjenning eller EF-konstruksjonsundersøkelseInformasjon om hvorvidt tilleggsinnretninger som angir måleresultater er omfattet av samsvarsvurderingen av taksameteret.\nAlle merker og påskrifter skal være tydelige og utvetydige, og de skal ikke kunne fjernes eller flyttes.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Opplysninger som skal følge taksametre",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Opplysninger om betjening skal følge taksameteret med mindre taksameteret er så enkelt at dette er unødvendig. Opplysningene skal være lette å forstå og i relevant omfang omfatte følgende:Angitte driftsbetingelserElektromagnetisk miljøØvre og nedre temperaturgrenseAnvisninger for montering, vedlikehold, reparasjoner og tillatte innstillingerAnvisninger for korrekt betjening og eventuelle særlige bruksvilkårVilkår for kompatibilitet med grensesnitt, underenheter eller måleredskapVilkårene for kompatibilitet mellom taksameteret og avstandssignalgeneratoren.\nFor grupper av identiske taksametre er det ikke nødvendig med individuell bruksanvisning for hver enkelt.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "Krav til installasjonsanvisningen",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Et taksameter og installasjonsanvisningene fra produsenten skal være slik at en installasjon i samsvar med produsentens anvisning ikke gjør det mulig å endre målesignalet som representerer turens tilbakelagte avstand.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "heading": "Beskyttelse mot manipulering (plombering)",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Komponenter som har avgjørende betydning for de måletekniske egenskapene, skal være konstruert slik at de kan sikres. De anvendte sikkerhetstiltak skal gjøre det mulig å påvise om inngrep har funnet sted.\nProgramvare som har avgjørende betydning for de måletekniske egenskapene, skal være identifisert som dette, og skal være sikret. Identifikasjon av slik programvare skal lett kunne framskaffes fra taksameteret. Eventuell informasjon om eller indikasjon på at det har funnet sted et inngrep skal være tilgjengelig i to år.\nTaksameter skal ha midler til sikring av forbindelsen mellom taksameteret og kjøretøyet det er installert i.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "heading": "Sikring av data og innstillinger",
+      "path": [
+        "Kapittel 2 – Konstruksjonskrav mv."
+      ],
+      "text": "Det skal være mulig å sikre innstillingen av kalibreringsfaktoren for avstandssignalgeneratoren i et taksameter. Endringer i kalibreringsfaktoren skal medføre at dato og klokkeslett registreres i et separat register som skal være lett tilgjengelig for kontroll. Endringer i kalibreringsfaktoren skal lagres i taksameteret i to år.\nDersom oppdragsprisen som skal betales, eller tiltakene som skal treffes mot uredelig bruk, kan påvirkes av valget av funksjonalitet fra en forhåndsprogrammert innstilling eller ved fri datainnstilling, skal det være mulig å sikre instrumentinnstillingene og de innmatede dataene.\nDe sikringsmulighetene som finnes i et taksameter skal være slik at separat sikring av innstillingene er mulig.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Beregning av oppdragspris",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal kunne anvende de normale beregningsmåtene S og D. Det skal være mulig å velge mellom disse beregningsmåtene ved hjelp av en sikret innstilling.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Automatisk endring av takst",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Automatisk endring av takst er bare tillatt på grunnlag av:Turens avstandTurens varighetKlokkeslettDatoUkedag.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Strømforsyningsfeil",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal ved reduksjon i spenningsforsyningen til en verdi under nedre driftsgrense angitt av produsentenfortsette å fungere korrekt eller gjenoppta korrekt drift uten tap av dataene som var tilgjengelige før spenningsfallet dersom spenningsfallet er midlertidig, dvs. pga. gjenoppstarting av motorenstoppe en eksisterende måling og gå tilbake til driftsstillingen «Ledig» dersom spenningsfallet er mer langvarig.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "Summeringsinnretninger og summerte verdier",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal være utstyrt med en summeringsinnretning som ikke kan nullstilles for følgende verdier:Samlet avstand tilbakelagt av kjøretøyetSamlet avstand tilbakelagt i driftsstilling «Opptatt»Samlet antall turer i driftsstillingen «Opptatt»Samlet pengebeløp innkrevd som tilleggSamlet pengebeløp innkrevd som oppdragspris.\nDe summerte verdiene skal omfatte verdier som er lagret under bortfall av strømforsyningen, jf. § 16. Dersom strømforsyningen til et taksameter frakobles, skal de summerte verdiene kunne lagres i ett år slik at verdiene fra taksameteret kan avleses til et annet medium.\nDet skal treffes hensiktsmessige tiltak for å hindre at de summerte verdiene brukes til å bedra passasjerer.\nBestemmelsen er ikke til hinder for at andre verdier summeres og lagres dersom dette er nødvendig for å etterleve krav i annet regelverk eller av andre grunner er hensiktsmessig.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 18",
+      "heading": "Krav til levering av data",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal kunne levere følgende data gjennom ett eller flere egnede sikre grensesnitt:Driftsstilling: «Ledig», «Opptatt», «Stopp»Summeringsdata i samsvar med § 17Alminnelige opplysninger: kalibreringsfaktor for avstandssignalgeneratoren, dato for sikring, drosje-ID, sanntid, takstidentifikasjonOppdragspris for en tur: samlet beløp, oppdragspris, beregning av oppdragspris, tillegg, dato, starttid, sluttid, tilbakelagt distanseTakstopplysninger: takstparametre.\nData som er angitt i første ledd, må kunne overføres elektronisk for ekstern avlesning eller lagring.\nFørste ledd er ikke til hinder for at annen data leveres og overføres dersom dette er nødvendig for å etterleve krav i annet regelverk eller av andre grunner er hensiktsmessig.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 19",
+      "heading": "Krav til sikker lagring av måledata",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Måledata som er angitt i § 18 bokstav b og d, må lagres så lenge det er aktuelt å benytte måleverdiene som grunnlag for økonomisk oppgjør eller så lenge lagring er påkrevd etter annet regelverk.\nTakster, måledata, programvare som er av avgjørende betydning for måleegenskapene, og måleteknisk viktige parametre som lagres eller overføres, skal være beskyttet på hensiktsmessig vis mot tilsiktede eller utilsiktede endringer.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 20",
+      "heading": "Ytterligere behandling av data for å avslutte en handelstransaksjon",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal på en varig måte registrere måleresultatet sammen med opplysninger som identifiserer den bestemte transaksjonen, når målingen ikke kan gjentas og taksameteret normalt er beregnet brukt i tilfeller hvor den ene parten i transaksjonen er fraværende.\nI tillegg skal et varig bevis på måleresultatet og opplysninger for identifikasjon av transaksjonen kunne stilles til rådighet på anmodning idet målingen avsluttes.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 21",
+      "heading": "Visning av resultat",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Resultatet skal vises på en visningsanordning og salgskvittering. Resultatet på visningsanordningen skal vises for begge parter i transaksjonen. Ved utskrift skal skriften eller registreringen være lett lesbar og ikke kunne fjernes.\nAlle resultater skal være tydelige og utvetydige og ledsaget av de merker og påskrifter som er nødvendige for å opplyse brukeren om resultatets betydning. Resultatet som vises skal være lett lesbart under normale bruksforhold. Ytterligere informasjon kan vises under forutsetning av at den ikke kan forveksles med de måleteknisk kontrollerte resultatene.\nDersom det skal betales et tillegg for en ekstratjeneste som føreren taster inn manuelt, skal denne utelates fra den viste oppdragsprisen. I et slikt tilfelle kan et taksameter midlertidig vise verdien av oppdragsprisen, med tillegget medregnet.\nDersom oppdragsprisen beregnes etter beregningsmåte D, kan et taksameter ha en ytterligere visningsmåte der bare den samlede avstanden og turens varighet vises i sanntid.\nAlle verdier som vises for passasjeren, skal identifiseres på en hensiktsmessig måte. Disse verdiene og deres identifikasjon skal være klart leselige i dagslys og om natten.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 22",
+      "heading": "Angivelse av måleverdi/målenheter",
+      "path": [
+        "Kapittel 3 – Funksjonskrav mv."
+      ],
+      "text": "Et taksameter skal være konstruert slik at det beregner og viser oppdragsprisen i kroner i driftsstillingen «Opptatt». Taksameteret skal også være konstruert slik at det viser den endelige prisen for turen i driftsstillingen «Stopp».\nVerdiene for tilbakelagt avstand og medgått tid skal, når de vises eller skrives ut i samsvar med forskriften, benytte følgende enheter:For tilbakelagt avstand: kilometerFor medgått tid: sekunder, minutter eller timer, etter egnethet, idet det tas hensyn til den nødvendige oppløsning og behovet for å unngå misforståelser.\nMinstedelingen for en målt verdi skal være på formen 1 × 10n, 2 × 10n eller 5 × 10n, hvor n er et heltall eller null. Målenheten eller dens symbol skal vises nær tallverdien.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 23",
+      "heading": "Maksimale tillatte målefeil ved salg",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Med unntak for eventuelle feil som skyldes anvendelse av taksameteret i et kjøretøy, er maksimale tillatte målefeil under de angitte driftsbetingelser og i fravær av forstyrrelsefor medgått tid: ±0,1 %, minimumsverdi for maksimale tillatte målefeil: 0,2 sfor tilbakelagt distanse: ±0,2 %, minimumsverdi for maksimale tillatte målefeil: 4 mfor beregning av oppdragspris: ±0,1 %, minimum, herunder avrunding: tilsvarende det minst signifikante siffer i prisangivelsen.\nDen maksimale tillatte målefeil uttrykkes som avviket fra den sanne måleverdi som et tosidig intervall.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 24",
+      "heading": "Reproduserbarhet og repeterbarhet",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Dersom et taksameter brukes til å måle den samme målestørrelsen, men på ulike steder og av ulike brukere, skal resultatene av påfølgende målinger være i nært samsvar. Variasjonen i måleresultatene skal være liten i forhold til maksimale tillatte målefeil.\nDersom målestørrelsen har samme verdi og måleforholdene er uendret, skal de påfølgende måleresultatene stemme godt overens. Variasjonen i måleresultatene skal være liten i forhold til maksimale tillatte målefeil.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 25",
+      "heading": "Grunnleggende regler for forsøk og bestemmelse av feil",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Maksimale tillatte målefeil skal kontrolleres for hver relevant påvirkende størrelse. Disse grunnleggende kravene gjelder når hver påvirkende størrelse påføres og virkningen av den vurderes separat, idet alle andre påvirkende størrelser holdes relativt konstante ved sine referanseverdier.\nMåleforsøk skal utføres under og etter påføring av den påvirkende størrelsen, alt etter hva som tilsvarer normal driftsstatus for taksameteret når denne påvirkende størrelsen kan antas å opptre.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 26",
+      "heading": "Påvirkende størrelser",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Under hensyn til kravene i forskriften skal produsenten angi det klimatiske, mekaniske og elektromagnetiske miljø som taksameteret er beregnet brukt i, og strømforsyning og andre størrelser som kan påvirke målenøyaktigheten.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 27",
+      "heading": "Klimatiske miljø",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Produsenten skal angi øvre og nedre temperaturgrense med et minste temperaturområde på 80 °C. Øvre grense skal være 40, 55 eller 70 °C. Nedre grense skal være -10, -25 eller -40 °C. Taksameteret skal være egnet til den påtenkte bruk, idet det tas hensyn til de i praksis forekommende driftsbetingelser, jf. § 6.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 28",
+      "heading": "Mekaniske miljø",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Det mekaniske miljø klassifiseres i klasse M1, M2 og M3. Den mekaniske miljøklassen som får anvendelse for taksametre, er M3. Denne klassen omfatter måleredskap som anvendes på steder med høyt og meget høyt vibrasjons- og sjokknivå, for eksempel måleredskap montert direkte på maskiner, transportbånd osv.\nDet skal tas hensyn til følgende påvirkende størrelser i forbindelse med det mekaniske miljø:VibrasjonMekanisk sjokk.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 29",
+      "heading": "Elektromagnetiske miljø",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Det elektromagnetiske miljø klassifiseres i klasse E1, E2 og E3. Den elektromagnetiske miljøklassen som får anvendelse for taksametre, er E3. Maksimale tillatte målefeil fastsatt i § 23 skal overholdes også i nærvær av en elektromagnetisk forstyrrelse.\nKlassen E3 omfatter måleredskap som får strøm fra batteriet i et kjøretøy. Slike måleredskap skal oppfylle kravene for klasse E2. Klasse E2 omfatter måleredskap som anvendes på steder med elektromagnetiske forstyrrelser tilsvarende dem man kan finne i industribygg. For klasse E3 gjelder kravene i tillegg ved:Spenningsfall forårsaket av oppladning av startkretsen i forbrenningsmotorerSpenningstransienter ved frakobling av utladet batteri mens motoren er i drift.\nDet skal tas hensyn til følgende påvirkende størrelser i forbindelse med elektromagnetiske miljø:SpenningsavbruddKortvarig redusert spenningSpenningstransienter på forsyningsledninger og/eller signalledninger, elektrostatiske utladningerHøyfrekvente elektromagnetisk feltOverførte høyfrekvente elektromagnetiske felt på forsyningsledninger og/eller signalledningerOverspenning på forsyningsledninger og/eller signalledninger.\nDet skal tas hensyn til følgende andre påvirkende størrelser når dette er hensiktsmessig:SpenningsvariasjonAndre størrelser som kan påvirke taksameterets nøyaktighet i vesentlig grad.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 30",
+      "heading": "Luftfuktighet",
+      "path": [
+        "Kapittel 4 – Målefeil og påvirkende størrelser"
+      ],
+      "text": "Avhengig av det klimatiske miljø taksameteret er ment brukt i, kan det mest hensiktsmessige testforløp enten være stasjonær fuktig varme (ikke-kondenserende), eller syklisk fuktig varme (kondenserende).\nTestforløp med syklisk varierende fuktighet er hensiktsmessig dersom kondensering er viktig, eller dersom dampgjennomtrengning vil bli fremskyndet av ventilasjon. Ved forhold der ikke-kondenserende luftfuktighet er viktig, er testforløp med stasjonær fuktig varme hensiktsmessig.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 31",
+      "heading": "Hvem som er ansvarlig",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Bruker av et taksameter er ansvarlig for etterlevelse av kravene i dette kapittelet. Løyvehaver anses normalt som bruker av et taksameter dersom ingen særlige grunner taler for at sjåfør eller andre skal anses som bruker.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 32",
+      "heading": "Krav til bruk av taksametre",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Et taksameter er bare tillatt å ta i bruk dersom det foreligger en gyldig samsvarsvurdering i henhold til § 3, taksameteret er installert i henhold til § 33 ogJustervesenet har kontrollert og godkjent installasjonen av taksameteret i kjøretøyet og tilkoblingen til de tilleggsinnretninger som er påkrevd i henhold til § 8, ellerløyvehaver kan dokumentere at det er rekvirert installasjonskontroll hos Justervesenet der plomberingenes plassering og identitetsmerke er oppgitt.\nEt taksameter som ikke er rettmessig samsvarsmerket, er ikke tillatt å bruke. Et taksameter kan bare brukes innenfor de angitte driftsbetingelsene som er omfattet av samsvarsvurderingen. Et taksameter skal brukes i henhold til produsentens anvisninger.\nDet er ikke tillatt å bruke et taksameter slik at måleresultatet som fremskaffes av taksameteret kan påvirkes på en feilaktig måte. Frakobling eller annen form for manipulering av signalgenerator, signalgeneratorens giver eller signalgeneratorens forbindelse til taksameteret er ikke tillatt. Det er ikke tillatt å ha installert innretning som muliggjør slik frakobling eller manipulering. Frakobling i forbindelse med vedlikehold og reparasjon er likevel tillatt når kjøretøyet taksameteret er installert i står i ro.\nNår et taksameter skifter løyvehaver skal ny løyvehaver gi melding til Justervesenet, dersom ikke skiftet utløser annen meldeplikt til Justervesenet.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 33",
+      "heading": "Krav til installasjon",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Et taksameter skal installeres i henhold til produsentens anvisninger. Ved installasjon av et taksameter skal taksameterets tilkobling til strømtilførsel sikres slik at frakobling ikke er mulig uten at det etterlater spor. Ved installasjonen skal også taksameteret og dets innstillinger sikres i henhold til taksameterets samsvarsvurdering og produsentens anvisninger. Alle plomberinger må ha et unikt identitetsmerke.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 34",
+      "heading": "Krav til tilleggsinnretninger som skal være tilkoblet taksametre under bruk",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Følgende tilleggsinnretninger skal være tilkoblet et taksameter under bruk:Takskilt, dersom det benyttesVisningsanordning og skriverBetalingsterminal dersom det skal benyttesKommunikasjonsenhet for overføring av data.\nTilleggsinnretningene og tilkoblingen til disse skal ikke ha egenskaper som gjør dem egnet for bruk til bedrageri, og muligheten for utilsiktet feilbruk skal være minst mulig. Takskilt skal fungere slik at lampen er slukket i driftsstilling «Opptatt» og «Stopp».",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 35",
+      "heading": "Maksimale tillatte målefeil ved installasjon og under bruk",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Maksimale tillatte målefeil for taksametre ved installasjon og under bruk erfor medgått tid: ±0,25 %for tilbakelagt distanse: ±3 %for beregning av oppdragspris: ±0,1 %.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 36",
+      "heading": "Opplysninger som skal være tilgjengelig ved måleteknisk kontroll",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Følgende opplysninger skal være lett tilgjengelig ved måleteknisk kontroll og lagres i taksameteret i minimum to år:Alle endringer i kalibreringsfaktorAlle endringer i programvare som har avgjørende betydning for de måletekniske egenskapene.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 37",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Justervesenet kan bestemme at tilsynet skal foretas på et nærmere angitt sted i det området der taksameteret vanligvis brukes, eller i nærheten av Justervesenets lokaler.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 38",
+      "heading": "Dekkskifte og plombebrudd",
+      "path": [
+        "Kapittel 5 – Krav til installasjon og bruk av taksametre"
+      ],
+      "text": "Bruker er ansvarlig for å melde ifra til Justervesenet dersom det foretas et nytt dekkskifte med endring av dekkdimensjonen som kan føre til at måleresultatet i vesentlig grad påvirkes. Taksameteret kan ikke tas i bruk før bruker av måleredskapet har meldt fra til Justervesenet.\nVed plombebrudd skal bruker ta taksameteret ut av bruk dersom det ikke blir foretatt en ny plombering av en installatør eller andre med tilsvarende kompetanse. Plomberingen må ha et unikt identitetsmerke, som skal oppgis til Justervesenet samtidig som brukeren melder fra om plombebruddet, jf. forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 5-5 annet ledd.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 39",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 6 – Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av bestemmelsene i denne forskriften kan medføre overtredelsesgebyr utmålt etter bestemmelsene i forskrift 20. desember 2007 nr. 1723 om målenheter og måling kapittel 7.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 40",
+      "heading": "Overgangsordning",
+      "path": [
+        "Kapittel 6 – Avsluttende bestemmelser"
+      ],
+      "text": "Taksametre uten gyldig samsvarsvurdering solgt før 1. januar 2010 kan brukes frem til 1. januar 2012.\nJustervesenet kan etter søknad gi tillatelse til at et taksameter eller en gruppe taksametre som er uten gyldig samsvarsvurdering og produsert før forskriftens ikrafttredelse, kan selges og brukes frem til 1. januar 2012.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 41",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6 – Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2010.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2022-06-26-1194",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Schengen informasjonssystem (SIS-forskriften)",
+  "short_title": "SIS-forskriften",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2023-03-07",
+  "last_change_in_force": "2023-02-17",
+  "last_changed_by": "forskrift/2023-02-17-213",
+  "lovdata_refid": "forskrift/2022-06-26-1194",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-06-26-1194",
+  "raw_xml_sha256": "0232170f8b515450a40a7aed907ebf16a62df32ce8e8e7293ff42dc3177c5968",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Behandlingsansvar",
+      "path": [],
+      "text": "Utlendingsmyndighetene er behandlingsansvarlig for behandling av opplysninger om innreiseforbud etter grensekontrollforordningen artikkel 24 og etter returforordningen.\nBegjæringer om innsyn, retting eller sletting kan likevel fremsettes for Kripos.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Erstatning",
+      "path": [],
+      "text": "SIS-loven § 19 gjelder for krav om erstatning for skade som er påført av en norsk behandlingsansvarlig eller databehandler.\nFor krav om erstatning for skade påført av en annen medlemsstat etter politisamarbeidsforordningen gjelder politisamarbeidsforordningen artikkel 72. For krav om erstatning for skade påført av en annen medlemsstat etter grensekontrollforordningen og returforordningen gjelder grensekontrollforordningen artikkel 58.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Klageinstans for klager over avgjørelser om erstatning for behandling av opplysninger etter grensekontrollforordningen artikkel 24",
+      "path": [],
+      "text": "Avgjørelser om erstatning for behandling av opplysninger etter grensekontrollforordningen artikkel 24 kan påklages til departementet av den registrerte.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse og endringer i andre forskrifter",
+      "path": [],
+      "text": "Forskriften trer i kraft 7. mars 2023. Fra samme tidspunkt oppheves forskrift 21. desember 2000 nr. 1365 til lov om Schengen informasjonssystem (SIS-forskriften).",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

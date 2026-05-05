@@ -1,0 +1,78 @@
+{
+  "id": "FOR-1999-12-20-1515",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om film og videogram.",
+  "short_title": "Forskrift om film og videogram",
+  "department": "Kultur- og likestillingsdepartementet",
+  "date_in_force": "2000-01-01",
+  "last_change_in_force": "2022-02-10",
+  "last_changed_by": "forskrift/2022-02-10-191",
+  "lovdata_refid": "forskrift/1999-12-20-1515",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-12-20-1515",
+  "raw_xml_sha256": "498ef1a6bf2d221e542c9a03c1b8812dffb322649bbf8c6e3a5f2bf5bc4d7f30",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Verkeområde",
+      "path": [
+        "Kapittel 1. Verkeområde og definisjonar"
+      ],
+      "text": "Lova og forskriftene gjeld ikkje på Svalbard, Jan Mayen og på anlegg og innretningar på den norske delen av kontinentalsokkelen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjonar",
+      "path": [
+        "Kapittel 1. Verkeområde og definisjonar"
+      ],
+      "text": "Distributør tyder i denne forskrifta både firma og ansvarleg leiar av firma som driv distribusjon av film eller videogram.\nSom distributør av ein film eller eit videogram reknast i denne forskrifta den som driv omsetning av film eller videogram i næring.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Unntak frå krav om løyve",
+      "path": [
+        "Kapittel 2. Kommunal løyveplikt"
+      ],
+      "text": "Det krevst ikkje kommunalt løyve for:framsyning av film eller videogram der det ikkje krevst særskild betaling for framsyninga,framsyning eller omsetning av film eller videogram i hotellrom,omsetning av videogram som berre inneheldopptak frå offentlege arrangement, framsyningar eller tilstellingar,musikk- eller idrettsstoff,dokumentar-, aktualitets- eller nyhendestoff,forskings- eller hobbystoff,opplysnings- eller undervisningsstoff til bruk i undervisninga ved skolar, universitet og høgskolar og ved vaksenopplæring i organisasjonar og institusjonar som er godkjende etter lov 28. mai 1976 nr. 35 om voksenopplæring,informasjon om, og reklame for, varer og tenester.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Betaling av avgift til staten",
+      "path": [
+        "Kapittel 3. Avgift til staten"
+      ],
+      "text": "Det skal førast særskild rekneskap for avgiftspliktig framsyning eller omsetning. Rekneskapen skal reviderast av ein registrert eller statsautorisert revisor. Rekneskapen til kommunale kinoar skal reviderast av kommunerevisjonen.\nFor framsyning av film eller videogram i næring skal avgiftsgrunnlag og avgiftsbeløp kvart kvartal fyllast ut på eit skjema til Norsk filminstitutt. Meirverdiavgift skal ikkje reknast inn i avgiftsgrunnlaget.\nFor omsetning av videogram skal distributøren kvart kvartal rapportere om netto omsetning på eit felles skjema til Medietilsynet.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Unntak frå kravet om betaling av avgift",
+      "path": [
+        "Kapittel 3. Avgift til staten"
+      ],
+      "text": "Det skal ikkje betalast avgift for framsyning av film eller videogram som ikkje krev kommunalt løyve etter § 2-1 pkt. 1 eller 2.\nDet skal ikkje betalast avgift for omsetning av videogram som berre inneheld musikkstoff. Medietilsynet avgjer i tvilstilfelle om eit videogram berre inneheld musikkstoff.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "Ikraftsetjing",
+      "path": [
+        "Kapittel 11. Ikraftsetjing"
+      ],
+      "text": "Forskrifta trer i kraft 1. januar 2000. Frå same tid opphevast forskrift av 7. desember 1987 nr. 998 om film og videogram, likevel slik at § 3-1 i denne forskrifta gjeld for rapportering og innkrevjing av avgift som gjeld omsetning før 1. januar 2000.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    }
+  ]
+}

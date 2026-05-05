@@ -1,0 +1,519 @@
+{
+  "id": "FOR-2015-07-03-871",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om prøvetaking og analyse for offentlig kontroll av visse forurensende stoffer i næringsmidler",
+  "short_title": "Forskrift om prøvetaking mv. for forurensende næringsmidler",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2015-07-03",
+  "last_change_in_force": "2026-02-09",
+  "last_changed_by": "forskrift/2026-02-09-174",
+  "lovdata_refid": "forskrift/2015-07-03-871",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-07-03-871",
+  "raw_xml_sha256": "cb196d2de8da596ac614b86d456b0946c6f840df3abe5fc7916004bdf223feb9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder prøvetakings- og analysemetoder for offentlig kontroll av nivåene av visse forurensende stoffer i innsatsvarer og næringsmidler.\nForskriften gjelder for norsk land- og sjøterritorium, norske luft- og sjøfartøyer, og innretninger på norsk kontinentalsokkel.\nVed konflikt mellom forordningens bestemmelser og denne bestemmelsen, går alltid forordningens bestemmelser foran.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gjennomføring av forordninger om prøvetaking og analyse",
+      "path": [],
+      "text": "EØS-avtalens vedlegg II kapittel XII nr. 54zzzl (forordning (EU) 2023/2782 som endret ved forordning (EU) 2024/885) om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006, nr. 54zzzn (forordning (EU) 2023/2783) om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705, nr. 54zzzo (forordning (EF) nr. 1882/2006) om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrat i visse næringsmidler, nr. 54zzzp (forordning (EF) nr. 333/2007 som endret ved forordning (EU) nr. 836/2011, forordning (EU) 2016/582, forordning (EU) 2019/2093, forordning (EU) 2021/705, forordning (EU) 2022/685, forordning (EU) 2022/2418) og forordning (EU) 2024/1045 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler, nr. 125 (forordning (EU) 2017/644) om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014 og nr. 54zzzzzt (forordning (EU) 2022/1428) om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig\nEØS-avtalen vedlegg II kapittel XII nr. 164zb (forordning (EU) 2022/931) som gir supplerende regler til Parlaments og Rådsforordning (EU) 2017/625 om gjennomføring av offentlig kontroll når det gjelder forurensende stoffer i næringsmidler og vedlegg II kapittel XII nr. 164zc (forordning (EU) 2022/932) om ensartede praktiske ordninger for gjennomføring av offentlig kontroll når det gjelder forurensende stoffer i næringsmidler, om spesifikt supplerende innhold i flerårige nasjonale kontrollplaner og særlige supplerende ordninger for utarbeidelse av disse gjelder som forskrift med de tilpasninger som følger av vedlegg II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks.\nSamtidig oppheves forskrift 27. september 2002 nr. 1028 om visse forurensende stoffer i næringsmidler.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2782 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2782av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006"
+      ],
+      "text": "I denne forordningen menes med«parti» en identifiserbar mengde av et næringsmiddel som er levert under ett, og som vedkommende myndighet har fastslått at har felles kjennetegn som f.eks. opprinnelse, art, emballasjetype, emballeringsbedrift, avsender eller merking,«delparti» en fysisk atskilt og identifiserbar del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden,«enkeltprøve» en materialmengde som er tatt fra ett enkelt sted i partiet eller delpartiet,«samleprøve» summen av enkeltprøvene fra et parti eller delparti,«delprøve» en materialmengde som er tatt ut av samleprøven for kontroll av meldrøyesklerotier ved visuell undersøkelse,«laboratorieprøve» en representativ del eller mengde av samleprøven bestemt for laboratoriet,«gjenfinning (Rec, %)» den prosentandelen som oppnås ved å anvende følgende formel x/xref × 100 % der:x = målt konsentrasjon (for prøver med tilsetning korrigert for bakgrunnskonsentrasjon hvis det ikke er blindprøver), ogxref = referansekonsentrasjon (konsentrasjon i et sertifisert referansemateriale, i et materiale for sammenlignende laboratorieprøving eller i en prøve med tilsetning),«skjevhet» forskjellen mellom den målte verdien og referansekonsentrasjonen,«relativt standardavvik for repeterbarhet (RSDr)» det relative standardavviket (%) beregnet ut fra resultater oppnådd under repeterbarhetsvilkår (repeterbarhetspresisjon): bruk av den samme metoden på det samme prøvematerialet ved det samme laboratoriet av den samme personen, med det samme utstyret innenfor korte tidsintervaller (1 dag eller 1 sekvens),«relativt standardavvik for intern reproduserbarhet (RSDw R)» det relative standardavviket (%) beregnet ut fra resultater oppnådd under interne reproduserbarhetsforhold (intermediær presisjon): bruk av den samme metoden på det samme prøvematerialer ved det samme laboratoriet men på forskjellige dager (fortrinnsvis over et lengre tidsintervall), og kan omfatte andre forhold, for eksempel involvering av forskjellige personer og/eller ulikt (tilsvarende) utstyr,«relativt standardavvik for reproduserbarhet (RSDR)» det relative standardavviket (%) beregnet ut fra resultater som er oppnådd under reproduserbarhetsforhold (presisjon mellom laboratorier), det vil si at det samme materialet analyseres av forskjellige laboratorier. RSDR kan særlig utledes av undersøkelse foretatt ved flere laboratorier og sammenlignende laboratorieprøvinger,«grense for mengdebestemmelse (LOQ)» det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet. I forbindelse med denne forordningen betyr dette det laveste validerte nivået: den laveste testede konsentrasjonen av en analytt i et prøvemateriale, der det er påvist at kriteriene for gjenfinning, presisjon og identifikasjon er oppfylt4,«screeningmålkonsentrasjon (STC)» den relevante konsentrasjonen for påvisning av mykotoksinet i en prøve. Når målet er å teste samsvar med fastsatte grenser, tilsvarer STC gjeldende øvre grenseverdi. Til andre formål eller dersom ingen øvre grenseverdi er fastsatt, forhåndsdefineres STC av laboratoriet,«screeningmetode» en metode som brukes til utvelgelse av prøver med nivåer av mykotoksiner som overskrider screeningmålkonsentrasjonen (STC), med en gitt konfidensgrad. Ved mykotoksinscreening anses en konfidensgrad på 95 % som egnet for formålet. Resultatet av screeninganalysen er enten «negativt» eller «mistenkelig». Screeningmetodene skal sikre en kostnadseffektiv og høy analysekapasitet som øker muligheten til å oppdage nye tilfeller som innebærer høy eksponering og helsefare for forbrukerne. Metodene skal være basert på bioanalytiske metoder, LC-MS-metoder eller HPLC-metoder. Prøveresultater som overstiger grenseverdien, må kontrolleres ved å analysere den opprinnelige prøven på nytt med en bekreftelsesmetode,«negativ prøve» en prøve med et mykotoksininnhold på < STC med en konfidensgrad på 95 % (dvs. at det er 5 % mulighet for at prøven feilrapporteres som negativ),«falskt negativ prøve» en prøve med et mykotoksininnhold på > STC, men som er blitt identifisert som negativ,«mistenkelig prøve» (positivt resultat) en prøve som overstiger grenseverdien, og som kan ha et mykotoksininnhold som er høyere enn STC,«falskt mistenkelig prøve» en negativ prøve som er identifisert som mistenkelig,«bekreftelsesmetoder» metoder som gir fullstendige eller utfyllende opplysninger, for å sikre utvetydig identifisering og mengdebestemmelse av mykotoksinet,«grenseverdi» responsen, signalet eller konsentrasjonen som oppnås med screeningmetoden. Over denne verdien klassifiseres prøven som «mistenkelig». Grenseverdien bestemmes under valideringen, og det tas hensyn til målingens variabilitet,«negativ kontrollprøve (blindmatrise)» en prøve som er dokumentert fri for mykotoksinet det screenes for, ved forhåndsbestemmelse der det brukes en tilstrekkelig følsom bekreftelsesmetode eller ved hjelp av en annen metode eller, dersom en slik prøve ikke kan oppnås, materiale med det laveste oppnåelige nivået, så lenge nivået gjør det mulig å konkludere at screeningmetoden er egnet for dette formålet,«prøve som er dokumentert fri for» en prøve der mengden av påvist analytt ikke overstiger 1/5 av STC. Dersom nivået kan mengdebestemmes med en bekreftelsesmetode, skal det tas hensyn til dette nivået ved valideringsvurderingen,«positiv kontrollprøve» prøve som inneholder mykotoksinet ved screeningmålkonsentrasjonen, f.eks. sertifisert referansemateriale, materiale med kjent innhold (f.eks. analysemateriale fra sammenlignende laboratorieprøving) eller som er blitt tilstrekkelig karakterisert ved hjelp av en bekreftelsesmetode. Dersom ingenting av det ovenstående foreligger, kan det brukes en blanding av prøver med forskjellige forurensningsnivåer eller en spiket prøve som er framstilt på laboratoriet, forutsatt at det kan dokumenteres at forurensningsnivået er blitt kontrollert.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2782 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2782av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006"
+      ],
+      "text": "1. Prøvetaking for kontroll av innholdet av mykotoksiner i næringsmidler skal utføres etter de metoder som er fastsatt i vedlegg I.2. Dersom et næringsmiddel ikke kan klassifiseres i en næringsmiddelkategori som det er fastsatt en prøvetakingsprosedyre for i vedlegg I, skal prøvetakingsprosedyren fastsettes på grunnlag av partikkelstørrelsen til dette næringsmiddelet eller likheten mellom dette næringsmiddelet og et produkt som kan klassifiseres i en av næringsmiddelkategoriene i vedlegg I.3. Dersom et næringsmiddel ikke kan klassifiseres i noen av næringsmiddelkategoriene oppført i vedlegg I, og forutsatt at det er dokumentert at mykotoksinet er homogent fordelt i et slikt næringsmiddel, skal det tas prøver av næringsmiddelet ved hjelp av prøvetakingsmetoden fastsatt i del B i vedlegget til kommisjonsforordning (EF) nr. 333/20075.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2782 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2782av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006"
+      ],
+      "text": "Tillaging av prøver og analysemetoder brukt ved kontroll av innholdet av mykotoksiner i næringsmidler skal oppfylle kriteriene i vedlegg II.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-1-kapittel-1-paragraf-4",
+      "heading": "Artikkel 4",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2782 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2782av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006"
+      ],
+      "text": "Forordning (EF) nr. 401/2006 oppheves. Henvisninger til den opphevede forordningen skal forstås som henvisninger til denne gjennomføringsforordningen.\nFram til 1. januar 2029 skal imidlertid de spesifikke kravene fastsatt i nr. 4.3 i vedlegg II til forordning (EF) nr. 401/2006 fortsatt gjelde for metoder som er validert før ikrafttredelsesdatoen for denne forordningen.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-5",
+      "provision_ref": "a5#kapittel-1-kapittel-1-kapittel-1-paragraf-5",
+      "heading": "Artikkel 5",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2782 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av nivåene av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2782av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av mykotoksiner i næringsmidler og om oppheving av forordning (EF) nr. 401/2006"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. april 2024.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2783 om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2783av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning (EU) 2015/705"
+      ],
+      "text": "I denne forordningen får definisjonene fastsatt i artikkel 1 i gjennomføringsforordning (EU) 2023/2782 anvendelse.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2783 om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2783av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning (EU) 2015/705"
+      ],
+      "text": "(1) Prøvetaking for kontroll av innholdet av plantetoksiner i næringsmidler skal utføres etter metodene som er fastsatt i vedlegg I.(2) Dersom et næringsmiddel ikke kan klassifiseres i en næringsmiddelkategori som det er fastsatt en prøvetakingsprosedyre for i vedlegg I, skal prøvetakingsprosedyren fastsettes på grunnlag av partikkelstørrelsen til dette næringsmiddelet eller likheten mellom dette næringsmiddelet og et produkt som kan klassifiseres i en av næringsmiddelkategoriene i vedlegg I.(3) Dersom et næringsmiddel ikke kan klassifiseres i noen av næringsmiddelkategoriene oppført i vedlegg I, og forutsatt at det er dokumentert at plantetoksinet er homogent fordelt i et slikt næringsmiddel, skal det tas prøver av næringsmiddelet ved hjelp av prøvetakingsmetoden fastsatt i del B i vedlegget til kommisjonsforordning (EF) nr. 333/20075.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2783 om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2783av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning (EU) 2015/705"
+      ],
+      "text": "Tillaging av prøver og analysemetoder brukt ved kontroll av innholdet av plantetoksiner i næringsmidler skal oppfylle kriteriene i vedlegg II.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-2-kapittel-1-paragraf-4",
+      "heading": "Artikkel 4",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2783 om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2783av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning (EU) 2015/705"
+      ],
+      "text": "Forordning (EU) 2015/705 oppheves. Henvisninger til den opphevede forordningen skal forstås som henvisninger til denne gjennomføringsforordningen.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-5",
+      "provision_ref": "a5#kapittel-1-kapittel-2-kapittel-1-paragraf-5",
+      "heading": "Artikkel 5",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2023/2783 om prøvetakings- og analysemetoder for offentlig kontroll av nivåene av toksiner i næringsmidler og om oppheving av forordning (EU) 2015/705",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2023/2783av 14. desember 2023om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av plantetoksiner i næringsmidler og om oppheving av forordning (EU) 2015/705"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. april 2024. Analysemetoder som er validert før anvendelsesdatoen for denne forordningen, kan imidlertid fortsatt brukes inntil 1. juli 2028, selv om de ikke oppfyller alle de spesifikke kravene fastsatt i punkt 4.2 i vedlegg II til denne forordningen.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-3-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 1882/2006 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrat i visse næringsmidler",
+        "KOMMISJONSFORORDNING (EF) nr. 1882/2006av 19. desember 2006om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrater i visse næringsmidler"
+      ],
+      "text": "Prøvetaking, tillaging av prøver samt analyser beregnet på offentlig kontroll av innholdet av nitrater i næringsmidlene oppført i avsnitt 1 i vedlegget til forordning (EF) nr. 1881/2006, skal gjennomføres i samsvar med metodene angitt i vedlegget til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-3-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 1882/2006 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrat i visse næringsmidler",
+        "KOMMISJONSFORORDNING (EF) nr. 1882/2006av 19. desember 2006om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av nitrater i visse næringsmidler"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. mars 2007.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 19. desember 2006.\nFor KommisjonenMarkos KYPRIANOUMedlem av Kommisjonen",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-4-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 333/2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler",
+        "KOMMISJONSFORORDNING (EF) nr. 333/2007av 28. mars 2007►M2 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler ◄M2"
+      ],
+      "text": "1. Prøvetaking og analyse for kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, uorganisk arsen, nikkel, 3-monoklor-1,2-propandiol (3-MCPD), fettsyreestere av 3-MCPD, glysidylfettsyreestere, polysykliske aromatiske hydrokarboner (PAH) og perklorat, oppført i avsnitt 3, 5 og 6 i vedlegg I til kommisjonsforordning (EU) 2023/915*, og for kontroll av innholdet av akrylamid i samsvar med kommisjonsforordning (EU) 2017/2158** skal foretas i samsvar med vedlegget til denne forordningen.2. Nr. 1 får anvendelse uten at det berører bestemmelsene i europaparlaments- og rådsforordning (EU) 2017/625***.◄M7",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-4-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 333/2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler",
+        "KOMMISJONSFORORDNING (EF) nr. 333/2007av 28. mars 2007►M2 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler ◄M2"
+      ],
+      "text": "Direktiv 2001/22/EF, 2004/16/EF og 2005/10/EF oppheves.\nHenvisninger til de opphevede direktivene skal forstås som henvisninger til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-4-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 333/2007 om fastsettelse av prøvetakings- og analysemetoder for offentlig kontroll av innholdet av bly, kadmium, kvikksølv, uorganisk tinn, 3-MCPD og benzo(a)pyren i næringsmidler",
+        "KOMMISJONSFORORDNING (EF) nr. 333/2007av 28. mars 2007►M2 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av sporstoffer og prosessframkalte forurensninger i næringsmidler ◄M2"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. juni 2007.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 28. mars 2007.\nFor KommisjonenMarkos KYPRIANOUMedlem av Kommisjonen",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-5-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "I denne forordning får definisjonene og forkortelsene angitt i vedlegg I anvendelse.",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-5-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "Prøvetaking beregnet på offentlig kontroll av innholdet av dioksiner, furaner, dioksinlignende PCB og ikke-dioksinlignende PCB i næringsmidler oppført i avsnitt 5 i vedlegget til forordning (EF) nr. 1881/2006 skal gjennomføres i samsvar med metodene angitt i vedlegg II til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-5-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "Tillaging av prøver samt analyser beregnet på kontroll av innholdet av dioksiner, furaner og dioksinlignende PCB i næringsmidler oppført i avsnitt 5 i vedlegget til forordning (EF) nr. 1881/2006 skal gjennomføres i samsvar med metodene angitt i vedlegg III til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-5-kapittel-1-paragraf-4",
+      "heading": "Artikkel 4",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "Analyser beregnet på kontroll av innholdet av ikke-dioksinlignende PCB i næringsmidler oppført i avsnitt 5 i vedlegget til forordning (EF) nr. 1881/2006 skal gjennomføres i samsvar med kravene til analysemetoder angitt i vedlegg IV til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-5",
+      "provision_ref": "a5#kapittel-1-kapittel-5-kapittel-1-paragraf-5",
+      "heading": "Artikkel 5",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "Forordning (EU) nr. 589/2014 oppheves.\nHenvisninger til den opphevede forordningen skal forstås som henvisninger til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-kapittel-1-paragraf-6",
+      "provision_ref": "a6#kapittel-1-kapittel-5-kapittel-1-paragraf-6",
+      "heading": "Artikkel 6",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2017/644 om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014",
+        "KOMMISJONSFORORDNING (EU) 2017/644av 5. april 2017om fastsettelse av prøvetakings- og analysemetoder for kontroll av innholdet av dioksiner, dioksinlignende PCB og ikke-dioksinlignende PCB i visse næringsmidler, og om oppheving av forordning (EU) nr. 589/2014"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel 5. april 2017.\nFor KommisjonenJean-Claude JunckerPresident",
+      "xml_path": "article#kapittel-1-kapittel-5-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-6-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-6-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 705/2015",
+        "KOMMISJONSFORORDNING (EU) 2015/705av 30. april 2015om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv 80/891/EØF"
+      ],
+      "text": "1. Prøvetaking og analyse beregnet på offentlig kontroll av innholdet av erukasyre oppført i avsnitt 8 i vedlegget til forordning (EF) nr. 1881/2006 skal gjennomføres i samsvar med vedlegget til denne forordning.2. Nr. 1 får anvendelse uten å berøre bestemmelsene i forordning (EF) nr. 882/2004.",
+      "xml_path": "article#kapittel-1-kapittel-6-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-6-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-6-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 705/2015",
+        "KOMMISJONSFORORDNING (EU) 2015/705av 30. april 2015om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv 80/891/EØF"
+      ],
+      "text": "Direktiv 80/891/EØF oppheves.\nHenvisninger til det opphevede direktiv skal forstås som henvisninger til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-6-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-6-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-6-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 705/2015",
+        "KOMMISJONSFORORDNING (EU) 2015/705av 30. april 2015om fastsettelse av prøvetakingsmetoder og ytelseskriterier for analysemetodene ved offentlig kontroll av innholdet av erukasyre i næringsmidler og om oppheving av kommisjonsdirektiv 80/891/EØF"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 30. april 2015.\nFor KommisjonenJean-Claude JUNCKERPresident",
+      "xml_path": "article#kapittel-1-kapittel-6-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-7-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-7-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/931",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2022/931av 23. mars 2022om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler"
+      ],
+      "text": "I denne forordningen gjelder definisjonen av «forurensende stoff» i artikkel nr. 1 andre ledd i forordning (EØF) nr. 315/93.",
+      "xml_path": "article#kapittel-1-kapittel-7-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-7-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-7-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/931",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2022/931av 23. mars 2022om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler"
+      ],
+      "text": "Medlemsstatene skal kontrollere forekomsten av forurensende stoffer i næringsmidler i samsvar med vedlegg I.\nMedlemsstatene skal vedta en prøvetakingsstrategi i samsvar med kriteriene fastsatt i vedlegg II.",
+      "xml_path": "article#kapittel-1-kapittel-7-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-7-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-7-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/931",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2022/931av 23. mars 2022om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til regler for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. januar 2023.",
+      "xml_path": "article#kapittel-1-kapittel-7-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-1",
+      "heading": "Formål og virkeområde",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IFORMÅL, VIRKEOMRÅDE OG DEFINISJONER"
+      ],
+      "text": "I denne forordningen fastsettes ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forekomst av forurensende stoffer i næringsmidler med hensyn tilsamme minstehyppighet for slik offentlig kontroll hvert år, ogsærlige tilleggsordninger og særlig tilleggsinnhold for medlemsstatenes flerårige nasjonale kontrollplaner (MANCP), i tillegg til dem som er fastsatt i artikkel 110 i forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IFORMÅL, VIRKEOMRÅDE OG DEFINISJONER"
+      ],
+      "text": "I denne forordningen gjelder definisjonene i rådsforordning (EØF) nr. 315/938, forordning (EF) nr. 178/2002, europaparlaments- og rådsforordning (EF) nr. 852/20049, europaparlaments- og rådsforordning (EF) nr. 853/200410, europaparlaments- og rådsforordning (EF) nr. 396/200511, kommisjonsrekommandasjon 2013/165/EU12, kommisjonsforordning (EU) 2017/64413 og kommisjonsforordning (EU) 2017/215814.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-1",
+      "provision_ref": "a3#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-1",
+      "heading": "Generelle bestemmelser",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIINNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN"
+      ],
+      "text": "Medlemsstatene skal sikre at den delen av den flerårige nasjonale kontrollplanen som gjelder gjennomføring av offentlig kontroll av forekomst av forurensende stoffer i næringsmidler, omfatteren «kontrollplan for næringsmidler som bringes i omsetning på unionsmarkedet», som fastsatt i artikkel 4, ogen «kontrollplan for næringsmidler av animalsk opprinnelse som innføres til Unionen», som fastsatt i artikkel 5.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-2",
+      "provision_ref": "a4#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-2",
+      "heading": "Kontrollplan for næringsmidler som bringes i omsetning på unionsmarkedet",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIINNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN"
+      ],
+      "text": "1. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler som bringes i omsetning på unionsmarkedet, bortsett fra næringsmidler av animalsk opprinnelse som innføres til Unionen. Denne planen skal omfatte offentlig kontroll av hver enkelt medlemsstats nasjonale næringsmiddelproduksjon, næringsmidler som innføres fra andre medlemsstater, næringsmidler av ikke-animalsk opprinnelse som innføres til Unionen, samt sammensatte produkter, også dem som innføres til Unionen fra tredjeland.2. Kontrollplanen for næringsmidler som bringes i omsetning på unionsmarkedet, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstaten har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning (EU) 2022/931,prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning (EU) 2022/931, ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minsteminimum kontrollhyppigheten av kontroll fastsatt i vedlegg I.3. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-3",
+      "provision_ref": "a5#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-3",
+      "heading": "Kontrollplan for næringsmidler av animalsk opprinnelse som innføres til Unionen",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIINNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN"
+      ],
+      "text": "1. Medlemsstatene skal utarbeide en kontrollplan for forekomst av forurensende stoffer eller grupper av forurensende stoffer i næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet. Denne planen skal omfatte offentlig kontroll av næringsmidler av animalsk opprinnelse som innføres til Unionen og er beregnet på å bringes i omsetning på unionsmarkedet, og av fiskerivarer som skal kontrolleres på fartøyer når disse anløper en havn i en medlemsstat.2. Kontrollplanen for næringsmidler av animalsk opprinnelse som innføres til Unionen, skal inneholdelisten over kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som skal kontrolleres slik medlemsstatene har fastsatt i samsvar med vedlegg I til delegert kommisjonsforordning (EU) 2022/931,prøvetakingsstrategien som medlemsstaten har fastsatt i samsvar med vedlegg II til delegert kommisjonsforordning (EU) 2022/931, ogden faktiske kontrollhyppigheten som medlemsstaten har fastsatt, idet det tas hensyn til den årlige minstehyppigheten av kontroll fastsatt i vedlegg I.3. I kontrollplanene kan medlemsstatene ta med opplysninger om kontroll av kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper som det er fastsatt nasjonale øvre grenseverdier eller andre tillatte nivåer for i deres nasjonale lovgivning.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-4",
+      "provision_ref": "a6#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-4",
+      "heading": "Felles krav til kontrollplanene",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIINNHOLD I DEN FLERÅRIGE NASJONALE KONTROLLPLANEN"
+      ],
+      "text": "Kontrollplanene nevnt i artikkel 3 skal dessuten angi følgende:En begrunnelse for utvalgte kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper, herunder en forklaring på hvordan kriteriene oppført i vedlegg I til delegert forordning (EU) 2022/931 er tatt hensyn til, selv om planen ikke er blitt endret fra forrige år.En begrunnelse dersom det i en plan fastsettes at offentlig kontroll av visse kombinasjoner av forurensende stoffer eller grupper av forurensende stoffer og varegrupper ikke skal gjennomføres hvert år, men innen en viss frist.Opplysninger om hvilke(n) vedkommende myndighet(er) som har ansvaret for å gjennomføre planene.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-3-paragraf-1",
+      "provision_ref": "a7",
+      "heading": "Framlegging og evaluering av kontrollplanene",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIIFRAMLEGGING OG EVALUERING AV KONTROLLPLANENE, OG FRAMLEGGING AV DATA FRA MEDLEMSSTATENE"
+      ],
+      "text": "Medlemsstatene skal innen 31. mars hvert år framlegge elektronisk for Kommisjonen de kontrollplanene som er nevnt i artikkel 3, for det inneværende året.\nKommisjonen skal på grunnlag av denne forordningen og delegert forordning (EU) 2022/931 evaluere kontrollplanene og meddele resultatet av evalueringen til hver enkelt medlemsstat der det er nødvendig.\nMedlemsstatene skal ta hensyn til Kommisjonens merknader når de gjennomfører sine kontrollplaner og når de utarbeider neste framlegging av sine planer i henhold til denne artikkelen. Dersom Kommisjonen oppdager betydelig manglende overholdelse av en plan, kan den anmode den berørte medlemsstaten om å framlegge en oppdatert plan på et tidligere tidspunkt enn 31. mars det påfølgende året.\nDersom en medlemsstat beslutter at den ikke skal oppdatere sine kontrollplaner basert på Kommisjonens merknader, skal den begrunne sin beslutning",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-3-paragraf-2",
+      "provision_ref": "a8",
+      "heading": "Medlemsstatenes framlegging av data",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IIIFRAMLEGGING OG EVALUERING AV KONTROLLPLANENE, OG FRAMLEGGING AV DATA FRA MEDLEMSSTATENE"
+      ],
+      "text": "Medlemsstatene skal innen 30. juni oversende Den europeiske myndighet for næringsmiddeltrygghet (EFSA) alle data som er innsamlet i henhold til kontrollplanene nevnt i artikkel 3.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-8-kapittel-1-kapittel-4-paragraf-1",
+      "provision_ref": "a9",
+      "heading": "Ikrafttredelse og anvendelse",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/932",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/932av 9. juni 2022om ensartede praktiske ordninger for gjennomføring av offentlig kontroll av forurensende stoffer i næringsmidler, om særlig tilleggsinnhold i flerårige nasjonale kontrollplaner og om særlige tilleggsordninger for utarbeidelse av disse",
+        "KAPITTEL IVGENERELLE BESTEMMELSER"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. januar 2023.",
+      "xml_path": "article#kapittel-1-kapittel-8-kapittel-1-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-9-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-9-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/1428",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/1428av 24. august 2022om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler"
+      ],
+      "text": "I denne forordningen menes med«parti» en identifiserbar mengde av et næringsmiddel som er levert under ett, og som vedkommende myndighet har fastslått at har felles kjennetegn, for eksempel opprinnelse, sort, art, fangstområde, emballasjetype, emballeringsbedrift, avsender eller merking,«delparti» en fysisk atskilt og identifiserbar del av et stort parti som er valgt ut med sikte på bruk av prøvetakingsmetoden,«enkeltprøve» en materialmengde som er tatt fra ett enkelt sted i partiet eller delpartiet,«samleprøve» summen av enkeltprøvene fra et parti eller delparti,«laboratorieprøve» en representativ del eller mengde av samleprøven bestemt for laboratoriet.«sammenlignbar størrelse eller vekt» en forskjell i størrelse eller vekt som ikke overstiger 50 %,«presisjon» graden av samsvar mellom uavhengige testresultater oppnådd under bestemte forhold. Presisjon uttrykkes som standardavviket eller variasjonskoeffisienten for testresultatene,«intern reproduserbarhet eller intermediær presisjon (RSDR)» presisjon under en rekke interne vilkår i et bestemt laboratorium,«grense for mengdebestemmelse (LOQ – limit of quantification)» det laveste innholdet av en analytt som kan måles med rimelig statistisk sikkerhet, dvs. den laveste konsentrasjonen eller massen av en analytt som er validert med akseptabel nøyaktighet ved bruk av den fullstendige analysemetoden og identifikasjonskriteriene,«kombinert standard måleusikkerhet («u»)» en ikke-negativ parameter tilknyttet måleresultatet, som karakteriserer spredningen av verdier som med rimelighet kan knyttes til målestørrelsen, basert på informasjonen som benyttes. Den oppnås ved bruk av innsatsmengdenes individuelle standard måleusikkerhet i en målemodell,«utvidet måleusikkerhet («U»)» verdien som oppnås ved bruk av en dekningsfaktor på 2 som gir et konfidensnivå på ca. 95 % (U = 2u),«riktighet» graden av samsvar mellom gjennomsnittsverdien fra en lang rekke prøvingsresultater, og en akseptert referanseverdi. Denne verdien kan beregnes gjennom regelmessig analyse av sertifiserte referansematerialer, eksperimenter med tilsetting eller deltakelse i sammenlignende laboratoriestudier, og uttrykkes som tilsynelatende skjevhet.",
+      "xml_path": "article#kapittel-1-kapittel-9-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-9-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-9-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/1428",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/1428av 24. august 2022om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler"
+      ],
+      "text": "Tillaging av prøver samt analyser beregnet på offentlig kontroll av PFAS-innholdet i næringsmidler som det er fastsatt øvre grenseverdier for gjennom forordning (EF) nr. 1881/2006, skal gjennomføres i samsvar med metodene angitt i vedlegget til denne forordningen.",
+      "xml_path": "article#kapittel-1-kapittel-9-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-9-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-9-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2022/1428",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2022/1428av 24. august 2022om fastsettelse av prøvetakings- og analysemetoder for kontroll av perfluoralkylstoffer i visse næringsmidler"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.",
+      "xml_path": "article#kapittel-1-kapittel-9-kapittel-1-paragraf-3"
+    }
+  ]
+}

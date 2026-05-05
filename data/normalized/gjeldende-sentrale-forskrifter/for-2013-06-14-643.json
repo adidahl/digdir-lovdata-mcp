@@ -1,0 +1,74 @@
+{
+  "id": "FOR-2013-06-14-643",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Miljøvedtaksregisteret",
+  "short_title": "Forskrift om Miljøvedtaksregisteret",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2014-04-01",
+  "last_change_in_force": "2013-10-04",
+  "last_changed_by": "forskrift/2013-10-04-1182",
+  "lovdata_refid": "forskrift/2013-06-14-643",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2013-06-14-643",
+  "raw_xml_sha256": "b66b240692eb7d6a7a6d335524afa1fd669c07b24eab540c3e5ae89e0421e7ff",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften oppretter og regulerer Miljøvedtaksregisteret, som driftes av Miljødirektoratet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tilgjengelighet og kostnadsfri bruk",
+      "path": [],
+      "text": "Opplysningene og dokumentene i registeret skal være tilgjengelige for alle og bruk av registeret skal være kostnadsfri.\nOpplysningene og dokumentene i registeret kan brukes til alle formål hvis ikke annen lovgivning eller tredjepersons rettigheter er til hinder for det.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forskrifter og enkeltvedtak som skal registreres, av hvem og når",
+      "path": [],
+      "text": "Miljødirektoratet registrerer følgende forskrifter i registeret:forskrifter fastsatt med hjemmel i naturmangfoldloven § 23 og § 24, § 28 til § 31, § 34 til § 39, § 40, § 45 første og annet ledd, § 52 og § 58 til § 61forskrifter fastsatt med hjemmel i lov 19. juni 1970 nr. 63 om naturvern, jf. naturmangfoldloven § 77forskrift 18. mars 2005 nr. 242 om forvaltning av rovvilt.\nFølgende enkeltvedtak skal registreres i registeret:enkeltvedtak fastsatt med hjemmel i forskriftene i første leddenkeltvedtak fastsatt med hjemmel i naturmangfoldloven § 48enkeltvedtak som berører en forekomst av en utvalgt naturtype, jf. naturmangfoldloven § 53.\nBallastvannforskriften skal ikke registreres i registeret. Det samme gjelder enkeltvedtak som er fastsatt med hjemmel i ballastvannforskriften.\nDen forvaltningsmyndighet som fastsetter enkeltvedtaket eller fremmer resolusjonen om enkeltvedtak Kongen fastsetter, skal registrere enkeltvedtakene ved bruk av registerets registreringsløsning.\nEt enkeltvedtak skal registreres senest tre virkedager etter at parten er underrettet om vedtaket, jf. forvaltningsloven § 27.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Hva som skal registreres",
+      "path": [],
+      "text": "Forskrifter og dokumenter som inneholder enkeltvedtak skal legges inn i registeret i fulltekst. Unntak gjelder for dokumenter som inneholder opplysninger som kan unntas fra offentlighet etter offentleglova eller opplysninger som nevnt i offentlegforskrifta § 7 annet ledd.\nEnkeltvedtak skal registreres med tittel på sak og dokument, type tiltak, lov eller forskriftshjemmel for vedtaket, vedtaksdato, hvilke kommuner vedtaket gjelder i og om vedtaket er offentlig eller helt eller delvis unntatt offentlighet.\nEnkeltvedtak skal stedfestes til administrativt område, berørt forekomst eller representasjonspunkt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forholdet til annen lovgivning",
+      "path": [],
+      "text": "Registrering i Miljøvedtaksregisteret erstatter ikke offentlige myndigheters plikt til å kunngjøre og varsle etter forvaltningsloven, naturmangfoldloven og andre lover.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Registerets anvendelse for Svalbard og Jan Mayen",
+      "path": [],
+      "text": "Naturmangfoldloven § 68 gjelder for Svalbard og Jan Mayen for så vidt gjelder forskrifter fastsatt med hjemmel i § 58 til § 61 og enkeltvedtak fastsatt med hjemmel i slike forskrifter.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. april 2014.\nForskriften gjelder bare for enkeltvedtak fastsatt etter ikrafttredelsen.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

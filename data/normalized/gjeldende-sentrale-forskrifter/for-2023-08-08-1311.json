@@ -1,0 +1,217 @@
+{
+  "id": "FOR-2023-08-08-1311",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om avsiling av vann og prøvetaking mv. av industrifangster ved landing",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2024-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-11-25-2339 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2023-08-08-1311",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-08-08-1311",
+  "raw_xml_sha256": "b8c0fc80e16cc2d9812d5fb467ce1a52c428af86889f415e02e94dd59512a42b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å sikre bærekraftig forvaltning av de viltlevende marine ressursene gjennom å gi næringen effektive verktøy til å oppfylle opplysningsplikten, tilrettelegge for effektiv kontroll med ressursuttaket, omsetning av fisk mv., samt gi et godt grunnlag for statistikk og forskning ved å sette krav til utstyr og bruken av dette for fastsettelse av fangstsammensetningen i industrilandinger.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for mottakere og akkrediterte tredjeparter. Forskriften gjelder for mottaksanlegg i Norge som tar imot industrifangster. Paragraf 14 gjelder også for fiskesalgslagene.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift menes medlanding: alle tilfeller der fisk losses fra fiskefartøy til mottaksanlegg som tar imot industrifangster,industrifangster: fangster som ikke skal anvendes til konsum, som fangster til mel- og oljeproduksjon og andre produkter fremstilt av industrifangster,prøvetrekker: den tekniske innretningen som tar prøven ut av fiskestrømmen,prøvetaking: at det gjennomføres en mekanisk operasjon der prøvetrekkeren tar prøve ut av en fiskestrøm ved landing av fangsten,prøvetakingsresultat: data fra prøveuttakene som fremkommer etter bearbeiding av prøvene,mottaker: enhver som tar imot fisk som landes.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Krav til avsiling av vann",
+      "path": [
+        "Kapittel 2. Krav til avsiling av vann"
+      ],
+      "text": "Alle industrifangster som landes skal passere gjennom et system for avsiling av vann før prøvetaking og veiing. Tillatte systemer er enten trommelsil eller båndsil. Mottaker er ansvarlig for at avsilingen av vann gjennomføres i henhold til forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Krav til trommelsil",
+      "path": [
+        "Kapittel 2. Krav til avsiling av vann"
+      ],
+      "text": "Fisk som landes skal gå gjennom kun én trommelsil for avsiling av vann før veiing. Forsil er tillatt. Trommelsilen skal oppfylle følgende krav:Dreneringshullene skal ikke være større enn 10 mm.Innvendig diameter skal ikke være over 1700 mm.Lengden på silene, inkludert eventuell forsil og ekskludert samlebåndet, skal ikke være lenger enn totalt 11 meter.Rotasjonshastigheten skal ikke overstige 28 omdreininger per minutt.Lysåpningen i dreneringsområdet skal ikke overstige 45 % av totalt areal.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Krav til båndsil",
+      "path": [
+        "Kapittel 2. Krav til avsiling av vann"
+      ],
+      "text": "En båndsil skal bestå av en forsil og/eller en vendesil og et silebånd i stål. Båndsilen skal videre oppfylle følgende krav:I forsilen og vendesilen skal avstanden mellom spilene eller størrelsen på dreneringshullene ikke være over 10 mm.Bredden på silebåndet skal være mellom 1,8 og 2,5 meter.Lengden på silebåndet skal ikke være korte enn 2,6 meter og ikke lenger enn 10 meter.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Prøvetakingsplikt mv.",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Mottaker er ansvarlig for at det blir tatt prøver av landingene og at prøvene blir bearbeidet i henhold til forskriften.\nDet skal tas fortløpende prøver av alle industrifangster som landes. Mottaker skal sørge for at prøvetakingen gjennomføres. Prøvene skal bearbeides av en tredjepart som skal være akkreditert etter NS-EN ISO/IEC 17020. Mottaker kan ikke ta imot fangst før det er avklart med den akkrediterte tredjeparten at denne kan bearbeide prøvene fra landingen.\nEn tredjepart som har implementert det nødvendige kvalitetssystemet og er i prosess med å bli akkreditert av Norsk Akkreditering, kan bearbeide prøvene i denne perioden.\nMottaker skal legge til rette for at tredjeparten og den som lander kan være til stede og følge hele prøvetakingsprosessen.\nDen akkrediterte tredjeparten skal fremlegge prøvetakingsresultatet basert på bearbeidingen av prøvene for mottaker og den som lander før landings- eller sluttseddelen fylles ut og undertegnes.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Krav til prøvetrekkersystem",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Mottaksanlegget skal ha et prøvetrekkersystem som er egnet til å fastsette fangstens arts- og størrelsessammensetning. Prøvetrekkersystemet skal bestå av prøvetrekker med styrings- og dataenhet og oppsamlingsbeholder for prøver. Mottaker skal videre ha et system for å føre prøveuttaket fra prøvetrekkeren til prøvetakingsrommet som sikrer at ingen deler av prøvene kan påvirkes eller gå tapt.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Krav til prøvetrekkerens utforming og plassering",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Prøvetrekkeren skal være egnet til fastsettelse av fangstens arts- og størrelsessammensetning ved landing.\nPrøvetrekkeren skal være tilkoblet og styres av en dataenhet. Styrings- og dataenheten programmeres før landing starter for antall prøver og når prøver skal tas. Styrings- og dataenheten skal lagre informasjon om når prøvene blir tatt. Styrings- og dataenheten skal konstrueres og sikres på en slik måte at styringsparametere og funksjoner som kan påvirke prøvetakingen ikke kan endres.\nPrøvetrekkeren skal utformes slik at den ved prøvetaking fra fiskestrømmen tar ut representative prøver og et kvantum på omtrent 20 kg i hvert prøveuttak.\nPrøvetrekkerens plassering skal være slik:Ved bruk av båndsil skal prøvetrekkeren plasseres i fallsjakten, sentrert med utgangspunkt i bredden på silebåndet før veiing. Prøvetrekkeren skal plasseres i lengderetning under silebåndet med en største avstand fra silebåndets øvre kant til toppen av prøvetrekkeren på 165 cm. Fiskestrømmen fra silebåndetskal samles og sentreres i fallsjakten ved hjelp av en sentreringsskrue. Sentreringsskruens lengde skal dekke hele silebåndets bredde.Ved bruk av trommelsil og fallsjakt skal fiskestrømmen ledes til senter av fallsjakten før prøvetrekkeren. Avstanden fra der fiskestrømmen kommer inn i fallsjakten og prøvetrekkeren skal ikke overstige 100 cm.Ved bruk av trommelsil uten fallsjakt, skal prøvetrekkeren være plassert og utformet slik at den sikrer representativ prøvetaking fra hele fiskestrømmen.\nNår prøvetrekkeren tømmes, skal hele prøven med fisk, inkludert oppløst masse av fisk, ledes til en oppsamlingsbeholder.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Det samlede prøveuttakets størrelse, antall prøver og prøvetakingsfrekvens",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Prøvetrekkeren skal ta prøver fra hele landingen.\nDet samlede prøveuttakets størrelse og antall prøver fra hver landing skal beregnes ut fra formlene som fremgår i vedlegg 1 til forskriften. Beregningen skal gjøres med utgangspunkt i fartøyets melding om havneanløp og opplysningene om kvantumet som skal landes.\nPrøvetakingen skal baseres på tilfeldige prøver. Det skal ikke være mulig å forutsi når prøvene blir tatt. Den tilfeldige prøvetakingsfrekvensen skal legges inn i programvaren som styrer prøvetrekkeren.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 11",
+      "heading": "Bearbeiding av prøver for arts- og størrelsessammensetning",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Mottaker skal legge til rette for at den akkrediterte tredjeparten har tilfredsstillende arbeidsrom og arbeidsforhold for kvalitativ god sortering og veiing av det samlede prøveuttaket.\nDen akkrediterte tredjeparten skal bearbeide prøvene ved å sortere hele det samlede prøveuttaket på art og størrelse og deretter veie den sorterte fisken på egnet vekt. Vekten skal til enhver tid være i henhold til regler gitt i eller i medhold av lov 26. januar 2007 nr. 4 om målenheter, måling og normaltid.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 12",
+      "heading": "Oppbevaringsplikt av det samlede prøveuttaket",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Mottaker skal oppbevare og gjøre tilgjengelig det samlede prøveuttaket for kontrollmyndighetene frem til landings- eller sluttseddelen er fylt ut og undertegnet.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 13",
+      "heading": "Opplysninger om landingen",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Mottaker skal bruke prøvetakingsresultatet til å beregne fangstens sammensetning og deretter fylle ut landings- og sluttseddelen i tråd med dette.\nDersom deler av fangsten ikke er mulig å identifisere, så skal kvantumet av dette oppgis på landings- eller sluttseddelen som del av hovedfangst.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 14",
+      "heading": "Innsending av prøvetakingsresultatet",
+      "path": [
+        "Kapittel 3. Krav til prøvetaking mv."
+      ],
+      "text": "Den akkrediterte tredjeparten skal sende prøvetakingsresultatet fra landingen elektronisk til fiskesalgslaget. Innsendingen av prøvetakingsresultatet skal inneholde referanse til landings- og/eller sluttseddelen med fiskesalgslag, dokumenttype og seddelnummer. Fiskesalgslaget skal videresende prøvetakingsresultatet i et bestemt format og avtalt frekvens til Fiskeridirektoratet.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Dispensasjonsadgang",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet kan i særlig tilfeller gi dispensasjon fra bestemmelsene i forskriften og sette vilkår for dispensasjonen.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Delegering",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet kan endre denne forskriften og fastsette nærmere krav til utstyr og bruken av dette for fastsettelse av fangstsammensetningen i industrilandinger.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "For å sikre at bestemmelser som er fastsatt i eller i medhold av denne forskriften blir oppfylt, kan det ilegges tvangsmulkt etter havressurslova § 58 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 18",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr etter havressurslova § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 19",
+      "heading": "Straff og inndragning",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften straffes etter havressurslova § 62 og § 64.\nInndragning kan skje etter havressurslova § 65.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 20",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2024. Bestemmelsen i § 11 annet ledd om sortering på størrelse trer i kraft fra det tidspunktet Fiskeridirektoratet bestemmer det.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    }
+  ]
+}

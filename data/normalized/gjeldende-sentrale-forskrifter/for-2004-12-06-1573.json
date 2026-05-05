@@ -1,0 +1,146 @@
+{
+  "id": "FOR-2004-12-06-1573",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterforskriften)",
+  "short_title": "Valutaregisterforskriften",
+  "department": "Finansdepartementet",
+  "date_in_force": "2005-01-01",
+  "last_change_in_force": "2023-09-01",
+  "last_changed_by": "forskrift/2023-02-24-262 fra 2023-09-01",
+  "lovdata_refid": "forskrift/2004-12-06-1573",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-12-06-1573",
+  "raw_xml_sha256": "1425a9b285df892a93f2bc76fce4e0b7d678ef59b21dfffeb678cbc5a3513ade",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Den behandlingsansvarlige",
+      "path": [],
+      "text": "Den behandlingsansvarlige for registeret er Skattedirektoratet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Sikkerhet i registeret",
+      "path": [],
+      "text": "Den behandlingsansvarlige skal sørge for nødvendig sikring av konfidensialitet, integritet og tilgjengelighet av opplysningene i registeret. For personopplysninger gjelder personvernforordningen art. 32.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 2a",
+      "heading": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+      "path": [],
+      "text": "Skattedirektoratet kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Sikkerhet i etatene som er brukere",
+      "path": [],
+      "text": "Hver etat som har elektronisk tilgang til registeret i samsvar med valutaregisterloven § 6 første ledd, skal sikre at ingen i etaten har tilgang til opplysninger uten å være autorisert til det. Autorisasjonen skal spesifisere hvilke typer rettighet vedkommende er gitt. Autorisasjon kan bare gis til den som har tjenestlige behov for det.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Utlevering av opplysninger fra registeret",
+      "path": [],
+      "text": "Den registrerte (den opplysninger i registeret kan knyttes til) kan få innsyn i opplysningene i registeret i samsvar med personvernforordningen art. 15.\nEn rapporteringspliktig kan få tilgang til egenrapporterte opplysninger i registeret.\nBostyrere og andre som i medhold av valutaregisterloven § 6 har krav på å få tilgang til opplysninger fra registeret kan få dette ved å henvende seg til den behandlingsansvarlige.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Sikring av datakvaliteten",
+      "path": [],
+      "text": "De rapporteringspliktige er ansvarlige for at opplysningene de rapporterer inn er korrekte. Dersom det viser seg at opplysninger i registeret er feilaktige, skal den rapporteringspliktige sørge for innrapportering av korrekte opplysninger uten ugrunnet opphold.\nDen behandlingsansvarlige skal etablere rutiner for mottak av og behandling av meldinger om mulige feil i registerets opplysninger.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Rapportering og rapporteringspliktens innhold",
+      "path": [],
+      "text": "Den rapporteringspliktige skal sende rapport så snart som mulig og senest 5 virkedager etter at det er gjennomført rapporteringspliktig valutaveksling eller overføring. Opplysninger om månedlige aggregeringer skal sendes innen 5 virkedager etter avsluttet rapporteringsperiode.\nHver rapporteringspliktig skal sende inn rapport på de tidspunkter som er fastsatt av Skattedirektoratet, selv om det ikke er foretatt rapporteringspliktige overføringer.\nSkattedirektoratet fastsetter hvordan rapportene skal formes.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Melding til kunden",
+      "path": [],
+      "text": "Den rapporteringspliktige skal informere sin kunde om at opplysninger er gitt til valutaregisteret.\nFor overføringer ved bruk av konto kan slik informasjon tas inn i kontoutskrift som nevnt i lov 25. juni 1999 nr. 46 om finansavtaler og finansoppdrag § 30 annet ledd annet punktum.\nFor overføringer ved bruk av betalings- eller kredittkort kan slik informasjon tas inn i kortselskapets avregning til kunden.\nVed deklarering av betalingsmidler skal slik informasjon gis på gjenpart/kvittering av deklarasjonen.\nVed veksling skal slik informasjon fremkomme på kvitteringen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Forholdet til Svalbard",
+      "path": [],
+      "text": "Overføring av betalingsmidler mellom norsk bank og filial av norsk bank på Svalbard er ikke rapporteringspliktig.\nOverføring av betalingsmidler ved bruk av betalings- eller kredittkort på Svalbard er ikke rapporteringspliktig.\nVeksling av valuta utført på Svalbard er ikke rapporteringspliktig.\nFysisk inn- og utførsel av betalingsmidler mellom Norge og Svalbard er rapporteringspliktig.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Overføring av betalingsmidler gjennom bank og andre finansinstitusjoner",
+      "path": [],
+      "text": "Når betalingsmidler overføres gjennom bank eller andre finansinstitusjoner, skal den rapporteringspliktige rapportere følgende:For avsender eller mottaker i Norge:fødselsnummer, organisasjonsnummer eller D-nummernavnadressepostnummerpoststedlandavsender-/mottakerbankkontonummer for transaksjoner som går via konto.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer, skal rapporten identifisere vedkommende ved kortnummer, kontonummer, passnummer eller fødselsdato. For banktransaksjoner skal det her i tillegg rapporteres kundenummer 999999999.For avsender eller mottaker utenfor Norge, tilgjengelige opplysninger om:navnadressepostnummerpoststedlandavsender-/mottakerbankkontonummerland hvor konto er registrert.For den som rapporterer om overføringen:identifikasjon av den enhet som gjennomfører transaksjonentransaksjonstype.For hver overføring skal følgende rapporteres:overføringens referanse (den rapporteringspliktiges unike identifikasjon for overføringen)overføringstidspunktbeløp i NOKbeløp i fremmed valuta (dersom fremmed valuta er benyttet)valutakode (dersom fremmed valuta er benyttet)om overføringen har gått ut av eller inn i Norge.For bankoverføring fra Norge av beløp over NOK 100 000 eller tilsvarende i annen valuta skal det rapporteres hva overføringen gjelder og betalingsart. Skattedirektoratet fastsetter koder for betalingsart.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Overføring av betalingsmidler ved bruk av norskutstedte betalings- eller kredittkort utenfor Norge",
+      "path": [],
+      "text": "Når betalingsmidler overføres ved bruk av norskutstedt betalings- eller kredittkort utenfor Norge, skal den rapporteringspliktige rapportere følgende:For enkeltoverføringer større enn NOK 25 000 eller tilsvarende i annen valuta:rapporteringspliktiges organisasjonsnummertransaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakodekortholders fødselsnummer, D-nummer eller organisasjonsnummerkortholders navn, adresse, postnummer, poststed og landkortnummertransaksjonsdatokorttypereferanse på transaksjonentilgjengelig transaksjonstypebrukerstedets navn, land og brukerstedsidentitettilgjengelig opplysninger og brukerstedets adresse, postnummer, poststed og kode.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per kort:rapporteringspliktiges organisasjonsnummermånedssum per kort per landperiode for aggregeringenantall overføringer som inngår i aggregeringenkortholders fødselsnummer, D-nummer eller organisasjonsnummerkortholders navn, adresse, postnummer, poststed og landkortnummerkorttype.For kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer. I tillegg skal det her rapporteres kundenummer 999999999.For overføringer av beløp lavere enn eller lik NOK 25 000 eller tilsvarende i annen valuta, månedssum per brukersted:rapporteringspliktiges organisasjonsnummerbrukerstedets navn, land og brukerstedsidentitettilgjengelige opplysninger om brukerstedets adresse, poststed og kodemånedssum per brukerstedperiode for aggregeringenantall overføringer som inngår i aggregeringen.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Overføring av betalingsmidler ved bruk av utenlandskutstedte betalings- eller kredittkort i Norge",
+      "path": [],
+      "text": "Når betalingsmidler overføres ved bruk av utenlandskutstedt betalings- eller kredittkort i Norge, skal den rapporteringspliktige rapportere følgende:For enkeltoverføringer større enn NOK 25.000 eller tilsvarende i annen valuta:rapporteringspliktiges organisasjonsnummertransaksjonsbeløpet i NOK og i eventuell fremmed valuta med valutakodetransaksjonsdatokorttypereferanse på transaksjonenbrukerstedets organisasjonsnummer og eventuelt fødselsnummerbrukerstedets navn, adresse, postnummer og poststedbrukerstedets kode og brukerstedsidentitetkortholders kortnummer og landtilgjengelig transaksjonstype.For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. kort:totalt beløp overført pr. måned pr. kortrapporteringspliktiges organisasjonsnummerkortholders kortnummer og landkorttypeperiode for aggregeringenantall overføringer som inngår i aggregeringen.For overføringer av beløp lavere enn eller lik NOK 25.000 eller tilsvarende i annen valuta, månedssum pr. brukersted:totalt beløp overført pr. måned pr. brukersted pr. korttyperapporteringspliktiges organisasjonsnummer og eventuelt fødselsnummerkorttypebrukerstedets organisasjonsnummerbrukerstedets navn, adresse, postnummer og poststedbrukerstedets kode og brukerstedsidentitetperiode for aggregeringenantall overføringer som inngår i aggregeringen.Kontantuttak av beløp over NOK 5.000 eller tilsvarende i annen valuta.rapporteringspliktiges organisasjonsnummerbrukerstedets organisasjonsnummerbrukerstedets navn, adresse, postnummer, poststedbrukerstedets kode og brukerstedsidentitetbeløp i valutavalutakodebeløp (omregnet i NOK)kortholders kortnummer og land.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 12",
+      "heading": "Valutaveksling",
+      "path": [],
+      "text": "Valutaveksling for kunder av beløp større enn NOK 5.000 eller tilsvarende i annen valuta, skal rapporteres til registeret av vekslingsstedet. Der det benyttes betalings- eller kredittkort utstedt av rapporteringspliktig virksomhet, skal denne foreta rapporteringen.\nFølgende opplysninger skal rapporteres:rapporteringspliktiges organisasjonsnummervekslingsstedets organisasjonsnummer, navn, adresse, postnummer og poststedautomatnummervekslingsstedets referansevekslingsdatokundens fødselsnummer, D-nummer eller organisasjonsnummerkundens navn, adresse, postnummer, poststed og landstatsborgerskap (dersom dette avviker fra kundens land)kundens kontonummer ved kontobrukkundens kortnummer ved kortbrukbeløp og valutatype for både kjøpt og solgt valutabeløp omregnet i norske kroneridentifikasjon av den enhet som gjennomfører transaksjonen.\nFor kunder som ikke har fått tildelt fødselsnummer, D-nummer eller organisasjonsnummer skal rapporten identifisere vedkommende ved kortnummer eller kontonummer dersom kontonummer er tilgjengelig.\nVed manuell behandling skal kundens navn, fødselsnummer, D-nummer, eventuelt passnummer eller annen entydig identifikasjonskode samt adresse opplyses.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 13",
+      "heading": "Fysisk inn- og utførsel av betalingsmidler",
+      "path": [],
+      "text": "Deklareringspliktig inn-/utførsel av betalingsmidler skal rapporteres av Toll- og avgiftsetaten. Følgende opplysninger skal registreres:deklarantens fødselsnummer, D-nummer eller organisasjonsnummer, eventuelt passnummer eller annen entydig identifikasjonskodedeklarantens navn og statsborgerskap.\nDersom deklarasjon utføres på vegne av en annen, skal oppdragsgiver identifiseres ved fødselsnummer, D-nummer eller organisasjonsnummer.\nToll- og avgiftsetaten skal registrere opplysningene elektronisk i valutaregisteret innen 5 virkedager etter at opplysningene ble mottatt.\nBehandlingsansvarlig kan bestemme at transportør skal kunne registrere opplysningene elektronisk i registeret på samme måte som Toll- og avgiftsetaten.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2005.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 15",
+      "heading": "Overgangsordninger",
+      "path": [],
+      "text": "Den behandlingsansvarlige kan etter søknad fra rapporteringspliktig innvilge helt eller delvis fritak fra rapporteringsplikten i en overgangsperiode, dersom fullstendig rapportering fra 1. januar 2005 vil innebære en urimelig byrde for den rapporteringspliktige. Slik søknad må være begrunnet og inneholde en plan som viser når rapporteringsplikten kan overholdes.",
+      "xml_path": "article#paragraf-16"
+    }
+  ]
+}

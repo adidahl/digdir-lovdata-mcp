@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2011-12-16-1392",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om oppjustering av driftsavtale for fysioterapeuter",
+  "short_title": "Forskrift om driftsavtale for fysioterapeuter",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2012-01-01",
+  "lovdata_refid": "forskrift/2011-12-16-1392",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-16-1392",
+  "raw_xml_sha256": "ad4ac250fd20d6cbd472242431adbf5af7d63f35f7c3739a6428aff52c25ecf3",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften regulerer oppjustering av driftsavtaler som er inngått mellom fysioterapeut og kommune.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Oppjustering av inngåtte driftsavtaler",
+      "path": [],
+      "text": "Kommunen kan øke en inngått driftsavtale uten ekstern utlysning. Dersom kommunen ikke velger å lyse ut eksternt, skal kommunen foreta en intern utlysning.\nOppjustering av driftsavtale skal skje etter en forsvarlig saksbehandling i kommunen.\nEn økning av en driftsavtale forutsetter enighet mellom kommunen og fysioterapeuten.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. januar 2012.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

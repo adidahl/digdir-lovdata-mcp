@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2018-11-29-2298",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om frister for sensur av eksamen ved Det juridiske fakultet ved Universitetet i Bergen",
+  "short_title": "Forskrift om frister for sensur av eksamen ved Det juridiske fakultet ved UiB",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2019-01-01",
+  "last_change_in_force": "2023-11-30",
+  "last_changed_by": "forskrift/2023-11-30-2531",
+  "lovdata_refid": "forskrift/2018-11-29-2298",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-11-29-2298",
+  "raw_xml_sha256": "3d633156434ef511bcdaaaec948580062142a1ebed070f7ea6bc460d79da496b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "For eksamener innenfor mastergradsstudiet i rettsvitenskap, med unntak av mastergradsoppgaver, settes sensurfristen til 5 uker etter siste eksamensdato i emnet. Dersom eksamen holdes så sent at sensuren først foreligger i det påfølgende semesteret, utvides fristen med fire uker.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "For mastergradsoppgaver settes sensurfristen til to måneder fra innleveringen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 20241 og gjelder til og med 31. desember 2028.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

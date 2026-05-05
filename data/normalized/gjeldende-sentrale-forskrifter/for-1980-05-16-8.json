@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1980-05-16-8",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om gjennomføringen av bestemmelsene i yrkesskadetrygdlovens § 57 om automatisk regulering av ytelsene etter loven.",
+  "short_title": "Forskrift om regulering av yrkesskadetrygd",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1980-01-01",
+  "last_change_in_force": "1982-02-17",
+  "last_changed_by": "forskrift/1982-02-17-383",
+  "lovdata_refid": "forskrift/1980-05-16-8",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1980-05-16-8",
+  "raw_xml_sha256": "d888b661effa9ada0e5dd8e1530dfb20b2bc7d346148d322a806207bfb852047",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Ytelser som nevnt i yrkesskadetrygdens § 57 nr. 1 forhøyes med 5,92 pst. med virkning fra 1. januar 1980.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Det fastsettes et forholdstall – med to desimaler – mellom ytelser forhøyet etter § 1 og folketrygdens grunnbeløp pr. 1. januar 1980. Forholdstallet benyttes til å beregne de nye stønadsbeløpene ved senere endringer i grunnbeløpet.\nDersom uføregraden i en stønadssak endres, fastsettes et nytt forholdstall som skal gi uttrykk for forholdet mellom den nye ytelsen og grunnbeløpet på det tidspunkt endringen skjer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Trygdet arbeidsinntekt beregnet etter yrkesskadetrygdlovens § 57 nr. 3 avrundes ned til nærmeste hele kronebeløp som er delelig med hundre.\nVed fastsettingen av fradrag etter yrkesskadetrygdlovens §§ 12 nr. 3 annet til femte ledd og 19 nr. 1 annet til fjerde ledd skal beregningen av den tilleggspensjon som svarer til trygdet arbeidsinntekt skje ved hjelp av et poengtall. Poengtallet framkommer ved at trygdet arbeidsinntekt fratrekkes grunnbeløpet og deretter divideres med grunnbeløpet. Poengtallet pr. 1. januar 1980 i den enkelte stønadssak skal benyttes også ved framtidige justeringer av fradragene som følge av endringer i grunnbeløpet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft og gis virkning fra 1. januar 1980.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

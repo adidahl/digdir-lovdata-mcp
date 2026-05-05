@@ -1,0 +1,54 @@
+{
+  "id": "LOV-1967-06-08-3",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om å setja i verk avtala 18 mars 1965 om løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar",
+  "short_title": "Lov om internasjonale investeringstvistar",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Internasjonal rett > Konvensjoner. Overenskomster Konkurs, gjeld og pant",
+  "date_in_force": "1967-09-15",
+  "last_change_in_force": "2005-01-01",
+  "last_changed_by": "lov/2004-05-14-25 fra 2005-01-01",
+  "lovdata_refid": "lov/1967-06-08-3",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1967-06-08-3",
+  "raw_xml_sha256": "0856caa75991cb4115ff8487ed028a868de6c10230540fa6b651c2554aee0fd8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Med «avtala» er i denne lov meint den avtala som vart gjord i Washington 18 mars 1965 etter opptak frå Den mellomfolkelege banken for atterreising og framvokster, og som gjeld løysing av tvistar mellom ein stat og borgarar i andre statar om investeringar.\nUnder «skilsdom» går her og avgjerder etter artiklane 50, 51 eller 52 i avtala om at ein skilsdom kan verta tolka, brigda eller gjord om inkje.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Skilsdom som er gjord med heimel i avtala, er bindande her i riket.\nGår ein skilsdom ut på at nokon skal reida ut pengar kan skilsdomen fullførast her i riket so framt fullføringa ikkje er utdrygd etter reglane i avtala. Krav om fullføring vert framsett for nåmsmannen. Tvangsfullbyrdelsesloven § 4-2 fjerde ledd gjeld ikkje for fullføring av skilsdom som er gjord med heimel i avtala.\nVert det opplyst at fullføring er utdrygd etter reglane i avtala, skal ei fullføringssak som går her i riket, likeins utsetjast. Elles kan fullføring her ikkje utdrygjast av di det er kravt at skilsdomen skal verta tolka, brigda eller gjord om inkje etter reglane i avtala.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Det mellomfolkelege sentret for løysing av investeringstvistar, tenestemennene åt senteret og andre som er målsmenn for senteret, skal ha den immunitet og dei privileg som er fastsett i avtala. Det same gjeld om dei som møter i saker etter avtala og er partar, målsmenn, hjelpesmenn, advokatar, vitne eller sakkunnige.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Kongen kan gjeva nærare føresegner til gjennomføring av lova.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Kongen fastsett kva dag1 lova skal taka til å gjelda.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

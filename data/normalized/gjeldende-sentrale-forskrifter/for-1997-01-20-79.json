@@ -1,0 +1,196 @@
+{
+  "id": "FOR-1997-01-20-79",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 for særskilte driftsmidler i kraftforetak.",
+  "short_title": "Forskrift om skattemessig inngangsverdi",
+  "department": "Finansdepartementet",
+  "date_in_force": "1997-01-20",
+  "lovdata_refid": "forskrift/1997-01-20-79",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-01-20-79",
+  "raw_xml_sha256": "8829cf436a99691fcd36f0a1ff63d6a38d0c74465c10d36f3838d8e862e4493b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Anvendelsesområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Bestemmelsene i denne forskrift gjelder ved fastsettelse av nye skattemessige inngangsverdier pr 1. januar 1997 for avskrivbare, fysiske driftsmidler som er særskilte for kraftverk, jf overgangsreglene bokstav A nr. 1 første ledd og bokstav B til skatteloven §§ 19 e, 26 c og 136 annet ledd.\nSom særskilte driftsmidler i kraftanlegg regnes driftsmidler som skal avskrives lineært i medhold av skatteloven § 44A-11, elektroteknisk utrustning som nevnt i skatteloven § 44A-5 første ledd bokstav g så langt dette ikke omfattes av overgangsreglene bokstav A nr. 2, samt adkomstanlegg som nevnt i tredje ledd.\nAnlegg for adkomst til kraftanlegg fra offentlig vei, herunder anleggsveier, kaianlegg, broer og taubaner, regnes som et særskilt driftsmiddel i kraftanlegget når det eies av kraftforetaket og utgjør en del av kraftanlegget. For slikt anlegg skal gjenanskaffelsesverdien fastsettes særskilt. Andre kostnader som er forbundet med adkomst til kraftanlegget i anleggsperioden, herunder utgifter til helikoptertransport, anses for å ha bidratt til å anlegge driftsmiddel som angitt i skatteloven § 44A-11 nr. 1 bokstav a (dvs. dammer, tunneler, rørgater og kraftstasjoner) og skal medregnes i gjenanskaffelsesverdien på vedkommende driftsmiddel. Når en slik anleggskostnad har bidratt til å anlegge flere driftsmidler som nevnt i skatteloven § 44A-11 nr. 1 bokstav a, skal anleggskostnaden tillegges de aktuelle driftsmidlenes gjenanskaffelsesverdier utfra en forholdsmessig fordeling etter størrelsen av gjenanskaffelsesverdiene før reduksjon med beregnede avskrivninger i henhold til § 4-1.\nFor andre driftsmidler i tidligere prosentlignede kraftanlegg fastsettes skattemessig inngangsverdi etter overgangsreglene bokstav A nr. 2 og nr. 3. For andre driftsmidler i tidligere regnskapslignede kraftanlegg videreføres driftsmidlenes saldoverdier etter overgangsreglene bokstav B.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Valg av verdsettelsesmetode",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Skattyter som eier driftsmidler som omfattes av overgangsregelen bokstav A kan som grunnlag for fastsettelse av skattemessige inngangsverdier velge mellom driftsmidlenes gjenanskaffelsesverdi etter denne forskrifts kapittel 2 og dokumentert anskaffelseskostnad etter forskriftens kapittel 3. Skattyter kan velge mellom gjenanskaffelsesverdi og anskaffelseskostnad for hvert driftsmiddel. Gjenanskaffelsesverdien eller anskaffelseskostnaden reduseres med beregnede avskrivninger i henhold til kapittel 4.\nSkattyter som omfattes av overgangsreglene bokstav B og som eier driftsmidler som nevnt i overgangsreglene bokstav A nr. 1 første ledd, kan som grunnlag for fastsettelse av skattemessige inngangsverdier pr. 1. januar 1997 velge driftsmidlenes gjenanskaffelsesverdier beregnet etter forskriftens kapittel 2, redusert med beregnede avskrivninger i henhold til forskriftens kapittel 4.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver som deltar eller har deltatt i Norges vassdrags- og energiverk (NVE) sitt arbeid med beregning av gjenanskaffelsesverdier etter disse bestemmelsene, plikter å hindre at uvedkommende får adgang eller kjennskap til det han/hun i sitt arbeid har fått vite om noens økonomiske, bedriftsmessige eller personlige forhold. Skriftlig erklæring om at man kjenner til og vil overholde taushetsplikten skal avgis før arbeidet påbegynnes.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Opplysninger om tekniske data, eierforhold og skattested",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "Eier av særskilt driftsmiddel i kraftanlegg plikter å gi NVE opplysninger om følgende:Tekniske data av betydning for beregning av driftsmidlets gjenanskaffelsesverdi.Tidspunkt for driftsmidlets levering eller ferdigstillelse.Tidspunkt for og omfang av påkostninger foretatt etter opprinnelig levering eller ferdigstillelse, jf § 2-3.Fullstendige eierforhold til kraftanlegget.Hvilke kommuner det foreligger skatteplikt til for inntekt av kraftproduksjonen i anlegget.\nOpplysningene gis innen 15. april 1997 på særskilt skjema fastsatt av NVE. Godtgjør noen at det av særlige grunner vil skape betydelige vanskeligheter å levere skjema innen fristen, kan NVE gi fristutsettelse.\nEr eieren av driftsmidlet et deltakerlignet selskap eller sameie, leveres skjema av deltakerne i fellesskap. Deltaker som ikke tiltrer en felles besvarelse skal levere særskilt skjema.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Ytterligere opplysninger og undersøkelser",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "NVE kan oppfordre den som har innsendt skjema til å utdype opplysninger som er gitt, samt å fremlegge eventuell dokumentasjon han/hun har om de angitte forhold, innen en særskilt frist som ikke kan være kortere enn to uker.\nNVE kan ved behov kreve besiktigelse av driftsmidlet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Beregning av gjenanskaffelsesverdi",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "Gjenanskaffelsesverdien skal fastsettes særskilt for hvert driftsmiddel. NVE avgjør i tvilstilfelle hva som utgjør ett driftsmiddel i forhold til denne forskriften. NVEs avgjørelse etter denne bestemmelse er ikke bindende for hva som skal anses som ett driftsmiddel ved den videre ligningsmessige behandling.\nI gjenanskaffelsesverdien inngår de kostnader som etter alminnelige skatterettslige prinsipper skulle vært aktivert på driftsmidlets kostpris. Kostnader som kunne vært fradratt direkte, og kostnader som skattemessig skulle vært henført til et driftsmiddel som ikke er omfattet av denne forskrift, skal ikke medtas ved beregning av gjenanskaffelsesverdier.\nEr driftsmidlet påkostet senere enn leverings- eller ferdigstillelsesåret, fastsettes egen gjenanskaffelsesverdi for påkostningen. Som påkostning på driftsmiddel i forhold til denne forskriften, regnes kun strossing av tunnel og påbygging av dam eller kraftstasjonsbygning.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Grunnlaget for NVEs beregninger",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "NVE fastsetter driftsmidlets gjenanskaffelsesverdi på grunnlag av opplysninger innhentet etter bestemmelsene i denne forskriften samt øvrige opplysninger som foreligger.\nDersom opplysninger som kreves i skjema eller utbes etter § 2-2 ikke gis innen de fastsatte frister, avgjør NVE hvilke faktiske forhold som skal legges til grunn for beregningene. Det samme gjelder dersom det ikke er medvirket til besiktigelse som nevnt i § 2-2. Grunnlaget for beregningene kan videre fastsettes ved skjønn dersom NVE finner at de innhentede opplysninger er uriktige eller ufullstendige.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Varsel om avvik fra innsendte opplysninger",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "Før innsendte opplysninger fravikes eller settes til side, skal innsenderen varsles og gis en frist på tre uker for uttalelse. Slikt varsel skal være skriftlig og inneholde en kort begrunnelse for fraviket eller tilsidesettelsen.\nVarsel kan unnlates når fraviket eller tilsidesettelsen skyldes åpenbare skrive- eller regnefeil i de innsendte opplysninger.\nNår innsendte opplysninger er fraveket eller satt til side, skal dette fremgå av den foreløpige beregning, jf § 2-6.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Foreløpig fastsettelse av gjenanskaffelsesverdier og innhenting av uttalelse",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "NVE foretar en foreløpig fastsettelse av gjenanskaffelsesverdiene, som sendes til den som har innlevert opplysninger i medhold av § 2-1. Det gis en frist på fire uker for å inngi uttalelse til fastsettelsen. NVE skal fastsette endelig gjenanskaffelsesverdi på bakgrunn av de opplysninger som foreligger på fastsettelsestidspunktet.\nUttalelse skal inngis skriftlig og være begrunnet. Uttalelsen bør angi hvilke faktiske forhold som anføres å være uriktige, samt hva som er det korrekte forhold.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Endelig fastsettelse",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "NVE fastsetter gjenanskaffelsesverdiene med bindende virkning etter utløpet av fristen for å inngi uttalelse, jf. § 2-6.\nMedfører endelig fastsettelse lavere gjenanskaffelsesverdi enn etter den foreløpige fastsettelse, skal den som har innlevert opplysninger i medhold av § 2-1 opplyses om dette og gis en frist på tre uker for tilleggsuttalelse.\nNVE sender den endelige fastsettelsen av driftsmidlenes gjenanskaffelsesverdier til de oppgitte eierne av vedkommende driftsmidler. Gjenpart av den endelige fastsettelse sendes vedkommende ligningsmyndighet, jf. ligningsloven § 8-6.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Klage",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "NVEs fastsettelse av gjenanskaffelsesverdi er ikke gjenstand for særskilt klage. Fastsettelsen kan likevel påklages som en del av klage over ligningen.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Uriktig beregnet gjenanskaffelsesverdi",
+      "path": [
+        "Kapittel 2. Fastsettelse av gjenanskaffelsesverdier"
+      ],
+      "text": "Skattyter som ved ligningen benytter uriktig gjenanskaffelsesverdi kan ilegges tilleggsskatt etter bestemmelsene i ligningsloven § 10-2.\nDersom gjenanskaffelsesverdi for et driftsmiddel er uriktig fastsatt, kan NVE foreta ny fastsettelse. Bestemmelsene i ligningsloven § 9-6 gjelder tilsvarende. Ved slik omgjøring skal NVE varsle driftsmidlets eiere og vedkommende ligningsmyndigheter. Dersom den uriktig fastsatte gjenanskaffelsesverdi har vært lagt til grunn ved ligningen, kan ligningen endres etter ligningsloven kapittel 9. Ved retting av gjenanskaffelsesverdi kan skattyter velge at anskaffelseskostnad isteden legges til grunn, selv om selvangivelsesfristen er utløpt.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Krav til dokumentasjon",
+      "path": [
+        "Kapittel 3. Dokumentasjon av anskaffelsesverdier"
+      ],
+      "text": "For at et driftsmiddels anskaffelseskostnad skal kunne nyttes som grunnlag for fastsettelse av skattemessig verdi, jf. overgangsreglene bokstav A nr. 1 annet ledd, må anskaffelseskostnaden sannsynliggjøres ved revisorgodkjent regnskap for ervervsåret, eller kvittering, kjøpsavtale eller lignende dokumentasjon fra ervervsåret. Senere påkostninger må dokumenteres på tilsvarende måte.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Reduksjon med beregnede avskrivninger frem til 1. januar 1997",
+      "path": [
+        "Kapittel 4. Beregnede avskrivninger i eiertiden"
+      ],
+      "text": "Fastsatt gjenanskaffelsesverdi eller dokumentert anskaffelseskostnad reduseres med beregnede avskrivninger i perioden fra erverv av driftsmiddelet og til 1. januar 1997, før den kan legges til grunn som skattemessig inngangsverdi for driftsmidlet. Som ervervsår regnes året for første gangs idriftsettelse av driftsmidlet.\nBeregnede avskrivninger skal utgjøre summen av de maksimalt tillatte årlige avskrivninger for vedkommende driftsmiddel fra og med ervervsåret til og med inntektsåret 1996, i henhold til de avskrivningsregler og avskrivningssatser som skal gjelde for vedkommende driftsmiddel for inntektsåret 1997. For driftsmidler som pga hjemfall avskrives etter en forhøyet sats, skal den forhøyede satsen benyttes ved fastsettelse av beregnede avskrivninger.\nVed valg av gjenanskaffelsesverdi regnes året for første gangs erverv av driftsmidlet i kraftanlegget som ervervsår, uavhengig av eierskifter, slik at ny eier etter eierskifte tillegges tidligere eieres eiertid.\nFor påkostninger beregnes avskrivninger som for selvstendig driftsmiddel.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Skjema",
+      "path": [
+        "Kapittel 4. Beregnede avskrivninger i eiertiden"
+      ],
+      "text": "Skattedirektoratet fastsetter skjema for beregnede avskrivninger i eiertiden.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Fastsettelse av åpningsbalanse",
+      "path": [
+        "Kapittel 5. Skattemessig åpningsbalanse pr. 1. januar 1997"
+      ],
+      "text": "Skattyters valg av verdsettelsesmåte for hvert driftsmiddel skal fremgå av selvangivelsen for inntektsåret 1997. Reduksjon av gjenanskaffelsesverdi, eventuelt anskaffelseskostnad, ved beregnede avskrivninger skal foretas på skjema som nevnt i § 4-2, som vedlegges selvangivelsen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Etablering av driftsmiddelkonti",
+      "path": [
+        "Kapittel 5. Skattemessig åpningsbalanse pr. 1. januar 1997"
+      ],
+      "text": "Konto for driftsmiddel som avskrives lineært i henhold til skatteloven § 44A-11, jf skatteloven § 44A-11 nr. 3, skal inneholde opplysning om anskaffelsesår, inngangsverdi og det beløp som gjenstår til avskrivning pr. 1. januar 1997.\nPåkostning på driftsmiddel som avskrives lineært etter skatteloven § 44A-11 behandles som et særskilt driftsmiddel, og verdien av slik påkostning føres som delkonto. Delkonto skal inneholde opplysning om påkostningstidspunkt, påkostningens størrelse og beløp som gjenstår til avskrivning pr. 1. januar 1997.\nKontoopplysninger skal føres på særskilt skjema som Skattedirektoratet fastsetter, og følge som vedlegg til selvangivelsen for inntektsåret 1997.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft straks, med virkning fra og med inntektsåret 1997.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    }
+  ]
+}

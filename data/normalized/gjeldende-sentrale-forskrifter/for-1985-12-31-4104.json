@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1985-12-31-4104",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om uførepensjon som også inneholder etterlattefordeler (samordningsforskrift 32)",
+  "short_title": "Samordningsforskrift 32",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1986-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1985-12-31-4104",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1985-12-31-4104",
+  "raw_xml_sha256": "9b867a2e7d3be301082ffc7592bc45c057e69ba9acfd13b7e5cc8890b9a780e4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Samordningsfradraget for grunnpensjon som er beregnet etter folketrygdloven § 12-15 andre ledd bokstav b slik bestemmelsen lød før 1. januar 2015, skal svare til 3/4 av grunnpensjon uavhengig av hvilken uføregrad folketrygdpensjonen er regnet etter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 1986.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

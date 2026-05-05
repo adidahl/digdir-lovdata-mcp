@@ -1,0 +1,145 @@
+{
+  "id": "FOR-2022-06-30-1273",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Midlertidig forskrift om støtte som følge av ekstraordinære utgifter til elektrisk kraft for jordbruksforetak, veksthus og vanningslag",
+  "department": "EnergidepartementetLandbruks- og matdepartementet",
+  "date_in_force": "2022-07-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-18-2723 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2022-06-30-1273",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-06-30-1273",
+  "raw_xml_sha256": "b082effee9be2b2ba6f08430b562716426f39d3798d32c3e8586e8487568f818",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å bidra til at norsk matproduksjon i jordbruket og produksjon i veksthus opprettholdes gjennom å kompensere for ekstraordinære strømutgifter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder strømforbruk i perioden fra og med april 2022 til og med desember 2029. For vanningslag gjelder forskriften likevel bare for strømforbruk i månedene april til og med oktober.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften menes medjordbruksforetak: foretak som oppfyller vilkårene for å motta produksjonstilskudd eller avløsertilskudd etter forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruketveksthusforetak: foretak registrert i Enhetsregisteret som driver innendørs dyrking av vekstervanningslag: lag eller andre sammenslutninger registrert i Enhetsregisteret enn de som omfattes av nr. 1 eller nr. 2, og som driver vanning av jordbruksareal som disponeres av minst to jordbruksforetak.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Vilkår for støtte",
+      "path": [],
+      "text": "Det kan gis støtte til jordbruksforetak for strømutgifter i produksjonen, og for husholdningsforbruk som ikke omfattes av lov om Norgespris og strømstønad til husholdninger § 5 første ledd.\nVeksthusforetak kan gis støtte for strømutgifter til dyrking av følgende vekster som skal omsettes i markedet:grønnsaker,frukt og bær,krydderurter og medisinske urter,blomster og prydplanter,planteskolevekster, medregnet skogplanter, ellerungplanter av blomster, prydplanter, frukt, bær og grønnsaker for utplanting på friland og for salg.\nDet kan også gis støtte for husholdningsforbruk som ikke omfattes av lov om Norgespris og strømstønad til husholdninger § 5 første ledd.\nVanningslag kan gis støtte for strømutgifter til vanning av jordbruksareal.\nForetak som både oppfyller vilkårene for støtte som jordbruksforetak og som veksthus kan ikke motta støtte etter begge ordninger samtidig.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utmåling av støtte til jordbruksforetak",
+      "path": [],
+      "text": "Støttebeløp for jordbruksforetak beregnes etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{stønadsgrunnlag} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$\nStøtten kan gis for forbruk inntil 20 000 kWt per foretak per måned. Fra og med oktober 2022, kan det gis støtte for forbruk inntil 60 000 kWt per foretak per måned.\nSom stønadsgrunnlag etter første ledd benyttes gjennomsnittlig månedlig elspotpris for hvert prisområde. Prisen skal beregnes som et aritmetisk gjennomsnitt av alle timepriser.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Utmåling av støtte til veksthusforetak",
+      "path": [],
+      "text": "Støttebeløp for produksjon i veksthus beregnes på grunnlag av forbruk registrert på målepunkt som tilhører foretaket etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Utmåling av støtte til vanningslag",
+      "path": [],
+      "text": "Støttebeløp for vanning av jordbruksareal beregnes på grunnlag av forbruk registrert på målepunkt som tilhører virksomheten etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{70 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2024 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{73 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2025 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{75 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$ For forbruk fra og med januar 2026 beregnes støttebeløp etter følgende formel: $$(\\text{foretakets faktiske kostnader per kWt} - \\text{77 øre per kWt eksklusive merverdiavgift}) \\cdot 0{,}80 \\cdot 1{,}25 \\cdot \\text{antall kWt forbruk}$$",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Krav til registrering og registreringsfrist for jordbruksforetak",
+      "path": [],
+      "text": "Jordbruksforetak må ha registrert nødvendige opplysninger på skjema fastsatt av Landbruksdirektoratet for å få strømstøtte. Foretaket kan få støtte for de siste seks kalendermånedene før måneden for registrering.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Krav til søknad og søknadsfrist for veksthus",
+      "path": [],
+      "text": "Veksthus må ha sendt søknad på skjema fastsatt av Landbruksdirektoratet innen 30. september 2022 for å kunne motta støtte for strømforbruk i andre kvartal 2022. For å kunne motta støtte for strømforbruk i tredje og etterfølgende kvartaler må søknad være sendt innen to måneder etter det kvartalet som skal gi grunnlag for støtte.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Krav til søknad og søknadsfrist for vanningslag",
+      "path": [],
+      "text": "Vanningslag må ha sendt søknad på skjema fastsatt av Landbruksdirektoratet innen 30. september det enkelte år for å kunne motta støtte for strømforbruk fra og med april til og med juni samme år. For å kunne motta støtte for strømforbruk i tidsrommet fra og med juli til og med oktober, må søknaden være sendt innen 31. desember samme år.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Administrasjon og klage",
+      "path": [],
+      "text": "Landbruksdirektoratet forvalter støtteordningen etter denne forskriften.\nLandbruksdirektoratet skal beregne og utbetale støtten. Enkeltvedtak kan påklages til Landbruks- og matdepartementet.\nKrav på støtte etter denne forskriften kan ikke pantsettes eller overdras.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Landbruksdirektoratet kan i særlige tilfeller dispensere fra fristen for registrering eller søknad etter § 8, § 9 og § 10.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Innhenting av opplysninger",
+      "path": [],
+      "text": "Reguleringsmyndigheten for energi kan, uten hinder av taushetsplikt, gi opplysninger som er nødvendige for fastsetting av støtte etter denne forskriften og kontrollen av denne.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Opplysningsplikt og kontroll",
+      "path": [],
+      "text": "Foretak og andre virksomheter som mottar støtte etter denne forskriften skal gi alle opplysninger som Landbruksdirektoratet anser nødvendig for å kunne forvalte støtteordningene, og skal uten ugrunnet opphold varsle Landbruksdirektoratet om forhold som helt eller delvis medfører at vilkårene for støtte ikke lenger er oppfylt.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Tilbakebetaling og motregning",
+      "path": [],
+      "text": "Dersom støttemottaker som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner har mottatt en utbetaling som ikke er berettiget, kan det feilutbetalte beløpet kreves tilbakebetalt fra mottakeren eller motregnes i senere støtteutbetaling.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Ikrafttredelse og opphevelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2022, og oppheves 31. desember 2029.",
+      "xml_path": "article#paragraf-16"
+    }
+  ]
+}

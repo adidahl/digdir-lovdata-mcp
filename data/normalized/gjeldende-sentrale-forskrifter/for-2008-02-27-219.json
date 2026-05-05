@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2008-02-27-219",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om meldeplikt for helsepersonell ved mistanke om bivirkninger av kosmetikk og kroppspleieprodukter",
+  "short_title": "Forskrift om bivirkninger av kosmetikk",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2008-02-27",
+  "last_change_in_force": "2019-08-26",
+  "last_changed_by": "forskrift/2019-08-26-1087",
+  "lovdata_refid": "forskrift/2008-02-27-219",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2008-02-27-219",
+  "raw_xml_sha256": "cfcd4ef5ebaf88cbc88e14623bf8790fb945649ae090e2d4a1b6cab8106f2835",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å medvirke til at produkter som omfattes av lov 21. desember 2005 nr. 126 om kosmetikk og kroppspleieprodukt m.m., er helsemessig sikre.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Saklig virkeområde",
+      "path": [],
+      "text": "Forskriften omfatter bivirkninger ved bruk av:Kosmetikk og kroppspleieprodukter, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å rense eller parfymere disse delene av kroppen, endre utseendet deres, påvirke kroppslukter, beskytte dem eller holde dem i god stand. Vedlegg 1 inneholder eksempler på produkter som anses som kosmetikk og kroppspleieprodukter i henhold til denne definisjonen.Legemiddelnære kroppspleieprodukter, som er alle stoff eller blandinger av stoff som er bestemt til å komme i kontakt med kroppsoverflaten til mennesker, tennene eller slimhinnene i munn- eller nesehulen for bare eller i hovedsak å forebygge, lindre eller behandle helseplager som ikke skyldes sykdom.Tatoveringsprodukter, som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å oppnå permanente eller langvarige mønstre, tegninger, streker, felter eller farger på huden, medregnet tatoveringsveske og permanent sminke.Injeksjonsprodukter, som er alle stoff eller blandinger av stoff som er bestemt til å bli ført inn i huden til mennesker for å endre hudens utseende på andre måter enn de som er beskrevet under litra c).\nMattilsynet avgjør i tvilstilfeller om et produkt omfattes av denne forskrift.\nForskriften omfatter ikke bivirkninger ved bruk av kosmetikk og kroppsleieprodukter til dyr.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften forstås med:Produkt: Kosmetikk- og kroppspleieprodukter, legemiddelnære kroppspleieprodukter, tatoveringsprodukter og injeksjonsprodukter.Bivirkning: Helsemessig uønsket virkning av et produkt. Vedlegg 2 angir eksempler på reaksjoner som regnes som bivirkninger.Helsepersonell: Leger, tannleger, farmasøyter og helsesykepleiere.Ansvarlig myndighet: Mattilsynet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Helsepersonells plikt til å rapportere om bivirkninger",
+      "path": [],
+      "text": "Helsepersonell som i pasientrettet virksomhet fatter mistanke om at et produkt har ført til bivirkning, skal spørre pasienten om denne samtykker til at helsepersonellet informerer ansvarlig myndighet om mistanken. Dersom pasienten samtykker, skal helsepersonellet gi ansvarlig myndighet melding om mistanken.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Prosedyre for rapportering av bivirkninger",
+      "path": [],
+      "text": "Ved melding om mistanke om bivirkning skal helsepersonell fylle ut informasjon og samtykke (avkryssingsboks) i skjema for melding om bivirkninger ved bruk av kosmetiske produkter, se vedlegg 3 og 4. Skjema er å finne i direkte lenke til tjenesten for å melde bivirkninger av kosmetikk (krever pålogging): https://uonsket-hendelse.melde.no/kosmetikk",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

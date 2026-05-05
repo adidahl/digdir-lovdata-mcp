@@ -1,0 +1,47 @@
+{
+  "id": "FOR-2022-03-08-346",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beskyttelse av Prosciutto di San Daniele som opprinnelsesbetegnelse",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2022-03-08",
+  "lovdata_refid": "forskrift/2022-03-08-346",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-03-08-346",
+  "raw_xml_sha256": "9f5c597340654bdb450d7f9c8a1e75dc5c1c4889028c2596521f866a798f9578",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Beskyttet produktbetegnelse",
+      "path": [],
+      "text": "Prosciutto di San Daniele.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Rettmessig bruker",
+      "path": [],
+      "text": "Consorzio del Prosciutto di San Daniele.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår for bruk av produktbetegnelsen",
+      "path": [],
+      "text": "Prosciutto di San Daniele skal produseres, bearbeides, foredles, pakkes, merkes og omsettes i samsvar med bestemmelsene i forordning (EF) nr. 1107/96 om beskyttelse av betegnelsen, jf. produktspesifikasjonen av 21. mars 2007 med korrigering slik det framgår av Official Journal OJ L 60 4.3.2015 side 70 og Single document slik det fremgår av Official Journal OJ C 188 20.06.2014 side 24.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

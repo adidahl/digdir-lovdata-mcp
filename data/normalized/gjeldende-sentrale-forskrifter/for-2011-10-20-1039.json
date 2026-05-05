@@ -1,0 +1,49 @@
+{
+  "id": "FOR-2011-10-20-1039",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om anvendelse av forholdstall når et medlem av Statens pensjonskasse og enkelte andre pensjonsordninger blir innvilget uførepensjon etter fylte 67 år",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2011-10-20",
+  "last_change_in_force": "2023-12-21",
+  "last_changed_by": "forskrift/2023-12-21-2271",
+  "lovdata_refid": "forskrift/2011-10-20-1039",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-10-20-1039",
+  "raw_xml_sha256": "58ec0cd82bd4dc3ad9a17cbd25e495d9863992308384131c18b6574af8691c82",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelsesområde",
+      "path": [],
+      "text": "Forskriften gjelder for et medlem av Statens pensjonskasse, pensjonsordning for apotekvirksomhet mv. og pensjonsordning for sykepleiere som ble innvilget uførepensjon med virkningstidspunkt etter fylte 67 år før 2015.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fastsetting av forholdstallet ved omregning til alderspensjon ved aldersgrensen",
+      "path": [],
+      "text": "Ved omregning fra uførepensjon til alderspensjonen ved aldersgrensen, skal alderspensjonen levealdersjusteres med forholdstallet på virkningstidspunktet for uførepensjonen fra tjenestepensjonsordningen. Det skal likevel ikke benyttes lavere forholdstall enn 1,000.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Bruk av forholdstall i garantiberegningen",
+      "path": [],
+      "text": "Ved garantiberegningen etter lov om Statens pensjonskasse § 24a sjette ledd, lov om pensjonsordning for apotekvirksomhet mv. § 8b sjette ledd og lov om pensjonsordning for sykepleiere § 10b sjette ledd for et medlem som nevnt i § 1 skal den alderspensjon fra folketrygden som inngår i garantiberegningen beregnes som basispensjon dividert med forholdstallet på virkningstidspunktet for uførepensjonen fra tjenestepensjonsordningen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks og gis virkning fra 1. januar 2011.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

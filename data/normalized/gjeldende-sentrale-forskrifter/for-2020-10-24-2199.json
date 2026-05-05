@@ -1,0 +1,56 @@
+{
+  "id": "FOR-2020-10-24-2199",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om registrering og offentleggjering av mellombalansar",
+  "short_title": "Forskrift om registrering og offentleggjering av mellombalansar",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2021-01-01",
+  "lovdata_refid": "forskrift/2020-10-24-2199",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-10-24-2199",
+  "raw_xml_sha256": "d89a45c19625f6ce1adf89e300ec594bba29ba746f56b1605082879433c50cbc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Kva forskrifta gjeld",
+      "path": [],
+      "text": "Forskrifta gjeld for aksjeselskap som skal utføre transaksjonar etter aksjelova § 3-8, § 8-2a, § 8-7, § 8-10, § 9-3, § 10-20 og § 12-2, og allmennaksjeselskap som skal utføre transaksjonar etter allmennaksjelova § 3-8, § 8-2a, § 8-7, § 8-10, § 9-3, § 10-20, § 12-2 og § 13-8, med grunnlag i ein mellombalanse som skal sendast til Rekneskapsregisteret. Forskrifta gjeld òg for mellombalanse som skal nyttast etter allmennaksjelova § 3-11 andre ledd og § 3-19 andre ledd andre punktum.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Innsending av mellombalanse til Rekneskapsregisteret – krav til dokumenta og innsendinga",
+      "path": [],
+      "text": "Mellombalanse til Rekneskapsregisteret skal sendast inn elektronisk via Altinn. Dato for fastsetting av mellombalansen og balansedatoen skal gå fram. Mellombalanse skal sendast inn saman med noteopplysningar og eventuell revisjonsmelding.\nRegisterføraren kan fastsette tekniske krav til innsendinga til Rekneskapsregisteret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kunngjering",
+      "path": [],
+      "text": "Rekneskapsregisteret skal kunngjere mottekne mellombalansar i Brønnøysundregistera sin elektroniske kunngjeringspublikasjon.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Offentleggjering – innsyn i mellombalansar",
+      "path": [],
+      "text": "Rekneskapsregisteret kan gje opplysningar om mellombalansar med vedlegg i form av papirkopiar eller ved elektronisk overføring.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikraftsetjing",
+      "path": [],
+      "text": "Forskrifta blir sett i kraft 1. januar 2021.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

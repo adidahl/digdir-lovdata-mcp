@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2025-06-24-1285",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av opplysninger til Totalregnskapet for reindriftsnæringen",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2025-07-01",
+  "lovdata_refid": "forskrift/2025-06-24-1285",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-06-24-1285",
+  "raw_xml_sha256": "358b18c6f2d1ca56a1f576adcdd08291c235fe802161111810de3a2f201bc777",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å regulere innhenting, bruk og lagring (behandling) av opplysninger til bruk i Totalregnskapet for reindriftsnæringen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder behandling av alle grunnlagsdata for Totalregnskapet for reindriftsnæringen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opplysninger som kan behandles",
+      "path": [],
+      "text": "Til bruk i Totalregnskapet for reindriftsnæringen kan Landbruksdirektoratet behandle nødvendige opplysninger om siidaandelsleder og siidaandelsleders ektefelle/samboer, herunder:personnummer,næringsspesifikasjoner,skattemeldinger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Behandling av opplysninger",
+      "path": [],
+      "text": "Landbruksdirektoratet kan innhente opplysninger fra offentlige myndigheter, og bearbeide innhentede opplysninger til bruk i Totalregnskapet for reindriftsnæringen.\nI Totalregnskapet for reindriftsnæringen kan opplysninger innhentet etter denne forskriften fremstilles som aggregerte data.\nInnhentede opplysningene kan lagres så lenge det er nødvendig, men ikke lengre enn fem år.\nInnhentede opplysninger skal kun være tilgjengelig for de som har tjenstlig behov.\nBehandling av opplysninger må være i tråd med gjeldende lover og regelverk.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2025.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

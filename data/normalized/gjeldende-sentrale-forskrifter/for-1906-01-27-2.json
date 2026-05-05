@@ -1,0 +1,24 @@
+{
+  "id": "FOR-1906-01-27-2",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Res. om fastsættelse af en kongevimpel.",
+  "short_title": "Res. om fastsættelse af en kongevimpel",
+  "department": "Utenriksdepartementet",
+  "date_in_force": "1906-01-27",
+  "lovdata_refid": "forskrift/1906-01-27-2",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1906-01-27-2",
+  "raw_xml_sha256": "f8491b6d9e9b3df0b0c95e1583276c5f68912a7ae4d02d53b61edbd3a67b3cbc",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Res. om fastsættelse af en kongevimpel.",
+      "path": [],
+      "text": "Kongelig Resolution, hvorved der fastsættes en kongevimpel, som skal have samme høirøde farve og indeholde samme gyldne løve som for kongebanneret bestemt, idet løven anbringes inderst ved stangen.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

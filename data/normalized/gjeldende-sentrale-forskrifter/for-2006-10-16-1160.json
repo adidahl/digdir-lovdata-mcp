@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2006-10-16-1160",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fråhaldsplikt for personell som utfører oppgåver som gjeld tryggleiken ved jernbane, medrekna sporveg, tunnelbane og forstadsbane mv. (fråhaldspliktforskrifta).",
+  "short_title": "Fråhaldspliktforskrifta",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2007-01-01",
+  "lovdata_refid": "forskrift/2006-10-16-1160",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-10-16-1160",
+  "raw_xml_sha256": "17556072dea5176878fdcab510da31a14db8655ae3f026a280980a908f8ac854",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde mv.",
+      "path": [],
+      "text": "Forskrifta gjeld personell som utfører oppgåver som gjeld tryggleiken ved jernbane, medrekna sporveg, tunnelbane og forstadsbane, mv.\nMed personell meinast personar som gjer teneste for jernbaneverksemda.\nJernbane omfattar også kabelbane i forskrifta her.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Personell ved jernbane som er omfatta av promillegrense og fråhaldsplikt mv. i jernbanelova",
+      "path": [],
+      "text": "Personell som utfører følgjande oppgåver ved jernbane er omfatta av krava i jernbanelova § 3a og § 3b:utfører trafikkstyringutfører funksjonar knytte til drift av kabelbanerfører rullande materiellutfører eller leier skiftingutfører trafikktryggingsoppgåver om bord i tog, medrekna beredskapsoppgåverhar ansvaret for tryggleiken ved arbeid og aktivitetar i og ved sporvurderer tilstanden til rullande materiell i operativ drift og dei tekniske funksjonane til køyrevegen med omsyn til trafikktryggleiken.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Plikter for den som driv jernbaneverksemd",
+      "path": [],
+      "text": "Den som driv jernbaneverksemd plikter å informere personell som utfører arbeidsoppgåver som nemnte i § 2 om krava i forskrifta her. Dette fråtek ikkje personell som er nemnte i § 2, ansvaret for sjølve å kjenne reglane som gjeld for utføringa av oppgåvene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikraftsetjing",
+      "path": [],
+      "text": "Forskrifta setjast i kraft frå 1. januar 2007.\nFrå same dato blir forskrift 6. august 1993 nr. 782 om pliktmessig avhold for personer ved driftsavdeling ved jernbaner, sporveier, tunnelbaner og forstadsbaner for befordring av personer eller gods oppheva.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

@@ -1,0 +1,417 @@
+{
+  "id": "FOR-1998-11-06-1060",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elektriske lavspenningsanlegg",
+  "short_title": "Forskrift om elektriske lavspenningsanlegg - FEL",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1999-01-01",
+  "last_change_in_force": "2005-06-30",
+  "last_changed_by": "forskrift/2005-06-30-744",
+  "lovdata_refid": "forskrift/1998-11-06-1060",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-11-06-1060",
+  "raw_xml_sha256": "121141973821350b04ee6e3f62c90517cc64956236adec2667c7d9f6ca39cbc8",
+  "sections": [
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å oppnå forsvarlig elsikkerhet ved prosjektering, utførelse, endringer og vedlikehold av elektriske lavspenningsanlegg og ved bruk av elektrisk utstyr tilkoblet slike anlegg.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for prosjektering, utførelse, endring og vedlikehold av elektriske lavspenningsanlegg, herunder lavspenningsanlegg for hoved-, reserve- og nødstrømsforsyning. Forskriften gjelder også for bruk av elektrisk utstyr, inkludert høyspenningsutstyr, tilkoblet lavspenningsanlegg.\nForskriften gjelder ikke for:elektriske forsyningsanlegg omfattende elektriske anlegg for produksjon, overføring og fordeling av elektrisk energi samt visse elektriske anlegg i kraft og transformatorstasjoner samt høyspenningsanlegg i industribedrifter og lignende,elektriske anlegg ombord i skip og sjøredskaper, herunder flyttbare boreplattformer og lignende,elektriske anlegg på innretninger som brukes til undersøkelse og leteboring i petroleumsvirksomheten,elektriske anlegg i luftfartøyer, ellerelektroniske telekommunikasjons- og informasjonssystemer.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Anlegg med høyeste nominell spenning til og med 1.000 V vekselspenning eller 1.500 V likespenning.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tvangsmidler",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Finner sentral tilsynsmyndighet at elektrisk anlegg som er undergitt tilsyn ikke utføres påforsvarlig måte elleri samsvar med forskriften ellerer mangelfullt vedlikeholdt ellerfor øvrig er i slik stand at den etter sentral tilsynsmyndighets mening frembyr fare for menneskeliv, husdyr eller for skade på eiendom,kan sentral tilsynsmyndighet iverksette slike tiltak som nevnt i lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr § 6 og § 7.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Straffebestemmelse",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Overtredelse av forskriften eller vedtak fattet i medhold av denne straffes i henhold til lov 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr § 14.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse. Opphevelse av andre forskrifter. Overgangsbestemmelser",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 1999.\nFra samme dato oppheves forskrift av 20. desember 1989 nr. 1430 for elektriske bygningsinstallasjoner m.m., unntatt bestemmelsene i § 810.\nLavspenningsanlegg kan likevel prosjekteres etter de tekniske bestemmelsene i forskrift for elektriske bygningsinstallasjoner m.m. fram til 1. juli 1999.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel II. Administrative bestemmelser"
+      ],
+      "text": "Sentral tilsynsmyndighet eller den sentral tilsynsmyndighet bemyndiger, fører tilsyn med etterlevelsen av denne forskrift.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Klageadgang",
+      "path": [
+        "Kapittel II. Administrative bestemmelser"
+      ],
+      "text": "Sentral tilsynsmyndighet er klageinstans for vedtak fattet av organ underlagt sentral tilsynsmyndighet.\nDepartementet er klageinstans for vedtak fattet av sentral tilsynsmyndighet.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Ansvar – Hvem forskriften retter seg mot",
+      "path": [
+        "Kapittel II. Administrative bestemmelser"
+      ],
+      "text": "Eier og bruker av anlegg som omfattes av denne forskrift skal sørge for at det blir foretatt nødvendig ettersyn og vedlikehold slik at anlegg til enhver tid tilfredsstiller sikkerhetskravene i kapittel V. Ved bruk og tilkobling av elektrisk utstyr til anlegg skal det vises aktsomhet slik at det ikke oppstår fare for liv eller eiendom.\nEnhver som prosjekterer, utfører, endrer eller foretar vedlikehold av anlegg, er ansvarlig for at arbeidet som foretas er i samsvar med forskriftens krav.\nDen som utfører eller endrer anlegg er ansvarlig for at det blir sendt melding som omtalt i § 14.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Oppfyllelse av sikkerhetskrav",
+      "path": [
+        "Kapittel II. Administrative bestemmelser"
+      ],
+      "text": "Forskriften, supplert med tilhørende veiledning og normer, viser samlet det sikkerhetsnivået som skal legges til grunn. Veiledningens og normenes detaljerte anbefalinger er imidlertid ikke juridisk forpliktende, slik at andre løsninger kan velges. Ved valg av annen løsning skal det dokumenteres at tilsvarende sikkerhetsnivå oppnås.\nI veiledningen til forskriften er det angitt normer som beskriver hvordan sikkerhetskravene kan oppfylles.\nKombinasjoner av deler av normer skal unngås med mindre det kan dokumenteres at det oppnås et tilsvarende sikkerhetsnivå.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 11",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel II. Administrative bestemmelser"
+      ],
+      "text": "Sentral tilsynsmyndighet kan gi skriftlig dispensasjon fra denne forskriften dersom særlige forhold tilsier det.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Kontroll. Erklæring om samsvar. Dokumentasjon",
+      "path": [
+        "Kapittel III. Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Før nytt anlegg tas i bruk og etter hver endring skal den som er ansvarlig for utførelsen eller endringen av anlegget sørge for at det er kontrollert og prøvet for å sikre at det tilfredsstiller forskriftens krav.\nEnhver som er ansvarlig for prosjektering, utførelse eller endring av anlegg skal utstede erklæring om samsvar med sikkerhetskravene i kapittel V.\nSom underlag for slik erklæring skal det være utarbeidet dokumentasjon som gjør det mulig å vurdere om anlegget er i samsvar med forskriftens krav.\nErklæring om samsvar og dokumentasjon skal overleveres eier av anlegget.\nDersom det har vært nødvendig å ta spesielle forholdsregler i anlegget for å oppfylle kravene om elektromagnetisk kompatibilitet, skal den som prosjekterer eller utfører anlegget utarbeide instruksjon for bruk og vedlikehold av disse tiltakene.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Oppbevaring av dokumentasjon",
+      "path": [
+        "Kapittel III. Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Eier av anlegg skal til enhver tid oppbevare erklæring om samsvar og oppdatert dokumentasjon som angitt i § 12.\nEnhver som i henhold til § 12 er pålagt å utstede samsvarserklæring skal oppbevare kopi av erklæringen i minst fem år regnet fra den dag erklæringen om samsvar er datert.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Melding",
+      "path": [
+        "Kapittel III. Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Før utførelse og endring av elektriske anlegg påbegynnes skal det sendes melding til sentral tilsynsmyndighet eller den de bemyndiger. For mindre endringer kreves det ikke melding.\nMeldingen skal minst inneholde:eiers/byggherres navn og adresse samt adressen for anlegget,forventet effektforbruk,bruksområde for anlegget,navn på installatør,grensesnitt mellom utførende ved eventuelle delte entrepriser ogantatt tidspunkt for ferdigstillelse.\nUnntatt fra melding er følgende anlegg, såfremt de ikke er plassert i eksplosjonsfarlig område:Anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning.Anlegg i campingvogner, campingbiler o.l.Strømaggregater med ytelser høyst 10 kVA.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Melding av ulykker/uhell",
+      "path": [
+        "Kapittel III. Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Personskader eller skader på anlegg eller eiendom som er forårsaket av elektrisitet, skal i hvert enkelt tilfelle meldes snarest mulig til sentral tilsynsmyndighet.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Planlegging og vurdering av risiko",
+      "path": [
+        "Kapittel IV. Planlegging og utførelse"
+      ],
+      "text": "Elektriske anlegg skal planlegges og utføres slik at mennesker, husdyr og eiendom er beskyttet mot fare og skader ved normal bruk og slik at anlegget blir egnet til den forutsatte bruk.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Tilgjengelighet for vedlikehold",
+      "path": [
+        "Kapittel IV. Planlegging og utførelse"
+      ],
+      "text": "Anlegget skal være planlagt og utført slik atdet er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,det er tilstrekkelig plass til å skifte ut og montere enkeltenheter,og at slikt arbeid kan foretas uten fare for den som utfører arbeidet.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Fordelingssystem",
+      "path": [
+        "Kapittel IV. Planlegging og utførelse"
+      ],
+      "text": "Anlegget skal planlegges og utføres slik at det fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medførerfarlig strømgjennomgang,for høye temperaturer som kan føre til forbrenning, brann eller andre skadelige virkninger,avbrudd som kan medføre fare for mennesker, husdyr eller eiendom,skadelig påvirkning av andre deler av anlegget eller utstyr i eller tilkoplet dette.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Jordingsanlegg",
+      "path": [
+        "Kapittel IV. Planlegging og utførelse"
+      ],
+      "text": "Ved planlegging og utførelse av anlegg skal det påses at jordingssystemet er tilpasset det fordelingssystemet som er valgt for hele eller deler av anlegget, slik at det ikke oppstår farlig strømgjennomgang eller for høye temperaturer som kan føre til forbrenning eller brann.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Beskyttelse mot elektriske støt ved normal bruk",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Mennesker og husdyr skal være beskyttet mot fare som kan oppstå ved direkte berøring av spenningsførende deler av anlegg og utstyr.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Beskyttelse mot elektrisk støt ved feil",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Mennesker og husdyr skal være beskyttet mot fare som kan oppstå ved berøring av utsatte deler som er blitt spenningsførende som følge av feil (indirekte berøring).",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Beskyttelse mot skadelige termiske virkninger",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Elektriske anlegg skal være slik utført at det ikke er noen fare for antennelse av brennbare materialer på grunn av for høy temperatur eller elektrisk lysbue. Det skal ved normal drift heller ikke være noen fare for at mennesker eller husdyr kan bli utsatt for forbrenning.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-4",
+      "provision_ref": "§ 23",
+      "heading": "Beskyttelse mot overstrøm",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Mennesker, husdyr og eiendom skal være beskyttet mot skade fra for høye temperaturer eller elektromekaniske påkjenninger som skyldes noen form for påregnelige overstrømmer i strømførende ledere.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-5",
+      "provision_ref": "§ 24",
+      "heading": "Beskyttelse mot feilstrømmer",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Andre ledere enn strømførende ledere og enhver annen del beregnet på å føre en feilstrøm som følge av isolasjonssvikt eller feil, skal kunne føre denne feilstrømmen uten å anta for høy temperatur.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-6",
+      "provision_ref": "§ 25",
+      "heading": "Beskyttelse mot overspenning",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Mennesker, husdyr og eiendom skal være beskyttet mot:skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger, ogskade som skyldes andre uønsket høye spenninger, for eksempel ved atmosfæriske utladninger eller koblingsoverspenninger.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-7",
+      "provision_ref": "§ 26",
+      "heading": "Beskyttelse mot underspenning",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Mennesker, husdyr og eiendom skal være beskyttet mot fare eller skade som skyldes at spenning kommer tilbake etter helt eller delvis utfall av spenningen. Dersom gjeninnkobling av vern kan skape en farlig situasjon, skal ikke gjeninnkobling skje automatisk.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-8",
+      "provision_ref": "§ 27",
+      "heading": "Beskyttelse mot spenningsfall i forbrukerens anlegg",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Anlegget skal være planlagt og utført slik at spenningsfall i anlegget ikke er til hinder for at utstyret får den spenningen det er beregnet for.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-9",
+      "provision_ref": "§ 28",
+      "heading": "Beskyttelse mot ytre påvirkninger",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Anlegget og det materiell og utstyr som inngår i denne skal være tilpasset de ytre påvirkninger den kan ventes å bli utsatt for.\nDersom en utstyrsenhet er utført slik at den ikke vil tåle påkjenningene i det aktuelle miljøet, kan den likevel brukes dersom den får en egnet og tilstrekkelig tilleggsbeskyttelse.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-10",
+      "provision_ref": "§ 29",
+      "heading": "Nødutkobling",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "I anlegg hvor det er nødvendig med rask (manuell) utkobling for å unngå fare, skal det være installert utstyr for nødutkobling. Slikt utstyr skal være godt synlig og lett tilgjengelig, og skal kunne betjenes uten fare.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-11",
+      "provision_ref": "§ 30",
+      "heading": "Utstyr for frakobling",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Vern og andre beskyttelsestiltak"
+      ],
+      "text": "Det skal være installert utstyr for frakobling av anlegget, kurser eller enkelte utstyrsenheter, slik at vedlikehold, prøving, feilsøking og reparasjon kan foretas uten fare.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-2-paragraf-1",
+      "provision_ref": "§ 31",
+      "heading": "Avbrudd i strømtilførsel",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Avbrudd"
+      ],
+      "text": "Anlegg hvor avbrudd i strømtilførselen kan medføre fare for personer, husdyr eller eiendom skal planlegges og utføres slik at vedlikehold, utskiftning m.m. kan skje uten at fare oppstår.\nDersom uventet strømavbrudd vil kunne medføre fare for personer, husdyr eller omgivelser, skal behov for uavhengig strømtilførsel vurderes.",
+      "xml_path": "article#kapittel-6-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-3-paragraf-1",
+      "provision_ref": "§ 32",
+      "heading": "Merking av kabler, vern og annet materiell",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Merking"
+      ],
+      "text": "Det skal i nødvendig grad foretas merking slik at kabler, utstyr, vern og annet materiell kan identifiseres og for øvrig i den utstrekning det er nødvendig for å unngå fare.",
+      "xml_path": "article#kapittel-6-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-4-paragraf-1",
+      "provision_ref": "§ 33",
+      "heading": "Elektriske og elektromagnetiske forstyrrelser",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Elektromagnetiske og andre elektriske påvirkninger av omgivelsene"
+      ],
+      "text": "Anlegget skal være planlagt og utført og skal vedlikeholdes slik at det ikke frembringer elektriske og elektromagnetiske forstyrrelser som overstiger et nivå der radio og telekommunikasjonsapparater og andre apparater eller anlegg ikke kan fungere etter sin hensikt.\nAnlegget og det utstyret som inngår i dette skal ha tilstrekkelig indre immunitet overfor ytre elektromagnetisk påvirkning slik at anlegget kan fungere sikkert og etter sin hensikt.",
+      "xml_path": "article#kapittel-6-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-4-paragraf-2",
+      "provision_ref": "§ 34",
+      "heading": "Beskyttelse mot innbyrdes skadelige påvirkninger mellom elektriske og ikke-elektriske anlegg (anleggsdeler)",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Elektromagnetiske og andre elektriske påvirkninger av omgivelsene"
+      ],
+      "text": "Det elektriske anlegget skal være utført slik at det ikke oppstår innbyrdes skadelige påvirkninger mellom elektriske og ikke-elektriske anleggsdeler.",
+      "xml_path": "article#kapittel-6-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-5-paragraf-1",
+      "provision_ref": "§ 35",
+      "heading": "Bygningskonstruksjonens mekaniske og brannsikkerhetsmessige egenskaper",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Bevaring av bygningsmessige egenskaper"
+      ],
+      "text": "Anlegget skal være slik utført at bygningskonstruksjonens mekaniske og brannsikkerhetsmessige egenskaper ikke er svekket.",
+      "xml_path": "article#kapittel-6-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-6-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Anlegg og tilkobling",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Elektrisk utstyr tilkoplet lavspenningsanlegg"
+      ],
+      "text": "Elektrisk utstyr som inngår i eller skal tilkoples et anlegg skal når det er installert og vedlikeholdt i henhold til fabrikantens anvisninger og brukes i henhold til sitt formål, ikke bringe sikkerheten i fare for personer, husdyr eller eiendom.",
+      "xml_path": "article#kapittel-6-kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-6-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Egenskaper",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Elektrisk utstyr tilkoplet lavspenningsanlegg"
+      ],
+      "text": "Alt elektrisk utstyr og materiell som inngår i eller skal tilkobles et anlegg skalha slike egenskaper at det er tilpasset anleggets formål og funksjon ogvære tilpasset de ytre påvirkninger som kan påregnes fra omgivelsene.\nDersom en utstyrsenhet ikke er utført slik at den vil tåle påkjenningene i det aktuelle miljøet, kan den likevel brukes dersom den i det ferdige anlegget får en egnet og tilstrekkelig tilleggsbeskyttelse.",
+      "xml_path": "article#kapittel-6-kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-6-paragraf-3",
+      "provision_ref": "§ 38",
+      "heading": "Tilkobling med bevegelige ledninger",
+      "path": [
+        "Kapittel V. Sikkerhetskrav",
+        "Elektrisk utstyr tilkoplet lavspenningsanlegg"
+      ],
+      "text": "Bevegelig ledning med jordleder skal ha jordingsplugg. Bevegelig ledning uten jordleder skal ha plugg uten jordingskontakt.\nBevegelig ledning for utstyr klasse II skal ikke ha jordleder, men kan ha jordingsplugg.\nBevegelig ledning skal være tilkoblet i det rom hvor tilhørende utstyr benyttes. Dette gjelder ikke utstyr beregnet for å flyttes under bruk.\nOvergang fra fast forlagt kabel til bevegelig ledning for flyttbart utstyr skal i alminnelighet foregå ved stikkontakt og plugg. Er stikkontakttilkobling ikke hensiktsmessig, kan utstyr med bevegelig ledning tilkobles i boks med strekkavlastning.",
+      "xml_path": "article#kapittel-6-kapittel-6-paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2016-09-15-1066",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om merking av og etablering av sikkerhetssoner tilknyttet innretning for fornybar energiproduksjon",
+  "short_title": "Forskrift om merking av innretning for fornybar energiproduksjon",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2017-01-01",
+  "last_change_in_force": "2019-08-22",
+  "last_changed_by": "forskrift/2019-08-22-1081",
+  "lovdata_refid": "forskrift/2016-09-15-1066",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-09-15-1066",
+  "raw_xml_sha256": "e2eb14e33367c72b55f7dae12afdfb38e51fcb26f5961c73d8237819a6f3c74f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(virkeområde)",
+      "path": [],
+      "text": "Forskriften gjelder i indre farvann, sjøterritoriet, Norges økonomiske sone og på kontinentalsokkelen.\nForskriften gjelder for innretning for fornybar energiproduksjon som befinner seg over eller under havoverflaten, og som utgjør et hinder for fartøy.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(merking av innretning for fornybar energiproduksjon)",
+      "path": [],
+      "text": "Eier er ansvarlig for at innretning for fornybar energiproduksjon merkes slik at den til enhver tid er godt synlig for sjøfarende. Merkingen skal utføres i overensstemmelse med vedlegg 1 til denne forskriften. Kystverket kan i enkelt tilfeller stille andre krav til merkingen enn de som fremgår av vedlegg 1.\nDet skal gis melding til Kystverket når merking er utført.\nKystverket kan endre vedlegg 1 ved forskrift.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "(vedlikeholdsplikt)",
+      "path": [],
+      "text": "Eier plikter å vedlikeholde merking og utstyr slik at det til enhver tid kan utføre sin tiltenkte funksjon og er i forsvarlig stand, herunder utbedre feil på utstyret uten ugrunnet opphold.\nDersom forhold som nevnt i første ledd ikke lar seg utbedre, skal dette straks meldes til Kystverket ved nasjonal koordinator for navigasjonsvarsler.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "(sikkerhetssone i tilknytning til innretning for fornybar energiproduksjon)",
+      "path": [],
+      "text": "For å ivareta sjøsikkerheten eller sikkerheten til en innretning for fornybar energiproduksjon, kan Kystverket ved forskrift etablere en sikkerhetssone i tilknytning til innretningen.\nInnenfor denne sikkerhetssonen kan det ilegges restriksjoner på ferdsel og annen bruk av farvannet, for eksempel forbud mot ferdsel for bestemte grupper av fartøy, ankringsforbud, forbud mot fiske eller lignende.\nI norsk økonomisk sone og på kontinentalsokkelen kan sikkerhetssonen ha en utstrekning på inntil 500 meter fra innretningens ytterkanter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "(merking av nedlagt innretning for fornybar energiproduksjon)",
+      "path": [],
+      "text": "Dersom en innretning for fornybar energiproduksjon ikke lenger er i drift, skal kravene til merking etter denne forskriften opprettholdes frem til innretningen er fjernet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "(ikrafttredelse)",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2017.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

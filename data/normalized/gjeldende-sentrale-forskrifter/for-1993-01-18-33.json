@@ -1,0 +1,666 @@
+{
+  "id": "FOR-1993-01-18-33",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift for kullgruvene på Svalbard",
+  "short_title": "Forskrift for kullgruvene på Svalbard",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1993-03-01",
+  "last_change_in_force": "2015-11-16",
+  "last_changed_by": "forskrift/2015-11-16-1326",
+  "lovdata_refid": "forskrift/1993-01-18-33",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-01-18-33",
+  "raw_xml_sha256": "e03551470bcea63ba9db556eeceac1f79ccd95b1d5d9ce10eab985299a9ee698",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapittel 1. Virkeområde og definisjoner"
+      ],
+      "text": "Denne forskrift gjelder for arbeid under dagen i kullgruver på Svalbard og for anlegg i dagen innenfor en radius av 50 m fra gruveåpningen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Kapittel 1. Virkeområde og definisjoner"
+      ],
+      "text": "Med faring forstås i denne forskrift forflytning av personer og persontransport.\nMed fordring forstås i denne forskrift transport av matriell og produkter.\nMed returluftsone forstås i denne forskrift den del av gruva hvor lufta har passert oppfaringsdrift, strossedrift eller andre steder som kan forurense med kullstøv eller metangass.\nMed ventilasjonsdistrikt forstås i denne forskrift gruverom som ventileres av en og samme luftstrøm.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapittel 2. Dispensasjon, straffebestemmelser og ikrafttreden"
+      ],
+      "text": "Arbeidstilsynet kan gi dispensasjon fra disse bestemmelsene når det er vernemessig forsvarlig.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kapittel 2. Dispensasjon, straffebestemmelser og ikrafttreden"
+      ],
+      "text": "Overtredelser av denne forskrift er straffbart, jf. arbeidsmiljøloven kapittel 19 og straffeloven 2005 § 27 og § 28.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kapittel 2. Dispensasjon, straffebestemmelser og ikrafttreden"
+      ],
+      "text": "Denne forskrift trer i kraft 1. mars 1993. Samtidig oppheves Sikkerhetsforskrifter for kullgruvene på Svalbard, vedtatt av Direktoratet for Arbeidstilsynet 17. august 1979 nr. 4.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kapittel 3. Klassifikasjon"
+      ],
+      "text": "Arbeidstilsynet skal klassifisere gruver etter følgende inndeling:",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kapittel 3. Klassifikasjon"
+      ],
+      "text": "Ved åpning av gruver på fløts hvor det tidligere har vært drevet gruvedrift i området, skal den nye gruve settes i minst samme fareklasse som tidligere gruver var i, inntil man har vunnet nødvendige erfaringer for spesiell klassifisering av den nye gruve. Overskrides grensene for den klassen som en gruve er klassifisert til, skal dette straks meldes Arbeidstilsynet.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 8",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Virksomheten skal ha et dokumenterbart system for kartlegging av arbeidsmiljøet, iverksetting av nødvendige tiltak, og kontroll med arbeidsmiljøet og arbeidstakernes helse og sikkerhet.\nVirksomheten skal utarbeide nødvendige instrukser for gjennomføring av systemet, og arbeidsinstrukser for arbeidsoperasjoner som innebærer særlig fare for liv og helse.\nVirksomheten skal vedlikeholde og kontrollere systemet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Virksomheten skal varsle Arbeidstilsynet:før gruvearbeidet blir påbegynt i en gruve,når en ny sjakt, hovedstoll eller fløts i gruve er åpnet,om nedleggelse eller midlertidig driftsstans over 4 måneder av en gruve eller fløts i gruve.før gjenopptagelse av arbeidet i en gruve eller fløts i gruve, etter nedleggelse eller midlertidig driftsstans.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 10",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Alle gruver skal drives i overensstemmelse med en på forhånd utarbeidet oppfarings- og driftsplan for 12 måneder framover.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 11",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Steder i gruve hvor kravene til ventilasjon etter § 48 eller fjellsikring etter § 31 ikke oppfylles, skal straks avsperres og merkes «adgang forbudt».\nFor hvert sted hvor kravene til ventilasjon etter § 48 ikke oppfylles, skal det utarbeides skriftlig plan for å sikre mot at eksplosiv gass strømmer ut av området. Det skal utarbeides skriftlige arbeidsinstrukser for dette arbeidet.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 12",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Virksomheten skal utarbeide instruks for nødvendig bruk av åpen flamme og annet varmt arbeid i gruva, og iverksette tiltak for å forebygge brann- og eksplosjonsfare.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 13",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Metangassmålinger skal utføres med anerkjent måleutstyr som jevnlig kalibreres av kvalifisert person.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 14",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Oppholdsrom skal være bygd i branntrygg utførelse og skal være plassert slik at røyken i tilfelle brann vil gå ut i returluftstrømmen uten å bringe arbeidstakerne inne i gruven i fare.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 15",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Rom under dagen for permanente heiseinnretninger, maskiner, oljefylte transformatorer, akkumulatorlading og verksteder og rom som står i forbindelse med disse, skal være av branntrygg utførelse.\nDrivstoffer, smøremidler, løsemidler o.l. skal ikke oppbevares i gruve eller i dagen utenfor gruveåpningen med mindre de er lagret i rom av branntrygg utførelse. Dette gjelder ikke mindre mengder som brukes etter hvert, forutsatt at oppbevaringen skjer i lukkede og merkede beholdere av ikke brennbart materiale og for øvrig av hensiktsmessig utførelse.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 16",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Ingen må settes til arbeid alene på et farlig sted eller på et sted hvor arbeidstakeren ikke vil bli oppdaget eller hjulpet tidsnok hvis vedkommende skulle bli utsatt for en ulykke.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 17",
+      "path": [
+        "Kapittel 4. Alminnelige bestemmelser"
+      ],
+      "text": "Rapporter som er påbudt i denne forskrift, skal være skriftlige. Rapportene skal underskrives av gruveingeniør som nevnt i § 18 i henhold til instruks.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "path": [
+        "Kapittel 5. Gruveledelse"
+      ],
+      "text": "Av hensyn til sikkerheten skal virksomheten sørge for at det til enhver tid er en gruveingeniør som har den daglige ledelse av den gruvetekniske drift.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "path": [
+        "Kapittel 5. Gruveledelse"
+      ],
+      "text": "Ingen skal anses kvalifisert for stillingen som nevnt i § 18 med mindre vedkommende har:eksamen som bergingeniør med rett til tittelen «sivilingeniør» eller tilsvarende, ogtilstrekkelig praksis fra kullgruver.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 20",
+      "path": [
+        "Kapittel 6. Opplæring"
+      ],
+      "text": "Når arbeidere som ikke tidligere har arbeidet i en kullgruve blir satt til arbeid som omfattes av denne forskrift, skal virksomheten sørge for at de gis nødvendig teoretisk og praktisk opplæring. Virksomheten skal utarbeide en opplæringsplan som bl a omfatter:eksplosjonsfaresikringsarbeidventilasjonsforholdarbeidsinstrukserergonomiske forholdkatastrofeplanerandre forhold som har betydning for liv eller helse",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 21",
+      "path": [
+        "Kapittel 6. Opplæring"
+      ],
+      "text": "Før nyopplærte arbeidere blir satt til selvstendig arbeid i gruven, skal de arbeide sammen med erfarne arbeidere så lenge dette er nødvendig av hensyn til sikkerheten. Det skal ikke være flere uøvete enn øvete arbeidere i hvert arbeidslag.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 22",
+      "path": [
+        "Kapittel 7. Verne- og helsepersonale"
+      ],
+      "text": "Virksomheten skal ha kompetent verne- og helsepersonale for å overvåke arbeidsmiljøet og gjennomføre helsekontroll med arbeidstakerne.\nVirksomheten skal sørge for å ha sikringsingeniør for all gruvedrift for å overvåke arbeidsmiljøet med hensyn til bergsikringstiltak og eksplosjonsfare. Sikringsingeniøren skal ha bergteknisk utdannelse og praksis fra kullgruvedrift.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 23",
+      "path": [
+        "Kapittel 8. Brannvern, førstehjelp og redningstjeneste"
+      ],
+      "text": "Virksomheten skal til enhver tid ha instruks for beredskap, opplæring og gjennomføring av brannvern, førstehjelp og redningstjeneste. Instruksen skal bl.a. beskrive følgende:OrganiseringLedelse og kompetansePlaner for beredskapMannskap og materiellOpplæring og øvelserHelsekontroll av mannskapKontroll og vedlikehold av materiellInspeksjoner, kontroll og vedlikehold skal dokumenteres.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 24",
+      "path": [
+        "Kapittel 9. Karter m v"
+      ],
+      "text": "Ved hver gruve skal det være et kartverk som viser følgende:Arbeidsstedenes beliggenhet i forhold til dagen,høydekoter for hengen i forhold til havets middelvannsta_nd med ekvidistanse i meter,beliggenhet, retning og utstrekning av hver kjent større forkastning i hver fløts med dens spranghøyde og hver kjent utkiling og eruptive ganger, ogventilasjon.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 25",
+      "path": [
+        "Kapittel 9. Karter m v"
+      ],
+      "text": "Alle driftskart skal ajourføres fortløpende.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 26",
+      "path": [
+        "Kapittel 9. Karter m v"
+      ],
+      "text": "Hver del av gruve hvor driften er stoppet, skal måles opp innen en måned etter stansen. Kotehøydene skal måles ved grensene til arbeidsstedene. Målingene skal avtegnes på kart.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 27",
+      "path": [
+        "Kapittel 10. Nødutganger"
+      ],
+      "text": "Hvert arbeidssted under dagen skal ha en nødutgang til dagen i tillegg til den vanlige atkomst. For oppfaringsdrifter fastsetter virksomheten hvor langt det kan drives uten nødutgang.\nNødutgang skal være slik at skadet person kan transporteres gjennom den på båre.\nNødutgang skal holdes i sikker og farbar stand.\nNødutganger skal være merket.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 28",
+      "path": [
+        "Kapittel 11. Lading og sprenging"
+      ],
+      "text": "Sprenging skal foregå med elektrisk eller elektronisk tenning.Det skal brukes sprengstoff som er godkjent for bruk i kullgruver av Direktoratet for brann- og eksplosjonsvern.Borehull skal forlades i henhold til særskilt instruks.Virksomheten skal sørge for at metangassmålinger blir gjennomført før lading og etter sprenging i rommet omkring sprengingsstedet.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 29",
+      "path": [
+        "Kapittel 11. Lading og sprenging"
+      ],
+      "text": "Hvis 1,0 volumprosent metangass eller mer påvises, skal arbeidsleder straks varsles og gassen fjernes før sprenging.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 30",
+      "path": [
+        "Kapittel 11. Lading og sprenging"
+      ],
+      "text": "Før arbeidet gjenopptas etter sprenging, skal det kontrolleres at arbeidsplassen er sikkerhetsmessig forsvarlig.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 31",
+      "path": [
+        "Kapittel 12. Forbygninger"
+      ],
+      "text": "Arbeidssteder, transport- og faringsveier i gruve skal, etter hvert som de drives, være effektivt beskyttet mot fall av stein eller kull. De skal holdes i sikker stand mens de er i bruk. Virksomheten skal utarbeide instruks for forbygning, sikring av heng og riving av forbygninger.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 32",
+      "path": [
+        "Kapittel 12. Forbygninger"
+      ],
+      "text": "Forbygning og hengsikring skal være av tilstrekkelig styrke og settes opp i overensstemmelse med instrukser utarbeidet av virksomheten. Instruksene for hvert arbeidssted, arbeidsområde eller fløts, skal inneholde bestemmelser om byggemåte, byggemønster, boltemønster og boltelengder.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-1",
+      "provision_ref": "§ 33",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "Virksomheten skal utarbeide instruks for bruk og vedlikehold av maskiner og utstyr for sikker fordring.",
+      "xml_path": "article#kapittel-13-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-2",
+      "provision_ref": "§ 34",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "I gruvegangene skal det være tilstrekkelig høyde og bredde for at fordring kan foregå på en forsvarlig måte.",
+      "xml_path": "article#kapittel-13-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-3",
+      "provision_ref": "§ 35",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "På alle regulære stoppesteder hvor det er behov for å kople vogner sammen eller fra hverandre eller i forbindelse med kjøretøy, skal det være:Minst 60 cm fritt mellomrom fra vogn til nærmeste vegg eller til forbygning eller til andre hindringerogsikker avstand mellom vognene hvor disse står ved siden av hverandre på parallelle nabospor.",
+      "xml_path": "article#kapittel-13-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-4",
+      "provision_ref": "§ 36",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "For å hindre at transportmidler ruller av gårde ukontrollert skal det nyttes sperreanordninger, stoppere, avkastere eller andre effektive innretninger.",
+      "xml_path": "article#kapittel-13-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-5",
+      "provision_ref": "§ 37",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "Når arbeidstakere kan bli utsatt for fare fra vogn som løper ut, skal det nyttes avsporingsjern, avsporingspenser eller andre effektive innretninger.",
+      "xml_path": "article#kapittel-13-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-6",
+      "provision_ref": "§ 38",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "Hvor fordring foregår med ståltau og stasjonært maskineri på lengre avstander enn 40 meter, skal det finnes passende utstyr for signalisering til operatør på alle regulære stoppesteder. Instruks for signalisering skal utarbeides av virksomheten.",
+      "xml_path": "article#kapittel-13-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-7",
+      "provision_ref": "§ 39",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "Hvor kontaktledning for elektriske lokomotiver passerer lastetipp fra strosser eller geider, skal det på betryggende måte sørges for at skraping av kull ikke kan foregå når det er strøm på ledningen.",
+      "xml_path": "article#kapittel-13-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-8",
+      "provision_ref": "§ 40",
+      "path": [
+        "Kapittel 13. Fordring"
+      ],
+      "text": "I returluftveg og blindorter skal det kun brukes eksplosjonssikre maskiner og utstyr. Kjøring med trolleylokomotiver og andre ikke eksplosjonssikre maskiner er kun tillatt i blindorter hvor ventilasjonen er tilrettelagt for slik transport.\nI gruver som hører til klasse 2 skal det bare brukes eksplosjonssikre maskiner og kjøretøy i områder nærmere enn 20 meter fra definert returluftsone.\nI friskluftveg i gruve eller fløts som hører til klasse 3, er kjøring med trolleylokomotiver eller andre ikke eksplosjonssikre kjøretøy, bare tillatt i hovedstollen og inntil en avstand fra strosse som i hvert enkelt tilfelle må godkjennes av Arbeidstilsynet.",
+      "xml_path": "article#kapittel-13-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-1",
+      "provision_ref": "§ 41",
+      "path": [
+        "Kapittel 14. Faring"
+      ],
+      "text": "Virksomheten skal utarbeide instruks for bruk og vedlikehold av maskiner og utstyr for sikker faring.",
+      "xml_path": "article#kapittel-14-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-2",
+      "provision_ref": "§ 42",
+      "path": [
+        "Kapittel 14. Faring"
+      ],
+      "text": "Faringsveg og gruveganger med persontransport skal ha tilstrekkelig høyde og være fri for alle hindringer.",
+      "xml_path": "article#kapittel-14-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-3",
+      "provision_ref": "§ 43",
+      "path": [
+        "Kapittel 14. Faring"
+      ],
+      "text": "Virksomheten skal utarbeide skriftlig instruks om særskilte tiltak ved faring på nærmere spesifiserte steile fall- eller stigningsforhold over lengre strekninger.",
+      "xml_path": "article#kapittel-14-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-4",
+      "provision_ref": "§ 44",
+      "path": [
+        "Kapittel 14. Faring"
+      ],
+      "text": "I returluftveg og blindorter skal det kun brukes eksplosjonssikre maskiner og utstyr. Kjøring med trolleylokomotiver og andre ikke eksplosjonssikre kjøretøyer er kun tillatt i blindorter hvor ventilasjonen er tilrettelagt for slik transport.\nI gruver som hører til klasse 2 skal det bare brukes eksplosjonssikre maskiner og kjøretøy i områder nærmere enn 20 meter fra definert returluftsone.\nI friskluftveg i gruve eller fløts som hører til klasse 3, er kjøring med trolleylokomotiver eller andre ikke eksplosjonssikre kjøretøy, bare tillatt i hovedstollen og inntil en avstand fra strosse som i hvert enkelt tilfelle må godkjennes av Arbeidstilsynet.",
+      "xml_path": "article#kapittel-14-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-1",
+      "provision_ref": "§ 45",
+      "path": [
+        "Kapittel 15. Faringsstiger"
+      ],
+      "text": "I heisesjakter fra dagen og blindsjakter, hvor faringsstiger oppsettes, skal stigene monteres innebygd, betryggende atskilt fra heiskurv eller kibb.",
+      "xml_path": "article#kapittel-15-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-2",
+      "provision_ref": "§ 46",
+      "path": [
+        "Kapittel 15. Faringsstiger"
+      ],
+      "text": "Stigene skal være slik montert at de trygt kan nyttes til faring. De skal være solid utført, sikkert festet og holdt i god stand.",
+      "xml_path": "article#kapittel-15-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-3",
+      "provision_ref": "§ 47",
+      "path": [
+        "Kapittel 15. Faringsstiger"
+      ],
+      "text": "I alle stigesjakter skal det settes opp hvileplattformer på passende steder, og disse skal ikke ha mer enn 6 meters vertikal avstand.\nStigene skal enten rekke minst 1 meter over den overliggende plattform, eller det skal være faste håndtak til samme høyde.\nStigene skal være slik plassert at de dekker mannhullet i den underliggende plattform.",
+      "xml_path": "article#kapittel-15-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-1",
+      "provision_ref": "§ 48",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Alle steder under dagen som er tilgjengelig for arbeidstakere skal inndeles i nødvendig antall ventilasjonsdistrikter. Et ventilasjonsdistrikt skal til enhver tid gjennomstrømmes av en luftmengde som under ordinære forhold er tilstrekkelig til:å fortynne eksplosiv gruvegass til under 1,0 volumprosent,å fortynne skadelige gasser til under den til enhver tid gjeldende administrative norm utgitt av Arbeidstilsynet.å holde oksygeninnholdet over 19 volumprosent og kulldioksydinnholdet under 0.5 volumprosent.",
+      "xml_path": "article#kapittel-16-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-2",
+      "provision_ref": "§ 49",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Virksomheten skal utarbeide instruks for anlegg, drift og vedlikehold av ventilasjonssystemet i gruvene. Instruksen skal omtale hvem som kan gi ordre om endringer i ventilasjonssystemet. Instruksen skal spesielt omtale ventilasjonssystemer for blindort og oppfaringsdrifter og hvordan resirkulering skal unngås.",
+      "xml_path": "article#kapittel-16-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-3",
+      "provision_ref": "§ 50",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Virksomheten skal ha et dokumenterbart opplegg for jevnlig kontroll av ventilasjonssystemet og overvåking av driften av systemet. Opplegget skal også omfatte prosedyrer for kontroll med luftmengder, oksygeninnhold, kulldioksydinnhold og metangassinnholdet i luften i hvert ventilasjonsdistrikt.",
+      "xml_path": "article#kapittel-16-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-4",
+      "provision_ref": "§ 51",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Hver gruve skal ha sitt eget ventilasjonskart som ajourføres med jevne mellomrom.\nKartet skal angi retningen og fordelingen av luftstrømmene samt beliggenheten av hovedporter og anordninger for regulering og fordeling av luften. Friskluftstrømmen skal på kartet være fargelagt forskjellig fra returluftstrømmen.\nGrensene for returluftsonene skal framgå av ventilasjonskartet.\nAjourførte ventilasjonskart sendes Arbeidstilsynet innen 1. februar hvert år.",
+      "xml_path": "article#kapittel-16-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-5",
+      "provision_ref": "§ 52",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Før ordinær drift starter, skal det opprettes gjennomgående ventilasjon for hvert driftssted.",
+      "xml_path": "article#kapittel-16-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-6",
+      "provision_ref": "§ 53",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Dersom innholdet av metangass i luften på et sted overstiger 1,0 volumprosent, skal strømtilførselen til alt elektrisk utstyr på stedet øyeblikkelig slås av, og den skal ikke slås på så lenge innholdet av metangass i luften overstiger nevnte mengde.\nBestemmelsene i foregående ledd gjelder ikke for eksplosjonssikre telefon-, signal-, pumpe- og ventilasjonsanlegg, hvis fortsatt drift er nødvendig for sikkerheten.",
+      "xml_path": "article#kapittel-16-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-7",
+      "provision_ref": "§ 54",
+      "path": [
+        "Kapittel 16. Ventilasjon"
+      ],
+      "text": "Hvis innholdet av metangass i luften på arbeidsstedet er 1,5 volumprosent eller mer, skal alle arbeidstakere straks trekkes ut av gruva.\nMed mindre det gjelder arbeid for å fjerne faren, skal arbeiderne ikke tillates å gå tilbake før stedet er inspisert og funnet forsvarlig, jf. § 48.",
+      "xml_path": "article#kapittel-16-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-17-paragraf-1",
+      "provision_ref": "§ 55",
+      "path": [
+        "Kapittel 17. Vern mot gasseksplosjon"
+      ],
+      "text": "Når forholdene gjør det nødvendig, skal virksomheten installereovervåkningsutstyr som automatisk og løpende måler gasskonsentrasjon på utsatte steder,automatiske alarmer oginnretninger som automatisk avbryter elektriske installasjoner og forbrenningsmotorer.\nResultatene av de automatiske målingene skal registreres og oppbevares i et tidsrom på 12 måneder.",
+      "xml_path": "article#kapittel-17-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-18-paragraf-1",
+      "provision_ref": "§ 56",
+      "path": [
+        "Kapittel 18. Vern mot kullstøveksplosjon"
+      ],
+      "text": "I gruveganger som brukes til lasting, transport eller faring, skal kullstøv fjernes med regelmessige mellomrom. Det samme gjelder ventilasjonssjakter og -stoller så langt det er mulig.",
+      "xml_path": "article#kapittel-18-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-18-paragraf-2",
+      "provision_ref": "§ 57",
+      "path": [
+        "Kapittel 18. Vern mot kullstøveksplosjon"
+      ],
+      "text": "I gruveganger som brukes til lasting, transport og faring skal det spres steinstøv, unntatt hvor naturlige forhold gir tilstrekkelig beskyttelse mot kullstøveksplosjon.\nDet skal dokumenteres hvordan naturlige forhold gir beskyttelse.",
+      "xml_path": "article#kapittel-18-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-18-paragraf-3",
+      "provision_ref": "§ 58",
+      "path": [
+        "Kapittel 18. Vern mot kullstøveksplosjon"
+      ],
+      "text": "Støvet i heng, på ligg og på sider i gruvegangen hvor det skal foretas steinstøvspredning, skal undersøkes regelmessig for brennbare bestanddeler.\nVirksomheten skal utarbeide instruks for prøvetaking og rapportering.",
+      "xml_path": "article#kapittel-18-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-18-paragraf-4",
+      "provision_ref": "§ 59",
+      "path": [
+        "Kapittel 18. Vern mot kullstøveksplosjon"
+      ],
+      "text": "Innhold av ikke brennbare bestanddeler i støvet i gruveganger skal være minst 80 vektprosent med forøkelse av 1 vektprosent for hver 0,1 volumprosent metaninnhold i returluften. Fuktighet kan i denne forbindelse betraktes som en ikke brennbar bestanddel.\nStøvspredning skal utføres på en slik måte og så ofte at det sikrer at kravene i forrige ledd er oppfylt til enhver tid.",
+      "xml_path": "article#kapittel-18-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-18-paragraf-5",
+      "provision_ref": "§ 60",
+      "path": [
+        "Kapittel 18. Vern mot kullstøveksplosjon"
+      ],
+      "text": "For å hindre spredning av brann, skal det settes opp steinstøv- eller vannbarrierer i samsvar med instruks.",
+      "xml_path": "article#kapittel-18-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-1",
+      "provision_ref": "§ 61",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Virksomheten skal til enhver tid ha oversikt over de arbeidstakere som er i gruven.",
+      "xml_path": "article#kapittel-19-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-2",
+      "provision_ref": "§ 62",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Virksomheten skal sørge for at alle arbeidssteder i gruven inspiseres minst en gang i skiftet.",
+      "xml_path": "article#kapittel-19-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-3",
+      "provision_ref": "§ 63",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Luftgjennomgangen i returluftveg hvor faring og fordring ikke er tillatt og som ikke er avsperret, skal kontrolleres minst en gang i uken.",
+      "xml_path": "article#kapittel-19-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-4",
+      "provision_ref": "§ 64",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "De deler av gruve som ikke er i drift og som ikke er avsperret, skal regelmessig inspiseres minst en gang i uken.",
+      "xml_path": "article#kapittel-19-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-5",
+      "provision_ref": "§ 65",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Virksomheten skal sørge for at det etter stans i arbeidet på mer enn 7 timer inspiseres på hver arbeidsplass før kullbryting starter. Inspeksjonen skal foretas i løpet av de 3 siste timer før arbeidet gjenopptas.",
+      "xml_path": "article#kapittel-19-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-6",
+      "provision_ref": "§ 66",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Inspeksjonene skal omfatte:måling av metangass og kontroll av ansamlinger av kullstøv,ventilasjon i sin alminnelighet,forbygningen og hengens og veggenes tilstand,avsperring av farlige steder,stasjonære maskiner som kan representere brann- og eksplosjonsfare.",
+      "xml_path": "article#kapittel-19-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-19-paragraf-7",
+      "provision_ref": "§ 67",
+      "path": [
+        "Kapittel 19. Sikkerhetsinspeksjoner"
+      ],
+      "text": "Det skal utarbeides skriftlig instruks for metangassmålinger. Det skal utarbeides rapport om måleresultatene.",
+      "xml_path": "article#kapittel-19-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-20-paragraf-1",
+      "provision_ref": "§ 68",
+      "path": [
+        "Kapittel 20. Belysning"
+      ],
+      "text": "Virksomheten skal sørge for tilstrekkelig belysning slik at arbeidet kan foregå på en sikkerhetsmessig forsvarlig måte.",
+      "xml_path": "article#kapittel-20-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-20-paragraf-2",
+      "provision_ref": "§ 69",
+      "path": [
+        "Kapittel 20. Belysning"
+      ],
+      "text": "Lamper som virksomheten stiller til disposisjon skal ikke kunne medføre eksplosjonsfare. Lampene skal til enhver tid holdes i god stand og gi tilstrekkelig godt lys i minst 10 timer.",
+      "xml_path": "article#kapittel-20-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-20-paragraf-3",
+      "provision_ref": "§ 70",
+      "path": [
+        "Kapittel 20. Belysning"
+      ],
+      "text": "Alle transportmidler skal være forsynt med baklys og kraftig frontlys.",
+      "xml_path": "article#kapittel-20-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-21-paragraf-1",
+      "provision_ref": "§ 71",
+      "path": [
+        "Kapittel 21. Vanninntrenging"
+      ],
+      "text": "Virksomheten skal skaffe til veie og nedtegne på sine karter opplysninger om beliggenhet, utstrekning og dybde av gamle arbeidssteder og vannførende lag, kjente vannførende forkastninger og naturlige kilder i dagen som kan forekomme i og i nærheten av dens gruver.",
+      "xml_path": "article#kapittel-21-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-21-paragraf-2",
+      "provision_ref": "§ 72",
+      "path": [
+        "Kapittel 21. Vanninntrenging"
+      ],
+      "text": "Der det er grunn til mistanke om vannansamlinger nær arbeidssteder, skal det foretas undersøkelsesboringer.",
+      "xml_path": "article#kapittel-21-paragraf-2"
+    }
+  ]
+}

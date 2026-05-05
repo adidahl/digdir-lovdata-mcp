@@ -1,0 +1,388 @@
+{
+  "id": "FOR-2015-06-30-823",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om måling av skip og flyttbare innretninger",
+  "short_title": "Forskrift om måling av skip mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2015-07-01",
+  "last_change_in_force": "2025-06-26",
+  "last_changed_by": "forskrift/2025-06-26-1372",
+  "lovdata_refid": "forskrift/2015-06-30-823",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-06-30-823",
+  "raw_xml_sha256": "763a899e0b275757192675721037bdb58af10b7fdb09fb784b453b8c8c46967e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norske skip og flyttbare innretninger. Forskriften gjelder ikke for skip med største lengde under 24 meter som brukes utenfor næringsvirksomhet eller som kun følger forskrift om fartøy under 24 m som fører 12 eller færre passasjerer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Største lengde",
+      "path": [],
+      "text": "Største lengde er lengden av skipet eller den flyttbare innretningen målt fra forkant av forreste del av skroget til akterkant av akterste del av skroget.\nKonstruksjoner som utgjør en del av skipet eller den flyttbare innretningen, og som påvirker dets design, kapasiteter eller egenskaper, skal inngå som en del av skroget.\nUavhengig av materialbruk og innfestingsmetode skal følgende regnes med:dekkskansekledningbaugportlasterampehekkrulldekkshus/overbyggfast fenderlistkonstruksjoner for oppbevaring av redskap og/eller verktøykonstruksjoner som fungerer som hydrostatisk eller dynamisk støtte når skipet eller den flyttbare innretningen ligger i ro eller er underveis, med unntak av bevegelige «trimflaps»volumer tilknyttet skrog, dekk, skansekledning eller dekkshus/overbygning som for eksempel bulb, påhengt «kasse» for montering av styremaskineri.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Målebrev",
+      "path": [],
+      "text": "Skip med største lengde 15 meter og mer og flyttbare innretninger skal ha målebrev i tråd med § 4 til § 15.\nMålebrevet skal oppbevares om bord.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Måleregler for skip med største lengde på 15 meter eller mer og flyttbare innretninger",
+      "path": [],
+      "text": "Den internasjonale konvensjon om måling av skip, 1969 (1969-konvensjonen), Bilag I Regler for fastsettelse av skipets brutto- og nettotonnasje, gjelder som forskrift.\nFor skip med lengde (L) under 24 meter skal bruttotonnasjen beregnes etter 1969-konvensjonen og multipliseres med 0,92. Nettotonnasjen er 40 prosent av bruttotonnasjen. Tonnasjene avrundes ned til nærmeste hele tall.\nAnnet ledd gjelder tilsvarende for flyttbare innretninger.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Måleregler for skip kjølstrukket før 18. juli 1982 med største lengde 15 meter eller mer, men med lengde (L) under 24 meter",
+      "path": [],
+      "text": "Skip med lengde (L) under 24 meter som er kjølstrukket 30. desember 1954 eller senere, men før 18. juli 1982, kan ha målebrev etter overenskomst om et ensartet system for drektighetsmåling, 1947 (1947-konvensjonen). Skip med lengde (L) under 24 meter som er kjølstrukket før 30. desember 1954, kan ha målebrev etter måleregler som gjaldt før 1947-konvensjonen trådte i kraft.\nSkipet må måles på nytt etter § 4 andre ledd dersom det endres eller bygges om slik at bruttotonnasjen etter 1947-konvensjonen økes eller reduseres med mer enn 1 prosent.\nRederiet kan uavhengig av endring eller ombygging utarbeide tonnasjeberegninger etter § 4 andre ledd og be om utstedelse av nytt målebrev.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Sikkerhetstonnasje for skip med lengde (L) 24 meter eller mer",
+      "path": [],
+      "text": "Skip som er kjølstrukket før 18. juli 1994, kan ha sikkerhetstonnasje ført inn i anmerkningsrubrikken i internasjonalt målebrev (1969). Sikkerhetstonnasjen slettes dersom skipet endres, bygges om eller øker dypgangen slik at tonnasjene endres med mer enn 1 prosent.\nSikkerhetstonnasjen skal være fastsatt etter 1947-konvensjonen eller etter måleregler som gjaldt før 1947-konvensjonen trådte i kraft.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Beregning og bruk av redusert bruttotonnasje for tonnasjebaserte avgifter",
+      "path": [],
+      "text": "For oljetankskip kan rederiet etter IMO-resolusjon A.747(18) kreve at følgende føres inn i anmerkningsrubrikken i internasjonalt målebrev (1969):tonnasjen av segregerte vannballasttanker ogskipets bruttotonnasje fratrukket tonnasjen etter bokstav a.\nFor lukeløse containerskip kan rederiet etter IMO-resolusjon MSC.234(82) kreve at en redusert bruttotonnasje føres inn i anmerkningsrubrikken i internasjonalt målebrev (1969).\nDen reduserte bruttotonnasjen som er ført inn i anmerkningsrubrikken etter denne bestemmelsen, skal bare brukes ved beregning av tonnasjebaserte avgifter.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Tonnasjeberegninger",
+      "path": [],
+      "text": "Tonnasjeberegninger skal utføres i et elektronisk program som er godkjent av Sjøfartsdirektoratet. Beregningene skal gjøres på grunnlag av tegninger og være basert på alminnelige geometriske volumberegningsprinsipper. Alle volumberegninger for det enkelte skip skal være utført i samme program. Volumberegningene skal følge prinsippene i 1969-konvensjonen med de anbefalingene og fortolkningene som følger av IMO-rundskriv TM.5/Circ.5 og IMO-resolusjon MSC.234(82).\nVed beregning av skrogvolum skal det tas hensyn til endeseksjonene (skjæringspunkt dekk/stev). Antall seksjonsarealer i skrogbeskrivelsen for øvrig skal ikke være mindre enn de 11 konstruksjonsspantene i standard linjetegning med tillegg av 4 konstruksjonsspant mellom konstruksjonsspant nr. 0 og 1, nr. 1 og 2, nr. 8 og 9, og mellom nr. 9 og 10.\nI volumberegningene skal det tas hensyn til diskontinuiteter og krumme flater. Alle volumer skal beregnes uten fratrekk for styrkedeler (permeabilitet 1,0).\nAlle programberegnede volumer skal presenteres både tabellarisk og grafisk. Alle inngangsdata skal legges ved beregningene. Minimumskravet til grafisk presentasjon er at seksjonene skal plottes i tverrskipsplanet, isometrisk og som profilplott. I tillegg skal seksjonsarealkurven (SAK) for skroget plottes. Arealer og volumer skal angis på kurven.\nLasterom skal defineres og presenteres rom for rom med lengde, spantereferanse og en klar angivelse av romtype og bruk.\nOverbygg skal defineres og presenteres dekk for dekk, og sammenhengende deler skal presenteres som en enhet. Den totale lengden av overbygg og sammenhengende deler skal være angitt i tillegg til volumet. Enkeltdeler og totalvolumet for overbygg skal ha en klar angivelse av type og beliggenhet.\nVed endring eller ombygging er det ikke krav om å benytte godkjent program dersom volumene enkelt kan verifiseres ved hjelp av en forenklet beregningsmetode.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Søknad om målebrev",
+      "path": [],
+      "text": "Søknad om målebrev skal sendes på fastsatt skjema til Sjøfartsdirektoratet.\nVed nybygging skal rederiet søke om målebrev senest tre måneder før skipet eller den flyttbare innretningen settes i fart.\nVed endring eller ombygging skal rederiet søke om å få gjort rettelser i målebrevet eller å få utstedt nytt målebrev i henhold til § 12.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Dokumentasjon som skal legges ved søknad om målebrev",
+      "path": [],
+      "text": "Følgende dokumentasjon skal legges ved søknaden om målebrev:beregninger etter § 4generalarrangementprofil- og dekksplanspanteriss eller linjetegningtankplan.\nVed innflagging skal kopi av det utenlandske målebrevet legges ved søknad om målebrev.\nSjøfartsdirektoratet kan kreve at rederiet legger fram ytterligere dokumentasjon som er nødvendig for å kunne behandle søknader om utstedelse av målebrev, rettelser i målebrev eller påtegning av utenlandske målebrev.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Merking som vilkår for å få utlevert målebrev",
+      "path": [],
+      "text": "Før målebrevet kan utleveres, skal skipet eller den flyttbare innretningen være merket etter reglene om merking av skip og flyttbare innretninger.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Utstedelse av målebrev og rettelser i målebrev",
+      "path": [],
+      "text": "Det utstedes følgende målebrev:internasjonalt målebrev (1969) til målepliktige skip med lengde (L) 24 meter eller mer og flyttbare innretningernorsk innenriks målebrev (1982) til målepliktige skip med lengde (L) under 24 meter.\nNår navn, hjemsted, fartøytype, dypgang eller største lengde endres, kan det gjøres rettelser i målebrevet. I følgende tilfeller er det likevel krav om nytt målebrev:når et skip eller en flyttbar innretning endres eller bygges om slik at brutto- eller nettotonnasjen øker med én enhet eller mernår et skip eller en flyttbar innretning overføres mellom norsk ordinært skipsregister (NOR) og norsk internasjonalt skipsregister (NIS)når et skip med målebrev etter 1947-konvensjonen endres eller bygges om som nevnt i § 5når det originale målebrevet er tapt, med unntak av målebrev som nevnt i tredje ledd.\nSom erstatning for et tapt målebrev som er utstedt etter 1947-konvensjonen, kan rederiet be om kopi av målingsbevis i stedet for norsk innenriks målebrev (1982).\nVed utstedelse av nytt målebrev skal det eksisterende målebrevet returneres.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Utenlandsk målebrev som grunnlag for registrering i norsk skipsregister",
+      "path": [],
+      "text": "Utenlandsk målebrev skal ha tonnasjer etter 1969-konvensjonen for å kunne brukes som grunnlag for registrering i norsk skipsregister.\nNorsk målebrev utstedes på grunnlag av beregningene for det utenlandske målebrevet eller nye beregninger. Skipet beholder sikkerhetstonnasjen dersom den var ført inn i anmerkningsrubrikken i internasjonalt målebrev (1969) utstedt av den forrige flaggstaten.\nUtenlandsk målebrev er gyldig i tre måneder etter at skipet er registrert i norsk skipsregister. Rederiet må sørge for at norsk målebrev kan utstedes innen gyldighetsperiodens utløp på grunnlag av tonnasjeberegninger som er nevnt i annet ledd.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Retur av målebrevet ved utflagging, forlis og kondemnering",
+      "path": [],
+      "text": "Det eksisterende målebrevet må returneres ved utflagging eller hvis skipet eller den flyttbare innretningen på annen måte mister retten til å føre norsk flagg. Etter forlis eller kondemnering skal målebrevet returneres hvis det er i behold.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Anvendelse av tonnasje som parameter",
+      "path": [],
+      "text": "Når det refereres til bruttotonnasje i andre forskrifter, menes bruttotonnasjen som er angitt i målebrevet. For skip som har sikkerhetstonnasje ført inn i anmerkningsrubrikken i internasjonalt målebrev (1969), legges sikkerhetstonnasjen til grunn, hvis ikke annet følger av den enkelte forskriften.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2015. Fra samme tidspunkt oppheves forskrift 18. desember 2009 nr. 1694 om måling av skip.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1",
+      "heading": "Alminnelig forpliktelse i henhold til konvensjonen",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "De kontraherende regjeringer forplikter seg til å sette i verk bestemmelsene i denne konvensjonen og dens bilag, som utgjør en integrerende del av denne konvensjonen. Enhver henvisning til denne konvensjonen innebærer samtidig en henvisning til bilagene.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2",
+      "heading": "Definisjoner",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Hvor annet ikke er uttrykkelig bestemt i denne konvensjonen, gjelder følgende:Regler betyr de regler som er vedlagt denne konvensjonen.Administrasjon betyr regjeringen i den staten hvis flagg fartøyet fører.Utenriksfart betyr en sjøreise fra et land som denne konvensjonen får anvendelse på, til en havn utenfor dette landet eller omvendt. I denne henseende skal ethvert territorium betraktes som et særskilt land når en kontraherende regjering er ansvarlig for dets internasjonale forhold, eller når De forente nasjoner er dets administrerende myndighet.Bruttotonnasje betyr målet for et fartøys totale størrelse fastsatt i samsvar med bestemmelsene i denne konvensjonen.Nettotonnasje betyr målet for et fartøys nyttekapasitet fastsatt i samsvar med bestemmelsene i denne konvensjonen.Nytt fartøy betyr et fartøy hvis kjøl er strukket, eller som er på et tilsvarende byggetrinn på eller etter ikrafttredelsesdatoen for denne konvensjonen.Eksisterende fartøy betyr et fartøy som ikke er et nytt fartøy.Lengde betyr 96 prosent av hele lengden på en vannlinje ved en dybde tilsvarende 85 prosent av den minste dybden i risset målt fra overkanten av kjølen, eller lengden fra forkant av forstevnen til rorstammens akse på samme vannlinje, hvis denne lengden er større. På fartøyer konstruert med styrlast skal vannlinjen som denne lengden blir målt på, være parallell med konstruksjonsvannlinjen.Organisasjonen betyr Den mellomstatlige rådgivende skipsfartsorganisasjon. Tidligere «lnter-governmental Maritime Consultative Organization (IMCO)», nå «International Maritime Organization (IMO)».",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3",
+      "heading": "Anvendelse",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen gjelder for følgende fartøyer som går i utenriksfart:fartøyer registrert i land hvis regjeringer er kontraherende regjeringer;fartøyer registrert i territorier som denne konvensjonen er utvidet til under artikkel 20; oguregistrerte fartøyer som fører flagget til en stat hvis regjering er en kontraherende regjering.Denne konvensjonen gjelder for:nye fartøyer;eksisterende fartøyer som undergår endringer eller ombygninger som Administrasjonen mener vil forårsake en vesentlig endring i fartøyets hittil gjeldende bruttotonnasje;eksisterende fartøyer på eiers anmodning; ogalle eksisterende fartøyer tolv år etter ikrafttredelsesdatoen til konvensjonen, bortsett fra at slike fartøyer, unntatt de fartøyer som er nevnt under (b) og (c) i dette punktet, skal beholde sine da gjeldende tonnasjer når relevante bestemmelser etter andre eksisterende internasjonale konvensjoner anvendes på dem.Eksisterende fartøyer for hvilke denne konvensjonen har kommet til anvendelse i samsvar med punkt 2(c) i denne artikkel, skal senere ikke kunne få sine tonnasjer omregnet i samsvar med de bestemmelser som Administrasjonen anvendte for fartøyer i utenriksfart før denne konvensjonen trådte i kraft.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-4",
+      "provision_ref": "a4",
+      "heading": "Unntak",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen gjelder ikke for:krigsfartøyer; ogfartøyer med lengde under 24 meter (79 fot).Intet i denne konvensjonen gjelder for fartøyer som utelukkende seiler på:de store nordamerikanske innsjøer og St. Lawrence-elven så langt øst som til en rett linje trukket fra Cap des Rosiers til West Point, Anticosti, og på nordsiden av Anticosti til meridianen for 63° V;Det kaspiske hav; ellerelvene La Plata, Parana og elvene i Uruguay så langt øst som til en rett linje trukket mellom Punta Rasa (Cabo San Antonio), Argentina og Punta del Este, Uruguay.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-5",
+      "provision_ref": "a5",
+      "heading": "Force Majeure",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Et fartøy som ikke er undergitt bestemmelsene i denne konvensjonen på det tidspunktet da det avgår på en reise, skal ikke komme innunder disse bestemmelser som følge av noen avvikelse fra dets påtenkte reise på grunn av hardt vær eller noe annet tilfelle av force majeure.Ved anvendelsen av bestemmelsene i denne konvensjonen skal den kontraherende regjering ta tilbørlig hensyn til enhver avvikelse eller forsinkelse som har rammet et fartøy på grunn av hardt vær eller noe annet tilfelle av force majeure.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-6",
+      "provision_ref": "a6",
+      "heading": "Beregning og fastsettelse av tonnasjer",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Beregningen og fastsettelsen av brutto- og nettotonnasjene skal utføres av Administrasjonen som imidlertid kan overlate slik beregning og fastsettelse av tonnasjer til personer eller organisasjoner som den har anerkjent. I ethvert tilfelle skal vedkommende administrasjon påta seg det fulle ansvar for beregningen og fastsettelsen av brutto- og nettotonnasjene.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-7",
+      "provision_ref": "a7",
+      "heading": "Utstedelse av målebrev",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Et internasjonalt målebrev (1969) skal utstedes til ethvert fartøy som har fått sin brutto- og nettotonnasje beregnet og fastsatt i samsvar med denne konvensjonen.Slikt målebrev skal utstedes av Administrasjonen eller av en person eller organisasjon som er behørig bemyndiget til det. I ethvert tilfelle skal Administrasjonen overta det fulle ansvar for målebrevet.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-8",
+      "provision_ref": "a8",
+      "heading": "Utstedelse av målebrev ved en annen regjering",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "En kontraherende regjering kan etter anmodning av en annen kontraherende regjering beregne og fastsette et fartøys brutto- og nettotonnasje og utstede eller gi bemyndigelse til å utstede et internasjonalt målebrev (1969) til fartøyet i samsvar med denne konvensjonen.En gjenpart av målebrevet og en gjenpart av tonnasjeberegningene skal så snart som mulig oversendes den regjeringen som har anmodet om utstedelsen.Et målebrev som er utstedt slik, skal inneholde en erklæring som fastslår at det er blitt utstedt etter anmodning av regjeringen i den staten hvis flagg fartøyet fører eller vil komme til å føre, og det skal ha samme gyldighet og bli godtatt på samme måte som et målebrev utstedt i henhold til artikkel 7.Intet internasjonalt målebrev (1969) skal utstedes til et fartøy som fører flagget til en stat hvis regjering ikke er en kontraherende regjering.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-9",
+      "provision_ref": "a9",
+      "heading": "Målebrevets form",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Målebrevene skal avfattes på det eller de offisielle språk for det land som utsteder dem. Hvis språket som er brukt, verken er engelsk eller fransk, skal teksten innbefatte en oversettelse til ett av disse språkene.Formularene for målebrevene skal tilsvare mønsteret som er gitt i bilag II.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-10",
+      "provision_ref": "a10",
+      "heading": "Kansellering av målebrev",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Bortsett fra enhver unntakelse foreskrevet i reglene, skal et internasjonalt målebrev (1969) opphøre å være gyldig og skal kanselleres av Administrasjonen hvis det er foretatt endringer med hensyn til fartøyets generelle arrangement, konstruksjon, kapasitet, bruk av rom, det totale antall passasjerer fartøyet har tillatelse til å føre i henhold til sitt passasjersertifikat, den fastsatte lastelinjen eller tillatte dyptgående som vil kunne medføre en økning av fartøyets brutto- eller nettotonnasje.Et målebrev utstedt av en administrasjon til et fartøy blir ugyldig når fartøyet overføres til en annen stats flagg, unntatt i tilfeller som nevnt i punkt 3 i denne artikkelen.Når et fartøy overføres til en annen stat hvis regjering er en kontraherende regjering, skal dets internasjonale målebrev (1969) forbli gyldig for et tidsrom som ikke overskrider 3 måneder, eller inntil administrasjonen som erstatning utsteder et nytt internasjonalt målebrev (1969) om dette skulle skje tidligere. Den kontraherende regjering i den staten hvis flagg fartøyet førte, skal så snart som mulig etter at overføringen har funnet sted, oversende Administrasjonen en kopi av det målebrevet fartøyet hadde ved overføringen, samt en kopi av de tilsvarende tonnasjeberegningene.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-11",
+      "provision_ref": "a11",
+      "heading": "Godtakelse av målebrev",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Målebrev som er utstedt på vegne av en kontraherende regjering i samsvar med denne konvensjonen, skal godtas av de andre kontraherende regjeringer og skal med hensyn til alt som omfattes av denne konvensjonen, anses for å ha samme verdi som målebrev utstedt av disse regjeringer.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-12",
+      "provision_ref": "a12",
+      "heading": "Inspeksjon",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Et fartøy som fører flagg tilhørende en stat hvis regjering er en kontraherende regjering, skal, når det befinner seg i havner tilhørende andre kontraherende regjeringer, være underlagt inspeksjon av tjenestepersoner som er behørig bemyndiget av disse regjeringer. Slik inspeksjon skal være begrenset til å bekrefte følgende:at fartøyet er i besittelse av et gyldig internasjonalt målebrev (1969), ogat fartøyets viktigste data tilsvarer det som er angitt i målebrevet.Ikke i noe tilfelle skal utførelsen av en slik inspeksjon forårsake noen forsinkelse for fartøyet.Hvis inspeksjonen skulle avsløre at fartøyets viktigste data avviker fra de som er angitt i dets internasjonale målebrev (1969) på en sådan måte at det fører til en økning av dets bruttotonnasje eller nettotonnasje, skal regjeringen i den staten hvis flagg fartøyet fører, underrettes uten opphold.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-13",
+      "provision_ref": "a13",
+      "heading": "Særrettigheter",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Særrettighetene etter denne konvensjonen kan ikke kreves for et fartøy med mindre det har et gyldig målebrev i henhold til konvensjonen.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-14",
+      "provision_ref": "a14",
+      "heading": "Tidligere traktater, konvensjoner og avtaler",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Alle andre traktater, konvensjoner og avtaler om skipsmålingssaker som for tiden er i kraft mellom regjeringer som er medlemmer av denne konvensjonen, skal fortsatt ha full gyldighet i den tid som de er fastsatt for, hva angår:fartøyer som denne konvensjonen ikke gjelder for,fartøyer som denne konvensjonen gjelder for med hensyn til forhold som det ikke uttrykkelig er gitt bestemmelser om i konvensjonen.I den utstrekning slike traktater, konvensjoner eller avtaler strider mot bestemmelsene i denne konvensjonen, er det imidlertid bestemmelsene i denne siste som skal gjelde.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-15",
+      "provision_ref": "a15",
+      "heading": "Meddelelse av opplysninger",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "De kontraherende regjeringer forplikter seg til å meddele til og deponere hos Organisasjonen:et tilstrekkelig antall eksemplarer av sine målebrevs formularer utarbeidet til bruk i henhold til bestemmelsene i denne konvensjonen, for sirkulasjon til de kontraherende regjeringer,teksten av de lover, resolusjoner, forskrifter, regler og andre bestemmelser som måtte være utferdiget om de forskjellige emner innenfor rammen av denne konvensjonen,en oppgave over ikke-statlige institusjoner som er bemyndiget til å opptre på deres vegne vedrørende skipsmålingssaker, for sirkulasjon til de kontraherende regjeringer.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-16",
+      "provision_ref": "a16",
+      "heading": "Underskrift, godtagelse og tiltredelse",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen skal være åpen for underskrift i seks måneder fra 23. juni 1969, og skal deretter være åpen for tiltredelse. Regjeringer for stater som er medlemmer av De forente nasjoner, eller av en hvilken som helst av denne organisasjons særorganisasjoner, eller av Det internasjonale atomenergibyrå, eller parter til statuttene til Den mellomfolkelige domstol, kan bli deltakere av konvensjonen ved:å underskrive uten forbehold om godtakelse,å underskrive med forbehold om godtakelse etterfulgt av godtakelse, ellerå tiltre.Godtakelse eller tiltredelse skal skje ved deponering av et dokument om godtakelse eller tiltredelse hos organisasjonen. Organisasjonen skal underrette alle regjeringer som har undertegnet eller tiltrådt konvensjonen, om hver ny godtakelse eller tiltredelse og om datoen for deponeringen. Organisasjonen skal også underrette alle regjeringer som allerede har undertegnet konvensjonen, om enhver undertegnelse som har funnet sted i løpet av de seks månedene regnet fra 23. juni 1969.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-17",
+      "provision_ref": "a17",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen trer i kraft tjuefire måneder etter den dag da minst tjuefem regjeringer for stater hvis handelsflåter til sammen utgjør minst sekstifem prosent av verdenshandelsflåtens bruttotonnasje, har undertegnet uten forbehold om godtakelse eller deponert dokumenter om godtakelse eller tiltredelse i samsvar med artikkel 16. Organisasjonen skal underrette alle regjeringer som har undertegnet eller tiltrådt denne konvensjonen, om datoen for dens ikrafttredelse.For regjeringer som har deponert et dokument om godtakelse av eller tiltredelse til denne konvensjonen i løpet av de tjuefire måneder som er nevnt i punkt 1 i denne artikkel, får godtakelsen eller tiltredelsen virkning når denne konvensjonen trer i kraft, eller tre måneder etter den dag dokumentet om godtakelse eller tiltredelse ble deponert, om dette blir en senere dato.For regjeringer som har deponert et dokument om godtakelse av eller tiltredelse til denne konvensjonen etter datoen for dens ikrafttredelse, trer konvensjonen i kraft tre måneder etter den dato da dette dokument blir deponert.Etter den dato da alle de tiltak som kreves for å sette en endring av konvensjonen i kraft, er tatt, eller alle nødvendige godtakelser anses for å være gitt i henhold til punkt 2 (b) i artikkel 18 om endring ved enstemmig godtakelse, skal ethvert dokument om godtakelse eller tiltredelse som deponeres, betraktes som å gjelde konvensjonen i endret form.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-18",
+      "provision_ref": "a18",
+      "heading": "Endringer",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen kan endres etter forslag fra en kontraherende regjering på en hvilken som helst av de måter som er angitt i denne artikkelen.Endring ved enstemmig godtakelse:På anmodning av en kontraherende regjering skal enhver endring som den har foreslått i denne konvensjonen, gjøres kjent av Organisasjonen for alle kontraherende regjeringer til overveielse med henblikk på enstemmig godtakelse.Enhver slik endring skal tre i kraft tolv måneder etter den dato da alle kontraherende regjeringer har godtatt den, med mindre en tidligere dato blir avtalt. En kontraherende regjering som ikke underretter Organisasjonen om sin godtakelse eller forkastelse av endringen innen tjuefire måneder fra den dag da Organisasjonen først gjorde den kjent, skal anses for å ha godtatt endringen.Endring etter behandling i Organisasjonen:På anmodning av en kontraherende regjering vil enhver endring som den har foreslått i denne konvensjonen, bli behandlet i Organisasjonen. Hvis den vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Organisasjonens sjøsikkerhetskomité, skal denne endringen bli gjort kjent for alle medlemmer av Organisasjonen og alle kontraherende regjeringer minst seks måneder før den blir tatt opp til behandling i Organisasjonens generalforsamling.Hvis endringen vedtas av et flertall på to tredjedeler av dem som er til stede og stemmer i Generalforsamlingen, skal Organisasjonen gjøre endringen kjent for alle kontraherende regjeringer for deres godtakelse.En slik endring skal tre i kraft tolv måneder etter den dato da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.Generalforsamlingen kan, ved to tredjedels flertall av dem som er til stede og stemmer, innbefattet to tredjedeler av de regjeringer som er representert i Sjøsikkerhetskomiteen og som er til stede og stemmer i Generalforsamlingen, bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 3 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom. Denne bestemmelse tas med forbehold av forutgående godtakelse fra to tredjedeler av de kontraherende regjeringer.Intet i dette punkt skal hindre den kontraherende regjering som først foreslo handling i henhold til dette punkt om en endring i denne konvensjonen, når som helst å bruke slike alternative fremgangsmåter som den anser for ønskelige i samsvar med punktene 2 eller 4 i denne artikkel.Endring ved en konferanse:På anmodning av en kontraherende regjering og med tilslutning fra minst en tredjedel av de kontraherende regjeringer vil en konferanse av regjeringer bli kalt sammen av Organisasjonen for å behandle endringer i denne konvensjonen.Hver endring som er vedtatt av en slik konferanse ved to tredjedels flertall av de kontraherende regjeringer som er til stede og stemmer, skal gjøres kjent av Organisasjonen for alle kontraherende regjeringer for deres godtakelse.En slik endring skal tre i kraft tolv måneder etter den dag da den er godtatt av to tredjedeler av de kontraherende regjeringer. Endringen skal tre i kraft for alle kontraherende regjeringer, unntatt for dem som før den trer i kraft, avgir en erklæring om at de ikke godtar endringen.Ved to tredjedels flertall av dem som er til stede og stemmer, kan en konferanse som er sammenkalt i henhold til punkt 4 (a) bestemme på det tidspunktet da en endring vedtas, at den er så viktig at enhver kontraherende regjering som avgir en erklæring i henhold til punkt 4 (c) og som ikke godtar endringen innen tolv måneder etter at den trer i kraft, skal opphøre å være medlem av denne konvensjonen ved utløpet av dette tidsrom.Organisasjonen skal underrette alle kontraherende regjeringer om enhver endring som kan tre i kraft i henhold til denne artikkel og om den dag da endringen trer i kraft.Enhver godtakelse eller erklæring i henhold til denne artikkelen skal avgis ved deponering av et dokument hos Organisasjonen, som skal underrette alle kontraherende regjeringer om at godtakelsen eller erklæringen er mottatt.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-19",
+      "provision_ref": "a19",
+      "heading": "Oppsigelse",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen kan sies opp av enhver kontraherende regjering når som helst etter utløpet av 5 år fra den dato da konvensjonen trer i kraft for vedkommende regjering.Oppsigelse skal foretas ved deponering av et dokument hos Organisasjonen, som skal underrette alle de andre kontraherende regjeringer om enhver slik mottatt oppsigelse og om datoen da den ble mottatt.En oppsigelse får virkning ett år etter at den er mottatt av Organisasjonen, eller etter utløpet av et slikt lengre tidsrom som måtte være angitt i oppsigelsesdokumentet.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-20",
+      "provision_ref": "a20",
+      "heading": "Territorier",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "De forente nasjoner i de tilfeller de er den administrerende myndighet for et territorium, eller enhver kontraherende regjering som er ansvarlig for et territoriums internasjonale forbindelser, skal så snart som mulig rådføre seg med et slikt territorium eller ta slike forholdsregler som finnes formålstjenlig i et forsøk på å utvide denne konvensjonen til vedkommende territorium, og kan når som helst ved skriftlig melding til Organisasjonen erklære at denne konvensjonen skal gjøres gjeldende for et slikt territorium.Denne konvensjonen skal fra den dato meldingen er mottatt, eller fra enhver annen dato som måtte være angitt i meldingen, gjøres gjeldende for det territorium som er nevnt i den.De forente nasjoner eller enhver kontraherende regjering som har avgitt en erklæring i henhold til punkt 1 (a) i denne artikkel, kan når som helst etter utløpet av et tidsrom på fem år fra den dato da konvensjonen på denne måte er blitt gjort gjeldende for et territorium, ved skriftlig melding til Organisasjonen, erklære at denne konvensjonen ikke lenger skal gjelde for det territorium som er nevnt i meldingen.Denne konvensjonen skal ikke lenger gjelde for et territorium som er nevnt i en slik melding etter ett år, eller et slikt lengre tidsrom som måtte være angitt i meldingen, regnet fra den dato da Organisasjonen mottok meldingen.Organisasjonen skal underrette alle kontraherende regjeringer når denne konvensjonen er blitt gjort gjeldende for et territorium i henhold til punkt 1 i denne artikkel og når den ikke lenger gjelder i henhold til bestemmelsene i punkt 2 med underretning i hvert enkelt tilfelle om den dato da denne konvensjonen ble gjort gjeldende eller ikke lenger vil gjelde.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-21",
+      "provision_ref": "a21",
+      "heading": "Deponering og registrering",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen skal deponeres hos Organisasjonen, og Organisasjonens generalsekretær skal oversende bekreftede avskrifter av den til alle regjeringer som underskriver og tiltrer denne konvensjonen.Så snart denne konvensjonen trer i kraft, skal Organisasjonens generalsekretær oversende teksten til sekretariatet for De forente nasjoner til registrering og publikasjon i samsvar med artikkel 102 i pakten til De forente nasjoner.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-22",
+      "provision_ref": "a22",
+      "heading": "Språk",
+      "path": [
+        "Internasjonal konvensjon om måling av fartøyer, 1969(1969-konvensjonen)",
+        "Del 1Internasjonal konvensjon om måling av fartøyer, 1969"
+      ],
+      "text": "Denne konvensjonen er utferdiget i ett eksemplar på det engelske og franske språk, med lik gyldighet for hver tekst. Offisielle oversettelser til det russiske og spanske språk skal bli utarbeidet og deponert sammen med den underskrevne original.\nTil bekreftelse av dette har de undertegnede, som er behørig bemyndiget til det av sine respektive regjeringer, undertegnet denne konvensjonen.\nUtferdiget i London denne tjuetredje dag i juni 1969.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-22"
+    }
+  ]
+}

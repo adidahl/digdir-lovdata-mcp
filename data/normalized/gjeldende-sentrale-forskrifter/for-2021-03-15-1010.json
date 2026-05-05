@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2021-03-15-1010",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om trekningskretser for meddommere ved Follo og Nordre Østfold tingrett",
+  "short_title": "Forskrift om trekningskretser for meddommere ved Follo og Nordre Østfold tingrett",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2021-04-26",
+  "lovdata_refid": "forskrift/2021-03-15-1010",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-03-15-1010",
+  "raw_xml_sha256": "5949e3692c494279a13196d11d4f682944998208b6f193f74e45dde596a8ebd4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Follo og Nordre Østfold tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften gjelder fra 26. april 2021.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

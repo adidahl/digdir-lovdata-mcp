@@ -1,0 +1,29 @@
+{
+  "id": "FOR-2026-02-27-298",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om anke til Trygderetten for medlemmer av kommunale pensjonsordninger og enkelte andre ordninger",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2026-02-27",
+  "lovdata_refid": "forskrift/2026-02-27-298",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-02-27-298",
+  "raw_xml_sha256": "2f14f2a64d89b7afb33a592819d67d9b4b0e60dad94a1584ef89b006b31591ca",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "I medhold av trygderettsloven § 2 andre ledd skal vedtak om individuelle rettigheter og plikter i følgende ordninger kunne ankes inn for Trygderetten:kommunale pensjonsordninger omfattet av forsikringsvirksomhetsloven kapittel 4,pensjonsordninger for folkevalgte i kommuner og fylkeskommuner, jf. kommuneloven § 8-7,Sykehjelps- og pensjonsordningen for leger, ogSykehjelpsordningen for tannleger.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Samtidig oppheves forskrifter 15. mars 1974 nr. 5 om adgang til anke til Trygderetten for medlemmer av kommunale pensjonsordninger i Kommunal Landspensjonskasse, forskrifter 6. juni 1975 nr. 9551 om ankeadgang til Trygderetten for medlemmer av Kommunal Landspensjonskasse, forskrifter 4. mars 1977 nr. 1 om anke til Trygderetten for medlemmer av kommunale og fylkeskommunale pensjonsordninger og forskrift 30. juni 2006 nr. 744 om at Arbeids- og velferdsdirektoratet skal være ankemotpart i Trygderetten i visse saker.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

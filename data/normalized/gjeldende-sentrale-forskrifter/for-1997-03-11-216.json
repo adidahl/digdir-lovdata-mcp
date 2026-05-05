@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1997-03-11-216",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om dekning av utgifter til båretransport i Norge.",
+  "short_title": "Forskrift om utgifter til båretransport",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-05-01",
+  "last_change_in_force": "2006-07-01",
+  "last_changed_by": "forskrift/2006-06-30-790 fra 2006-07-01",
+  "lovdata_refid": "forskrift/1997-03-11-216",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-03-11-216",
+  "raw_xml_sha256": "e6a90e04af919c67a8a15879527d8b156fdd33c2407aa50e2fe4975e08a44a76",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Transport av båre i forbindelse med obduksjon som er krevet av Arbeids- og velferdsetaten eller er rekvirert av lege, dekkes av folketrygden.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Transport av båre i forbindelse med obduksjon som er krevet av politi- og lensmannsetaten eller transport av båre i forbindelse med at avdøde har testamentert sitt legeme til et universitet, dekkes ikke av folketrygden.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "20 kilometer-grensen i lovens § 7-3 andre ledd kan fravikes nårnærmeste begravelsesbyrå ligger slik til at bårebilen må tilbakelegge en avstand som overstiger 20 kilometer for å nå fram til dødsstedet, ellerdet er nødvendig å benytte ferge og ventetiden av den grunn blir på minst 2 timer, ellerferge må chartres fordi det ikke er mulig å benytte rutegående ferge.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

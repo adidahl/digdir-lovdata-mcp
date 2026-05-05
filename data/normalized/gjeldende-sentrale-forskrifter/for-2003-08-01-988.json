@@ -1,0 +1,93 @@
+{
+  "id": "FOR-2003-08-01-988",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler om betaling av egenandeler i saker om fri rettshjelp.",
+  "short_title": "Forskrift om overgangsregler, fri rettshjelp",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2003-09-01",
+  "lovdata_refid": "forskrift/2003-08-01-988",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-08-01-988",
+  "raw_xml_sha256": "9cc53a34521c01eca5e93fc257dec20877cac1ea39af2235c3c254cab8b138d5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Denne forskrift kommer til anvendelse på betaling av egenandeler ilagt med hjemmel i lov av 13. juni 1980 nr. 35 om fri rettshjelp § 9.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Med mindre rettshjelp er mottatt uten økonomisk behovsprøving eller noe annet er spesielt bestemt, skal den som fikk innvilget fri rettshjelp før 1. september 2003 selv betale en andel (egenandel) av utgiftene etter bestemmelsene i denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Egenandelen består av en grunnandel på kr 300,- og en tilleggsandel som utgjør 25% av de totale rettshjelpskostnader fratrukket merverdiavgift.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Personer med bruttoinntekt eller tilsvarende næringsinntekt under kr 70.000,- pr. år betaler ikke tilleggsandel. Denne grensen forhøyes med kr 10.000,- for personer som faktisk forsørger ektefelle eller andre, og når det skal tas hensyn til ektefellens eller andres økonomiske situasjon (jf. rettshjelploven § 8 annet og tredje ledd). Videre forhøyes grensen med ytterligere kr 10.000,- dersom personen forsørger barn. Grensen forhøyes følgelig med kr 20.000,- for personer som både forsørger ektefelle eller andre og barn, eller er aleneforsørger.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Den som har bruttoinntekt eller tilsvarende næringsinntekt som overskrider de fastsatte grenser i § 4 skal betale tilleggsandel.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Fylkesmannen kan etter søknad samtykke i at tilleggsandelen frafalles helt eller delvis. Det kan ikke gis samtykke til at grunnandelen frafalles.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "For avsluttede oppdrag inntil 2 timer betales kun grunnandelen. For oppdrag der advokatens faktiske arbeid overstiger 2 timer, kommer reglene om egenandel til anvendelse fullt ut.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Dersom salæravregning foretas på grunnlag av stykkprissatser og det faktisk medgåtte antall arbeidstimer er lavere enn det timetall som ligger til grunn for stykkprissatsen, beregnes egenandelen ut fra det timetall advokaten faktisk har arbeidet med saken.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [],
+      "text": "Krav på betaling av egenandel er tvangsgrunnlag for utlegg. Krav på betaling av egenandel innkreves av Statens Innkrevingssentral. Innkrevingssentralen kan inndrive kravet ved trekk i lønn eller andre lignende ytelser etter reglene i dekningsloven § 2-7. Innkrevingssentralen kan også inndrive kravet ved å stifte utleggspant for kravet dersom panteretten kan gis rettsvern ved registrering i et register eller ved underretning til en tredjeperson, jf. panteloven kapittel 5, og utleggsforretningen kan holdes på Innkrevingssentralens kontor etter tvangsfullbyrdelsesloven § 7-9 første ledd.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "path": [],
+      "text": "Statens Innkrevingssentral gis fullmakt til å inngå gjeldsordninger etter gjeldsordningsloven kapittel 4 og fullmakt til å avskrive krav på egenandel.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. september 2003.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

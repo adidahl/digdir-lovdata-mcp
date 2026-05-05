@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2000-07-07-743",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for fastsettelse av høyeste pensjon i Statens pensjonskasse ved samordning av tjenestepensjoner",
+  "short_title": "Forskrift om overgangsregler for tjenestepensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2000-07-07",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/2000-07-07-743",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-07-07-743",
+  "raw_xml_sha256": "9c534a461e41538ca6024c0dd57e230073c50a50551aa90a171b9f5839fc5f78",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Ved samordning av tjenestepensjoner etter bestemmelsene i samordningsloven § 7, gjelder følgende overgangsregel ved fastsetting av høyeste pensjon i Statens pensjonskasse:\nFor pensjon for tjenesteforhold som er avsluttet før 1. mai 2000, skal høyeste pensjon i Statens pensjonskasse fastsettes etter de regler som gjaldt før denne dato. Det vil si at den delen av den pensjonsgivende inntekten (pensjonsgrunnlaget) som er mellom åtte og tolv ganger folketrygdens grunnbeløp bare medregnes med en tredel.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks og gis virkning fra 1. mai 2000.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

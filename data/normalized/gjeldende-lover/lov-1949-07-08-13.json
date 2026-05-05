@@ -1,0 +1,68 @@
+{
+  "id": "LOV-1949-07-08-13",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om produksjon, transport og omsetning av agn [agnforsyningsloven]",
+  "short_title": "Agnforsyningsloven",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Fiskeri- og fangstrett og havbruk > Fiskeri",
+  "date_in_force": "1949-07-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1949-07-08-13",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1949-07-08-13",
+  "raw_xml_sha256": "1e537ae99ef8247d42e5bdd33f68a3da2af58543ccfb6103d5171daee4fe3110",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "For å sikre en rasjonell og forsvarlig agnforsyning kan Kongen bestemme:at omsetningen av agn til fisker bare skal skje gjennom et samvirkeforetak av fiskere hvis vedtekter er godkjent av vedkommende departement;at salg av agn fra produsent bare skal skje gjennom en sammenslutning av agnprodusenter hvis vedtekter er godkjent av vedkommende departement.\nBestemmelsene kan begrenses til å gjelde visse agnsorter og visse distrikter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Treffes beslutning etter § 1, kan vedkommende departement gi bestemmelse til gjennomføring av beslutningen og kontroll med at den blir overholdt.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Kongen eller den han gir fullmakt, kan fastsette de forskrifter som trengs for å sikre at de som deltar i agnomsetningen har nødvendige faglige kvalifikasjoner og nødvendige anlegg og utstyr for levering av kvalitetsvare.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Kongen eller den han gir fullmakt, kan utferdige forskrifter om på hvilken måte agnsalget skal skje for å sikre betryggende omsetningsformer. Herunder kan bl.a. bestemmes:at vedkommende agnforhandler må stille garanti som sikkerhet for innbetalt forskudd;at forhåndssalg av agn bare kan skje etter nærmere fastsatte regler;at salg av agn bare kan skje ved forhandler selv eller ved representant som har fullmakt til å forplikte forhandleren, og at bruk av agent eller kommisjonær gjøres avhengig av spesiell tillatelse;at der i hvert fiskevær kun skal være en eller et bestemt antall agenter;at merking av emballasje skal skje etter nærmere fastsatte regler.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "I den utstrekning agnforsyningsforholdene under de store torskefiskerier gjør det ønskelig, kan Kongen eller den han gir fullmakt, nedsette et utvalg som får til oppgave å regulere tilførselen og fordelingen av agnet. Nærmere forskrifter for et slikt utvalgs virksomhet gis av vedkommende departement.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Overtredelse av denne lov eller av bestemmelser som er gitt i medhold av loven, straffes med bøter.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Denne lov trer i kraft 1. juli 1949.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

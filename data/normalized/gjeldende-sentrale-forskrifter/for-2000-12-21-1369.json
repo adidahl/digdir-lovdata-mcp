@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2000-12-21-1369",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om melding fra patologilaboratorier til sentralenheten for masseundersøkelse for livmorhalskreft.",
+  "short_title": "Forskrift om melding om livmorhalskreft",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2001-01-01",
+  "lovdata_refid": "forskrift/2000-12-21-1369",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-12-21-1369",
+  "raw_xml_sha256": "3abace152dc3178761a46071b5064f9de0446acd818d97102733fbb49a46b4ce",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med masseundersøkelse for kreft i livmorhalsen er å redusere forekomst og dødelighet av livmorhalskreft ved et organisert screeningprogram. Melding til Sentralenheten er et nødvendig ledd i dette programmet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Meldepliktens omfang og meldingsformen",
+      "path": [],
+      "text": "1. Alle cervixcytologiske prøver tatt av kvinner, også prøver med negativt funn, skal meldes til Sentralenheten for masseundersøkelse for kreft i livmorhalsen (heretter kalt Sentralenheten), som er knyttet til Kreftregisteret.2. Følgende opplysninger skal meldes:Laboratoriets nummerFødselsdatoPersonnummerSlektsnavnFornavn og mellomnavnPostnummerÅrsak til cytologisk prøveMorfologi (diagnoseklassifikasjon)Topografi (klassifikasjon av hvor prøve er tatt)Antall måneder før eventuelt kontrollprøveHistologisk undersøkelse nødvendigSvarmånedSvarårDersom kvinnens personnummer er uoppgitt/usikkert, skal laboratoriet også, etter eventuell forespørsel fra Sentralenheten, oppgi hennes mulig tidligere navn samt adresse og bostedskommune og prøvetakers adresse.3. Melding skal sendes i form av fastsatt cytologiremisse. I samråd med Sentralenheten kan det i stedet for papirkopi sendes melding i annen, maskinlesbar form, dersom det finnes mest hensiktsmessig.4. Melding sendes snarest, og senest innen 5 uker etter prøveanalyse.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Reservasjon mot deltakelse og registrering",
+      "path": [],
+      "text": "Kvinnen kan reservere seg mot deltakelse i masseundersøkelsen og mot sentral registrering. Patologilaboratoriene skal i alle tilfelle sende melding om prøvetaking til Sentralenheten, som skal påse at slike reservasjoner tas til følge.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Meldeansvar",
+      "path": [],
+      "text": "Medisinsk ansvarlig lege ved vedkommende patologilaboratorium skal iaktta at melding blir gitt. I samsvar med helsepersonelloven § 5 første ledd kan annet helsepersonell nyttes i melderutinene.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Godtgjøring",
+      "path": [],
+      "text": "Patologilaboratoriene kan ikke kreve særskilt godtgjøring for melding til Sentralenheten.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2001.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

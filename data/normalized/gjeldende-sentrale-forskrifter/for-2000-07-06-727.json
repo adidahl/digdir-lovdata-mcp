@@ -1,0 +1,82 @@
+{
+  "id": "FOR-2000-07-06-727",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om registrering og utveksling av opplysninger (meldesystem) for å gjennomføre bestemmelsene i samordningsloven mv.",
+  "short_title": "Forskrift om meldesystem etter samordningsloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2000-09-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-21-2283 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2000-07-06-727",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-07-06-727",
+  "raw_xml_sha256": "e512770fbcffacb06b36f7008bcc870d8ea875d8adb0a7a5c74235822e815f35",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og omfang",
+      "path": [],
+      "text": "Formålet med denne forskriften er å sikre at det skjer korrekt samordning og tilpassing av ytelser fra pensjons- eller trygdeordninger som omfattes av samordningsloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Om registrering av opplysninger",
+      "path": [],
+      "text": "Når en person er innvilget ytelser fra en pensjons- eller trygdeordning, skal opplysninger om dette registreres av Arbeids- og velferdsetaten i et samordningsregister.\nDet skal registreres opplysninger om fødselsnummer (eventuelt D-nummer), pensjons- eller trygdeordning, ytelsestype, virkningstidspunkt, opphørstidspunkt og eventuelt andre nødvendige opplysninger som Arbeids- og velferdsdirektoratet bestemmer.\nDet skal foretas registrering selv om ytelsen er bortfalt som følge av fradragsreglene i samordningsloven eller særskilte fradragsregler for vedkommende pensjonsordning.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Generelt om utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjons- eller trygdeordning",
+      "path": [],
+      "text": "Utveksling av opplysninger mellom Arbeids- og velferdsetaten og pensjons- eller trygdeordning skal skje elektronisk.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Melding fra pensjons- eller trygdeordning til Arbeids- og velferdsetaten ved innvilgelse, endring eller opphør av ytelse",
+      "path": [],
+      "text": "Pensjons- eller trygdeordning skal sende melding til Arbeids- og velferdsetaten når ytelsen innvilges, endres eller opphører.\nArbeids- og velferdsetaten skal registrere opplysningene fra pensjons- eller trygdeordningen.\nNår en ytelse er innvilget, må pensjons- eller trygdeordning ikke utbetale ytelsen før svarmelding er mottatt etter § 5 første ledd.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Melding fra Arbeids- og velferdsetaten til pensjons- eller trygdeordning",
+      "path": [],
+      "text": "Arbeids- og velferdsetaten skal sende svarmelding til pensjons- eller trygdeordning når etaten har mottatt melding fra ordningen om at det er innvilget en ytelse, jf. § 4. Svarmeldingen skal gi opplysninger om det er registrert andre ytelser i den aktuelle saken, eventuelt at det ikke er registrert andre ytelser.\nArbeids- og velferdsetaten skal gi pensjons- eller trygdeordning de opplysningene om ytelser etaten selv administrerer som er nødvendig for at ordningen skal kunne foreta korrekt pensjonsberegning og samordning.\nArbeids- og velferdsetaten skal gi melding til pensjons- eller trygdeordning om ny ytelse, endring eller opphør av ytelse som det er mottatt melding om fra annen pensjons- eller trygdeordning.\nArbeids- og velferdsetaten kan inngå avtale med pensjons- eller trygdeordning om rapporter over utbetalte arbeidsavklaringspenger, herunder opplysninger om endringer på grunn av arbeid, fravær, trekk på grunn av for sen melding mv.\nNår det skjer endringer i faktisk eller forventet arbeidsinntekt etter folketrygdloven § 17 A-6 som fører til at en pensjon fra folketrygden omregnes, skal Arbeids- og velferdsetaten oppgi den nye inntekten til tjenestepensjonsleverandøren sammen med meldingen om at ytelsen fra folketrygden er endret.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Melding fra Arbeids- og velferdsetaten til tjenestepensjonsleverandør om samordning med alderspensjon etter folketrygdloven kapittel 20",
+      "path": [],
+      "text": "Arbeids- og velferdsetaten skal gi opplysninger om opptjente rettigheter i folketrygden som danner grunnlag for samordning etter samordningsloven § 24a og § 24c. Arbeids og velferdsetaten skal også gi opplysninger som er nødvendige for å vurdere om det skal foretas ny samordningsberegning.\nTjenestepensjonsleverandøren fastsetter samordningsbeholdningen og samordningsfradraget på grunnlag av opplysninger fra Arbeids- og velferdsetaten.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Øvrige meldinger fra pensjons- eller trygdeordning",
+      "path": [],
+      "text": "Enhver pensjons- eller trygdeordning skal gi melding om egen pensjonsberegning til annen pensjons- eller trygdeordning når dette har betydning for beregningen av ytelsene fra vedkommende ordning.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. september 2000. Fra samme tidspunkt oppheves forskrift av 7. april 1961 nr. 4116 om registrering av personer med pensjons- og trygdeytelser som omfattes av samordningsloven m.v. (samordningsforskrift 47).",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

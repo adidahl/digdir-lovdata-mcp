@@ -1,0 +1,83 @@
+{
+  "id": "LOV-1981-03-06-5",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om barneombud [barneombudsloven]",
+  "short_title": "Barneombudsloven",
+  "department": "Barne- og familiedepartementet",
+  "legal_area": "Familie-, person- og barnerett > Barn og foreldre",
+  "date_in_force": "1981-09-01",
+  "last_change_in_force": "2023-09-01",
+  "last_changed_by": "lov/2023-06-16-42 fra 2023-09-01",
+  "lovdata_refid": "lov/1981-03-06-5",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1981-03-06-5",
+  "raw_xml_sha256": "0f495146c9d8bf315dad031fc6ed5f8416d82ce799d4c987fe3abddccc03b9e7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(formål)",
+      "path": [],
+      "text": "Denne lov har til formål å bidra til å fremme barns interesser i samfunnet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(barneombud)",
+      "path": [],
+      "text": "Barneombudet åremålsbeskikkes av Kongen i statsråd for en periode på seks år uten adgang til gjenoppnevning.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "(Ombudets oppgaver)",
+      "path": [],
+      "text": "Ombudet har til oppgave å fremme barns interesser overfor det offentlige og private, og skal følge med i utviklingen av barns oppvekstkår.\nOmbudet skal særlig:av eget tiltak eller som høringsinstans ivareta barns interesser i samband med planlegging og utredning på alle felter,følge med i at lovgivning til vern om barns interesser blir fulgt, herunder om norsk rett og forvaltningspraksis samsvarer med de forpliktelser Norge har etter FNs konvensjon om barnets rettigheter.foreslå tiltak som kan styrke barns rettssikkerhet,fremme forslag til tiltak som kan løse eller forebygge konflikter mellom barn og samfunn,følge med at det gis tilstrekkelig informasjon til det offentlige og private om barns rettigheter og de tiltak de har behov for.\nOmbudet kan virke av eget tiltak eller etter henvendelse fra andre. Barneombudet avgjør selv om en henvendelse gir tilstrekkelig grunn til behandling.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "(adgang til institusjoner og opplysningsplikt m.v.)",
+      "path": [],
+      "text": "Ombudet skal ha fri adgang til alle offentlige og private institusjoner for barn.\nOffentlige myndigheter og offentlige og private institusjoner for barn skal uten hinder av taushetsplikt gi Ombudet de opplysninger som trengs til å utføre Ombudets oppgaver etter denne lov. Opplysninger som trengs for å utføre Ombudets oppgave etter § 3 annet ledd bokstav b, kan uten hinder av taushetsplikt, også kreves fra andre. Når det kan kreves opplysninger etter dette ledd, kan også protokoller og andre dokumenter kreves fremlagt.\nReglene i tvisteloven §§ 22-1, 22-2, 22-4 til 22-11 får tilsvarende anvendelse for Ombudets rett til å kreve opplysninger. Tvist om anvendelsen av disse reglene kan bringes inn for tingretten, som avgjør spørsmålet ved kjennelse.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "(uttalelser fra Ombudet)",
+      "path": [],
+      "text": "Ombudet har rett til å uttale seg om forhold som går inn under Ombudets arbeidsområde etter denne lov og etter Instruks for Barneombudet. Ombudet bestemmer selv hvem uttalelsene skal rettes til.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5a",
+      "heading": "(politiattest)",
+      "path": [],
+      "text": "Den som skal ansettes i Barneombudet, skal fremlegge politiattest som nevnt i politiregisterloven § 39. Dette gjelder kun personer som skal utføre oppgaver som forutsetter et tillits- eller ansvarsforhold overfor mindreårige.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "(instruks for Ombudet)",
+      "path": [],
+      "text": "Kongen fastsetter en alminnelig instruks for Ombudets organisasjon og saksbehandling. For øvrig utfører Ombudet sine oppgaver selvstendig og uavhengig.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "(ikrafttreden m.m.)",
+      "path": [],
+      "text": "Denne lov gjelder også for Svalbard.\nLoven trer i kraft fra den tid Kongen bestemmer.1",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

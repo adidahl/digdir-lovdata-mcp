@@ -1,0 +1,24 @@
+{
+  "id": "FOR-1962-11-09-1",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om meniges æresord til fienden.",
+  "short_title": "Forskrift om meniges æresord til fienden",
+  "department": "Forsvarsdepartementet",
+  "date_in_force": "1962-11-09",
+  "lovdata_refid": "forskrift/1962-11-09-1",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1962-11-09-1",
+  "raw_xml_sha256": "bd1e27082d37af771e39b40280b400d175676af4899b0e7f97b6f3163cff2bac",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Forskrifter om meniges æresord til fienden.",
+      "path": [],
+      "text": "Menige, korporaler og tilsvarende skal ikke avgi æresord til fienden hvis de blir tatt til fange.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

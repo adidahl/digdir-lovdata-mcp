@@ -1,0 +1,116 @@
+{
+  "id": "FOR-2012-06-22-603",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om medlemskap i trygden under fengselsopphold mv.",
+  "short_title": "Forskrift om medlemskap i trygden, fengselsopphold mv.",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2012-07-01",
+  "lovdata_refid": "forskrift/2012-06-22-603",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-06-22-603",
+  "raw_xml_sha256": "311a712049d32fbc1fd4fd7d2cfa8810e7b1c02c8fe172043960fb2619fba276",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Hva forskriften gjelder",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften her gir regler til utfylling og gjennomføring av bestemmelsene i folketrygdloven § 2-17 første til fjerde ledd om medlemskap i trygden under fengselsopphold mv.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Med «frihetsberøvelse» menes fengselsopphold mv. som angitt i loven § 2-17 første ledd første punktum.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Medlemskap under frihetsberøvelse",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Frihetsberøvelse gir ikke grunnlag for medlemskap i folketrygden, jf. loven § 2-17 første ledd første punktum. Personer som var medlemmer da frihetsberøvelsen tok til, opprettholder likevel sitt medlemskap, jf. loven § 2-17 første ledd andre punktum. Slikt medlemskap har samme omfang som medlemskapet før frihetsberøvelsen tok til.\nVed opphold i Norge etter at frihetsberøvelsen er opphørt, vurderes medlemskapet i trygden etter reglene i folketrygdloven kapittel 2, jf. likevel bestemmelsene i § 5 til § 7.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Generelt",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Personer som er medlemmer i folketrygden kan gis ytelser under frihetsberøvelse i den utstrekning dette følger av de enkelte kapitlene i loven og i den utstrekning medlemskapet omfatter disse ytelsene. For pensjon gjelder i tillegg de begrensningene som framgår av § 5 til § 7.\nBestemmelsene i loven § 2-17 andre ledd og § 5 i forskriften her gjelder ikke for tilfelle der vilkårene for pensjon var oppfylt før de nevnte bestemmelsene trådte i kraft.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Sak om utvisning fra riket",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Dersom stønadstilfellet inntrer etter at det er tatt opp sak om utvisning fra riket, skal det ved tilståelse og beregning av pensjon ses det bort fra tidsrom under frihetsberøvelse.\nNår det er tatt opp utvisningssak, skal løpende pensjon som er tilstått eller beregnet under hensyn til tidsrom under frihetsberøvelse, omregnes eller eventuelt stanses.\nDersom vedkommende ikke blir utvist, skal sak behandlet etter første eller andre ledd revurderes og pensjon tilstås eller omregnes med etterbetaling.\nVed anvendelsen av bestemmelsene i første til tredje ledd skal opphold i Norge mellom frihetsberøvelsens opphør og det endelige vedtaket om utvisning fra riket regnes som tidsrom under frihetsberøvelse.\nSom tidsrom under frihetsberøvelse etter paragrafen her regnes bare tidsrom etter at loven § 2-17 og forskriften her trådte i kraft.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Krav om trygdetilknytning før stønadstilfellet",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Ved anvendelsen av § 4 og § 5 anses vedkommende å fylle kravene i loven om perioder med medlemskap i folketrygden før stønadstilfellet inntrer, forutsatt at kravene var oppfylt umiddelbart før frihetsberøvelsen tok til, eventuelt etter sammenlegging med trygdeperioder i andre land etter EØS-avtalen eller en bilateral trygdeavtale.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Vedtak om utvisning",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Ved endelig vedtak om utvisning fra riket faller medlemskapet i folketrygden bort, se folketrygdloven § 2-1 og § 2-2. Tilståelse, beregning og utbetaling av pensjon skjer da etter reglene for personer uten trygdemessig tilknytning til Norge, likevel slik at § 6 gjelder tilsvarende når stønadstilfellet inntrer etter utvisningsvedtaket, men før vedkommende har forlatt riket.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Etterlatte",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Bestemmelsene i § 5 til § 7 gjelder ikke for tilfelle som nevnt i loven § 2-17 tredje ledd.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Helsetjenester",
+      "path": [
+        "Kapittel 2. Ytelser under frihetsberøvelse"
+      ],
+      "text": "Retten til helsehjelp for personer som ikke har fast bopel i riket under frihetsberøvelsen følger av forskrift 16. desember 2011 nr. 1255 om rett til helse- og omsorgstjenester til personer uten fast opphold i riket § 3 og § 5 bokstav e.\nUtgifter til kommunale helse- og omsorgstjenester til innsatte uten fast bopel dekkes etter de ordinære reglene, likevel slik at utgifter til akutt behandling i kommunal legevakt dekkes som om den innsatte var medlem i folketrygden. Utgifter til øvrige helsetjenester dekkes bare i den utstrekning disse ikke dekkes av andre eller av vedkommendes egne midler. Dagpenger under frihetsberøvelsen til dekning av personlige utgifter regnes ikke som egne midler.\nBestemmelsene i andre ledd andre og tredje punktum gis virkning bare for behandling gjennomført etter at loven § 2-17 trådte i kraft.\nBestemmelsene i andre ledd andre og tredje punktum og tredje ledd gjelder tilsvarende når medlemskapet i folketrygden ikke omfatter dekning av utgifter til helsetjenester.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel III. Ikrafttredelse"
+      ],
+      "text": "Forskriften her trer i kraft 1. juli 2012.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    }
+  ]
+}

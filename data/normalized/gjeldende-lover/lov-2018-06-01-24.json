@@ -1,0 +1,709 @@
+{
+  "id": "LOV-2018-06-01-24",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om nasjonal sikkerhet (sikkerhetsloven)",
+  "short_title": "Sikkerhetsloven – sikkl",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet",
+  "date_in_force": "2019-01-01",
+  "last_change_in_force": "2024-06-14",
+  "last_changed_by": "lov/2023-06-20-77 fra 2024-06-14, lov/2023-12-20-110 fra 2024-05-24",
+  "lovdata_refid": "lov/2018-06-01-24",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2018-06-01-24",
+  "raw_xml_sha256": "171d16e5f6786d424400895173d4a475306be20250cfa1d6cd266ad5f66ca1de",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Loven skal bidra tilå trygge Norges suverenitet, territorielle integritet og demokratiske styreform og andre nasjonale sikkerhetsinteresserå forebygge, avdekke og motvirke sikkerhetstruende virksomhetat sikkerhetstiltak gjennomføres i samsvar med grunnleggende rettsprinsipper og verdier i et demokratisk samfunn.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Hvem loven gjelder for",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Loven gjelder for statlige, fylkeskommunale og kommunale organer.\nLoven gjelder for leverandører av varer eller tjenester i forbindelse med sikkerhetsgraderte anskaffelser etter kapittel 9.\nFor virksomheter på Svalbard, Jan Mayen og i bilandene gjelder loven i det omfanget og med de stedlige tilpasningene Kongen bestemmer.\nKongen i statsråd kan gi forskrift om lovens virkeområde og helt eller delvis unnta bestemte virksomheter eller visse typer informasjon, informasjonssystemer, objekter og infrastruktur.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Vedtak om at loven skal gjelde for andre virksomheter",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Et departement skal innenfor sitt ansvarsområde fatte vedtak om at loven helt eller delvis skal gjelde for virksomheter sombehandler sikkerhetsgradert informasjonråder over informasjon, informasjonssystemer, objekter eller infrastruktur som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjondriver aktivitet som har avgjørende betydning for grunnleggende nasjonale funksjoner, eller som har avgjørende betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon.\nEt departement kan innenfor sitt ansvarsområde fatte vedtak om at kapittel 10 skal gjelde for virksomheter som har vesentlig betydning for grunnleggende nasjonale funksjoner, eller virksomheter som har vesentlig betydning for nasjonale sikkerhetsinteresser, uten å kunne knyttes direkte til en grunnleggende nasjonal funksjon.\nVirksomhetene skal forhåndsvarsles om vedtak etter første og andre ledd.\nSikkerhetsmyndigheten kan på eget initiativ fremme forslag overfor et departement om å fatte vedtak etter første og andre ledd. Dersom departementet ikke fatter vedtak i samsvar med sikkerhetsmyndighetens anbefaling, kan sikkerhetsmyndigheten bringe saken inn for endelig avgjørelse til det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i sivil sektor, eller det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i forsvarssektoren.\nSikkerhetsmyndigheten skal fatte vedtak etter første og andre ledd overfor virksomheter som ikke omfattes av noe departements ansvarsområde. Departementet er klageinstans.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Lovens anvendelse for Stortinget, Stortingets organer, regjeringen og domstolene",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Loven gjelder for Stortinget og Stortingets organer så langt Stortinget bestemmer det.\nBestemmelsene som er gitt i og i medhold av kapittel 8, gjelder ikke for stortingsrepresentanter, regjeringens medlemmer og dommere i Høyesterett.\nLoven gjelder for domstolene med de særreglene som følger av bestemmelsene om sikkerhetsklarering og autorisasjon i og i medhold av domstolloven og straffeprosessloven. Kongen kan fastsette ytterligere særregler.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "I denne loven menes mednasjonale sikkerhetsinteresser: landets suverenitet, territorielle integritet og demokratiske styreform og overordnede sikkerhetspolitiske interesser knyttet tilde øverste statsorganers virksomhet, sikkerhet og handlefrihetforsvar, sikkerhet og beredskapforholdet til andre stater og internasjonale organisasjonerøkonomisk stabilitet og handlefrihetsamfunnets grunnleggende funksjonalitet og befolkningens grunnleggende sikkerhetgrunnleggende nasjonale funksjoner: tjenester, produksjon og andre former for virksomhet som er av en slik betydning at et helt eller delvis bortfall av funksjonen vil få konsekvenser for statens evne til å ivareta nasjonale sikkerhetsinteresserforebyggende sikkerhetsarbeid: planlegging, tilrettelegging, gjennomføring og kontroll av forebyggende tiltak mot sikkerhetstruende virksomhet og følger av slik virksomhetsikkerhetstruende virksomhet: tilsiktede handlinger som direkte eller indirekte kan skade nasjonale sikkerhetsinteressernærstående: personer som er i nær familie eller som har annen nær tilknytning som kan ha betydning for om en person er sikkerhetsmessig skikket.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Departementenes ansvar og myndighet for forebyggende sikkerhetsarbeid",
+      "path": [
+        "Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Departementene er ansvarlige for forebyggende sikkerhetsarbeid innenfor sine ansvarsområder og skalidentifisere og holde oversikt over grunnleggende nasjonale funksjoneridentifisere og holde oversikt over virksomheter som har vesentlig betydning for grunnleggende nasjonale funksjoner eller for nasjonale sikkerhetsinteresserfatte vedtak etter § 1-3 første og andre ledd.melde inn oversikter til sikkerhetsmyndigheten etter bokstav a og b og vedtak etter bokstav c.\nKongen i statsråd kan gi forskrift om departementenes ansvar og myndighet for forebyggende sikkerhetsarbeid.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Sikkerhetsmyndighetens ansvar for forebyggende sikkerhetsarbeid",
+      "path": [
+        "Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Sikkerhetsmyndigheten har det sektorovergripende ansvaret for at forebyggende sikkerhetsarbeid i virksomhetene utføres i samsvar med loven.\nSikkerhetsmyndigheten har det overordnede ansvaret for at sikkerhetstilstanden i alle sektorer kontrolleres, og skal se til at virksomhetene oppfyller sine plikter etter loven. Sikkerhetsmyndigheten skal blant annetse til at det føres tilsyn med at virksomheter oppfyller krav til forebyggende sikkerhetsarbeidutarbeide og vedlikeholde grunnleggende kriterier for tilsyninnhente og vurdere informasjon som har betydning for forebyggende sikkerhetsarbeidgi informasjon, råd og veiledning om forebyggende sikkerhetsarbeid og krav til tiltakholde oversikt over de funksjonene og virksomhetene departementene har identifisert etter § 2-1holde oversikt over virksomheter som det er fattet vedtak om etter § 1-3legge til rette for informasjonsdeling etter § 2-3bidra til å utvikle sikkerhetstiltak og fastsette krav til forebyggende sikkerhetsarbeid.holde oversikt over eiendommer av sikkerhetsmessig betydning som det er sendt varsel om etter § 7-6 andre ledd.\nSikkerhetsmyndigheten er nasjonal fagmyndighet overfor andre land og internasjonale organisasjoner.\nSå langt det er nødvendig for å gjennomføre oppgavene i eller i medhold av loven, skal sikkerhetsmyndigheten gis uhindret adgang til skjermingsverdig informasjon, informasjonssystem, objekt eller infrastruktur.\nKongen kan gi forskrift om sikkerhetsmyndighetens ansvar for forebyggende sikkerhetsarbeid.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Utveksling av trusselvurderinger og annen sikkerhetsinformasjon",
+      "path": [
+        "Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Sikkerhetsmyndigheten skal legge til rette for at virksomheter som loven gjelder for, får tilgang til informasjon om trusselvurderinger og andre opplysninger som er av betydning for virksomhetenes forebyggende sikkerhetsarbeid.\nSikkerhetsmyndigheten skal i samråd med sektormyndigheter og andre relevante myndigheter sikre at det etableres nødvendige fora for informasjons- og erfaringsutveksling.\nKongen kan gi forskrift om utveksling av trusselvurderinger og annen sikkerhetsinformasjon.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Responsfunksjon og varslingssystem for digital infrastruktur",
+      "path": [
+        "Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Kongen utpeker en myndighet som skal drive en nasjonal responsfunksjon for alvorlige digitale angrep og et nasjonalt varslingssystem for digital infrastruktur.\nNår det er nødvendig for å utføre oppgaver etter første ledd, kan denne myndigheten behandle personopplysninger i form avmetadata om IKT-trafikk til og fra virksomheter som er knyttet til det nasjonale varslingssystemet for digital infrastrukturinformasjon som er nødvendig for å analysere utløste alarmer i varslingssystemetIP-adresser mottatt fra nasjonale og internasjonale samarbeidspartnerelogger og infisert maskinvare, når det er nødvendig for å bistå en virksomhet i håndteringen av alvorlige digitale angrep og virksomheten samtykker til det.\nNår det er strengt nødvendig for å utføre oppgaver etter første ledd, kan også andre personopplysninger enn det som er nevnt i andre ledd, behandles.\nBehandlingen av personopplysninger og inngrepet i personvernet skal ikke være mer omfattende enn det som er nødvendig for å oppnå formålet.\nKongen kan gi forskrift om nasjonal responsfunksjon og nasjonalt varslingssystem for digital infrastruktur.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Vedtak ved risiko for skadevirkninger for nasjonale sikkerhetsinteresser",
+      "path": [
+        "Kapittel 2. Ansvar og myndighet for forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Kongen i statsråd kan fatte nødvendige vedtak for å hindre sikkerhetstruende virksomhet eller annen planlagt eller pågående aktivitet som kan innebære en ikke ubetydelig risiko for at nasjonale sikkerhetsinteresser blir truet. Et slikt vedtak kan fattes uten hensyn til begrensningene i forvaltningsloven § 35 og uavhengig av om aktiviteten er tillatt etter annen lov eller annet vedtak.\nFør det fattes vedtak, bør det innhentes rådgivende uttalelser fra relevante organer med kompetanse innenfor det aktuelle fagområdet.\nVedtak etter første ledd er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.\nKongen i statsråd kan gi forskrift om hvilke vedtak som kan fattes etter første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilsyn med virksomheter",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Sikkerhetsmyndigheten fører tilsyn med virksomheter som er omfattet av loven.\nDepartementet kan bestemme at myndigheter med sektoransvar som fører tilsyn med beskyttelse av informasjon, informasjonssystemer, objekter eller infrastruktur, skal føre tilsyn med virksomheter som er omfattet av loven. Sikkerhetsmyndigheten skal likevel gjennomføre tilsyn når det følger av internasjonale forpliktelser eller når det er tvingende nødvendig.\nSikkerhetsmyndigheten skal føre tilsyn med departementene og myndigheter med tilsynsansvar etter andre ledd.\nKongen kan gi forskrift om tildeling av tilsynsansvar og om fordeling av ansvaret mellom sikkerhetsmyndigheten og aktuelle myndigheter med sektoransvar.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Samarbeid mellom sikkerhetsmyndigheten og andre myndigheter med tilsynsansvar",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Sikkerhetsmyndigheten og myndigheter med tilsynsansvar etter § 3-1 andre ledd skal inngå en avtale om samarbeid. Gjennomføring av tilsyn skal så langt det er mulig samordnes med andre tilsynsmyndigheter.\nSikkerhetsmyndigheten skal utarbeide og utvikle grunnleggende kriterier for tilsyn etter loven, og legge til rette for felles opplæring av tilsynspersonell.\nSikkerhetsmyndigheten kan om nødvendig medvirke til forberedelse og gjennomføring av tilsyn som utføres av myndigheter med tilsynsansvar. Myndigheter med tilsynsansvar kan be sikkerhetsmyndigheten om slik bistand.\nMyndigheter med tilsynsansvar skal orientere sikkerhetsmyndigheten om planlagte tilsyn, redegjøre for gjennomførte tilsyn og informere om eventuelle avvik og pålegg.\nKongen kan gi forskrift om samarbeid og informasjonsutveksling mellom sikkerhetsmyndigheten og myndigheter med tilsynsansvar.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Generelle prinsipper for tilsyn",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Tilsyn etter § 3-1 skal ikke forstyrre tilsynsobjektenes daglige drift mer enn nødvendig.\nOpplysninger som tilsynsmyndigheten innhenter, kan bare brukes i forbindelse med tilsynet og i det forebyggende sikkerhetsarbeidet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Adgangsrett og varslingsplikt ved stedlige tilsyn",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Tilsynsmyndigheten kan kreve tilgang til virksomhetens informasjon, informasjonssystemer, objekter og infrastruktur. Virksomheten skal stille med relevant personell under tilsynet så langt det er nødvendig.\nStedlige tilsyn skal varsles skriftlig. Tilsyn kan likevel gjennomføres uten varsel dersom sikkerhetshensyn gjør det nødvendig.\nKongen kan gi forskrift om stedlige tilsyn.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Tilsynsmyndighetens behandling av personopplysninger",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Tilsynsmyndigheten kan behandle personopplysninger dersom det er nødvendig for å utføre sine oppgaver.\nBehandlingen av personopplysninger må ikke utgjøre et uforholdsmessig inngrep i personvernet.\nPersonopplysninger skal om mulig behandles ved hjelp av virksomhetens informasjonssystem, uten at de blir kopiert eller overført til tilsynsmyndigheten. Tilsynsmyndigheten kan likevel kreve kopi av personopplysninger når dette er nødvendig for å dokumentere om bestemmelser i loven er brutt.\nKongen kan gi forskrift om tilsynsmyndighetens behandling av personopplysninger.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 3. Tilsyn"
+      ],
+      "text": "Tilsynsmyndigheten kan gi virksomheter pålegg om gjennomføring av tiltak som er nødvendige for å ivareta lovens formål. Pålegg om konkrete tiltak kan bare gis dersom kostnadene som påføres virksomheten, framstår som rimelige sett i forhold til det som kan oppnås ved tiltaket.\nDersom myndigheter med tilsynsansvar ikke fører tilsyn i samsvar med krav fastsatt i eller i medhold av loven, kan sikkerhetsmyndigheten gi pålegg om å utføre slikt tilsyn.\nPålegg etter første og andre ledd kan påklages. Reglene i forvaltningsloven kapittel VI gjelder for selvstendige rettssubjekters klageadgang.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Sikkerhetsstyring",
+      "path": [
+        "Kapittel 4. Generelle krav til forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Virksomhetens leder har ansvaret for det forebyggende sikkerhetsarbeidet. Forebyggende sikkerhetsarbeid skal være en del av virksomhetens styringssystem. Sikkerhetstilstanden i virksomheten skal regelmessig kontrolleres.\nVirksomheten skal sørge for at ansatte, leverandører og oppdragstakere har tilstrekkelig risiko- og sikkerhetsforståelse. For leverandører til sikkerhetsgraderte anskaffelser gjelder kapittel 9.\nKongen kan gi forskrift om sikkerhetsstyring.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Vurdering av risiko",
+      "path": [
+        "Kapittel 4. Generelle krav til forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Virksomheten skal regelmessig gjennomføre vurdering av risiko. Vurderingen skal danne grunnlag for iverksetting av forebyggende sikkerhetstiltak.\nVirksomheten skal som del av vurderingen kartlegge hvilke virksomheter den er avhengig av for å fungere som den skal.\nVurderingen skal gjennomgås jevnlig og om nødvendig revideres.\nTilsynsmyndigheten skal etter forespørsel gi råd og veiledning i forbindelse med vurderingen.\nKongen kan gi forskrift om hvordan en vurdering av risiko skal gjennomføres.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Plikt til å gjennomføre sikkerhetstiltak og øvelser",
+      "path": [
+        "Kapittel 4. Generelle krav til forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Virksomheten skal gjennomføre de forebyggende sikkerhetstiltakene som må til for å gi et forsvarlig sikkerhetsnivå og redusere risikoen knyttet til sikkerhetstruende virksomhet. Slike tiltak kan gjennomføres i sammenheng med andre forebyggende sikkerhetstiltak i virksomheten, så lenge kravene i denne loven oppfylles.\nKostnadene ved et sikkerhetstiltak skal stå i et rimelig forhold til det som kan oppnås ved tiltaket.\nVirksomheten skal regelmessig gjennomføre øvelser for å vurdere effekten av iverksatte sikkerhetstiltak.\nKongen kan gi forskrift om plikter for virksomheter som omfattes av loven, og om øvelser.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Krav til dokumentasjon",
+      "path": [
+        "Kapittel 4. Generelle krav til forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Virksomheten skal dokumentere vurderingen av risiko og de gjennomførte og planlagte sikkerhetstiltakene.\nKongen kan gi forskrift om krav til dokumentasjon.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Varslingsplikt",
+      "path": [
+        "Kapittel 4. Generelle krav til forebyggende sikkerhetsarbeid"
+      ],
+      "text": "Virksomheten skal straks varsle sikkerhetsmyndigheten og andre myndigheter som skal utføre tilsyn i medhold av § 3-1 andre ledd, dersomden har blitt rammet av sikkerhetstruende virksomhetdet er begrunnet mistanke om at sikkerhetstruende virksomhet har rammet eller vil kunne ramme virksomheten eller andre virksomheterdet har skjedd alvorlige brudd på krav til sikkerhet etter kapittel 5, 6 eller 7.\nVirksomheten skal uten hinder av taushetsplikt varsle tilsynsmyndigheten dersom den får kunnskap om en planlagt eller pågående aktivitet som kan medføre en ikke ubetydelig risiko for at nasjonale sikkerhetsinteresser blir truet. Tilsynsmyndigheten skal uten ugrunnet opphold varsle sikkerhetsmyndigheten og videresende varselet til ansvarlig departement for vurdering av vedtak etter § 2-5.\nKongen kan gi forskrift om varslingsplikten etter andre ledd.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Skjermingsverdig informasjon",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Informasjon er skjermingsverdig dersom det kan skade nasjonale sikkerhetsinteresser at informasjonen blir kjent for uvedkommende, går tapt, blir endret eller blir utilgjengelig.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Beskyttelse av skjermingsverdig informasjon",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdig informasjon, slik at informasjonenikke blir kjent for uvedkommendeikke går tapt eller blir endreter tilgjengelig ved tjenstlig behov.\nKongen kan gi forskrift om identifisering og beskyttelse av skjermingsverdig informasjon. I særlige tilfeller kan det i en slik forskrift gjøres unntak fra sikkerhetskrav som er fastsatt i eller i medhold av denne loven.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "En virksomhet som tilvirker informasjon, skal sikkerhetsgradere og merke informasjonen dersom det kan skade nasjonale sikkerhetsinteresser om den blir kjent for uvedkommende. Følgende sikkerhetsgrader skal benyttes:STRENGT HEMMELIG dersom det kan få helt avgjørende skadefølgerHEMMELIG dersom det kan få alvorlige skadefølgerKONFIDENSIELT dersom det kan få skadefølgerBEGRENSET dersom det i noen grad kan få skadefølger.\nSikkerhetsgradering skal ikke brukes i større utstrekning eller for lengre tid enn nødvendig. Dersom ikke annet er bestemt, bortfaller sikkerhetsgraderingen etter 30 år.\nKongen kan gi forskrift om sikkerhetsgradering og beskyttelse av informasjon som mottas eller gis innenfor rammen av en gjensidig overenskomst med en fremmed stat eller en internasjonal organisasjon.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Tilgang til og taushetsplikt med hensyn til sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Sikkerhetsgradert informasjon skal bare overlates til personer som har tjenstlig behov og er autorisert for tilgang til slik informasjon.\nAlle som får tilgang til sikkerhetsgradert informasjon som ledd i arbeidet eller tjenesten for en virksomhet som omfattes av loven, har taushetsplikt om innholdet. Taushetsplikten gjelder også etter at arbeidet eller tjenesten er avsluttet.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Tekniske sikkerhetsundersøkelser",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Sikkerhetsmyndigheten kan undersøke lokaler, bygninger og andre objekter som en virksomhet alene eller sammen med andre råder over, for å fastslå om uvedkommende kan skaffe seg tilgang til sikkerhetsgradert informasjon ved avlytting, innsyn eller avlesning av signaler.\nInformasjon som kontrollen gir tilgang til, kan bare benyttes til det som formålet med kontrollen krever. Når det ikke lenger er behov for informasjonen, skal den slettes. Kunnskap og erfaringer som sikkerhetsmyndigheten tilegner seg gjennom undersøkelsen, kan brukes til videreutvikling av sikkerhetsmyndighetens generelle sikkerhetsarbeid.\nSikkerhetsmyndigheten skal gi virksomheten en rapport om resultatet av kontrollen. Rapporten skal bare inneholde informasjon som kan bidra til å bedre virksomhetens sikkerhet.\nKongen kan gi forskrift om tekniske sikkerhetsundersøkelser, og om at slike undersøkelser kan utføres av andre enn sikkerhetsmyndigheten.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Kryptosikkerhet",
+      "path": [
+        "Kapittel 5. Informasjonssikkerhet"
+      ],
+      "text": "Kryptosystemer som skal brukes for å beskytte sikkerhetsgradert informasjon, må være godkjent av sikkerhetsmyndigheten.\nSikkerhetsmyndigheten er nasjonal forvalter av kryptomateriell og leverandør av kryptosikkerhetstjenester til virksomheter. Sikkerhetsmyndigheten kan godkjenne andre leverandører av kryptosikkerhetstjenester.\nSikkerhetsmyndigheten skal godkjenne kryptoalgoritmer som brukes i utstyr som tenkes eksportert.\nKongen kan gi forskrift om kryptosikkerhet.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Et informasjonssystem er skjermingsverdig dersom det behandler skjermingsverdig informasjon, eller dersom det i seg selv har avgjørende betydning for grunnleggende nasjonale funksjoner eller for nasjonale sikkerhetsinteresser.\nKongen kan gi forskrift om identifisering av skjermingsverdige informasjonssystemer.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Beskyttelse av skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Virksomheten skal sørge for et forsvarlig sikkerhetsnivå for skjermingsverdige informasjonssystemer, slik atinformasjonssystemene fungerer slik de skaluvedkommende ikke får tilgang til informasjonen som behandles i systemeneinformasjonen som behandles i systemene, ikke endres eller går taptinformasjonen som behandles i systemene, er tilgjengelig ved tjenstlig behov for tilgang.\nKongen kan gi forskrift om identifisering og beskyttelse av skjermingsverdige informasjonssystemer. I særlige tilfeller kan det i en slik forskrift gjøres unntak fra sikkerhetskrav som er fastsatt i eller i medhold av denne loven.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Godkjenning av skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Skjermingsverdige informasjonssystemer skal godkjennes av en godkjenningsmyndighet. Informasjonssystemer som skal behandle sikkerhetsgradert informasjon, skal godkjennes før de tas i bruk.\nKongen kan gi forskrift om godkjenning av skjermingsverdige informasjonssystemer, utpeking av godkjenningsmyndigheter og krav til leverandører.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Overvåking av skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Virksomheten skal kontinuerlig overvåke sine skjermingsverdige informasjonssystemer for å forebygge, avdekke og motvirke hendelser som kan skade nasjonale sikkerhetsinteresser. Hendelser som er relevante for sikkerhetsarbeidet, skal registreres.\nI den grad formålet med overvåkingen krever det, skal sending av informasjon til, fra og innenfor skjermingsverdige informasjonssystemer registreres, lagres og analyseres.\nInformasjonssystemer som behandler personopplysninger, skal bare overvåkes med de metodene og i det omfanget som formålet med overvåkingen krever.\nInformasjon etter første og andre ledd kan lagres i opptil fem år. Lagrede personopplysninger kan bare benyttes i den grad formålet med overvåkingen krever det.\nFlere virksomheter som er tilknyttet samme informasjonssystem, kan avtale at en av virksomhetene skal ta seg av overvåkingen etter første og andre ledd for alle virksomhetene. Den virksomheten som gjennomfører overvåkingen, skal sikre at kravene til informasjonssikkerhet i § 5-2 følges.\nVirksomheten skal se til at autoriserte brukere av informasjonssystemer som overvåkes, får vite hva som er formålet med behandlingen av personopplysningene og hvilke overvåkingstiltak som er iverksatt. De skal også få vite om personopplysningene blir utlevert og i så fall til hvem.\nKongen kan gi forskrift om overvåking av skjermingsverdige informasjonssystemer, blant annet omhva slags informasjon som kan eller skal registreres, lagres og analyseres i forbindelse med overvåkingenhvem som skal ha tilgang til informasjon som er registrert og lagret i forbindelse med overvåkingenhvordan tilgang til registrert eller lagret informasjon skal gisat informasjonen etter første og andre ledd skal ha en annen lagringstid enn fem år.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Inntrengingstesting av skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Virksomheten kan be sikkerhetsmyndigheten om å forsøke å trenge inn i virksomhetens skjermingsverdige informasjonssystemer. Formålet skal være å kontrollere om sikkerhetstiltakene er tilstrekkelige. Virksomhetens ansatte skal orienteres om at slike kontroller kan forekomme.\nDersom kontrollen innebærer behandling av personopplysninger, skal den ikke være mer omfattende enn det som formålet krever.\nInformasjon som kontrollen gir tilgang til, kan bare benyttes til det som formålet med kontrollen krever. Når det ikke lenger er behov for informasjonen, skal den slettes. Kunnskap og erfaringer som sikkerhetsmyndigheten tilegner seg gjennom inntrengingstestingen, kan brukes til videreutvikling av sikkerhetsmyndighetens generelle sikkerhetsarbeid.\nSikkerhetsmyndigheten skal gi virksomheten en rapport om resultatet av kontrollen. Rapporten skal bare inneholde informasjon som kan bidra til å bedre virksomhetens sikkerhet.\nKongen kan gi forskrift om inntrenging i skjermingsverdige informasjonssystemer, og om at slik kontroll kan utføres av andre enn sikkerhetsmyndigheten.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Kommunikasjons- og innholdskontroll av informasjonssystemer",
+      "path": [
+        "Kapittel 6. Informasjonssystemsikkerhet"
+      ],
+      "text": "Virksomheten kan be sikkerhetsmyndigheten kontrollere om virksomhetens informasjonssystemer behandler sikkerhetsgradert informasjon utover det systemets sikkerhetsgodkjenning tillater. Virksomhetens ansatte skal orienteres om at slike kontroller kan forekomme.\nSikkerhetsmyndigheten kan gjennomføre kontrollen ved å avlytte og avlese informasjon som behandles i eller sendes mellom informasjonssystemer.\nKontrollen skal ikke omfatte privat kommunikasjon eller kommunikasjon med virksomheter som ikke er omfattet av loven. Fanger kontrollen likevel opp slik kommunikasjon, skal kontrollen straks opphøre, og informasjon som kontrollen har gitt tilgang til, skal slettes.\nAlle som får tilgang til informasjon som nevnt i tredje ledd i forbindelse med arbeid eller tjeneste for sikkerhetsmyndigheten, har taushetsplikt om innholdet.\nSikkerhetsmyndigheten skal informere virksomhetens ledelse om metodene som skal benyttes i kontrollen og sikkerhetsmyndighetens vurdering av risikoen for at kontrollen kan fange opp kommunikasjon som nevnt i tredje ledd. Dersom virksomhetens ledelse finner at hensynet til informasjonssystemsikkerheten ikke kan begrunne metodene og risikoen, skal kontrollen ikke utføres.\nInformasjon som kontrollen gir tilgang til, kan benyttes bare til det som formålet med kontrollen krever. Når det ikke lenger er behov for informasjonen, skal den slettes. Kunnskap og erfaringer som sikkerhetsmyndigheten tilegner seg gjennom kontrollen, kan brukes til videreutvikling av sikkerhetsmyndighetens generelle sikkerhetsarbeid.\nSikkerhetsmyndigheten skal gi virksomheten en rapport om resultatet av kontrollen. Rapporten skal bare inneholde informasjon som kan bidra til å bedre virksomhetens sikkerhet.\nKongen kan gi forskrift om kommunikasjons- og innholdskontroll av informasjonssystemer, og om at slik kontroll kan utføres av andre enn sikkerhetsmyndigheten.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Skjermingsverdige objekter og infrastruktur",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Objekter og infrastruktur er skjermingsverdige dersom det enten kan skade grunnleggende nasjonale funksjoner om de får redusert funksjonalitet eller blir utsatt for skadeverk, ødeleggelse eller rettsstridig overtakelse, eller kan skade nasjonale sikkerhetsinteresser på annen måte.\nEt departement skal innenfor sitt ansvarsområde utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur. Alle utpekte og klassifiserte objekter og infrastruktur skal meldes inn til sikkerhetsmyndigheten med angivelse av klassifiseringsgrad.\nSikkerhetsmyndigheten skal utpeke, klassifisere og holde oversikt over skjermingsverdige objekter og infrastruktur som ikke omfattes av noe departements ansvarsområde.\nVirksomheter som råder over objekter eller infrastruktur som utpekes etter andre eller tredje ledd, skal varsles om utpekingen.\nVedtak om utpeking og klassifisering som berører selvstendige rettssubjekter, kan påklages. Departementet er klageinstans for vedtak fattet av sikkerhetsmyndigheten.\nSikkerhetsmyndigheten kan på eget initiativ fremme forslag overfor et departement om å fatte vedtak etter andre ledd. Dersom departementet ikke fatter vedtak i samsvar med sikkerhetsmyndighetens forslag, kan sikkerhetsmyndigheten bringe saken inn for endelig avgjørelse til det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i sivil sektor eller det departementet som har overordnet ansvar for forebyggende sikkerhetsarbeid i forsvarssektoren.\nKongen kan gi forskrift om utpeking av objekter og infrastruktur og om melding til sikkerhetsmyndigheten.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Klassifisering av skjermingsverdige objekter og infrastruktur",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Skjermingsverdige objekter og infrastruktur skal klassifiseres når det foreligger forhold som nevnt i § 7-1. Følgende klassifiseringsgrader skal benyttes:MEGET KRITISK dersom det kan få helt avgjørende skadefølgerKRITISK dersom det kan få alvorlige skadefølgerVIKTIG dersom det kan få skadefølger.\nKlassifiseringen skal bygge på en skadevurdering, og det skal spesifiseres hvilke grunnleggende nasjonale funksjoner objektet eller infrastrukturen understøtter, eller hvilke nasjonale sikkerhetsinteresser som kan bli skadet. Det skal også fremgå hva konsekvensene av redusert funksjonalitet, skadeverk, ødeleggelse eller rettsstridig overtakelse vil være. Begrunnelsen for klassifiseringen skal inngå i departementets og sikkerhetsmyndighetens oversikt over skjermingsverdige objekter og infrastruktur.\nDersom en del av et objekt eller en infrastruktur har en høyere klassifisering enn resten av objektet eller infrastrukturen, skal denne delen defineres som selvstendig objekt eller infrastruktur.\nKongen kan gi forskrift om klassifisering av skjermingsverdige objekter og infrastruktur.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Beskyttelse av objekter og infrastruktur",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Virksomheten skal iverksette nødvendige sikkerhetstiltak for å opprettholde et forsvarlig sikkerhetsnivå. Sikkerhetstiltakene kan værefysiske, elektroniske, menneskelige eller organisatoriske barrierer,systemer som skal oppdage og varsle om aktivitet eller hendelser,systemer og rutiner for avklaring vedrørende aktiviteter og hendelser og bakgrunnen for dem,oppfølging av uønskede aktiviteter og uønskede hendelser elleren kombinasjon av tiltakene nevnt i bokstav a til d.\nVirksomheten skal foreta en vurdering av risiko for å avgjøre hvilke tiltak som er nødvendige for å beskytte objektet eller infrastrukturen.\nBeskyttelse av objekter og infrastruktur kan også omfatte krav til adgangsklarering etter § 8-3.\nKongen kan gi forskrift om beskyttelse av objekter og infrastruktur innenfor hvert klassifiseringsnivå og om bruk av sikringsstyrker.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Testing av sikkerhetstiltak",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Virksomheten kan be sikkerhetsmyndigheten om å forsøke å forsere etablerte sikkerhetstiltak for å få tilgang til skjermingsverdige objekter eller infrastruktur. Formålet skal være å kontrollere om sikkerhetstiltakene er tilstrekkelige. Virksomhetens ansatte skal orienteres om at slike kontroller kan forekomme.\nDersom kontrollen innebærer behandling av personopplysninger, skal kontrollen ikke være mer omfattende enn det som formålet krever.\nInformasjon som kontrollen gir tilgang til, kan bare benyttes til det som formålet med kontrollen krever. Når det ikke lenger er behov for informasjonen, skal den slettes. Kunnskap og erfaringer som sikkerhetsmyndigheten tilegner seg gjennom kontrollen, kan brukes til videreutvikling av sikkerhetsmyndighetens generelle sikkerhetsarbeid.\nSikkerhetsmyndigheten skal gi virksomheten en rapport om resultatet av kontrollen. Rapporten skal bare inneholde informasjon som kan bidra til å bedre virksomhetens sikkerhet.\nKongen kan gi forskrift om testing av sikkerhetstiltak for skjermingsverdige objekter og infrastruktur og om at slik testing kan gjennomføres av andre enn sikkerhetsmyndigheten.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Forbud mot adgang til steder og områder",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Kongen kan av hensyn til forsvar, sikkerhet og beredskap gi forskrift om eller fatte enkeltvedtak om at personer nektesadgang til eller opphold i nærheten av militære områderadgang til eller opphold i nærheten av bestemt angitte steder eller områderadgang til å overvære militære øvelser eller forsøk, militære operasjoner eller annen militær aktivitet.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Eiendommer av sikkerhetsmessig betydning",
+      "path": [
+        "Kapittel 7. Objekt- og infrastruktursikkerhet"
+      ],
+      "text": "Eiendommer som ut fra sin beliggenhet kan legge til rette for sikkerhetstruende virksomhet mot et skjermingsverdig objekt eller infrastruktur, skal regnes som eiendommer av sikkerhetsmessig betydning. Virksomheten skal ved vurderingen av risiko etter § 7-3 andre ledd identifisere slike eiendommer.\nDersom en eiendom av sikkerhetsmessig betydning utgjør en risiko for en virksomhets skjermingsverdige objekt eller infrastruktur, og det ikke er mulig å opprettholde et forsvarlig sikkerhetsnivå gjennom tiltak etter § 7-3, skal virksomheten varsle sikkerhetsmyndigheten eller tilsynsmyndigheten.\nDepartementet kan gi forskrift om identifisering av eiendommer og risikovurdering etter første ledd og varslingsplikten etter andre ledd.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Krav om sikkerhetsklarering, adgangsklarering og autorisasjon",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Personer som skal få tilgang til sikkerhetsgradert informasjon, skal autoriseres i samsvar med § 8-9. Det samme gjelder personer som skal ha adgang til skjermingsverdige objekter og infrastruktur som det er fattet vedtak om etter § 8-3.\nPersoner som skal autoriseres for tilgang til informasjon gradert KONFIDENSIELT eller høyere, må ha gyldig sikkerhetsklarering. Personer som skal autoriseres for tilgang til skjermingsverdige objekter og infrastruktur som det er fattet vedtak om etter § 8-3, må ha gyldig adgangsklarering.\nKongen kan gi forskrift om behandling av klareringssaker og gyldighetstiden for klareringer.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Sikkerhetsklarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Personer skal sikkerhetsklareres dersom de skal ha tilgang til informasjon gradert KONFIDENSIELT eller høyere etter § 5-3.\nDet samme gjelder personer som gjennom arbeidet sitt vil kunne få tilgang til slik informasjon. Sikkerhetsklarering skal likevel ikke gjennomføres dersom risikoen for tilgang til slik informasjon kan fjernes gjennom andre og enklere sikkerhetstiltak.\nKongen kan gi forskrift om forholdet mellom nasjonale sikkerhetsgrader og sikkerhetsgrader i NATO, andre nasjoner eller internasjonale organisasjoner.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Adgangsklarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Et departement kan innenfor sitt ansvarsområde fatte vedtak om krav til adgangsklarering for tilgang til hele eller deler av skjermingsverdige objekter eller infrastruktur. Sikkerhetsmyndigheten kan fatte slike vedtak overfor virksomheter som ikke er omfattet av noe departements ansvarsområde.\nDet skal ikke fattes vedtak om krav til adgangsklarering dersom det kan iverksettes andre egnede sikkerhetstiltak.\nAvgjørelsen om krav til adgangsklarering som berører selvstendige rettssubjekter, kan påklages.\nPersoner kan gis adgangsklarering dersom de skal ha tilgang til objekter eller infrastruktur som er klassifisert etter § 7-2. Departementet kan bestemme at personer med sikkerhetsklarering for et bestemt nivå også er klarert for adgang til et bestemt skjermingsverdig objekt eller en bestemt skjermingsverdig infrastruktur.\nKongen kan gi forskrift om krav til adgangsklarering og om forholdet mellom adgangsklarering og sikkerhetsklarering.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Avgjørelse om klarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "En person kan bare klareres dersom det ikke finnes rimelig grunn til å tvile på at personen er sikkerhetsmessig skikket. Klareringsmyndigheten fatter avgjørelse om klarering.\nI vurderingen skal det legges vekt på forhold som er relevante for personens pålitelighet, lojalitet og dømmekraft i forbindelse med behandling av gradert informasjon og tilgang til skjermingsverdige objekter og infrastruktur. Vurderingen skal gjøres på grunnlag av en personkontroll.\nKlareringsmyndigheten skal se til at klareringssaken er så godt opplyst som mulig. Dersom det er tvil om en person er sikkerhetsmessig skikket, skal klareringsmyndigheten holde en sikkerhetssamtale med personen.\nOpplysninger om følgende forhold kan tillegges vekt:spionasje, planlegging eller gjennomføring av terror, sabotasje, attentat eller lignende, og forsøk på slik virksomhetstraffbare handlinger eller forberedelser eller oppfordringer til straffbare handlingerforhold som kan føre til at personen selv, eller personens nærstående, utsettes for trusler mot liv, helse, frihet eller ære, slik at personen kan bli presset til å handle i strid med nasjonale sikkerhetsinteresserforfalskning av eller feilaktig eller unnlatt framstilling av faktiske forhold som personen måtte forstå har betydning for sikkerhetsklareringenmisbruk av alkohol eller andre rusmidlerenhver sykdom som på medisinsk grunnlag kan gi forbigående eller varig svekkelse av påliteligheten, lojaliteten eller dømmekraftenkompromittering av skjermingsverdig informasjon eller brudd på sikkerhetsbestemmelsernektelse eller unnlatelse av å gi personopplysninger om seg selvikke å orientere den autorisasjonsansvarlige om egne forhold av betydning for sikkerhetennektelse av å gi taushetsløfte, tilkjennegivelse av ikke å ville være bundet av taushetsløfte eller nektelse eller unnlatelse av å delta i sikkerhetssamtaleøkonomiske forhold som kan friste ham eller henne til å handle i strid med nasjonale sikkerhetsinteresserforbindelse med organisasjoner som har ulovlig formål, og som kan true den demokratiske samfunnsordenen, eller som anser vold eller terrorhandlinger som akseptable virkemidlermanglende mulighet til å gjennomføre en tilfredsstillende personkontrolltilknytning til andre staterannet som kan gi grunn til å frykte at en person vil kunne opptre i strid med nasjonale sikkerhetsinteresser.\nPolitisk engasjement og annet lovlig samfunnsengasjement, som medlemskap i, sympati med eller aktivitet for lovlige politiske partier eller organisasjoner, skal ikke tillegges vekt i vurderingen av om en person er sikkerhetsmessig skikket.\nOpplysninger om nærstående personer skal bare tillegges vekt dersom de er sikkerhetsmessig relevante.\nKongen kan gi forskrift om klarering og gjennomføring av sikkerhetssamtale.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Gjennomføring av personkontroll",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Sikkerhetsmyndigheten skal gjennomføre en personkontroll av alle som skal klareres.\nDen som skal klareres, må ha gitt samtykke til kontrollen. Samtykket skal omfatte fornyet kontroll etter tredje ledd. Personkontrollen gjennomføres etter anmodning fra klareringsmyndigheten med mindre sikkerhetsmyndigheten har bestemt noe annet.\nKlareringsmyndigheten skal be om en ny personkontroll innenfor gyldighetstiden til en klarering dersom det er behov for det.\nEn personkontroll skal omfatte opplysninger gitt av personen som skal klareres. Personen plikter å gi fullstendige opplysninger om forhold som kan ha betydning for vurderingen av om personen er sikkerhetsmessig skikket. En klareringssak kan avsluttes uten realitetsavgjørelse dersom en person ikke svarer på henvendelser fra klareringsmyndigheten.\nDersom personen skal sikkerhetsklareres for HEMMELIG eller høyere sikkerhetsgrader eller adgangsklareres til objekter eller infrastruktur klassifisert MEGET KRITISK, og i andre særlige tilfeller, kan det gjennomføres personkontroll av nærstående personer.\nPersonkontrollen skal også omfatte andre opplysninger som klareringsmyndigheten sitter med, og opplysninger fra relevante registre. Den kan også omfatte opplysninger fra andre kilder, som offentlige myndigheter, tjenestesteder, arbeidsplasser og andre referanser.\nDet skal ikke innhentes, registreres eller videreformidles opplysninger om politisk engasjement som nevnt i § 8-4 femte ledd.\nDen behandlingsansvarlige for relevante registre plikter å utlevere registeropplysninger uten hinder av taushetsplikt. Registeropplysninger skal meddeles skriftlig. Det kan ikke kreves vederlag for registeropplysningene.\nBehandlingsansvarlige for relevante registre skal legge til rette for digitalisert overføring av registeropplysninger til sikkerhetsmyndigheten.\nOpplysninger som klareringsmyndigheten har fått i forbindelse med personkontroll, skal ikke benyttes til andre formål enn vurdering av om personen er sikkerhetsmessig skikket. Klareringsmyndigheten kan likevel gi opplysninger til den autorisasjonsansvarlige dersom det er nødvendig for sikkerhetsmessig oppfølging av personen.\nKongen kan gi forskrift ompersonkontroll av nærståendefornyet personkontrollhvilke registre som er relevante for personkontrollframgangsmåten ved registerundersøkelser i utlandetutlevering av opplysninger ved tilsvarende personkontroll som utføres av andre lands myndigheterarkivering, oppbevaring, forsendelse og digitalisert overføring av personkontrollopplysninger.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Bruk av vilkår ved klarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "En klarering kan i særlige tilfeller gis på nærmere angitte vilkår, for eksempel at den skal være avgrenset til bare å gjelde en konkret stilling.\nKongen kan gi forskrift om bruk av vilkår ved klarering.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-7",
+      "provision_ref": "§ 8-7",
+      "heading": "Klarering av personer med utenlandsk statsborgerskap",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "En person som har utenlandsk statsborgerskap, kan etter en konkret helhetsvurdering få klarering, dersom det ikke er rimelig grunn til å tvile på at personen er sikkerhetsmessig skikket. I tillegg til forholdene i § 8-4 skal det i vurderingen legges vekt på hjemlandets sikkerhetsmessige betydning, personens tilknytning til hjemlandet og tilknytningen til Norge.\nVed klarering av en person med utenlandsk statsborgerskap skal det vurderes særskilt om bruk av vilkår, som for eksempel stillingsklarering, kan være et risikoreduserende tiltak.\nKongen kan gi forskrift om klarering av personer med utenlandsk statsborgerskap.",
+      "xml_path": "article#kapittel-8-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-8",
+      "provision_ref": "§ 8-8",
+      "heading": "Tilbakekallelse, nedsettelse eller suspensjon av klarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Dersom klareringsmyndigheten får opplysninger som gir grunn til å tvile på at en klarert person er sikkerhetsmessig skikket, skal klareringsmyndigheten vurdere å tilbakekalle eller nedsette klareringen, eller suspendere klareringen og iverksette nærmere undersøkelser. Er en klarering besluttet tilbakekalt, nedsatt eller suspendert, skal den autorisasjonsansvarlige varsles umiddelbart. Klareringsmyndigheten skal sende sikkerhetsmyndigheten begrunnet melding om beslutningen.",
+      "xml_path": "article#kapittel-8-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-9",
+      "provision_ref": "§ 8-9",
+      "heading": "Autorisasjon",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Virksomhetens leder er autorisasjonsansvarlig og har ansvaret for sikkerhetsmessig ledelse og kontroll av autoriserte personer.\nDet skal gjennomføres en autorisasjonssamtale før det gis autorisasjon. Autorisasjon kan bare gis dersom den autorisasjonsansvarlige ikke har opplysninger som gir rimelig grunn til å tvile på om en person er sikkerhetsmessig skikket.\nSikkerhetsmyndigheten kan kreve at virksomheten skal holde sikkerhetsmyndigheten orientert om hvilke personer som er autorisert.\nKongen kan gi forskrift om autorisasjon, autorisasjonsansvarliges plikter og virksomhetens plikt til å holde sikkerhetsmyndigheten orientert om hvilke personer som er autorisert.",
+      "xml_path": "article#kapittel-8-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-10",
+      "provision_ref": "§ 8-10",
+      "heading": "Nedsettelse, suspensjon og tilbakekallelse av autorisasjon",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Dersom den autorisasjonsansvarlige får opplysninger som gir rimelig grunn til å tvile på at en autorisert person er sikkerhetsmessig skikket, skal den autorisasjonsansvarlige vurdere om autorisasjonen skal opprettholdes, tilbakekalles, nedsettes eller suspenderes. Den autorisasjonsansvarlige skal melde fra til klareringsmyndigheten om avgjørelsen.\nEn autorisasjon bortfaller dersompersonen fratrer stillingen som autorisasjonen er knyttet tilbehovet for autorisasjonen ikke lenger er til stedepersonen ikke lenger har tilstrekkelig klarering.",
+      "xml_path": "article#kapittel-8-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-11",
+      "provision_ref": "§ 8-11",
+      "heading": "Varslingsplikt om forhold som kan påvirke sikkerhetsmessig skikkethet",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "En klarert og autorisert person skal umiddelbart varsle den autorisasjonsansvarlige om forhold som kan være av betydning for om personen er sikkerhetsmessig skikket.",
+      "xml_path": "article#kapittel-8-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-12",
+      "provision_ref": "§ 8-12",
+      "heading": "Utlevering av informasjon til Politiets sikkerhetstjeneste",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "I klareringssaker hvor personer har tilknytning til andre stater, skal sikkerhetsmyndigheten på anmodning fra Politiets sikkerhetstjeneste gi informasjon om personers klareringsstatus, tilknytning til andre stater, tjenestested eller hvilken virksomhet som har anmodet om klarering.\nUtlevering av informasjon etter første ledd kan bare skje når Politiets sikkerhetstjeneste anfører at dette er nødvendig for å ivareta tjenestens oppgaver etter politiloven § 17 b og § 17 c nr. 1.\nKongen kan gi forskrift om utlevering av informasjon i klareringssaker til Politiets sikkerhetstjeneste.",
+      "xml_path": "article#kapittel-8-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-13",
+      "provision_ref": "§ 8-13",
+      "heading": "Begrunnelse for og melding om avgjørelse i klareringssaker",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Den som har vært vurdert klarert, har rett til å få vite resultatet av vurderingen. Hvis det blir avgjort at personen ikke får den ønskede klaringen, skal klareringsmyndigheten uoppfordret informere personen om resultatet og begrunnelsen for dette. Samtidig skal klareringsmyndigheten opplyse om retten til å klage på avgjørelsen.\nBegrunnelsen skal ikke inneholde opplysninger som kan røpe forholdsom har betydning for nasjonale sikkerhetsinteressersom er av betydning for kildevernsom personen ikke bør få kjennskap til av hensyn til helsensom gjelder personens nærstående, og som personen ikke bør få kjennskap tilsom angår tekniske innretninger, produksjonsmetoder, forretningsmessige analyser og beregninger og forretningshemmeligheter ellers, når de er av en slik art at andre kan utnytte dem i sin næringsvirksomhet.\nKlareringsmyndigheten skal utarbeide en intern begrunnelse der alle relevante forhold inngår.\nForvaltningsloven kapittel IV og V gjelder ikke for avgjørelser om klarering eller autorisasjon.",
+      "xml_path": "article#kapittel-8-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-14",
+      "provision_ref": "§ 8-14",
+      "heading": "Innsyn i klareringssaker",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Etter at en avgjørelse om klarering er fattet, har personen som har vært vurdert klarert, rett til å gjøre seg kjent med sakens dokumenter.\nPersonen har ikke krav på innsyn i hele eller deler av dokumenter som inneholder opplysninger som nevnt i § 8-13 andre ledd. Personen har heller ikke krav på innsyn i dokumenter som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten eller klageinstansen. Unntaket i andre ledd gjelder ikke faktiske opplysninger eller sammendrag eller annen bearbeidelse av faktum.\nDen som har krav på innsyn, skal få kopi av dokumentene dersom hun eller han ber om det.\nKongen kan gi forskrift om innsyn i klareringssaker.",
+      "xml_path": "article#kapittel-8-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-15",
+      "provision_ref": "§ 8-15",
+      "heading": "Oversendelse til særskilt oppnevnt advokat",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "En person som har fått en begrunnelse etter § 8-13 første ledd, hvor opplysninger som nevnt i § 8-13 andre ledd er utelatt, eller som har fått avslag på anmodning om innsyn etter § 8-14 andre ledd første punktum, har rett på bistand fra en særskilt oppnevnt advokat.\nAdvokaten skal ha tilgang til sakens faktiske opplysninger og de delene av begrunnelsen som er ukjent for den som er vurdert klarert, men ikke til dokumenter som er utarbeidet for den interne saksforberedelsen ved klareringsmyndigheten eller klageinstansen.\nAdvokaten skal gi den som har vært vurdert klarert, råd om hvorvidt han eller hun bør klage.\nDepartementet oppnevner advokater som skal sikkerhetsklareres for høyeste nivå.\nKongen kan gi forskrift om retten til bistand fra advokat, oppnevningen av advokater og hvilke opplysninger advokatene kan få tilgang til.",
+      "xml_path": "article#kapittel-8-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-16",
+      "provision_ref": "§ 8-16",
+      "heading": "Klareringsmyndigheter og sentralt register for klareringsavgjørelser",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Kongen utpeker én klareringsmyndighet for forsvarssektoren og én for sivile sektorer. Etterretnings- og sikkerhetstjenestene klarerer sitt eget personell.\nNår særlige grunner taler for det, kan Kongen utpeke andre klareringsmyndigheter enn dem som er nevnt i første ledd.\nKongen kan gi forskrift om opprettelsen av et sentralt register for klareringsavgjørelser.",
+      "xml_path": "article#kapittel-8-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-17",
+      "provision_ref": "§ 8-17",
+      "heading": "Klage på avgjørelse om klarering",
+      "path": [
+        "Kapittel 8. Personellsikkerhet"
+      ],
+      "text": "Avgjørelsen om klarering, klarering på vilkår og fastsettelse av tidspunktet for når klareringssaken tidligst kan tas opp på nytt, kan påklages av den avgjørelsen retter seg mot. Det samme gjelder avslag på begrunnelse og avslag på anmodning om innsyn.\nKlagen skal sendes til klareringsmyndigheten. Sikkerhetsmyndigheten er klageinstans. Departementet er klageinstans for klareringsavgjørelser som er truffet av sikkerhetsmyndigheten i første instans.\nFristen for å klage er tre uker fra den dagen meldingen om avgjørelsen kom fram til mottakeren. Dersom det klages på avslag på begrunnelse eller avslag på anmodning om innsyn, blir klagefristen avbrutt. Ny klagefrist for avgjørelse om klarering løper fra den dagen klageinstansens avgjørelse er kommet fram, eller mottakeren på annen måte er gjort kjent med den. I saker der en advokat har gjennomgått saken etter § 8-15, løper ny klagefrist fra den dagen rådet fra advokaten har kommet fram til mottakeren.\nForvaltningsloven kapittel VI gjelder i klareringssaker dersom ikke noe annet følger av eller i medhold av denne loven.",
+      "xml_path": "article#kapittel-8-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Sikkerhetsgradert anskaffelse",
+      "path": [
+        "Kapittel 9. Sikkerhetsgraderte anskaffelser mv."
+      ],
+      "text": "En sikkerhetsgradert anskaffelse er en anskaffelse som innebærer at leverandøren av varen eller tjenesten kan få tilgang til eller tilvirker sikkerhetsgradert informasjon, jf. § 5-3, eller få tilgang til et skjermingsverdig objekt eller infrastruktur, jf. § 7-1.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Sikkerhetsavtale med leverandør",
+      "path": [
+        "Kapittel 9. Sikkerhetsgraderte anskaffelser mv."
+      ],
+      "text": "Før en sikkerhetsgradert anskaffelse iverksettes, skal virksomheten inngå en sikkerhetsavtale med leverandøren. Dersom en utenlandsk leverandør eller dennes personell må klareres eller gis tilgang til sikkerhetsgradert informasjon, skal sikkerhetsmyndigheten godkjenne leverandøren før det inngås en sikkerhetsavtale.\nSikkerhetsavtalen skal tydeliggjøre og konkretisere partenes plikter og ansvar etter loven. Sikkerhetsavtalen skal alltid inneholde hvilken sikkerhetsgrad anskaffelsen skal ha, jf. §§ 5-3 og 7-2, spesifisert for hver del av oppdraget, og hvordan leverandøren skal forholde seg til de av lovens krav som gjelder for anskaffelsen.\nLeverandøren må selv dekke utgifter til å oppfylle krav som følger av lovens bestemmelser, hvis ikke noe annet følger av sikkerhetsavtalen.\nKongen kan gi forskrift om innholdet i en sikkerhetsavtale og om unntak fra kravet om sikkerhetsavtale.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "Leverandørklarering",
+      "path": [
+        "Kapittel 9. Sikkerhetsgraderte anskaffelser mv."
+      ],
+      "text": "Før en leverandør kan få tilgang til informasjon gradert KONFIDENSIELT eller høyere, skal leverandøren ha gyldig klarering for angitt sikkerhetsgrad. Leverandøren skal også klareres dersom det er nødvendig av andre grunner.\nEn leverandørklarering skal bare gis dersom det ikke er noen rimelig grunn til å tvile på at leverandøren er sikkerhetsmessig skikket. I vurderingen skal det bare legges vekt på forhold som kan innvirke på leverandørens evne og vilje til å gjøre forebyggende sikkerhetsarbeid etter loven. En personkontroll av personer i leverandørens styre og ledelse skal være en del av vurderingsgrunnlaget.\nLeverandøren skal gi klareringsmyndigheten alle opplysninger som kan ha betydning for leverandørklareringen.\nLeverandøren skal så snart som mulig orientere klareringsmyndigheten om endringer i styret eller ledelsen, endringer i eierstrukturen, flytting av lokaliteter og utstyr, åpning av gjeldsforhandling, begjæring om konkurs og annet som kan påvirke vurderingen av om leverandøren er sikkerhetsmessig skikket. Dersom det oppstår en sikkerhetsrisiko som ikke kan fjernes med forebyggende sikkerhetstiltak, kan klareringsmyndigheten inndra leverandørklareringen. Sikkerhetsgradert informasjon eller skjermingsverdige objekter eller infrastruktur kan ikke overføres til en ny eier eller inngå i bobehandling ved gjeldsforhandling eller konkurs hvis ikke klareringsmyndigheten har samtykket til det.\nFor øvrig gjelder reglene i kapittel 8 så langt de passer.\nKongen utpeker en klareringsmyndighet for leverandørklarering. Kongen kan gi forskrift om krav til leverandørklarering og varigheten av klareringen.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 9-4",
+      "heading": "Varslingsplikt og myndighet til å fatte vedtak ved anskaffelser til skjermingsverdig informasjonssystem, objekt og infrastruktur",
+      "path": [
+        "Kapittel 9. Sikkerhetsgraderte anskaffelser mv."
+      ],
+      "text": "Ved anskaffelser til skjermingsverdig informasjonssystem, objekt eller infrastruktur skal virksomheten vurdere om anskaffelsen kan innebære en ikke ubetydelig risiko for at informasjonssystemet, objektet eller infrastrukturen kan bli rammet av eller brukt til sikkerhetstruende virksomhet. Plikten til å foreta en slik vurdering gjelder ikke dersom anskaffelsen åpenbart ikke innebærer noen slik risiko.\nVirksomheten skal varsle departementet dersom vurderingen viser at anskaffelsen innebærer en risiko som nevnt i første ledd. Virksomheter som ikke er underlagt noe departement, skal varsle sikkerhetsmyndigheten. Varslingsplikten gjelder uten hinder av taushetsplikt. Plikten gjelder ikke dersom virksomheten selv iverksetter tiltak som fjerner risikoen eller gjør den ubetydelig.\nDepartementet som mottar et varsel etter andre ledd, kan be relevante organer uttale seg om risikoen ved anskaffelsen og om leverandørens sikkerhetsmessige pålitelighet.\nDersom en anskaffelse til et skjermingsverdig informasjonssystem, objekt eller infrastruktur kan innebære en ikke ubetydelig risiko som nevnt i første ledd, kan Kongen i statsråd fatte vedtak om at anskaffelsen ikke skal gjennomføres, eller om at det skal settes vilkår for den. Dette gjelder også dersom det er inngått avtale om anskaffelsen. Dersom det ikke fattes vedtak etter første punktum, skal departementet orientere virksomheten om det. Et vedtak etter første punktum er et særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.\nKongen i statsråd kan gi forskrift om varslingsplikten og om myndigheten til å fatte vedtak.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 10-1",
+      "heading": "Meldeplikt ved erverv av virksomhet",
+      "path": [
+        "Kapittel 10. Eierskapskontroll"
+      ],
+      "text": "Den som vil erverve en kvalifisert eierandel i en virksomhet som er underlagt loven, jf. § 1-3, skal sende melding til departementet om dette. I de tilfellene hvor virksomheten ikke omfattes av noe departements ansvarsområde, skal meldingen sendes til sikkerhetsmyndigheten.\nEn kvalifisert eierandel innebærer at ervervet direkte eller indirekte samlet vil føre til at erververen oppnårminst en tredjedel av aksjekapitalen, andelene eller stemmene i virksomheten,rett til å bli eier av minst en tredjedel av aksjekapitalen eller andelene ellerbetydelig innflytelse over forvaltningen av selskapet på annen måte.\nLikt med aksjeeierens egne aksjer regnes de aksjene som eies eller overtas av aksjeeierens nærstående, jf. verdipapirhandelloven § 2-5. Det samme gjelder for andeler som eies eller overtas av andelseierens nærstående.\nKongen kan gi forskrift om meldeplikten.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "Behandling av melding om erverv av virksomhet",
+      "path": [
+        "Kapittel 10. Eierskapskontroll"
+      ],
+      "text": "Departementet eller sikkerhetsmyndigheten som mottar en melding etter § 10-1, skal ta stilling til meldingen så raskt som mulig.\nDen som mottar en melding etter § 10-1, kan be relevante organer uttale seg om ervervets risikopotensial og erververens sikkerhetsmessige pålitelighet.\nDepartementet eller sikkerhetsmyndigheten skal innen 60 arbeidsdager orientere melderen om ervervet er godkjent, eller om at saken skal behandles av Kongen i statsråd etter § 10-3. Fristen regnes fra det tidspunktet departementet eller sikkerhetsmyndigheten har mottatt meldingen. Har departementet eller sikkerhetsmyndigheten innen 50 arbeidsdager framsatt et skriftlig krav om ytterligere opplysninger, avbrytes fristen inntil svaret fra erververen er mottatt.\nKongen kan gi forskrift om departementenes og sikkerhetsmyndighetens behandling av meldingen.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "Vedtak om stans av erverv av virksomhet",
+      "path": [
+        "Kapittel 10. Eierskapskontroll"
+      ],
+      "text": "Dersom et erverv etter § 10-1 kan medføre en ikke ubetydelig risiko for at nasjonale sikkerhetsinteresser blir truet, kan Kongen i statsråd fatte vedtak om at ervervet ikke kan gjennomføres, eller om at det skal settes vilkår for gjennomføringen. Dette gjelder også dersom det allerede er inngått avtale om ervervet. Dersom det ikke fattes vedtak etter første punktum, skal departementet orientere erververen om dette.\nEt vedtak etter første punktum er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.\nKongen kan gi forskrift om stans av erverv av virksomhet.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "Særskilte kontroll- og tilsynsordninger",
+      "path": [
+        "Kapittel 11. Særskilte kontroll- og tilsynsordninger. Tvangsmulkt, overtredelsesgebyr og straff"
+      ],
+      "text": "Forebyggende sikkerhetsarbeid i medhold av loven er underlagt kontroll og tilsyn av Stortingets kontrollutvalg for etterretnings-, overvåkings- og sikkerhetstjeneste i samsvar med bestemmelsene i og i medhold av EOS-kontrolloven.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 11-2",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 11. Særskilte kontroll- og tilsynsordninger. Tvangsmulkt, overtredelsesgebyr og straff"
+      ],
+      "text": "Ved overtredelse av bestemmelser gitt i eller i medhold av §§ 3-4, 4-3, 4-4, 4-5, 5-2, 6-2, 6-3, 7-3, § 9-2 første ledd, § 9-4 første ledd første punktum eller § 9-4 andre ledd første eller andre punktum, kan tilsynsmyndigheten fastsette en tvangsmulkt som løper inntil forholdet er brakt i orden. Det samme gjelder for pålegg gitt i medhold av § 3-6.\nEt vedtak om tvangsmulkt kan påklages til departementet.\nEt vedtak etter første ledd er særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.\nKongen kan gi forskrift om tvangsmulkt.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 11-3",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 11. Særskilte kontroll- og tilsynsordninger. Tvangsmulkt, overtredelsesgebyr og straff"
+      ],
+      "text": "Tilsynsmyndigheten kan pålegge en virksomhet overtredelsesgebyr dersom virksomheten eller noen som handler på dennes vegne, forsettlig eller uaktsomtovertrer bestemmelser gitt i eller i medhold av §§ 3-4, 4-3, 4-4, 4-5, 5-2, 6-2, 6-3, 7-3, 9-2 første ledd, 9-4 første ledd første punktum eller § 9-4 andre ledd første eller andre punktumovertrer et pålegg gitt med hjemmel i § 3-6gir uriktige eller ufullstendige opplysninger til tilsynsmyndigheten etter §§ 3-4 eller 4-5medvirker til overtredelser som nevnt i bokstav a til c.\nVed fastsettelse av overtredelsesgebyrets størrelse skal det særlig legges vekt på overtredelsens grovhet, overtredelsens varighet, utvist skyld og virksomhetens omsetning. Et vedtak om overtredelsesgebyr er et særlig tvangsgrunnlag etter tvangsfullbyrdelsesloven kapittel 13.\nAdgangen til å pålegge overtredelsesgebyr foreldes etter fem år. Fristen avbrytes når tilsynsmyndigheten meddeler virksomheten at denne er mistenkt for overtredelse av loven eller vedtak fastsatt med hjemmel i loven.\nEt vedtak om overtredelsesgebyr kan påklages til departementet.\nKongen kan gi forskrift om overtredelsesgebyr.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 11-4",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 11. Særskilte kontroll- og tilsynsordninger. Tvangsmulkt, overtredelsesgebyr og straff"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av §§ 3-4, 4-3 eller § 5-2, § 5-3 første ledd, §§ 6-2, 6-3, 7-3, § 9-2 første ledd, § 9-4 første ledd første punktum eller § 9-4 andre ledd første eller andre punktum, eller overtrer et pålegg gitt av tilsynsmyndigheten i medhold av § 3-6, straffes med bot eller fengsel inntil 6 måneder eller begge deler, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller grovt uaktsomt bryter taushetsplikt etter § 5-4 andre ledd eller § 6-6 fjerde ledd, straffes med bot eller fengsel inntil 1 år eller begge deler, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som overtrer et forbud fastsatt med hjemmel i § 7-5, straffes med bot eller fengsel inntil 1 år eller begge deler, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nDen som forsettlig eller uaktsomt overtrer et forbud eller påbud fastsatt med hjemmel i §§ 2-5 eller 10-3, straffes med bot eller fengsel inntil 1 år eller begge deler, hvis ikke forholdet går inn under en strengere straffebestemmelse.\nForsøk på overtredelser som nevnt i første til fjerde ledd straffes på samme måte.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 12-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 12. Ikrafttredelse og endringer i andre lover"
+      ],
+      "text": "Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. Kongen kan sette i kraft forskjellige bestemmelser til ulik tid.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 12-2",
+      "heading": "Opphevelse",
+      "path": [
+        "Kapittel 12. Ikrafttredelse og endringer i andre lover"
+      ],
+      "text": "Fra det tidspunktet loven trer i kraft, oppheves lov 20. mars 1998 nr. 10 om forebyggende sikkerhetstjeneste.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    }
+  ]
+}

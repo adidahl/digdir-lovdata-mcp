@@ -1,0 +1,65 @@
+{
+  "id": "FOR-1981-01-05-8825",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om avskrivning av statens krav etter lønnsgarantiordningen",
+  "short_title": "Forskrift om lønnsgarantiordningen",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1981-02-23",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-15-2561 fra 2026-01-01",
+  "lovdata_refid": "forskrift/1981-01-05-8825",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1981-01-05-8825",
+  "raw_xml_sha256": "ef6636512bf6e32c7fceb66814863b733675e826c7d3a3367aaec9d354929fde",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Arbeid- og velferdsetaten kan avskrive statens krav som uerholdelige etter reglene her.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Uerholdelighet.",
+      "path": [],
+      "text": "Uerholdeligheten bedømmes ut fra rettslige og økonomiske vurderinger. Krav anses som uerholdelige i følgende tilfeller:Krav mot selskap med begrenset ansvar dersom selskapet er opphørt og ingen andre svarer for gjelden. Et selskap regnes som opphørt når selskapets bo definitivt er avviklet ved skifteretten, eller bobehandlingen er innstilt i medhold av konkursloven.Debitor er avgått ved døden, og hans bo er avviklet ved skifteretten uten gjeldsovertagelse, eller det er klarlagt at eventuelle gjeldsovertakere ikke er søkegode.Krav som det fra et kostnadssynspunkt ikke vil være regningssvarende å inndrive.Når det for øvrig etter forsøk på inndrivelse synes overveiende sannsynlig at fortsatt arbeid med innfordring ikke vil gi resultater.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vurderingen av uerholdeligheten.",
+      "path": [],
+      "text": "Arbeid- og velferdsetaten avgjør normalt om en fordring er uerholdelig.Knytter det seg rettslig eller faktisk tvil til en fordring som overstiger seks ganger grunnbeløpet i Folketrygden avgjøres spørsmålet av departementet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Begrensning i adgangen til avskrivning.",
+      "path": [],
+      "text": "Spørsmål om avskrivning av en fordring som Riksrevisjonen gjennom antagelse eller på annen måte har reist avgjøres av Riksrevisjonen.Avskrivning av regresskrav og andre fordringer mot tjenstemenn faller utenfor denne ordning.Dersom en fordring er blitt uerholdelig gjennom passivitet eller annen forsømmelse fra administrasjonens side, vil Riksrevisjonen kunne kreve ansvar gjort gjeldende mot den ansvarlige.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Dokumentasjon og begrunnelse.",
+      "path": [],
+      "text": "All dokumentasjon av uerholdelighet vedlegges den enkelte sak. Det samme gjelder øvrige innhentede opplysninger om debitors faktiske og økonomiske situasjon. All avskrivning begrunnes på hensiktsmessig måte.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Virkning av avskrivning.",
+      "path": [],
+      "text": "Regnskapsmessig avskrivning medfører ikke at kravet er ettergitt og underretning til debitor gis normalt ikke.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "FOR-2017-05-11-597",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot å innføre, omsette og holde eksotiske dyr",
+  "short_title": "Forskrift om forbud mot eksotiske dyr",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2017-08-15",
+  "lovdata_refid": "forskrift/2017-05-11-597",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-05-11-597",
+  "raw_xml_sha256": "9b7184979f92dcef2036f92f70751f14ed12b8446419a57e25a9ab77741751a9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal bidra til god velferd for eksotiske dyr.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forbud",
+      "path": [],
+      "text": "Det er forbudt å innføre, omsette og holde eksotiske pattedyr, reptiler og amfibier. Eksotiske dyr er dyrearter som ikke lever vilt i Norge, og som ikke er tradisjonelle produksjonsdyr, sportsdyr eller familiedyr i Norge.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak fra forbudet",
+      "path": [],
+      "text": "Forbudet i § 2 gjelder ikke reptiler som er oppført i vedlegget. Unntaket gjelder bare for dyr som er født i fangenskap, og har foreldre som er født i fangenskap.\nPersoner og virksomheter som innfører, omsetter eller holder reptiler, skal ha skriftlig dokumentasjon som viser hvilken av de tillatte artene hvert dyr tilhører. Dokumentasjonen skal også vise at dyret og foreldrene til dyret er født i fangenskap. Dokumentasjonen skal følge dyret så lenge det lever.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak for å gjennomføre forskriften.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra forbudet i § 2 og kravene om dokumentasjon i § 3 annet ledd, og fastsette vilkår for dispensasjonen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften er straffbart etter dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse og overgangsregler",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. august 2017. Samtidig oppheves forskrift 20. november 1976 nr. 3 om forbud mot at fremmedartede (eksotiske) dyr innføres, omsettes eller holdes som husdyr, selskapsdyr eller i fangenskap på annen måte.\n§ 3 annet ledd annet punktum gjelder ikke ved hold og omsetning av dyr som allerede holdes i Norge når denne forskriften trer i kraft. Det er tilstrekkelig at dyreholderen gir Mattilsynet opplysninger som gjør det sannsynlig at dyrene og deres foreldre er født i fangenskap.\nPersoner og virksomheter som har fått tillatelse til å holde reptiler som ikke er oppført i vedlegget, kan fortsatt holde dyrene som er omfattet av tillatelsen.\nForbudet i § 2 mot å holde eksotiske dyr gjelder ikke skilpadder som har blitt holdt i Norge siden før 1. januar 1977.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

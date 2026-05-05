@@ -1,0 +1,968 @@
+{
+  "id": "FOR-2018-12-20-2053",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om virksomheters arbeid med forebyggende sikkerhet (virksomhetsikkerhetsforskriften)",
+  "short_title": "Virksomhetsikkerhetsforskriften",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2019-01-01",
+  "last_change_in_force": "2019-05-03",
+  "last_changed_by": "forskrift/2019-05-03-560",
+  "lovdata_refid": "forskrift/2018-12-20-2053",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-12-20-2053",
+  "raw_xml_sha256": "483480c7fddb4df81bfee8e84cb2dfc57ef4a6b181a96d8072087e2624dc3605",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Vedtak om at sikkerhetsloven skal gjelde",
+      "path": [
+        "Kapittel 1. Vedtak om at sikkerhetsloven skal gjelde og definisjoner"
+      ],
+      "text": "Når et departement fatter vedtak etter sikkerhetsloven § 1-3 om at loven skal gjelde for en virksomhet, skal virksomheten gis en rimelig frist for å oppfylle kravene gitt i eller med hjemmel i sikkerhetsloven. Fristen skal fastsettes ut fra hva som må gjøres for at virksomheten oppfyller kravene.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Vedtak om at sikkerhetsloven skal gjelde og definisjoner"
+      ],
+      "text": "I denne forskriften menes medskjermingsverdige verdier: skjermingsverdig informasjon, skjermingsverdige informasjonssystemer, skjermingsverdig infrastruktur og skjermingsverdige objekterdokument: en logisk avgrenset mengde med informasjon som er lagret på et medium for senere lesing, lytting, framføring, overføring eller lignendelagringsmedium: en elektronisk eller fysisk enhet for lagring av informasjon til bruk for senere lesing, lytting, framføring, overføring eller lignende.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Styringssystem for sikkerhet",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "En virksomhet som omfattes av sikkerhetsloven, skal etablere et styringssystem for sikkerhet. Systemet skal sikre at virksomheten oppfyller kravene gitt i eller med hjemmel i loven.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Styringsdokument for det forebyggende sikkerhetsarbeidet",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "Lederen for en virksomhet skal fastsette et styringsdokument som beskriverhvilke deler av sikkerhetsloven med forskrifter som gjelder for virksomhetenroller og ansvar i virksomhetens forebyggende sikkerhetsarbeid, jf. § 6prinsipper for virksomhetens sikkerhetsarbeid.\nStyringsdokumentet skal gjøres kjent og være tilgjengelig for virksomhetens ansatte og for leverandører og andre eksterne samarbeidspartnere, i den grad det er nødvendig for å oppfylle virksomhetens plikter etter sikkerhetsloven.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Sikkerhetsmål",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "En virksomhet skal fastsette hvordan kravene til et forsvarlig sikkerhetsnivå i sikkerhetsloven § 4-3 første ledd, § 5-2 første ledd, § 6-2 første ledd og § 7-3 første ledd skal oppfylles og kriterier for å evaluere om kravene er oppfylt.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Roller i og ansvar for det forebyggende sikkerhetsarbeidet",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "Lederen for en virksomhet skal fordele roller i og ansvar for det forebyggende sikkerhetsarbeidet, slik at kravene gitt i eller med hjemmel i sikkerhetsloven ivaretas. Rollene og ansvarsfordelingen skal gjøres kjent i virksomheten.\nVirksomhetens leder skal informeres om saker som er viktige for det forebyggende sikkerhetsarbeidet.\nKontrollen av styringssystemet for sikkerhet skal om mulig utføres av andre enn de som har styrende eller utøvende oppgaver i det forebyggende sikkerhetsarbeidet.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Ressurser og kompetanse",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "En virksomhet skal forvalte og utvikle det forebyggende sikkerhetsarbeidet sitt på en forsvarlig måte.\nVirksomheten skal utføre følgende tiltak overfor de som kan få tilgang til skjermingsverdige verdier gjennom å utføre arbeid eller tjenester for virksomheten:få bekreftet identiteten deres med gyldig legitimasjonsørge for at de kjenner til de relevante delene av styringssystemet for sikkerhetsørge for tilstrekkelig kompetanse om sikkerhetinformere om endringer i kravene til sikkerhetenklarlegge at personene kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser.\nNår et arbeidsforhold eller en tjeneste avsluttes, skal virksomheten sikre at den som slutter, ikke lenger har tilgang til skjermingsverdige verdier. Den som slutter, skal informeres om at taushetsplikten etter sikkerhetsloven § 5-4 andre ledd fremdeles gjelder.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8",
+      "heading": "Tiltak ved sikkerhetstruende virksomhet, avvik og kompromittering av sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "Ved sikkerhetstruende virksomhet eller avvik fra styringssystemet for sikkerhet skal en virksomhet gjennomføre umiddelbare tiltak for å redusere skadeomfanget og gjenopprette et forsvarlig sikkerhetsnivå. Det skal rapporteres om den sikkerhetstruende virksomheten eller avviket internt og til andre som kan bli berørt i stor grad. Virksomheten skal vurdere konsekvensene av den sikkerhetstruende virksomheten eller avviket.\nHvis sikkerhetsgradert informasjon blir kjent for uautoriserte personer, skal virksomheten informere den som har tilvirket informasjonen, om hendelsen, i tillegg til å varsle etter sikkerhetsloven § 4-5.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 9",
+      "heading": "Evaluering og øvelser",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "En virksomhet skal regelmessig evaluere om kravet til et forsvarlig sikkerhetsnivå er oppfylt og minst én gang i året evaluere om styringssystemet for sikkerhet er egnet til å sørge for at kravet oppfylles, jf. § 5.\nVirksomheten skal regelmessig gjennomføre øvelser for å kontrollere effekten av sikkerhetstiltakene i en normalsituasjon og av tiltakene som er planlagt ved økt trusselnivå. Er virksomheten avhengig av andre virksomheter for å fungere slik den skal, skal virksomheten be de andre virksomhetene om å delta på øvelser når det er relevant.\nResultatet av evalueringer og øvelser skal inngå i den årlige gjennomgangen av det forebyggende sikkerhetsarbeidet i virksomheten.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 10",
+      "heading": "Gjennomgang av det forebyggende sikkerhetsarbeidet av virksomhetens leder",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "Lederen for en virksomhet skal årlig foreta en helhetlig gjennomgang av virksomhetens forebyggende sikkerhetsarbeid for å vurdere om styringssystemet for sikkerhet fungerer etter hensikten.\nVirksomheten skal gjennomføre nødvendige forbedringer i det forebyggende sikkerhetsarbeidet og i styringssystemet for sikkerhet.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 11",
+      "heading": "Dokumentasjon av styringssystemet for sikkerhet",
+      "path": [
+        "Kapittel 2. Sikkerhetsstyring"
+      ],
+      "text": "En virksomhet skal dokumentere at styringssystemet for sikkerhet og sikkerhetstiltakene gir et forsvarlig sikkerhetsnivå, jf. § 5.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Vurdering av risiko",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Når en virksomhet vurderer risiko, skal den ta hensyn tilhvilken betydning virksomhetens skjermingsverdige verdier har for grunnleggende nasjonale funksjoner eller nasjonale sikkerhetsinteresserhvilken sikkerhetstruende virksomhet de skjermingsverdige verdiene kan bli utsatt forsannsynligheten for at sikkerhetstruende virksomhet kan inntreffehvilke sårbarheter som er knyttet til de skjermingsverdige verdienekonsekvensen av sikkerhetstruende virksomhet for de skjermingsverdige verdienei hvilken grad virksomheten er avhengig av andre virksomheter for å fungere som den skal.\nBehovet for å gjennomføre en ny helhetlig vurdering av risikoen skal vurderes årlig.\nDersom det planlegges, gjennomføres eller inntreffer endringer som kan påvirke skjermingsverdige verdier i vesentlig grad, skal virksomheten vurdere hvilken risiko endringene medfører.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Håndtering av risiko",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Når en virksomhet skal håndtere en risiko, skal den vurdereom risikoen er akseptabelå endre sårbarheten til de skjermingsverdige verdiene ved grunnsikringstiltak og påbyggingstiltakhvordan virksomheten kan påvirke konsekvensene som kan inntreffe dersom de skjermingsverdige verdiene rammes, for eksempel ved å endre redundansen eller iverksette tiltak for skadebegrensning og gjenopprettelseå gjøre seg mindre avhengig av andre virksomheterå håndtere risikoen på andre måter.\nVirksomheten skal sende en oversikt over andre virksomheter den er avhengig av for å fungere som den skal, til Nasjonal sikkerhetsmyndighet og det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet i sektoren.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Grunnsikringstiltak, påbyggingstiltak og tiltak for skadebegrensning og gjenoppretting",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Grunnsikringstiltak skal bidra til et forsvarlig sikkerhetsnivå i virksomheter i en normaltilstand. Grunnsikringstiltakene kan værefysiske, elektroniske, menneskelige eller organisatoriske barrierersystemer som skal oppdage og varsle om aktiviteter eller hendelsersystemer og rutiner for å avklare aktiviteter og hendelser og bakgrunnen for demoppfølging av uønskede aktiviteter og uønskede hendelseren kombinasjon av tiltakene nevnt i bokstav a til d.\nEn virksomhet skal, i god tid før en skjermingsverdig verdi etableres, fastsette hvilke grunnsikringstiltak som skal beskytte den. Virksomheten skal også vurdere om det er behov for slike tiltak i forbindelse med avviklingen av den skjermingsverdien verdien.\nEn virksomhet skal planlegge påbyggingstiltak som kan iverksettes dersom økt risiko medfører at det ikke er tilstrekkelig med grunnsikringstiltakene. Påbyggingstiltakene skal kunne iverksettes i løpet av kort tid, og de skal kunne avvikles dersom risikoen reduseres i tilstrekkelig grad.\nDersom den økte risikoen vedvarer, skal virksomheten vurdere om påbyggingstiltakene skal bli en del av grunnsikringen. I slike tilfeller skal virksomheten planlegge nye påbyggingstiltak.\nVirksomheten skal planlegge skadebegrensningstiltak som kan iverksettes i situasjoner som ikke kan håndteres fullt ut med grunnsikrings- og påbyggingstiltakene.\nVirksomheten skal ha en plan for å gjenopprette et forsvarlig sikkerhetsnivå.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Prinsipper ved valg og utforming av sikkerhetstiltak",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Når en virksomhet velger ut og utformer sikkerhetstiltak, skal følgende prinsipper legges til grunn:Sikkerhetstiltakene skal ikke ha en annen funksjonalitet eller større kompleksitet enn nødvendig.Det skal ikke gis en mer omfattende tilgang til skjermingsverdige verdier enn nødvendig.Svikt i ett enkelt tiltak skal ikke kunne føre til kompromittering av skjermingsverdige verdier.Sikkerhetstiltak skal i minst mulig grad være avhengige av hverandre, og flere sikkerhetstiltak skal dermed ikke kunne svekkes eller settes ut av funksjon samtidig, for eksempel som følge av én enkelt feil eller hendelse.Effekten av sikkerhetstiltakene skal være tilnærmet lik for alle skjermingsverdige verdier med samme sikkerhetsbehov.\nSikkerhetstiltakene skal være samordnet. Kostnadene ved et sikkerhetstiltak skal stå i et rimelig forhold til det som kan oppnås ved tiltaket.\nEn virksomhet skal ikke bruke mer inngripende sikkerhetstiltak enn nødvendig for å håndtere en aktuell risiko. Virksomheten skal her særlig ta hensyn til enkeltpersoners rettssikkerhet og personvern. Det skal ikke behandles personopplysninger i større grad enn det som er nødvendig ut fra formålet med sikkerhetstiltaket.\nNår et sikkerhetstiltak kan gripe inn i enkeltpersoners rettssikkerhet eller personvern, skal virksomheten kunne dokumentere hvorfor inngrepet er nødvendig.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Krav om bruk av evaluerte produkter og tjenester",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Når en virksomhet velger sikkerhetstiltak, skal den bruke evaluerte produkter og tjenester dersom produktets eller tjenestens funksjon i seg selv er avgjørende for atpersoner ikke får tilgang til informasjon gradert HEMMELIG eller STRENGT HEMMELIG uten å ha et tjenstlig behov for detpersoner ikke får tilgang til sikkerhetsgradert informasjon de ikke er autorisert forpersoner ikke kan overta eller sette ut av drift infrastruktur eller objekter som er klassifisert KRITISK eller MEGET KRITISK.\nEvalueringen skal skje gjennom metodisk utvikling og testing av produktet eller tjenesten og være etterprøvbar. Den skal utføres av Nasjonal sikkerhetsmyndighet eller et akkreditert laboratorium utpekt av Nasjonal sikkerhetsmyndighet, gi tillit til produktet eller tjenesten og sikre at produktet eller tjenesten har nødvendig funksjonalitet for å sikre det aktuelle graderingsnivået eller klassifiseringsnivået. Nasjonal sikkerhetsmyndighet kan godkjenne bruk av produkter og tjenester som er evaluert eller sertifisert i andre land.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Sertifisering av produkter og tjenester",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Kravene til en evaluering etter § 16 kan oppfylles gjennom en sertifisering gitt av Nasjonal sikkerhetsmyndighet eller et akkreditert sertifiseringsorgan utpekt av Nasjonal sikkerhetsmyndighet.\nAkkreditering av laboratorier og sertifiseringsorganer skal skje etter ISO- og IEC-standarder.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 18",
+      "heading": "Krav til sikkerhet i anskaffelser",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Dersom en anskaffelse kan gi leverandøren eller dennes personell en mulighet til å påvirke et skjermingsverdig informasjonssystem eller objekt eller en skjermingsverdig infrastruktur, skal oppdragsgiveren vurdere risikoen for at informasjonssystemet, objektet eller infrastrukturen kan bli rammet av eller brukt til sikkerhetstruende virksomhet, og hvordan risikoen skal håndteres. Dersom virksomheten kommer til at anskaffelsen vil medføre en ikke ubetydelig risiko, skal virksomheten varsle departementet etter sikkerhetsloven § 9-4.\nDersom en anskaffelse gir tilgang til skjermingsverdige informasjonssystemer eller skjermingsverdig ugradert informasjon, skal det inngås en avtale mellom virksomheten og leverandøren, hvor det fastsettes hvordan leverandøren skal forholde seg til de kravene som gjelder for anskaffelsen.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 19",
+      "heading": "Varslingsplikt om anskaffelser til skjermingsverdig informasjonssystem, objekt og infrastruktur",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Et varsel etter sikkerhetsloven § 9-4 skal opplyse om følgende:hva anskaffelsen gjelderleverandørens navn, adresse, organisasjonsnummer, nasjonalitet, styremedlemmer og eierehvordan oppdragsgiveren vurderer risikoen for at skjermingsverdige verdier kan bli rammet av sikkerhetstruende virksomhet ved anskaffelsenhvordan oppdragsgiveren vil håndtere risikoenom det vil gjenstå en ikke ubetydelig risiko også etter at tiltak er iverksattom anskaffelsen likevel bør gjennomføresandre forhold som oppdragsgiveren antar kan ha betydning for vurderingen av risikoen forbundet med anskaffelsen.\nMed anskaffelse i sikkerhetsloven § 9-4 menes også tilleggsanskaffelser og kontrakter som tildeles under en rammeavtale.\nDepartementet skal innen 60 arbeidsdager orientere oppdragsgiveren om anskaffelsen kan gjennomføres, eller om at saken skal behandles av Kongen i statsråd. Fristen regnes fra det tidspunktet departementet har mottatt varselet. Har departementet innen 50 arbeidsdager framsatt et skriftlig krav om ytterligere opplysninger, avbrytes fristen inntil dette svaret er mottatt.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 20",
+      "heading": "Unntak fra sikkerhetskrav",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "Dersom det blir uforholdsmessig byrdefullt for virksomheten å oppfylle sikkerhetskravene, kan Nasjonal sikkerhetsmyndighet gjøre unntak fra § 14 andre ledd første punktum, § 15 første ledd bokstav a til e, § 16, § 18 andre ledd, § 22, § 23 andre ledd, § 26 første ledd, § 27 tredje ledd, § 28, § 34 til § 36, § 38, § 39, § 40 andre ledd, § 42 fjerde ledd, § 43, § 46, § 49, § 51 tredje ledd, § 52, § 53, § 55, § 58, § 76, § 78, § 80 første ledd, § 83 bokstav b og c, og § 84.\nMyndigheter med tilsynsansvar etter sikkerhetsloven § 3-1 andre ledd kan gjøre unntak etter første ledd fra de sikkerhetskravene som ikke gjelder for beskyttelse av sikkerhetsgradert informasjon.\nEn virksomhet kan i særlige tilfeller søke om unntak fra krav om beskyttelse av et skjermingsverdig objekt eller skjermingsverdig infrastruktur i denne forskriften. En slik søknad avgjøres av det departementet som har ansvaret for det forebyggende sikkerhetsarbeidet innenfor den aktuelle samfunnssektoren.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 21",
+      "heading": "Forholdet til NATOs regler for sikkerhet",
+      "path": [
+        "Kapittel 3. Generelle krav til beskyttelse av skjermingsverdige verdier"
+      ],
+      "text": "For beskyttelse av NATO-informasjon og informasjonssystemer som behandler NATO-informasjon eller NATO-utstyr, gjelder kravene i eller med hjemmel i sikkerhetsloven når ikke noe annet følger av NATOs regler for sikkerhet.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Forsvarlig sikkerhetsnivå for skjermingsverdig informasjon",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "Når en virksomhet håndterer en risiko knyttet til ugradert skjermingsverdig informasjon etter § 13, skal tiltakene som et minimum sørge for at informasjonen ikke kan gå tapt, endres eller gjøres utilgjengelig med enkle midler. Dersom risikoen tilsier det, skal informasjonen også beskyttes mot avanserte angrepsmetoder.\nNår virksomheten håndterer en risiko knyttet til informasjon gradert BEGRENSET, er kravet til et forsvarlig sikkerhetsnivå oppfylt dersom informasjonen ikke med enkle midler kan bli kjent for uautoriserte personer.\nVed valg av sikkerhetstiltak skal virksomheten se behovet for å beskytte informasjonens konfidensialitet, integritet og tilgjengelighet i sammenheng og veie hensynene mot hverandre.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Destruering av dokumenter og lagringsmedier med sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "Ved destruering av dokumenter og lagringsmedier som inneholder eller har inneholdt sikkerhetsgradert informasjon, skal det brukes en metode som gjør at det ikke er mulig å rekonstruere og lese informasjonen.\nDersom informasjonen er eller har vært gradert KONFIDENSIELT eller høyere, skal det benyttes et produkt som er evaluert etter § 16, til å destruere dokumentet eller lagringsmediet.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Evakuering og ekstraordinær destruering i nødsituasjoner",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "En virksomhet skal for nødsituasjoner ha en evakueringsplan og en plan for destruering av dokumenter og lagringsmedier med skjermingsverdig informasjon.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Utlevering av sikkerhetsgradert informasjon til fremmede stater og internasjonale organisasjoner",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "Fremmede stater og internasjonale organisasjoner kan bare gis tilgang til norsk sikkerhetsgradert informasjon dersom deter i samsvar med nasjonale sikkerhetsinteresserikke er i strid med lovbestemt taushetsplikt ogforeligger en sikkerhetsavtale mellom Norge og den aktuelle staten eller internasjonale organisasjonen.\nNår myndigheter eller virksomheter i andre stater eller internasjonale organisasjoner skal ha tilgang til sikkerhetsgradert informasjon, skal informasjonen behandles i samsvar med bestemmelsene i sikkerhetsavtalen som er inngått mellom Norge og den aktuelle staten eller organisasjonen.\nDersom det ikke er praktisk mulig å inngå en sikkerhetsavtale, men det likevel er i Norges interesse å utlevere informasjonen, kan Forsvarsdepartementet og Justis- og beredskapsdepartementet gjøre unntak fra kravet til sikkerhetsavtale innenfor sine fagsektorer.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Tilsvarende sikkerhetsgrader",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "Informasjon som er sikkerhetsgradert av en fremmed stat eller internasjonal organisasjon, skal beskyttes på samme måte som informasjon gradert med en tilsvarende norsk sikkerhetsgrad etter sikkerhetsloven § 5-3.\nNasjonal sikkerhetsmyndighet fastsetter hvilke sikkerhetsgrader fastsatt av fremmede stater eller internasjonale organisasjoner som tilsvarer de norske sikkerhetsgradene etter sikkerhetsloven § 5-3.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 27",
+      "heading": "Kryptering",
+      "path": [
+        "Kapittel 4. Håndtering og beskyttelse av skjermingsverdig informasjon"
+      ],
+      "text": "En virksomhet skal kryptere sikkerhetsgradert informasjon som sendes elektronisk ut av et fysisk område som virksomheten kontrollerer.\nSikkerhetsgradert informasjon som er lagret hos virksomheten, skal krypteres dersom informasjonen ikke er sikret med andre sikkerhetstiltak som gir det samme sikkerhetsnivået som kryptering.\nKryptomateriellet som brukes til å kryptere informasjonen, skal sikres på det samme sikkerhetsnivået som informasjonen det beskytter.\nMateriellet skal forvaltes i samsvar med kravene til implementering, bruk, drift og forvaltning som Nasjonal sikkerhetsmyndighet etter sikkerhetsloven § 5-6 har fastsatt som en del av godkjenningen. Nasjonal sikkerhetsmyndighet bestemmer hvilket materiell som kan brukes til å kryptere informasjon gradert KONFIDENSIELT eller høyere.\nForsvarsdepartementet kan gi forskrift om krav til kryptering og beskyttelse av kryptomateriell.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 28",
+      "heading": "Merking av dokumenter og lagringsmedier som inneholder sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "Dokumenter og lagringsmedier skal merkes med den høyeste sikkerhetsgraden som gjelder for informasjon i dokumentet eller lagringsmediet, og med hvor lenge graderingen varer. Merkingen skal være lett synlig og lett kunne gjøres kjent for alle i og utenfor virksomheten som skal håndtere informasjonen.\nDersom ikke all informasjon i et dokument eller et lagringsmedium har den samme sikkerhetsgraderingen, skal merkingen, så langt det er praktisk mulig, vise hvilke deler som har hvilken gradering eller ingen gradering.\nDokumenter og lagringsmedier med informasjon som utleveres til en annen stat eller internasjonal organisasjon etter § 25, skal merkes med hvilken stat eller organisasjon utleveringen gjelder.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 29",
+      "heading": "Sikkerhetsgradering ut over 30 år",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "Hvis det er behov for å beskytte informasjon som er over 30 år, skal avgradering vurderes 40 år etter utstedelsen og deretter hvert tiende år.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 30",
+      "heading": "Omgradering av sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "Virksomheten skal vurdere å omgradere sikkerhetsgradert informasjon dersomden mottar et varsel om feil gradering etter § 32den mottar en henvendelse om innsyn som nevnt i § 33den avleverer dokumenter til Arkivverketdet ellers oppstår grunn til å tro at beskyttelsesbehovet for informasjonen har endret seg.\nEn omgradering kan gå ut på å fastsette en annen sikkerhetsgrad etter sikkerhetsloven § 5-3 første ledd eller å avgradere informasjonen.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 31",
+      "heading": "Hvem som kan omgradere",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "Informasjon med norsk sikkerhetsgradering kan omgraderes av virksomheten som har utstedt informasjonen, en overordnet virksomhet, det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, og av Nasjonal sikkerhetsmyndighet. Informasjon med utenlandsk sikkerhetsgradering kan bare omgraderes av eller etter samtykke fra den staten eller organisasjonen som har utstedt informasjonen.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 32",
+      "heading": "Plikt til å informere om behov for eller avgjørelse om omgradering",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "Dersom en virksomhet som er omfattet av sikkerhetsloven, mottar informasjon og antar at en sikkerhetsgradering eller mangelen på en slik gradering er i strid med sikkerhetsloven § 5-3, skal utstederen informeres. Det samme gjelder dersom en autorisert person i en slik virksomhet mottar informasjon. Dersom det er uklart hvem som har utstedt informasjonen, eller utstederen ikke kan kontaktes, skal avsenderen av informasjonen informeres i stedet.\nEn virksomhet som omgraderer informasjon, skal informere alle som har mottatt informasjonen.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 33",
+      "heading": "Prosedyrer ved henvendelse om innsyn",
+      "path": [
+        "Kapittel 5. Sikkerhetsgradering og merking"
+      ],
+      "text": "En utsteder av sikkerhetsgradert informasjon som mottar et krav om innsyn i informasjon etter offentleglova eller miljøinformasjonsloven, eller om partsinnsyn etter forvaltningsloven, skal uten ugrunnet opphold vurdere om den samlede informasjonen eller deler av den skal omgraderes etter § 30.\nEn virksomhet som får en henvendelse om innsyn i sikkerhetsgradert informasjon den ikke har utstedt selv, skal uten ugrunnet opphold be utstederen å vurdere omgradering. Utstederen skal uten ugrunnet opphold vurdere spørsmålet og gi tilbakemelding. Kan ikke utstederen kontaktes, skal spørsmålet om omgradering legges fram for det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren, eller for Nasjonal sikkerhetsmyndighet.\nDersom informasjon som er omfattet av retten til partsinnsyn etter forvaltningsloven, er gradert BEGRENSET, kan en autorisasjonsansvarlig autorisere en fysisk person som er part i saken, slik at det kan gis partsinnsyn.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 34",
+      "heading": "Forsvarlig sikkerhetsnivå for informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Når en virksomhet håndterer en risiko knyttet til sikkerhetsgradert informasjon etter § 13, er kravet til et forsvarlig sikkerhetsnivå oppfylt dersomuautoriserte personer ikke kan få tilgang til informasjon gradert KONFIDENSIELT eller høyere, uten at virksomheten oppdager detuautoriserte personer ikke kan få tilgang til informasjon gradert HEMMELIG eller høyere, uten at virksomheten oppdager det og kan begrense skadefølgenerisikoen for at uautoriserte personer får tilgang til informasjon gradert STRENGT HEMMELIG reduseres til et ubetydelig nivå.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 35",
+      "heading": "Sending av informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Når informasjon som er gradert KONFIDENSIELT eller høyere, skal sendes fysisk, skal det brukes en kurér. Dersom informasjonen er gradert HEMMELIG eller STRENGT HEMMELIG, skal i tillegg mottakeren kvittere for at sendingen er mottatt.\nDersom informasjon med ulik sikkerhetsgradering sendes sammen, skal det ligge ved en liste med oversikt over informasjonen og sikkerhetsgradene.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 36",
+      "heading": "Pakking av informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Når informasjon som er gradert KONFIDENSIELT eller høyere, skal sendes fysisk, skal emballasjen være dobbel, ugjennomsiktig og av solid kvalitet. Emballasjen skal ikke kunne åpnes uten at det er sporbart. Den ytre emballasjen skal ikke vise at sendingen inneholder sikkerhetsgradert informasjon. Den indre emballasjen skal forsegles og merkes med sikkerhetsgrad.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 37",
+      "heading": "Krav til oversikt over informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "En virksomhet skal ha en oversikt over hvor dens egne dokumenter og lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, til enhver tid befinner seg. I tillegg skal virksomheten ha en oversikt over hvilke dokumenter og lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, som er mottatt fra eller sendt til andre virksomheter.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 38",
+      "heading": "Soneinndeling for informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Virksomheter som har informasjon som er gradert KONFIDENSIELT eller høyere, skal etablere en kontrollert og beskyttet sone for å beskytte den sikkerhetsgraderte informasjonen.\nDersom virksomheten har et område med direkte tilgang til informasjon gradert KONFIDENSIELT eller høyere, skal det etableres en sperret sone rundt området.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 39",
+      "heading": "Kontrollert sone",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "En kontrollert sone skal være et tydelig avgrenset område der virksomheten skal kunne ha kontroll med personer, kjøretøy og annen aktivitet.\nVed særlig høy risiko skal adgang og ferdsel kontrolleres med en fysisk avgrensning.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 40",
+      "heading": "Beskyttet sone",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "En beskyttet sone skal ha en fysisk avgrensing der sikkerhetstruende virksomhet skal kunne oppdages.\nI en beskyttet sone skal dokumenter og lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, lagres i en oppbevaringsenhet godkjent av Nasjonal sikkerhetsmyndighet, eller være under stedlig vakthold.\nPersoner som skal gis permanent adgang til en beskyttet sone, skal være sikkerhetsklarert for KONFIDENSIELT. Dersom andre personer skal gis adgang, skal adgangen registreres, og personene skal følges av personer med permanent adgang.\nDet skal være kontroll med adgangen til en beskyttet sone, og det skal være synlig hvem som har permanent adgang dit.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 41",
+      "heading": "Sperret sone",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "En sperret sone skal være tydelig merket med det høyeste tillatte graderingsnivået og sikres i samsvar med dette graderingsnivået.\nPersoner som skal gis permanent adgang til en sperret sone, skal være sikkerhetsklarert og autorisert for informasjonen i området. Dersom andre personer skal gis adgang, skal adgangen registreres, og personene følges av personell som har permanent adgang.\nDet skal være kontroll med adgangen til en sperret sone, og det skal være synlig hvem som har permanent adgang til sonen.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 42",
+      "heading": "Behandling av informasjon gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Dokumenter eller lagringsmedier med informasjon som er gradert KONFIDENSIELT eller høyere, skal bare oppbevares og behandles i en beskyttet eller sperret sone.\nSlike dokumenter eller lagringsmedier kan likevel oppbevares og behandles utenfor en beskyttet eller sperret sone når dette er godkjent av virksomheten på bakgrunn av en vurdering av risiko. Virksomheten skal holde oversikt over slike godkjenninger.\nDersom sikkerhetsgradert informasjon behandles eller oppbevares utenfor en beskyttet eller sperret sone, skal virksomheten gjennomføre nødvendige tiltak for å beskytte informasjonen, slik at den ikke blir kjent for uautoriserte personer, går tapt, blir endret eller blir gjort utilgjengelig.\nDokumenter eller lagringsmedier med informasjon gradert KONFIDENSIELT kan tas med til et NATO-land eller en stat Norge har en sikkerhetsavtale med, dersom en person som er klarert for innholdet, tar vare på informasjonen gjennom hele reisen, og det er mulig å deponere informasjonen ved en norsk utenriksstasjon eller et annet norskkontrollert område ved ankomst. Informasjon gradert HEMMELIG eller STRENGT HEMMELIG må sendes med en kurér, jf. § 45.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 43",
+      "heading": "Særlige krav for informasjon gradert HEMMELIG eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Når dokumenter eller lagringsmedier gradert HEMMELIG eller høyere skal fordeles internt i en virksomhet, skal mottakeren bekrefte mottaket.\nDestruering av informasjon gradert HEMMELIG eller høyere skal kontrolleres og bekreftes av minst to autoriserte personer.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 44",
+      "heading": "Rapportering av informasjon gradert STRENGT HEMMELIG",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Virksomheter som har dokumenter eller lagringsmedier med informasjon gradert STRENGT HEMMELIG, skal hvert år kontrollere at dokumentene og lagringsmediene befinner seg i virksomheten. Kontrollen skal foretas på grunnlag av oversikten per 31. desember. Virksomheten skal innen utgangen av januar hvert år sende en oversikt over slike dokumenter og lagringsmedier til det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet innenfor sektoren. Departementet skal innen utløpet av februar hvert år sende Nasjonal sikkerhetsmyndighet en samlet oversikt over dokumenter og lagringsmedier med informasjon gradert STRENGT HEMMELIG innenfor sin sektor. Oversiktene skal graderes HEMMELIG.\nForsvarsdepartementet kan dispensere fra kravet i første ledd tredje punktum.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-12",
+      "provision_ref": "§ 45",
+      "heading": "Krav til forsendelse med kurér",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Virksomheter som utfører kurérposttjeneste, skal sikre at informasjonen ikke blir kjent for uautoriserte personer. Avsenderen skal utstede et kurérsertifikat for hvert oppdrag og legge en plan for gjennomføringen av oppdraget. Kureren skal være sikkerhetsklarert for sikkerhetsgraden på den informasjonen som fraktes.\nMed mindre Nasjonal sikkerhetsmyndighet gir tillatelse til noe annet, skal kurérpost til utlandet sendes som diplomatisk post, eller med en kurér fra Forsvaret eller utenrikstjenesten.",
+      "xml_path": "article#kapittel-6-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-13",
+      "provision_ref": "§ 46",
+      "heading": "Beskyttelse av rom og lokaler for tale som oppfyller vilkårene for å bli gradert KONFIDENSIELT eller høyere",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Tale som inneholder informasjon som oppfyller vilkårene for å være gradert KONFIDENSIELT eller høyere dersom den nedtegnes eller tas opp, skal skje i sikrede rom og lokaler, slik at informasjonen ikke blir kjent for uautoriserte personer.\nEn virksomhet skal føre oversikt over hvilke personer som har selvstendig tilgang til et rom eller lokale som nevnt i første ledd, og det skal føres en oversikt over hvem som har besøkt rommet eller lokalet. Det skal være tydelig merket i rommet eller lokalet hvilket graderingsnivå informasjonen som framkommer der, kan oppfylle vilkårene for.\nEn virksomhet skal be Nasjonal sikkerhetsmyndighet vurdere om det skal gjennomføres en teknisk sikkerhetsundersøkelse før et rom eller lokale som nevnt i første ledd tas i bruk. Dersom det gjennomføres en slik undersøkelse, skal virksomheten legge Nasjonal sikkerhetsmyndighets rapport fra undersøkelsen til grunn når den sikrer rommet eller lokalet. Virksomheten skal også be Nasjonal sikkerhetsmyndighet om teknisk sikkerhetsundersøkelse dersom det skjer vesentlige endringer i et rom eller lokale som nevnt i første ledd, ved mistanke om at informasjon som nevnt i første ledd er blitt kjent for uautoriserte, og ved mistanke om at uvedkommende har hatt adgang til rommet eller lokalet.",
+      "xml_path": "article#kapittel-6-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-14",
+      "provision_ref": "§ 47",
+      "heading": "Tekniske sikkerhetsundersøkelser (TSU)",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "I vurderingen av om tekniske sikkerhetsundersøkelser etter sikkerhetsloven § 5-5 skal gjennomføres, skal det legges vekt påom den aktuelle virksomheten kontrollerer områdene som grenser til lokalet, bygningen eller objektetom lokalet, bygningen eller objektet befinner seg i utlandethvilket graderingsnivå informasjonen i tale som skal forekomme i lokalet, bygningen eller objektet, oppfyller vilkårene forom det er en risiko for at uvedkommende har hatt tilgang til lokalet, bygningen eller objektet siden forrige tekniske sikkerhetsundersøkelse der.\nDet skal inngås en avtale med virksomheten om hvilket personell som skal stå for undersøkelsen, og hva undersøkelsen skal omfatte.\nNasjonal sikkerhetsmyndighet skal forhåndsvarsle Politiets sikkerhetstjeneste om at tekniske sikkerhetsundersøkelser skal gjennomføres. Varslingsplikten gjelder ikke ved gjennomføring av tekniske sikkerhetsundersøkelser i Forsvaret.\nNasjonal sikkerhetsmyndighet skal rapportere resultatene av tekniske sikkerhetsundersøkelser til virksomheten som råder over lokalet, bygningen eller objektet, og myndigheten som etter loven fører tilsyn med virksomheten. Rapporten skal kun i nødvendig grad inneholde informasjon som identifiserer enkeltpersoner som har begått sikkerhetsbrudd.\nInformasjonen fra den tekniske sikkerhetsundersøkelsen skal slettes senest innen tre måneder etter at oppdraget er avsluttet. Informasjonen kan likevel bevares lengre enn tre måneder, dersom dette er nødvendig for å håndtere sårbarheter eller sikkerhetstruende virksomhet. Det samme gjelder dersom det er nødvendig av hensyn til kontrollvirksomheten til Stortingets kontrollorgan for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget).",
+      "xml_path": "article#kapittel-6-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-15",
+      "provision_ref": "§ 48",
+      "heading": "Bruk av tredjepart til å utføre tekniske sikkerhetsundersøkelser",
+      "path": [
+        "Kapittel 6. Beskyttelse av informasjon gradert KONFIDENSIELT eller høyere"
+      ],
+      "text": "Nasjonal sikkerhetsmyndighet kan la andre virksomheter utføre tekniske sikkerhetsundersøkelser. Virksomhetene skal være leverandørklarert og ha personell med nødvendig klarering og kompetanse til å utføre slike undersøkelser. Nasjonal sikkerhetsmyndighet skal inngå en avtale med den aktuelle virksomheten om hvordan de tekniske sikkerhetsundersøkelsene skal gjennomføres.",
+      "xml_path": "article#kapittel-6-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 49",
+      "heading": "Forsvarlig sikkerhetsnivå for skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Når en virksomhet håndterer en risiko knyttet til skjermingsverdige informasjonssystemer etter § 13, skal den oppnå et forsvarlig sikkerhetsnivå ved åbeskytte data mot uønsket lesing og beskytte tjenester mot uønsket brukbeskytte data mot uønsket modifikasjon og beskytte tjenester mot uønsket modifikasjon og manipulasjonbeskytte data mot uønsket sletting og beskytte tjenester mot uønsket reduksjon eller stansidentifisere og autentisere brukere som kan påvirke informasjonssystemets funksjon, eller som kan få tilgang til data i systemet, før de gis tilgang til data og tjenesterforhindre at falske data og tjenester introduseres i informasjonssystemetregistrere bruk, misbruk og forsøk på misbruk av informasjonssystemet, tjenester og datasystematisk kontrollere at sikkerhetstiltakene er korrekt implementert og ivaretar sikkerheten på en effektiv og hensiktsmessig måte.\nSikkerhetstiltakene skal være tilpasset systemets totale omfang og kompleksitet gjennom hele systemets levetid.\nSikkerhetstiltak som skal virke hurtig, eller som lett kan utløse feil når de utføres manuelt, skal automatiseres så langt det er praktisk mulig.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 50",
+      "heading": "Plikt til å sørge for godkjenning av skjermingsverdige informasjonssystemer",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Når en virksomhet har besluttet å utvikle et skjermingsverdig informasjonssystem, skal den informere Nasjonal sikkerhetsmyndighet. Informasjonsplikten gjelder ikke dersom det ut fra § 51 er åpenbart at Nasjonal sikkerhetsmyndighet ikke trenger å godkjenne systemet.\nEn virksomhet skal sørge for at informasjonssystemer som skal behandle sikkerhetsgradert informasjon, er godkjent før de tas i bruk. Andre skjermingsverdige informasjonssystemer skal godkjennes så snart det er praktisk mulig. Virksomheten skal dekke kostnadene med godkjenningen.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 51",
+      "heading": "Godkjenningsmyndighet",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Nasjonal sikkerhetsmyndighet godkjenner skjermingsverdige informasjonssystemer som er utpekt som, eller har avgjørende betydning for funksjonen til, et objekt eller en infrastruktur klassifisert KRITISK eller MEGET KRITISK.\nNasjonal sikkerhetsmyndighet godkjenner informasjonssystemer som behandler sikkerhetsgradert informasjon og somskal brukes i utlandethar forbindelse til informasjonssystemer i utlandet eller til andre virksomheters informasjonssystemerbrukes eller har forbindelser utenfor områder virksomheten kontrollererhar brukere som ikke er sikkerhetsklarert for det graderingsnivået som behandles i informasjonssystemet eller informasjonssystemer dette har forbindelse tilbehandler informasjon som er gradert HEMMELIG, og som har brukere som ikke skal ha tilgang til all informasjon i informasjonssystemet eller de informasjonssystemer dette har forbindelse tilbehandler informasjon som er gradert STRENGT HEMMELIG.\nEn virksomhet som råder over et skjermingsverdig informasjonssystem som ikke er nevnt i første eller andre ledd, skal selv godkjenne systemet. Nasjonal sikkerhetsmyndighet og relevante tilsynsmyndigheter skal informeres om slike informasjonssystemer.\nNasjonal sikkerhetsmyndighet kan bestemme at en myndighet med tilsynsansvar eller virksomheten selv skal godkjenne et informasjonssystem som nevnt i andre ledd.\nDepartementet som har utpekt det skjermingsverdige objektet eller infrastrukturen, kan bestemme at godkjenning av skjermingsverdige informasjonssystemer etter første ledd skal gjøres av en myndighet med tilsynsansvar. Det skal gjøres en helhetsvurdering av om myndigheten har tilstrekkelig kompetanse til å godkjenne skjermingsverdige informasjonssystemer, eller kan få slik kompetanse uten uforholdsmessig store utgifter. En uttalelse fra Nasjonal sikkerhetsmyndighet skal inngå i vurderingen.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 52",
+      "heading": "Godkjenningen av et skjermingsverdig informasjonssystem",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Godkjenningen av et skjermingsverdig informasjonssystem er en planlagt og systematisk gjennomgang av om virksomheten har oppnådd et forsvarlig sikkerhetsnivå. Virksomheten skal dokumentere at den på en tilfredsstillende måte har vurdert og håndtert risikoen, og den skal i forbindelse med dette haidentifisert behovet for beskyttelse, basert på informasjonssystemets funksjon og operative miljøfastsatt sikkerhetskrav ut fra behovet for beskyttelseetablert sikkerhetstiltak som oppfyller sikkerhetskravene gjennom hele informasjonssystemets levetidkontrollert at sikkerhetstiltakene fungerer etter sin hensikt.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 53",
+      "heading": "Godkjenningens varighet",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "En godkjenning av et skjermingsverdig informasjonssystem kan gis for inntil fem år. Hvis det oppstår en vesentlig endring som har betydning for beskyttelsen av informasjonssystemet og informasjonen, skal informasjonssystemet godkjennes på nytt.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 54",
+      "heading": "Midlertidig brukstillatelse",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Foreligger det et særlig behov for å ta i bruk et skjermingsverdig informasjonssystem før det er godkjent, kan godkjenningsmyndigheten gi midlertidig brukstillatelse dersombehovet for beskyttelse er identifisert, basert på informasjonssystemets funksjon og operative miljømangler som er forbundet med fastlegging av sikkerhetskrav, etablering av sikkerhetstiltak og sikkerhetstiltakenes funksjon, er identifisert og håndtert med kompenserende tiltakdet foreligger en plan for å rette manglene.\nNasjonal sikkerhetsmyndighet kan i særlige tilfeller dispensere fra kravene i første ledd.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 55",
+      "heading": "Sammenkobling av informasjonssystemer som behandler sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 7. Beskyttelse av skjermingsverdige informasjonssystemer"
+      ],
+      "text": "Dersom en sammenkobling av flere informasjonssystemer som behandler informasjon gradert KONFIDENSIELT eller høyere, medfører at systemene sikkerhetsmessig blir avhengige av hverandre på en uoversiktlig måte, skal sammenkoblingen skje via et eget informasjonssystem.\nSlike sammenkoblinger skal reguleres i avtaler mellom de aktuelle virksomhetene. Avtalene skal avklare roller og ansvaret for sammenkoblingen og hvilken informasjon og hvilke tjenester som skal utveksles.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 56",
+      "heading": "Klassifisering av skjermingsverdige objekter og infrastruktur",
+      "path": [
+        "Kapittel 8. Klassifisering av skjermingsverdige objekter og infrastruktur"
+      ],
+      "text": "Når departementene eller Nasjonal sikkerhetsmyndighet klassifiserer skjermingsverdige objekter og infrastruktur etter sikkerhetsloven § 7-2, skal det legges vekt påi hvilken grad grunnleggende nasjonale funksjoner er avhengig av objektet eller infrastrukturenvirksomhetens skadevurdering.\nDersom forholdene som er lagt til grunn for klassifiseringen, endrer seg, skal departementet vurdere om det skal fattes et nytt vedtak om klassifisering.\nKlassifiseringsnivået og grunnlaget for klassifiseringen skal graderes BEGRENSET eller høyere. En oversikt over samtlige eller et større antall klassifiserte objekter eller infrastrukturer skal graderes KONFIDENSIELT eller høyere.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 57",
+      "heading": "Skadevurdering i forbindelse med utpeking og klassifisering av skjermingsverdige objekter eller infrastruktur",
+      "path": [
+        "Kapittel 8. Klassifisering av skjermingsverdige objekter og infrastruktur"
+      ],
+      "text": "En virksomhet skal vurdere hvilke skadefølger det kan få for grunnleggende nasjonale funksjoner om et objekt eller en infrastruktur som den råder over, blir utsatt for skadeverk, ødeleggelse eller en rettsstridig overtakelse. I vurderingen skal virksomheten legge vekt påhvilke konsekvenser det vil få for grunnleggende nasjonale funksjoner dersom objektets eller infrastrukturens funksjonalitet faller bort eller redusereshvor lenge objektets eller infrastrukturens funksjonalitet kan være satt ut av drift før det får betydning for grunnleggende nasjonale funksjoneri hvilken grad objektets eller infrastrukturens funksjonalitet kan gjenopprettes eller erstattesi hvilken grad en rettsstridig overtakelse av objektet eller infrastrukturen kan påvirke befolkningens grunnleggende sikkerhet.\nSkadevurderingen skal sendes til det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet i sektoren, eller til Nasjonal sikkerhetsmyndighet. Den skal graderes BEGRENSET eller høyere.\nVirksomheten skal gjøre en ny vurdering dersom forhold som er relevante for vurderingen etter første ledd, endrer seg.\nDersom virksomheten råder over andre skjermingsverdige objekter eller infrastruktur som kan være skjermingsverdige etter sikkerhetsloven § 7-1, skal den varsle det departementet som er ansvarlig for det forebyggende sikkerhetsarbeidet i sektoren, eller Nasjonal sikkerhetsmyndighet.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 58",
+      "heading": "Forsvarlig sikkerhetsnivå for klassifiserte objekter og infrastruktur",
+      "path": [
+        "Kapittel 9. Beskyttelse av skjermingsverdige objekter og infrastruktur"
+      ],
+      "text": "Når en virksomhet håndterer en risiko knyttet til skjermingsverdige objekter eller infrastruktur etter § 13, er kravet til et forsvarlig sikkerhetsnivå oppnådd dersom virksomheten kan dokumentere at det er foretatt en konkret vurdering av risikoen, og at det er iverksatt nødvendige tiltak for å håndtere den. I vurderingen av om det er iverksatt nødvendige tiltak skal det legges vekt på om sikkerhetstiltakene er egnet til åbegrense tap av vesentlige funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert VIKTIGbegrense tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert KRITISKavverge tap av funksjoner ved skadeverk på eller forsøk på å ødelegge objekter eller infrastruktur klassifisert MEGET KRITISKavverge en rettsstridig overtakelse av objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISK.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 59",
+      "heading": "Tilrettelegging for bruk av sikringsstyrker",
+      "path": [
+        "Kapittel 9. Beskyttelse av skjermingsverdige objekter og infrastruktur"
+      ],
+      "text": "Dersom politiet eller Forsvaret har bestemt at det skal planlegges for bruk av sikringsstyrker ved et objekt eller en infrastruktur, skal virksomheten som råder over objektet eller infrastrukturen, tilrettelegge og utarbeide en plan for bruk av sikringsstyrkene i samarbeid med politiet eller Forsvaret.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 60",
+      "heading": "Behovet for bruk av adgangsklarering",
+      "path": [
+        "Kapittel 9. Beskyttelse av skjermingsverdige objekter og infrastruktur"
+      ],
+      "text": "En søknad om adgangsklarering etter sikkerhetsloven § 8-3 må redegjøre for hvorfor virksomheten finner at andre sikkerhetstiltak ikke er egnet eller tilstrekkelige for å oppnå et forsvarlig sikkerhetsnivå. En adgangsklarering vil være gyldig for alle type objekter eller infrastruktur med krav om samme type adgangsklarering.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 61",
+      "heading": "Fellesregler for inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer",
+      "path": [
+        "Kapittel 10. Inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer"
+      ],
+      "text": "Det skal inngås avtale med den aktuelle virksomheten om hvilket personell som, i samsvar med sikkerhetsloven § 6-5, § 6-6 og § 7-4, skalforsøke å trenge inn i virksomhetens skjermingsverdige informasjonssystemerkontrollere om virksomhetens informasjonssystemer behandler sikkerhetsgradert informasjon utover det systemets sikkerhetsgodkjenning tillaterforsøke å forsere etablerte sikkerhetstiltak.Avtalen skal også regulere hva denne testingen eller kontrollen skal omfatte.\nDen som gjennomfører tester, kontroller og undersøkelser etter første ledd, skal rapportere resultatene til virksomheten og myndigheten som fører tilsyn etter loven. Rapporten skal kun i nødvendig grad inneholde informasjon som identifiserer enkeltpersoner som har begått sikkerhetsbrudd.\nInformasjonen fra slike undersøkelser, testing og kontroller skal slettes senest innen tre måneder etter at oppdraget er avsluttet. Informasjonen kan likevel bevares lengre enn tre måneder når dette er nødvendig for å håndtere sårbarheter eller sikkerhetstruende virksomhet. Det samme gjelder dersom det er nødvendig av hensyn til kontrollvirksomheten til Stortingets kontrollorgan for etterretnings-, overvåkings- og sikkerhetstjeneste (EOS-utvalget).",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 62",
+      "heading": "Bruk av tredjeparter til å utføre inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer",
+      "path": [
+        "Kapittel 10. Inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer"
+      ],
+      "text": "Nasjonal sikkerhetsmyndighet kan la andre virksomheter utføre inntrengningstesting, testing av sikkerhetstiltak og kommunikasjons- og innholdskontroll av informasjonssystemer etter § 61. Virksomhetene skal være leverandørklarert og ha personell med nødvendig klarering og kompetanse til å utføre slike undersøkelser.\nNasjonal sikkerhetsmyndighet skal inngå avtale med virksomheter som nevnt i første ledd om hvordan testene og kontrollene skal gjennomføres.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 63",
+      "heading": "Drift av en nasjonal responsfunksjon for alvorlige digitale angrep og nasjonalt varslingssystem for digital infrastruktur",
+      "path": [
+        "Kapittel 11. Nasjonalt varslingssystem for digital infrastruktur"
+      ],
+      "text": "Nasjonal sikkerhetsmyndighet skal drifte en nasjonal responsfunksjon for alvorlige digitale angrep og et nasjonalt varslingssystem for digital infrastruktur. I forbindelse med dette skal informasjon om digitale angrep innhentes, analyseres og deles.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 64",
+      "heading": "Tilknytning til varslingssystemet for digital infrastruktur",
+      "path": [
+        "Kapittel 11. Nasjonalt varslingssystem for digital infrastruktur"
+      ],
+      "text": "Virksomheter kan søke Nasjonal sikkerhetsmyndighet om å bli tilknyttet det nasjonale varslingssystemet for digital infrastruktur. Det skal inngås en avtale mellom Nasjonal sikkerhetsmyndighet og en virksomhet som blir tilknyttet systemet. Avtalen skal alltid regulereutplassering av sensorer eller andre tekniske løsninger som skal overvåke virksomhetens digitale infrastrukturhvordan alvorlige digitale angrep skal håndtereshvordan personopplysninger og opplysninger underlagt lovbestemt taushetsplikt skal behandles.\nNasjonal sikkerhetsmyndighet kan pålegge virksomheter som er underlagt sikkerhetsloven, å knytte seg til det nasjonale varslingssystemet når dette er nødvendig for å oppnå et forsvarlig sikkerhetsnivå og redusere risikoen for sikkerhetstruende virksomhet. Pålegget skal regulere forholdene nevnt i første ledd tredje punktum.\nEt pålegg etter andre ledd kan påklages til Forsvarsdepartementet dersom virksomheten er tilknyttet forsvarssektoren, og til Justis- og beredskapsdepartement dersom organet er tilknyttet sivil sektor.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 65",
+      "heading": "Informasjonsbehandling og -deling av informasjon fra varslingssystemet for digital infrastruktur",
+      "path": [
+        "Kapittel 11. Nasjonalt varslingssystem for digital infrastruktur"
+      ],
+      "text": "Når det er innenfor sikkerhetslovens formål, kan Nasjonal sikkerhetsmyndighet dele informasjon innhentet fra varslingssystemet for digital infrastruktur eller gjennom den nasjonale responsfunksjonen, med partene i Felles cyberkoordineringssenter.\nI den utstrekning det er nødvendig for å håndtere en konkret hendelse, kan Nasjonal sikkerhetsmyndighet også dele slik informasjon med andre aktører.\nVed fare for alvorlige hendelser skal Nasjonal sikkerhetsmyndighet informere berørte nasjonale og internasjonale aktører om trusler, sårbarheter og mulige tiltak.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 66",
+      "heading": "Virksomhetenes rett til innsyn",
+      "path": [
+        "Kapittel 11. Nasjonalt varslingssystem for digital infrastruktur"
+      ],
+      "text": "Virksomheter som er tilknyttet det digitale varslingssystemet, har rett til innsyn i hvordan tekniske komponenter og programvare som benyttes til å overvåke nettverkstrafikk og redusere sårbarhet, er konfigurert. Disse virksomhetene har også rett til innsyn i hvilke data Nasjonal sikkerhetsmyndighet mottar fra virksomheten gjennom det digitale varslingssystemet, og hvordan disse behandles.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 67",
+      "heading": "Vilkår for å gi autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Den som skal autoriseres, skal signere en taushetserklæring før det gis autorisasjon. Før det gis autorisasjon for COSMIC TOP SECRET, skal også NATOs COSMIC-erklæring undertegnes. Dersom personen har en klarering på vilkår etter sikkerhetsloven § 8-6, skal den autorisasjonsansvarlige, før det gis autorisasjon, fastsette hvordan vilkårene skal følges opp.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 68",
+      "heading": "Autorisasjonssamtale",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "En autorisasjonssamtale skal gjennomføres:før det gis autorisasjonnår en autorisert person selv ber om detved reklareringnår en autorisasjonsansvarlig ellers finner grunn til det.Personer som får autorisasjon for STRENGT HEMMELIG, COSMIC TOP SECRET eller tilsvarende, skal gjennomføre en ny autorisasjonssamtale minst annethvert år.\nDen autorisasjonsansvarlige skal gjennom autorisasjonssamtalenforsikre seg om at den som skal autoriseres, kjenner til relevante sikkerhetstrusler og sikkerhetsbestemmelser og forstår sin rolle i sikkerhetsarbeidet til virksomhetenkontrollere at opplysningene den som skal autoriseres, gir, er tilstrekkelige og oppdatertedrøfte eventuelle risikofaktorer ved personen som er relevante for personellsikkerhetendrøfte tiltak som kan redusere risikofaktorer ved personen, eller som kan oppfylle vilkår som klareringsmyndigheten har gitt for klareringen.\nDersom personen har vært autorisert før, skal den som autoriserer, hente inn opplysninger av betydning fra forrige autorisasjonsavgjørelse. Taushetsplikt er ikke til hinder for utlevering av opplysningene.\nPersoner som skal autoriseres for BEGRENSET, eller med kortvarig behov for autorisasjon for KONFIDENSIELT eller høyere, kan få en felles orientering om sikkerhetsmessige risikofaktorer og relevante krav til sikkerhet, i stedet for en individuell autorisasjonssamtale. De skal likevel orienteres om sin rett til å kreve en individuell autorisasjonssamtale.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-3",
+      "provision_ref": "§ 69",
+      "heading": "Autorisasjon av autorisasjonsansvarlig og personell hos leverandøren",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Oppdragsgiveren skal autorisere den autorisasjonsansvarlige hos leverandøren og personell hos leverandøren som bare får tilgang til skjermingsverdig informasjon, skjermingsverdige objekter eller skjermingsverdig infrastruktur hos oppdragsgiveren.",
+      "xml_path": "article#kapittel-12-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-4",
+      "provision_ref": "§ 70",
+      "heading": "Autorisasjon av utenlandske statsborgere",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Før en utenlandsk statsborger som ikke har klarering, kan autoriseres for informasjon gradert BEGRENSET, skal den autorisasjonsansvarlige vurdere om personens tilknytning til hjemlandet og hjemlandets sikkerhetsmessige betydning utgjør en uakseptabel risiko. Den autorisasjonsansvarlige kan be klareringsmyndigheten om en vurdering av hjemlandets sikkerhetsmessige betydning.\nDersom en utenlandsk statsborger kommer fra en stat som Politiets sikkerhetstjeneste mener utgjør en høy sikkerhetsrisiko for Norge, må den autorisasjonsansvarlige innhente samtykke fra en klareringsmyndighet før den utenlandske statsborgeren kan autoriseres for BEGRENSET.\nUtenlandske statsborgere kan bare autoriseres for tilgang til informasjon sikkerhetsgradert av en fremmed stat dersom personen er borger av denne staten, eller dersom Nasjonal sikkerhetsmyndighet har innhentet tillatelse fra statens myndigheter.\nUtenlandske statsborgere kan bare autoriseres for tilgang til informasjon sikkerhetsgradert av en internasjonal organisasjon dersom staten personen er borger av, er medlem av organisasjonen, eller dersom Nasjonal sikkerhetsmyndighet har innhentet tillatelse fra organisasjonen.\nDen autorisasjonsansvarlige skal orientere Nasjonal sikkerhetsmyndighet om utenlandske statsborgere som autoriseres for BEGRENSET.\nBestemmelsene i denne paragrafen gjelder også for personer som har dobbelt statsborgerskap, er statsløse eller har uavklart statsborgerskap.",
+      "xml_path": "article#kapittel-12-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-5",
+      "provision_ref": "§ 71",
+      "heading": "Tilgang uten autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "En person kan gis tilgang til skjermingsverdig informasjon, skjermingsverdige objekter eller skjermingsverdig infrastruktur uten å være autorisert eller klarert, dersom vilkårene i straffeloven § 17 om nødrett er oppfylt. En virksomhet som gir en slik tilgang, skal uten ugrunnet opphold varsle klareringsmyndigheten og Nasjonal sikkerhetsmyndighet om hvilke personer dette gjelder, og hvilket graderings- eller klassifikasjonsnivå personen har fått tilgang til.",
+      "xml_path": "article#kapittel-12-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-6",
+      "provision_ref": "§ 72",
+      "heading": "Oversikt over personell med autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Den autorisasjonsansvarlige skal ha en oversikt over autorisert personell. Oversikten skal opplyse omden enkeltes navn, fødselsnummer eller tilsvarende nummer, statsborgerskap, tjenestested, saksfelt og stillingklareringsnivå og autorisasjonsnivåklareringens gyldighetstideventuelle vilkår knyttet til klareringendatoen for en eventuell autorisasjonssamtaleeventuell tilgang uten autorisasjon etter § 71.\nDen autorisasjonsansvarlige skal gjøre klarerings- og autorisasjonsavgjørelser kjent for personell som har et tjenstlig behov for det.",
+      "xml_path": "article#kapittel-12-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-7",
+      "provision_ref": "§ 73",
+      "heading": "Dokumentasjon på autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Hvis den autorisasjonsansvarlige utsteder dokumentasjon for at en person er autorisert, skal dokumentasjonen være tidsbegrenset og vise hvilket graderingsnivå for informasjon eller klassifiseringsnivå for objekter eller infrastruktur personen er autorisert for å få tilgang til.",
+      "xml_path": "article#kapittel-12-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-8",
+      "provision_ref": "§ 74",
+      "heading": "Nedsettelse, suspensjon og tilbakekallelse av autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Dersom den autorisasjonsansvarlige vurderer om en autorisasjon skal endres eller tilbakekalles etter sikkerhetsloven § 8-10, skal vurderingen og avgjørelsen dokumenteres. Avgjørelsen kan ikke påklages.\nHvis en autorisasjon endres til ulempe for den autoriserte, skal den autorisasjonsansvarlige uoppfordret gjøre den autoriserte kjent med avgjørelsen og informere klareringsmyndigheten etter sikkerhetsloven § 8-10 første ledd. Avgjørelsen skal begrunnes overfor klareringsmyndigheten.\nDersom klareringsmyndigheten opprettholder klareringen etter å ha blitt informert etter andre ledd, skal avgjørelsen om å endre autorisasjonen omgjøres.",
+      "xml_path": "article#kapittel-12-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-9",
+      "provision_ref": "§ 75",
+      "heading": "Begrunnelse og dokumentasjon ved forespørsel om klarering",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Når den autorisasjonsansvarlige ber om at det gjennomføres en sikkerhetsklarering, skal behovet for klareringen begrunnes og dokumenteres. Hvis begrunnelsen er at det foreligger en risiko for vilkårlig tilgang, skal den autorisasjonsansvarlige bekrefte at andre tiltak for å redusere risikoen ikke er tilstrekkelig til å fjerne behovet for klarering.",
+      "xml_path": "article#kapittel-12-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-10",
+      "provision_ref": "§ 76",
+      "heading": "Merking av personopplysninger for klarering og autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Informasjon som inneholder personopplysninger i saker om autorisasjon, personkontroll eller klarering, skal merkes PERSONKONTROLL. Kravet gjelder ikke meldinger om at det er gitt en autorisasjon eller klarering eller meldinger om andre autorisasjons- eller klareringsavgjørelser til personen som avgjørelsen gjelder.",
+      "xml_path": "article#kapittel-12-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-11",
+      "provision_ref": "§ 77",
+      "heading": "Beskyttelse av personopplysninger for klarering og autorisasjon",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Den autorisasjonsansvarlige skal bestemme hvem i virksomheten som kan få tilgang til opplysninger merket PERSONKONTROLL. Slike opplysninger skal lagres atskilt fra andre opplysninger i virksomheten, og de skal bare være tilgjengelige for det utpekte personellet.\nNår virksomheter utveksler opplysninger merket PERSONKONTROLL, skal det gjøres på en slik måte at uvedkommende ikke får tilgang til opplysningene.",
+      "xml_path": "article#kapittel-12-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-12",
+      "provision_ref": "§ 78",
+      "heading": "Bevaring og kassasjon av opplysninger i saker om autorisasjon og klarering",
+      "path": [
+        "Kapittel 12. Personellsikkerhet"
+      ],
+      "text": "Den autorisasjonsansvarlige skal uten ugrunnet opphold kassere eller returnere dokumenter som er innhentet for autorisasjon eller klarering av søkere som ikke blir tilsatt, engasjert eller opptatt på skoler eller kurs, og som inneholder personopplysninger.\nDen autorisasjonsansvarlige skal bevare opplysninger i autorisasjonssaker i ett år etter at autorisasjonen er utløpt. Dersom den autoriserte er klarert, skal autorisasjonsopplysningene bevares så lenge klareringen er gyldig. Bevaringsplikten opphører dersom autorisasjonsopplysningene sendes til en ny autorisasjonsmyndighet etter § 68 tredje ledd.\nDen autorisasjonsansvarlige skal bevare taushetserklæringer i 10 år etter at autorisasjonen har utløpt. Oversikter etter § 72 over personell som er eller har vært autorisert, skal bevares i 10 år etter utstedelsen.\nNår bevaringstiden etter andre og tredje ledd utløper, skal autorisasjonsansvarlig kassere dokumentene.\nDen autorisasjonsansvarlige skal føre et register over kassasjoner med opplysninger omhvem de kasserte opplysningene gjelderhvilken type opplysninger eller dokumenter som er kassertdatoene for kassasjonene.",
+      "xml_path": "article#kapittel-12-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-1",
+      "provision_ref": "§ 79",
+      "heading": "Vurdering av graderingsnivået for ulike deler av en sikkerhetsgradert anskaffelse",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Oppdragsgiveren skal ta stilling til hva tilbydere, leverandører og underleverandører kan få tilgang til av sikkerhetsgradert informasjon, skjermingsverdige objekter eller skjermingsverdig infrastruktur i de ulike fasene av en sikkerhetsgradert anskaffelse.",
+      "xml_path": "article#kapittel-13-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-2",
+      "provision_ref": "§ 80",
+      "heading": "Krav til sikkerhetsavtalen når en leverandør skal ha tilgang til sikkerhetsgradert informasjon, et skjermingsverdig objekt eller skjermingsverdig infrastruktur",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Dersom en leverandør skal ha tilgang til sikkerhetsgradert informasjon, et skjermingsverdig objekt eller skjermingsverdig infrastruktur i eller fra sine egne lokaler, skal det fremgå av sikkerhetsavtalen etter sikkerhetsloven § 9-2hvilken sikkerhets- eller klassifiseringsgrad informasjonen, objektet eller infrastrukturen harhvem som skal få tilgang til den sikkerhetsgraderte informasjonen eller det skjermingsverdige objektet eller infrastrukturenhvordan den sikkerhetsgraderte informasjonen skal formidles mellom avtalepartenehvilket informasjonssystem som skal brukes for å behandle den sikkerhetsgraderte informasjonen, eller for å få tilgang til det skjermingsverdige objektet eller infrastrukturen, og hvem som er ansvarlig for å godkjenne systemethvilke lokaler den sikkerhetsgraderte informasjonen skal behandles ihvordan det skal varsles om sikkerhetstruende virksomhet og avvik fra sikkerhetskravom den sikkerhetsgraderte informasjonen skal leveres tilbake eller destrueres når oppdraget er avsluttet.\nEn sikkerhetsavtale kan tas inn i det ordinære avtaledokumentet for anskaffelsen.",
+      "xml_path": "article#kapittel-13-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-3",
+      "provision_ref": "§ 81",
+      "heading": "Unntak fra krav om sikkerhetsavtale",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Det kreves ikke sikkerhetsavtale etter sikkerhetsloven § 9-2 dersom leverandørens personell bare skal gis tilgang til sikkerhetsgradert informasjon, skjermingsverdige objekter eller skjermingsverdig infrastruktur under oppsyn av en representant for oppdragsgiveren.",
+      "xml_path": "article#kapittel-13-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-4",
+      "provision_ref": "§ 82",
+      "heading": "Tilbakelevering av sikkerhetsgradert informasjon",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "En tilbydere som ikke tildeles kontrakten, skal levere tilbake sikkerhetsgradert informasjon uten unødig opphold.\nLeverandører skal levere tilbake sikkerhetsgradert informasjon når kontraktsforholdet opphører. En eventuell service- og garantitid inngår i kontraktsforholdet. Oppdragsgiveren skal melde fra til klareringsmyndigheten om at kontraktsforholdet har opphørt.\nDersom klareringsmyndigheten tilbakekaller en leverandørklarering etter sikkerhetsloven § 9-3 fjerde ledd, skal oppdragsgiveren inndra all sikkerhetsgradert informasjon fra leverandøren.",
+      "xml_path": "article#kapittel-13-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-5",
+      "provision_ref": "§ 83",
+      "heading": "Krav om leverandørklarering",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "En leverandør til en sikkerhetsgradert anskaffelse skal ha leverandørklarering når det er nødvendig for å oppnå et forsvarlig sikkerhetsnivå under anskaffelsen. Leverandøren skal uansett ha leverandørklarering dersom den skalha tilgang til eller oppbevare informasjon gradert KONFIDENSIELT eller høyere i sine egne informasjonssystemer eller lokalerha elektronisk tilgang fra sine egne informasjonssystemer eller lokaler til objekter eller infrastruktur klassifisert KRITISK eller MEGET KRITISKråde over objekter eller infrastruktur som tilhører oppdragsgiveren, og som er klassifisert KRITISK eller MEGET KRITISK.",
+      "xml_path": "article#kapittel-13-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-6",
+      "provision_ref": "§ 84",
+      "heading": "Leverandører med lokaler utenfor norsk jurisdiksjon og utenlandske leverandører",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Dersom en leverandør som skal klareres etter § 83, driver virksomheten sin fra en annen stats jurisdiksjon, eller skal behandle eller oppbevare informasjon i lokaler utenfor norsk jurisdiksjon, må Norge ha en sikkerhetsavtale med staten som har jurisdiksjon der lokalene ligger eller virksomheten drives fra. Det samme gjelder dersom leverandøren skal ha tilgang til informasjonssystem som er sikkerhetsgradert eller klassifisert som skjermingsverdig infrastruktur, fra egne lokaler utenfor norsk jurisdiksjon, eller skal råde over objektet eller infrastrukturen i eller fra lokaler utenfor norsk jurisdiksjon.\nDet skal følge av sikkerhetsavtalen hvem som skal kontrollere at leverandøren oppfyller kravene gitt i eller med hjemmel i sikkerhetsloven, eller tilsvarende krav i sikkerhetsregelverket til den andre staten, jf. klareringsforskriften § 37.",
+      "xml_path": "article#kapittel-13-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-7",
+      "provision_ref": "§ 85",
+      "heading": "Forespørsel om leverandørklarering",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Oppdragsgivere skal be klareringsmyndigheten om en leverandørklarering. Forespørselen skal inneholde informasjon om det høyeste graderingsnivå i anskaffelsen, jf. § 79, og egenopplysninger fra leverandøren, jf. klareringsforskriften § 35.",
+      "xml_path": "article#kapittel-13-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-8",
+      "provision_ref": "§ 86",
+      "heading": "Oversikt over sikkerhetsgraderte anskaffelser",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Oppdragsgivere skal føre en årlig oversikt over sikkerhetsgraderte anskaffelser til sin virksomhet. Oversikten skal inneholde informasjon omhva anskaffelsene gjelderleverandørenes navn, adresse, organisasjonsnummer eller tilsvarende nummer, og nasjonalitethvilken sikkerhetsgrad informasjon som leverandørene skal få, eller har fått, tilgang tildet høyeste klassifiseringsnivået til objekter eller infrastruktur som leverandørene skal få, eller har fått, tilgang tilhvor lang tid anskaffelsene tok.\nOversikten skal årlig sendes til klareringsmyndigheten.\nForsvarsdepartementet kan gjøre unntak fra kravet i andre ledd dersom virksomheten har et særlig behov for å skjerme opplysningene av hensyn til sin operative virksomhet.",
+      "xml_path": "article#kapittel-13-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-9",
+      "provision_ref": "§ 87",
+      "heading": "Prosedyrer for besøk fra utlandet",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Før et besøk fra en utenlandsk oppdragsgiver eller leverandør som er tilknyttet en sikkerhetsgradert anskaffelse, skal de besøkendes identitet og klarering kontrolleres. Kontrollen skal skje i samsvar med besøksprosedyrene i eller med hjemmel i avtalen mellom Norge og den andre staten.\nFørste ledd gjelder også dersom oppdragsgiver er en internasjonal organisasjon.",
+      "xml_path": "article#kapittel-13-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-10",
+      "provision_ref": "§ 88",
+      "heading": "Tilsynsmyndighet for leverandører til sikkerhetsgraderte anskaffelser",
+      "path": [
+        "Kapittel 13. Sikkerhetsgraderte anskaffelser"
+      ],
+      "text": "Nasjonal sikkerhetsmyndighet fører tilsyn med leverandører til sikkerhetsgraderte anskaffelser som har lokaler innenfor norsk jurisdiksjon, med mindre noe annet er avtalt med en sektormyndighet med tilsynsansvar.",
+      "xml_path": "article#kapittel-13-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-1",
+      "provision_ref": "§ 89",
+      "heading": "Tilsyn med virksomheter underlagt lov om nasjonal sikkerhet",
+      "path": [
+        "Kapittel 14. Tilsyn"
+      ],
+      "text": "Tilsynsmyndigheten skal kontrollere at virksomhetene overholder kravene i sikkerhetsloven med forskrifter og bidra til å forbedre virksomhetenes arbeid med forebyggende sikkerhet.\nEt tilsyn skal planlegges på bakgrunn av risiko og vesentlighet. Det skal gjennomføres tilsyn ofte nok og i stort nok omfang til at lovens formål ivaretas.\nTilsyn skal som hovedregel gjennomføres som systemrevisjon.\nFor å kontrollere sikkerhetstilstanden til informasjonssystemer og infrastruktur, kan tilsynsmyndigheten benytte automatiserte metoder for å samle inn teknisk informasjon.",
+      "xml_path": "article#kapittel-14-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-2",
+      "provision_ref": "§ 90",
+      "heading": "Avtale om samarbeid mellom Nasjonal sikkerhetsmyndighet og andre myndigheter med tilsynsansvar",
+      "path": [
+        "Kapittel 14. Tilsyn"
+      ],
+      "text": "Overordnet departement til en sektormyndighet med tilsynsansvar, har ansvaret for at det inngås samarbeidsavtaler mellom Nasjonal sikkerhetsmyndighet og myndigheten med tilsynsansvar etter sikkerhetsloven § 3-2.\nDet skal følge av slike samarbeidsavtalerhvilke kriterier som skal ligge til grunn for tilsynhvem som skal være ansvarlig for opplæring og veiledning, og hvordan opplæring og veiledning skal gjennomføreshvordan tilsyn der både Nasjonal sikkerhetsmyndighet og sektormyndigheten deltar, skal forberedes og gjennomføreshvordan Nasjonal sikkerhetsmyndighet skal dele relevant informasjon om trusselbildet og risiko med sektormyndighetenhvordan sektormyndigheten skal rapportere til Nasjonal sikkerhetsmyndighet om planlagte tilsynhvordan varslinger etter sikkerhetsloven § 4-5 skal behandleshvordan godkjennings- og dispensasjonsmyndighet i sektoren skal utøveshvordan sektormyndigheten skal dele kunnskap og erfaringer med Nasjonal sikkerhetsmyndighet.\nMyndigheter som er tildelt tilsynsansvar etter sikkerhetsloven § 3-1, har ansvaret for tilsynet også når Nasjonal sikkerhetsmyndighet medvirker til eller deltar på tilsynet.",
+      "xml_path": "article#kapittel-14-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-3",
+      "provision_ref": "§ 91",
+      "heading": "Rapport etter tilsyn",
+      "path": [
+        "Kapittel 14. Tilsyn"
+      ],
+      "text": "Etter et gjennomført tilsyn skal tilsynsmyndigheten utarbeide en foreløpig rapport som forelegges virksomheten for uttalelse. Det skal deretter utarbeides en endelig rapport som skal sendes til virksomheten og Nasjonal sikkerhetsmyndighet. Nasjonal sikkerhetsmyndighet kan gjøre endelige tilsynsrapporter tilgjengelige for Politiets sikkerhetstjeneste.",
+      "xml_path": "article#kapittel-14-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-4",
+      "provision_ref": "§ 92",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 14. Tilsyn"
+      ],
+      "text": "En tvangsmulkt fastsatt med hjemmel i sikkerhetsloven § 11-2 kan fastsettes som en engangsmulkt eller løpende for hver dag, uke eller måned etter at fristen for å rette forholdet er gått ut. Tilsynsmyndigheten kan frafalle en påløpt tvangsmulkt.",
+      "xml_path": "article#kapittel-14-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-1",
+      "provision_ref": "§ 93",
+      "heading": "Krav til innholdet i en melding om et erverv av en kvalifisert eierandel i en virksomhet underlagt sikkerhetsloven",
+      "path": [
+        "Kapittel 15. Melding om erverv av kvalifisert eierandel i virksomhet underlagt sikkerhetsloven"
+      ],
+      "text": "En melding til departementet om erverv etter sikkerhetsloven § 10-1 skal opplyse omerververens navn, adresse og organisasjonsnummer, fødselsnummer eller tilsvarende nummerorganisasjonsnummeret til virksomheten ervervet gjeldererververens eierandel etter at ervervet er gjennomførterververens eierstrukturhvem som sitter i erververens styrehvem som utgjør den daglige ledelsen i erververens virksomheteventuelle relasjoner mellom erververen og andre eksisterende eiere i virksomheten ervervet gjeldererververens eierinteresser i andre virksomheter underlagt sikkerhetslovenerververens eierinteresser i andre virksomheter innenfor den aktuelle sektorenerververens årsomsetning og årsregnskap for de siste fem årene, så langt dette er tilgjengeligandre forhold som erververen antar kan ha betydning for vurderingen av om ervervet kan godkjennes etter sikkerhetsloven § 10-2.\nOpplysningene om eierstruktur etter første ledd bokstav d skal omfatte eventuelle utenlandske eierinteresser i erververens virksomhet og erververens eventuelle eierinteresser i utlandet. Nasjonaliteten skal framgå.\nOpplysningene om styret og den daglige ledelsen etter første ledd bokstav e og f skal omfatte navn, fødselsdato, nasjonalitet og personlige næringsinteresser utenfor den aktuelle virksomheten.\nDersom erververen er en privatperson som ikke har norsk fødselsnummer eller D-nummer, skal meldingen i stedet opplyse om personens fødselsdato og nasjonalitet.",
+      "xml_path": "article#kapittel-15-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-1",
+      "provision_ref": "§ 94",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 16. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2019. Samtidig tid oppheves forskrift 1. juli 2001 nr. 744 om informasjonssikkerhet, forskrift 29. juni 2001 nr. 723 om sikkerhetsadministrasjon, forskrift 1. juli 2001 nr. 753 om sikkerhetsgraderte anskaffelser og forskrift 22. oktober 2010 nr. 1362 om objektsikkerhet.",
+      "xml_path": "article#kapittel-16-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-16-paragraf-2",
+      "provision_ref": "§ 95",
+      "heading": "Overgangsregler",
+      "path": [
+        "Kapittel 16. Avsluttende bestemmelser"
+      ],
+      "text": "Destrueringsmetoder og oppbevaringsenheter som er godkjent etter forskrift 1. juli 2001 nr. 744 om informasjonssikkerhet § 4-36, § 6-11 og § 6-12, skal anses godkjent inntil godkjenningen opphører, eller det av andre grunner er behov for ny godkjenning av destrueringsmetoden eller oppbevaringsenheten.\nEt rom som er godkjent etter forskrift 1. juli 2001 nr. 744 om informasjonssikkerhet § 9-1, skal anses å oppfylle kravene i § 46.\nEn klage på klassifisering eller godkjenning etter første eller andre ledd skal avgjøres etter de reglene som gjelder når klageinstansen treffer vedtak i saken.",
+      "xml_path": "article#kapittel-16-paragraf-2"
+    }
+  ]
+}

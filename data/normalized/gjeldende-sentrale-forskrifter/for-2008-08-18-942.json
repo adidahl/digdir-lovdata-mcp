@@ -1,0 +1,228 @@
+{
+  "id": "FOR-2008-08-18-942",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Arbeidsgiver- og arbeidstakerregisteret",
+  "short_title": "Forskrift om AA-registeret",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2008-09-01",
+  "last_change_in_force": "2024-12-23",
+  "last_changed_by": "forskrift/2024-12-23-3436",
+  "lovdata_refid": "forskrift/2008-08-18-942",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2008-08-18-942",
+  "raw_xml_sha256": "42cb7bcf2c0f826a02f297c9691aef9db3fd4b7d06af62cee9b439e42da3ea99",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Registeransvarlig",
+      "path": [
+        "I. Innledende bestemmelser"
+      ],
+      "text": "Arbeids- og velferdsdirektoratet er registeransvarlig myndighet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Formål",
+      "path": [
+        "I. Innledende bestemmelser"
+      ],
+      "text": "Forskriftens formål er å bidra til sikker, korrekt og effektiv rapportering av opplysninger om arbeidsforhold.\nFormålet med Arbeidsgiver- og arbeidstakerregisteret er å tjene Arbeids- og velferdsetaten og andre som har behov for opplysninger om arbeidsforhold i forbindelse med løsning av offentlige oppgaver.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "I. Innledende bestemmelser"
+      ],
+      "text": "ArbeidsgiverEnhver som benytter seg av arbeidstaker for utførelse av arbeid mot vederlag i Norge eller på NOR- eller NIS-registrerte skip og flyttbare innretninger, er å anse som arbeidsgiver etter forskriften. Det samme gjelder den som benytter seg av arbeidstaker i forbindelse med undersøkelse etter og utnyttelse av undersjøiske petroleumsforekomster på den norske kontinentalsokkelen og dertil knyttet virksomhet og arbeid.Som arbeidsgiver anses i alle tilfeller den som selv eller ved fullmektig utbetaler vederlag som skal innberettes til ligningsmyndighetene. Dette gjelder også for arbeid som utføres på Svalbard, Jan Mayen, norske biland og i utlandet eller på utenlandsregistrerte skip eller flyttbare innretninger.ArbeidstakerMed arbeidstaker menes enhver som arbeider i annens tjeneste for lønn eller annen godtgjørelse, jf. folketrygdloven § 1-8.OppdragsgiverMed oppdragsgiver menes i forskriften her enhver som benytter seg av en frilanser til å utføre arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse.FrilanserMed frilanser menes enhver som utfører arbeid eller oppdrag utenfor tjeneste for lønn eller annen godtgjørelse, men uten å være selvstendig næringsdrivende, jf. folketrygdloven § 1-9.InnretningerMed innretninger menes innretning i petroleumsvirksomhet når innretningen er underlagt arbeidsmiljøloven i medhold av forskrift 12. februar 2010 nr. 158 om helse, miljø og sikkerhet i petroleumsvirksomheten og på enkelte landanlegg.Offentlige myndigheterMed offentlige myndigheter menes statlige, fylkeskommunale og kommunale organer som blant annet har til oppgave å fatte enkeltvedtak, fastsette forskrifter, inndrive gjeld, utarbeide forkynnelser, utskrive personell, kartlegge/lage planer for befolkningen og utarbeide statistiske oppgaver.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Plikt til å registrere seg som arbeidsgiver og oppdragsgiver",
+      "path": [
+        "II. Om melding til registeret"
+      ],
+      "text": "RegistreringspliktEnhver arbeidsgiver og oppdragsgiver, jf. § 3 nr. 1 og 3, plikter å registrere seg i Arbeidsgiver- og arbeidstakerregisteret ved å sende melding til Enhetsregisteret. Registreringsplikten gjelder også for en hovedenhets enkelte underenheter. Registrering i Enhetsregisteret skal skje i henhold til bestemmelsene i enhetsregisterloven med tilhørende forskrift.Utbetaling av lønn som nevnt i folketrygdloven § 23-2 sjette og sjuende ledd medfører ikke plikt til å registrere seg som arbeidsgiver eller oppdragsgiver.Frister for registreringMelding om registrering skal sendes senest fredag i uken etter at vedkommende har tatt inn en person i sin tjeneste eller gitt en person et oppdrag. Melding om opphør og andre endringer skal sendes senest fredag i uken etter at endringen skjedde.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Melding om arbeidsforhold",
+      "path": [
+        "II. Om melding til registeret"
+      ],
+      "text": "Unntaket i første punktum bokstav b gjelder inntil den måneden beløpsgrensen overskrides.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Meldepliktens omfang",
+      "path": [
+        "II. Om melding til registeret"
+      ],
+      "text": "Melding om inntakDet skal sendes én melding for hvert arbeidsforhold.Meldingen skal, i tillegg til å angi hovedenhetens og underenhetens organisasjons-nummer, gi opplysninger omarbeidstakerens eller frilanserens fødselsnummer eller D-nummer,arbeidsforholdsID,type arbeidsforhold,yrkeskode,startdato og eventuelt sluttdato for arbeidsforholdet,ansettelsesform,antall timer per uke som en full stilling tilsvarer,arbeidstakerens avtalte arbeidstid angitt i form av stillingsprosent. Dersom det ikke er avtalt fast arbeidstid eller arbeidstiden avviker fra avtalt arbeidstid, skal arbeidet timer oppgis,arbeidstidsordning,sluttårsak,dato for siste lønnsendring og dato for siste endring av stillingsprosent,landkode for inntekt opptjent i annet land enn Norge,permisjonsID, permisjonstype, startdato og sluttdato for permisjon med eller uten lønn utover 14 dager, samt permisjonens prosentvise størrelse av stilling. Dette gjelder ikke permisjon der arbeidstakeren har tillitsverv med lønn fra arbeidsgiver i permisjonstiden,permitteringsID, permitteringstype, startdato og sluttdato for permittering med eller uten lønn, samt permitteringens prosentvise størrelse av stilling. Dette gjelder ikke permittering der arbeidstakeren har tillitsverv med lønn fra arbeidsgiver i permitteringstiden.Meldeplikten om frilansere gjelder bare andre ledd bokstav a til e.For arbeidstakere til sjøs på fartøy eller flyttbar innretning skal meldingen i tillegg inneholde opplysninger om hvilket skipsregister fartøyet eller innretningen er registrert i (NOR, NIS eller utenlandsk register). Det skal også opplyses om type fartøy eller type innretning (turistskip, boreplattform eller annet), samt hvilken fart fartøyet går i (innenriks- eller utenriksfart).Arbeidsforholdet anses å ta til den første dag arbeidstakeren eller frilanseren har rett eller plikt til å utføre arbeid.Melding om opphørMelding om opphør av arbeidsforhold, med opplysninger som nevnt i nr. 1 andre og fjerde ledd og sluttdato, skal sendes nårarbeidsforholdet opphører,arbeidstakeren eller frilanseren overføres til arbeid som ikke omfattes av forskriften her.Arbeidsforholdet anses å opphøre fra det tidspunkt retten eller plikten til å utføre arbeid har falt bort.MeldefristFristen i folketrygdloven § 25-1 andre ledd første punktum, jf. a-opplysningsloven § 4 tredje ledd gjelder ikke.Melding om inntak av arbeidstaker eller frilanser og opphør av arbeidsforhold for foregående måned skal leveres etter reglene i a-opplysningsloven med tilhørende forskrift.Ved alvorlige eller gjentatte brudd på opplysningsplikten kan det bestemmes at fristen som nevnt i første ledd likevel skal gjelde for opplysninger som nevnt i § 6 nr. 1 andre ledd bokstav a til e. Ved opphør skal det i tillegg gis opplysninger om sluttdato. Dersom opplysningsplikten igjen oppfylles i en periode, kan det bestemmes at arbeidsgiver eller oppdragsgiver igjen kan følge den alminnelige frist for rapportering.Melding om inntak av arbeidstaker eller frilanser etter § 5 nr. 2 andre ledd, skal leveres i måneden etter at beløpsgrensen ble overskredet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Kontroll og forvaltning av Arbeidsgiver- og arbeidstakerregisteret",
+      "path": [
+        "II. Om melding til registeret"
+      ],
+      "text": "For å sikre kvaliteten på opplysningene i registeret, kan det gjennomføres kontroll av arbeidsgiveres og oppdragsgiveres oppfyllelse av innrapporteringsplikten.\nArbeids- og velferdsetaten skal gis tilgang til inntekstopplysninger innrapportert etter a-opplysningsloven for å kontrollere og forvalte Arbeidsgiver- og arbeidstakerregisteret.\nArbeidsgivere og oppdragsgivere har adgang til å gjøre seg kjent med hvilke opplysninger de har rapportert til Arbeidsgiver- og arbeidstakerregisteret.\nArbeidstakere og frilansere har adgang til å gjøre seg kjent med hvilke opplysninger som er registrert om dem.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Adgang til å gjøre unntak",
+      "path": [
+        "II. Om melding til registeret"
+      ],
+      "text": "Arbeids- og velferdsdirektoratet eller den det bemyndiger kan gjøre unntak fra bestemmelsene i § 4 til § 6 for bestemte arbeidsgivere, oppdragsgivere eller grupper av arbeidsgivere eller oppdragsgivere.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret ved offentlig myndighetsutøvelse",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Det gis etter søknad tilgang til nødvendige opplysninger fra registeret tilArbeids- og velferdsdirektoratet og dets organerSkattedirektoratet og dets organerPensjonstrygden for sjømennSjøfartsdirektoratetStatistisk Sentralbyråkommuner ved tvangsfullbyrdelse av kommunale krav etter reglene for skattutenlandske offentlige myndigheter dersom det følger av overenskomst.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Tilgang til opplysninger fra Arbeidsgiver- og arbeidstakerregisteret for andre",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Det kan etter søknad gis tilgang til nødvendige opplysninger fra registeret tilforskningsformål etter forvaltningsloven § 13d og § 13e og forvaltningslovforskriften § 8 og § 9fellesorganet etter AFP-tilskottsloven § 18 om arbeidsforhold til bruk i arbeidet med administrasjon av:avtalefestet pensjon i privat sektorsliterordningeneSluttvederlagsordningenOU-samordningenprivate pensjonsinnretninger om arbeidsforhold til bruk i arbeidet med pensjonsordning etter innskuddspensjonsloven, foretakspensjonsloven eller tjenestepensjonslovenpensjonsinnretninger om arbeidsforhold til bruk i arbeidet med administrasjon av avtalefestet pensjon i kommunal sektor for arbeidstakere født i 1963 eller senereprivatpersoner og bostyrere i forbindelse med skifte av bo eller konkursbehandlingandre som trenger opplysningene i forbindelse med løsning av oppgaver som nevnt i § 3 nr. 6.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Krav til søknad om tilgang",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Registeransvarlig myndighet kan gi tilgang til nødvendige opplysninger fra Arbeidsgiver- og arbeidstakerregisteret etter søknad.\nSøknad om tilgang skal inneholdehjemmelen for innhenting av opplysningeneformålet med bruken av opplysningene og informasjon om hvordan og i hvilken sammenheng opplysningene vil bli bruktinformasjon om hvordan opplysningene vil bli lagretinformasjon om hvordan opplysningene ønskes overført.\nVed søknad om bruk av opplysninger fra registeret til statistiske formål, skal formen for presentasjon av statistiske resultater på forhånd godkjennes av registeransvarlig myndighet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Betaling for opplysningene",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Arbeids- og velferdsetaten kan kreve betaling for behandling og tilrettelegging av opplysninger etter dette kapittelet. Betalingen skal ikke overstige de faktiske utgiftene ved behandlingen og tilretteleggingen av opplysningene.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Opplysninger om personer med sperret adresse",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Personinformasjon om personer som er innvilget sperret adresse etter folkeregisterloven § 10-4 (trusselutsatte), skal ikke framvises ved oppslag eller utlistinger.\nUtlevering av personinformasjonen til offentlige myndigheter kan bare skje etter særskilt søknad i det enkelte tilfellet. Slik søknad må begrunnes. Det er et vilkår for utlevering at informasjonen er nødvendig for at mottaker skal kunne ivareta lovmessige rettigheter og plikter som det ikke er mulig å ivareta på annen måte.\nBestemmelsen i § 10 bokstav a gjelder ikke for personinformasjon om trusselutsatte.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 14",
+      "heading": "Avgjørelsesmyndighet",
+      "path": [
+        "III. Om opplysninger fra registeret"
+      ],
+      "text": "Søknad om tilgang til opplysninger fra registeret avgjøres av Arbeids- og velferdsdirektoratet eller den det bestemmer.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Overtredelsesgebyr og tvangsmulkt",
+      "path": [
+        "IV. Tiltak overfor arbeidsgiver eller oppdragsgiver ved brudd på plikten til å gi opplysninger om arbeidsforhold"
+      ],
+      "text": "Arbeids- og velferdsetaten kan ilegge en arbeidsgiver eller oppdragsgiver overtredelsesgebyr, tvangsmulkt eller begge deler når arbeidsgiveren eller oppdragsgiveren ikke gir alle opplysninger eller gir uriktige opplysninger i strid med folketrygdloven § 25-1 andre ledd med tilhørende forskrifter og forskrift gitt med hjemmel i § 25-10, se folketrygdloven § 25-3 med forskrifter.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Taushetsplikt",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Enhver som i medhold av forskriften får opplysninger fra registeret har taushetsplikt etter arbeids- og velferdsforvaltningsloven § 7.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Behandling av opplysninger fra registeret",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Det kan settes vilkår for behandlingen av opplysninger som utleveres i medhold av forskriften her. Opplysninger som kan identifisere arbeidstakere, frilansere, arbeidsgivere eller oppdragsgivere, skal makuleres eller slettes når de ikke lenger er aktuelle for det formålet de er innhentet for. Statistikker eller publikasjoner med registeropplysninger som kilde, må ikke offentliggjøres slik at enkeltpersoner kan identifiseres.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Klage på vedtak",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Vedtak truffet med hjemmel i forskriften her kan påklages etter reglene i forvaltningsloven kapittel VI til nærmest overordnede organ eller til det organ som Arbeids- og velferdsdirektoratet bestemmer. Klage skal alltid grunngis, og må være framsatt for det organ som har fattet vedtaket innen tre uker etter at skriftlig melding om vedtaket er kommet fram til vedkommende part.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Straffebestemmelse",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Overtredelse av bestemmelsene i forskriften her straffes med bøter, jf. folketrygdloven § 25-12 og straffeloven § 209.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 20",
+      "heading": "Gjennomføring av forskriften",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Arbeids- og velferdsdirektoratet kan gi nærmere bestemmelser om gjennomføringen av forskriften, herunder bestemmelser om registerets innhold og hvilke opplysninger meldingene skal inneholde.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 21",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "V. Forskjellige bestemmelser"
+      ],
+      "text": "Forskriften her trer i kraft 1. september 2008. Fra samme tid opphevesforskrift 4. juli 1991 nr. 454 om arbeidsgiver- og arbeidstakerregisteret, gitt med hjemmel i lov 17. juni 1966 nr. 12 om folketrygd § 18-2 annet ledd annet punktum og fjerde ledd, og § 18-7 tredje ledd og sjømannsloven 30. mai 1975 nr. 18 § 54a, ogavsnitt I nr. 1 i forskrift 16. januar 1998 nr. 37, fastsatt ved kgl. resolusjon med hjemmel i folketrygdloven § 1-3, § 25-1, § 25-3 og 25-15 og sjømannsloven 30. mai 1975 nr. 18 § 54a.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    }
+  ]
+}

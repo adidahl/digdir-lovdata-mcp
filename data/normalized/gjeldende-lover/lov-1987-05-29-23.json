@@ -1,0 +1,59 @@
+{
+  "id": "LOV-1987-05-29-23",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om bibliotekvederlag",
+  "short_title": "Bibliotekvederlagsloven",
+  "department": "Kultur- og likestillingsdepartementet",
+  "legal_area": "Immaterialrett > Opphavsrett Kultur, idrett og underholdning > Bibliotek",
+  "date_in_force": "1987-05-29",
+  "last_change_in_force": "2019-08-01",
+  "last_changed_by": "lov/2018-12-20-120 fra 2019-08-01",
+  "lovdata_refid": "lov/1987-05-29-23",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1987-05-29-23",
+  "raw_xml_sha256": "036e954a7cc53c2311c6988b2a5a5837574463afa16f56a6d1aeab8b59ac050b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Vederlag for utlån mv.",
+      "path": [],
+      "text": "Opphavere til verk som disponeres til utlån i offentlige bibliotek, skal ytes vederlag gjennom årlige bevilgninger over statsbudsjettet. Vederlaget ytes kollektivt, og utbetales til slike fond som nevnt i § 4 til støtte for visse opphavergrupper.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Beregning av vederlag",
+      "path": [],
+      "text": "Vederlaget beregnes etter en sats for hver utlånsenhet.\nFor bøker er utlånsenheten ett bind. Departementet kan bestemme hva som ellers skal regnes som utlånsenhet. Ved beregning av antallet utlånsenheter legges til grunn de verk som er utgitt i Norge og som disponeres til utlån ved offentlig bibliotek. Departementet kan bestemme hvilke bibliotek, samlinger m.v. som skal regnes med ved beregningen.\nBeregningene skal bygge på statistikk over antallet utlånsenheter som disponeres til utlån i de enkelte bibliotekene, og hvilke typer verk som inngår i disse.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Fastsettelse av vederlagssats",
+      "path": [],
+      "text": "Vederlagssatsen (jf. § 2 første ledd) fastsettes etter forhandlinger med en felles sammenslutning som er godkjent av departementet, og som består av organisasjoner som representerer en vesentlig del av norske opphavere på området.\nDersom det ikke oppnås enighet om avtale om vederlagssats, kan hver av partene kreve megling etter nærmere regler fastsatt av departementet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fordeling til fond",
+      "path": [],
+      "text": "Vederlaget fordeles til fond som forvaltes av de aktuelle opphaverorganisasjoner. Fondenes vedtekter skal være godkjent av departementet.\nFondenes midler kan disponeres til fordel for opphavere, eller til fordel for formål som gjelder vedkommende gruppe opphavere. Ved utbetaling til enkelte opphavere skal det ikke kunne tas hensyn til organisasjonstilhørighet. Til en enkelt opphaver skal det ikke kunne ytes et årlig beløp som overstiger fire ganger folketrygdens grunnbeløp.\nDepartementet kan fastsette nærmere regler om fordeling av vederlaget og anvendelse av midlene.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft straks, men får ikke virkning for den avtale som er inngått for perioden 1986-88.\nFra samme tidspunkt oppheves § 15 i lov 20. desember 1985 nr. 108 om folkebibliotek.\nLov 18. juni 1971 nr. 80 om folke- og skolebiblioteker oppheves straks.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

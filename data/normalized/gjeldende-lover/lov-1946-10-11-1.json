@@ -1,0 +1,45 @@
+{
+  "id": "LOV-1946-10-11-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Norsk Lysingsblad",
+  "short_title": "Lov om Norsk Lysingsblad",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "legal_area": "Forvaltnings- og kommunalrett > Offentlig forvaltning IKT- og medierett > Medier",
+  "date_in_force": "1948-01-01",
+  "lovdata_refid": "lov/1946-10-11-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1946-10-11-1",
+  "raw_xml_sha256": "1e05e9af44b8a0c1409978e2900bc9ff4f666034b5d7ca3480bf13d933b5d8fc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Staten gjev ut eit offentleg lysingsblad. Namnet skal vera Norsk Lysingsblad.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Bladet tek inn lysingar som skal eller kan kunngjerast med heimel i lov. Når embete og andre statsstillingar skal kunngjerast ledige, skal dei lysast ut i Norsk Lysingsblad dersom Kongen ikkje har fastsett noko anna.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Kongen fastsett reglar for bladdrifta, soleis også reglar for kva lysingar som kan takast inn i bladet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne lova gjeld frå den dagen Kongen fastsett.1 – – –",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

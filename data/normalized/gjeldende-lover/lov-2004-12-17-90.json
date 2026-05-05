@@ -1,0 +1,51 @@
+{
+  "id": "LOV-2004-12-17-90",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om omdanning av Kystverkets produksjonsvirksomhet til statsaksjeselskap",
+  "short_title": "Lov om Kystverkets produksjonsvirksomhet",
+  "department": "Samferdselsdepartementet",
+  "legal_area": "Selskaper, fond og foreninger > Selskaper. Statsforetak Transport og kommunikasjoner > Havner",
+  "date_in_force": "2004-12-17",
+  "last_change_in_force": "2016-03-01",
+  "last_changed_by": "lov/2016-01-22-1 fra 2016-03-01",
+  "lovdata_refid": "lov/2004-12-17-90",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2004-12-17-90",
+  "raw_xml_sha256": "6c1f7f846d07e3d2ffd0574c4355a72901e5a87d7ec54b3f7cfe773bc39ec211",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne loven er å regulere visse overgangsspørsmål i forbindelse med omdanning av Kystverkets produksjonsvirksomhet til aksjeselskap.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Overføring av forpliktelser",
+      "path": [],
+      "text": "Overføring til aksjeselskapet av forpliktelser knyttet til Kystverkets produksjonsvirksomhet har frigjørende virkning for staten.\nFordringshavere og andre rettighetshavere kan ikke motsette seg overføringen eller gjøre gjeldende at overføringen utgjør en bortfallsgrunn for rettsforholdet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Overføring av offentlige rettigheter, konsesjoner, tillatelser m.v.",
+      "path": [],
+      "text": "Offentlige rettigheter, konsesjoner, tillatelser med videre som gjelder den virksomhet som skal omdannes, blir fra omdanningstidspunktet overført til aksjeselskapet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft straks.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

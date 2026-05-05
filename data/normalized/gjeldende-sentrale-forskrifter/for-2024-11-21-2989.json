@@ -1,0 +1,358 @@
+{
+  "id": "FOR-2024-11-21-2989",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilskot frå Merkur-programmet (Merkur-forskrifta)",
+  "short_title": "Merkur-forskrifta",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2025-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-08-2432 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2024-11-21-2989",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-11-21-2989",
+  "raw_xml_sha256": "ad90edb4e923cfbe7c49d4af3d7ee116151a4481dd181976d1db76e5fab81aa0",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Føremål",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Føremålet er å sikre innbyggjarar i distrikta tilgang til ein daglegvarebutikk i nærleiken, med god kvalitet og med tilleggstenester som aukar omsetninga, sikrar vidare drift og kjem innbyggjarane og lokalsamfunnet til gode.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kva forskrifta gjeld",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Forskrifta gjeld desse tilskotsordningane:Investeringstilskot til daglegvarebutikkar (kapittel 2)Servicetilskot (kapittel 3)Investeringstilskot til drivstoffanlegg ved daglegvarebutikkar (kapittel 4)Utviklingstilskot til bokhandlar (kapittel 5).\nEin søkjar kan berre få tilskot til tiltak som ikkje er starta før søknaden er ferdig handsama.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kven ordningane gjeld for",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Ein butikk vert rekna som Merkur-butikk når den har fått oppfølging frå sin regionale Merkur-konsulent i løpet av dei siste fem åra og har delteke på aktivitetar i Merkur-programmet og/eller har motteke tilskot dei siste fem åra.\nTilskotsordningane gjeld Merkur-butikkar i område med få innbyggjarar, som har eit varetilbod som dekkjer det alminnelege ernæringsbehovet og andre grunnleggjande behov for daglegvarer i eit hushald, og er opne heile året. For kapittel 3 om servicetilskot gjeld eigne opningstider, jf. § 22 bokstav e. Ytterlegare krav står under kapitla for dei ulike ordningane.\nDistriktssenteret kan etter ei særskild vurdering godkjenne butikkar som ikkje oppfyller tildelingsreglane for den enkelte ordninga.\nTilskot kan også bli gitt til bokhandlar i distrikta, sjå kapittel 5, for nærare informasjon om kva krav som gjeld.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til søknad om tilskot",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Ein søknad skal innehalde desse opplysningane:Organisasjonsnummer og namn på ansvarleg prosjekteigar.Avstand til næraste innkjøpsalternativ, og omsetnad (sjå tildelingsreglar under kvar ordning).Ein omtale av tiltaket og forventa effekt av tiltaket.Ein framdriftsplan for gjennomføringa av aktivitetane i tiltaket.Årsrekneskap og driftsbudsjett for søkaren.Ein kostnads- og finansieringsplan for tiltaket.Ei stadfesting av at søkjaren på søknadstidspunktet ikkje har fått anna bagatellmessig støtte til same tiltak.\nFor støtte til bokhandlarar er det mindre avvik frå desse krava.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Om høvet til statsstøtteregelverket",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Støtte frå Merkurprogrammet blir gitt i form av bagatellmessig støtte til tenester av allmenøkonomisk betydning, jamfør forskrift om unntak frå notifikasjonsplikt for offentleg støtte § 3. Distriktssenteret kan be om informasjon frå søkjar som er naudsynt for å avklare om støtta er i tråd med den indre marknaden.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Sakshandsaminga",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Søkjaren må sende inn søknad i den digitale søknadsportalen.\nDistriktssenteret tildeler tilskot.\nSøknadar om investeringstilskot og servicetilskot til daglegvarebutikkar og investeringstilskot til drivstoffanlegg blir handsama etter kvart som dei blir sende inn.\nVed akutt behov for nytt utstyr, til dømes i samband med havari, skal søkjaren kontakte Distriktssenteret.\nKommunal- og distriktsdepartementet er klageinstans for klage på vedtaka frå Distriktssenteret.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Rapporteringsplikt for tilskotsmottakaren",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Ein tilskotsmottakar skal rapportere om kva pengane er brukte til, og kva som er effekten av tiltaket, i den digitale søknadsportalen. Tilskotsmottakar skal sette opp rekneskapen slik at det kan samanliknast med budsjettet i søknaden, og kostnadane skal dokumenterast i form av fakturaer og betalingskvitteringar. For servicestøtte finst det eigne rapporteringsreglar.\nTilskotsmottakar skal melde frå dersom det oppstår forhold som fører til endringar i høve til føresetnadane som går fram av søknaden eller tilsegnsvedtaket. Rapporteringsplikta er nærare forklart i dei enkelte ordningane.\nTilskotsmottakaren skal be om godkjenning på førehand frå Distriktssenteret, dersom det er ønskeleg å gjere endringar i prosjektet det er søkt om støtte til. Distriktssenteret skal då vurdere om tilskotet skal reduserast, trekkast tilbake, eller om endringane samsvarar med forskrift og tilskotsbrev.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Utbetaling av støtte",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Krev prosjektet mindre kapital enn budsjettet tilskotet byggjer på, kan Distriktssenteret redusere utbetalinga tilsvarande. Det vert ikkje gitt støtte til tiltak som allereie er gjennomført før søknaden er ferdig handsama.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Stans av utbetalinga. Tilbakebetaling av tilskot",
+      "path": [
+        "Kapittel 1 – Felles reglar for tilskotsordningane"
+      ],
+      "text": "Distriktssenteret kan stanse utbetalinga av heile eller delar av tilskotet, eller krevje tilbakebetaling, dersommottakaren har gitt urette, misvisande eller mangelfulle opplysningar og tildelinga byggjer på slike opplysningarmottakaren utan førehandsgodkjenning frå Distriktssenteret har endra prosjektet slik at det ikkje oppfyller krava i forskrifta og vedtaket om tilskot.mottakaren planlegg å avvikle verksemda, søkjer gjeldsforhandlingar, går konkurs eller avviklar verksemdamottakaren gjennomfører vesentlege endringar som avgrensar butikktilbodet.mottakaren ikkje rapporterer før sluttdatoen eller rapporteringsfristen som er sett i tildelingsvedtaket",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Føremål",
+      "path": [
+        "Kapittel 2 – Investeringsstøtte til daglegvarebutikkar"
+      ],
+      "text": "Investeringsstøtta skal bidra til at daglegvarebutikkar blir moderniserte, meir lønnsame og gir innbyggjarane i lokalsamfunnet betre tenester.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Tildelingsreglar",
+      "path": [
+        "Kapittel 2 – Investeringsstøtte til daglegvarebutikkar"
+      ],
+      "text": "Ein daglegvarebutikk kan søkje om investeringstilskot til fysiske investeringar viss den oppfyller krava i § 3, 1. ledd og i tillegghar ein avstand på minst 10 kilometer til næraste alternative innkjøpsstad, eller ligg på stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øy. Det kan gjerast særskilte vurderingar for butikkar som har mellom 5 og 10 kilometer avstand til næraste alternative innkjøpsstader open heile årethar inntil 15 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødsel.\nSøknaden må vere på minimum 25 000 kroner for å bli handsama.\nMaksimalt støttebeløp er inntil 800 000 kroner eksklusiv meirverdiavgift kvart år.\nDistriktssenteret vil prioritere dei søknadane som best støtter opp om måla for ordninga.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Utrekningsreglar",
+      "path": [
+        "Kapittel 2 – Investeringsstøtte til daglegvarebutikkar"
+      ],
+      "text": "Ein butikk som har inntil 8 millionar kroner i omsetning kan få tilskot med inntil 75 prosent av dei totale kostnadane i prosjektet.\nEin butikk som har mellom 8 og 15 millionar kroner i omsetning kan få tilskot med inntil 50 prosent av dei totale kostnadene i prosjektet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Rapporteringsplikt",
+      "path": [
+        "Kapittel 2 – Investeringsstøtte til daglegvarebutikkar"
+      ],
+      "text": "Mottakaren av tilskotet skal rapportere om:tilskotet som blei tildeltfakturainformasjon medfakturanummerfakturadatoleverandørtype investeringbrutto kostnadnetto kostnad.eventuelle avvik i høve til søknaden.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Utbetaling",
+      "path": [
+        "Kapittel 2 – Investeringsstøtte til daglegvarebutikkar"
+      ],
+      "text": "Tilskotet blir utbetalt når prosjektet er ferdig, rapportering gjennomført og oppmoding om utbetaling er sendt inn.\nFor tilsegn under 100 000 kroner held det med ein eigenerklæring frå dagleg leiar eller styreleiar. For tilsegn over 100 000 kroner må prosjektrekneskapet bli stadfesta av autorisert rekneskapsførar som er habil.\nEr tilskotet avgjerande for at prosjektet blir gjennomført og kostnadene blir dokumenterte undervegs, kan delar av tilskotet bli betalt ut tidlegare. Som dokumenterte kostnader reknar ein faktura, betalingskvittering og naudsynt attestasjon.\nDei siste 25 prosentane av tilskotsbeløpet skal først betalast ut etter at prosjektet er gjennomført.\nInvesteringstilskotet er skattefritt for butikkar som ligg innanfor verkeområdet for distriktsretta investeringsstøtte.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Føremål",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "Servicestøtta skal bidra til å oppretthalde dei aller minste daglegvarebutikkane. Servicetilskotet skal bidra til tilleggsoppgåver til lokalsamfunnet og det lokale næringslivet.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Tildelingsreglar",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "Tilskotet kan bli gitt til daglegvarebutikkar som oppfyller alle krava § 3, 1. ledd og i tillegghar minst tre tilleggstenester i tillegg til sal av daglegvarer, til dømes post og bank i butikk, tipping, kaffikrok, kommunalt servicekontor, sal av drivstoff, kafé/pubhar under 5 millionar kroner i årsomsetning eksklusiv meirverdiavgift, drivstoff, kraftfôr og gjødselhar minimum 20 kilometer til næraste alternative innkjøpsstad, eller er lokalisert til stader utan fast vegsamband eller er einaste daglegvarebutikk på ei øyvere open heile året, og ha ope minst 3 kvardagar per veke i lågsesongen.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Bruken av servicestøtta",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "Servicestøtta kan brukast til utviklings- og driftskostnader, og mindre investeringar som bidreg til å nå målet med ordninga.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 18",
+      "heading": "Utrekningsreglar",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "Servicestøtta er på inntil 150 000 kroner kvart år.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 19",
+      "heading": "Rapporteringsplikt og søknad om fornya støtte",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "Butikken skal før 1. mai året etter tilskotsåret levere ein sluttrapport om kva støtta er brukt til, og korleis servicestøtta har bidrege til å halde butikken og servicefunksjonane oppe. Rapporten skal og innehalde omsetningsrapport (varegruppe og nøkkeltal) frå butikkdatasystemet per 31. desember i tilskotsåret, og ei oversikt over tilleggstenester.\nEr vilkåra for tilskot til butikken framleis oppfylte, kan butikken søkje om nytt, årleg tilskot når sluttrapport blir levert.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 20",
+      "heading": "Utbetaling",
+      "path": [
+        "Kapittel 3 – Servicetilskot til dei minste daglegvarebutikkane"
+      ],
+      "text": "75 prosent av støtta blir betalt ut når søknaden er innvilga, dei resterande 25 prosentane blir betalte ut når rapporten for bruken av midlane er sendt inn og godkjend.\nEi tildeling må vere betalt ut seinast 31. desember året etter at tilskotet blei gitt.\nServicetilskotet er skattepliktig.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Føremål",
+      "path": [
+        "Kapittel 4 – Investeringstilskot til drivstoffanlegg i tilknyting til daglegvarebutikkar"
+      ],
+      "text": "Investeringsstøtta til drivstoffanlegg skal tryggje drivstofftilgangen i distrikta.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Kven som kan få tilskot",
+      "path": [
+        "Kapittel 4 – Investeringstilskot til drivstoffanlegg i tilknyting til daglegvarebutikkar"
+      ],
+      "text": "Ordninga gjeld i hovudsak drivstoffanlegg ved Merkur-butikkar. Andre verksemder som driv eller eig drivstoffanlegg, kan i heilt særskilde høve òg bli omfatta av ordninga.\nLadestasjon for elbil inngår også i ordninga.\nAnlegg som er eigde av oljeselskap, er ikkje omfatta av støtteordninga.\nAnlegg som i hovudsak forsyner eigne køyretøy, fartøy og landbruksmaskiner, er heller ikkje omfatta av ordninga.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Reglar for tildeling og utrekning",
+      "path": [
+        "Kapittel 4 – Investeringstilskot til drivstoffanlegg i tilknyting til daglegvarebutikkar"
+      ],
+      "text": "Desse kriteria skal vere oppfylte:Anlegget skal vere avgjerande for å sikre lokalbefolkninga tilgang på drivstoff.Salsvolumet kan ikkje overstige 500 000 liter drivstoff kvart år. Anlegg som omset under 300 000 liter blir prioritert.\nDrivstoffanlegg som ikkje er knytte til ein Merkur-butikk, skal i tilleggha ein avstand på minimum 20 kilometer til næraste drivstoffanlegg eller vere lokalisert på stader utan fast vegsamband eller er einaste drivstoffanlegg på ei øy.\nMaksimalt støttebeløp er 800 000 kroner eksklusiv meirverdiavgift kvart år. Investeringsstøtta til drivstoffanlegg kan dekkje inntil 50 prosent av investeringsbehovet.\nInvesteringsstøtta til drivstoffanlegg skal gå til opprusting av eksisterande anlegg. Ordninga kan òg yte støtte til etablering av nye drivstoffanlegg i tilknyting til daglegvarebutikkar. Anlegg som ligg på stadar der avstandane til næraste drivstofftilbod er lange, skal prioriterast. Ein kan søkje om støtte til investeringar i både stasjonære og mobile drivstoffanlegg.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 4 – Investeringstilskot til drivstoffanlegg i tilknyting til daglegvarebutikkar"
+      ],
+      "text": "For tilsegn under 100 000 kroner krevst ei eigenerklæring frå dagleg leiar eller styreleiar. For tilsegn over 100 000 kroner må prosjektrekneskapet bli stadfesta av autorisert rekneskapsførar som er habil.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Utbetaling",
+      "path": [
+        "Kapittel 4 – Investeringstilskot til drivstoffanlegg i tilknyting til daglegvarebutikkar"
+      ],
+      "text": "Støtta blir vanlegvis betalt ut etter at prosjektet er ferdig, rapportering er gjennomført og oppmoding om utbetaling er sendt inn.\nEr utbetaling av tilskotet avgjerande for at prosjektet blir gjennomført, og kostnadene blir dokumenterte undervegs, kan delar av tilskotet bli betalt ut tidlegare. Krav til dokumentasjon er faktura, betalingskvittering og naudsynt attestasjon.\nVed delutbetalingar blir dei siste 25 prosentane først betalte ut etter at prosjektet er gjennomført.\nInvesteringstilskotet er skattefritt for butikkar som ligg innanfor verkeområdet for distriktsretta investeringsstøtte.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 26",
+      "heading": "Mål",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Utviklingstilskotet skal bidra til å styrkje grunnlaget for lønnsam bokhandeldrift i distrikta.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 27",
+      "heading": "Tildelingsreglar",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Det kan gis tilskot til bokhandlar somer lokaliserte i ein tettstad i distriktaer den einaste bokhandelen i tettstaden eller handelsområdethar ei total omsetning på mindre enn 7 millionar kroner eksklusiv meirverdiavgift.\nDistriktssenteret vil prioritere dei søknadane som best støttar opp om måla for ordninga.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 28",
+      "heading": "Bruken av utviklingsstøtta",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Utviklingstilskotet skal nyttast til tidsavgrensa tiltak som skal utvikle bokhandelen som kulturarena og møteplass i lokalsamfunnet. Utviklingsstøtta skal brukast til tiltak for å styrkje og utvikle drifta av butikken, mellom anna til tilrettelegging for tilleggsfunksjonar.\nDette kan omfatte mindre nye investeringar, marknadsføring av ulike samarbeidsprosjekt og gjennomføring av arrangement i bokhandelen.\nGenerelle kostnader til marknadsføring som er ein del av den ordinære drifta, kjem ikkje inn under denne ordninga.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 29",
+      "heading": "Utrekningsreglar",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Kvar butikk kan søkje om inntil 100 000 kroner kvart år.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 30",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Mottakar skal sende inn prosjektrekneskap i samsvar med budsjett, signert av styreleiar eller dagleg leiar, som viser kva tilskotet er brukt til. Rekneskapen skal settast opp slik at budsjetterte utgifter kan samanliknast med utgiftene i prosjektet.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 31",
+      "heading": "Utbetaling",
+      "path": [
+        "Kapittel 5 – Utviklingstilskot til bokhandlar"
+      ],
+      "text": "Støtta blir betalt ut etter at prosjektet er ferdig, og etter at kostnadene til dei innvilga utviklingstiltaka eller aktivitetane er dokumenterte og stadfesta av Merkur-konsulenten.\nUtviklingsstøtta er skattepliktig.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 32",
+      "heading": "Kontroll og evaluering",
+      "path": [
+        "Kapittel 6 – Avsluttande reglar"
+      ],
+      "text": "Riksrevisjonen, departementet og forvaltar kan kontrollere at vilkåra for å motteke tilskot, er oppfylt av tilskotsmottakaren. Tilskotsmottakar plikter å gi dei opplysningane og den dokumentasjonen som er naudsynt for å gjennomføre kontrollen.\nTilskotsmottakar plikter også å medverke til at den som skal evaluere det enkelte prosjektet får tilgang til dei opplysninga og dokumenta som er naudsynte for å gjere ein forsvarleg evaluering.\nDistriktssenteret fører tilsyn og kontroll med at krava i forskrift og brev om tilskot er oppfylte.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 33",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 6 – Avsluttande reglar"
+      ],
+      "text": "Departementet kan i særlege høve dispensere frå denne forskrifta.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 34",
+      "heading": "Ikraftsetjing",
+      "path": [
+        "Kapittel 6 – Avsluttande reglar"
+      ],
+      "text": "Forskrifta blir sett i kraft 1. januar 2025. Frå same tid vert forskrift 23. mai 2018 nr. 748 om om tilskot frå Merkur-programmet (Merkur-forskrifta) oppheva.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    }
+  ]
+}

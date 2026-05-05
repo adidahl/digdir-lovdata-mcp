@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2022-11-25-2021",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pakkereiselovens anvendelse for Svalbard",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2023-01-01",
+  "lovdata_refid": "forskrift/2022-11-25-2021",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-11-25-2021",
+  "raw_xml_sha256": "09eef7ef5c8eae8891767fdf588c01a29bafb92ffb573581ced1d244ded35be0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Pakkereiselovens anvendelse for Svalbard",
+      "path": [],
+      "text": "Lov 15. juni 2018 nr. 32 om pakkereiser og reisegaranti mv. med forskrifter gjelder for Svalbard.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2023.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

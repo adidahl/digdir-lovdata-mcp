@@ -1,0 +1,47 @@
+{
+  "id": "LOV-1957-05-03",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om pensjonering av militært tilsatte som etter søknad er gitt avskjed med redusert lønn og tjenesteplikt",
+  "short_title": "Lov om pensjonering av militært tilsatte",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Pensjons- og trygderett Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "1957-05-03",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "lov/2025-06-20-65 fra 2025-07-01",
+  "lovdata_refid": "lov/1957-05-03",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1957-05-03",
+  "raw_xml_sha256": "f3eafad74e7064fd336afc4e4dd5646ef7afcedd2a627a180a6e2610eaa52a3b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Militært tilsatte som etter søknad tidligere er gitt avskjed med redusert lønn og tjenesteplikt, skal ha adgang til å opprettholde innskottsbetalende medlemskap i Statens pensjonskasse inntil aldersgrensen for den stilling vedkommende innehadde ved avskjeden. Fra da av utbetales personens alderspensjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Som innskotts- og pensjonsgrunnlag gjelder innskotts- og pensjonsgrunnlaget til enhver tid for den stilling vedkommende innehadde ved avskjeden med tillegg av alderstillegg som måtte bli opptjent under den pliktige tjeneste. Pensjonsinnskottet dekkes av staten.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "For øvrig gjelder reglene i lov 28. juli 1949 nr. 26 om Statens pensjonskasse for militært tilsatte som går inn under denne lov.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Loven trer i kraft straks og gis virkning for personer som allerede er innvilget avskjed i samsvar med Stortingets vedtak av 6. juli 1953.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

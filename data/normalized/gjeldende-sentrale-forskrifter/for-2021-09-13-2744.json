@@ -1,0 +1,228 @@
+{
+  "id": "FOR-2021-09-13-2744",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift til tolkeloven (tolkeforskriften)",
+  "short_title": "Tolkeforskriften",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2022-01-01",
+  "last_change_in_force": "2026-04-28",
+  "last_changed_by": "forskrift/2026-04-28-676",
+  "lovdata_refid": "forskrift/2021-09-13-2744",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-13-2744",
+  "raw_xml_sha256": "adb99ce05ebfabb6915c8b449f64a6aef01cdb8323b2cb94d54b24a97f8420dd",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften utfyller og presiserer tolkeloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Retningslinjer for bestilling og bruk av tolk",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Retningslinjer for bestilling og bruk av tolk skal minst inneholde rutiner for bestilling av tolk, en angivelse av situasjoner der det foreligger plikt til å bruke tolk etter tolkeloven § 6 første ledd og veiledning i bruk av tolk og fjerntolking.\nRetningslinjene bør også inneholde en angivelse av situasjoner der det er behov for tolk etter tolkeloven § 6 andre ledd.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Tilstrekkelig tolkefaglig kompetanse",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tolken skal ikke påta seg oppdrag uten å ha tilstrekkelig tolkefaglig kompetanse. Med tilstrekkelig tolkefaglig kompetanse menes å være kvalifisert, jf. tolkeloven § 7, og ha eventuell annen kompetanse som er nødvendig for det enkelte oppdraget, for eksempel i fagterminologi.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Tolkens oppgave",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tolken skal tolke nøyaktig det som blir sagt i samtalen, uten å endre, holde tilbake eller legge til innhold. Under oppdraget skal tolken ikke utføre andre oppgaver enn å tolke. Tolker for personer med kombinert syns- og hørselshemming kan også opptre som ledsager og tolke visuell og auditiv informasjon.\nDersom tolken oppdager at noe er tolket feil eller er utelatt, og det kan ha betydning for utfallet av saken, skal tolken informere partene.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Tolkens opptreden",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tolken skal opptre upartisk og ikke la egne holdninger eller meninger påvirke arbeidet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Misbruk av informasjon",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tolken skal ikke i vinnings eller annen hensikt misbruke informasjon som han eller hun har fått kjennskap til gjennom tolking.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Forsvarlig utførelse av tolkeoppdraget",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tolken skal forsikre seg om at faglige og praktiske forhold ved oppdraget ligger til rette for at tolking kan utføres på en forsvarlig måte.\nTolken skal gi beskjed til oppdragsgiver når tolking ikke kan skje på en forsvarlig måte.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8",
+      "heading": "Bruk av tittel ved skriftlige oversettelser",
+      "path": [
+        "Kapittel 2. God tolkeskikk"
+      ],
+      "text": "Tittelen statsautorisert tolk skal ikke brukes ved skriftlige oversettelser.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Forvaltning av Nasjonalt tolkeregister",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Integrerings- og mangfoldsdirektoratet er behandlingsansvarlig for Nasjonalt tolkeregister, jf. tolkeloven § 17.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Krav til oppføring i Nasjonalt tolkeregister",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "For å bli oppført i registeret må søkeren:være myndig etter norsk lovha oppholdstillatelse eller oppholdsrett som danner grunnlag for arbeidframlegge nødvendig dokumentasjon på formelle tolkefaglige kvalifikasjoner i samsvar med kvalifikasjonskravene i § 11.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Kvalifikasjonskategorier i Nasjonalt tolkeregister",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Følgende kvalifikasjonskategorier brukes i Nasjonalt tolkeregister:Kategori A: Statsautorisasjon i tolking og bachelorgrad i tolkingKategori B: (i) Bachelorgrad i tolking eller (ii) statsautorisasjon i tolking og grunnemne i tolking i offentlig sektor (30 studiepoeng)Kategori C: Statsautorisasjon i tolkingKategori D: Grunnemne i tolking i offentlig sektor (30 studiepoeng)Kategori E: (i) Tospråktest og kurs i tolkens ansvarsområde eller (ii) statsautorisert translatør og kurs i tolkens ansvarsområde eller (iii) fagoversetter og kurs i tolkens ansvarsområde.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Tolker med godkjente tolkefaglige kvalifikasjoner fra en annen stat",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Tolker som har ervervet eller fått sine tolkefaglige kvalifikasjoner godkjent i en annen stat, kan få godkjenning etter yrkeskvalifikasjonsloven. Ved godkjenning kan tolken søke oppføring i Nasjonalt tolkeregister og bli oppført i den kategorien som tilsvarer tolkens dokumenterte kvalifikasjoner.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Opplysninger som kan inngå i Nasjonalt tolkeregister",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Følgende opplysninger kan inngå i Nasjonalt tolkeregister om den enkelte tolk:navnkjønntelefonnummer og e-postadressepersonnummer eller D-nummerfolkeregistrert adressespråkformelle tolkefaglige kvalifikasjonertidspunktet for oppføring i registerettidspunktene for oppnåelse av formelle tolkefaglige kvalifikasjonertolkekort, inkludert dato for utstedelse, nummer, gyldighetkapasitet.\nOpplysninger nevnt i bokstav d skal ikke gjøres tilgjengelig for offentligheten. Opplysninger nevnt i bokstav e kan gjøres tilgjengelig for offentligheten etter samtykke fra tolken.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 14",
+      "heading": "Tolkens opplysningsplikt",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Tolken plikter å oppgi korrekte opplysninger til Integrerings- og mangfoldsdirektoratet ved oppføring i Nasjonalt tolkeregister. Tolken skal påse at alle opplysninger i Nasjonalt tolkeregister er korrekte og har selv ansvar for å kontakte Integrerings- og mangfoldsdirektoratet dersom opplysninger er feil.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 15",
+      "heading": "Sletting av opplysninger",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger og Nasjonalt tolkeregister"
+      ],
+      "text": "Integrerings- og mangfoldsdirektoratet skal slette opplysninger om den enkelte tolk dersom de ikke lenger er nødvendige å ha i registeret.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Gjennomføring av statsautorisasjonsprøve i tolking",
+      "path": [
+        "Kapittel 4. Statsautorisasjonsordningen for tolker"
+      ],
+      "text": "OsloMet – storbyuniversitetet er administrativ myndighet for gjennomføringen av statsautorisasjonsprøven i tolking. For gjennomføringen av statsautorisasjonsprøven i tolking i samiske språk er Samisk høgskole / Sámi allaskuvla administrativ myndighet.\nDe administrative myndighetene skal oppnevne en prøvenemnd sammensatt av en leder, tre sensorer og to personer som spiller rollen som tolkebrukere ved gjennomføring av prøven. Prøvenemnda skal utarbeide oppgaver og sensorveiledninger, gjennomføre prøven og evaluere kandidatenes prestasjoner. Sensorene avgjør om prøven er bestått.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Oppmelding til statsautorisasjonsprøve i tolking",
+      "path": [
+        "Kapittel 4. Statsautorisasjonsordningen for tolker"
+      ],
+      "text": "For å melde seg opp til prøven må kandidaten dokumentere norskkunnskaper tilsvarende kravet for generell studiekompetanse. Kandidaten må være myndig etter norsk lov og kunne dokumentere sin identitet.\nKandidaten betaler fastsatt oppmeldingsgebyr.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Statsautorisasjonsprøve i tolking",
+      "path": [
+        "Kapittel 4. Statsautorisasjonsordningen for tolker"
+      ],
+      "text": "Statsautorisasjonsprøven i tolking avgjør om kandidaten fyller de faglige kravene for å få bevilling som statsautorisert tolk. Prøven holdes minst én gang i året. Integrerings- og mangfoldsdirektoratet bestemmer hvilke språk prøven skal omfatte i samarbeid med den administrative myndigheten for gjennomføring av statsautorisasjonsprøven etter § 16.\nPrøven består av en silingstest og en muntlig prøve i tolking. Personer som har oppnådd bachelorgrad i tolking i offentlig sektor ved et norsk universitet eller en norsk høyskole, kan fritas fra silingstesten.\nI silingstesten testes kandidatene i allmennspråk, terminologi og samfunnsforhold på begge språkområder. Kandidaten må bestå silingstesten for å gå videre til den muntlige prøven.\nI den muntlige prøven testes kandidatene i praktiske ferdigheter i å tolke, inkludert adekvat språkbruk, sentrale samfunnsforhold på begge språkområder og god tolkeskikk. Den muntlige prøven skal inneholde dialoger og monologer på norsk og tolkespråket. Kandidatene skal også eksamineres i tolketeknikk og tolkeetikk.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Bedømmelse, begrunnelse og klage",
+      "path": [
+        "Kapittel 4. Statsautorisasjonsordningen for tolker"
+      ],
+      "text": "Statsautorisasjonsprøven bedømmes med betegnelsene bestått og ikke bestått.\nReglene om klage og rett til begrunnelse i universitets- og høyskoleloven § 5-3 gjelder tilsvarende.\nKandidaten kan klage på formelle feil, jf. universitets- og høyskoleloven § 5-2. Slik klage behandles av klagenemnda ved den administrative myndigheten for gjennomføring av statsautorisasjonsprøven hvor prøven er avholdt etter § 16.\nEn person kan gå opp til prøven tre ganger i samme tolkespråk.\nUtfallet av prøven formidles til Integrerings- og mangfoldsdirektoratet som deretter kan gi bevilling som statsautorisert tolk etter tolkeloven § 18.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Gebyr",
+      "path": [
+        "Kapittel 5. Administrative bestemmelser"
+      ],
+      "text": "Gebyr for manglende oppmøte etter tolkeloven § 11 kan bare kreves dersom personen er kjent med at det er bestilt tolk og at det kan kreves gebyr ved manglende oppmøte.\nGebyret fastsettes på bakgrunn av utgiften til bruk av tolk, oppad begrenset til 1/2 av det offentlige rettsgebyret, jf. rettsgebyrloven.\nSkyldig gebyr er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Administrative bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2022.\nFra samme tidspunkt oppheves følgende forskrifter:Forskrift 6. juni 1997 nr. 571 om bevilling som statsautorisert tolk og tolkeprøven.Forskrift 2. juli 2020 nr. 1525 om Nasjonalt tolkeregister.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    }
+  ]
+}

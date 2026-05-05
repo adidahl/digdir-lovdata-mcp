@@ -1,0 +1,37 @@
+{
+  "id": "FOR-1980-09-19-9554",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om utbetaling av ytelser etter lovene om krigspensjonering under opphold i helseinstitusjoner m.v.",
+  "short_title": "Forskr. om krigspensjon i helseinstitusjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1980-10-01",
+  "lovdata_refid": "forskrift/1980-09-19-9554",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1980-09-19-9554",
+  "raw_xml_sha256": "5e987ba1303092e256722d636d5ff2c7dc83ad11adcfa3a5085b54a86f26d6ba",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Bestemmelsene i § 3 nr. 4 i lov om krigspensjonering for militærpersoner og § 6 nr. 4 i lov om krigspensjonering for hjemmestyrkepersonell og sivilpersoner får, foruten ved innleggelse i helseinstitusjon, herunder private forpleiningssted som nevnt i folketrygdlovens § 7-9 nr. 1 første ledd, tilsvarende anvendelse for pensjonist som er innlagt i institusjon med rett til fri forpleining av det offentlige i medhold av andre lover, og for pensjonist som er innsatt i en av fengselsvesenets anstalter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Krigspensjon kan utbetales med inntil fullt beløp over den friperiode som er fastsatt i forannevnte lovsteder i krigspensjoneringslovene, etter særskilte forskrifter som fastsettes av departementet. Departementet kan også ellers gi nærmere forskrifter om ytelser under fri kur og pleie etter krigspensjoneringslovene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Disse bestemmelser trer i kraft 1. oktober 1980.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

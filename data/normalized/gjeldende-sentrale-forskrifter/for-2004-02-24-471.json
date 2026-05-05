@@ -1,0 +1,44 @@
+{
+  "id": "FOR-2004-02-24-471",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsreglar til lov 20. juni 2003 nr. 40 om endringer i barneloven mv. (Nye saksbehandlingsregler i barnefordelingssaker for domstolene mv.).",
+  "short_title": "Overgangsreglar til lov 2003:40, endr barneloven",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2004-04-01",
+  "lovdata_refid": "forskrift/2004-02-24-471",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-02-24-471",
+  "raw_xml_sha256": "65fb2ad0da607c06036aa1331d2ff838f35d0a8454d619d40f1585459c635a45",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Lov 20. juni 2003 nr. 40 om endringer i barneloven mv. skal som hovudregel leggjast til grunn for saker som kjem inn etter at lova tek til å gjelde. For saker for domstolane vil dette normalt vere når stemning kjem inn. I ei rettssak som går når lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, skal likevel ny § 31 i barnelova leggjast til grunn dersom hovudforhandling ikkje allereie er byrja.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Ei sak som på den tid då lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, allereie er teken opp for handsaming av ei avgjerdsmakt som ikkje lenger kan ta mot slike saker, kan få si avgjerd der. Dette gjeld så lenge saka ikkje er endeleg avgjort. Sak for fylkesmannen eller departementet skal handsamast etter dei tidlegare reglane, men slik at ny § 31 i barnelova skal leggjast til grunn dersom vedtak ikkje er fatta.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Avgjerd om foreldreansvar, om kvar barnet skal bu fast og samvær frå tida før lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tek til å gjelde, står framleis ved makt til den i tilfelle vert endra. Ei sak som er avgjort av doms- eller styringsmakt etter dei tidlegare reglane, kan bringast inn for retten som endringssak. Retten skal handsame saka etter dei nye reglane der saka vert teken opp for retten etter at lov 20. juni 2003 nr. 40 om endringer i barneloven mv. tok til å gjelde.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskrifta her tek til å gjelde 1. april 2004.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "LOV-1967-06-16-3",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om fullmakt for Kongen til å forby redere å gi opplysninger m.m. til utenlandske myndigheter",
+  "short_title": "Lov om forbud mot at redere gir opplysninger",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Transport og kommunikasjoner > Skipsfart",
+  "date_in_force": "1967-06-16",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1967-06-16-3",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1967-06-16-3",
+  "raw_xml_sha256": "d8733ecb60b3cffd4b8597a4941fa968a041d33ca40e2b88bb0066b37f691857",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Kongen kan gi bestemmelser som forbyr reder av norsk skip å etterkomme krav fra utenlandske myndigheter om opplysninger om forretningsmessige forhold, herunder krav om utlevering av forretningsdokumenter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Den som overtrer bestemmelser gitt i medhold av denne lov, straffes med bøter eller fengsel inntil 3 måneder.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

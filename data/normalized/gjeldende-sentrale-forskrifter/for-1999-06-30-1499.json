@@ -1,0 +1,58 @@
+{
+  "id": "FOR-1999-06-30-1499",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om registrering og rapportering ved fiske i farvann utenfor noen stats fiskerijurisdiksjon",
+  "short_title": "Forskrift om fiske i statsløse områder",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1999-07-01",
+  "last_change_in_force": "2016-12-12",
+  "last_changed_by": "forskrift/2016-12-12-1555",
+  "lovdata_refid": "forskrift/1999-06-30-1499",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-06-30-1499",
+  "raw_xml_sha256": "cc6155b6b77e242f01cf52c7ec79a0c96b244413e27fee42ef2358a01ea07c76",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder for norske statsborgere og personer bosatt i Norge som driver fiske med norske fartøy i farvann utenfor noen stats fiskerijurisdiksjon som ikke er regulert av regionale eller subregionale fiskeriforvaltningsorganisasjoner eller arrangementer med egne rapporteringsbestemmelser. Forskriften gjelder også i NEAFCs reguleringsområde.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Registrering",
+      "path": [],
+      "text": "Fartøy som skal fiske i farvann som nevnt i § 1 må på forhånd være registrert gjennom melding til Fiskeridirektoratet:før 1. januar hvert år hvis mulig elleri god tid før avgang fra hjemstedshavn ellerinnen 3 dager fra endringstidspunktet dersom det er endringer i opplysninger gitt i registreringsmeldingen.\nMeldingen skal sendes på fastsatt skjema på e-post eller via Altinn og skal inneholde følgende opplysninger:Året som registreringsmeldingen gjelder forFartøyets navnFartøyets radiokallesignalFartøyets registreringsnummer i Fiskeridirektoratets MerkeregisterFartøyets IMO-nummerFartøyeiers navn og adresseHavområde/r det skal fiskes iFiskeslag som er hovedmål for fisketFartøytypeFartøyets tonnasjeFartøyets lengdeFartøyets maskinkraft.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Rapportering",
+      "path": [],
+      "text": "Fartøy som fisker i farvann som nevnt i § 1, skal sende de meldingene som fremgår av denne bestemmelsen. Meldingene skal sendes elektronisk til Fiskeridirektoratet.\nAnsvarshavende om bord på fartøyet skal forvisse seg om at rapporteringssystemet fungerer tilfredsstillende.\nMeldinger sendt i henhold til denne forskriften anses som ikke mottatt av Fiskeridirektoratet dersom avsender ikke mottar returmelding eller returmeldingen viser meldingsstatus NAK.\nMelding om fiskestart skal sendes tidligst 12 timer og senest 2 timer før inngang i området.\nMeldingen skal inneholde følgende opplysninger:Dataelement:Kode:Påkrevd/Valgfritt:Innhold:MeldingstypeTMPCOE, Melding om fiskestartMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummerPosisjon breddeLAPPosisjon bredde ved sending av melding, NDDMMPosisjon lengdeLOPPosisjon lengde ved sending av melding, E/WDDDMMKvantum om bordOBPFangst om bord fordelt på fiskesort i kilo rund vekt. Parvis angittPlanlagt fiskeriDSPArt det skal fiskes etterFangstområdeRAVICES-område der fisket skal starteDatoPDVDato for fiskestart i UTC (ÅÅÅÅMMDD)MeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)\nFangstmelding skal sendes daglig og senest kl. 1200 UTC neste dag. På dager det ikke er tatt fangst skal det rapporteres 0 i den daglige fangstmeldingen.\nMeldingen skal inneholde følgende opplysninger:Dataelement:Kode:Påkrevd/Valgfritt:Innhold:MeldingstypeTMPCAT, Daglig fangstmeldingMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummerDaglig fangstCAPFangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.Antall fiskedagerDFPAntall fiskedager i området siden fiskestart eller siste daglige fangstmeldingFangstområdeRAP1Kode for område der fangsten er tattMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)\nDet er tillatt å foreta omlasting til fartøy fra medlemsstater i EU, Russland, Færøyene, Grønland, Island og Norge, samt fartøy fra NEAFC-samarbeidsland.\nFartøy som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes sende melding om omlasting. Fartøy som har mottatt fangst fra annet fartøy skal senest en time etter at den enkelte omlasting er avsluttet sende melding om omlasting.\nMeldingen skal inneholde følgende opplysninger:Dataelement:Kode:Påkrevd/Valgfritt:Forklaring:MeldingstypeTMPTRA, Melding om omlastingMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummerKvantum som skal overføresKGPKvantum som skal overføres fordelt på fiskesort i kilo rund vekt. Parvis angittOverført fraTFP1Radiokallesignal på fartøyet det overføres fraOverført tilTTP1Radiokallesignal på fartøyet det overføres tilPosisjon breddeLAP2Antatt posisjon bredde for omlastingPosisjon lengdeLOP2Antatt posisjon lengde for omlastingDatoPDP2Antatt dato for omlasting i UTC (ÅÅÅÅMMDD)TidPTP2Antatt tidspunkt for omlasting i UTC (TTMM)MeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)\nFartøy som har mottatt fangst fra annet fartøy skal senest 24 timer før landing finner sted sende melding om havneanløp.\nMeldingen skal inneholde følgende opplysninger:Dataelement:Kode:Påkrevd/Valgfritt:Forklaring:MeldingstypeTMPPOR, Melding om havneanløpMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummerKyststatCSPLandingshavnens kyststatHavnPOPNavnet på havnen der det skal landesDatoPDPAntatt dato for havneanløp i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for havneanløp i UTC (TTMM)Kvantum som skal landesKGPKvantum som skal leveres fordelt på fiskesort i kilo rund vekt. Parvis angittKvantum om bordOBPFangst om bord fordelt på kilo rund vekt. Parvis angittMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)\nMelding om avslutning av fiske skal sendes tidligst 8 timer og senest 2 timer før fartøyet går ut av området.\nMeldingen skal inneholde følgende opplysninger:Dataelement:Kode:Påkrevd/Valgfritt:Forklaring:MeldingstypeTMPCOX, Melding om avslutning av fiskeMeldingsnummerRNPSerienummer for meldingen i inneværende årAutentiseringAUPAvtalt autentiseringskodeRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i Merkeregisteret eller IMO-nummer dersom fartøyet ikke har registreringsnummerFangstCAP1Fangst siden forrige COE eller CAT-melding fordelt på fiskesort i kilo rund vekt. Parvis angitt.Antall fiskedagerDFP1Antall fiskedager i området siden fiskestart eller siste daglige fangstmeldingFangstområdeRAP2Kode for område der fangsten er tattMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettelig eller uaktsom overtredelse av denne forskrift straffes i henhold til § 11 i lov av 16. juni 1972 nr. 57 om regulering av deltagelsen i fisket og § 53 i lov av 3. juni 1983 nr. 40 om saltvannsfiske m.v.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. juli 1999.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

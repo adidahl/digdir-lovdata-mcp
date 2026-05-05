@@ -1,0 +1,82 @@
+{
+  "id": "FOR-2014-12-19-1860",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om skattefradrag for uføre",
+  "short_title": "Forskrift om skattefradrag for uføre",
+  "department": "Finansdepartementet",
+  "date_in_force": "2014-12-19",
+  "last_change_in_force": "2016-01-04",
+  "last_changed_by": "forskrift/2016-01-04-2",
+  "lovdata_refid": "forskrift/2014-12-19-1860",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-12-19-1860",
+  "raw_xml_sha256": "de3eeeb7384163919154443438126869cb910bbc35dabeea0ac8805659ae22fd",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder beregning av fradrag i skatt for inntektsårene 2015, 2016 og 2017 for uføre som for inntektsåret 2015 får en betydelig nedgang i inntekt etter skatt, som følge av overgang til ny uføretrygd og endret skattlegging av uføreytelser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hvem omfattes av overgangsreglene",
+      "path": [],
+      "text": "Overgangsreglene gjelder forskattytere som har mottatt uførepensjon fra folketrygden i 2014 og ny uføretrygd fra folketrygden i 2015, fordi ervervsevnen er satt ned med minst 2/3, ogskattytere som har mottatt uførepensjon fra Statens pensjonskasse i 2014 og 2015 fordi ervervsevnen er satt ned med minst 2/3, men uten å fylle vilkårene for uføreytelse fra folketrygden.\nSkattytere som etter 1. januar 2015 får rett til uførepensjon med virkning fra før 1. januar 2015, omfattes ikke av overgangsreglene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår for skattefradrag",
+      "path": [],
+      "text": "Det er et vilkår for skattefradrag at skattyterhar fått skattebegrensning etter skatteloven § 17-1 første ledd bokstav a for inntektsåret 2014, og ville fått skattebegrensning for inntektsåret 2015 etter § 4 annet ledd bokstav b, oghar høyere kapitalutgifter enn kapitalinntekter i både 2014 og 2015. Er skattyter gift, tas det utgangspunkt i ektefellenes samlede kapitalutgifter og kapitalinntekter. Ektefellene må til sammen ha minst én krone mer i kapitalutgifter enn kapitalinntekter.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregning av endring i inntekt etter skatt for inntektsåret 2015",
+      "path": [],
+      "text": "Formålet med beregningen er å komme fram til endring i skattyters inntekt etter skatt som følge av overgangen fra uførepensjon og pensjonsskatteregler til uføretrygd og lønnsbeskatning.\nEndring i inntekt beregnes ved å sammenlignebruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015, ogbruttoinntekt fratrukket utlignet inntektsskatt og trygdeavgift for inntektsåret 2015 beregnet med uførepensjon og pensjonsskatteregler istedenfor uføretrygd og lønnsbeskatning. Uførepensjon settes til mottatt uførepensjon fra folketrygden og Statens pensjonskasse for 2014, oppjustert med 2,1 prosent. Dersom skattyter bare mottar uføretrygd for deler av 2015, skal den oppjusterte uførepensjonen reduseres tilsvarende. Ved skatteberegningen anvendes skattereglene for uførepensjon for inntektsåret 2014, men med satser og beløpsgrenser som for inntektsåret 2015.\nVed beregningen etter annet ledd bokstav b er det et vilkår at skattyter får skattebegrensning etter skatteloven § 17-1 første ledd bokstav a.\nEr inntekt etter skatt etter bokstav a lavere enn beregnet inntekt etter skatt etter bokstav b, gis fradrag i skatt etter § 5.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Skattefradragets størrelse",
+      "path": [],
+      "text": "For inntektsåret 2015 settes skattefradraget til nedgang i inntekt etter skatt beregnet etter reglene i § 4, fratrukket 4 000 kroner. Maksimalt skattefradrag er 100 000 kroner.\nFor inntektsåret 2016 og 2017 gis fradrag med henholdsvis 67 prosent og 33 prosent av det fradraget som er gitt for inntektsåret 2015.\nSkattefradraget gis ikke med høyere beløp enn summen av utlignede inntektsskatter og trygdeavgift. Ubenyttet beløp kan ikke fremføres til senere fradrag eller overføres til ektefellen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Fradrag ved opphør av uføretrygd",
+      "path": [],
+      "text": "Skattytere som fyller 67 år i løpet av 2015, får skattefradrag for inntektsåret 2015, beregnet etter § 4 og § 5, men ikke fradrag for inntektsårene 2016 og 2017.\nSkattytere som fyller 67 år i løpet av 2016, får fradrag etter § 5 annet ledd for inntektsåret 2016, men ikke fradrag for inntektsåret 2017.\nSkattytere som går fra uføretrygd til arbeid i løpet av 2016 eller 2017, får skattefradrag ut overgangsperioden.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Særregel for tidligere meldepliktige samboere",
+      "path": [],
+      "text": "For skattytere som for inntektsåret 2014 ble lignet som ektefeller etter skatteloven § 2-16, videreføres retten til ektefellebeskatning for inntekståret 2015. Det gjelder bare når vilkårene for skattefradrag etter denne forskrift er oppfylt og paret fremdeles er samboere. Hvis en av samboerne krever det, skal de likevel lignes som enslige.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks med virkning for inntektsårene 2015, 2016 og 2017.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

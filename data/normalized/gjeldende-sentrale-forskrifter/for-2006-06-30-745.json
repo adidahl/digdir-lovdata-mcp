@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2006-06-30-745",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om internrevisjon i Arbeids- og velferdsetaten.",
+  "short_title": "Forskrift om internrevisjon i NAV",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2006-07-01",
+  "lovdata_refid": "forskrift/2006-06-30-745",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-06-30-745",
+  "raw_xml_sha256": "b673b970f58b6ffc903ddbcfe1a917bf9a790dca679479f7e025830c34cc7d5b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Etablering av internrevisjon",
+      "path": [],
+      "text": "Det etableres en internrevisjon i Arbeids- og velferdsetaten. Internrevisjonen skal ha en uavhengig stilling og arbeide etter internasjonalt anerkjente standarder. Revisjonsdirektøren rapporterer faglig og administrativt til arbeids- og velferdsdirektøren. Denne fastsetter nærmere instruks for revisjonens virksomhet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Arbeidsområde",
+      "path": [],
+      "text": "Internrevisjonens arbeidsområde omfatter all virksomhet i Arbeids- og velferdsetaten, herunder også den kommunale delen av NAV-kontorene, samt virksomheter som forvalter eller er mottakere av tilskudd over Arbeids- og velferdsetatens budsjett. Internrevisjonen har tilgang til informasjon, medarbeidere og lokaler så langt det er nødvendig for å vurdere Arbeids- og velferdsetatens virksomhet og ansvarsområder. Kommunale revisjonsinstanser har tilsvarende tilgang til informasjon, medarbeidere og lokaler i den statlige delen i vedkommende NAV-kontor så langt det er nødvendig for å vurdere kommunens virksomhet og ansvarsområder. Revisjonsinstansene koordinerer sin revisjonsvirksomhet på NAV-kontorene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2006.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

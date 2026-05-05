@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2023-05-02-645",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift for implementering av rådsforordning (EU) 2020/699 av 25. mai 2020 om midlertidige tiltak med hensyn til generalforsamlinger i europeiske allmennaksjeselskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak)",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2023-05-02",
+  "lovdata_refid": "forskrift/2023-05-02-645",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-05-02-645",
+  "raw_xml_sha256": "6fbf3de2bb75ee7ffac76b09295780192d0d00ba737eeb83f2a09fc93f5f92f4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gjennomføring av forordning (EU) 2020/699",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XXII nr. 10k rådsforordning (EU) 2020/699 av 25. mai 2020 om midlertidige tiltak med hensyn til generalforsamlinger i europeiske allmennaksjeselskaper (SE-selskaper) og europeiske samvirkeforetak (SCE-foretak) gjelder som norsk forskrift (med de tilpasninger som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

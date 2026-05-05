@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2023-09-28-1501",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om godtgjørelse fra det offentlige til særskilte advokater i saker etter etterretningstjenesteloven",
+  "department": "Forsvarsdepartementet",
+  "date_in_force": "2023-10-01",
+  "lovdata_refid": "forskrift/2023-09-28-1501",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-09-28-1501",
+  "raw_xml_sha256": "329f00b908abbc66c4c6d5e415831bfab0ceeae28f34a84f28606a79d7f0b03f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Godtgjørelse av særskilt advokat",
+      "path": [],
+      "text": "Den som er oppnevnt som særskilt advokat etter etterretningstjenesteloven § 8-5 første ledd i en sak ved Oslo tingrett eller Borgarting lagmannsrett godtgjøres etter den offentlige salærsatsen, jf. salærforskriften § 2 første og andre ledd. Salærforskriften § 3, § 5 til § 8 og § 10 til § 13 gjelder tilsvarende. Godtgjørelse fastsettes av domstolen som behandler saken.\nStraffeprosessloven § 78 første ledd gjelder tilsvarende i saker ved Høyesterett.\nGodtgjørelse for kompetansetiltak fastsettes av Oslo tingrett før tiltaket iverksettes.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. oktober 2023.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

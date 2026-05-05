@@ -1,0 +1,196 @@
+{
+  "id": "FOR-2022-05-25-943",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nasjonale tekniske krav til jernbanekjøretøy (jernbanekjøretøyforskriften)",
+  "short_title": "Jernbanekjøretøyforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-01",
+  "lovdata_refid": "forskrift/2022-05-25-943",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-05-25-943",
+  "raw_xml_sha256": "5016806d6cfd72666a8326c2e0219925d016b401681c35b627ad45e9aa0db477",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften fastsetter minimumskrav til tekniske spesifikasjoner for kjøretøy. Dette for å oppnå sikker og hensiktsmessig ibruktaking, oppgradering, fornyelse, drift og vedlikehold av kjøretøy. Forskriften stiller også krav til søknader om tillatelse til test og transport av kjøretøy.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder alle kjøretøy på jernbanenettet, unntatt kjøretøy som er omfattet av arbeidsmaskinforskriften. Forskriften inneholder bestemmelser om søknad om tillatelse til test og transport, og nasjonale tekniske regler for slike kjøretøy. Bestemmelser som regulerer søknadsprosessen for tillatelse til å bringe kjøretøy i omsetning følger av samtrafikkforskriften kapittel 6.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "transport: kjøretøy som trekkes eller skyves som del av et tog, uten bruk av egen trekkraft. Eksempelvis nytt materiell som trekkes av et kjøretøy som har tillatelse,tog: trekkraftkjøretøy, med eller uten vogner, som er gitt et tognummer i en rute og som skal kjøres fra et bestemt utgangssted til et bestemt ankomststed,skift: kjøretøy som flyttes under skifting,skifting: flytting av kjøretøy på en stasjon eller på et sidespor og eventuelt på deler av et hovedspor som det er nødvendig å benytte for å utføre skifting,kjøretøy: et jernbanekjøretøy som kjører på egne hjul på jernbane, med eller uten egen trekkraft. Et kjøretøy er sammensatt av et eller flere strukturelle og funksjonelle delsystemer, eller deler av slike delsystemer, og har tre eller flere hjul,delsystemer: resultatet av inndelingen av jernbanesystemet, som beskrevet i vedlegg II til samtrafikkforskriften. Disse delsystemene som det må fastsettes grunnleggende krav til, er av strukturell eller funksjonell karakter,OTM (on-track machine): arbeidskjøretøy som er særskilt konstruert for bygging og vedlikehold av spor og infrastruktur, som har eller kan få tillatelse til å kjøre på åpen linje,DeBo: Utpekt organ som verifiserer samsvar med nasjonale regler.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Ansvar for sikkerheten",
+      "path": [
+        "Kapittel 2. Krav til jernbanevirksomheter"
+      ],
+      "text": "Jernbanevirksomheten skal sikre at kjøretøyene til enhver tid er i en slik stand at det legges til rette for sikker drift av jernbanesystemet. Kjøretøy skal ha en teknisk og driftsmessig tilstand som gjør at kjøretøyet har et akseptabelt sikkerhetsnivå.\nKjøretøytypen skal sikkert integreres i sikkerhetsstyringssystemet. Strekningskompatibilitet mellom kjøretøy og infrastruktur skal vurderes og dokumenteres i sikkerhetsstyringssystemet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Teknisk dokumentasjon",
+      "path": [
+        "Kapittel 2. Krav til jernbanevirksomheter"
+      ],
+      "text": "Jernbanevirksomheten skal ha teknisk dokumentasjon som beskriver de forutsetninger og begrensninger som er knyttet til kjøretøyet. Dokumentasjonen skal kunne bekrefte at systemer, deler og komponenter er i samsvar med de nasjonale og internasjonale standarder som er lagt til grunn for konstruksjon og bruk av kjøretøyet. Disse forutsetningene og begrensningene skal legges til grunn for prosedyrer for drift og vedlikehold av kjøretøyet.\nDen som eier kjøretøyet eller forvalter kjøretøyet på vegne av eier, skal inneha oppdatert dokumentasjon for kjøretøyet. Den som bruker kjøretøyet plikter å bidra til oppdatering av dokumentasjonen, blant annet vedlikeholdsdokumentasjon og operasjonelle betingelser av sikkerhetsmessig betydning for kjøretøyet. Endringer av operasjonelle krav og vedlikeholdsdokumentasjon for kjøretøyet skal dokumenteres med risikoanalyse, risikovurdering og betingelser for sikker bruk.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Register og merking",
+      "path": [
+        "Kapittel 2. Krav til jernbanevirksomheter"
+      ],
+      "text": "Jernbanevirksomheten skal ha et register over alle kjøretøy som virksomheten bruker. Registeret skal identifisere kjøretøy individuelt.\nKjøretøy skal være identitetsmerket i henhold til samtrafikkforskriften, samt teknisk og bruksmessig merket i henhold til TSI-krav.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Drift, kontroll og vedlikehold av kjøretøy",
+      "path": [
+        "Kapittel 2. Krav til jernbanevirksomheter"
+      ],
+      "text": "Jernbanevirksomheten skal drifte og vedlikeholde kjøretøyene i henhold til nasjonale og internasjonale standarder.\nJernbanevirksomheten skal føre kontroll med kjøretøy. Jernbanevirksomheten skal identifisere sikkerhetskritiske systemer, deler og komponenter og fastsette sikkerhetsmessige minimumskrav for disse.\nJernbanevirksomheten har ansvaret for at kjøretøyet blir vedlikeholdt. Vedlikeholdet skal sikre at ingen sikkerhetskritiske systemer, deler eller komponenter forringes så mye at det fører til funksjonssvikt. Blant annet skal sikkerhetsmessige slitasjegrenser for slitasjeutsatte deler være angitt, og terminer for vedlikehold og utskifting for alle sikkerhetskritiske komponenter skal være angitt. Jernbanevirksomheten skal dokumentere utført vedlikehold.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Vilkår for tillatelse til å bringe kjøretøy i omsetning",
+      "path": [
+        "Kapittel 3. Krav til kjøretøy"
+      ],
+      "text": "For å få tillatelse til å bringe kjøretøy i omsetning etter samtrafikkforskriften kapittel 6, må kjøretøy oppfylle kravene i relevante TSI-er og nasjonale tekniske krav i vedlegget.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Tillatelse til transport av kjøretøy som ikke har tillatelse fra før",
+      "path": [
+        "Kapittel 4. Tillatelse til transport"
+      ],
+      "text": "Transport av kjøretøy som ikke har tillatelse krever egen transporttillatelse fra Statens jernbanetilsyn.\nSøknad om slik transporttillatelse skal minst inneholde:transportplan,risikovurdering,vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettetbekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, ogeventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Tillatelse til transport av kjøretøy som har tillatelse i et annet EØS-land",
+      "path": [
+        "Kapittel 4. Tillatelse til transport"
+      ],
+      "text": "Transport av kjøretøy som har tillatelse i et annet EØS-land, men ikke i Norge, krever egen transporttillatelse fra Statens jernbanetilsyn.\nSøknad om slik transporttillatelse skal minst inneholde:transportplan,bekreftelse på tillatelse fra et EØS-land,risikovurdering,vurdering av teknisk kompatibilitet mellom kjøretøyet og jernbanenettet,bekreftelse på at kjøretøyet er i en slik stand at det kan transporteres på en sikker måte, ogeventuelle betingelser ved transport, for eksempel hastighetsbegrensninger.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Søknad om testtillatelse for kjøretøy uten tillatelse",
+      "path": [
+        "Kapittel 5. Tillatelse til test"
+      ],
+      "text": "Test av kjøretøy krever egen testtillatelse fra Statens jernbanetilsyn. Testen organiseres og planlegges av søker i henhold til kravene i vedlegget punkt 1.4 og 3.2.1.\nDet skal benyttes assessor (ISA) i forbindelse med testaktiviteter fordelt på hovedområder, blant annet kjøredynamikk, bremser, vintertester/klimatiske tester, EMC og delsystem styring, kontroll og signal om bord. Assessor skal aksepteres av Statens jernbanetilsyn.\nDelsystem styring, kontroll og signal om bord skal testes særskilt etter kravene i § 5-4.\nVed bruk av datasimuleringer skal det legges stor vekt på at forutsetningene lagt til grunn for slike vurderinger gjenspeiler en virkelig situasjon. De samme prinsippene gjelder for sammenligningsanalyse mot et referansesystem.\nFølgende dokumentasjon vedlegges søknaden:EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med Statens jernbanetilsyn på forhånd.testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.\nStatens jernbanetilsyn kan kreve ytterligere dokumentasjon ved behov.\nTestrapport skal kunne gjøres tilgjengelig for Statens jernbanetilsyn.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Søknad om testtillatelse for kjøretøy med tillatelse fra et annet EØS-land",
+      "path": [
+        "Kapittel 5. Tillatelse til test"
+      ],
+      "text": "Test av kjøretøy krever egen testtillatelse fra Statens jernbanetilsyn. Testen organiseres og planlegges av søker i henhold til kravene i vedlegget punkt 1.4 og 3.2.1.\nDet skal benyttes assessor (ISA) i forbindelse med testaktiviteter fordelt på hovedområder, blant annet kjøredynamikk, bremser, vintertester/klimatiske tester, EMC og delsystem styring, kontroll og signal om bord. Assessor skal aksepteres av Statens jernbanetilsyn. Tester utført i et annet EØS-land skal kunne aksepteres så langt de passer.\nDelsystem styring, kontroll og signal om bord skal testes særskilt etter kravene i § 5-4.\nVed bruk av datasimuleringer skal det legges stor vekt på at forutsetningene lagt til grunn for slike vurderinger gjenspeiler en virkelig situasjon. De samme prinsippene gjelder for sammenligningsanalyse mot et referansesystem.\nFølgende dokumentasjon vedlegges søknaden:Dokumentasjon på at kjøretøyet har tillatelse til å ta i bruk i en annen EØS-stat, og eventuelle vilkår for denne tillatelsen.EF-verifiseringserklæring med sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.Testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.\nStatens jernbanetilsyn kan kreve ytterligere dokumentasjon ved behov.\nTestrapport skal kunne gjøres tilgjengelig for Statens jernbanetilsyn.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Søknad om testtillatelse ved endring av kjøretøy",
+      "path": [
+        "Kapittel 5. Tillatelse til test"
+      ],
+      "text": "Test av kjøretøy krever egen testtillatelse fra Statens jernbanetilsyn. Behovet for testing og testomfang som skal validere endringen vurderes av Statens jernbanetilsyn. Datasimulering kan være akseptabelt ved mindre endringer. Ved bruk av datasimuleringer skal det legges stor vekt på at forutsetningene lagt til grunn for slike vurderinger gjenspeiler en virkelig situasjon. De samme prinsippene gjelder for sammenligningsanalyse mot et referansesystem.\nDet skal benyttes assessor (ISA) i forbindelse med testaktiviteter fordelt på hovedområder, blant annet kjøredynamikk, bremser, vintertester/klimatiske tester, EMC og delsystem styring, kontroll og signal om bord. Assessor skal aksepteres av Statens jernbanetilsyn.\nTester for validering av sikker integrering mellom kjøretøyet og jernbaneinfrastrukturen vurderes særskilt. Ved endring av ombordutrustningen skal kravene i § 5-4 følges.\nFølgende dokumentasjon vedlegges søknaden:dokumentasjon på at kjøretøyet har tillatelse til å tas i bruk i Norge,EF-verifiseringserklæring med midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er,verifiseringserklæring med midlertidige sertifikater og dokumentasjon utarbeidet av DeBo for samsvar med de relevante kravene gitt i vedlegget her,sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer i henhold til CSM RA. Risikovurdering som følger CSM RA-prinsippene kan benyttes ved prosjekter av mindre omfang. Dette skal avtales med SJT på forhånd.testplan med aktiviteter og risikovurdering knyttet til den aktuelle testplanen.\nStatens jernbanetilsyn kan kreve ytterligere dokumentasjon.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Krav i forbindelse med testing av delsystem styring, kontroll og signal om bord (CCS) – klasse A eller klasse B",
+      "path": [
+        "Kapittel 5. Tillatelse til test"
+      ],
+      "text": "Det skal gjøres tester av utstyret for styring, kontroll og signal om bord. Dette gjelder både nye kjøretøy og kjøretøy som endrer delsystem styring, kontroll og signal om bord. Test av kjøretøy krever egen testtillatelse fra Statens jernbanetilsyn.\nDet skal benyttes assessor i forbindelse med testaktiviteter for CCS-ombordutrustning. Assessor skal aksepteres av Statens jernbanetilsyn.\nBehov for test og testomfang som skal validere endringen vurderes av Statens jernbanetilsyn. Tester for validering av sikker integrering mellom kjøretøyet og jernbaneinfrastrukturen vurderes særskilt.\nVed endring av kjøretøy som følge av innmontering av CCS-ombordutrustning klasse A eller klasse B, skal særskilte testspesifikasjoner følges. Testspesifikasjonene for klasse B skal aksepteres av infrastrukturforvalter. Testspesifikasjoner for klasse A er publisert på ERAs hjemmesider (ESC/RSC).\nTestspesifikasjoner skal knyttes til definerte teststrekninger fastlagt av infrastrukturforvalter og skal integreres i overordnet testplan. Testresultater skal aksepteres av infrastrukturforvalteren.\nVed søknad om test skal følgende dokumentasjon sendes til Statens jernbanetilsyn:EF-verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for de delsystemene i kjøretøyet som er omfattet av TSI-er.Verifiseringserklæring med tilhørende sertifikater eller midlertidige sertifikater og dokumentasjon for samsvar med de kravene gitt i vedlegget her.Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering av kjøretøyets relevante delsystemer iht CSM RA.Sikkerhetsvurderingsrapport som bekrefter tilfredsstillende nivå for sikker integrering mellom kjøretøyet og det norske jernbanesystemet iht CSM RA.\nTest av ombordutrustningen kan gjøres som del av en generell test av kjøretøyet i henhold til § 5-1 til § 5-3. Dokumentasjonskravene i denne bestemmelsen supplerer kravene i de andre bestemmelsene.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Enhet med ansvar for vedlikehold",
+      "path": [
+        "Kapittel 6. Enhet med ansvar for vedlikehold"
+      ],
+      "text": "Før kjøretøy tas i bruk på jernbanenettet, skal de ha fått tilordnet en enhet med ansvar for vedlikehold. Denne enheten skal registreres i kjøretøyregisteret i henhold til samtrafikkforskriften § 6-12.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Oppgaver for enhet med ansvar for vedlikehold",
+      "path": [
+        "Kapittel 6. Enhet med ansvar for vedlikehold"
+      ],
+      "text": "Enhet med ansvar for vedlikehold skal sikre at kjøretøy opprettholder en sikker driftstilstand ved hjelp av et vedlikeholdssystem. Kjøretøy skal vedlikeholdes i henhold til vedlikeholdsdokumentasjonen for hvert enkelt kjøretøy og de gjeldende kravene til kjøretøy som følger av samtrafikkforskriften og forskriften her, herunder krav til vedlikehold i § 2-4.\nUtpeking av enhet med ansvar for vedlikehold berører ikke jernbanevirksomheters ansvar for sikker bruk av kjøretøy i henhold til § 2-1, § 2-4 og jernbanelovgivningen for øvrig.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Statens jernbanetilsyn kan i særlige tilfeller gjøre unntak fra kravene i forskriften her, herunder vedlegget. Unntak fra krav i TSI-ene kan bare gis i den grad det følger av samtrafikkforskriften.\nStatens jernbanetilsyn kan gi unntak fra kravene til å identifisere enhet med ansvar for vedlikehold for veteran- eller museumskjøretøy som trafikkerer det nasjonale jernbanenettet, så lenge disse kjøretøyene er i henhold til jernbanelovgivningen for øvrig. Slike unntak kan gis for inntil fem år om gangen.\nUnntak som nevnt i annet ledd kan gis i forbindelse med registrering av kjøretøy etter samtrafikkforskriften § 7-2 eller ved utstedelse av sikkerhetssertifikat til jernbaneforetak eller sikkerhetstillatelse til infrastrukturforvalter etter sikkerhetsforskriften kapittel 5 og 6.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Ikrafttredelse og unntak",
+      "path": [
+        "Kapittel 7. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. juni 2022. Fra samme dato gjøres følgende endringer i andre forskrifter:Forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften) oppheves.Unntak som er gitt med hjemmel unntaksbestemmelser i forskrift 19. desember 2005 nr. 1621 om krav til jernbaneforetak på det nasjonale jernbanenettet (sikkerhetsforskriften) eller med hjemmel i forskrift 21. juni 2012 nr. 633 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften) og forskrift 19. desember 2016 nr. 1846 om kjøretøy på det nasjonale jernbanenettet (kjøretøyforskriften) gjelder videre så langt unntaket rekker.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    }
+  ]
+}

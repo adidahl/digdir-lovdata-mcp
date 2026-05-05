@@ -1,0 +1,36 @@
+{
+  "id": "FOR-2024-06-26-1360",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til endringer i lov 8. mars 2002 nr. 4 om barnetrygd (barnetrygdloven) § 4 femte ledd og § 11",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2024-07-01",
+  "lovdata_refid": "forskrift/2024-06-26-1360",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-06-26-1360",
+  "raw_xml_sha256": "ec291faccbb62f4ed22504b7f542cfff752ac0b8d01dea0efbff8b4c73f20f98",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Endringen i barnetrygdloven § 4 femte ledd gis ikke virkning for personer som har fått innvilget sin første midlertidige oppholdstillatelse etter utlendingsloven § 34 andre ledd før 7. desember 2023.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Endringene i barnetrygdloven § 11 gis ikke virkning for personer som oppfylte vilkårene i barnetrygdloven § 2 før 1. juli 2024 så lenge søknad om etterbetaling er satt fram innen tre måneder etter dette tidspunktet (1. oktober 2024).",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Overgangsreglene gjelder fra 1. juli 2024.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

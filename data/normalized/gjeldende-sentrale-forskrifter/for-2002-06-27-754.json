@@ -1,0 +1,106 @@
+{
+  "id": "FOR-2002-06-27-754",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om skips navn, kjenningssignal, merking og hjemsted mv.",
+  "short_title": "Forskrift om skips navn, kjenningssignal mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2002-07-01",
+  "last_change_in_force": "2025-06-26",
+  "last_changed_by": "forskrift/2025-06-26-1372",
+  "lovdata_refid": "forskrift/2002-06-27-754",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2002-06-27-754",
+  "raw_xml_sha256": "4f674d76497bc12402919e00ff14a0c7cded4c50d022411f22bd6e6305be869e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder norske skip og, så langt den passer, innretninger som nevnt i sjøloven § 33, § 39 og § 507.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskrift betyr:Fiske- og fangstfartøy: Fartøy som ervervsmessig benyttes til å fange fisk, herunder hval, sel, tang og tare eller andre levende ressurser i sjøen.IMO (International Maritime Organization): Den internasjonale skipsfartsorganisasjon.Lekter: Et skrog eller skip uten fremdriftsmaskineri som skal slepes eller skyves ved all forflytning og som anvendes til føring av last.Rederiet: Definisjonen av rederiet i skipssikkerhetsloven § 4 gjelder tilsvarende.Skip: Skip omfatter i denne forskrift også innretninger som nevnt i sjøloven § 33, § 39 og § 507, med mindre annet uttrykkelig fremgår.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Fravik",
+      "path": [],
+      "text": "I enkelttilfeller kan Sjøfartsdirektoratet etter skriftlig søknad fravike forskriftens krav. Spesielle grunner må gjøre fraviket nødvendig, og fraviket må være sikkerhetsmessig forsvarlig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Skipsnavn",
+      "path": [],
+      "text": "Ethvert skip skal ha navn som bestemmes av eieren. Navnet innføres i registeret med latinske bokstaver.\nSkriftlig søknad om navneattest etter sjøloven § 7, fremlegges for Sjøfartsdirektoratet, som skal påse at det ikke finnes:registrerte skip, jf. sjøloven § 11 annet leddnavneattest nyere enn 5 år som ikke er fremlagt til registrering, ellernavnereservasjon nyere enn 5 år,på det valgte navnet eller navn som ortografisk eller fonetisk er egnet til å forveksles med dette navnet.\nSelv om det i norsk internasjonalt skipsregister finnes andre skip med samme navn, er dette ikke til hinder for at navnet registreres i norsk internasjonalt skipsregister slik:eksisterende skip som innføres i registeret kan beholde det navn det har,nybygg kan få samme navn som eksisterende skip i registeret hvis rederiet i løpet av de 5 siste år har anvendt navnet i norsk eller utenlandsk skipsregister.\nBareboatregistreres et skip etter sjøloven § 40, gjelder tredje ledd tilsvarende.\nAnmeldelse til registrering eller melding om navneendring må skje innen 5 år fra attestens utstedelse for at denne skal anses gyldig.\nFor registrert skip som ikke skal ha navneattest, jf. sjøloven § 7 fjerde ledd, kan endring av navn meddeles direkte til registerførerne.\nNavn tildelt skip i norsk ordinært skipsregister etter sjøloven § 11, skal ikke være til hinder for navn tildelt skip i norsk internasjonalt skipsregister. Navn tildelt skip i norsk internasjonalt skipsregister skal ikke være til hinder for navn tildelt skip i norsk ordinært skipsregister.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Kjenningssignal",
+      "path": [],
+      "text": "Skip som skal registreres skal tildeles kjenningssignal. Det samme gjelder skip under 15 meter som skal ha offentlig sertifikat og fiske- og fangstfartøy mellom 10,67 og 15 meter. Kjenningssignalet tildeles av Sjøfartsdirektoratet.\nSkipets kjenningssignal beholdes uendret så lenge skipet ikke er gått tapt, hugget opp, ikke er omregistrert mellom norsk ordinært skipsregister og norsk internasjonalt skipsregister, eller ikke er å anse som norsk, jf. sjøloven § 28 og NIS-loven § 2.\nVed ny registrering i norsk register innen 5 år etter at fartøyet ble slettet for registrering i annet lands register eller for fartøy under 15 meter som er blitt frivillig slettet, kan samme kjenningssignal tildeles dersom dette ikke er tatt i bruk på nytt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "IMO identifikasjonsnummer",
+      "path": [],
+      "text": "Skip med en bruttotonnasje på 100 og derover skal være utstyrt med et IMO identifikasjonsnummer for skip. Unntatt fra denne bestemmelse er lektere, fiske- og fangstfartøy, fritidsbåter samt innretninger som nevnt i sjøloven § 33 og § 39.\nFor nye skip formidles IMO identifikasjonsnummer av Sjøfartsdirektoratet samtidig med tildeling av kjenningssignal. Skip som innføres fra utlandet, og som av utenlandsk myndighet er gitt et IMO identifikasjonsnummer, beholder dette uendret.\nIMO identifikasjonsnummer skal følge skipet uendret selv om skipet skifter navn eller eier. Identifikasjonsnummeret skal inntas i skipets nasjonalitetsbevis, målebrev og sertifikater utstedt i medhold av skipssikkerhetsloven, samt innhugges i skipet på samme måte som kjenningssignalet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Hjemsted",
+      "path": [],
+      "text": "Ved innføring i skipsregistrene skal eier, med de begrensningene som er fastsatt i sjøloven § 8 tredje ledd, velge mellom hjemsteder som er godkjent av Sjøfartsdirektoratet. Bareboatregistreres et skip etter sjøloven § 40 eller NIS-loven § 14, velger befrakter mellom de godkjente hjemstedene.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Påføring av endringer på målebrev og eventuelle andre skipspapirer",
+      "path": [],
+      "text": "Skip som befinner seg i Norge:Hvis skipets målebrev legges frem for skipsregisterfører for endring av navn, eier eller hjemsted, skal registerføreren påføre endringene i målebrevet.Er endringen ikke påført skipets målebrev ved registreringen, plikter skipsføreren å oppsøke en av Sjøfartsdirektoratets stasjoner og fremlegge nasjonalitetsbeviset for påføring av endringer i målebrevet.\nNår skipet befinner seg i utlandet plikter skipsfører, når skipsfører har mottatt nytt eller midlertidig nasjonalitetsbevis, å oppsøke nærmeste utenriksstasjon og fremlegge nasjonalitetsbeviset for påtegning på målebrev og nødvendige øvrige skipspapirer.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Merking",
+      "path": [],
+      "text": "Skip som innføres i Skipsregistrene skal ha navnet merket forut og akter, synlig fra begge sider av fartøyet. Akter skal også navnet på hjemstedet merkes. Bokstavene skal være lett leselige og minst 15 centimeter høye. For fartøy under 15 meter skal navnet merkes godt synlig fra begge sider av fartøyet. Bokstavene skal være lett leselige og minst 6 centimeter høye.\nKjenningssignal og IMO identifikasjonsnummer skal varig merkes.\nFor fartøy under 15 meter skal kjenningsbokstavene i tillegg merkes utvendig på skroget, slik Sjøfartsdirektoratet spesifiserer ved tildeling.\nMerking av kjenningssignal og IMO identifikasjonsnummer:Merkingen skal foretas ved innhugging, påsveising eller kjøring i en dekksbjelke, lukekarm, skott eller annet passende sted om bord. Merkingen skal ikke anbringes på en plate som kan fjernes. Innhuggingene skal til enhver tid være malt med en kontrastfarge.IMO identifikasjonsnummeret skal merkes som kjenningssignalet og plasseres i kjenningssignalets umiddelbare nærhet. Det skal være mellomrom mellom bokstav- og tallrekken.I fartøyer som Internasjonal konvensjon om måling av fartøyer, 1969 er gjort gjeldende for, skal hvert enkelt lasterom/lastetank merkes permanent med bokstavene CC som skal være plassert slik at de er godt synlige.Når skip som har vært underlagt tidligere tonnasjebestemmelser går over til å følge Internasjonal konvensjon om måling av fartøyer, 1969 skal tonnasjemerkene uthugges.Merkingen skal ha følgende dimensjoner:For fartøyer med lengde (L) < 24 meter: Høyde på bokstav og tall 6 cm, tykkelse 1 cm og innbyrdes avstand 1,5 cm.For fartøyer med lengde (L) ≥ 24 meter: Høyde på bokstav og tall 12 cm, tykkelse 1,5 cm og innbyrdes avstand 3 cm.Bokstavene CC for merking av lasterom/lastetank skal være 10 cm høye.\nMelding om hvor kjenningssignal og IMO identifikasjonsnummer er innhugd, sendes Sjøfartsdirektoratet. For skip hvor kontrollen er delegert sendes meldingen til klasseselskapet.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Salg av skip til utlandet, uthugging av kjenningssignal og innlevering av dokumenter",
+      "path": [],
+      "text": "Når et skip selges til utlandet, bareboat-utflagges etter sjøloven § 40b eller NIS-loven § 16, eller omregistreres mellom norsk ordinært skipsregister og norsk internasjonalt skipsregister, skal det hugges en strek over kjenningssignalet. IMO identifikasjonsnummer skal ikke hugges ut.\nSkal skipet overtas i norsk havn, skal rederiet innlevere skipets nasjonalitetsbevis, målebrev, sertifikat om forsikring eller annen økonomisk sikkerhet for ansvar for skade ved oljesøl eller bunkeroljesøl samt øvrige norske skipspapirer og bekreftelse på at kjenningssignalet er uthugget, til Sjøfartsdirektoratet.\nSkjer overleveringen i utenlandsk havn, skal ovennevnte dokumenter innleveres til vedkommende norske utenriksstasjon.\nInternasjonale sikkerhetssertifikat for utstyr, konstruksjon og radio samt internasjonalt lastelinjesertifikat kan overlates ny eier når det er gitt en påtegning om ugyldighet på grunn av overføring til fremmed stats flagg av Sjøfartsdirektoratet, norsk utenriksstasjon eller autorisert klasseinstitusjon.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. juli 2002. Fra samme tidspunkt oppheves forskrift av 27. oktober 1980 nr. 3 om skips nasjonalitetsbevis, navn, hjemsted, kjenningssignal og om skipsmatrikkelen fastsatt av Sjøfartsdirektoratet og forskrift av 26. juni 1987 nr. 554 om navn for skip i norsk internasjonalt skipsregister, fastsatt ved kgl.res., fremmet av Handels- og skipsfartsdepartementet.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

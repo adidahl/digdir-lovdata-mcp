@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1986-05-15-4115",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tjenestepensjon og sykepenger (samordningsforskrift 43)",
+  "short_title": "Forskrift om tjenestepensjon og sykepenger",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1985-07-01",
+  "last_change_in_force": "2015-01-01",
+  "last_changed_by": "forskrift/2014-11-26-1468 fra 2015-01-01",
+  "lovdata_refid": "forskrift/1986-05-15-4115",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1986-05-15-4115",
+  "raw_xml_sha256": "dc6ae1a816779099b14d6656efa99a45ace04ba9aeccd8a3a4288d9f998693a4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Uførepensjon fra Statens Pensjonskasse, Pensjonsordning for apotekvirksomhet og Pensjonsordning for sykepleiere som er beregnet etter full pensjonsgivende tjenestetid og hel arbeidsuførhet, faller bort i den utstrekning pensjonisten får utbetalt sykepenger fra folketrygden.\nEr uførepensjon ikke beregnet etter full pensjonsgivende tjenestetid og hel arbeidsuførhet, skal fradraget i uførepensjonen avkortes forholdsmessig.\nFradrag for sykepenger foretas fra og med den dag pensjonisten oppebærer slik ytelse og opphører fra og med den dag sykepengene opphører.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Alderspensjon fra Statens Pensjonskasse, Pensjonsordningen for apotekvirksomhet og Pensjonsordningen for sykepleiere settes ned etter tilsvarende regler som under § 1, dersom sykepengene er beregnet av inntekter som også har vært pensjonsgivende i pensjonsordningen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft fra 1. juli 1985.\nTilsvarende regler gjelder for de kommunale pensjonsordninger.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

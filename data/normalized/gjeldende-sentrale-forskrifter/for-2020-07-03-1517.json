@@ -1,0 +1,667 @@
+{
+  "id": "FOR-2020-07-03-1517",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forurensning og avfall på Svalbard",
+  "short_title": "Forskrift om forurensning og avfall på Svalbard",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2021-01-01",
+  "last_change_in_force": "2023-10-01",
+  "last_changed_by": "forskrift/2023-06-02-1237 fra 2023-10-01",
+  "lovdata_refid": "forskrift/2020-07-03-1517",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-07-03-1517",
+  "raw_xml_sha256": "279dcd8e0055dd8228e44819d3c373f16a29f1dc0d2a9a68eec70af8bb3c1c5c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "(formål)",
+      "path": [
+        "Del I. Innledende bestemmelser",
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Denne forskriften har til formål å forebygge og redusere skade på det ytre miljø på Svalbard fra avfall og forurensning.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "(virkeområde)",
+      "path": [
+        "Del I. Innledende bestemmelser",
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Med de begrensninger som følger av folkeretten, gjelder forskriften for Svalbards landområder med sjøområdet ut til territorialgrensen.\nKapittel 9 gjelder også for utenlandske skip.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "(definisjoner)",
+      "path": [
+        "Del I. Innledende bestemmelser",
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forskriften menes medavfall: det som er definert som avfall i svalbardmiljøloven § 3 første ledd bokstav b)farlig avfall: det som er definert som farlig avfall i § 11-2 i forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfallforurensning: det som er definert som forurensning i svalbardmiljøloven § 3 første ledd bokstav a)lovlig avfallsanlegg: virksomhet som har nødvendig tillatelse eller godkjenning til mottak eller behandling av avfallplanansvarlig: grunneieren eller den som er bemyndiget som planansvarlig etter svalbardmiljøloven § 48planområde: område som er definert som planområde i forskrift 28. juni 2002 nr. 650 om konsekvensutredninger og avgrensning av planområdene på Svalbardtiltakshaver: den som er definert som tiltakshaver i svalbardmiljøloven § 3 første ledd bokstav o).",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "(forbud mot terrenginngrep i forurenset grunn)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Ingen må gjøre terrenginngrep i områder med forurenset grunn uten tillatelse etter svalbardmiljøloven § 57 eller § 58.\nMed terrenginngrep menes graving, planering, masseuttak, utfylling og andre inngrep som kan være til skade eller ulempe for miljøet ved at eksisterende forurensning spres eller gjøres mindre tilgjengelig for oppryddingstiltak.\nDersom et terrenginngrep i forurenset grunn i et planområde ikke vil medføre fare for nevneverdige skader eller ulemper for helse eller miljø, kan Sysselmesteren eller den departementet bemyndiger i enkeltvedtak bestemme at det ikke er behov for å innhente tillatelse til forurensning etter svalbardmiljøloven § 58 tredje ledd bokstav b).\nTerrenginngrep i forurenset grunn som er nødvendige for å gjennomføre umiddelbare reparasjoner på vann, avløp, fjernvarme eller annen kritisk infrastruktur som følge av akutte hendelser, kan skje uten tillatelse. Masser som graves opp, skal legges tilbake på samme sted. Dersom det er fare for avrenning eller annen spredning av forurensning i forbindelse med terrenginngrepet skal det gjøres tiltak for å forebygge dette.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "(plikt til å vurdere om det er forurenset grunn ved terrenginngrep)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Når terrenginngrep planlegges i områder der det er grunn til å tro at det er forurenset grunn, skal tiltakshaver sørge for nødvendige undersøkelser for å klarlegge omfanget og betydningen av eventuell forurensning i grunnen.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "(krav til innhold i søknad om terrenginngrep i forurenset grunn)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Søknad om tillatelse til terrenginngrep i områder med forurenset grunn skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. I søknaden skal det som et minimum redegjøres forde undersøkelsene som er foretatt av forurensning i grunnenhvilke terrenginngrep som skal gjennomføres i forurenset grunn, samt en tidsplan for gjennomføringenen vurdering av risikoen for forurensningsspredning og eventuelle tiltak som anses nødvendige for å unngå spredning av forurensningden fremtidige arealbruken og vurdering av risiko for helse og miljø på kort og lang sikt, med tilhørende forslag til konsentrasjoner av enkeltstoffer som kan aksepteres i grunneneventuelle tiltak som bør gjennomføres som følge av vurderingen i bokstav d), inkludert foreslått tidsplan for gjennomføring av tiltakenehvordan forurenset masse skal disponeres, ogom det er behov for kontroll og overvåking under og etter terrenginngrepet, og i tilfelle hvilke tiltak som vurderes som nødvendige.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "(forbud mot mudring)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Ingen må mudre i sjø uten tillatelse etter svalbardmiljøloven § 57 eller § 58.\nMed mudring menes enhver forsettlig forflytning av masser fra bunnen, herunder slamsuging, forskyvning eller fjerning av bunnsedimenter. Mudring omfatter ikke oppvirvling som følge av normale aktiviteter i sjø, herunder normal skipstrafikk.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "(forbud mot dumping)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Ingen må dumpe avfall eller materiale i sjø uten tillatelse etter svalbardmiljøloven § 57 eller § 58.\nDet kan bare gis tillatelse til å dumpemuddermasser, løsmasser og stein, ellerannet avfall/materiale i helt spesielle situasjoner hvor deponering på land medfører uakseptabel fare eller skade.\nMed dumping menes enhver forsettlig disponering av avfall eller annet materiale i sjø med det formål å bringe det av veien. Dumping omfatter ikke disponering av avfall eller annet materiale som er knyttet til eller skriver seg fra vanlig drift av skip, innretning eller fiskeri- og oppdrettsnæring, unntatt når avfallet eller materialet er fraktet bort fra avfallskilden med det formål å bringe det av veien.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "(forbud mot plassering av materiale)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Ingen må plassere materiale i sjø for et annet formål enn det opprinnelig ble bygd eller konstruert for uten tillatelse etter svalbardmiljøloven § 57 eller § 58 fra Sysselmesteren eller den departementet bemyndiger.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "(forbud mot utfylling)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Ingen må fylle ut i sjø uten tillatelse etter svalbardmiljøloven § 57 eller § 58.\nMed utfylling menes enhver disponering av masser i sjø eller vassdrag som utvider landarealet.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "(krav til innhold i søknad om tillatelse til mudring, dumping, plassering av materiale og utfylling)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 2. Om forurenset grunn og mudring og dumping i sjø m.m."
+      ],
+      "text": "Søknad om tillatelse til mudring, dumping, plassering av materiale og utfylling i sjø skal inneholde de opplysningene som er nødvendig for å vurdere om tillatelse bør gis, og hvilke vilkår som skal settes. Søknaden skal inneholde opplysninger omformålet med tiltaketbunn- og naturforholdene der det søkes om tillatelseresultater fra undersøkelser av forurensning, dersom det er grunn til å tro at bunnen kan være forurensetfaren for spredning av forurensning og partikler fra tiltaket, ogom det er behov for kontroll og overvåking under og etter tiltaket, og i tilfelle hvilke tiltak som vurderes som nødvendige.\nSøknad om mudring skal i tillegg inneholde opplysninger ommengde og areal som ønskes mudret, inkludert kart der tiltaksområdet er inntegnet, ogopplysninger om hvordan muddermasser skal disponeres.\nSøknad om dumping, plassering av materiale og utfylling i sjø skal i tillegg inneholde opplysninger ommaterialet som skal dumpes, plasseres eller fylles ut, inkludert kart der området er inntegnet, ogmengde materiale som skal dumpes, plasseres eller fylles ut.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "(krav om tillatelse til tanklagring)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Ingen må lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier i tanker, herunder fat og kanner, uten at det er gitt tillatelse etter svalbardmiljøloven § 57 eller § 58 eller det er tillatt etter bestemmelsene i dette kapitlet.\nMed farlige kjemikalier menesstoffer som er tungt nedbrytbare, som akkumuleres i levende organismer og som kan gi skader selv når stoffet forekommer i lave konsentrasjoner,stoffer som er svært tungt nedbrytbare og svært bioakkumulerende, ogstoffer og stoffblandinger som er klassifisert i henhold til CLP-forordningen artikkel 3, jf. forskrift 16. juni 2012 nr. 622 om klassifisering, merking og emballering av stoffer og stoffblandinger (CLP-forskriften) § 1.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "(krav til lagring i tanker under 2 m3 i planområder)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Det er tillatt å lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier uten tillatelse i tanker under 2 m3 i planområder dersomlagringen er forsvarlig, ognødvendige tiltak for å unngå forurensning av miljøet eller skade på mennesker eller dyr iverksettes.\nSysselmesteren eller den departementet bemyndiger kan i enkeltvedtak bestemme at lagring etter første ledd likevel må ha tillatelse etter svalbardmiljøloven § 57 eller § 58.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "(krav til lagring i tanker mellom 2 m3 og 10 m3 i planområder)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Det er tillatt å lagre farlig avfall, petroleumsprodukter eller andre farlige kjemikalier uten tillatelse i tanker fra og med 2 m3 til 10 m3 i planområder, dersom lagringen oppfyller kravene i § 3-5 til § 3-7.\nSysselmesteren eller den departementet bemyndiger kan i enkeltvedtak bestemme at lagring etter første ledd i tillegg må ha tillatelse etter svalbardmiljøloven § 57 eller § 58.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "(krav til lagring i tanker utenfor planområder og i store tanker i planområder)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Lagring av farlig avfall, petroleumsprodukter eller andre farlige kjemikalier i tanker som er 10 m3 eller større i planområdene må ha tillatelse fra Miljødirektoratet eller den departementet bemyndiger. Kravene i § 3-5 til § 3-7 gjelder tilsvarende.\nLagring av farlig avfall, petroleumsprodukter eller andre farlige kjemikalier utenfor planområdene, som ikke omfattes av tredje ledd, må ha tillatelse fra Sysselmesteren eller den departementet bemyndiger. Kravene i § 3-5 til § 3-7 gjelder tilsvarende.\nLagring i eller ved hytter utenfor planområdene av mindre mengder petroleumsprodukter som er nødvendig til oppvarming eller transport, kan skje uten tillatelse. Det samme gjelder mindre mengder farlige kjemikalier til bruk i husholdning eller vedlikehold av hytter. Lagringen skal skje i henhold til kravene i § 3-2 første ledd.\nTillatelser gitt i medhold av svalbardmiljøloven før 1. januar 2021 er fortsatt gjeldende. Ved motstrid mellom krav i tillatelse og kravene i § 3-5 til § 3-7 gjelder de strengeste kravene.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "(krav til forsvarlig lagring og vurdering av miljørisiko)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Lagring skal skje på en forsvarlig måte for å unngå forurensning av miljøet eller skade på mennesker eller dyr.\nDen ansvarlige for lagringen skal vurdere miljørisikoen forbundet med lagringen. Vurderingen av miljørisikoen skal omfatte alle sider av tanklagringen som kan medføre fare for forurensning til vann, grunn og luft, inkludert tanker, rørledninger, tilknyttet utstyr, installasjoner, aktiviteter, operasjoner og eventuelle eksterne påvirkninger. Den skal også omfatte en vurdering av sårbarheten til miljøet som kan bli berørt av forurensning fra tanklagringen.\nVurderingen av miljørisiko etter første ledd skal oppdateres ved endrede lagringsforhold eller andre endringer som kan påvirke miljørisikoen.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "(krav til risikoreduserende tiltak)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Den ansvarlige for lagringen skal med utgangspunkt i miljørisikovurderingen sørge for å etablere og vedlikeholde de risikoreduserende tiltakene som er nødvendige for å forhindre forurensning. Følgende tiltak skal som et minimum iverksettes:Personer som deltar i planlegging, drift, inspeksjon, vedlikehold, beredskap, nedleggelse eller andre operasjoner knyttet til tanker som omfattes av kapittelet, skal ha relevant kompetanse.Tanker og tilknyttede rørledninger skal være sikret med nødvendige barrierer for å forhindre hendelser som kan medføre forurensning. En barriere er en teknisk eller organisatorisk funksjon eller et tiltak som er planlagt, etablert og vedlikeholdt for å bryte hendelsesforløp som kan medføre forurensning.Det skal etableres overvåking for å oppdage forurensning eller fare for forurensning ved fylling, tapping og andre aktiviteter tilknyttet tankene, og i perioder uten slike aktiviteter. Overvåkingstiltakene kan være både tekniske og organisatoriske.Tanker og rør skal merkes med innhold og annen relevant informasjon. Merkingen skal være godt synlig og lett forståelig for alle som kan ha befatning med tankene og rørene.\nVed endringer som kan påvirke miljørisikoen, skal de risikoreduserende tiltakene vurderes og om nødvendig tilpasses endringene i miljørisikoen.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-7",
+      "provision_ref": "§ 3-7",
+      "heading": "(krav til beredskap mot akutt forurensning)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 3. Om lagring av farlig avfall, petroleumsprodukter m.m. på tanker"
+      ],
+      "text": "Den ansvarlige for lagringen skal i medhold av svalbardmiljøloven § 70 første ledd sørge for nødvendig beredskap mot akutt forurensning. Beredskapen skal tilpasses miljørisikoen forbundet med lagringen, jf. § 3-5, og de risikoreduserende tiltakene, jf. § 3-6.\nDen ansvarlige for lagringen skal ha skriftlige rutiner for håndtering av akutt forurensing fra tanker og tilknyttede rørledninger jf. denne forskrift kapittel 11.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "(krav om tillatelse til utslipp av avløpsvann)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "Ingen må sette i verk utslipp av avløpsvann uten at det er gitt tillatelse etter svalbardmiljøloven § 57 eller § 58 med mindre utslippet er tillatt etter bestemmelsene i dette kapitlet.\nMed avløpsvann menes sanitært og industrielt avløpsvann.\nMed sanitært avløpsvann menes avløpsvann som i hovedsak stammer fra menneskers stoffskifte og husholdningsaktiviteter, herunder avløpsvann fra vannklosett, kjøkken, bad, vaskerom eller lignende.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "(plikt til å knytte seg til felles avløpsanlegg i planområdene m.m.)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "I planområder skal bygninger som har utslipp av sanitært avløpsvann, knyttes til felles avløpsanlegg med tillatelse etter svalbardmiljøloven § 58 dersom avløpsledning for slikt anlegg går over nærliggende areal.\nPlikten i første ledd gjelder også for eksisterende byggverk. For hytter gjelder plikten bare dersom det er bestemt i plan.\nSysselmesteren eller den departementet bemyndiger kan gjøre unntak fra plikten i første og andre ledd dersom kostnadsmessige eller miljømessige forhold tilsier det.\nFor sanitært avløpsvann anses tilknytning etter denne bestemmelsen som tillatelse til utslipp.\nSysselmesteren eller den departementet bemyndiger kan i enkeltvedtak bestemme at avløpsvann kan ledes inn i en annens avløpsanlegg.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "(krav til utslipp av gråvann fra hytter i planområder)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "Utslipp fra hytter av inntil 3000 liter gråvann per år kan skje uten tillatelse dersomhytta ligger i et område som er avsatt til hytteområde i godkjent plandet ikke er stilt krav om tilknytning til felles avløpsanleggutslippet skjer til grunn som er egnet til å infiltrere vannet, oggråvannet bare har innhold som er vanlig fra husholdninger.\nMed gråvann menes den delen av avløpsvannet fra vanlig husholdning som kommer fra kjøkken, bad og vaskerom. Klosettavløp er ikke inkludert.\nSysselmesteren eller den departementet bemyndiger kan kreve at utslipp omfattet av første ledd likevel må ha tillatelse.\nTillatelse til utslipp av inntil 3000 liter gråvann fra hytter i planområder som er gitt før 1. januar 2021 oppheves.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "(krav til utslipp av gråvann fra hytter utenfor planområder)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "Utslipp fra hytter utenfor planområder av inntil 500 liter gråvann per år kan skje uten tillatelse dersom vilkårene i § 4-3 første ledd bokstav c og d er oppfylt.\nSysselmesteren eller den departementet bemyndiger kan kreve at utslipp omfattet av første ledd likevel må ha tillatelse.\nTillatelse til utslipp av inntil 500 liter gråvann fra hytter utenfor planområder som er gitt før 1. januar 2021 oppheves.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "(krav til utslipp av avløpsvann fra vaskeplass for kjøretøy)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "Utslipp av avløpsvann fra fast vaskeplass for kjøretøy o.l. i virksomheter kan i planområder skje uten tillatelse dersomavløpsvannet slippes på felles avløpsanlegg med tillatelse etter svalbardmiljøloven § 58avløpsvannet ledes via sandfang eller lignende renseinnretning før det slippes på felles avløpsanlegg, oginnholdet av olje i avløpsvannet som slippes på felles avløpsanlegg ikke overstiger 50 mg/l.Sysselmesteren eller den departementet bemyndiger kan kreve at utslipp omfattet av første ledd likevel skal reguleres gjennom særskilt tillatelse.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-3-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "(tilleggskrav til avløpsvann som slippes på felles avløpsanlegg)",
+      "path": [
+        "Del II. Forurensning",
+        "Kapittel 4. Om avløp"
+      ],
+      "text": "I tillegg til eventuelle krav fastsatt i tillatelse etter svalbardmiljøloven § 57 eller § 58, kan Sysselmesteren eller den departementet bemyndiger i forskrift eller enkeltvedtak fastsette krav til innholdet i, eller nekte påslipp av, avløpsvann som tilføres felles avløpsanlegg.\nKrav i medhold av første ledd kan bare fastsettes for å sikre atavløpsanlegget kan overholde utslippskrav,avløpsanlegget ikke skades,driften av avløpsanlegget ikke vanskeliggjøres, ellerfor å beskytte helsen til personalet som arbeider ved anlegget.\nKrav etter første ledd kan ikke fastsettes for sanitært avløpsvann.",
+      "xml_path": "article#kapittel-2-kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "(unntak fra forbudet mot forsøpling i svalbardmiljøloven § 71)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 6. Om forsøpling"
+      ],
+      "text": "Forbudet mot forsøpling i svalbardmiljøloven § 71 første ledd er ikke til hinder for at avfall av rent trevirke og papir brukes som brensel ved bålbrenning eller ved fyring i ovn i bygninger.\nSysselmesteren kan i særlige tilfeller gjøre unntak fra forbudet i svalbardmiljøloven § 71 første ledd mot å etterlate avfall utenfor planområdet.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "(plikt til å sette opp avfallsbeholdere)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 6. Om forsøpling"
+      ],
+      "text": "Den som driver dagligvarehandel, kiosk, kafé eller annen virksomhet der det selges varer som kan forårsake forsøpling i området rundt utsalgsstedet, skal sørge for å sette opp og tømme avfallsbeholdere i nærheten av utsalgsstedet.\nDen som driver virksomhet som nevnt i første ledd, skal for øvrig foreta nødvendig opprydding i området. Plikt til å foreta nødvendig opprydding har også den som er ansvarlig for midlertidige salgsboder, leirplasser eller andre type aktiviteter innenfor planområdene som forårsaker forsøpling.\nSysselmesteren eller den departementet bemyndiger kan gi pålegg som er nødvendige for gjennomføring av reglene i første og andre ledd.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "(planansvarliges plikt til å etablere avfallsordninger)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Planansvarlig innenfor hvert av planområdene skal sørge for at det etableres et tilstrekkelig tilbud for innsamling og mottak av husholdningsavfall. For husholdningsavfall fra hytter plikter planansvarlig bare å etablere et tilbud for mottak av avfall. Med husholdningsavfall menes avfall fra private husholdninger, herunder større gjenstander som inventar og lignende.\nPlanansvarlig skal tilby innsamling og mottak av næringsavfall som i art og mengder ligner på avfall som oppstår i husholdningene. Med næringsavfall menes avfall fra offentlige og private virksomheter og institusjoner.\nSysselmesteren eller den departementet bemyndiger kan i forskrift bestemme at det skal etableres særskilte avfallsordninger for visse typer avfall, og bestemme at visse slag avfall skal holdes adskilt ved innsamling.\nPlanansvarlig skal sørge for at innsamlet og mottatt avfall blir levert videre til lovlig avfallsanlegg.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "(planansvarliges plikt til å utarbeide avfallsplan)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Planansvarlig innenfor hvert av planområdene skal sørge for at det utarbeides en avfallsplan for hvert planområde. Avfallsplanen skal inneholdeen oversikt over hvilke typer og mengder avfall som forventes å oppstå, herunder de ulike avfallskildenehvilke innsamlings- og mottaksordninger som det anses nødvendige å etablere for å oppfylle plikten i § 7-1en plan for videre behandling av avfallet, herunder hvor avfallet skal mellomlagres, hvilke avfallsanlegg avfallet skal leveres til og hvor ofte det skal leveres videre, ogtiltak for å begrense mengden avfall som oppstår i planområdet.\nAvfallsplanen skal omfatte både husholdningsavfall og næringsavfall og skal oppdateres ved behov.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "(husholdningers plikt til å delta i renovasjonsordninger)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Husholdninger og hytter i planområdene plikter å delta i avfallsordninger som er etablert etter § 7-1 første ledd, og etter forskrifter i medhold av § 7-1 tredje ledd, og skal levere alt sitt husholdningsavfall til disse ordningene.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "(virksomheters plikt til levering av næringsavfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Den som produserer næringsavfall, skal sørge for levering av avfallet til lovlig avfallsanlegg.\nSysselmesteren eller den departementet bemyndiger kan ved enkeltvedtak eller forskrift gjøre unntak fra første ledd, herunder tillate gjenvinning eller annen disponering av avfall.\nSysselmesteren eller den departementet bemyndiger kan ved enkeltvedtak eller forskrift bestemme at visse typer næringsavfall skal behandles på en bestemt måte, herunder pålegge produsenten å levere næringsavfall til et bestemt avfallsanlegg.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "(krav til håndtering av avfall fra riving og rehabilitering)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Ved riving og rehabilitering av bygning, konstruksjon eller anlegg der det kan forventes å oppstå mer enn 10 m3 avfall, skal tiltakshaveren sørge for at det utarbeides en skriftlig oversikt over avfallet som forventes å oppstå, og den planlagte håndteringen av dette. Bygningsdeler, byggtekniske installasjoner, inventar og lignende som kan utgjøre farlig avfall, skal kartlegges.\nTiltakshaveren skal sørge for dokumentasjon på hvor avfallet er levert.\nSysselmesteren eller den departementet bemyndiger kan fastsette forskrift med utfyllende krav til håndtering av avfall fra bygging, riving og rehabilitering av bygninger, konstruksjoner og anlegg.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "(krav om tillatelse til mottak og mellomlagring av avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Ingen må drive anlegg for mottak eller mellomlagring av avfall uten tillatelse etter svalbardmiljøloven § 57 eller § 58.\nSysselmesteren eller den departementet bemyndiger kan gjøre unntak fra plikten til å ha tillatelse i første ledd dersom anlegget ikke medfører fare for forurensning eller ikke virker skjemmende.\nAnlegg etablert før 1. januar 2021, kan drive videre uten tillatelse med mindre Sysselmesteren bestemmer at det må søkes om tillatelse.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-7",
+      "provision_ref": "§ 7-7",
+      "heading": "(krav om tillatelse til behandling av avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Ingen må drive anlegg for behandling av avfall uten tillatelse etter svalbardmiljøloven § 57 eller § 58.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "(myndighet til å fatte enkeltvedtak om innsamling, gjenvinning og annen behandling av avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 7. Om innsamling og behandling av avfall"
+      ],
+      "text": "Sysselmesteren eller den departementet bemyndiger kan treffe enkeltvedtak omtiltak for å redusere avfallsmengdeninnlevering, innsamling, mottak, transport, sortering og behandling av avfallat visse slag avfall skal gjenvinnes eller fraktes bort med sikte på gjenvinningat avfall skal fraktes bort for behandling andre steder.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "(krav til forsvarlig lagring m.m. av farlig avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 8. Om farlig avfall"
+      ],
+      "text": "Farlig avfall skal tas hånd om på en forsvarlig måte. Alle som oppbevarer, transporterer eller håndterer farlig avfall, skal treffe nødvendige tiltak for å unngå forurensning av miljøet eller skade på mennesker eller dyr.\nVirksomheter som lagrer farlig avfall, skal merke beholderne med hva de inneholder. Merkingen må tåle påregnelige kjemiske, fysiske og klimatiske påvirkninger.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "(forbud mot sluttbehandling av farlig avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 8. Om farlig avfall"
+      ],
+      "text": "Sluttbehandling av farlig avfall er forbudt. Miljødirektoratet eller den departementet bemyndiger kan gi tillatelse til sluttbehandling av farlig avfall på Svalbard dersom særlige grunner tilsier det.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "(husholdningers opplysningsplikt om farlig avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 8. Om farlig avfall"
+      ],
+      "text": "Husholdninger som leverer farlig avfall, plikter så langt det er mulig å gi opplysninger om avfallets innhold og egenskaper og sørge for at emballasjen er merket med disse opplysningene.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "(virksomheters plikt til levering og deklarering av farlig avfall)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 8. Om farlig avfall"
+      ],
+      "text": "Virksomheter hvor det oppstår farlig avfall skal levere det farlige avfallet til lovlig avfallsanlegg minst en gang hvert andre år. Ved nedleggelse av virksomhet eller ved driftsstans ut over tre måneder inntrer leveringsplikten umiddelbart.\nVirksomheter skal ved levering av farlig avfall til lovlig avfallsanlegg eller ekstern transportør gi tilstrekkelige opplysninger om avfallets opprinnelse, innhold og egenskaper slik at den videre håndteringen av avfallet kan skje på en forsvarlig måte.\nNår farlig avfall blir levert til lovlig avfallsanlegg på Svalbard eller til ekstern transportør for frakt til norsk fastland, skal virksomheten sørge for å deklarere avfallet på deklarasjonsskjema godkjent av Miljødirektoratet. Avfallsanlegget kan deklarere for virksomheten dersom det er praktisk vanskelig for virksomheten å deklarere selv. Den som deklarerer avfallet, skal sørge for at deklarasjonsskjemaets løpenummer fremgår tydelig på avfallets emballasje. Merkingen må tåle påregnelige kjemiske, fysiske og klimatiske påvirkninger.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "(plikt til å motta avfall og lasterester fra skip)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "Den som driver Longyearbyen havn, skal etablere og drifte mottaksordning for avfall og lasterester fra skip i havnen, og regnes som havneansvarlig etter dette kapitlet.\nMottaksordningen skal være tilstrekkelige til å dekke et normalt behov for levering i havnen, uten at skipene forsinkes unødig. Den havneansvarlige skal sørge for at mottatt avfall blir levert videre til lovlig avfallsanlegg.\nMed avfall fra skip menes enhver form for avfall, herunder kloakk og andre rester enn lasterester, som oppstår mens et skip er i drift, og som omfattes av vedleggene I (olje), IV (kloakk), V (søppel) og VI (utslipp til luft) til MARPOL 73/78, jf. forskrift 30. mai 2012 nr. 488 om miljømessig sikkerhet for skip og flyttbare innretninger, og lasterelatert avfall som definert i retningslinjene for gjennomføringen av vedlegg V til MARPOL 73/78.\nMed lasterester menes rester av lastematerialer i lasterom eller tanker etter at lossing og rengjøring er avsluttet, herunder også restmengder og søl ved lasting/lossing.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "(gebyr)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "Omkostningene forbundet med mottak og videre håndtering av avfall og lasterester fra skip, skal dekkes ved innkreving av avfallsgebyrer fra skip som anløper havnen. Gebyrets størrelse fastsettes av havneansvarlig og skal ikke overstige omkostningene forbundet med mottaksordningene i havnen.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "(meldeplikt)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "For skip, unntatt rutegående skip, fiskefartøy og fritidsbåter godkjent for høyst 12 personer, som anløper Longyearbyen havn, skal skipsføreren gi melding om levering av avfall og lasterester i havnenminst 24 timer før anløp, dersom anløpshavnen er kjent,så snart anløpshavnen er kjent, dersom denne opplysningen først er tilgjengelig mindre enn 24 timer innen anløp, ellersenest ved avgang fra foregående havn, dersom reisen varer mindre enn 24 timer.\nMelding skal gis i meldingstjenesten SafeSeaNet, og opplysningene skal være tilgjengelige om bord i det minste til neste anløpshavn, og skal kunne forevises Sjøfartsdirektoratet. Skip med hyppige anløp innenfor 24 timer og skip som anløper havner hvor det ikke betales kaiavgift, skal gi melding til den havnen hvor avfall skal leveres. Dersom skipets neste anløpshavn befinner seg utenfor de nordiske landene, skal utfylt melding foreligge på engelsk.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-4",
+      "provision_ref": "§ 9-3a",
+      "heading": "(plikt til å levere avfall og lasterester)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "For skip som er nevnt i § 9-3 første ledd, skal skipsfører sørge for at avfall og lasterester leveres mottaksanlegget i Longyearbyen havn før avgang, i samsvar med de relevante utslippsnormene fastsatt i MARPOL-konvensjonen.\nSkip som har dokumentert tilstrekkelig kapasitet til oppbevaring av avfall og lasterester som genereres under reisen i tillegg til det som allerede er om bord kan fortsette til neste havn uten å levere avfall og lasterester før avgang.\nFor oljeholdig avfall skal det være en restkapasitet på minst 75 % av totalkapasiteten.\nDersom det ikke kan fastslås at neste anløpshavn har tilfredsstillende mottaksanlegg eller det ikke er kjent hva som er neste anløpshavn, kan Sjøfartsdirektoratet kreve at avfall og lasterester leveres før avgang selv om oppbevaringskapasiteten om bord anses tilstrekkelig etter annet og tredje ledd.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-5",
+      "provision_ref": "§ 9-4",
+      "heading": "(havneansvarliges plikt til å varsle Sjøfartsdirektoratet)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "Den havneansvarlige plikter umiddelbart å varsle Sjøfartsdirektoratet i meldingstjenesten SafeSeaNet Norway når det oppdages at et skip ikke leverer avfall i samsvar med det som er meldt i henhold til § 9-3.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-6",
+      "provision_ref": "§ 9-5",
+      "heading": "(avfall fra fritidsbåter)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "Alle havner på Svalbard kan ta imot avfall fra fritidsbåter.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-7",
+      "provision_ref": "§ 9-6",
+      "heading": "(tilsynsmyndighet)",
+      "path": [
+        "Del III. Avfall",
+        "Kapittel 9. Om avfall og lasterester fra skip"
+      ],
+      "text": "Sysselmesteren fører tilsyn med at havnens plikter etter dette kapitlet overholdes. Sjøfartsdirektoratet fører tilsyn med at meldeplikten i § 9-3 og leveringsplikten i § 9-3a overholdes.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-1",
+      "provision_ref": "§ 10-1",
+      "heading": "(hjemmel til å fastsette forskrift om avløps- og avfallsgebyrer)",
+      "path": [
+        "Del IV. Gebyrer",
+        "Kapittel 10. Om avløps- og avfallsgebyrer"
+      ],
+      "text": "Sysselmesteren eller den departementet bemyndiger kan fastsette forskrift om avløps- eller avfallsgebyrer for et planområde eller deler av et planområde.\nForskrifter om gebyr skal som et minimum fastsettehvem som er pliktig til å betale gebyr jf. § 10-2til hvem gebyret skal betales og regler om innkreving av gebyret, ogregler for hvordan gebyrene beregnes.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "(plikt til å betale gebyr)",
+      "path": [
+        "Del IV. Gebyrer",
+        "Kapittel 10. Om avløps- og avfallsgebyrer"
+      ],
+      "text": "Plikt til å betale avløpsgebyr har brukeren eller eieren av eiendom som er tilknyttet felles avløpsanlegg.\nPlikt til å betale avfallsgebyr har brukeren eller eieren av eiendom som plikter å delta i avfallsordning for husholdningsavfall etablert i medhold av § 7-1 første og tredje ledd, og bruker eller eier av eiendom som deltar i innsamlingsordning for næringsavfall etablert i medhold av § 7-1 annet ledd.\nSysselmesteren eller den departementet bemyndiger kan i forskrift etter § 10-1 frita eiere eller brukere av hytte fra plikten til å betale avfallsgebyr etter andre ledd dersom eieren eller brukeren allerede er gebyrpliktig etter annet ledd for eiendom som brukes som bolig.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "(gebyrenes størrelse)",
+      "path": [
+        "Del IV. Gebyrer",
+        "Kapittel 10. Om avløps- og avfallsgebyrer"
+      ],
+      "text": "Avløps- og avfallsgebyrer fastsatt i henhold til denne forskriften skal fullt ut dekke kostnadene til investering og drift som den som er ansvarlig for drift av avløpsanlegg eller avfallsordning har. Gebyrene må ikke overstige den ansvarliges kostnader.\nGebyrenes størrelse skal fastsettes på grunnlag av et overslag over antatte samlede direkte og indirekte kostnader knyttet til tjenestene for de nærmeste årene. Oversikt over kostnadene skal utarbeides av den ansvarlige for avløpsanlegg eller avfallsordning.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-4",
+      "provision_ref": "§ 10-4",
+      "heading": "(pant for forfalt krav på gebyr)",
+      "path": [
+        "Del IV. Gebyrer",
+        "Kapittel 10. Om avløps- og avfallsgebyrer"
+      ],
+      "text": "Forfalt krav på gebyr er sikret med pant i eiendommen etter lov om pant § 6-1. Gebyrene kan kreves inn av skattefogden i Troms etter reglene for innkreving av skatt på Svalbard.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "(plikt til internkontroll)",
+      "path": [
+        "Del V. Internkontroll",
+        "Kapittel 11. Krav til internkontroll i virksomheter"
+      ],
+      "text": "Den som er ansvarlig for offentlig eller privat virksomhet, skal sørge for at det innføres og utøves internkontroll i virksomheten for å ivareta krav for så vidt gjelder forurensning og avfall fastsatt i eller i medhold av svalbardmiljøloven og krav for så vidt gjelder produkt som kan medføre miljøforstyrrelser fastsatt i eller i medhold av produktkontrolloven.\nMed internkontroll menes systematiske tiltak som skal sikre at virksomhetenes aktiviteter planlegges, organiseres, utføres, sikres og vedlikeholdes i samsvar med nevnte krav.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-2",
+      "provision_ref": "§ 11-2",
+      "heading": "(internkontrollens innhold)",
+      "path": [
+        "Del V. Internkontroll",
+        "Kapittel 11. Krav til internkontroll i virksomheter"
+      ],
+      "text": "Internkontrollen skal tilpasses virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve kravene nevnt i § 11-1.\nInternkontroll innebærer at virksomheten skalsørge for at lovene nevnt i § 11-1, forskrifter gitt i medhold av disse som gjelder for virksomheten og eventuelle tillatelser og pålegg er tilgjengelige, og ha oversikt over de kravene som er av særlig viktighet for virksomhetensørge for at arbeidstakerne har tilstrekkelig og oppdaterte kunnskaper om og ferdigheter i virksomhetens arbeid med internkontrollfastsette mål for virksomhetens miljøpåvirkningha oversikt over virksomhetens organisasjon, herunder hvordan ansvar, oppgaver og myndighet for arbeidet med å sikre etterlevelse av kravene i § 11-1 er fordeltkartlegge farer og problemer, og på denne bakgrunn vurdere risiko, og utarbeide tilhørende planer og tiltak for å redusere risikoforholdeneiverksette rutiner for å avdekke, rette opp og forebygge overtredelser av krav fastsatt i eller i medhold av lovgivningen nevnt i § 11-1, ogforeta systematisk overvåking og gjennomgang av internkontrollen for å sikre at den fungerer som forutsatt.\nKravene i første ledd bokstav c til g skal dokumenteres skriftlig.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-3",
+      "provision_ref": "§ 11-3",
+      "heading": "(tilsyn med internkontroll)",
+      "path": [
+        "Del V. Internkontroll",
+        "Kapittel 11. Krav til internkontroll i virksomheter"
+      ],
+      "text": "For kravene fastsatt i eller i medhold av svalbardmiljøloven fører Sysselmesteren tilsyn med de virksomhetene hvor Sysselmesteren er myndighet og Miljødirektoratet tilsyn med de virksomhetene hvor Miljødirektoratet er myndighet.\nFor krav fastsatt i eller i medhold av produktkontrolloven fører Miljødirektoratet tilsyn med mindre annet følger av særskilt delegering.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-1",
+      "provision_ref": "§ 12-1",
+      "heading": "(unntak)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Når særlige grunner foreligger kan Sysselmesteren eller den departementet bemyndiger gjøre unntak fra forskriften.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-2",
+      "provision_ref": "§ 12-2",
+      "heading": "(tilsyn)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Sysselmesteren eller den departementet bemyndiger fører tilsyn med at forskriften overholdes. Tilsynsmyndighet for levering og mottak av avfall og lasterester fra skip følger av § 9-6 og krav til internkontroll følger av § 11-3.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-3",
+      "provision_ref": "§ 12-3",
+      "heading": "(tvangsmulkt)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "For å sikre at bestemmelsene i forskriften eller vedtak i medhold av forskriften blir gjennomført kan Sysselmesteren fastsette tvangsmulkt i medhold av svalbardmiljøloven § 96.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-4",
+      "provision_ref": "§ 12-4",
+      "heading": "(direkte gjennomføring)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Blir plikter som følge av loven eller vedtak i medhold av loven ikke etterlevd, kan Sysselmesteren eller den departementet bemyndiger selv sørge for nødvendige tiltak for å få plikten overholdt etter svalbardmiljøloven § 97.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-5",
+      "provision_ref": "§ 12-5",
+      "heading": "(straff)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Overtredelser av denne forskriften eller vedtak i medhold av denne forskriften straffes etter svalbardmiljøloven § 99 eller produktkontrolloven § 12.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-6",
+      "provision_ref": "§ 12-6",
+      "heading": "(ikrafttredelse)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2021.\nFra samme tidspunkt oppheves forskrift 24. juni 2002 nr. 724 om miljøgifter, avfall og gebyrer for avløp og avfall på Svalbard. Forskrifter fastsatt med hjemmel i forskrift 24. juni 2002 nr. 724 gjelder også etter at forskriften her har trådt i kraft.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-kapittel-1-paragraf-7",
+      "provision_ref": "§ 12-7",
+      "heading": "(overgangsordning ved krav om tillatelse)",
+      "path": [
+        "Del VI. Avsluttende bestemmelser",
+        "Kapittel 12. Felles bestemmelser om tilsyn, straff m.m."
+      ],
+      "text": "Den som i henhold til forskriften må ha tillatelse etter svalbardmiljøloven § 57 eller § 58 må søke miljøvernmyndigheten om tillatelse så raskt som mulig. Nødvendige tillatelser må være gitt senest 1. januar 2023.",
+      "xml_path": "article#kapittel-6-kapittel-1-paragraf-7"
+    }
+  ]
+}

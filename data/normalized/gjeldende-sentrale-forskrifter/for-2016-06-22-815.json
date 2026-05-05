@@ -1,0 +1,72 @@
+{
+  "id": "FOR-2016-06-22-815",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om klageordning for kommuner som berøres av ny tjenestestedsstruktur i politi- og lensmannsetaten",
+  "short_title": "Forskrift om klageordning for kommuner",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2016-07-01",
+  "lovdata_refid": "forskrift/2016-06-22-815",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-06-22-815",
+  "raw_xml_sha256": "f8a2fbc83226439909b9519d2eaf9f3aac29396e07551a232604bd26d4aaf773",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Avgjørelser fra Politidirektoratet om endringer i inndelingen i lensmanns- og politistasjonsdistrikter og sammenslåing eller nedleggelse av lensmannskontorer eller politistasjoner kan påklages til Justis- og beredskapsdepartementet av kommuner som berøres av endringen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Klage må fremsettes innen åtte uker fra det tidspunktet kommunen mottok underretning om avgjørelsen. Forvaltningsloven § 30 gjelder for fremsettelse av klagen.\nEn klage som er fremsatt for sent, skal avvises.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Klagen skal være skriftlig og begrunnet. Den skal angi hvilke endringer i avgjørelsen som kommunen ønsker eller om kommunen ønsker avgjørelsen helt eller delvis opphevet på grunn av forhold ved saksbehandlingen.\nDersom en klage ikke oppfyller vilkårene i første ledd, skal det settes en kort frist for å rette feilen. Dersom feilen ikke rettes innen fristen, skal klagen avvises.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Klagen sendes til Politidirektoratet. Med mindre departementet bestemmer noe annet, kan den avgjørelsen klagen gjelder, ikke gjennomføres før klagen er ferdigbehandlet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Tas klagen under behandling, skal Politidirektoratet foreta en ny vurdering av saken.\nEn klage skal forelegges for de kommuner som blir berørt. Samtidig skal det settes frist for å gi uttalelse.\nOpprettholdes avgjørelsen, sender direktoratet klagen videre til Justis- og beredskapsdepartementet sammen med direktoratets merknader. Klagen skal oversendes departementet innen tre uker etter at klagen ble mottatt. Direktoratets merknader skal sendes kommunen samtidig som klagen sendes til departementet.\nDepartementet skal ta stilling til klagen så snart som mulig.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Departementet kan treffe ny avgjørelse eller oppheve direktoratets avgjørelse helt eller delvis og sende saken tilbake til direktoratet til ny behandling.\nDepartementets avgjørelse kan ikke påklages.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Forvaltningsloven kapittel II og III og alminnelige regler om god forvaltningsskikk gjelder for klagebehandling etter forskriften her.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2016.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

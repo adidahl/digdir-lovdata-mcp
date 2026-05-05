@@ -1,0 +1,119 @@
+{
+  "id": "FOR-2023-10-27-1713",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Brukerplan",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2024-01-01",
+  "lovdata_refid": "forskrift/2023-10-27-1713",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-10-27-1713",
+  "raw_xml_sha256": "71db78ad1fec7ce2a7292ae6e5dfab98978e61fa8f0eb67e2c4e3d7d0b168d59",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Saklig virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder Brukerplan som er et nasjonalt register med helseopplysninger og andre personopplysninger om personer som har rusmiddelproblemer og/eller psykiske helseproblemer og som mottar kommunale helse- og omsorgstjenester, tjenester fra kommunen i arbeids- og velferdsforvaltningen eller tjenester fra barnevernet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Formålet med Brukerplan",
+      "path": [],
+      "text": "Registeret skal gi sentrale og kommunale myndigheter grunnlag for planlegging, styring, finansiering, evaluering og kvalitetsforbedring av kommunale tjenester knyttet til rusmiddelproblemer og psykiske helseproblemer. Opplysninger som er samlet inn etter første punktum skal også kunne brukes til forskning, helseanalyser og beredskap.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dataansvar",
+      "path": [],
+      "text": "Helsedirektoratet bestemmer hvem som er dataansvarlig for behandling av opplysninger i Brukerplan.\nDen enkelte kommune er dataansvarlig for egen behandling av opplysninger etter § 5 og § 6.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Opplysninger som kan registreres",
+      "path": [],
+      "text": "I Brukerplan kan det registreres helseopplysninger og andre personopplysninger om personer som er fylt 16 år.\nNår det er nødvendig etter registerets formål i § 2 første punktum, kan følgende opplysninger registreres:bakgrunnsopplysninger om personen: fødselsår, kjønn, fødeland, arbeidserfaring mv.opplysninger om personens situasjon og behov: bruk av rusmidler, bosituasjon, omsorg for barn, graviditet, helse, aktivitet, sosialt nettverk, sosial fungering, selvmordsforsøk, økonomi, kilde til livsopphold mv.hvilke tjenester personen mottarhvilke personer i kommunen som har gjort kartleggingen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Innsamling av opplysninger fra tjenestene",
+      "path": [],
+      "text": "Kommunen kan samle inn og sammenstille opplysninger som nevnt i § 4 fra kommunale helse- og omsorgstjenester, fra kommunen i arbeids- og velferdsforvaltningen og fra barnevernstjenesten.\nTjenestene kan gi ut opplysningene til kommunen uten hinder av taushetsplikten.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Kommunens kartlegging og overføring til Brukerplan",
+      "path": [],
+      "text": "Opplysninger som kommunen har samlet inn etter § 5 kan overføres fra kommunen til Brukerplan. Kommunen kan sammenstille opplysninger om samme person og tilrettelegge opplysningene på andre måter før overføringen. Opplysningene som kommunen har sammenstilt skal slettes når de er overført til Brukerplan.\nI opplysninger som kommunen overfører til Brukerplan skal navn, fødselsnummer eller andre personidentifiserende kjennetegn være erstattet med et løpenummer eller annet pseudonym som ikke identifiserer den registrerte. Koblingsnøkkelen mellom de registrertes fødselsnummer og pseudonymet skal slettes av kommunen når opplysningene er overført til Brukerplan.\nOverføringen skal skje på den måten og med det kartleggingsverktøyet den dataansvarlige for Brukerplan fastsetter.\nOpplysningene kan bare overføres dersom den registrerte har fått informasjon om retten etter § 10 til å motsette seg at opplysninger overføres til og behandles i Brukerplan.\nKommunen kan overføre opplysningene til Brukerplan uten hinder av taushetsplikten.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Behandling av helseopplysninger og andre personopplysninger i registeret",
+      "path": [],
+      "text": "Helseopplysninger og andre personopplysninger i Brukerplan skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Utarbeidelse av statistikk og tilgjengeliggjøring av opplysninger",
+      "path": [],
+      "text": "Den dataansvarlige kan tilgjengeliggjøre opplysningene fra Brukerplan av eget tiltak eller etter søknad, for formål som er i samsvar med forskriften § 2.\nOpplysningene skal som hovedregel tilgjengeliggjøres som anonym statistikk. Indirekte personidentifiserbare personopplysninger kan likevel tilgjengeliggjøres dersom vilkårene i helseregisterloven § 19a er oppfylt.\nHelseopplysninger og andre personopplysninger som skal brukes til formål som nevnt i § 2 første punktum, kan tilgjengeliggjøres uten hinder av taushetsplikten.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Taushetsplikt",
+      "path": [],
+      "text": "Enhver som behandler helseopplysninger og andre personopplysninger i Brukerplan har taushetsplikt etter helseregisterloven § 17. Andre som får adgang eller kjennskap til helseopplysninger og andre personopplysninger fra Brukerplan, har samme taushetsplikt.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Rett til å motsette seg behandling",
+      "path": [],
+      "text": "Pasienter og brukere kan motsette seg at opplysninger samles inn, sammenstilles og overføres til og behandles i Brukerplan.\nFør opplysningene gis ut fra tjenesten etter § 5, skal den registrerte få informasjon om Brukerplan og adgangen til å motsette seg overføring og annen behandling av opplysningene i Brukerplan.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Lagring av opplysningene",
+      "path": [],
+      "text": "Helseopplysninger og andre personopplysninger i Brukerplan skal ikke lagres lenger enn det som er nødvendig for formålet og skal slettes av dataansvarlig innen ti år etter at de ble overført til Brukerplan.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Informasjonssikkerhet",
+      "path": [],
+      "text": "Den dataansvarlige og databehandlere for Brukerplan skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32. Den dataansvarlige og databehandleren skal blant annet sørge for tilgangsstyring, logging og etterfølgende kontroll.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse og overgangsregler",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2024.\nOpplysninger i Brukerplan som er lovlig innhentet og registrert før denne forskriften trer i kraft, kan fortsatt behandles. Reglene i denne forskriften, med unntak av § 5 og § 6, gjelder for behandlingen av disse opplysningene.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "FOR-2016-06-20-735",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsregler til lov om klageorganer for forbrukersaker (gjennomføring av direktiv 2013/11/EU og forordning (EU) nr. 524/2013)",
+  "short_title": "Overgangsregler til lov om klageorganer for forbrukersaker",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2016-07-01",
+  "lovdata_refid": "forskrift/2016-06-20-735",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-06-20-735",
+  "raw_xml_sha256": "09674f2c3b10e08464ebc384e6ceabc87631c0b48cc2521b83b7a417496c924b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "I"
+      ],
+      "text": "Overgangsreglene i § 2 og § 3 gjelder for klageorgan som før loven trer i kraft kan behandle klager i medhold av bestemmelser som endres ved lov om klageorganer for forbrukersaker § 30 nr. 1, 2, 3, 5, 6, 7, 9, 10 og 11.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Skjæringstidspunkt for behandling klager etter nytt rettsgrunnlag",
+      "path": [
+        "I"
+      ],
+      "text": "Frem til et klageorgan som omfattes av § 1, er godkjent etter lov om klageorganer for forbrukersaker § 3 gjelder de tidligere reglene for klageorganet slik reglene som er nevnt i § 1 lød før ikrafttredelsen av lov om klageorganer for forbrukersaker.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Saksbehandlingsregler mv.",
+      "path": [
+        "I"
+      ],
+      "text": "Klageorganet skal benytte saksbehandlingsreglene som gjelder på det tidspunktet klagen kom inn til klageorganet, selv om resultatet av klagebehandlingen foreligger etter godkjenningstidspunktet.\nKlageorganet kan med samtykke fra sakens parter avgjøre at reglene i eller i medhold av lov om klageorganer for forbrukersaker kapittel 3 og 4 skal anvendes tilsvarende så langt de passer ved behandlingen av saken.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Innmeldt klageorgan og innmeldt nemnd",
+      "path": [
+        "I"
+      ],
+      "text": "«Innmeldt klageorgan» og «innmeldt nemnd» skal i loven § 14 bokstav c, § 23 første ledd bokstav b og c, § 26 første og tredje ledd og markedsføringsloven § 10a første og annet ledd forstås som klageorgan som er godkjent etter loven eller som for øvrig oppfyller kravene i direktiv 2013/11/EU og derved kvalifiserer til innmelding.\nBarne- og likestillingsdepartementet utarbeider en liste over hvilke klageorganer dette gjelder og publiserer den på sine nettsider. Listen holdes oppdatert.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

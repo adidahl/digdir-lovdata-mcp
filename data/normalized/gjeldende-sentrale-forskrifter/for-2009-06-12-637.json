@@ -1,0 +1,528 @@
+{
+  "id": "FOR-2009-06-12-637",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til opplæring, prøve og kompetanse for utrykningskjøring (utrykningsforskriften)",
+  "short_title": "Utrykningsforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2009-07-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-17-2682 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2009-06-12-637",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-06-12-637",
+  "raw_xml_sha256": "47a30682d4c39c998c031d7070e9864f350ea59b8929c448e7d2a1c3bab1534c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder krav til fører av utrykningskjøretøy under utrykning, opplæring og prøve. Den regulerer også krav til kompetansebevis for utrykningskompetanse og vedlikehold av denne.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1a",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften forstås med:Kompetansebevis: bevis for å ha gjennomgått utrykningsopplæring og bestått utrykningsprøve for å kunne kjøre utrykning.Kursarrangør: virksomhet som er godkjent for å kunne tilby utrykningsopplæring etter kapittel 6.Kurs: organisert opplæring i samsvar med undervisningsplan.Undervisningstime: undervisningsperiode på 45 minutter.Undervisningsplan: plan som viser hvordan kursarrangør oppfyller forskriftens krav med de ressurser den har til rådighet. Planen skal også gi opplysninger om hvordan kursarrangør gjør bruk av undervisningspersonell, kjøretøy, undervisningsmateriell, arbeidsmåter og øvingsområder for å nå målene i læreplanen.Undervisningspersonell: godkjente utrykningsinstruktører og godkjent undervisningsansvarlig.Undervisningsansvarlig: godkjent person med faglig, administrativt og pedagogisk ansvar hos en kursarrangør.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 2",
+      "heading": "Krav om utrykningskompetanse og gyldig bevis",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Den som skal kjøre utrykning må inneha utrykningskompetanse, gyldig kompetansebevis og gyldig førerkort for det aktuelle kjøretøyet. Statens vegvesen utsteder nasjonalt kompetansebevis som kode 160 i førerkortet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Unntak fra krav om kompetansebevis",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Kravet om kompetansebevis for utrykning gjelder ikke for personell tilknyttet en bedrifts industrivern dersom utrykning kun skjer innenfor bedriftens lukkede område. Vedkommende bedrift eller områdets ansvarshavende er ansvarlig for at de aktuelle personene har gjennomgått intern bedriftsopplæring og bestått en ferdighetsprøve.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Særregler for Forsvaret og Sivilforsvaret",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Krav om kompetansebevis gjelder ikke for militært personell og personell i Sivilforsvaret som skal føre utrykningskjøretøy under utrykning i Forsvarets eller Sivilforsvarets tjeneste under førstegangstjeneste eller repetisjonsøvelser.\nKrav om kompetansebevis gjelder ikke for yrkesmilitære når kjøringen foregår på lukket område.\nForsvaret eller sivilforsvaret har ansvaret for at det gis tilstrekkelig opplæring til førere som er unntatt fra kravet om kompetansebevis og at det utstedes bekreftelse på at opplæringen er gjennomført. Bekreftelsen skal medbringes under utrykningskjøring.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Særregler for Politihøgskolen",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "For de forhold som fremgår av § 9, § 10 første ledd bokstav b og c, § 14 til § 16 samt kapittel 5 har Politihøgskolen ansvaret for at reglene oppfylles.\nFor de forhold som fremgår av kapittel 7 følger Politihøgskolen egne bestemmelser, med unntak av § 29 første ledd første punktum, § 31 tredje ledd og § 32.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Vilkår for erverv og utstedelse av kompetansebevis",
+      "path": [
+        "Kapittel 2. Kompetansebeviset"
+      ],
+      "text": "Den som skal erverve kompetansebevis for utrykningskjøring må før opplæringen starterdokumentere med helseattest for førerett at helsekrav for førerett i førerkortgruppe 3, med de tilleggskrav som følger av forskrift 19. januar 2004 nr. 298 om førerkort m.m. vedlegg 1, er oppfylt.ha fylt 20 årha hatt førerett for klasse B uavbrutt i de siste 2 årdokumentere arbeidsforhold eller frivillig arbeid som betinger utrykningskjøring eller være under eller ha gjennomført utdanning hvor erverv av kompetanse i utrykningskjøring er relevant. Dokumentasjonen skal ikke være eldre enn 6 måneder.\nDen som skal ha utstedt kompetansebevis for utrykningskjøring må i tillegg til å oppfylle kravene i første leddha gjennomført all obligatorisk opplæring for utrykningssjåførerha bestått teoretisk og praktisk utrykningsprøve etter reglene i § 30 og § 31ikke ha fylt 65 år ved første gangs utstedelse.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Utstedelse og gyldighet",
+      "path": [
+        "Kapittel 2. Kompetansebeviset"
+      ],
+      "text": "Kompetansebeviset utstedes med en gyldighet på fem år. Har innehaveren fylt 65 år fornyes beviset med legeattest for ett år om gangen, med maksimal gyldighetstid frem til fylte 70 år.\nPolitiet kan utstede eget kompetansebevis for sine tjenestepersoner.\nAnsatte i politiet kan ved fremvisning av gyldig kompetansebevis utstedt av politiet få utstedt kompetansebevis som kode 160 i førerkortet.\nPersoner med utenlandsk førerkort kan få utstedt kompetansebevis i form av bekreftelse fra Statens vegvesen, jf. § 39.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Vilkår for fornyelse av kompetansebevis",
+      "path": [
+        "Kapittel 2. Kompetansebeviset"
+      ],
+      "text": "Den som skal fornye kompetansebevis måikke ha fylt 70 årdokumentere med helseattest for førerett at helsekrav for førerett i førerkortgruppe 3, med de tilleggskrav som følger av forskrift 19. januar 2004 nr. 298 om førerkort m.m. vedlegg 1, er oppfylt, jf. § 6 første ledd bokstav a.dokumentere arbeidsforhold eller frivillig arbeid som innebærer utrykningskjøring. Dokumentasjonen skal ikke være eldre enn 6 måneder.\nUtgått bevis kan fornyes etter første ledd innen ett år etter utløp. Fornyelse senere enn ett år etter utløp kan foretas etter bestått praktisk prøve. Ved fornyelse senere enn 3 år etter utløp må vedkommende gjennomgå minst 4 timer opplæring med utgangspunkt i målene for opplæringens trinn 3 slik disse framgår av § 27 andre ledd bokstav f, g og h, hvorav den første timen brukes til å kartlegge ferdighetsnivå og behov for repetisjon, samt opplæring i trinn 4 før praktisk prøve avlegges.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Godkjenning av kursarrangør",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "Offentlig etat, privat foretak eller organisasjon som har utrykningstjeneste som en naturlig og vesentlig del av sin virksomhet kan være kursarrangør.\nKursarrangør som tilbyr opplæring etter denne forskrift skal være godkjent av Statens vegvesen. Godkjenning gis for 5 år etter skriftlig og dokumentert søknad.\nSøknaden skal inneholdeundervisningsplandokumentasjon for godkjent undervisningsansvarlig og godkjente utrykningsinstruktørerinformasjon om organisasjonsnummer, kontoradresse, postadresse, telefonnummer og e-postadresse, samt hvor opplæringen skal foregå og de utrykningskjøretøy som skal benyttes i opplæringen.\nGodkjenningen kan begrenses til å gjelde et angitt geografisk område.\nGodkjenningen registreres i Statens vegvesen sitt elektroniske register.\nVed søknad om fornyelse må oppdatert undervisningsplan vedlegges.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9a",
+      "heading": "Godkjenningsgebyr for kursarrangør",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "For førstegangsbehandling av søknad om godkjenning som kursarrangør, skal det betales et gebyr.\nFor fornyelse av godkjenningen, skal det betales et gebyr.\nGebyrsatsene fremgår av forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 11.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Administrative krav til kursarrangør",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "Kursarrangør skaldisponere godkjent utrykningskjøretøy, velegnet undervisningslokale og ha tilgjengelige områder som er nødvendig for å gjennomføre undervisningenha godkjent undervisningsansvarlig, jf. § 15innen 14 dager melde fra skriftlig om endringer i undervisningspersonell, kjøretøy eller andre forhold som er av betydning for godkjenningen. Endring av adresse eller undervisningslokale skal meldes før flytting til ny adressemelde fra til Statens vegvesen og berørte politidistrikt innen åtte uker før oppstart av opplæring. Meldingen skal inneholde informasjon om sted, dato og varighet for opplæringen, samt hvilke kjøretøy som skal benyttes. Endringer skal meldes senest 14 dager før oppstart.\nOpplæringskort for elever som har avsluttet opplæringen, elevfortegnelse og undervisningsplan skal oppbevares på kursarrangørens kontoradresse. Dokumentene skal oppbevares i minst fem år etter at opplæringen er avsluttet. Det samme gjelder etter at opplæringsvirksomheten er avviklet eller godkjenning som kursarrangør er utløpt eller tilbakekalt.\nKursarrangør har ansvar for å kontrollere og oppbevare dokumentasjon som følger av § 6 første ledd. Dokumentasjon som ikke er unntatt fra offentligheten skal arkiveres sammen med elevfortegnelsen.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Faglige og pedagogiske krav til kursarrangør",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "Kursarrangør skaldrive opplæring i samsvar med godkjenningen og gjeldende regelverkgi opplæring etter anerkjente pedagogiske prinsippertil enhver tid ha oppdatert undervisningsplangi undervisning i samsvar med undervisningsplanenkun benytte undervisningspersonell som tilfredsstiller kravene etter forskriften.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Elevfortegnelse",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "Kursarrangør skal føre manuell eller elektronisk fortegnelse over alle sine elever. Fortegnelsen skal vise elevens navn, adresse, fødselsnummer, når eleven begynte og sluttet samt hvilke deler av den obligatoriske opplæringen som er gjennomført.\nElevopplysninger skal registreres i fortegnelsen med fortløpende tildelt elevnummer straks opplæringen starter.\nFortegnelsen skal ajourføres umiddelbart etter at eleven har sluttet.\nManuell føring av elevfortegnelse skal gjøres innbundet eller heftet i bok med forhåndsnummererte sider.\nDersom elevfortegnelsen er ført elektronisk skal det tas sikkerhetskopi hver måned som dateres og undertegnes av undervisningsansvarlig.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Opplæringskort",
+      "path": [
+        "Kapittel 3. Kursarrangør"
+      ],
+      "text": "Kursarrangør skal utstede opplæringskort for hver elev. Opplæringskortet skal påføres navn på kursarrangør og utrykningsinstruktør samt elevens navn, adresse og fødselsdato.\nUtrykningsinstruktøren skal etter hver undervisningsdag attestere på opplæringskortet for de deler av undervisningen som er gjennomført, med påføring av dato, antall elever og varighet i henhold til rubrikker i fastsatt modell for opplæringskort.\nOpplæringskortet skal medbringes under opplæringen. Opplæringskortet skal vises frem når personell fra Statens vegvesen ber om det.\nStatens vegvesen kan fastsette modeller for opplæringskort.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Godkjenning av utrykningsinstruktører",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "Utrykningsinstruktører godkjennes av Statens vegvesen. Søknaden skal inneholde dokumentasjon på at søker inneharkompetansebevis for utrykning som kode 160 i førerkortetførerkort klasse Btre års erfaring i heltidsstilling som innebærer utrykningskjøringutdanning i trafikkpedagogikk på høyskolenivå. Utdanningen må være på minst 15 studiepoeng.\nKravet om tre års erfaring i utrykningskjøring kan for godkjente trafikklærere reduseres ved gjennomføring av tilleggsutdanning på høgskolenivå som omfatter utrykningskjøring. Utdanningen må være på minst 15 studiepoeng og være forhåndsgodkjent av Statens vegvesen.\nGodkjent undervisningspersonell kan pålegges å gjennomgå tilleggsopplæring fastsatt av Statens vegvesen.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 14a",
+      "heading": "Godkjenningsgebyr for utrykningsinstruktør",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "For behandling av søknad om godkjenning som utrykningsinstruktør, skal det betales et gebyr.\nGebyrsatsene fremgår av forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 11.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 15",
+      "heading": "Godkjenning av undervisningsansvarlig",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "Undervisningsansvarlig godkjennes av Statens vegvesen.\nSøknaden skal inneholde dokumentasjon på at søkerener godkjent utrykningsinstruktørhar undervist i alle obligatoriske deler av læreplanenhar undervist ved minst fem obligatoriske kurs for fører av utrykningskjøretøy.\nEn person kan kun være undervisningsansvarlig for en kursarrangør.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15a",
+      "heading": "Godkjenningsgebyr for undervisningsansvarlig",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "For behandling av søknad om godkjenning som undervisningsansvarlig, skal det betales et gebyr.\nGebyrsatsene fremgår av forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 11.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Undervisningsansvarligs plikter",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "Den undervisningsansvarlige har ansvar for at utrykningskursene gjennomføres i samsvar med gjeldende regelverk og plikter blant annet åsørge for utarbeidelse, gjennomføring og vedlikehold av undervisningsoppleggetforeta evaluering av undervisningen og veilede og kontrollere utrykningsinstruktører i alle deler av opplæringen de gir undervisningpåse at bare kvalifiserte utrykningsinstruktører gir undervisning og sørge for at de gjennomgår nødvendig faglig oppdateringdelta i teoretisk og praktisk opplæringvære kursarrangørs kontaktperson mot Statens vegvesenmelde til Statens vegvesen sitt elektroniske register opplysninger om obligatorisk opplæring eleven har gjennomført innen 14 dager etter fullført opplæring og senest en dag før praktisk prøveutarbeide årlig plan for evaluering, veiledning og kontroll, samt dokumentere gjennomført veiledning.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Undervisningspersonell fra Politihøgskolen",
+      "path": [
+        "Kapittel 4. Undervisningspersonell"
+      ],
+      "text": "Undervisningspersonell fra Politihøgskolen som skal drive opplæring utenfor Politihøgskolen må godkjennes av Statens vegvesen etter reglene i § 14 og § 15.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Kontroll og tilsyn med kursarrangør",
+      "path": [
+        "Kapittel 5. Tilsyn og reaksjonsmidler"
+      ],
+      "text": "Statens vegvesen fører tilsyn med kursarrangører for å kontrollere at disse opptrer i samsvar med forskriften, herunder vilkår stilt med hjemmel i forskriften.\nRepresentant fra Statens vegvesen kan når som helst overvære undervisningen. Statens vegvesen kan treffe vedtak om å avbryte eller om å underkjenne opplæringen dersom den er i strid med forskriften.\nKursarrangør, undervisningsansvarlig, utrykningsinstruktører og andre tilsatte plikter å gi de opplysninger og utlevere de dokumenter om virksomheten som tilsynsmyndigheten krever. Er opplysningene lagret elektronisk kan Statens vegvesen kreve datert utskrift undertegnet av undervisningsansvarlig.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Reaksjonsmidler overfor kursarrangør",
+      "path": [
+        "Kapittel 5. Tilsyn og reaksjonsmidler"
+      ],
+      "text": "Statens vegvesen kan gi pålegg som er nødvendig for å sikre at virksomheten er i samsvar med denne forskrift, herunder også gi pålegg om stansing av virksomheten til avvik er rettet eller til vedtak om tilbakekalling er avgjort.\nDersom retting eller stansing ikke er foretatt innen en gitt frist, kan Statens vegvesen fastsette en tvangsmulkt. Tvangsmulkten kan fastsettes som et engangsbeløp eller som en mulkt som løper fra det tidspunkt en gitt frist for retting er overskredet og til retting er foretatt. Statens vegvesen kan gi nærmere retningslinjer for ileggelse av tvangsmulkt. Endelig vedtak om betaling av tvangsmulkt er tvangsgrunnlag for utlegg, jf. tvangsfullbyrdelsesloven § 7-2. Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.\nStatens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i denne forskriften.\nStatens vegvesen skal tilbakekalle godkjenningen dersom vilkårene for å være godkjent som kursarrangør ikke lenger er oppfylt.\nStatens vegvesen kan midlertidig eller permanent tilbakekalle godkjenningen når vedkommendehar gjort vesentlige brudd på forskriftenpå tross av skriftlig pålegg eller advarsel bryter bestemmelser i forskriftenhindrer eller unndrar seg tilsyn, eller ikke gir opplysninger om opplæringen eller driften som Statens vegvesen ber om.\nFørste gang godkjenningen tilbakekalles, skal tilbakekallingen normalt gjelde for tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles, skal den normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.\nStatens vegvesen kan fastsette tidsfrist for avvikling av en kursarrangør som ikke har undervisningsansvarlig, og kan sette forbud mot at kursarrangøren tar inn nye elever.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Reaksjonsmidler overfor undervisningspersonell",
+      "path": [
+        "Kapittel 5. Tilsyn og reaksjonsmidler"
+      ],
+      "text": "Statens vegvesen kan gi undervisningspersonell pålegg når forskriftens krav ikke er oppfylt.\nStatens vegvesen kan gi advarsel for mindre vesentlige brudd på bestemmelser i denne forskriften.\nStatens vegvesen skal tilbakekalle godkjenning som instruktør eller undervisningsansvarlig dersom vilkårene for å være godkjent ikke lenger er oppfylt.\nStatens vegvesen kan midlertidig eller permanent tilbakekalle godkjenningen når vedkommendehar gjort vesentlige brudd på forskriftenpå tross av skriftlig pålegg eller advarsel bryter bestemmelser i forskriften.hindrer eller unndrar seg tilsyn, eller ikke gir opplysninger om opplæringen eller driften som Statens vegvesen ber om.\nFørste gang godkjenningen tilbakekalles, skal tilbakekallingen normalt gjelde for tre til seks måneder. Andre gang godkjenningen tilbakekalles skal tilbakekallingen normalt gjelde fra seks til tolv måneder. Tredje gang godkjenningen tilbakekalles, skal den normalt gjelde for minst tolv måneder. I særlige tilfeller kan godkjenningen tilbakekalles for alltid.\nDersom godkjenningen som utrykningsinstruktør er tilbakekalt etter denne forskrift kan vedkommende heller ikke undervise ved teoriopplæring.\nDersom godkjenningen tilbakekalles, skal Statens vegvesen registrere tilbakekallingen i IMI (Internal Market Information System) innen tre dager, jf. yrkeskvalifikasjonsloven § 20. Det samme gjelder når det foreligger en rettskraftig dom knyttet til falsk dokumentasjon, jf. yrkeskvalifikasjonsloven § 20. Dersom vedtaket eller dom opphører, skal varslingen i IMI slettes i løpet av tre dager, jf. forskrift om godkjenning av yrkeskvalifikasjoner § 7-1.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Obligatorisk opplæring",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Obligatorisk opplæring omfatter teoretisk og praktisk undervisning i samsvar med § 24 til § 28. Eleven må ha deltatt i det minimum antall timer som er beskrevet for å få den obligatoriske opplæringen godkjent. En undervisningstime varer i 45 minutter.\nOpplæringen består av fire trinn som gjennomføres i kronologisk rekkefølge. Måloppnåelse i ett trinn er en forutsetning for å kunne ha godt utbytte av opplæringen i det neste trinnet.\nUndervisningen skal legges til rette slik at elevene kan nå de målene som er fastsatt.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Føreransvaret",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Under opplæring til erverv av kompetansebevis som betinger utrykningskjøring anses instruktøren, eller person som er under instruktøropplæring, som fører av motorvognen. Bestemmelsene i eller i medhold av vegtrafikkloven kapittel II og § 21, § 22 og § 22a, gjelder likevel også for eleven så langt de passer.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Plikt til å avbryte opplæringen",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Dersom en elev ikke har tilstrekkelige kompetanse til å gjennomføre opplæringen i trinn 3 og 4 på en meningsfylt måte, plikter utrykningsinstruktør å avbryte opplæringen i det aktuelle trinnet.\nDersom eleven ikke aksepterer at opplæringen avbrytes fremlegges saken for Statens vegvesen som kan fatte vedtak. Statens vegvesens vedtak kan påklages til Vegdirektoratet.\nVed avbrutt opplæring skal kursarrangør informere eleven om disse rutinene.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Hovedmål for opplæringen",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Etter endt opplæring skal eleven ha den kompetanse som er nødvendig for å kjøre utrykning forsvarlig og for å kunne ivareta de oppgaver som er utrykningsførerens ansvar.\nEleven skal ha de kunnskaper og ferdigheter, den selvinnsikt og risikoforståelse, som er nødvendig for å kjøre utrykning på en måte somer trafikksikkerer tydelig og gir god samhandlinger effektiv og fører til god fremkommelighet for utrykningskjøretøyettar hensyn til helse, miljø og andres behover i samsvar med gjeldende regelverk.\nEleven skal også kunne utføre kontroll og tilsyn med kjøretøyet som er førers ansvar, samt ta nødvendig hensyn til passasjerer.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Mål og timeantall for trinn 1",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Etter å ha gjennomført trinn 1 skal eleven ha en grunnleggende forståelse for hva utrykningskjøring innebærer, kjenne til opplæringens innhold og være bevisst på de krav som stilles til utrykningsfører.\nEleven skal vite at det er nødvendig med god kompetanse i bilkjøring for å ha utbytte av opplæring i utrykningskjøring, og være motivert for å tilegne seg eller styrke denne kompetansen.\nEleven skalkjenne til mål og innhold for opplæring til kompetansebeviskjenne til de krav som gjelder ved erverv og fornyelse av kompetansebevis, og de lover og forskrifter som regulerer utrykningskjøringdrøfte hva som ligger i begrepene kjøredyktighet og utrykningskjøringfå demonstrert presis bilkjøring og utrykningskjøringoppsummere trinn 1 og reflektere over videre læreprosess i trinn 2.\nTrinn 1 er på til sammen seks undervisningstimer, hvorav minst tre av timene brukes til demonstrasjon og oppsummering. Bokstav d og e skal gjennomføres i angitt rekkefølge som avslutning av trinn 1.\nKlasseromsundervisningen kan gjennomføres med inntil 15 elever. Demonstrasjonen i bil, jf. tredje ledd bokstav d, kan gjennomføres med inntil tre elever i bilen. Bokstav e skal gjennomføres som klasseromsundervisning.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Mål og timeantall for trinn 2",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Eleven skal kunne kjøre presist, tydelig, sikkert og selvstendig i variert trafikk. I tillegg skal eleven kunne vurdere sin egen kompetanse til å kjøre bil i trafikk.\nEleven skalha kunnskap om bilens oppbygging med tanke på sikkerhet og miljøha god kjøreteknisk ferdighetha systematisk og automatisert informasjonsinnhentingha en kjøremåte som er sikker, effektiv, behagelig, miljøriktig og økonomisk i variert trafikkmiljø og som gir god samhandling med andre trafikanter.\nDet er ikke fastsatt minste timetall for opplæringen i dette trinnet. Undervisningen må tilpasses elevens erfaringsbakgrunn og mulighet for selvstendig øving.\nSom avslutning av trinn 2 skal det gjennomføres en obligatorisk veiledningstime med varighet på 45 minutter. Denne skal inneholde både praktisk kjøring og veiledningssamtale. Med utgangspunkt i elevens prestasjoner skal eleven og utrykningsinstruktøren sammen ta stilling til i hvilken grad målene for trinnet er nådd. Utrykningsinstruktøren skal gi eleven en vurdering i spørsmålet om eleven har den kompetansen som er nødvendig for å få et godt læringsutbytte av opplæringen i det neste trinnet.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Mål og timeantall for trinn 3",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Eleven skal kunne kjøre utrykning på en presis, tydelig, sikker og selvstendig måte i variert trafikk. I tillegg skal eleven kunne reflektere over og begrunne egne handlingsvalg i etterkant av kjøringen.\nEleven skalkunne gjøre rede for hvilke muligheter og begrensninger mennesket har i forbindelse med utrykningskjøringkunne gjøre rede for hvordan de fysiske lover virker inn på kjøretøyet og har betydning for kjøremåtenkjenne til og drøfte hvilken risiko utrykningskjøring kan medføre og hvordan det kan påvirkes av den enkelte førerkunne gjøre rede for faremomenter og risiko ved kjøring med redusert siktha kjennskap til og kunne utføre kontroll av utrykningskjøretøyetkunne anvende grunnleggende prinsipper ved utrykningskjøring i et enkelt trafikkmiljøkunne kjøre utrykning i by- og tettstedsmiljøkunne kjøre utrykning på veg utenfor tettbebyggelse.\nDet kan undervises med inntil tre elever i bilen. Hvis undervisningen gjennomføres med en elev i bilen skal eleven gjennomføre minst 25 timer praktisk kjøring. Hvis undervisningen gjennomføres med to elever i bilen skal hver elev gjennomføre minst 18 timer praktisk kjøring og 18 timer påsitt. Hvis undervisningen gjennomføres med tre elever i bilen skal hver elev gjennomføre minst 15 timer praktisk kjøring og 30 timer påsitt. Den teoretiske undervisningen i trinnet skal være på minst 10 timer.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 28",
+      "heading": "Mål og timeantall for trinn 4",
+      "path": [
+        "Kapittel 6. Opplæringen"
+      ],
+      "text": "Etter å ha gjennomført trinn 4 skal eleven ha den kompetansen som er nødvendig for å kjøre utrykning i samsvar med hovedmålet for opplæring til kompetansebevis for utrykningsførere.\nEleven skalgjennomføre et styrt utrykningsoppdrag på 45 minutter med vekt på sikkerhet og fremkommelighetut fra et gitt oppdrag planlegge kjørerute ved hjelp av kart eller vegbeskrivelse, identifisere og beskrive mulige risikofaktorer i forhold til kjøreruten og egne begrensninger, samt beskrive og argumentere for ønsket atferdgjennomføre et selvstendig utrykningsoppdrag på 30 minutter med vekt på sikkerhet og fremkommelighetdele opplevelser og egne refleksjoner etter endt oppdrag og oppsummere hele opplæringsforløpet.\nTrinn 4 er på til sammen fire undervisningstimer, hvorav minst to av timene brukes til forberedelser, refleksjon og oppsummering. Bokstav a til d skal gjennomføres i angitt rekkefølge.\nBokstav d skal gjennomføres som klasseromsundervisning med inntil 15 elever.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 29",
+      "heading": "Alminnelige bestemmelser",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "Utrykningsprøven består av en teoretisk og en praktisk prøve. Statens vegvesen kan fastsette retningslinjer for innhold og vurdering av utrykningsprøven. Den teoretiske prøven skal avlegges før den praktiske prøven.\nTime for teoretisk og praktisk prøve bestilles hos Statens vegvesen.\nDersom kandidaten blir tatt for juks eller forsøk på juks ved prøven, vurderes prøven til ikke bestått.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 30",
+      "heading": "Teoretisk prøve",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "Den teoretiske prøven kan avlegges når trinn tre i opplæringen er gjennomført og meldt inn. Prøven er skriftlig og må gjennomføres på norsk. Dersom 85 prosent av oppgavene er riktig besvart skal prøven vurderes som bestått. Statens vegvesen fastsetter de steder hvor teoriprøven kan gjennomføres. Statens vegvesen utarbeider teoretiske prøver.\nHvis kandidaten har lese- og skrivevansker eller tilsvarende, kan Statens vegvesen etter dokumentert søknad gi tillatelse til tilrettelagt prøve.\nKandidaten kan bare bruke hjelpemidler godkjent av Statens vegvesen.\nVed ikke bestått teoretisk prøve kan ny prøve ikke avlegges før det har gått to uker.\nBestått teoretisk prøve er gyldig i tre år.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 31",
+      "heading": "Praktisk prøve",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "Praktisk prøve kan avlegges når all obligatorisk opplæring er gjennomført og innmeldt til Statens vegvesen sitt elektroniske register og teoretisk prøve er avlagt. Til den praktiske prøven skal det settes av 65 minutter. Prøven avlegges for en sensor oppnevnt av Statens vegvesen.\nI enkelte tilfeller kan det være tilsynspersonell eller mer enn en sensor til stede i kjøretøyet under prøven. Hvis kandidaten ønsker det, og forholdene ellers ligger til rette for det, kan undervisningspersonell fra kursarrangør være med i kjøretøyet under prøven.\nPrøvestrekningen utarbeides slik at kandidaten får mulighet til å vise sine ferdigheter under vekslende veg- og trafikkforhold. Den praktiske prøven vurderes i størst mulig grad som en helhet. Den praktiske prøven begynner med sensors klargjøring før prøven og avsluttes med tilbakemelding om resultatet av prøven. Sensor skal vurdere om kandidaten i tilstrekkelig grad har nådd de målene som er fastsatt for opplæringen. Kontroll før kjøring, sikkerhetskontroll og kjøring i trafikk skal inngå i prøven.\nStatens vegvesen fastsetter i samråd med politiet de steder hvor praktisk prøve skal gjennomføres.\nVed ikke bestått praktisk prøve kan ny prøve ikke avlegges før det har gått fire uker.\nBestått praktisk prøve er gyldig i tre år. Praktisk prøve avlagt og bestått før bestått teoretisk prøve er gyldig i tre måneder.\nVed gjennomføring av praktisk prøve anses kandidaten som fører av motorvognen.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 32",
+      "heading": "Avbrudd av praktisk prøve",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "Prøven kan avbrytes og vurderes til ikke bestått hvis det oppstår en situasjon hvor sensor eller andre trafikanter må gripe inn for å unngå fare, skade eller vesentlig ulempe, og kandidaten selv skulle ha avverget situasjonen.\nInntrer driftsstopp, illebefinnende eller andre forhold som gjør det vanskelig å gjennomføre prøven, kan prøven avbrytes og vurderingen utstå til ny prøve kan gjennomføres.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 33",
+      "heading": "Resultat av prøven",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "Kandidaten skal gis beskjed om resultatet av prøven umiddelbart etter at den er avsluttet. Dersom en teoretisk prøve vurderes til ikke bestått, skal kandidaten etter ønske få tilbakemelding om hvilke tema som er besvart galt.\nDersom den praktiske prøven vurderes til ikke bestått, skal kandidaten gis en skriftlig begrunnelse for vedtaket.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 33a",
+      "heading": "Karantene for fusk eller forsøk på fusk ved utrykningsprøven",
+      "path": [
+        "Kapittel 7. Utrykningsprøven"
+      ],
+      "text": "En kandidat som forsettlig eller grovt uaktsomt fusker eller forsøker å fuske til utrykningsprøven, kan ilegges karantenetid fra tre til ni måneder. Dersom forholdet er av alvorlig karakter, kan det ilegges karantenetid fra ti måneder til ett år. Karantenetiden beregnes fra fusket ble avdekket.\nOpptreden og handlinger i strid med Statens vegvesens regelverk og retningslinjer for teoretisk og praktisk førerprøve er fusk. Som fusk regnes blant annet å benytte eller ha med ulovlige hjelpemidler under teoriprøve, for eksempel notater, mobiltelefon, kamera eller annet kommunikasjonsutstyr samt samarbeid med andre. Som fusk av alvorlig karakter regnes blant annet fusk med organisert preg, bruk av elektroniske hjelpemidler og at prøven avlegges av en annen enn kandidaten.\nVed mistanke om fusk eller forsøk på fusk, ilegges midlertidig karantene til saken er ferdig behandlet.\nKandidaten kan gjennomføre opplæring i utrykningskjøring i karantenetiden.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 34",
+      "heading": "Kjøretøy til opplæring",
+      "path": [
+        "Kapittel 8. Kjøretøy til opplæring og prøve"
+      ],
+      "text": "Kjøretøy til bruk i opplæring til erverv av kompetansebevis skal være godkjent utrykningskjøretøy etter forskrift 18. januar 2002 nr. 55 om godkjenning og registrering av utrykningskjøretøy.\nKjøretøy til bruk i opplæring etter denne forskrift, skal være personbil med tillatt totalvekt ikke over 3500 kg, bredde på minst 1,5 m og minst fire sitteplasser som sikrer gode opplæringsvilkår for alle elevene. Kjøretøyet skal ha en farge lik basisfargen som vanligvis benyttes på utrykningskjøretøy brukt av politi, brannvesen eller ambulansetjeneste. Kjøretøyet skal ha en konstruktiv hastighet på minst 150 km/t og være utstyrt med dobbel betjeningsinnretning for brems.\nStatens vegvesen godkjenner kjøretøy som skal brukes til opplæring etter denne forskrift. Godkjenning som lærevogn skal anmerkes i vognkortet.\nKjøretøy benyttet til opplæring som ikke medfører utrykningskjøring eller til demonstrasjon der godkjent utrykningsinstruktør selv kjører, er fritatt fra krav om dobbel betjeningsinnretning for brems, og trenger ikke godkjenning som lærevogn fra Statens vegvesen.\nUnder opplæring på vei som er åpen for alminnelig ferdsel skal kjøretøyet bak være tydelig merket «OPPLÆRING» eller «UNDERVISNING».",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 35",
+      "heading": "Kjøretøy til praktisk prøve",
+      "path": [
+        "Kapittel 8. Kjøretøy til opplæring og prøve"
+      ],
+      "text": "Kjøretøy til praktisk prøve skal være godkjent lærevogn, jf. § 34.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Faglig vedlikehold og oppdatering",
+      "path": [
+        "Kapittel 9. Vedlikehold av utrykningskompetanse"
+      ],
+      "text": "Den enkelte utrykningsfører skal til en hver tid ha den kompetanse som er nødvendig i forhold til type oppdrag og kjøretøy. Etat, foretak eller organisasjon som har utrykningstjeneste som en del av virksomheten plikter å sørge for at utrykningspersonellet gjennomfører nødvendig faglig vedlikehold og utvikling.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Vedlikeholdstrening",
+      "path": [
+        "Kapittel 9. Vedlikehold av utrykningskompetanse"
+      ],
+      "text": "Med vedlikeholdstrening menes øving i utrykningskjøring for å holde ved like eller videreutvikle utrykningskompetanse i forhold til type oppdrag og kjøretøy i utrykningssjåførens tjeneste. Vedlikeholdstrening i utrykningskjøring skal kun forekomme i den utstrekning som er nødvendig.\nHver enkelt etat, foretak eller organisasjon skal utarbeide intern instruks for hvordan slik vedlikeholdstrening skal gjennomføres.\nVedlikeholdstrening i utrykningskjøring må tilfredsstille følgende kravtreningen må være godkjent av overordnetgodkjent instruktør, jf. § 14, skal være med og veilede under treningentreningen må være i samsvar med hovedmålene i § 24berørte politidistrikter skal varslestreningen må loggføres og loggen oppbevares i minst 6 måneder. Loggen skal vise fører, instruktør, kjøretøy, tidspunkt, strekning og eventuelle hendelser.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 38",
+      "heading": "Flytting av kurs",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Av hensyn til belastningen i et område kan Statens vegvesen eller politiet innen seks uker før kursstart kreve at kurset flyttes til et annet tidspunkt eller et annet sted.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 39",
+      "heading": "Godkjenning av yrkeskvalifikasjoner fra annen EØS-stat",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Statens vegvesen kan godkjenne fører av utrykningskjøretøy, utrykningsinstruktør og undervisningsansvarlig på bakgrunn av yrkeskvalifikasjoner ervervet i annen EØS-stat eller Sveits, jf. yrkeskvalifikasjonsloven og forskrift 22. desember 2017 nr. 2384 om godkjenning av yrkeskvalifikasjoner.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 40",
+      "heading": "Gebyr",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "For hver prøve og utstedelse av kompetansebevis hos Statens vegvesen betales gebyr etter satsene i forskrift om gebyr på tjenester utført av Statens vegvesen på trafikant- og kjøretøyområdet kapittel 2. Person som unnlater å møte til avtalt prøve må betale gebyr med mindre prøven ble avbestilt senest to virkedager før avtalt prøvetidspunkt. Gebyr må være betalt før nytt prøvetidspunkt kan bestilles.\nSelv om fristen for avbestilling er utløpt kan gebyr for unnlatt oppmøte frafalles dersom det fremlegges legeattest eller annen dokumentasjon som gjør det rimelig å frafalle kravet.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-5",
+      "provision_ref": "§ 41",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Statens vegvesen kan, ved enkeltvedtak, gjøre unntak fra bestemmelsene i denne forskriften når det foreligger særlig tungtveiende grunner.\nStatens vegvesen kan gjøre unntak fra § 8 første ledd bokstav c og § 11 første ledd bokstav e.",
+      "xml_path": "article#kapittel-10-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-6",
+      "provision_ref": "§ 42",
+      "heading": "Saksbehandling",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "For vedtak som fattes med hjemmel i denne forskrift, gjelder lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).\nBestemmelsene i forskrift 19. januar 2004 nr. 298 om førerkort m.m. § 14-1 om klage og samme forskrift vedlegg 1 § 7 og § 8 om utfyllende bestemmelser skal anvendes i saker om medisinske krav etter denne forskrift.\nDet er adgang til å klage på utrykningsprøven, med unntak for det som gjelder sensors skjønnsmessige vurdering av den praktisk prøven, jf. forskrift 15. desember 2006 nr. 1456 til forvaltningsloven § 32.\nFor søknad om godkjenning som kursarrangør etter § 9 skal saksbehandlingsfrist som nevnt i tjenesteloven § 11 første ledd første punktum, være en måned. Saksbehandlingsfristen løper fra det tidspunkt Statens vegvesen har mottatt all nødvendig dokumentasjon.\nTjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning av kursarrangør etter § 9.",
+      "xml_path": "article#kapittel-10-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-7",
+      "provision_ref": "§ 43",
+      "heading": "Overgangsregler",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Eksisterende godkjenninger av kursarrangører og undervisningspersonell vil fortsatt være gjeldende. Allerede godkjente kursarrangører må fornye godkjenningen, jf. § 9, innen 1. juli 2014.",
+      "xml_path": "article#kapittel-10-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-8",
+      "provision_ref": "§ 44",
+      "heading": "Frister for oppfyllelse av nye krav",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Kravene i § 34 andre ledd må være oppfylt innen 1. juli 2014.",
+      "xml_path": "article#kapittel-10-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-9",
+      "provision_ref": "§ 45",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 1. juli 2009.",
+      "xml_path": "article#kapittel-10-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-10",
+      "provision_ref": "§ 46",
+      "heading": "Opphevelse",
+      "path": [
+        "Kapittel 10. Avsluttende bestemmelser"
+      ],
+      "text": "Forskrift 9. oktober 2001 nr. 1152 om opplæring og kompetansebevis for fører av utrykningskjøretøy oppheves ved denne forskrifts ikrafttredelse.",
+      "xml_path": "article#kapittel-10-paragraf-10"
+    }
+  ]
+}

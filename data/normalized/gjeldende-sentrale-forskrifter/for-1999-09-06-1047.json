@@ -1,0 +1,98 @@
+{
+  "id": "FOR-1999-09-06-1047",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om opptelling og registrering av ombordværende på passasjerskip",
+  "short_title": "Forskrift om passasjerregistrering på skip",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1999-10-01",
+  "last_change_in_force": "2025-08-01",
+  "last_changed_by": "forskrift/2025-06-24-1309 fra 2025-08-01",
+  "lovdata_refid": "forskrift/1999-09-06-1047",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-09-06-1047",
+  "raw_xml_sha256": "2ca7950767bf6306af3081e9eeb8a72da6861bef371a5ad0fc26cb5b4e21826f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder for norske passasjerskip som etter sitt sertifikat kan føre flere enn 12 passasjerer i fart til eller fra havner i EØS-området. Forskriften gjelder også for utenlandske passasjerskip som går i fart til eller fra norsk havn.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften gjelder følgende definisjoner:hurtiggående fartøy: skip som definert i kapittel X regel 1 i Den internasjonale konvensjonen om sikkerhet for menneskeliv til sjøs 1974 (SOLAS) konsolidert utgaveISM-koden (International Safety Management (ISM) Code): internasjonal norm for sikkerhetsstyring for drift av skip og hindring av forurensning, vedtatt av IMO ved resolusjon A.741(18) med senere endringerpersoner om bord: alle som er om bord, uansett alderpassasjerskip: et skip som kan føre flere enn 12 passasjererregistreringsansvarlig: en person rederiet harutpekt som ansvarlig for oppfyllelse av forpliktelsene i henhold til ISM-koden, ellerpålagt ansvaret for rapportering av opplysninger om personene om bord på skip som tilhører rederietrutefart: en rekke overfarter med skip som seiler mellom to eller flere havner, eller en rekke reiser fra og til samme havn uten andre anløpetter en offentliggjort ruteplan, ellermed så regelmessige eller hyppige overfarter at de får en klart systematisk karakter.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Registrering",
+      "path": [],
+      "text": "(1) Rederiet skal utpekte en registreringsansvarlig for rapportering av opplysninger etter § 5 og § 6 i SafeSeaNet Norway.(2) Rederiet skal ha en prosedyre for å sikre riktig og rettidig registrering i SafeSeaNet Norway.(3) Opplysningene skal samles inn og registreres slik at det ikke fører til unødvendige forsinkelser for passasjerene i forbindelse med ombord- eller ilandstigning.(4) Det skal være likt system for innhenting av opplysninger på samme rute eller på tilsvarende ruter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Opptelling",
+      "path": [],
+      "text": "(1) Skipsfører skal før skipet avgår fra norsk havn sørge for at alle personer om bord blir opptalt, og at skipet ikke har flere personer om bord enn det skipets sertifikat tillater.(2) Antall personer om bord skal før avgang meldes til skipsfører eller ansvarshavende vaktoffiser på bro. Antall personer om bord skal før avgang også rapporteres via SafeSeaNet Norway.(3) Kravet om rapportering av antall personer til SafeSeaNet Norway gjelder ikke for skip som går i rutefart i fartsområde 2 eller mindre fartsområder hvor reisetiden mellom de enkelte havnene ikke overstiger 60 minutter.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Reiser hvor de enkelte strekningene er på 20 nautiske mil eller mer",
+      "path": [],
+      "text": "(1) På passasjerskip som avgår fra norsk havn for å foreta reiser hvor de enkelte strekningene er på 20 nautiske mil eller mer, skal følgende opplysninger om alle personer om bord registreres:etternavnfornavnkjønnnasjonalitetfødselsdato.(2) Dersom en passasjer ber om det, skal rederiet forsikre seg om at opplysninger som er nødvendige for særlig behandling eller bistand i ulykkestilfeller registreres og meddeles skipets fører før avgang.(3) Opplysningene som er nevnt i første og annet ledd skal være innhentet før avgang, og skal rapporteres via SafeSeaNet Norway, senest 15 minutter etter avgang.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6a",
+      "heading": "Registrere og rapportere utenfor EØS-området",
+      "path": [],
+      "text": "(1) Norske passasjerskip som avgår fra en havn i et land utenfor EØS-området for å anløpe en havn innenfor EØS-området, skal registrere opplysningene i § 5 første ledd og § 6 første og annet ledd, og rapportere til nasjonal meldeportal i landet skipet skal anløpe.(2) Passasjerskip som seiler under flagget til et land utenfor EØS-området, og som avgår fra en havn utenfor EØS-området for å anløpe norsk havn, skal kunne dokumentere atalle personer om bord ble opptalt før avgang utenlandsk havnskipet ikke har flere personer om bord enn det skipets sertifikat tillateropplysningene etter § 6 første og annet ledd ble innhentet før avgang og rapportert til SafeSeaNet Norway, senest 15 minutter etter avgang.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Oppbevaring av registrerte opplysninger",
+      "path": [],
+      "text": "Opplysninger som er samlet inn etter bestemmelsene i § 5, § 6 eller § 6a skal bare brukes i samsvar med formålet, og slettes automatisk uten unødig opphold når reisen er trygt gjennomført.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "(1) Sjøfartsdirektoratet kan etter søknad unnta et passasjerskip i rutefart, som avgår fra norsk havn, fra plikten til å rapportere antallet personer om bord til SafeSeaNet Norway når følgende vilkår foreligger:passasjerskipet seiler utelukkende i havområde D eller mindrereisetiden mellom de enkelte havnene er mindre enn 60 minutterdet er søk- og redningsressurser i områdetpassasjerskipet ikke er hurtiggående.(2) Sjøfartsdirektoratet kan etter søknad unnta et passasjerskip som avgår fra norsk havn fra pliktene som følger av § 6 første og annet ledd, dersom reisen foregår utelukkende i havområde D eller mindre, enten mellom to havner, eller fra og til samme havn uten å anløpe andre havner, og det finnes søk- og redningsressurser i området.(3) Sjøfartsdirektoratet skal straks underrette EFTAs Overvåkingsorgan (ESA) om unntak som er gitt til passasjerskip etter § 8 annet ledd. Med underretningen skal det følge en begrunnet uttalelse.(4) Dersom ESA finner at et unntak etter § 8 tredje ledd er uberettiget eller kan få skadelige virkninger for konkurransen, kan ESA senest innen seks måneder kreve at Sjøfartsdirektoratet endrer eller opphever unntaket.(5) Sjøfartsdirektoratet kan etter søknad fra rederiet be ESA om helt eller delvis å unnta et passasjerskip i rutefart i havområde D eller større havområde, fra pliktene i § 6 når skipet utelukkende seiler i innenriks fart eller mellom havner i to EØS-stater, og rederiet kan dokumentere at følgende vilkår er oppfylt:det er upraktisk for rederiet å registrere informasjonen.sannsynligheten for at bølgehøyden i området overstiger to meter, er mindre enn 10 % målt på årsbasis.lengden på reisens enkelte strekninger ikke overstiger ca. 30 nautiske mil, eller hovedformålet med ruten er av alminnelige hensyn å opprettholde regelmessige forbindelser til fjerntliggende samfunn.området som passasjerskipet seiler i, er dekket av landbasert navigasjonsveiledning og pålitelige værmeldinger for området er tilgjengelige.det skal være passende og tilstrekkelig søk- og redningstjeneste i området.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Overgangsregler",
+      "path": [],
+      "text": "(1) Rederier som har rapportert antall personer til rederiets registeransvarlige eller rederiets landbaserte registreringssystem før (dato for ikrafttredelse av denne forskriften), kan fortsette å rapportere til rederiets registeransvarlige eller rederiets landbaserte registreringssystem frem til 20. desember 2023.(2) Rederier som har rapportert opplysningene i § 6 til rederiets registeransvarlige eller rederiets landbaserte registreringssystem før (dato for ikrafttredelse av denne forskriften), kan fortsette å rapportere til rederiets registeransvarlige eller rederiets landbaserte registreringssystem frem til 20. desember 2023.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse mv.",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. oktober 1999. Fra samme tidspunkt oppheves forskrift av 15. mars 1991 nr. 152 om registrering av ombordværende på passasjerskip i internasjonal rutefart.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

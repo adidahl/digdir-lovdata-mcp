@@ -1,0 +1,94 @@
+{
+  "id": "FOR-1998-12-16-1242",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til forskrift om årsregnskap m.m. for forsikringsselskaper og til lov om årsregnskap m.v. (regnskapsloven).",
+  "short_title": "Forskrift om overgangsregler, årsregnskap",
+  "department": "Finansdepartementet",
+  "date_in_force": "1999-01-01",
+  "lovdata_refid": "forskrift/1998-12-16-1242",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-12-16-1242",
+  "raw_xml_sha256": "6e78a55a70a12560f3548c64f3c96e71737a025e6130d342c9a94fc6ef92c2f6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forskriftens virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for virksomheter nevnt i forskrift om årsregnskap for forsikringsselskaper § 1-1 første og annet ledd.\nReglene i forskrift av 16. desember 1998 nr. 1236 om overgangsregler til lov om årsregnskap m.v. (regnskapsloven) gjelder med mindre annet følger av denne forskrift. Bestemmelser i forskrift om overgangsregler til regnskapsloven om små foretak får ikke anvendelse.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 2",
+      "heading": "Inngående balanse",
+      "path": [
+        "Livsforsikring"
+      ],
+      "text": "Forskrift om overgangsregler til regnskapsloven § 4 gjelder ikke.\nVirkningen av prinsippendring som følge av balanseføring av selskapets utsatte skattefordel skal føres direkte mot annen egenkapital i inngående balanse pr. 1. januar 1999.\nVirkning av andre prinsippendringer enn de som følger av denne forskrift § 3 annet ledd og § 4 skal resultatføres, og dersom de er vesentlige klassifiseres som ekstraordinære poster, 1. januar 1999.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 3",
+      "heading": "Finansielle omløpsmidler/kursreguleringsfond",
+      "path": [
+        "Livsforsikring"
+      ],
+      "text": "Finansielle omløpsmidler som nevnt i forskrift om årsregnskap for forsikringsselskap § 3-6 skal vurderes til virkelig verdi i inngående balanse pr. 1. januar 1999.\nVirkningen av prinsippendringen i samsvar med første ledd skal føres mot kursreguleringsfond i inngående balanse pr. 1. januar 1999.\nDet skal ikke beregnes utsatt skatt/utsatt skattefordel på grunnlag av balanseføring etter første og annet ledd.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 4",
+      "heading": "Bygninger og andre faste eiendommer",
+      "path": [
+        "Livsforsikring"
+      ],
+      "text": "Bygninger og andre faste eiendommer skal vurderes til virkelig verdi, jf. forskrift om årsregnskap for forsikringsselskaper § 3-14, pr. 1. januar 1999. Virkningen av prinsippendringen skal resultatføres som ekstraordinær post 1. januar 1999.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 5",
+      "heading": "Investering i datterselskap, tilknyttet selskap og felles kontrollert virksomhet",
+      "path": [
+        "Livsforsikring"
+      ],
+      "text": "Forskrift om overgangsregler til regnskapsloven § 6 gjelder ikke.\nInvestering i datterselskap, tilknyttet selskap og felles kontrollert virksomhet skal vurderes etter egenkapitalmetoden, jf. forskrift om årsregnskap for forsikringsselskaper § 3-15 og § 3-16, pr. 1. januar 1999. Virkningen av prinsippendringen skal resultatføres som ekstraordinær post 1. januar 1999.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Noteopplysninger",
+      "path": [
+        "Felles"
+      ],
+      "text": "Det skal opplyses om anvendte regnskapsprinsipper og virkningen av den enkelte endring av regnskapsprinsipp i samsvar med forskrift om årsregnskap for forsikringsselskaper § 5-3 og § 5-4, første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Sammenligningstall",
+      "path": [
+        "Felles"
+      ],
+      "text": "Forskrift om overgangsregler til regnskapsloven § 5 gjelder ikke.\nLivsforsikringsselskap skal ikke omarbeide resultatregnskapet, balansen og kontantstrømanalysen for 1998.\nLivsforsikringsselskap kan utarbeide proformatall for 1998.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse m.v.",
+      "path": [
+        "Felles"
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 1999.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    }
+  ]
+}

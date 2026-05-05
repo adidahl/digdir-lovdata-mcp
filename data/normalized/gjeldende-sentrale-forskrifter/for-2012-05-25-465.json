@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2012-05-25-465",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsbestemmelser for gjennomføring av lov 20. april 2012 nr. 19 om endringer i lov 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner",
+  "short_title": "Overgangsbestemmelser til militærnekterloven",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2012-05-25",
+  "lovdata_refid": "forskrift/2012-05-25-465",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-05-25-465",
+  "raw_xml_sha256": "96dea8818b49af3b7daef92579cfa7c6a95cdbf584395d5bc0e810b79aeaf76a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Søknader om fritaking for militærtjeneste av overbevisningsgrunner som fremkommer før lovens ikrafttredelsesdato 1. juni 2012, behandles etter de regler som gjaldt før ovennevnte endringslov.\nSøknader som fremkommer 1. juni 2012 eller senere, behandles etter lov av 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner, slik den lyder etter endringslov 20. april 2012 nr. 19.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "En søknad anses fremkommet når den er registrert innkommet hos vedtaksorganet eller forberedende myndighet.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

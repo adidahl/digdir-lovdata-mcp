@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2010-10-12-1330",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av alderspensjon fra offentlig tjenestepensjonsordning fra 2011 med alderspensjon fra folketrygden – særlige regler for årskull til og med 1943-kullet",
+  "short_title": "Forskrift om samordnet pensjon t.o.m. 1943-kullet",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2011-01-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/2010-10-12-1330",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-10-12-1330",
+  "raw_xml_sha256": "fedf45172fbf27b0fcd98cad4a5f69ebb580ad188b9570f30517aeb64ddda394",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Denne forskriften gjelder personer født senest i 1943 som har tatt ut alderspensjon i folketrygden senest før 1. februar 2011, der uttak av hel eller delvis alderspensjon fra offentlig tjenestepensjonsordning starter etter 31. desember 2010.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Alderspensjon fra offentlig tjenestepensjonsordning skal i tilfeller som nevnt i § 1 samordnes med alderspensjon fra folketrygden etter bestemmelsene i samordningsloven § 19 og § 23. De supplerende bestemmelsene i samordningsloven § 24 nr. 1 kommer ikke til anvendelse. Det skal ved samordningen tas hensyn til at alderspensjon fra folketrygden har vært regulert etter folketrygdloven § 19-14.\nBestemmelsene i første ledd kommer likevel ikke til anvendelse dersom alderspensjonen fra folketrygden blir omregnet etter 31. desember 2010 på grunn av endring i pensjonsgrad, jf. folketrygdloven § 19-12.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2011.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

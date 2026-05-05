@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2021-09-21-2807",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hvilke helseopplysninger som kan behandles i et behandlingsrettet helseregister med tolkede genetiske varianter",
+  "short_title": "Forskrift om hvilke helseopplysninger som kan behandles i helseregister med tolkede genetiske varianter",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2021-09-21",
+  "lovdata_refid": "forskrift/2021-09-21-2807",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-21-2807",
+  "raw_xml_sha256": "044380d3d28d4915a5b9098b086a3186c99106cb22378baaceb358601825fdd4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne forskriften er å gi regler om hvilke helseopplysninger som kan behandles i et behandlingsrettet helseregister opprettet med hjemmel i pasientjournalloven § 9a.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Opplysninger i registeret",
+      "path": [],
+      "text": "Behandlingsrettet helseregister med hjemmel i pasientjournalloven § 9a kan innsamle og behandle følgende helseopplysninger:Person- og administrative opplysninger:pseudonymisert entydig personidentifikatorkjønnvirksomhet og laboratorium som har gjort tolkningendato for tolkningenteknisk informasjon om utstyret som er brukt.Medisinske opplysninger om genetiske undersøkelser:overordnet og strukturert informasjon om den registrertes sykdom, tilstand eller symptomer (fenotype)grunnlag for undersøkelsen (diagnostisk, prediktiv, presymptomatisk og/eller bærerdiagnostisk genetisk undersøkelse, jf. bioteknologiloven § 5-1 annet ledd bokstav a eller § 5-1 annet ledd bokstav b).Medisinske opplysninger om fosterdiagnostiske undersøkelser, jf. bioteknologiloven § 4-1:grunnlaget for undersøkelsen (kjent risiko, funn ved ultralyd osv.)overordnet og strukturert informasjon om fosterets fenotype.Opplysninger knyttet til den tolkede og klassifiserte genetiske varianten:entydig beskrivelse av den genetiske varianten (genotype)tolkning og klassifisering av den genetiske variantenhvilke kilder klassifiseringen bygger påarvegang.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2003-05-27-657",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om dyrepleiere",
+  "short_title": "Forskrift om dyrepleiere",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2003-09-01",
+  "last_change_in_force": "2022-04-01",
+  "last_changed_by": "forskrift/2021-12-17-3924 fra 2022-04-01",
+  "lovdata_refid": "forskrift/2003-05-27-657",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-05-27-657",
+  "raw_xml_sha256": "81967a3a7888c9cdcdb855c15a96645bb66a1db42a9793db301332eb590d8dcd",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Denne forskriften skal bidra til at dyrepleiere utøver forsvarlig virksomhet og dermed bidrar til god dyrehelse, forsvarlig dyrevern, trygg mat og ivaretakelse av miljøhensyn.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Rett til autorisasjon",
+      "path": [],
+      "text": "Rett til autorisasjon som dyrepleier har den som dokumenterer relevant eksamen ved norsk universitet eller vitenskapelig høgskole.\nAutorisasjon som dyrepleier kan også gis:Den som har utenlandsk eksamen som Mattilsynet anerkjenner som faglig jevngod, eller som kan godtgjøre å ha den nødvendige kyndighet.Den som ikke har rett til autorisasjon etter første ledd, men som har blitt godkjent som dyrepleier av Den Norske veterinærforening før denne forskriften trådte i kraft.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Autorisasjonsmyndighet",
+      "path": [],
+      "text": "Autorisasjon etter § 2 kan gis av Mattilsynet etter søknad.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. september 2003.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

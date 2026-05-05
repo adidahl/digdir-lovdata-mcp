@@ -1,0 +1,44 @@
+{
+  "id": "FOR-2002-10-18-1165",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om dispensasjon fra konkurranseloven § 3-1 og § 3-2 for drosjesentraler.",
+  "short_title": "Forskr. om konkurransedisp., drosjesentraler",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2002-11-01",
+  "lovdata_refid": "forskrift/2002-10-18-1165",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2002-10-18-1165",
+  "raw_xml_sha256": "5910b3b52b349fc8781ab89b642e9ed9092515152606ba42df007e97393fc996",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften gjelder for samtlige drosjesentraler i riket.\nDispensasjonen gjelder ikke for pris- og anbudssamarbeid mellom drosjesentraler og mellom løyvehavere som er tilsluttet hver sine sentraler.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Drosjesentraler gis dispensasjon fra konkurranseloven § 3-1 og § 3-2 slik at de kan fastsette felles takstregulativ samt inngi felles pristilbud og anbud på vegne av de løyvehavere som er tilsluttet sentralen.\nFor drosjesentraler i områder med prisregulering gjelder forskrift om maksimalpriser for kjøring med drosjebil.\nDrosjesentraler i områder uten prisregulering skal melde inn endringer i takstregulativ, herunder endringer i takster og takstsystemer, til Konkurransetilsynet samtidig som regulativet gjøres gjeldende for de løyvehavere som er tilsluttet sentralen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Løyvehavere som er tilsluttet sentralen har ved avtale med den enkelte kunde anledning til å ta lavere priser enn det som følger av sentralens fastsatte takstregulativ.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. november 2002. Samtidig oppheves Prisdirektoratets dispensasjon av 27. mars 1961 fra forskrifter om konkurransereguleringer av priser og avanser av 1. juli 1960. Videre oppheves dispensasjonene fra konkurranseloven § 3-1 og § 3-2 for sentraler i følgende fylker og kommuner: Oslo, Akershus, Drammen, Lier, Nedre Eiker, Røyken, Hurum, Trondheim, Bergen, Askøy, Fjell, Sund, Stavanger, Randaberg, Sola, Sandnes, Kristiansand, Søgne, Songdalen og Vennesla.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

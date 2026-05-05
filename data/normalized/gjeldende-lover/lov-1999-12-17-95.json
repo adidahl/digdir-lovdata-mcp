@@ -1,0 +1,329 @@
+{
+  "id": "LOV-1999-12-17-95",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om betalingssystemer m.v.",
+  "short_title": "Betalingssystemloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Banker Bank, finans og regnskapsrett > Betalingsformidling EU/EØS-rett > Finansielle tjenester",
+  "date_in_force": "2000-04-14",
+  "last_change_in_force": "2023-01-01",
+  "last_changed_by": "lov/2020-12-18-146 fra 2023-01-01, lov/2020-12-21-165",
+  "lovdata_refid": "lov/1999-12-17-95",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1999-12-17-95",
+  "raw_xml_sha256": "907d88d21685ac10ab3c1b35d91a86f5d60d776dca0650c78db53dcd4eee345b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Betalingssystemer",
+      "path": [
+        "Kapittel 1. Definisjoner"
+      ],
+      "text": "Med betalingssystem menes systemer for overføring av midler med formelle og standardiserte ordninger og felles regler for behandling, avregning eller oppgjør av betalingstransaksjoner. I et betalingssystem inngår interbanksystem eller systemer for betalingstjenester.\nSom interbanksystem regnes systemer basert på felles regler for avregning, oppgjør eller overføring av penger mellom kredittinstitusjoner.\nSom systemer for betalingstjenester regnes systemer basert på standardvilkår for overføring av penger fra eller mellom kundekonti i banker eller andre som kan yte betalingstjenester etter finansforetaksloven § 2-3 første ledd når overføringene bygger på bruk av betalingskort, tallkoder eller annen form for selvstendig brukerlegitimasjon utstedt til en ubestemt krets.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Verdipapiroppgjørssystemer",
+      "path": [
+        "Kapittel 1. Definisjoner"
+      ],
+      "text": "Som verdipapiroppgjørssystem regnes systemer basert på felles regler for avregning, oppgjør eller overføring av finansielle instrumenter som nevnt i verdipapirhandelloven § 2-2.\nVerdipapiroppgjørssystemene skal ha en operatør som er ansvarlig for etablering og drift, og som er organisert som nevnt i § 2-4 første ledd i denne lov.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Andre definisjoner",
+      "path": [
+        "Kapittel 1. Definisjoner"
+      ],
+      "text": "Med deltaker menes avregningssentral, oppgjørsbank, sentral motpart, operatør for annet system og annen institusjon eller foretak som deltar i et interbanksystem eller verdipapiroppgjørssystem.\nMed avregningssentral menes foretak som foretar avregning.\nMed oppgjørsbank menes kontobank for deltakere i et interbanksystem eller verdipapiroppgjørssystem.\nMed sentral motpart menes institusjon som trer inn som part eller på annen måte garanterer for at andre deltakere oppfyller sine forpliktelser.\nMed avregning menes omregning av ordrer mellom to eller flere deltakere til en samlet nettoforpliktelse eller nettofordring.\nMed oppgjør menes endelig overføring av penger eller finansielle instrumenter mellom deltakere i interbanksystemer eller verdipapiroppgjørssystemer.\nMed oppdrag menes deltakers ordre om å overføre betalinger eller finansielle instrumenter til en annen deltaker i systemet.\nMed innledning av insolvensbehandling menes tidspunkt for åpning av gjeldsforhandling etter lov 8. juni 1984 nr. 58 om gjeldsforhandling og konkurs (konkursloven) § 4 fjerde ledd, tidspunkt for åpning av konkurs etter konkursloven § 74 første ledd, eller tidspunkt for vedtak om offentlig administrasjon etter lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 21-11.\nMed betalingskort menes uttaks-, debet- og kredittkort eller lignende kort for uttak eller overføring av penger.\nMed EØS menes Det europeiske økonomiske samarbeidsområdet.\nMed samvirkende system menes to eller flere system der operatørene har gjort avtale med hverandre om utføring av oppdrag på tvers av systemene. En ordning som er innført mellom samvirkende systemer, utgjør ikke et system.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Formålet med bestemmelsene i dette kapittel er å bidra til at interbanksystemer organiseres slik at hensynet til finansiell stabilitet blir ivaretatt. Det skal særlig legges vekt på å motvirke risiki som følge av likviditets- eller soliditetssvikt hos deltakere i slike systemer.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Bestemmelsene i dette kapitlet gjelder for etablering og drift av interbanksystemer her i riket.\nBestemmelsene i dette kapitlet gjelder ikke for Norges Bank.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Konsesjon",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Et interbanksystem kan ikke etableres eller drives uten tillatelse av Norges Bank.\nNorges Bank kan gjøre unntak fra kravet til tillatelse for systemer som har et så begrenset omfang at det ikke antas å ville ha betydning for den finansielle stabiliteten.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Vilkår for konsesjon",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Et interbanksystem skal ha en operatør som er ansvarlig for etablering og drift. Operatøren kan være en av de deltakende banker, annet selskap, selveiende institusjon eller forening.\nDaglig leder av operatørens virksomhet skal oppfylle nødvendige krav til hederlig vandel og erfaring. Tilsvarende gjelder for styremedlemmene.1\nAvtalen mellom deltakerne i et interbanksystem skal angi hvilke rettigheter og plikter deltakerne skal ha overfor hverandre, samt angi operatør.\nNorges Bank kan fastsette nærmere krav til virksomheten, herunder kapitalkrav til og krav til sikkerhet overfor operatør, oppgjørsbank eller sentral motpart.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Søknad om konsesjon",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Søknaden om konsesjon skal opplyse om:eier- og deltakerforhold samt plan for systemets organisering og drift, herunder om oppgavefordelingen mellom banker og andre institusjoner som deltar i systemet,de kriterier som er fastsatt for tilslutning til og deltakelse i systemet. Er deltakelse i systemet betinget av medlemskap eller kapitalinnskudd, skal det opplyses om dette,tiltak for å sikre den tekniske driften, herunder beredskap for driftsavbrudd dersom det ordinære systemet ikke fungerer,tiltak for å begrense risiki i systemet som følge av likviditets- eller soliditetssvikt hos deltakere i slike systemer,prinsipper for tilknytning av systemer for betalingstjenester og annen overføring av penger mellom kundekonti.\nAvtale som nevnt i § 2-4 tredje ledd skal vedlegges søknaden.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Endringsavtaler og nye avtaler",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Operatøren skal gi melding til Norges Bank før det foretas endring av betydning når det gjelder eier-, organisasjons- og driftsforhold m.v. som nevnt i §§ 2-4 til 2-5.\nEndring kan iverksettes dersom Norges Bank ikke har truffet annen beslutning innen 2 måneder etter at melding er mottatt.\nNorges Bank kan fastsette nærmere regler om endringer som omfattes av paragrafen her, herunder regler om fritak for meldeplikt.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Adgangen til å delta i interbanksystemer",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Kredittinstitusjoner som har adgang til å drive virksomhet her i riket har rett til å bli medlem i interbanksystemer og til å bruke disse i samsvar med fastsatte tariffer og alminnelige forretningsvilkår. Dette gjelder ikke hvis konsesjon er gitt og avtalen for interbanksystemet fastsetter at det skal gjelde særlige vilkår for tilknytning til eller deltakelse i systemet.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Suspensjon av deltakere",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Operatøren skal suspendere en deltaker fra systemet dersom fortsatt deltakelse vil være i strid med § 2-1. Før vedtak om suspensjon treffes, skal saken såvidt mulig forelegges Norges Bank.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Tilsyn m.v.",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Norges Bank kan kreve at operatøren gir de opplysninger som Norges Bank anser nødvendige for å påse at systemet innrettes og drives i samsvar med bestemmelse gitt i eller i medhold av loven her.\nFinner Norges Bank at systemet ikke er innrettet eller drives i samsvar med bestemmelser fastsatt i eller i medhold av lov, kan Norges Bank gi operatøren de pålegg som er nødvendige for å rette på forholdet.\nNorges Bank kan kreve at det utpekes ny operatør dersom operatøren ikke lenger anses egnet til å forestå virksomheten.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 2-10",
+      "heading": "Tilbakekall av konsesjon",
+      "path": [
+        "Kapittel 2. Interbanksystemer"
+      ],
+      "text": "Norges Bank kan trekke tillatelsen etter § 2-3 helt eller delvis tilbake dersom:operatøren har gjort seg skyldig i grov eller vedvarende overtredelse av sine plikter gitt i eller i medhold av lov,det ellers forekommer misligheter hos operatøren eller andre omstendigheter som gir grunn til å frykte at systemet ikke virker som angitt i § 2-1,operatøren ikke lenger driver aktiv virksomhet knyttet til den konsesjonspliktige virksomheten.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 3. Systemer for betalingstjenester"
+      ],
+      "text": "Formålet med bestemmelsene i dette kapittel er å bidra til at systemer for betalingstjenester innrettes og drives slik at hensynet til sikker og effektiv betaling og til rasjonell og samordnet utførelse av betalingstjenester ivaretas.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Meldeplikt",
+      "path": [
+        "Kapittel 3. Systemer for betalingstjenester"
+      ],
+      "text": "Det skal uten unødig opphold gis melding til Finanstilsynet om etablering og drift av system for betalingstjenester.\nMeldingen skal inneholde opplysninger om:avtalene mellom deltakende institusjoner om overføring eller uttak av betalingsmidler,avtalene om tilknytning av brukersteder,avtalene mellom systemer for betalingstjenester,bruk av betalingskort, tallkoder eller annen form for selvstendig brukerlegitimasjon som skal benyttes ved betaling.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Alminnelige systemkrav",
+      "path": [
+        "Kapittel 3. Systemer for betalingstjenester"
+      ],
+      "text": "Systemer for betalingstjenester skal innrettes og drives i samsvar med formålet i § 3-1. Finanstilsynet kan gi nærmere regler om standardisering av avtaler, vilkår, tekniske forhold m.v. for systemer for betalingstjenester.\nFinner Finanstilsynet at et system ikke innrettes eller drives i samsvar med bestemmelser fastsatt i eller i medhold av lov, kan Finanstilsynet gi den institusjonen som driver systemet de pålegg som er nødvendige for å rette på forholdet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 4. Rettsvern og sikkerhet for avregnings- og oppgjørsavtaler"
+      ],
+      "text": "Bestemmelse i dette kapitlet gjelder for interbanksystemer med tillatelse etter § 2-3, Norges Bank, og for verdipapiroppgjørssystemer etter særskilt godkjenning av Finanstilsynet.\nBestemmelsene i dette kapitlet kan etter særskilt godkjenning gis anvendelse for interbanksystemer og verdipapiroppgjørssystemer som er etablert i annen EØS-stat. Godkjenning skal kun gis dersom systemets regler anses formålstjenlige. Godkjenning til interbanksystemer gis av Norges Bank. Godkjenning til verdipapiroppgjørssystemer gis av Finanstilsynet.\nBestemmelsene i dette kapitlet gjelder bare systemer med minst tre deltakere, i tillegg til operatør, eventuell oppgjørsbank, eventuell sentral motpart og eventuell avregningssentral, som har avtalt at norsk lovgivning skal anvendes for systemet i samsvar med § 4-3 og som er meldt til EFTAs overvåkingsorgan i samsvar med § 4-5.\nBestemmelsene i §§ 4-2 første og tredje ledd og 4-4 gjelder også for norske deltakere i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i annen EØS-stat for systemet og som er meldt til EFTAs overvåkingsorgan eller EU-kommisjonen i samsvar med rådsdirektiv 98/26/EF om endeleg oppgjer i betalingssystem og i oppgjerssystem for verdipapir. Det samme gjelder for norske deltakere i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i en stat utenfor EØS for systemet, som har meldt inn deltakelsen til Norges Bank eller Finanstilsynet, og der deltakelsen er publisert på Norges Banks eller Finanstilsynets internettsider.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Rettsvern for avtaler om avregning og oppgjør",
+      "path": [
+        "Kapittel 4. Rettsvern og sikkerhet for avregnings- og oppgjørsavtaler"
+      ],
+      "text": "Avtaler om avregning og oppgjør kan gjøres gjeldende etter sitt innhold selv om det innledes insolvensbehandling hos en deltaker i det aktuelle systemet, i et samvirkende system, eller en systemansvarlig for et samvirkende system som ikke selv er en deltaker, når oppdraget er lagt inn i systemet før det er innledet insolvensbehandling.\nTidspunktet for når et oppdrag skal anses lagt inn i systemet skal avtales mellom deltakerne i systemet. Det samme gjelder tidspunktet for når retten til å tilbakekalle ordrer er bortfalt. Norges Bank kan for interbanksystemer fastsette nærmere regler om når oppdrag skal anses lagt inn i systemet etter første ledd. Finanstilsynet kan fastsette slike regler for verdipapiroppgjørssystemer.\nDersom et oppdrag blir lagt inn i systemet etter at det er innledet insolvensbehandling etter første ledd, og oppdraget gjennomføres i løpet av virkedagen insolvensbehandlingen innledes, gjelder første ledd tilsvarende dersom operatøren kan godtgjøre at operatøren ikke hadde eller burde hatt kunnskap om at insolvensbehandlingen var innledet på det tidspunktet retten til å tilbakekalle ordren bortfalt. Systemet skal i sine regler fastsette hva som menes med virkedag, og som dekker oppgjør både på dagen og på natten og omfatte alle hendelser i løpet av syklusen til systemet.\nDepartementet kan i forskrift fastsette nærmere bestemmelser, herunder unntak fra dekningsloven, om bruk av en deltakers disponible midler til å gjennomføre oppgjør på oppgjørsdagen i forbindelse med innledelse av insolvensbehandling hos deltakeren.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Lovvalg",
+      "path": [
+        "Kapittel 4. Rettsvern og sikkerhet for avregnings- og oppgjørsavtaler"
+      ],
+      "text": "Deltakerne kan bare velge lovgivningen i en annen stat der minst én av deltakerne har hovedkontor.\nLovgivningen i den stat som deltakerne har valgt for systemet etter første ledd avgjør hvilke rettigheter og forpliktelser en insolvent deltaker har som deltaker i systemet.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Sikkerhet",
+      "path": [
+        "Kapittel 4. Rettsvern og sikkerhet for avregnings- og oppgjørsavtaler"
+      ],
+      "text": "Sikkerhet som er stilt overfor en sentralbank innenfor EØS-området, en operatør, eller en deltaker i interbanksystem eller verdipapiroppgjørssystem, kan ikke omstøtes etter dekningsloven § 5-7. Det samme gjelder sikkerhet stilt overfor en sentralbank i forbindelse med deltakelse i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i en stat utenfor EØS for systemet, som er meldt og offentliggjort i samsvar med § 4-1 fjerde ledd.\nEn operatørs rett til sikkerhet stilt overfor en annen operatør i forbindelse med et samvirkende system skal ikke påvirkes av insolvensbehandling hos mottakende operatør. Ved insolvensbehandling har operatøren rett til å få dekket sin fordring på tilbakeføring av sikkerheten før andre fordringer med unntak av massefordringer. Fortrinnsretten er begrenset til den del av sikkerheten som overstiger den mottatte operatørens krav mot vedkommende. Fordringen skal dekkes uten ugrunnet opphold.\nDersom finansielle instrumenter som nevnt i verdipapirhandelloven § 2-2 er stilt som sikkerhet etter første ledd, og retten til de finansielle instrumentene er registrert i et register, en konto eller i en verdipapirsentral i en EØS-stat, skal lovgivningen i dette landet være bestemmende for rettighetene til innehaver av sikkerhetsstillelsen.1 For sikkerhet stilt i forbindelse med deltakelse i interbanksystemer eller verdipapiroppgjørssystemer som har valgt lovgivningen i en stat utenfor EØS for systemet, må systemet være meldt og offentliggjort i samsvar med § 4-1 fjerde ledd.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Meldeplikt",
+      "path": [
+        "Kapittel 4. Rettsvern og sikkerhet for avregnings- og oppgjørsavtaler"
+      ],
+      "text": "Operatøren for interbanksystemer som nevnt i § 4-1 skal gi melding til Norges Bank om hvem som er deltaker i systemet, og om endringer med hensyn til deltakerne. Operatøren for et verdipapiroppgjørssystem som nevnt i § 4-1 skal gi tilsvarende melding til Finanstilsynet.\nNorges Bank skal gi melding til EFTAs overvåkingsorgan om systemer og operatører for systemene som omfattes av kapitlet her, og gi melding om innledning av insolvensbehandling hos en deltaker i et slikt system.\nEn deltaker i systemet skal opplyse enhver tredjepart som har begrunnet interesse i opplysningene, om hvilke systemer deltakeren er medlem av og om hovedreglene for systemets virksomhet.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 5. Adgang til betalingssystemer"
+      ],
+      "text": "Bestemmelsene i dette kapitlet gjelder betalingsforetaks adgang til å delta i betalingssystemer i Norge. Bestemmelsene får tilsvarende anvendelse for andre ytere av betalingstjenester som nevnt i finansforetaksloven § 2-3.\nMed betalingsforetak menes foretak med tillatelse til å drive betalingstjenestevirksomhet etter reglene i eller i medhold av finansforetaksloven § 2-10.\nMed betalingstjenester menes aktiviteter som nevnt i finansavtaleloven § 1-5 første ledd med unntak for tjenester som det er gjort unntak for etter forskrift fastsatt med hjemmel i finansforetaksloven § 2-3 femte ledd første punktum.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Vilkår for deltakelse betalingssystemer mv.",
+      "path": [
+        "Kapittel 5. Adgang til betalingssystemer"
+      ],
+      "text": "Vilkår for deltakelse i betalingssystemer skal være objektive, ikke-diskriminerende og forholdsmessige, slik at vilkårene ikke hindrer tilgang og deltakelse i større utstrekning enn det som er nødvendig for å beskytte seg mot særlige former for risiko, så som oppgjørsrisiko, operasjonell risiko og forretningsmessig risiko, samt for å beskytte den finansielle og driftsmessige stabilitet.\nBetalingssystemer skal ikke pålegge ytere av betalingstjenester, brukere av betalingstjenester eller andre betalingssystemer:restriktive regler vedrørende effektiv deltakelse i andre betalingssystemer,regler som forskjellsbehandler betalingsforetak og andre ytere betalingstjenester når det gjelder deltakernes rettigheter, plikter og fortrinnsretter, ellerrestriksjoner på grunnlag av institusjonell status.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 5. Adgang til betalingssystemer"
+      ],
+      "text": "Reglene i § 5-2 gjelder ikke forbetalingssystemer som omfattes av rådsdirektiv 98/26/EF om endelig oppgjør i betalingssystem og i oppgjørssystem for verdipapir,betalingssystemer som utelukkende er sammensatt av ytere av betalingstjenester innenfor et finanskonsern.\nDeltaker i et betalingssystem som omfattes av rådsdirektiv 98/26/EF om endelig oppgjør i betalingssystem og i oppgjørssystem for verdipapir som gir én betalingstjenestetilbyder adgang til å sende transaksjoner gjennom systemet, skal på anmodning gi andre betalingstjenestetilbydere tilsvarende tilgang i samsvar med § 5-2. Deltaker i det notifiserte systemet som avslår å gi betalingstjenestetilbyderen mulighet til å sende betalingsordre gjennom systemet, skal gi betalingstjenestetilbyderen begrunnelse for avslaget.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Tilgang til kredittinstitusjoners betalingskontotjenester",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "En kredittinstitusjon skal gi betalingsforetak adgang til sine betalingskontotjenester på objektive, ikke-diskriminerende og forholdsmessige vilkår. Slik tilgang skal gis i den utstrekning som kreves for at betalingsforetaket uhindret og effektivt skal kunne tilby betalingstjenester.\nDersom en kredittinstitusjon gir et betalingsforetak avslag på tilgang til institusjonens betalingskontotjenester etter første ledd, skal institusjonen melde fra til tilsynsmyndighetene og begrunne avslaget.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2#kapittel-6-paragraf-2",
+      "heading": "Forskrifter",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Departementet kan fastsette nærmere regler om:norske finansforetaks deltakelse i utenlandske betalingssystemer og verdipapiroppgjørssystemer,avregning, oppgjør og overføring av betalingsmidler til og fra utlandet,systemer for betalinger som ikke er knyttet til kundekonti i banker og finansieringsforetak,Dersom det oppstår tvist mellom betalingsmottakere og deres tilbydere av betalingstjenester om bestemmelser i forordning (EU) 2015/751, kan hver av partene kreve å få behandlet denne av kompetent organ som fastsatt i forskrift av departementet. I forskriften kan departementet fastsette nærmere bestemmelser om organets virksomhet, herunder bestemmelser om at utgifter til organets virksomhet skal utliknes på foretakene eller dekkes av partene. Så lenge tvisten er til behandling i organet, kan ingen av partene bringe tvisten inn for domstolene. En sak som er realitetsbehandlet av organet, kan bringes direkte inn for domstolene.utfylling og avgrensning av bestemmelsene i loven her.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Ansatte og tillitsvalgte i en institusjon som omfattes av denne lov, har taushetsplikt med hensyn til opplysninger de får om andres forretningsmessige eller private forhold, med mindre annet følger av lov. Tilsvarende gjelder andre som utfører oppdrag for institusjonen.\nTaushetsplikten er ikke til hinder for at styret eller noen som har fullmakt fra styret gir andre finansforetak opplysninger som er mottatt i egenskap av operatør.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Straffebestemmelser og tvangsmulkt",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Ansatte eller tillitsvalgte i institusjoner som omfattes av denne lov og som forsettlig eller uaktsomt overtrer loven eller bestemmelser eller pålegg gitt med hjemmel i loven, straffes med bøter eller under særlig skjerpende omstendigheter med fengsel inntil 1 år, dersom forholdet ikke går inn under strengere straffebestemmelse.\nForeldelsesfristen for adgang til å reise straffesak er 5 år.\nHvis pålegg i medhold av loven ikke blir etterkommet, kan departementet bestemme at de personer eller den institusjon som skal oppfylle pålegget, skal betale en daglig løpende mulkt til forholdet er rettet. Pålegg om mulkt er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Lovens anvendelse på Svalbard",
+      "path": [
+        "Kapittel 6. Øvrige bestemmelser"
+      ],
+      "text": "Kongen gir forskrift om denne lovs anvendelse for Norges økonomiske sone og for Svalbard, Jan Mayen og bilandene, og kan fastsette særlige regler under hensyn til forholdene der.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Ikrafttredelse og overgangsregler",
+      "path": [
+        "Kapittel 7. Ikrafttredelse. Overgangsregler. Endringer i andre lover"
+      ],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1 De enkelte bestemmelser kan settes i kraft til ulik tid.\nDepartementet1 kan fastsette nærmere overgangsregler.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 6-2#kapittel-7-paragraf-2",
+      "heading": "Endringer i andre lover",
+      "path": [
+        "Kapittel 7. Ikrafttredelse. Overgangsregler. Endringer i andre lover"
+      ],
+      "text": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    }
+  ]
+}

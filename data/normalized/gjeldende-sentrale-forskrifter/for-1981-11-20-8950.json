@@ -1,0 +1,53 @@
+{
+  "id": "FOR-1981-11-20-8950",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om anerkjennelse av nordiske farskapsavgjørelser.",
+  "short_title": "Forskrift om nordiske farskapsavgjørelser",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "1982-01-01",
+  "last_change_in_force": "2004-12-07",
+  "last_changed_by": "forskrift/2004-12-07-1578",
+  "lovdata_refid": "forskrift/1981-11-20-8950",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1981-11-20-8950",
+  "raw_xml_sha256": "cc03c5ddeb5ef38381b571b4636f5525190f8bf31d2f6a362e469419dfbc45a0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Rettskraftig dom om farskap til barn avsagt av dansk, finsk, islandsk eller svensk domstol gjelder også i Norge. Med dom likestilles her rettsforlik.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Når farskapet til et barn er fastsatt i Danmark, Finland, Island eller Sverige på annen måte enn ved dom, gjelder fastsettingen også i Norge.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Dom eller fastsetting som nevnt i §§ 1 og 2 gjelder likevel ikke i Norge når:dommen eller fastsettingen er i strid med en dom som gjelder i Norge og som er avsagt i et søksmål som ble reist før det andre søksmålet ble reist eller før fastsettingen skjedde,dommen eller fastsettingen er i strid med en annen farskapsfastsetting som gjelder i Norge, forutsatt at fastsettingen skjedde før søksmålet ble reist eller før den andre fastsettingen skjedde.søksmål om farskapet til barnet er reist i Norge eller et annet land, forutsatt at søksmålet kan lede til en dom som vil gjelde i Norge og det ble reist før det andre søksmålet ble reist eller før fastsettingen skjedde, elleranerkjennelse ville virke åpenbart støtende på norsk rettsorden.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Blir det reist søksmål for norsk domstol om farskapet til et barn, og søksmål om farskapet allerede er reist for en domstol i Danmark, Finland, Island eller Sverige, skal søksmålet i Norge avvises eller stanses til det foreligger rettskraftig avgjørelse i det andre landet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Forskriften her tar til å gjelde 1. januar 1982.\nDen gjelder også for dommer som er avsagt og farskapsfastsettinger som har skjedd før forskriften trådte i kraft, forutsatt at dommen eller fastsettingen ikke er i strid med en annen dansk, finsk, islandsk eller svensk dom eller fastsetting fra før forskriften trådte i kraft.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

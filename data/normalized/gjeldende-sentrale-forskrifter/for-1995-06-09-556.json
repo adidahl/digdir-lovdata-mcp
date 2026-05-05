@@ -1,0 +1,90 @@
+{
+  "id": "FOR-1995-06-09-556",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innførselstillatelse av visse produkter som kan anvendes til kraftfôr i husdyrproduksjonen.",
+  "short_title": "Forskrift om innførselstillatelse, kraftfor",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1995-07-01",
+  "last_change_in_force": "2014-09-03",
+  "last_changed_by": "forskrift/2014-09-03-1144",
+  "lovdata_refid": "forskrift/1995-06-09-556",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1995-06-09-556",
+  "raw_xml_sha256": "e9c30c096f8669d3be227a5ceef9bf39f047a299bef19c7f2efbf53f1259974c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å kontrollere bruk av produkter som kan anvendes til kraftfôr i husdyrproduksjon, der disse produktene er innført under forutsetning av at de skal brukes til menneskeføde, fôr til kjæledyr, fisk m.v.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskrift omfatter alle produkter i henhold til vedlagte liste når disse innføres til annet formål enn kraftfôr i husdyrproduksjon, og andre produkter som kan anvendes til kraftfôr i husdyrproduksjon når det søkes om tillatelse til nedsatt toll begrunnet ut fra annen anvendelse.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Anvendelseserklæring (importerklæring)",
+      "path": [],
+      "text": "Anvendelseserklæring (importerklæring) er en bekreftelse fra importør på at de importerte produktene ikke innføres til kraftfôr i husdyrproduksjonen.\nImportør plikter i forbindelse med innførselen å forelegge Landbruksdirektoratet en anvendelseserklæring på at importproduktene ikke føres inn til bruk i husdyrproduksjon, jf. § 4. Anvendelseserklæringen avlegges på standardskjema fra Landbruksdirektoratet.\nAnvendelseserklæringen avgis for en tidsbegrenset periode. Import etter utløp av den tidsbegrensede perioden krever fornying av erklæringen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Innførselstillatelse",
+      "path": [],
+      "text": "Den eller de som innfører produkter omfattet av vedleggslisten plikter å være i besittelse av en innførselstillatelse utstedt av Landbruksdirektoratet, jf. § 3. Slik tillatelse gis til enhver importør som har avgitt gyldig anvendelseserklæring, forutsatt at vilkårene i lov om landets kornforsyning er oppfylt.\nFor å overvåke innførselen, kan Landbruksdirektoratet sette nærmere vilkår i forbindelse med utstedelsen av innførselstillatelsen, herunder avgjøre om tillatelsen skal gis for en tidsbegrenset periode, et begrenset kvantum eller for et enkelt vareparti. Innførselstillatelsen skal foreligge ved fortolling samt forevises på tollvesenets forlangende.\nProdukter som omfattes av denne forskriften må ikke anvendes i strid med vilkår i innførselstillatelsen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Innenlands omsetning og/eller videreforedling av importvarene",
+      "path": [],
+      "text": "Den som erverver importprodukter hvor det kreves innførselstillatelse, må ikke anvende eller disponere importproduktene til kraftfôr i husdyrproduksjon.\nVed omsetning av importproduktet eller omsetning av videreforedlede blandinger, hvor importproduktet inngår, skal det, på salgsdokumentet, opplyses om at produktet ikke kan anvendes til kraftfôr i husdyrproduksjonen. Tilsvarende gjelder ved salg av produktet i senere ledd i omsetningskjeden.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Rapportering m.v.",
+      "path": [],
+      "text": "Importør eller andre som omsetter produkter omfattet av denne forskrift plikter å sende alle nødvendige oppgaver og rapporter, herunder revisorattesterte oppgaver over innført og/eller omsatt mengde, som Landbruksdirektoratet ber om.\nDet kan i tillegg kreves revisors bekreftelse på at produktene ikke er omsatt eller benyttet i strid med importerklæringen.\nLandbruksdirektoratet kan gi nærmere regler og bestemmelser om rapportering.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Kontroll",
+      "path": [],
+      "text": "Landbruksdirektoratet fører kontroll med at bestemmelsene i denne forskrift blir overholdt, og kan i kontrolløyemed kreve innsyn i eller utlevering av regnskapsmateriale, resepter, analysemateriale, korrespondanse m.v. til importør eller senere omsetningsledd.\nLandbruksdirektoratet kan under utøvelse av kontrollen søke bistand hos tollvesenet eller annen offentlig myndighet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Dersom særlige forhold foreligger, kan Landbruksdirektoratet gjøre unntak fra bestemmelsene i denne forskrift.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. juli 1995.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

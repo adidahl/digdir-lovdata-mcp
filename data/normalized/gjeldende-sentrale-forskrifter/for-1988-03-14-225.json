@@ -1,0 +1,30 @@
+{
+  "id": "FOR-1988-03-14-225",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bruk av kommunens myndighet etter lov om motorferdsel i utmark og vassdrag – forbud mot helikopterskiing og liknende.",
+  "short_title": "Forskr om forbud mot helikopterskiing m.m.",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "1988-03-14",
+  "lovdata_refid": "forskrift/1988-03-14-225",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1988-03-14-225",
+  "raw_xml_sha256": "78b64445d0bf5a7e32db89fec4e9fea51201e7ae9faf29ce16a08929a40369a3",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Kommunens myndighet etter lov om motorferdsel i utmark og vassdrag 10. juni 1977 nr. 82 § 5 bokstav a)1 til å gi forskrift om adgang til landing og start med luftfartøy på bestemte steder i utmark og vassdrag, er begrenset på følgende måte:\nDet er ikke adgang til å legge ut til landingsplasser fjelltopper, utsiktspunkter, breer og andre liknende steder, som bare har interesse i forbindelse med helikopterskiing, for kortvarig opphold, som utgangspunkt for dagsturer, eller for liknende formål.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskrift trer ikraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "id": "LOV-2022-12-20-118",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om informasjonstilgang m.m. for Koronautvalget, og endringer i voldserstatningsloven (ny forskriftshjemmel)",
+  "short_title": "Lov om informasjonstilgang m.m. for Koronautvalget mv.",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Erstatnings- og forsikringsrett > Person- og pasientskadeerstatning Forvaltnings- og kommunalrett > Offentlig forvaltning HMS og beredskaps- og sikkerhetsrett IKT- og medierett > Personopplysninger Kultur, idrett og underholdning > Arkiv",
+  "date_in_force": "2022-12-20",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "lov/2025-06-20-96 fra 2026-01-01",
+  "lovdata_refid": "lov/2022-12-20-118",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2022-12-20-118",
+  "raw_xml_sha256": "3266ea138a2a26447eb1be5dfbdfedfb5b3ad8a38cf401ea8af2c0ec2644eeb6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formålet med loven",
+      "path": [],
+      "text": "Loven skal sikre at det uavhengige utvalget som skal evaluere myndighetenes håndtering av covid-19-pandemien samlet sett, og i tillegg omikronhåndteringen i perioden fra 1. november 2021 til mai 2022 (Koronautvalget), oppnevnt av Kongen i statsråd 29. april 2022, får tilgang til nødvendige opplysninger for å få utført sitt arbeid i henhold til mandatet, og å gi utvalget adgang til å behandle disse opplysningene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Taushetsplikt",
+      "path": [],
+      "text": "Medlemmene i Koronautvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt etter forvaltningsloven §§ 13 til 13 g. Forvaltningsloven § 13 b første ledd nr. 6 gjelder ikke.\nNår personer som nevnt i første ledd mottar opplysninger som er undergitt strengere regler om taushetsplikt enn det som følger av forvaltningsloven, skal de strengere reglene gjelde. Det samme gjelder etter at materialet har blitt avlevert til en bevaringsinstitusjon.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forbud mot bruk av opplysninger som bevis i senere straffesak eller sivil sak",
+      "path": [],
+      "text": "Opplysninger som Koronautvalget har mottatt i medhold av § 2, kan ikke brukes som bevis i en senere straffesak eller sivil sak, eller som dokumentasjon i tilsynssaker som kan gi grunnlag for reaksjoner mot enkeltpersoner.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Avlevering og kassasjon av dokumenter",
+      "path": [],
+      "text": "Når Koronautvalget har avsluttet sitt arbeid, skal det gjennomføres arkivavgrensing av utvalgets dokumentmateriale. Materiale som omfattes av arkivplikten, og som skal bevares etter reglene i arkivlova med forskrifter, skal avleveres til en bevaringsinstitusjon.\nMateriale som ikke skal arkiveres eller bevares, skal kasseres.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Klageinstans etter offentleglova",
+      "path": [],
+      "text": "Ved klager på utvalgets avgjørelser etter offentleglova, er departementet klageinstans. Det samme gjelder for klager på avgjørelser etter offentleglova som gjelder utvalgets arkiv etter at arkivet er avlevert til en bevaringsinstitusjon.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Lovens anvendelse på Svalbard og Jan Mayen",
+      "path": [],
+      "text": "Loven gjelder på Svalbard og Jan Mayen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse og opphør",
+      "path": [],
+      "text": "Loven trer i kraft straks.\n§§ 2 og 4 oppheves når utvalget har avsluttet sitt arbeid.1",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Endringer i annen lov",
+      "path": [],
+      "text": "Fra den tiden loven trer i kraft, gjøres følgende endring i lov 17. juni 2022 nr. 57 om erstatning fra staten til voldsutsatte: – – –",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

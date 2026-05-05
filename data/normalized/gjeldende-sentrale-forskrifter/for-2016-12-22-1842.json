@@ -1,0 +1,90 @@
+{
+  "id": "FOR-2016-12-22-1842",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fastsettelse av tvangsmulkt i medhold av lov om offentlige anskaffelser",
+  "short_title": "Forskrift om fastsettelse av tvangsmulkt i medhold av anskaffelsesloven",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2017-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-09-17-2010 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2016-12-22-1842",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-12-22-1842",
+  "raw_xml_sha256": "e4d2194d4c07bbc6edc457c9fb952b35391f67790ded0a111432f15c68b51430",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Ileggelse av tvangsmulkt",
+      "path": [],
+      "text": "For å sikre at pålegg gitt i medhold av anskaffelsesloven § 17 blir oppfylt, kan ansvarlig departement ilegge løpende tvangsmulkt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forhåndsvarsel",
+      "path": [],
+      "text": "Ved vedtak om tvangsmulkt skal forhåndsvarsel sendes etter reglene i forvaltningsloven § 16. Departementet kan gi forhåndsvarselet i vedtaket om pålegg som mulkten knytter seg til eller i forhåndsvarselet til dette.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Utmåling av tvangsmulkt",
+      "path": [],
+      "text": "Mulktens størrelse settes til tre ganger rettsgebyret (R) per dag, jf. lov 17 desember 1982 nr. 86 om rettsgebyr § 1. Tvangsmulkten kan settes høyere dersom det er særlig påkrevd at pålegget oppfylles innen fristen, men aldri høyere enn ti ganger R per dag.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Mulktens løpetid",
+      "path": [],
+      "text": "Tvangsmulkt begynner å løpe fra utløpet av fristen som er fastsatt i vedtaket om tvangsmulkt. Tvangsmulkten påløper per virkedag frem til pålegget er oppfylt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forfallstid",
+      "path": [],
+      "text": "Tvangsmulkten forfaller til betaling ved skriftlig påkrav.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Umulig å etterleve pålegget",
+      "path": [],
+      "text": "Tvangsmulkt påløper ikke dersom det blir umulig å etterleve pålegget, og årsaken til dette ikke ligger hos den ansvarlige.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Innkreving",
+      "path": [],
+      "text": "Tvangsmulkten kreves inn av Innkrevingsmyndigheten og tilfaller staten.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Klage",
+      "path": [],
+      "text": "Vedtaket om tvangsmulkt kan påklages til Kongen i statsråd etter reglene i forvaltningsloven § 28 – § 36.\nBlir en klage over vedtaket om pålegg eller vedtaket om tvangsmulkt gitt oppsettende virkning, vil ikke tvangsmulkt forfalle til betaling før klagen er avgjort.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. januar 2017.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

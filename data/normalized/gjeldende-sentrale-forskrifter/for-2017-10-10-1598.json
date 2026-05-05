@@ -1,0 +1,356 @@
+{
+  "id": "FOR-2017-10-10-1598",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elektrisk utstyr",
+  "short_title": "Forskrift om elektrisk utstyr",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2017-10-11",
+  "lovdata_refid": "forskrift/2017-10-10-1598",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-10-10-1598",
+  "raw_xml_sha256": "91ac09441a56a167a2e7fc0c6c5526b5930025522922c093c2d532d3edf63a05",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften skal sikre at elektrisk utstyr som gjøres tilgjengelig på markedet, oppfyller grunnleggende sikkerhetskrav.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder for elektrisk utstyr som angitt i § 4.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder ikke forelektriske basiskomponenter som er ment til å sammenbygges i annet elektrisk utstyr der sikkerheten bare kan bedømmes i det ferdigstilte utstyretomsetning eller overdragelse av utstyr som er tatt i bruk og allerede er lovlig omsatt innen EØSutstyr som utelukkende er ment for eksport til land utenfor EØSelektrisk utstyr bestemt til bruk i eksplosjonsfarlige omgivelserelektrisk utstyr for radiologi og medisinske formålelektriske deler for vare- og personheiserelektromagnetisk kompabilitet og radiostøyspesialisert elektrisk utstyr til bruk om bord i skip, fly eller jernbane, som er i samsvar med sikkerhetsbestemmelsene som er utarbeidet av de internasjonale organene som Norge er tilknyttetspesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformål.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "I forskriften menes medelektrisk utstyr: enhver artikkel eller gjenstand for produksjon, omforming, overføring, fordeling, bruk eller måling av elektrisk energi slik som bruksgjenstander, transformatorer, omformere, måleinstrumenter, vern, installasjonsmateriell, eller sammenstillinger av slikelavspenningsutstyr: elektrisk utstyr som er bestemt til bruk ved en merkespenning på mellom 50 og 1 000 V for vekselstrøm og på mellom 75 og 1 500 V for likestrøm med unntak av elektrisitetsmålere, plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder og elektriske gjerdeapparaterøvrig elektrisk utstyr: elektrisk utstyr som verken er lavspenningsutstyr eller plugger og stikkontakter til bruk i boliger og tilsvarende bruksområdergjøre tilgjengelig på markedet: enhver levering av elektrisk utstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfrittbringe i omsetning: gjøre elektrisk utstyr tilgjengelig i EØS for første gangprodusent: enhver fysisk eller juridisk person som produserer elektrisk utstyr eller får elektrisk utstyr konstruert eller produsert, og som markedsfører det under eget navn eller varemerkerepresentant: enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaverimportør: enhver fysisk eller juridisk person etablert i EØS som bringer elektrisk utstyr fra en tredjestat i omsetning i EØSdistributør: enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør elektrisk utstyr tilgjengelig på markedetmarkedsdeltakere: produsenten, representanten, importøren og distributørenteknisk spesifikasjon: et dokument der det er fastsatt hvilke tekniske krav som skal oppfylles av et elektrisk utstyrharmonisert standard: en europeisk standard som er vedtatt på grunnlag av en anmodning fra Europakommisjonen med henblikk på gjennomføring av EØS-regelverksamsvarsvurdering: prosessen for å fastslå om et elektrisk utstyr oppfyller de grunnleggende sikkerhetskravenetilbakekalling: ethvert tiltak rettet mot å oppnå retur av elektrisk utstyr som allerede er gjort tilgjengelig for brukernetilbaketrekking: ethvert tiltak rettet mot å hindre at elektrisk utstyr i omsetningskjeden blir gjort tilgjengelig på markedetCE-merking: merking der produsenten angir at lavspenningsutstyret oppfyller gjeldende krav fastsatt i EØS-regelverk om slik merkingEØS-regelverk: regelverk i EØS som harmoniserer vilkårene for markedsføring av produkter.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Grunnleggende sikkerhetskrav",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Elektrisk utstyr skal oppfylle de relevante grunnleggende sikkerhetskravene i vedlegg I.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Når elektrisk utstyr kan gjøres tilgjengelig på markedet",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Elektrisk utstyr kan bare gjøres tilgjengelig på markedet dersom det er i samsvar med forskriften og dette kan dokumenteres på fastsatt måte.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Forpliktelser for produsenter av lavspenningsutstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) En produsent av lavspenningsutstyr skal sikre at utstyr er konstruert og produsert i samsvar med vedlegg I når utstyret bringes i omsetning.(2) Produsenten skal utarbeide teknisk dokumentasjon etter vedlegg II og utføre eller få utført samsvarsvurdering etter vedlegg II.(3) Produsenten skal, når det er påvist at lavspenningsutstyret samsvarer med de relevante kravene, CE-merke utstyret etter § 26 og utarbeide en samsvarserklæring etter § 25.(4) Produsenten skal oppbevare den tekniske dokumentasjonen og samsvarserklæringen i ti år etter at lavspenningsutstyret er brakt i omsetning.(5) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i utstyrets konstruksjon eller egenskaper og endringer i standardene nevnt i § 22 eller andre tekniske spesifikasjoner som det er vist til i samsvarserklæringen.(6) Produsenten skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med lavspenningsutstyretta stikkprøver av lavspenningsutstyr som er gjort tilgjengelig på markedetundersøke, og, om nødvendig, føre et register over klager, lavspenningsutstyr som ikke oppfyller kravene og tilbakekallinger av lavspenningsutstyrholde distributører underrettet om all slik overvåking.(7) Produsenten skal sikre at lavspenningsutstyret har et type-, parti-, serienummer eller lignende som gjør det mulig å identifisere det. Dersom utstyrets størrelse eller art ikke tillater dette, skal nødvendige opplysninger gis på emballasjen eller i et dokument som følger med utstyret.(8) Produsenten skal angi navn, firma eller registrert varemerke og kontaktadresse på lavspenningsutstyret. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med utstyret. Det skal oppgis én adresse der produsenten kan kontaktes. Kontaktopplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.(9) Produsenten skal sikre at lavspenningsutstyret følges av anvisninger og sikkerhetsinformasjon. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom utstyret skal bringes i omsetning i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten. Anvisninger, sikkerhetsinformasjon og eventuell merking skal være tydelig, forståelig og lesbar.(10) En produsent som har grunn til å tro at et lavspenningsutstyr som er brakt i omsetning ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe utstyret i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle lavspenningsutstyret. Dersom lavspenningsutstyret utgjør en risiko, skal produsenten samtidig varsle relevante nasjonale myndigheter i de EØS-statene der utstyret er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om utstyrets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(11) Produsenten skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise lavspenningsutstyrets samsvar med forskriften. Informasjonen og dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. Dersom utstyret er brakt i omsetning i en annen EØS-stat, skal opplysningene være på et språk som aksepteres av denne EØS-staten. Produsenten skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med lavspenningsutstyr som er brakt i omsetning.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Forpliktelser for produsenten av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) For en produsent av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder gjelder § 7 første ledd og sjette til ellevte ledd tilsvarende.(2) Produsenten skal i tillegg fremlegge en testrapport etter § 23.(3) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i utstyrets konstruksjon eller egenskaper og endringer i standardene nevnt i § 23 eller andre tekniske spesifikasjoner som er benyttet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Forpliktelser for produsenten av øvrig elektrisk utstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) For en produsent av øvrig elektrisk utstyr gjelder § 7 første ledd og sjette til ellevte ledd tilsvarende.(2) Det skal i tillegg kunne fremlegges dokumentasjon som gjør det mulig å vurdere om utstyret er i samsvar med vedlegg I.(3) Produsenten skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar ved serieproduksjon. Det skal tas tilstrekkelig hensyn til endringer i utstyrets konstruksjon eller egenskaper og endringer i standardene nevnt i § 24 eller andre tekniske spesifikasjoner som er benyttet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Forpliktelser for representanten for en produsent av lavspenningsutstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) En produsent kan ved skriftlig fullmakt utpeke en representant.(2) Forpliktelsene etter § 7 første og andre ledd skal ikke omfattes av representantens fullmakt.(3) En representant skal utføre de oppgavene som er angitt i fullmakten. Fullmakten skal minst gi representanten mulighet til åha samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at lavspenningsutstyret er brakt i omsetningpå anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise at lavspenningsutstyret er i samsvar med forskriftenpå anmodning fra markedstilsynsmyndighetene, samarbeide om alle tiltak som er truffet for å fjerne risiko forbundet med lavspenningsutstyr som omfattes av fullmakten.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 11",
+      "heading": "Forpliktelser for representanten for en produsent av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For representanten for en produsent av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder gjelder § 10 tilsvarende, med unntak av tredje ledd bokstav a.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 12",
+      "heading": "Forpliktelser for representanten for en produsent av øvrig elektrisk utstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For representanten for en produsent av øvrig elektrisk utstyr gjelder § 10 tilsvarende, med unntak av tredje ledd bokstav a.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 13",
+      "heading": "Forpliktelser for importøren av lavspenningsutstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) Importøren skal bare bringe i omsetning lavspenningsutstyr som er i samsvar med forskriften.(2) Før et lavspenningsutstyr bringes i omsetning skal importøren sikre atprodusenten har gjennomført relevant framgangsmåte for samsvarsvurderingprodusenten har utarbeidet teknisk dokumentasjonlavspenningsutstyret er påført CE-merkinglavspenningsutstyret følges av de nødvendige dokumenteneprodusenten har oppfylt kravene i § 7 sjuende og åttende ledd.(3) En importør som har grunn til å tro at et lavspenningsutstyr ikke er i samsvar med kravene i vedlegg I, skal ikke bringe utstyret i omsetning før det er i samsvar med kravene. Dersom lavspenningsutstyret utgjør en risiko, skal importøren varsle produsenten og markedstilsynsmyndighetene.(4) Importøren skal angi navn, firma eller registrert varemerke og kontaktadresse på lavspenningsutstyret. Dersom dette ikke er mulig, skal kontaktopplysningene påføres emballasjen eller et dokument som følger med utstyret. Opplysningene skal gis på en slik måte at de lett kan forstås av brukerne og markedstilsynsmyndighetene.(5) Importøren skal sikre at lavspenningsutstyret følges av anvisninger og sikkerhetsinformasjon. Sikkerhetsinformasjonen skal være på norsk. Øvrige anvisninger skal være på norsk, svensk, dansk eller engelsk. Dersom lavspenningsutstyret skal bringes i omsetning i en annen EØS-stat, skal opplysningene være på et språk fastsatt av denne EØS-staten.(6) Importøren skal så lenge han har ansvar for lavspenningsutstyret, sikre at lagrings- eller transportforholdene ikke setter utstyrets samsvar med kravene i vedlegg I i fare.(7) Importøren skal når det anses hensiktsmessig med hensyn til risikoen som er forbundet med lavspenningsutstyretta stikkprøver av lavspenningsutstyr som er gjort tilgjengelig på markedetundersøke og, om nødvendig, føre et register over klager, lavspenningsutstyr som ikke oppfyller kravene og tilbakekallinger av lavspenningsutstyrholde distributører underrettet om all slik overvåking.(8) En importør som har grunn til å tro at et lavspenningsutstyr som er brakt i omsetning ikke er i samsvar med forskriften, skal straks treffe nødvendige korrigerende tiltak for å bringe lavspenningsutstyret i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle lavspenningsutstyret. Dersom lavspenningsutstyret utgjør en risiko, skal importøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der utstyret er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om utstyrets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(9) Importøren skal ha kopi av samsvarserklæringen og den tekniske dokumentasjonen tilgjengelig for markedstilsynsmyndighetene i ti år etter at lavspenningsutstyret er brakt i omsetning.(10) Importøren skal på anmodning fra markedstilsynsmyndighetene gi all informasjon og dokumentasjon som er nødvendig for å vise lavspenningsutstyrets samsvar med forskriften. Informasjonen og dokumentasjonen skal være på norsk, svensk, dansk eller engelsk. Dersom lavspenningsutstyret er brakt i omsetning i en annen EØS-stat, skal opplysningene være på et språk som aksepteres av denne EØS-staten. Importøren skal på anmodning fra markedstilsynsmyndighetene samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med lavspenningsutstyr som er brakt i omsetning.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 14",
+      "heading": "Forpliktelser for importøren av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For en importør av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder gjelder § 13 tilsvarende, med unntak av andre ledd bokstav c og niende ledd.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 15",
+      "heading": "Forpliktelser for importøren av øvrig elektrisk utstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For en importør av øvrig elektrisk utstyr gjelder § 13 tilsvarende, med unntak av andre ledd bokstav c og niende ledd.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 16",
+      "heading": "Forpliktelser for distributøren av lavspenningsutstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) Distributøren skal utvise tilstrekkelig aktsomhet til kravene i forskriften når lavspenningsutstyret gjøres tilgjengelig på markedet.(2) Før et lavspenningsutstyr gjøres tilgjengelig på markedet, skal distributøren kontrollere atlavspenningsutstyret er påført CE-merkinglavspenningsutstyret følges av de nødvendige dokumentenelavspenningsutstyret følges av sikkerhetsinformasjon på norsk og øvrige anvisninger på norsk, svensk, dansk eller engelsk. Dersom lavspenningsutstyret skal gjøres tilgjengelig på markedet i en annen EØS-stat skal opplysningene være på et språk fastsatt av denne EØS-statenprodusenten har oppfylt kravene i § 7 sjuende og åttende leddimportøren har oppfylt kravene i § 13 fjerde ledd.(3) En distributør som har grunn til å tro at et lavspenningsutstyr ikke er i samsvar med kravene i vedlegg I, skal ikke gjøre utstyret tilgjengelig på markedet før det er i samsvar med kravene. Dersom lavspenningsutstyret utgjør en risiko, skal distributøren varsle markedstilsynsmyndighetene og produsenten eller importøren om dette.(4) Distributøren skal så lenge han har ansvar for et lavspenningsutstyr, sikre at lagrings- eller transportforholdene ikke setter utstyrets samsvar med kravene i vedlegg I i fare.(5) En distributør som har grunn til å tro at et lavspenningsutstyr som er gjort tilgjengelig på markedet ikke er i samsvar med forskriften, skal sikre at det treffes nødvendige korrigerende tiltak for å bringe lavspenningsutstyret i samsvar med forskriften, eller om nødvendig trekke tilbake eller tilbakekalle lavspenningsutstyret. Dersom lavspenningsutstyret utgjør en risiko, skal distributøren samtidig varsle relevante nasjonale myndigheter i de EØS-statene der lavspenningsutstyret er gjort tilgjengelig på markedet. Det skal særlig gis nærmere opplysninger om lavspenningsutstyrets manglende samsvar og eventuelle korrigerende tiltak som er truffet.(6) Distributøren skal på anmodning fra markedstilsynsmyndighetene, gi all informasjon og dokumentasjon som er nødvendig for å vise lavspenningsutstyrets samsvar med forskriften. Distributøren skal på anmodning fra markedstilsynsmyndighetene, samarbeide med disse om alle tiltak som er truffet for å fjerne risiko forbundet med lavspenningsutstyr som er gjort tilgjengelig på markedet.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 17",
+      "heading": "Forpliktelser for distributøren av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For en distributør av plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder gjelder § 16 tilsvarende, med unntak av andre ledd bokstav a.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 18",
+      "heading": "Forpliktelser for distributøren av øvrig elektrisk utstyr",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "For en distributør av øvrig elektrisk utstyr gjelder § 16 tilsvarende, med unntak av andre ledd bokstav a.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 19",
+      "heading": "Tilfeller der produsentens forpliktelser får anvendelse på importøren og distributøren",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "En importør eller distributør skal anses som produsent og være underlagt produsentens forpliktelser etter § 7 så langt bestemmelsen gjelder når importøren eller distributøren bringer elektrisk utstyr i omsetning under eget navn eller varemerke, eller endrer elektrisk utstyr som allerede er brakt i omsetning på en slik måte at det kan påvirke utstyrets samsvar med forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-14",
+      "provision_ref": "§ 20",
+      "heading": "Identifikasjon av markedsdeltakere",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "Markedsdeltakerne skal på anmodning fra markedstilsynsmyndighetene kunne identifisere enhver markedsdeltaker som de har mottatt elektrisk utstyr fra og som de har levert elektrisk utstyr til. Denne plikten gjelder i ti år etter at markedsdeltakerne fikk det elektriske utstyret levert eller selv leverte utstyret.",
+      "xml_path": "article#kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-15",
+      "provision_ref": "§ 21",
+      "heading": "Opplysningsplikt overfor forbruker når elektrisk installasjonsmateriell tilbys",
+      "path": [
+        "Kapittel 2. Markedsdeltakernes forpliktelser"
+      ],
+      "text": "(1) Den som overfor forbruker tilbyr elektrisk installasjonsmateriell ment for å kunne inngå i et fast elektrisk anlegg, skal sørge for at det opplyses om at materiellet kun kan installeres av en registrert installasjonsvirksomhet. Følgende tekst skal benyttes: «Kan kun installeres av en registrert installasjonsvirksomhet».(2) Opplysningen skal gis på en tydelig måte og plasseres på et synlig sted på eller i umiddelbar nærhet til materiellet.(3) Unntatt er elektrisk materiell som utelukkende er ment for bruk i faste teleinstallasjoner, og elektrisk materiell som forbruker selv lovlig kan installere.",
+      "xml_path": "article#kapittel-2-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Samsvarsformodning for lavspenningsutstyr",
+      "path": [
+        "Kapittel 3. Samsvar"
+      ],
+      "text": "Lavspenningsutstyr skal antas å oppfylle de grunnleggende sikkerhetskravene i vedlegg I dersom det er i samsvar medharmoniserte standarder eller deler av slike, eller om slike ikke finnesde internasjonale standardene fra Den internasjonale elektrotekniske standardiseringsorganisasjon (IEC) som er vedtatt i henhold til fastsatt framgangsmåte i EØS, eller om slike ikke finnesstandardene som gjelder i EØS-staten der det er produsert, så fremt disse standardene tilsvarer det sikkerhetsnivået som kreves i Norge.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Samsvarsformodning for plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder",
+      "path": [
+        "Kapittel 3. Samsvar"
+      ],
+      "text": "Plugger og stikkontakter til bruk i boliger og tilsvarende bruksområder skal antas å oppfylle de grunnleggende sikkerhetskravene i vedlegg I dersom de tilfredsstiller sikkerhetsnivået i Norsk Elektroteknisk Komités norm 502 (NEK 502) og dens relevante vedlegg. Dette skal dokumenteres i form av en testrapport fra et organ innen EØS med kompetanse til å utføre samsvarsvurderinger på området. Ved bruk av andre tekniske spesifikasjoner må tilsvarende sikkerhetsnivå kunne dokumenteres.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Samsvarsformodning for øvrig elektrisk utstyr",
+      "path": [
+        "Kapittel 3. Samsvar"
+      ],
+      "text": "Øvrig elektrisk utstyr skal antas å oppfylle de grunnleggende sikkerhetskravene i vedlegg I dersom det er i samsvar medeuropeiske standarder for utstyret, fastsatt som nasjonal standard, eller om slike ikke finnesgjeldende IEC-standarder for utstyret, eller om slike ikke finnesstandardene som gjelder i EØS-statene der det er produsert, så fremt disse standardene tilsvarer det sikkerhetsnivået som kreves i Norge.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Samsvarserklæring for lavspenningsutstyr",
+      "path": [
+        "Kapittel 3. Samsvar"
+      ],
+      "text": "(1) Samsvarserklæringen skal fastslå at kravene i vedlegg I er oppfylt.(2) Samsvarserklæringen skalutformes etter malen i vedlegg IIIinneholde elementene angitt i framgangsmåten for samsvarsvurdering i vedlegg IIajourføres fortløpende.(3) Samsvarserklæringen skal være på norsk, svensk, dansk eller engelsk. Dersom lavspenningsutstyret skal bringes i omsetning eller gjøres tilgjengelig på markedet i en annen EØS-stat, skal samsvarserklæringen oversettes til det eller de språkene som kreves av denne EØS-staten.(4) Dersom et lavspenningsutstyr omfattes av mer enn én EØS-rettsakt som krever samsvarserklæring, skal det utarbeides én samsvarserklæring som omfatter alle slike EØS-rettsakter. Erklæringen skal angi hvilke EØS-rettsakter den gjelder, herunder henvisninger til hvor de er kunngjort.(5) Ved å utarbeide samsvarserklæringen påtar produsenten seg ansvaret for at lavspenningsutstyret er i samsvar med forskriften.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Utforming og påføring av CE-merkingen for lavspenningsutstyr",
+      "path": [
+        "Kapittel 3. Samsvar"
+      ],
+      "text": "(1) CE-merkingen skal bare påføres av produsenten eller dennes representant.(2) Ved å påføre eller få påført CE-merkingen påtar produsenten seg ansvaret for at lavspenningsutstyret er i samsvar med forskriften.(3) CE-merkingen skal være den eneste merkingen som bekrefter at lavspenningsutstyret er i samsvar med kravene.(4) Det er forbudt å påføre et lavspenningsutstyr merking, tegn eller inskripsjoner som kan villede tredjemann om CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres lavspenningsutstyret, forutsatt at den ikke gjør CE-merkingen mindre synlig, lesbar eller endrer dens betydning.(5) CE-merkingen skal påføres lavspenningsutstyret eller utstyrets merkeskilt slik at den er godt synlig, lett å lese og ikke kan fjernes. Dersom lavspenningsutstyrets art gjør at dette ikke er mulig eller berettiget, skal CE-merkingen påføres emballasjen og i medfølgende dokumenter.(6) CE-merkingen skal påføres før lavspenningsutstyret bringes i omsetning.(7) CE-merkingen skal være utformet som vist i vedlegg IV.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 27",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Direktoratet for samfunnssikkerhet og beredskap, eller den direktoratet bemyndiger, fører tilsyn etter forskriften og kan innenfor tilsynsområdet fatte nødvendige vedtak og fastsette vilkår for å gjennomføre bestemmelsene i forskriften.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 28",
+      "heading": "Klage",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap eller den direktoratet bemyndiger, kan påklages til Justis- og beredskapsdepartementet.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 29",
+      "heading": "Forbud, tilbakekall m.m.",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "(1) Ved overtredelse av § 5 til § 18, § 20, § 21, § 25 og § 26 i forskriften eller vedtak truffet i medhold av denne, kommer bestemmelsene i el-tilsynsloven § 6, § 6a og § 6b til anvendelse.(2) Dersom et elektrisk utstyr kan utgjøre en risiko, eller ikke er i samsvar med § 5 til § 18, § 20, § 21, § 25 og § 26 i forskriften, kan Direktoratet for samfunnssikkerhet og beredskapnedlegge forbud mot å importere, bringe i omsetning eller gjøre det elektriske utstyret tilgjengelig på markedetkreve at det elektriske utstyret tilbaketrekkes fra relevante markedsaktørerkreve at det elektriske utstyret tilbakekalles fra den som har kjøpt det elektriske utstyret eller tatt det i brukkreve offentliggjøring av advarselsinformasjon eller lignende til distributør eller brukere av slikt elektrisk utstyrkreve retting av det elektriske utstyretkreve at det elektriske utstyret uskadeliggjøresnedlegge forbud mot bruk av det elektriske utstyretkreve merking av det elektriske utstyret.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 30",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Ved overtredelse av vedtak truffet i medhold av § 5 til § 18, § 20, § 21, § 25 og § 26 i forskriften, gjelder el-tilsynsloven § 13 om tvangsmulkt.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 31",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer § 5 til § 18, § 20, § 21, § 25 og § 26 i forskriften, kan ilegges overtredelsesgebyr.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 32",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Overtredelse av § 5 til § 18, § 20, § 21 og § 26 i forskriften eller vedtak truffet i medhold av forskriften, kan straffes etter el-tilsynsloven § 14.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 33",
+      "heading": "Overgangsbestemmelse",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Elektrisk utstyr som omfattes av forskrift 14. januar 2011 nr. 36 om elektrisk utstyr, og som er i samsvar med nevnte forskrift og brakt i omsetning før 11. oktober 2017, kan gjøres tilgjengelig på markedet.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 34",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Sluttbestemmelser og ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 11. oktober 2017. Fra samme tidspunkt oppheves forskrift 14. januar 2011 nr. 36 om elektrisk utstyr.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    }
+  ]
+}

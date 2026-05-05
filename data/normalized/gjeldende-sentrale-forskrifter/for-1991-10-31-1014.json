@@ -1,0 +1,56 @@
+{
+  "id": "FOR-1991-10-31-1014",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om plikt til å utarbeide arbeidsreglement ved virksomheter innen hotell- og restaurantbransjen.",
+  "short_title": "Forskrift om arbeidsreglement i hotellbransjen",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1991-10-31",
+  "lovdata_refid": "forskrift/1991-10-31-1014",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1991-10-31-1014",
+  "raw_xml_sha256": "4d5aeb4edd511be21494abcbc1b78ac45c46b74013fcd57af4c928c8b98f9a5a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "I"
+      ],
+      "text": "Forskriftens formål er å fremme arbeidervern og arbeidsmiljø m.v. i virksomheter innen hotell- og restaurantbransjen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "I"
+      ],
+      "text": "Forskriften gjelder for enhver virksomhet innen hotell- og restaurantbransjen som sysselsetter arbeidstaker.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Arbeidsreglement",
+      "path": [
+        "I"
+      ],
+      "text": "Ved virksomhet innen hotell- og restaurantbransjen, som sysselsetter mer enn 10 arbeidstakere, skal det for de arbeidstakere som ikke har ledende eller kontrollerende stilling, være et arbeidsreglement.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Nærmere om pliktens innhold",
+      "path": [
+        "I"
+      ],
+      "text": "Reglene i §§ 69-73 i lov av 4. februar 1977 nr. 4 om arbeidervern og arbeidsmiljø m.v. (arbeidsmiljøloven) gjelder tilsvarende for virksomheter som omfattes av forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

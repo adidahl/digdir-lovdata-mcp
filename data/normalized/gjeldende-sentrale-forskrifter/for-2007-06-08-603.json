@@ -1,0 +1,268 @@
+{
+  "id": "FOR-2007-06-08-603",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kontroll med Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg",
+  "short_title": "Forskrift om kontroll med Salmonella i fjørfe",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementet",
+  "date_in_force": "2007-06-08",
+  "last_change_in_force": "2022-04-28",
+  "last_changed_by": "forskrift/2022-04-06-635 fra 2022-04-28",
+  "lovdata_refid": "forskrift/2007-06-08-603",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-06-08-603",
+  "raw_xml_sha256": "fe7db6c64233dad2225bfe9d23ce4135163966d508e37c6539dc6220bc65b655",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Formålet med denne forskriften er å fremme god dyrehelse for å sikre helsemessig trygge næringsmidler gjennom kartlegging av og kontroll med Salmonella.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gjelder for virksomhet hvor fjørfe klekkes, holdes eller slaktes, virksomhet som tilvirker fjørfefôr samt virksomhet som mottar, sorterer, pakker og distribuerer egg.\nForskriften gjelder i tillegg for laboratorier som analyserer prøver tatt som ledd i den ovennevnte kartleggingen og kontrollen.\nForskriften gjelder ikke for:virksomhet som holder fjørfe på hobbybasis der eventuelle produkter fra besetningen kun benyttes i egen husholdning,virksomhet som holder fjørfe for direkte levering av små mengder råvarer eller ferskt kjøtt direkte til den endelige forbruker eller til lokal detaljist som igjen leverer direkte til den endelige forbruker.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forskriften menes med:Fjørfe: høns, kalkuner, perlehøns, ender og gjess som oppdrettes eller holdes i fangenskap for produksjon av kjøtt eller egg samt avl av høns, kalkuner, perlehøns, ender og gjess for slik produksjon.Flokk: alt fjørfe med samme helsestatus som holdes innen samme inngjerding eller i samme rom, og som utgjør en epidemiologisk enhet. For fjørfe holdt i bursystemer, gjelder dette alle fugler som deler felles luftrom.Nasjonalt referanselaboratorium: laboratorium oppnevnt av Mattilsynet.Nasjonalt Salmonella kontrollprogram: program for kartlegging av og kontroll med Salmonella basert på prøvetaking i denne forskriften.Offisielt laboratorium: laboratorium godkjent av Mattilsynet for å utføre analyser i regi av nasjonalt Salmonella kontrollprogram.Positiv prøve: prøve der Salmonella er påvist etter analyse ved en metode spesifisert i § 19, og bekreftet positiv av nasjonalt referanselaboratorium.Salmonella: alle serovar av Salmonella enterica.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Generelle plikter for virksomheten",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Levende fjørfe som tas inn i virksomheten, skal være undersøkt for Salmonella med negativt resultat eller stamme fra en virksomhet som er omfattet av nasjonalt Salmonella kontrollprogram eller av et tilsvarende kontrollprogram. Dette kravet gjelder ikke for virksomheter som skal foreta sanitetsslakting.\nRugeegg som tas inn i virksomheten, skal være undersøkt for Salmonella med negativt resultat eller stamme fra en virksomhet som er omfattet av nasjonalt Salmonella kontrollprogram eller av et tilsvarende kontrollprogram.\nKonsumegg som tas inn i virksomheten, skal stamme fra en virksomhet som er omfattet av nasjonalt Salmonella kontrollprogram eller et tilsvarende kontrollprogram. Ved samhandel og import må konsumegg i tillegg være fulgt av et sertifikat som viser at eggene er lagt av fjørfe undersøkt ved metode beskrevet i vedtak 95/168/EF med negativt resultat. Annet punktum gjelder ikke for konsumegg fra land med salmonellagaranti tilsvarende den norske.\nEn virksomhet kan likevel ta inn egg der det er mistanke om eller påvist Salmonella for produksjon av eggprodukt, der produksjonsmetoden sikrer fjerning av Salmonella.\nEgg og avlivede fjørfe som etter bestemmelsene i denne forskriften ikke skal gå til humant konsum, skal behandles i samsvar med forskrift 14. september 2016 nr. 1064 om animalske biprodukter som ikke er beregnet på konsum.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Informasjonsplikt",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Ved mistanke om eller påvist Salmonella har virksomheten plikt til å informere andre virksomheter som det er levert levende fjørfe, fjørfefôr, fjørfekjøtt eller egg til. Likeledes skal virksomheten informere virksomheter som det er mottatt levende fjørfe, fjørfefôr, fjørfekjøtt eller egg fra.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Opplysninger til husdyrregisteret om hold av levende fjørfe",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Virksomhet der fjørfe holdes, plikter å gi opplysninger om fjørfeholdet til Mattilsynet, herunder opplysninger om virksomhetens adresse, produksjonsform og produksjonskapasitet, samt navn og adresse til driftsansvarlig for virksomheten.\nEndringer i opplysninger om hold av fjørfe og om opphør eller oppstart av hold av fjørfe skal meldes Mattilsynet innen én måned.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Krav til prøvetaking, oppbevaring og transport av prøver til laboratoriet",
+      "path": [
+        "Kapittel III. Bestemmelser om prøvetaking"
+      ],
+      "text": "Krav til prøvetaking, oppbevaring og transport av prøver til laboratoriet fremgår av vedlegg 4.\nPrøvene skal sendes til offisielt laboratorium for undersøkelse. Sammen med prøvene skal det sendes opplysninger om dato og sted prøvene ble tatt, samt identifikasjon av flokken. Driftsansvarlig for virksomhet skal dessuten sende andre opplysninger om prøvene eller om flokken prøvene stammer fra, når nasjonalt referanselaboratorium eller Mattilsynet krever det.\nDersom virksomhet er pålagt å ta prøve samtidig som Mattilsynet tar ut offisiell prøve i henhold til nasjonalt Salmonella kontrollprogram, kan prøve tatt av Mattilsynet erstatte virksomhetens prøve.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Avlsfjørfe",
+      "path": [
+        "Kapittel III. Bestemmelser om prøvetaking"
+      ],
+      "text": "Den løpende kartleggingen av forekomsten av Salmonella hos avlsfjørfe og rugeegg skal skje ved uttak av prøver henhold til vedlegg 1.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Slaktefjørfe",
+      "path": [
+        "Kapittel III. Bestemmelser om prøvetaking"
+      ],
+      "text": "Den løpende kartleggingen av forekomsten av Salmonella hos levende fjørfe som skal slaktes til humant konsum, skal skje ved uttak av prøver i henhold til vedlegg 2. Resultat av prøvene skal foreligge før dyrene sendes til slakt.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Egg til konsum",
+      "path": [
+        "Kapittel III. Bestemmelser om prøvetaking"
+      ],
+      "text": "Den løpende kartleggingen av forekomsten av Salmonella i egg til konsum skal skje ved uttak av prøver hos eggproduserende fjørfe i henhold til vedlegg 3.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 11",
+      "heading": "Fjørfefôr",
+      "path": [
+        "Kapittel III. Bestemmelser om prøvetaking"
+      ],
+      "text": "Den løpende kartleggingen av forekomsten av Salmonella i fjørfefôr skal skje ved uttak av prøver i fôrvarevirksomhet i henhold til forskrift 7. november 2002 nr. 1290 om fôrvarer.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Plikt til å iverksette tiltak",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Ved mistanke om eller påvisning av Salmonella i en flokk av fjørfe eller i lokalet der flokken holdes og i rugeri, gjelder bestemmelsene for nasjonal liste 2-sykdom i forskrift 6. april 2022 nr. 631 om dyrehelse.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Forbud mot bruk av antibakterielle midler som tiltak",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Det er forbudt å bruke antibakterielle midler som tiltak i de besetningene som omfattes av denne forskriften, i samsvar med forskrift 23. desember 2005 nr. 1703 om kontroll av Salmonella og andre matbårne zoonotiske smittestoffer § 3.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Tiltak i flokker",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Egg fra flokker der det er mistanke om eller påvist Salmonella, skal enten behandles etter § 4 femte ledd eller gjennomgå behandling som sikrer fjerning av Salmonella før bruk til humant konsum.\nFjørfe fra flokker der det er mistanke om eller påvist Salmonella, skal enten avlives og behandles etter § 4 femte ledd eller slaktes og behandles i henhold til § 17.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Tiltak i rugerier",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Ved påvisning av Salmonella i en flokk på rugeriet, eller ute i en flokk som har levert egg til rugeriet, skal rugeegg fra flokken destrueres og behandles etter § 4 femte ledd. Likeledes skal daggamle kyllinger fra flokken avlives og behandles etter § 4 femte ledd. Ikke-rugede egg kan likevel brukes til humant konsum etter behandling som sikrer fjerning av Salmonella.\nVed påvisning av Salmonella skal alle kyllinger som har vært samtidig i klekkemaskinen, avlives og behandles etter § 4 femte ledd. De besetningene som har mottatt slike kyllinger, skal betraktes som smittede besetninger.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Tiltak i eggpakkerier",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Egg fra partier eller flokker der det er mistanke om eller påvist Salmonella, skal merkes og lagres adskilt fra øvrige egg i virksomheten.\nEgg fra partier eller flokker der det er mistanke om eller påvist Salmonella, skal enten behandles etter § 4 femte ledd eller gjennomgå behandling som sikrer fjerning av Salmonella før bruk til humant konsum.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Tiltak i slakterier ved mistanke om eller påvist Salmonella hos dyr som skal slaktes",
+      "path": [
+        "Kapittel IV. Tiltak"
+      ],
+      "text": "Slakting av fjørfe fra flokk der det er mistanke om eller bekreftet forekomst av Salmonella, skal først skje etter at Mattilsynet har gitt særskilt tillatelse.\nSlakt skal holdes tilbake inntil Salmonella undersøkelse er foretatt og resultatene foreligger.\nVed påvisning av Salmonella skal hele partiet av fjørfeslakt enten behandles etter § 4 femte ledd eller gjennomgå behandling som sikrer fjerning av Salmonella før bruk til humant konsum.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Nasjonalt referanselaboratorium",
+      "path": [
+        "Kapittel V. Bestemmelser om laboratorier"
+      ],
+      "text": "Nasjonalt referanselaboratorium i nasjonalt kontrollprogram for Salmonella i fjørfe, fjørfefôr, fjørfekjøtt og egg er Veterinærinstituttet.\nOppgavene til nasjonalt referanselaboratorium framgår av forskrift 23. desember 2005 nr. 1703 om kontroll av Salmonella og andre matbårne zoonotiske smittestoffer § 1, jf. forordning (EF) nr. 2160/2003 artikkel 12 og forskrift 2. januar 2008 nr. 16 om ansvar og oppgaver til nasjonale referanselaboratorier for salmonella.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Behandling av prøver og referansemetoder for bruk i laboratorier og nasjonalt referanselaboratorium",
+      "path": [
+        "Kapittel V. Bestemmelser om laboratorier"
+      ],
+      "text": "Prøver tatt ut i henhold til forskriftens vedlegg, skal oppbevares og forbehandles i henhold til vedlegg 5.\nPrøver tatt ut i henhold til vedlegg 1, 2 og 3 skal analyseres i samsvar med EN ISO 6579-1.\nAlternative analysemetoder validert i samsvar med EN ISO 16140-2 kan benyttes.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Innsending av isolater m.m.",
+      "path": [
+        "Kapittel V. Bestemmelser om laboratorier"
+      ],
+      "text": "Etter rendyrking skal offisielt laboratorium sende isolat av positive funn, sammen med samtlige opplysninger om prøven, til nasjonalt referanselaboratorium for verifikasjon, serotyping og testing for antimikrobiell resistens. Ett isolat med tilhørende opplysninger skal samtidig også sendes til Folkehelseinstituttet.\nResultater av prøver skal sendes fortløpende til Mattilsynet sammen med opplysningene om dato og sted prøven ble tatt, samt identifikasjon av flokken og eventuelle andre opplysninger som det er bestemt skal følge prøven.\nResultatet av prøven skal også sendes virksomheten prøven stammer fra.\nNasjonalt referanselaboratorium skal på forsvarlig måte oppbevare minst ett isolat av hvert positivt salmonellafunn per flokk per år i minst to år.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Tilsyn og vedtak",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i eller i medhold av denne forskriften i samsvar med matloven § 23 om tilsyn og vedtak og kan herunder treffe vedtak etter § 24 om særskilt smittesanering, § 25 om stenging og virksomhetskarantene og § 26 om tvangsmulkt.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Dekning av kostnader",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Kostnader forbundet med virksomhetens prøvetaking, restriksjoner og tiltak som følger av denne forskriften, dekkes av virksomheten.\nKostnader forbundet med offisiell prøvetaking dekkes av Mattilsynet.\nKostnader forbundet med analyser i kontrollprogrammet dekkes av Mattilsynet, med unntak av prøver tatt av fôrvarer eller råstoff til fôrvarer.\nErstatning for husdyr etter pålagte tiltak kan gis i henhold til matloven § 22.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Straff",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft straks.\nSamtidig oppheves forskrift 9. mai 1996 nr. 489 om overvåking og forebygging av salmonella i egg til konsum.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    }
+  ]
+}

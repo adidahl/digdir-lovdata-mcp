@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2012-12-19-1329",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om farvannsskilt og navigasjonsinnretninger",
+  "short_title": "Forskrift om farvannsskilt m.m.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2015-01-01",
+  "last_changed_by": "forskrift/2014-12-19-1813 fra 2015-01-01",
+  "lovdata_refid": "forskrift/2012-12-19-1329",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-12-19-1329",
+  "raw_xml_sha256": "9f1ec0b8d63204b0fa850d9bae1d29ee3b3268800a64ef82ca6dd8dd23b02732",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(saklig virkeområde)",
+      "path": [],
+      "text": "Forskriften gjelder tekniske krav til og bruk, utforming og lokalisering av farvannsskilt og navigasjonsinnretninger som skal regulere ferdselen eller gi navigasjonsveiledning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(definisjoner)",
+      "path": [],
+      "text": "I denne forskriften betyr:farvannsskilt: tavler med symboler eller tekst om opplysninger eller bestemmelser om regulering av ferdselennavigasjonsinnretninger: innretning eller anlegg til veiledning for navigasjon, herunder fyrlys, sjømerker (varder, båker, staker, mv.), lykter, radarsvarere og AIS navigasjonsinnretningIALA: International Association of Marine Aids to Navigation and Lighthouse AuthoritiesIALA-spesialmerke: gult merke i henhold til IALA Maritime Buoyage System and other Aids to Navigation.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "(register over farvannsskilt og navigasjonsinnretninger)",
+      "path": [],
+      "text": "Kystverket skal føre register over alle farvannsskilt og navigasjonsinnretninger.\nDen som etablerer, flytter, fjerner eller endrer et farvannsskilt eller en navigasjonsinnretning, skal gi melding til Kystverket umiddelbart etter at arbeidet er utført.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "(søknad om etablering, fjerning, flytting eller endring av farvannsskilt eller navigasjonsinnretninger)",
+      "path": [],
+      "text": "Søknad om etablering, fjerning, flytting eller endring av farvannsskilt og navigasjonsinnretninger skal sendes til Kystverket.\nSøknaden skal inneholde:hvilket farvannsskilt eller navigasjonsinnretning søknaden gjelderstedsangivelse av farvannsskiltet eller navigasjonsinnretningen ved hjelp av kartutsnitt og geografiske koordinater (WGS 84 datum)en vurdering av hvilken betydning etablering, nedlegging eller flytting av vedkommende farvannsskilt eller navigasjonsinnretning vil ha for sjøverts ferdsel og andre opplysninger som er nødvendige for behandling av søknadenhvem som er eier og ev. andre som måtte ha ansvar for vedkommende farvannsskilt eller navigasjonsinnretning.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "(utforming og tekniske spesifikasjoner for farvannsskilt og navigasjonsinnretninger)",
+      "path": [],
+      "text": "For tekniske krav til og utforming av farvannsskilt gjelder bestemmelsene i vedlegg 1.\nFor merking av akvakulturanlegg i sjø gjelder bestemmelsene i vedlegg 2.\nNærmere retningslinjer for tekniske krav til og bruk, utforming og lokalisering av navigasjonsinnretninger fastsettes av Kystverkets hovedkontor.\nVed etablering av farvannsskilt og navigasjonsinnretning skal det tas hensyn til estetikk og miljø",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "(vedlikeholdsplikt)",
+      "path": [],
+      "text": "Den som eier eller er ansvarlig for farvannsskilt eller navigasjonsinnretninger, plikter å vedlikeholde disse slik at de til enhver tid er i forsvarlig stand.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "(plikt til å utbedre eller melde om feil)",
+      "path": [],
+      "text": "Dersom et farvannsskilt eller en navigasjonsinnretning bringes ut av posisjon eller på annen måte ikke fungerer etter sin hensikt, plikter eieren eller den ansvarlige uten ugrunnet opphold å utbedre forholdet.\nDersom forhold som nevnt i første ledd ikke lar seg utbedre, skal dette straks meldes til Kystverket ved nasjonal koordinator for navigasjonsvarsler (NAVCO).",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "(tilsyn)",
+      "path": [],
+      "text": "Kystverket fører tilsyn med at bestemmelsene i forskriften blir overholdt.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "(unntak)",
+      "path": [],
+      "text": "Kystverket kan i særlige tilfeller gjøre unntak fra denne forskriften.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "(ikrafttredelse, overgangsbestemmelse)",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2013.\nFra samme tidspunkt oppheves forskrift 15. januar 1993 nr. 82 om lokalisering, utforming og tekniske krav til fyrlys, sjømerker og farvannsskilt som skal regulere ferdselen.\nEksisterende godkjente farvannsskilt som ikke tilfredsstiller kravene etter denne forskriften, kan benyttes til og med 31. desember 2022. For akvakulturanlegg skal eksisterende og godkjente tillatelser til merking være i overensstemmelse med denne forskriften før 1. januar 2014. Kystverket kan gi pålegg om at utskiftning skal finne sted tidligere.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

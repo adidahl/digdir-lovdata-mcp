@@ -1,0 +1,90 @@
+{
+  "id": "FOR-2020-12-18-2986",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innmåling, dokumentasjon og utlevering av geografisk informasjon om ledninger og annen infrastruktur i grunnen, sjø og vassdrag (ledningsregistreringsforskriften)",
+  "short_title": "Ledningsregistreringsforskriften",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2021-07-01",
+  "last_change_in_force": "2021-12-02",
+  "last_changed_by": "forskrift/2021-12-02-3336",
+  "lovdata_refid": "forskrift/2020-12-18-2986",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-12-18-2986",
+  "raw_xml_sha256": "fa358282351c98f0694935e0d4e0be4fdee64ba94cd65633455ec76689ed6016",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre en nøyaktig og pålitelig innmåling av ledninger og annen infrastruktur i grunnen, sjø og vassdrag, og gjøre det enkelt å få tilgang til denne informasjonen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften menes medledning: kabel, rør, tunnel, kanal, kulvert, boring og andre framføringselementer med tilhørende koplinger, kummer og andre forbindelseselementerledningsnett: ledninger beregnet for transport av petroleum, varme- og kuldeutveksling, elektrisitet, elektronisk kommunikasjon, drikkevann, avløpsvann, overvann eller avfallallmennyttig ledningsnett: ledningsnett til bruk for tjue eller flere sluttbrukerelokalt ledningsnett: ledningsnett til bruk for færre enn tjue sluttbrukere og som ikke er koplet til allmennyttig ledningsnettstikkledning: ledning som forbinder ledningsnett med sluttbrukerentrekkerør: ledning beregnet for framføring av annen ledning i ledningsnettledningsanlegg: allmennyttig ledningsnett med stikkledninger og tilhørende trekkerør, samt ledninger langs vei og jernbane som nevnt i § 3 andre og tredje leddledningseieren: den som har ansvaret for at et ledningsanlegg fungerer og er i driftutbyggeren: den som planlegger eller skal utføre arbeider i nærheten av et ledningsanlegg.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder ledningsanlegg i grunnen og sjø og vassdrag. Et ledningsanlegg regnes som å ligge i grunnen også når det er lagt på eller over grunnen med beskyttende overdekning, langs veg- og jernbanebruer, eller under bygninger og konstruksjoner. I sjøen gjelder forskriften ut til én nautisk mil utenfor grunnlinjene.\nI eller langs offentlig veggrunn, eller nærmere offentlig veg enn 3 meter fra vegkant, gjelder forskriften også:lokalt ledningsnettledninger som hører til vegens belysning, drift eller konstruksjon, inkludert tilhørende trekkerørledninger som hører til drift eller konstruksjon av jernbane, sporvogn og liknende som benytter veggrunnen, inkludert tilhørende trekkerør.\nI eller langs grunn til jernbane omfattet av jernbaneloven gjelder forskriften også trekkerør som hører til jernbanens drift eller konstruksjon.\nForskriften gjelder ikkede deler av et ledningsanlegg som går i luftspennledninger til drenering i landbruketrørledninger i sjø for transport av petroleumledninger i bygninger og konstruksjoner.\nFor ledninger som er klassifisert som skjermingsverdige objekter eller infrastruktur etter sikkerhetsloven, gjelder kun § 4.\nForskriften begrenser ikke adgangen grunneiere eller andre rettighetshavere har til å sette vilkår for å ha ledninger på eller i egen grunn.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ledningseierens plikt til å dokumentere egne ledningsanlegg",
+      "path": [],
+      "text": "Ledningseieren skal stedfeste og dokumentere egne ledningsanlegg i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard.\nKravet etter første ledd gjelder når ledningseierenetablerer et nytt ledningsanleggutfører arbeider som endrer egne eksisterende ledningsanleggutfører arbeider som avdekker et eget eksisterende ledningsanlegg, når dette ikke tidligere er målt inn eller dokumentert i henhold til gjeldende krav etter første ledd, eller det er feil i denne dokumentasjon.\nFør stikkledning koples til allmennyttig ledningsanlegg, kan ledningseieren kreve at eier av stikkledningen stedfester og dokumenterer stikkledningen i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utlevering av opplysninger og påvisning av ledningsanleggets beliggenhet på stedet",
+      "path": [],
+      "text": "Ledningseieren skal på forespørsel utlevere opplysninger om plassering av ledningsanlegget, og om påliteligheten av opplysningene, til utbyggeren eller andre som har et saklig behov for opplysningene. Dokumentasjonen skal blant annet omfatte kart som viser ledningsanleggets beliggenhet i grunnriss og høyde med koordinater i nasjonalt geodetisk grunnlag. Plikten omfatter også opplysninger om ledningsanlegg som er tatt ut av bruk.\nGjelder forespørselen ledningsanlegg som skal være dokumentert i henhold til kravene i § 4 eller § 6, skal opplysningene utleveres i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard. Gjelder forespørselen ledningsanlegg som ikke er dokumentert i henhold til de forannevnte kravene, skal ledningseieren gi opplysninger om anlegget så langt dette er kjent.\nDersom ledningseieren mener at dokumentasjonen ikke er tilstrekkelig nøyaktig eller pålitelig til at vedkommende arbeid kan utføres uten fare for skade, skal ledningseieren påvise hvor ledningsanlegget er plassert. Plikten til påvisning gjelder ikke for stikkledning som ledningseieren ikke har ansvar for at fungerer og er i drift.\nOpplysninger som er omfattet av taushetsplikt, skal bare overlates til personer som har saklig behov og er godkjent for tilgang til slik informasjon. Forespørsel om utlevering av opplysninger til bruk i forberedende planlegging, prosjektering og liknende, kan avslås helt eller delvis når opplysningene er omfattet av taushetsplikt.\nDen som utleverer opplysninger om eller påviser ledning, skal opplyse om eventuell taushetsplikt og hvilket regelverk eller annet rettsgrunnlag som gjelder for behandlingen av opplysningene.\nPlikten til utlevering gjelder ikke skjermingsverdig informasjon som er sikkerhetsgradert etter sikkerhetsloven.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilbakerapportering",
+      "path": [],
+      "text": "Dersom utbyggeren utfører arbeider som avdekker et ledningsanlegg, skal utbyggeren rapportere resultatet av arbeidet tilbake til ledningseieren i henhold til standard utgitt av Statens kartverk eller likeverdig internasjonalt akseptert standard. Blir ledningsanlegget ikke flyttet, skal utbyggeren dokumentere dette. Blir anlegget flyttet eller endret, skal utbyggeren stedfeste og dokumentere dette. Kravet gjelder ikke når ledningseieren påtar seg å dokumentere anlegget i samsvar med kravene i § 4. Kravet gjelder ikke ukjente ledningsanlegg som ikke lar seg identifisere.\nKravet gjelder uten hensyn til eventuell taushetsplikt.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Frister og eventuell betaling",
+      "path": [],
+      "text": "Fristen for å utlevere dokumentasjon etter § 5 første og andre ledd er fem virkedager.\nFristen for å påvise ledningsanlegg etter § 5 tredje ledd er sju virkedager. Ved påvisning i sjø og vassdrag er fristen tjue virkedager.\nLedningseieren kan kreve betaling for å utlevere dokumentasjon. De samlede inntektene må ikke overstige de faktiske kostnadene ved reproduksjon og formidling av informasjonen, med tillegg av en rimelig avkastning av investeringene. Ledningseieren skal på forespørsel kunne dokumentere at kravet er oppfylt. Det kan ikke kreves betaling etter denne bestemmelsen fra eier eller annen rettighetshaver til grunnen der ledningene ligger, uten etter særskilt avtale.\nNødvendig påvisning skal skje uten krav om ytterligere betaling, med mindrepåvisning skal skje utenfor normal arbeidstiddet gjelder gjentatt påvisning av samme ledningsanlegg innenfor fastsatt gyldighetsperiode for påvisningenavbestilling skjer for sentgjennomføringen av påvisningen er blitt unødig tidkrevende eller forsinket på grunn av andre forhold som skyldes utbyggeren.\nFristen for tilbakerapportering etter § 6 er tjue virkedager etter at den aktuelle delen av ledningsanlegget er dekket til. Slik tilbakerapportering eller melding skal skje uten krav om betaling.\nPartene kan avtale andre frister. Partene kan avtale at tilbakerapporteringen skal skje mot betaling.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Taushetsplikt",
+      "path": [],
+      "text": "Alle som får tilgang til opplysninger om ledningsanlegg som er omfattet av lovbestemt taushetsplikt, har taushetsplikt om innholdet. Taushetsplikten gjelder også etter at arbeidet eller tjenesten er avsluttet.\nVirksomhet som behandler skjermingsverdig informasjon, skal sørge for et forsvarlig sikkerhetsnivå for informasjonen. Skjermingsverdig informasjon kan nektes utlevert dersom mottakeren ikke kan godtgjøre et forsvarlig sikkerhetsnivå for informasjonen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2021.\nBestemmelsene i § 6 og § 7 tredje og fjerde ledd gjelder fra 1. juli 2022. Til 30. juni 2022 kan det tas betaling for utlevering av dokumentasjon og påvisning, jf. § 5, uten de begrensinger som følger av plan- og bygningsloven § 2-3 fjerde ledd.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

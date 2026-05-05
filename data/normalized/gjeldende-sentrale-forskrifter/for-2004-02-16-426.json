@@ -1,0 +1,578 @@
+{
+  "id": "FOR-2004-02-16-426",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nummerressurser for elektroniske kommunikasjonsnett og -tjenester (nummerforskriften)",
+  "short_title": "Nummerforskriften",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2004-02-16",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3423 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2004-02-16-426",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-02-16-426",
+  "raw_xml_sha256": "6ab63bf27ec8e04419721fe23175b2f5ef5c9379f5498297e1196d5438c7e484",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er:å sikre en effektiv og ressursbesparende forvaltning av nummerressurser for elektroniske kommunikasjonsnett og -tjenesterå gi tilbydere av elektroniske kommunikasjonsnett og -tjenester nødvendig og lik tilgang til nummerressurser for levering av elektroniske kommunikasjonstjenester.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder forvaltning, tillatelse til bruk og bruken av nummerressurser for elektroniske kommunikasjonsnett og -tjenester.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner og forkortelser",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift menes med:nummerressurs: fellesbetegnelse for nummer, nummerserier, navn og adresser, som fastsatt i kapitlene III, IV, V, VI og VIInummerserie: sammenhengende sekvens av enkeltnummer av en bestemt lengdenummerplan: struktur for og disponering av nummerressurserfrivillig nummerplan: nummerplan som anbefales fulgt dersom man benytter nummerressurs fra slik nummerplan for å tilby tilgang til elektronisk kommunikasjonsnett og -tjenestefastnettnummer: nummer fra nasjonal nummerplan som brukes til fasttelefontjenestespesialnummer: nummer fra nasjonal nummerplan som brukes til særskilte tjenestermobilnummer: nummer fra nasjonal nummerplan som brukes til mobiltelefontjeneste med tilleggstjenesternummer for maskin-til-maskin og tingenes Internett (M2M/IoT) kommunikasjon: nummer fra nasjonal nummerplan som brukes til automatiserte eller delautomatiserte kommunikasjonstjenester for tale eller datatrafikk der nummeret har liten eller ingen selvstendig betydning for brukerenITU: Den internasjonale teleunionITU-T: Den internasjonale teleunion – standardiseringssektorenISO: Den internasjonale standardiseringsorganisasjonIEC: Den internasjonale elektrotekniske komitéX.121 internasjonalt datanummer: globalt entydig adresseinformasjon for en terminal i et datanett, bestående av en identifikasjon av datanettet og et terminalnummer i dette datanettet, maksimalt 14 siffer, i henhold til ITU-T rekommandasjon X.121terminalnummer (Network Terminal Number, NTN): identifikasjon av en terminal innenfor et bestemt datanett, maksimalt 10 siffer, i henhold til ITU-T rekommandasjon X.121DNIC (Data Network Identification Code): de første fire siffer i et X.121 internasjonalt datanummer, identifiserer ett eller flere datanettPNIC (Private Network Identification Code): en kode bestående av maksimalt seks siffer, som etterfølger en bestemt DNIC i et X.121 internasjonalt datanummerNkom: Nasjonal kommunikasjonsmyndighet.radioamatørstasjon: radioutstyr til bruk for radioamatørvirksomhet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Ansvar for forvaltningen av nummerressurser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Nkom fastsetter og forvalter nasjonale nummerplaner for elektroniske kommunikasjonsnett og -tjenester.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Tillatelse og bruk av nummerressurser fra obligatoriske nummerplaner",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Bruk av nummerressurser fra obligatoriske nummerplaner, jf. kapitlene III, IV, V og VI, krever tillatelse fra Nkom, jf. ekomloven § 12-2. Tilbyder av elektronisk kommunikasjonsnett og -tjeneste, eller sluttbruker kan få slik tillatelse. Obligatoriske nummerplaner skal følges dersom man benytter nummerressurser fra disse for å tilby tilgang til elektronisk kommunikasjonsnett og -tjeneste.\nNummerressursene skal brukes på en effektiv og ressursbesparende måte.\nTilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tildelt nummerressurser skal ikke forskjellsbehandle andre tilbydere av elektroniske kommunikasjonstjenester med hensyn til nummerressurser som gir tilgang til egne tjenester.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Krav til opplysninger fra søkere",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Nkom kan stille krav til hvilke opplysninger en søknad om nummerressurser skal inneholde. Slike opplysninger kan bl.a. være:søkerens navn, adresse, norsk organisasjonsnummer, samt navn, telefonnummer og e-postadresser til kontaktpersonønsket nummerressursbeskrivelse av tjenesten nummerressursen skal brukes tildokumentasjon av ressursbehovplanlagt dato for igangsettelse av tjenestentilbyderkode den ønskede nummerressursen skal tilordnes.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Hensyn ved tillatelse til bruk av nummerressurser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Ved behandling av søknad om tillatelse til bruk av nummerressurser kan Nkom bl.a. ta hensyn til følgende forhold:effektiv og ressursbesparende bruk av nummerressursenebehovet for å ha tilstrekkelige nummerressurser tilgjengelig på kort og lang siktsøkerens, sluttbrukernes og andre berørtes behov og ønskereventuelle kostnader for søkeren, andre tilbydere av elektronisk kommunikasjonsnett og -tjeneste, sluttbrukere og andre berørteutnyttelsesgraden for nummerressurser søkeren tidligere har fått tillatelse til å bruke for tilsvarende formålsøkerens oppfyllelse av vilkår som er satt av Nkom ved tidligere tillatelser til bruk av nummerressurserrelevante rekommandasjoner, standarder eller avtaler.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Fastsettelse av vilkår ved tillatelse til bruk av nummerressurser fra obligatoriske nummerplaner",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Nkom kan fastsette følgende vilkår for tillatelse til bruk av nummer:tidsbegrensning for tillatelsen. Varigheten kan likevel innskrenkes hvis nummerplanen endreskrav til hvilken tjeneste nummeret og nummerserien skal brukes til, herunder krav til tilbudet av tjenestenkrav til takstprinsipper og anvendelse av maksimalpriser for den enkelte nummerserie i den hensikt å beskytte forbrukerforpliktende tilbud avgitt av tilbyder under konkurransepreget eller sammenlignende utvelgelsesprosedyreforpliktelser i samsvar med relevante internasjonale avtaler om bruk av nummerkrav til faktisk og effektiv anvendelse av nummer og nummerserier, herunder frist for når nummer eller nummerserien skal være tatt i brukhvilken tilbyderkode som skal brukes sammen med nummer i nummerplanen for telefon m.m. (E.164)forpliktelser vedrørende nummerportabilitetforpliktelser til å betale gebyr og avgiftforpliktelser vedrørende utlevering av nummeropplysningsinformasjon.forpliktelser vedrørende ekstraterritoriell bruk av M2M/IoT-nummer innen EØS-området for å sikre oppfyllelse av regler om forbrukerbeskyttelse og andre nummerrelaterte regler i det landet hvor ressursene brukes.\nVed tildeling av tillatelse for bruk av nummerressurser for en begrenset periode, skal varigheten være lang nok til å nå formålet med tillatelsen.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 10",
+      "heading": "Overdragelse og tilbakelevering av nummerressurser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Overdragelse av nummerressurser fra obligatoriske nummerplaner krever tillatelse fra Nkom. Nkom kan fastsette vilkår for slike overdragelser.\nVed opphør av virksomhet skal nummerressurser tilbakeleveres til Nkom, med mindre pålegg gis i samsvar med § 24.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 11",
+      "heading": "Endringer i opplysninger om tilbyderen eller sluttbrukeren",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Endring i opplysninger om tilbyder eller sluttbruker gitt i søknad eller senere, skal snarest mulig meldes til Nkom.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 12",
+      "heading": "Tilbaketrekking av eksklusive nummerressurser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Nkom kan trekke tilbake nummerressurser, hvis disse er eksklusive for tilbyder eller sluttbruker. En nummerressurs er eksklusiv hvis andre ikke har lik tilgang til tilsvarende nummerressurser.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 13",
+      "heading": "Rapportering til Nkom",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som har fått tillatelse til bruk av nummerressurser fra obligatoriske nummerplaner, kan pålegges å avgi en årlig rapport til Nkom som viser bruken av nummerressursene. Dersom spesielle hensyn tilsier det, kan Nkom pålegge tilbyder å avgi hyppigere rapporter.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 14",
+      "heading": "Offentlig tilgjengelig informasjon",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Nkom skal offentliggjøre nummerplaner, tillatelser og endringer i tillatelser på en hensiktsmessig måte.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 15",
+      "heading": "Endring av nummerplan",
+      "path": [
+        "Kapittel II. Generelle bestemmelser"
+      ],
+      "text": "Finner Nkom det nødvendig å endre en nummerplan, skal alle tilbydere som har tillatelse til bruk av nummerressurser fra nummerplanen, gjøre de nødvendige endringer i sine systemer innen en rimelig frist. Endring av nummerplan kan bl.a. gjøres for å:ha tilstrekkelige nummerressurser tilgjengelig på kort og lang siktreservere nummerressurser til andre formålomdisponere nummerressurser.\nTilbyder skal gi nødvendig informasjon og legge til rette for at overgangen blir minst mulig belastende for sine sluttbrukere.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Overordnet nummerplan",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nkom fastsetter og forvalter obligatorisk nasjonal nummerplan for telefon m.m. (E.164) i samsvar med ITU-T rekommandasjon E.164. Nkom kan gi tillatelse til bruk av nummerserier og enkeltnummer under landskode 47 tildelt fra ITU.\nHovedkategoriene i nasjonal nummerplan for telefon m.m. (E.164) er følgende:00: Internasjonalt prefiks01: Reservert for fremtidige endringer i nummerplanen02000–09999: 5-sifrede spesialnummer100–115: 3-sifrede standardiserte spesialnummer116 000–116 999: 6-sifrede EØS-harmoniserte nummer117–179: 3-sifrede standardiserte spesialnummer1800–1899: 4-sifrede nummer for nummeropplysningstjenester190–199: 3-sifrede tilbyderspesifikke spesialnummer20 00 00 00–39 99 99 99: 8-sifrede fastnettnummer40 00 00 00–49 99 99 99: 8-sifrede mobilnummer50 00 00 00–57 99 99 99: 8-sifrede fastnettnummer58 00 00 00 00 00–58 99 99 99 99 99: 12-sifrede nummer for M2M/IoT-kommunikasjon 59 00 00 00–59 99  99 99: 8-sifrede nummer for M2M/IoT-kommunikasjon60 00 00 00–79 99 99 99: 8-sifrede fastnettnummer800 00 000–899 99 999: 8-sifrede spesialnummerserier90 00 00 00–99 99 99 99: 8-sifrede mobilnummer.\nTildelte nummer kan ikke tilbys for permanent bruk utenfor Norge uten tillatelse fra Nkom. Dette gjelder likevel ikke for:tildelte nummer for M2M/IoT-kommunikasjonnummerserier avsatt for inngående anrop til telefonkonferanser.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 16a",
+      "heading": "Takstprinsipper ved anrop til visse spesialnummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Ved anrop til nummer i angitte nummerserier gjelder følgende takstprinsipper på sluttbrukernivå:800 00 000–800 99 999: Anrop til nummer i denne serien skal være kostnadsfrie for anropende sluttbruker både fra fastnett og mobilnett.02000–09999, 100–109, 114–115, 117–179, 190–199, 810 00 000–810 99 999, 815 00 000–815 99 999, 850 00 000–859 99 999: Anrop til nummer i disse seriene skal ikke koste mer enn hva anrop til mobilnummer koster for anropende sluttbruker. Dersom anrop ikke faktureres basert på faktisk forbruk, skal samme faktureringsmetode som ellers benyttes legges til grunn for de nevnte nummerseriene. Dette gjelder både for anrop fra fastnett og mobilnett.\nVed anrop til nummerseriene etter første ledd gjelder følgende takstprinsipper på grossistnivå:Tilbyder av terminering skal ikke ta høyere pris for terminering enn den til enhver tid regulerte maksimalprisen for terminering av tale i offentlige mobilkommunikasjonsnett.Tilbydere av tilgangstjeneste skal ikke ta høyere pris for originering av slike anrop enn for originering av anrop til mobilnummer.\nTakstprinsippene i denne bestemmelsen gjelder for alle tilbydere av elektroniske kommunikasjonsnett og -tjenester, uavhengig om tilbyder selv har fått tillatelse til bruk av slike nummerressurser eller ikke.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Internasjonale anrop",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nkom kan fastsette at spesielle ordninger for bruk av nummerbaserte elektroniske kommunikasjonstjenester i grenseområder kan videreføres eller etableres.\nNkom kan avtale med myndigheter i andre EØS-land å dele en felles nummerplan for alle eller bestemte kategorier nummer.\nTilbyder skal informere sluttbrukere som blir berørt av ordninger eller avtaler etter første og annet ledd.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 18",
+      "heading": "Nødnummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Tilbyder av elektronisk kommunikasjonsnett og nummerbasert person-til-person kommunikasjonstjeneste skal sikre at kommunikasjon til nødmeldingstjenestene kan gjennomføres ved bruk av spesialnumrene 110, 112, 113.\nNkom kan fastsette andre nummer som skal kunne brukes for kommunikasjon til ulike typer nødmeldingstjenester.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 19",
+      "heading": "Tillatelse og bruk av 8- og 12-sifrede nummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av 8- og 12-sifrede nummerserier til tilbyder av offentlig nummerbasert elektronisk kommunikasjonstjeneste etter søknad.\nTilbyder tildeler 8- og 12-sifrede nummer videre til sluttbrukere.\nTilbyder kan videretildele 8- og 12-sifrede nummer til annen tilbyder. Tilbyder som får et 8- eller 12-sifret nummer videretildelt fra en annen tilbyder kan ikke tildele nummeret videre igjen til en tredje tilbyder.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 20",
+      "heading": "Tillatelse og bruk av standardiserte spesialnummer (100-189)",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av standardiserte spesialnummer til spesielle formål etter søknad.\nDe standardiserte spesialnumrene skal i hovedsak brukes til to formål:landsomfattende tjenester av stor samfunnsmessig betydningtjenester som er nært knyttet til den offentlige telefontjenesten og som er med på å forbedre og utvikle denne til beste for sluttbrukerne.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 20a",
+      "heading": "EØS-harmoniserte nummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Den 6-sifrede nummerserien som begynner med 116, er en del av nasjonal nummerplan for telefon m.m. (E164) og avsatt til bruk for EØS-harmoniserte tjenester av samfunnsmessig verdi.\nNkom kunngjør og tildeler ledige EØS-harmoniserte nummer. Søknader om nummer sendes Nkom. Nkom kan be om uttalelse til søknadene fra relevant myndighet. Numrene kan tildeles både private og offentlige søkere. 116 112 er unntatt fra tildeling. Nkom kan sette vilkår for tildelingen.\nNkom fører et offentlig register oppdatert for alle tildelte og tilgjengelige 116-nummer.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 20b",
+      "heading": "Generelle krav til tjenester på EØS-harmoniserte nummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Tjenestene skal:tilby informasjon, hjelp eller fungere som en rapporteringskanal for brukerne eller en kombinasjon av dissevære åpen for alle brukere, uten krav om forhåndsregistreringikke være tidsbegrenset til kampanjeperioderikke medføre noen form for betaling eller betalingsforpliktelse som en forutsetning før en kan benytte seg av tjenestenikke ha reklame, underholdning, markedsføring eller salg under en samtale eller så lenge linjen er oppkobletikke bruke samtaleinformasjon for fremtidig salg av kommersielle tjenester.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 20c",
+      "heading": "Kostnad ved å ringe 116-nummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Kommunikasjon til 116-nummer skal være gratis for sluttbruker både fra fastnett og mobilnett. Nkom kan gjøre unntak fra dette i særlige tilfeller.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-11",
+      "provision_ref": "§ 20e",
+      "heading": "Bortfall av bruksrett til EØS-harmonisert nummer ved manglende bruk",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Bruksretten til det EØS-harmoniserte nummeret bortfaller dersom nummeret ikke tas i bruk innen seks måneder etter tildelingen, eller den senere over en periode på minst ett år ikke har vært i vedvarende bruk.\nNkom kan i særlige tilfeller gjøre unntak fra første ledd.",
+      "xml_path": "article#kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-12",
+      "provision_ref": "§ 20f",
+      "heading": "Krisetelefon for og om savnede barn – 116 000",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Krisetelefon for og om savnede barn skal ta imot henvendelser om savnede barn og videreformidle disse til politiet, tilby støtte og råd til de pårørende, og støtte etterforskningen.\nTjenesten skal være tilgjengelig i hele landet, 7 dager i uken, 24 timer i døgnet.\nSluttbruker skal kunne nå krisetelefon for og om savnede barn på nummer 116 000. Tilbyder skal sikre at sluttbrukere med nedsatt funksjonsevne har tilgang til tjenester under 116 000 så langt det lar seg gjøre. Dette skal også gjelde for sluttbruker med nedsatt funksjonsevne som gjester i norske nett.",
+      "xml_path": "article#kapittel-3-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-13",
+      "provision_ref": "§ 20g",
+      "heading": "Hjelpetelefon for offer for vold og overgrep – 116 006",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Hjelpetelefon for offer for vold- og overgrep skal tilby:emosjonell støtte,informere om rettigheter og hvordan de kan benytte seg av rettighetene,bistå med henvisning til relevante organisasjoner,informere om prosedyrer ved politianmeldelser og gangen i straffesaker,informere om muligheter for erstatning og forsikringsforhold, ogbistå offer for kriminalitet med å oppsøke annen relevant hjelp.\nDen som er tildelt 116 006-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.",
+      "xml_path": "article#kapittel-3-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-14",
+      "provision_ref": "§ 20h",
+      "heading": "Hjelpetelefon for barn og unge – 116 111",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Hjelpetelefon for barn og unge skal hjelpe de som har behov for omsorg, og vern og bistå med kontakt med relevante tjenester og ressurser. Tjenesten skal gi barn og unge mulighet til å gi uttrykk for sine bekymringer, snakke om problem som påvirker dem direkte, og være en kontakt i en nødsituasjon.\nDen som er tildelt 116 111-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.",
+      "xml_path": "article#kapittel-3-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-15",
+      "provision_ref": "§ 20i",
+      "heading": "Legevakt – 116 117",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Tjenesten skal gi medisinsk assistanse ved behov som haster, men som ikke er livstruende. Henvendelser til legevaktnummeret skal besvares av en fagperson, eller av en person med faglig støtte, eller direkte av en lege.\nTjenesten etter første ledd skal være tilgjengelig også utenfor ordinære åpningstider, i helger og på helligdager.\nDen som er tildelt 116 117-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.",
+      "xml_path": "article#kapittel-3-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-16",
+      "provision_ref": "§ 20j",
+      "heading": "Hjelpetelefon for mental helse – 116 123",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Hjelpetelefon for mental helses kal tilby emosjonell støtte til personer som lider av ensomhet, opplever en psykologisk krise eller har selvmordstanker.\nDen som er tildelt 116 123-nummeret og drifter tjenesten skal offentliggjøre informasjon om tjenestens åpningstider og tilgjengelighet. Informasjonen skal være lett tilgjengelig, og de som ringer tjenesten utenom åpningstid skal få informasjon om når tjenesten igjen er tilgjengelig.",
+      "xml_path": "article#kapittel-3-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-17",
+      "provision_ref": "§ 21",
+      "heading": "Tilbyderspesifikke spesialnummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nummerserien 190-199 er avsatt til bruk for tilbyderspesifikke spesialnummer. Tilbyder av talekommunikasjonstjeneste kan benytte denne nummerserien for egendefinerte tjenester. Sluttbrukere kan ikke få tillatelse til bruk av slike numre. Tilbyderspesifikke spesialnummer kan ha ulik lengde.",
+      "xml_path": "article#kapittel-3-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-18",
+      "provision_ref": "§ 22",
+      "heading": "Tillatelse og bruk av 5-sifrede spesialnummer (02000–09999)",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av slike nummer til sluttbrukere etter søknad. Nummerserien er delt opp i to hovedkategorier:5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter5-sifrede nummer for andre formål.\nSom ikke-kommersielle formål av samfunnsnyttig karakter regnes blant annet:landsomfattende krise- og kontakttelefonerlandsomfattende offentlige tjenesterlandsomfattende nummer for humanitære/ideelle organisasjonerfelles landsomfattende nummer for offentlig legevakt, sykehus, politi eller lignende for bruk ved ikke-nødsituasjoner.\nTillatelse til bruk av 5-sifrede nummer for ikke-kommersielle formål av samfunnsnyttig karakter skal kun foretas fra nummer i laveste priskategori. Hver sluttbruker eller gruppering kan maksimalt disponere tre slike nummer.",
+      "xml_path": "article#kapittel-3-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-19",
+      "provision_ref": "§ 22a",
+      "heading": "Årlige avgifter til staten for tillatelse til bruk av 5-sifret nummer",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Nasjonal kommunikasjonsmyndighet innkrever årlig avgift til staten for tillatelse til bruk av 5-sifret nummer. Avgiftenes størrelse fastsettes årlig i Stortingsvedtak om særavgifter til statskassen.\nFor 5-sifret nummer for ikke-kommersielle formål av samfunnsnyttig karakter betales det ikke avgift til staten.\nDersom oppsigelse av 5-sifret nummer er sendt Nkom innen 31. desember, skal det ikke betales avgift for det påfølgende året. Avgift bortfaller hvis oppsigelse er sendt innen 1. april eller nytt nummer er tildelt 1. oktober eller senere.",
+      "xml_path": "article#kapittel-3-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-20",
+      "provision_ref": "§ 23",
+      "heading": "Rapportering til Nkom",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som har fått tillatelse til bruk av 8- og 12-sifrede nummerserier av Nkom skal innen 1. februar hvert år avgi rapport til Nkom med oversikt over bruken av nummerseriene.\nRapporten skal for hver nummerserie bl.a. inneholde følgende opplysninger:fordeling av nummerserien på ulike tjenester, takster etc.prosentvis andel av nummer som er i aktiv brukprosentvis andel av nummer som er reservert, men ikke i aktiv brukprosentvis andel av nummer som er portert til andre tilbydereantall numre som er portert fra andre tilbydereprosentvis andel av nummer som er ledigeeventuell videretildeling av nummerserier til andre tilbydereprognose for utnyttelse av nummerserien for hvert av de neste tre år.hele eller deler av tildelt nummerserie brukes over landegrensen",
+      "xml_path": "article#kapittel-3-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-21",
+      "provision_ref": "§ 24",
+      "heading": "Overdragelse og opphør",
+      "path": [
+        "Kapittel III. Nummerplan for telefon m.m. (E.164)"
+      ],
+      "text": "Dersom viktige hensyn tilsier det og mer enn 50 % av numrene i en nummerserie er utportert til andre tilbydere av offentlige elektroniske kommunikasjonstjenester, kan Nkom overføre nummerserien til den tilbyder som har flest innporterte nummer innenfor nummerserien.\nVed opphør av virksomhet skal ubrukte numre og nummerserier tilbakeleveres til Nkom. Ved opphør av virksomhet som disponerer nummerserier der nummer er utportert, kan Nkom pålegge andre tilbydere som har innportert numre å overta hele nummerserien.",
+      "xml_path": "article#kapittel-3-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 25",
+      "heading": "Tilbyderkoder for tilbyderportabilitet",
+      "path": [
+        "Kapittel IV. Nummerplan for tilbyderkoder for tilbyderportabilitet"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for tilbyderkoder for tilbyderportabilitet. Tilbyder som disponerer numre i nummerplan for telefon m.m. (E.164) kan få tillatelse til bruk av tilbyderkoder.\nNummerplan for tilbyderkoder er obligatorisk og har følgende struktur:000-899 Identifikasjon av angivende og mottagende tilbyder900-999 Tilbyderspesifikke koder.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 26",
+      "heading": "Tillatelse og bruk av DNIC og PNIC",
+      "path": [
+        "Kapittel V. Nummerplan for datanett (X.121)"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for datanett, i henhold til ITU-T rekommandasjon X.121. Nummerplanen er obligatorisk. Nkom kan gi tillatelse til bruk av DNIC og PNIC til tilbyder av elektronisk kommunikasjonsnett og -tjeneste etter søknad.\nTillatelse til bruk av en DNIC kan gis tilbyder som har et datanett som bruker adresser i henhold til X.121 og som tilbyr en dataoverføringstjeneste til allmennheten. Nkom kan sette begrensninger på hvilke sifferkombinasjoner en tilbyder kan ta i bruk som de første sifrene i terminalnummer (NTN) under DNIC.\nFor å sikre effektiv utnyttelse av nasjonale X.121-ressurser, kan Nkom pålegge to eller flere tilbydere å dele en DNIC. De berørte tilbyderne skal i så fall gis minst seks måneders varsel.\nTillatelse til bruk av en PNIC kan gis tilbyder som har et datanett som bruker adresser i henhold til X.121 og som leverer en dataoverføringstjeneste til en mindre gruppe eller til egen virksomhet. En PNIC består normalt av to eller tre siffer i tillegg til den DNIC som Nkom avsetter for tillatelse til bruk av PNIC.\nTilbyder som har fått tillatelse til bruk av en DNIC eller PNIC foretar tildeling av terminalnummer til sine sluttbrukere under den DNIC eller PNIC tilbyderen har fått tillatelse til av Nkom, med de begrensninger Nkom eventuelt har satt på de første sifrene i terminalnummeret.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 27",
+      "heading": "Bruk av utenlandske DNIC og PNIC i Norge",
+      "path": [
+        "Kapittel V. Nummerplan for datanett (X.121)"
+      ],
+      "text": "Tilbyder av elektronisk kommunikasjonsnett og -tjeneste kan i Norge benytte en DNIC eller PNIC som er tildelt av andre lands myndigheter eller av ITU.\nNkom kan avslå søknad om en norsk DNIC eller PNIC til tilbyder som har en DNIC eller PNIC tildelt av andre lands myndigheter eller av ITU.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 28",
+      "heading": "Samtrafikk",
+      "path": [
+        "Kapittel V. Nummerplan for datanett (X.121)"
+      ],
+      "text": "Tilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tillatelse til bruk av en DNIC fra Nkom, plikter innen seks måneder etter at tillatelsen er gitt å opprette avtalemessig regulert samtrafikk med minst én annen tilbyder med DNIC.\nTilbyder av elektronisk kommunikasjonsnett og -tjeneste som får tillatelse til bruk av en PNIC fra Nkom, plikter innen seks måneder etter at tillatelsen er gitt å opprette avtalemessig regulert samtrafikk med minst én annen tilbyder med DNIC eller PNIC.\nDersom samtrafikk ikke er etablert innen seks måneder, kan Nkom trekke tilbake tilbyders rett til å bruke den aktuelle DNIC eller PNIC.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 29",
+      "heading": "Nummerplan for identifikasjon av utgivere av kredittkort knyttet til elektronisk kommunikasjonstjeneste (E.118)",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for identifikasjon av utgivere av kredittkort knyttet til elektronisk kommunikasjonstjeneste, i henhold til ITU-T rekommandasjon E.118.\nNkom kan gi tillatelse til bruk av kortutgiverkoder (Issuer Identifier Number, IIN) for kredittkort knyttet til elektronisk kommunikasjonstjeneste, i henhold til ITU-T rekommandasjon E.118.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 30",
+      "heading": "Nummerplan for ISDN-nett med ansvar for identifikasjon av lukkede brukergrupper (E.167)",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for ISDN-nett med ansvar for administrasjon av lukkede brukergrupper, i henhold til ITU-T rekommandasjon E.167.\nNkom kan gi tillatelse til bruk av ISDN-nettkoder (ISDN Network Identification Codes, INIC) til identifikasjon av nett der tilbyderen er ansvarlig for administrasjon av lukkede brukergrupper, i henhold til ITU-T rekommandasjon E.167.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 31",
+      "heading": "Nummerplaner for nettkoder knyttet til mobile nett og mobile tjenester (E.212 og E.214)",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplaner for nettkoder knyttet til mobile nett og mobile tjenester, i henhold til ITU-T rekommandasjonene E.212 og E.214.\nNkom kan gi tillatelse til bruk av mobile nettkoder (Mobile Network Code, MNC) for identifikasjon av mobile terminaler og mobile brukere, i henhold til ITU-T rekommandasjon E.212 og i samsvar med ETS 300 523. Videre kan Nkom gi tillatelse til bruk av nettkoder (Network Code, NC), i henhold til ITU-T rekommandasjon E.214.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 32",
+      "heading": "Nummerplan for identifikasjonssignaler for skip",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Telenor ASA fastsetter og forvalter nummerplan for identifikasjonssignaler for skip (Maritime Mobile Service Identities, MMSI) i henhold til ITUs radioreglement samt gjeldene versjon av ITU-T rekommandasjon ITU-R M.585, etter fullmakt fra Nkom.\nTelenor ASA tildeler MMSI-nummer beregnet på automatisk trafikkutveksling mellom stasjoner som deltar i den maritime mobile tjenesten.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 33",
+      "heading": "Tildeling av brukernummer for Inmarsatstasjoner i Norge",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Telenor ASA tildeler brukernummer for maritime og landmobile Inmarsatstasjoner i Norge, i henhold til ITU-T rekommandasjon E.217, etter fullmakt fra Nkom.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 34",
+      "heading": "Nummerplaner for punktkoder for signalering (Q.704 og Q.708)",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplaner for punktkoder knyttet til signalering, i henhold til ITU-T rekommandasjonene Q.704 og Q.708.\nNkom kan gi tillatelse til bruk av punktkoder for internasjonal signalering (International Signalling Point Codes, ISPC), i henhold til ITU-T rekommandasjonene Q.704 og Q.708.\nNkom kan gi tillatelse til bruk av punktkoder for nasjonal signalering, i henhold til ITU-T rekommandasjon Q.704.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 35",
+      "heading": "T.35 nummerplan",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for identifikasjon av produsenter som implementerer ikke-standardiserte funksjoner i telekommunikasjonsprodukter, i henhold til ITU-T rekommandasjon T.35.\nNkom kan gi tillatelse til bruk av leverandørkoder (provider codes), i henhold til ITU-T rekommandasjon T.35.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 35a",
+      "heading": "Nummerplan for identifikasjon av radiokanaler",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for identifikasjon av radiokanaler, RDS PI-, SId- og EId- og andre koder relatert til analog og digital radiodistribusjon i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.\nRDS PI-, SId- og EId-koder kan ikke tas i bruk uten at det foreligger tillatelse fra Nkom. Bruken av kodene skal være i henhold til standardene IEC 62106-2, IEC 62106-4 og ETSI EN 300 401.\nØvrige koder relatert til digital radiodistribusjon tillates brukt i henhold til standarden ETSI EN 300 401.\nØvrige koder relatert til analog radiodistribusjon tillates brukt i henhold til standardene IEC 62106-2 og IEC 62106-4.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 35b",
+      "heading": "Nummerplan for identifikasjon ved bruk av radioamatørstasjoner",
+      "path": [
+        "Kapittel VI. Andre obligatoriske nummerplaner"
+      ],
+      "text": "Nkom fastsetter og forvalter nummerplan for identifikasjon (kallesignal) ved bruk av radioamatørstasjoner i henhold til ITUs radioreglement artikkel 19 og appendiks 42.\nNkom kan gi tillatelse til bruk av kallesignal beregnet til radioamatørvirksomhet.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "Registrering av X.400 ADMD og PRMD domenenavn",
+      "path": [
+        "Kapittel VII. Frivillige nummerplaner"
+      ],
+      "text": "Nkom registrerer ADMD (Administration Management Domain) og PRMD (Private Management Domain) domenenavn for elektronisk post, i henhold til ITU-T rekommandasjonene X.400/F.400 og F.401.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "Tillatelse til bruk av identifikatorer for EDIFACT",
+      "path": [
+        "Kapittel VII. Frivillige nummerplaner"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av identifikatorer for bruk i EDIFACT (Electronic Data Interchange for Administration, Commerce and Transport), segmentene UNB og UNG, i henhold til ISO 9735.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 38",
+      "heading": "Tillatelse til bruk av ISO-DCC nettadresser",
+      "path": [
+        "Kapittel VII. Frivillige nummerplaner"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av ISO-DCC (ISO Data Country Code) nettadresser, i henhold til ISO/IEC 8348/ITU-T rekommandasjon X.213.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 39",
+      "heading": "Tillatelse til bruk av objektidentifikatorer",
+      "path": [
+        "Kapittel VII. Frivillige nummerplaner"
+      ],
+      "text": "Nkom kan gi tillatelse til bruk av objektidentifikatorer, i henhold til ISO/IEC 8824-1/ITU-T rekommandasjon X.680 og ISO/IEC 9834-1/ITU-T rekommandasjon X.660.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 40",
+      "heading": "Nkoms avgjørelser vedrørende frivillige nummerplaner",
+      "path": [
+        "Kapittel VII. Frivillige nummerplaner"
+      ],
+      "text": "Nkoms avgjørelser etter dette kapittel er ikke enkeltvedtak, jf. forvaltningsloven § 2, og kan ikke påklages.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 41",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel VIII. Fellesbestemmelser"
+      ],
+      "text": "Nkom kan dispensere fra bestemmelser i denne forskrift når særlige hensyn tilsier det.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 42",
+      "heading": "Klageadgang",
+      "path": [
+        "Kapittel VIII. Fellesbestemmelser"
+      ],
+      "text": "Enkeltvedtak fattet av Nkom kan påklages av en part eller andre med rettslig klageinteresse. Klager avgjøres av klagenemnda for elektronisk kommunikasjon, men sendes til Nkom.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 43",
+      "heading": "Sanksjoner",
+      "path": [
+        "Kapittel VIII. Fellesbestemmelser"
+      ],
+      "text": "Ved brudd på forskriften eller vedtak gitt i medhold av forskriften kan Nkom gjennomføre sanksjoner etter lov om elektronisk kommunikasjon kapittel 15. Brudd på forskriften straffes etter lov om elektronisk kommunikasjon § 15-14.\nMyndigheten kan pålegge en fysisk person eller et foretak overtredelsesgebyr dersom personen, foretaket eller noen som handler på vegne av foretaket forsettlig eller uaktsomt overtrer nummerforskriften § 5, § 9, § 10, § 13, § 15, § 16, § 17, § 18, § 19, § 20, § 20b, § 20c, § 20f, § 20g, § 20h, § 20i, § 20j, § 23, § 24 og § 35a.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 44",
+      "heading": "Ikrafttredelse mv.",
+      "path": [
+        "Kapittel VIII. Fellesbestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 16. februar 2004. Fra samme dato oppheves forskrift 2. juni 1997 nr. 560 om tildeling og bruk av nummer, nummerserier, navn og adresser for telenett og teletjenester (nummerforskriften).",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    }
+  ]
+}

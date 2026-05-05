@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2021-09-08-2716",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av forordning (EU) 2015/171 av 4. februar 2015 om visse aspekter ved fremgangsmåten for utstedelse av lisenser til jernbaneforetak",
+  "short_title": "Forskrift om gjennomføring av forordning (EU) 2015/171",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-01",
+  "last_change_in_force": "2022-05-06",
+  "last_changed_by": "forskrift/2022-05-06-803",
+  "lovdata_refid": "forskrift/2021-09-08-2716",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-08-2716",
+  "raw_xml_sha256": "e7c77d9ffe5df84c808ed24c0c483108029df24d3373692817d0fafd8fa469ad",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 37aj forordning (EU) 2015/171 av 14. februar 2015 om visse aspekter ved fremgangsmåten for utstedelse av lisenser til jernbaneforetak gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Statens jernbanetilsyn utøver myndighet etter denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning (EU) 2015/171 av 14. februar 2015 inn i EØS-avtalen trer i kraft.1",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

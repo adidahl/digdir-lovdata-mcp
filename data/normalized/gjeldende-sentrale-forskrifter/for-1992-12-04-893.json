@@ -1,0 +1,50 @@
+{
+  "id": "FOR-1992-12-04-893",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bemyndigelse av funksjonærer etter tvangsfullbyrdelsesloven.",
+  "short_title": "Forskrift om bemyndigelse av funksjonærer",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1993-01-01",
+  "last_change_in_force": "2006-01-01",
+  "last_changed_by": "forskrift/2005-12-16-1522 fra 2006-01-01",
+  "lovdata_refid": "forskrift/1992-12-04-893",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1992-12-04-893",
+  "raw_xml_sha256": "e28f41d4b333d96aea4c4779fb623101a7858b7f4da133a61fc7aa648da6284a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Hovedregel",
+      "path": [],
+      "text": "Tingrettene kan overlate utførelsen av sine gjøremål etter tvangsfullbyrdelsesloven til sine funksjonærer. Som funksjonærer regnes alle ansatte unntatt dommere og dommerfullmektiger.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Begrensninger",
+      "path": [],
+      "text": "Foruten å avsi dommer og kjennelser og å treffe beslutning om tvangssalg etter § 11-9, jf. § 12-5, kan retten ikke overlate til funksjonærer å holde auksjon over realregistrerte formuesgoder eller adkomstdokumenter til leierett til bolig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Kvalifikasjoner og tilsyn",
+      "path": [],
+      "text": "Tingretten må ikke overlate myndighet til en funksjonær uten først å forvisse seg om at vedkommende funksjonær har den nødvendige kunnskap og erfaring.\nLederen for namsmyndigheten skal også påse at bemyndigede funksjonærer utfører oppgavene i samsvar med lov og forskrifter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1 januar 1993.\nForskriften gjelder ikke for saker om tvangsfullbyrdelse som fortsatt skal behandles etter lov 13 august 1915 nr 7 om tvangsfullbyrdelse.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

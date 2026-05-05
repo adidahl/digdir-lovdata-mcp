@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2000-01-06-6",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fangstdokumentasjon ved fiske etter patagonisk tannfisk (Dissostichus spp.)",
+  "short_title": "Forskrift om fangstdokumentasjon ved tannfiske",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2000-05-04",
+  "last_change_in_force": "2013-01-28",
+  "last_changed_by": "forskrift/2013-01-28-75",
+  "lovdata_refid": "forskrift/2000-01-06-6",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-01-06-6",
+  "raw_xml_sha256": "204810c0345ea8416ed5d16253bd63131ec5b10608d9e981a4030b50603b314a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder ved fiske etter patagonisk tannfisk (Dissostichus spp.) i de havområder som forvaltes av Commission for the Conservation of Antarctic Marine Living Resourses (CCAMLR), eller i farvann utenfor noen stats fiskerijurisdiksjon (internasjonalt farvann).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Plikt til utfylling av fangstdokument",
+      "path": [],
+      "text": "Norske fartøy som har tillatelse til å fiske patagonisk tannfisk (Dissostichus spp.) eller motta slik fisk, skal ved landing og ved overføring av fangst fylle ut et fangstdokument.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til fangstdokument",
+      "path": [],
+      "text": "Fangstdokument utgis av Fiskeridirektoratet og skal inneholde følgende opplysninger:navn, adresse, telefon- og faksnummer til Fiskeridirektoratet,fartøyets navn, registreringshavn, registreringsnummer og radiokallesignal,vekt for hver art av patagonisk tannfisk (Dissostichus spp.) spesifisert på produkttype, fordelt på CCAMLR statistiske underområder eller divisjoner dersom fangsten er tatt innenfor CCAMLR-området, og/eller fordelt på FAO statistiske områder, underområder eller divisjoner dersom fangsten er tatt utenfor CCAMLR-området,tidsperioden (fra dato til dato) da fangsten ble tatt,dato da fangsten ble landet og navn på havn hvor fangsten ble landet, eller dato da fangst ble mottatt av annet fartøy og navn, flaggstat og registreringsnummer til fartøyet som mottok slik fangst, ognavn, adresse, telefon- og faksnummer til mottaker eller mottakere av fangst og mottatt kvantum spesifisert på fiskeslag og produkttype.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Utfylling av fangstdokument",
+      "path": [],
+      "text": "Fiskeridirektoratet kan gi nærmere regler for utfylling av fangstdokument.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Straff og inndragning",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 62, § 64 og § 65.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 4. mai 2000.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

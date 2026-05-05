@@ -1,0 +1,102 @@
+{
+  "id": "FOR-2017-06-25-1052",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om arbeidstid for avlastere",
+  "short_title": "Forskrift om arbeidstid for avlastere",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2017-07-01",
+  "last_change_in_force": "2022-07-01",
+  "last_changed_by": "forskrift/2022-06-28-1208 fra 2022-07-01",
+  "lovdata_refid": "forskrift/2017-06-25-1052",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-06-25-1052",
+  "raw_xml_sha256": "acb37fcb8f99f156842c4412afebd18d841411ab4d3964b354599f99eafba820",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften gjelder arbeid som oppfyller kommunenes plikt etter helse- og omsorgstjenesteloven § 3-6 første ledd nr. 2 eller barnevernloven, når avlastningen skjer utenfor institusjon, og avlasteren anses som arbeidstaker etter arbeidsmiljøloven § 1-8.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Arbeidsmiljølovens bestemmelser om arbeidstid gjelder med de unntak som følger av denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Arbeidsgiver og arbeidstaker kan skriftlig avtale at den samlede arbeidstiden kan være inntil 60 timer i løpet av sju dager. Dette gjelder både arbeid som avlaster alene og arbeid som avlaster i kombinasjon med annet arbeid i samme virksomhet. Grensen på 60 timer i løpet av sju dager kan gjennomsnittsberegnes over en periode på seks uker, likevel slik at den samlede arbeidstiden ikke overstiger 88 timer i noen enkelt uke.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "For avlastere som har annen stilling i samme virksomhet, kan arbeid ut over arbeidsmiljøloven § 10-4 bare gjennomføres som avlasterarbeid. Dette er ikke til hinder for gjennomsnittsberegning av arbeidstiden eller overtidsarbeid, jf. arbeidsmiljøloven § 10-5 og § 10-6. Samlet arbeidstid skal uansett ikke overstige grensene i § 4.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Arbeidsgiver og arbeidstaker kan skriftlig avtale at arbeidstaker kan arbeide i inntil 56 timer sammenhengende.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Dersom en arbeidsperiode er inntil 16 timer, kan arbeidsgiver og arbeidstaker avtale at den daglige arbeidsfrie perioden blir kortere enn 11 timer, jf. arbeidsmiljøloven § 10-8 første ledd. Slik avtale forutsetter at arbeidstaker sikres kompenserende hvile.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Dersom en arbeidsperiode er mer enn 16 timer skal arbeidstaker sikres minst 16 timer sammenhengende arbeidsfri umiddelbart før eller etter arbeidsperioden.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [],
+      "text": "Dersom en arbeidsperiode er mer enn 24 timer skal arbeidstaker sikres minst 16 timer sammenhengende arbeidsfri umiddelbart før og etter arbeidsperioden.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "path": [],
+      "text": "Dersom avlastning utføres i tilknytning til annet arbeid i samme virksomhet, må den samlede arbeidstiden ikke overstige 56 timer sammenhengende. Slikt annet arbeid kan ikke utgjøre mer enn 16 timer av en samlet arbeidsperiode på inntil 48 timer, og ikke mer enn åtte timer av en samlet arbeidsperiode på over 48 timer.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "path": [],
+      "text": "Arbeidsgiver og arbeidstaker kan skriftlig avtale at den ukentlige arbeidsfrie perioden forkortes til 24 timer der det er nødvendig for å gjennomføre avlastning.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "path": [],
+      "text": "Arbeidsgiver og arbeidstaker kan skriftlig avtale avlastning i en lengre sammenhengende periode enn det som følger av § 4 til § 10, dersom avlastningen ikke er svært belastende.\nAvlastning kan ikke avtales for en lengre periode enn en uke.\nArbeidstakeren skal sikres tilstrekkelige muligheter for restitusjon og hvile i løpet av perioden.\nArbeidstakeren kan ikke utføre annet arbeid i perioden avlastningen gjennomføres.\nArbeidstakeren skal sikres en arbeidsfri periode etter at avlastningen er avsluttet.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2017.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

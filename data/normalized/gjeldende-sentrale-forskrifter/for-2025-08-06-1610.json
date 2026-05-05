@@ -1,0 +1,306 @@
+{
+  "id": "FOR-2025-08-06-1610",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift til lov om Enhetsregisteret (enhetsregisterforskriften)",
+  "short_title": "Enhetsregisterforskriften",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-08-06-1610",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-08-06-1610",
+  "raw_xml_sha256": "67d04d0d1c99aa829ce7daa98369a40597fecb3765e67645d3c9fe79dc3b0865",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Organisering og lokalisering",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Enhetsregisteret legges til Registerenheten i Brønnøysund (Brønnøysundregistrene).",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Delegering av registerførerens myndighet",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "(1) Registerføreren kan delegere sin myndighet etter enhetsregisterloven eller forskrift gitt i medhold av enhetsregisterloven til andre ansatte ved registeret.(2) Delegeringsbeslutningen skal være skriftlig. Beslutningen skal angi navnet til den som er delegert myndighet, hvilken myndighet som er delegert og om utøvelsen av den delegerte myndigheten er begrenset.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Datasikkerhet",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Registerføreren skal sørge for at det regelmessig tas sikkerhetskopi av det som er registrert i Enhetsregisterets databaser. Data skal håndteres på en slik måte at kvaliteten av lagrede og avgitte opplysninger er tilstrekkelig god og slik at den blir best mulig beskyttet mot uønskede hendelser. Uhell, misbruk, feil og øvrige trusler mot datasikkerheten skal søkes avdekket og avverget så effektivt som mulig.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Melding og registrering av elektroniske varslingsadresser til Enhetsregisteret",
+      "path": [
+        "Kapittel 2. Registrering og bruk av elektroniske varslingsadresser"
+      ],
+      "text": "(1) Elektroniske varslingsadresser som registreres i Enhetsregisteret etter enhetsregisterloven § 4-1 første ledd bokstav e skal være egnet til varsling etter eForvaltningsforskriften § 8 tredje ledd.(2) Elektroniske varslingsadresser skal meldes ved bruk av den løsningen som Enhetsregisteret tilbyr.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Registrering av elektroniske varslingsadresser for underenheter",
+      "path": [
+        "Kapittel 2. Registrering og bruk av elektroniske varslingsadresser"
+      ],
+      "text": "Enheter kan registrere elektronisk varslingsadresse for underenheter i Enhetsregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Bruk av elektroniske varslingsadresser",
+      "path": [
+        "Kapittel 2. Registrering og bruk av elektroniske varslingsadresser"
+      ],
+      "text": "(1) De elektroniske varslingsadressene kan brukes til varsling etter eForvaltningsforskriften § 8 tredje ledd og i forbindelse med saksbehandling og utføring av forvaltningsoppgaver for øvrig.(2) Et forvaltningsorgan som har sendt varsel til en registrert varslingsadresse, har oppfylt sin varslingsplikt etter eForvaltningsforskriften § 8 tredje ledd.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Registrering av opplysninger om enhetens status",
+      "path": [
+        "Kapittel 3. Registrering av opplysninger om enhetens status og administrative opplysninger om enheten"
+      ],
+      "text": "Det skal registreres følgende opplysninger om enhetens status i Enhetsregisteret hvis de finnes:om enheten er registrert i tilknyttede registre, jf. enhetsregisterloven § 1-4 andre ledd, og i så fall hvilke registre. Er enheten frivillig registrert i Merverdiavgiftsregisteret, skal dette registreres. Første punktum gjelder ikke Statistisk sentralbyrås Bedrifts- og foretaksregister og Skattedirektoratets register over upersonlige skattytere.om enheten er registrert i Frivillighetsregisteretom enheten er registrert i Partiregisteretdato for sist innsendte årsregnskap til Regnskapsregisteretom det er registrert i Konkursregisteret at enheten er under konkursbehandling og hva som er grunnlaget for konkursbehandlingen.om det er registrert i Foretaksregisteret at enheten er oppløstom det er sendt varsel som gjelder enheten fra Foretaksregisteret eller Regnskapsregisteret til tingretten etter bestemmelse i lov eller i medhold av lov og hva som er grunnlaget for varseletom Enhetsregisteret har mottatt opplysninger fra Statistisk sentralbyrå om sammenslåing eller deling av kommuner eller fylkeskommunerflytting over landegrenser for europeiske selskaper og europeiske samvirkeforetakstatus for norskregistrerte utenlandske foretak (NUF) – avvikling/konkurs/slettet i hjemstatenopplysninger om fusjon og fisjon (plan, beslutning, oppløst, overdragende, overtakende)om enheten inngår i konsernom en stiftelse er besluttet delt, sammenslått eller opphevet/under avviklingom enheten er et finansforetakom enheten er under rekonstruksjonsforhandling.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Registrering av administrative opplysninger om enheten",
+      "path": [
+        "Kapittel 3. Registrering av opplysninger om enhetens status og administrative opplysninger om enheten"
+      ],
+      "text": "Det skal registreres følgende opplysninger om enheter i Enhetsregisteret hvis de finnes:foretrukken målformdato for nyregistrering i Enhetsregisteretdato for registrering av endringer i Enhetsregisteretdato for registrering i Merverdiavgiftsregisteretdato for registrering i Foretaksregisteretdato for oppdatering av antall ansatte i enhetendato for registrering i Frivillighetsregisteretdato for registrering i Partiregisteretdato for registrering i Stiftelsesregisteretdato for sletting fra Enhetsregisteret.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Underenhet",
+      "path": [
+        "Kapittel 4. Registrering av underenheter"
+      ],
+      "text": "Med underenhet menes opplysninger som skal registreres om visse enheter i Enhetsregisteret etter bestemmelsene i dette kapittelet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Registrering av underenheter",
+      "path": [
+        "Kapittel 4. Registrering av underenheter"
+      ],
+      "text": "(1) Det skal registreres én underenhet for hver enkelt adskilt aktivitet som næringsdrivende enheter og offentlig forvaltning driver, jf. enhetsregisterloven § 4-7 første ledd andre punktum. En aktivitet skal regnes for å være adskilt dersom:aktiviteten utøves på flere forskjellige geografiske steder (lokaliteter), med minst én ansatt hvert sted.aktiviteten utøves på samme geografiske sted (lokalitet), men innenfor ulike næringer og minst fem ansatte er tilknyttet hver enkelt næring eller minst ti ansatte er tilknyttet hver enkelt næring innen industrinæringer.(2) Registerføreren kan i enkelttilfeller bestemme at det skal registreres underenheter i andre tilfeller enn som nevnt i enhetsregisterloven § 4-7 første ledd.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Opplysninger om underenheter",
+      "path": [
+        "Kapittel 4. Registrering av underenheter"
+      ],
+      "text": "(1) Følgende opplysninger skal registreres om underenheter hvis de finnes:underenhetens organisasjonsnummerenhetens organisasjonsnummerunderenhetens navn/avdelingsbetegnelseunderenhetens adresse og kommuneeventuelt avvikende postadresse for underenhetenaktiviteten som underenheten skal drivenæringskodetype underenhetantall ansatte i underenhetendato for oppstart eller etablering av underenhetenom enheten har overdratt aktivitet (virksomhet), dato for overdragelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for ny eierom enheten har overtatt aktivitet (virksomhet), dato for overtakelsen, og navn eller foretaksnavn, samt fødselsnummer, organisasjonsnummer eller tilsvarende identifikasjonsnummer for tidligere eierdato for nedleggelse av aktivitet (virksomhet).(2) Det kan registreres opplysninger om underenhetens telefonnummer og andre elektroniske adresser.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Opplysninger om underenhetens status",
+      "path": [
+        "Kapittel 4. Registrering av underenheter"
+      ],
+      "text": "Det skal registreres følgende opplysninger i Enhetsregisteret om underenhetens status:om underenheten er registrert i Merverdiavgiftsregisteretom underenheten er registrert i Arbeidsgiver- og arbeidstakerregisteretom underenheten er en ubemannet lokasjon (USYS).",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Administrative opplysninger om underenheten",
+      "path": [
+        "Kapittel 4. Registrering av underenheter"
+      ],
+      "text": "Det skal registreres følgende administrative opplysninger om underenheter i Enhetsregisteret hvis de finnes:foretrukken målformdato for registrering i Enhetsregisteretdato for sletting fra Enhetsregisteretdato for eierskiftedato for oppstart av aktiviteten i underenhetendato for næringsendring i underenheten.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Registrering av enkeltpersonforetak",
+      "path": [
+        "Kapittel 5. Registrering av enkeltpersonforetak"
+      ],
+      "text": "Når én og samme person driver virksomhet på flere forskjellige geografiske steder og/eller i forskjellige bransjer, kan de forskjellige virksomhetene registreres som egne enkeltpersonforetak. I andre tilfeller kan det ikke registreres flere enkeltpersonforetak på én og samme person.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Fremgangsmåten ved innsending av melding",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "Ved innsending av melding til Enhetsregisteret etter enhetsregisterloven kapittel 5, skal det benyttes skjema eller løsning som er godkjent av registerføreren. Registerføreren kan godta at melding sendes inn på annen måte, dersom registerføreren finner det ubetenkelig.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Format på dokumentasjon som inngår i melding",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "Dokumentasjon som inngår i melding til Enhetsregisteret, jf. enhetsregisterloven § 5-4, skal ha det dataformat og filformat som registerføreren bestemmer.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Type dokumentasjon som inngår i melding",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "Registerføreren bestemmer hvilken type dokumentasjon som oppfyller dokumentasjonskravene i enhetsregisterloven § 5-4 første ledd bokstav a andre og tredje punktum og bokstav c og § 5-4 andre ledd første punktum. Dokumentasjonskravene som registerføreren stiller etter første punktum, må ha saklig sammenheng med kontrollen etter enhetsregisterloven § 6-1 første ledd og ikke være uforholdsmessig tyngende for innsenderen.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Krav til språk i melding",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "(1) Dokumentasjon av opplysninger som meldes til registrering skal være skrevet på norsk, samiske språk, kvensk, romani eller romanes. Hvis dokumentasjonen ikke er på norsk, skal det oppgis hvilke deler av dokumentasjonen som dokumenterer de opplysningene som meldes, og hvilket språk dokumentasjonen er skrevet på.(2) Hvis dokumentasjonen er skrevet på romani eller romanes, skal det legges ved en norsk oversettelse av de delene av dokumentasjonen som dokumenterer de opplysningene som meldes. Oversettelsen behøver ikke være bekreftet av translatør autorisert av norsk myndighet.(3) Registerføreren kan godta dokumenter på andre språk enn de som er nevnt i første ledd, dersom registerføreren finner det ubetenkelig. Registerføreren kan kreve fremlagt oversettelse bekreftet av translatør som er autorisert av norsk myndighet.(4) Vedtekter eller annet styringsreglement som sendes inn i forbindelse med nyregistrering, skal være skrevet på norsk, samiske språk, kvensk, romani eller romanes. Det kan vedlegges en versjon av dokumentet på et annet språk. Hvis den tospråklige versjonen er norsk sammen med samiske språk, kvensk, romani eller romanes, kan det angis at den versjonen som ikke er på norsk språk, har forrang ved motstrid. Hvis vedtektene er skrevet på romani eller romanes, skal det legges ved en norsk versjon. Oversettelsen behøver ikke være bekreftet av translatør autorisert av norsk myndighet.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Signering av melding",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "(1) Melding til Enhetsregisteret etter enhetsregisterloven § 5-1 og § 5-2 skal signeres av en fysisk eller juridisk person som har en av følgende roller i enheten:meldepliktig, jf. enhetsregisterloven § 5-3signaturberettigetbostyrer for konkursborepresentant for norskregistrert utenlandsk foretak, jf. merverdiavgiftsloven § 2-1 sjette ledd.(2) Melding som nevnt i første ledd kan også signeres av en fysisk person som styreleder eller daglig leder i enheten, eller bostyrer for konkursbo, har delegert retten til å signere meldingen til. Hvis enheten ikke har styreleder, daglig leder eller bostyrer som nevnt i første punktum, kan meldingen signeres av en fysisk person som forretningsfører eller kontaktperson som nevnt i enhetsregisterloven § 4-2 andre ledd har delegert retten til å signere meldingen til. For enkeltpersonforetak kan retten til å signere meldingen også delegeres av innehaver. Tildeling av rett til å signere meldingen som nevnt i første til tredje punktum skal skje ved bruk av løsning som er godkjent av registerføreren.(3) Melding etter enhetsregisterloven § 5-1 og § 5-2 som er sendt inn på papir til Enhetsregisteret, skal være signert av meldepliktig etter enhetsregisterloven § 5-3, signaturberettiget, bostyrer for konkursbo eller norsk representant for utenlandsk foretak.(4) Er enheten registrert i Foretaksregisteret, gjelder reglene om signering av melding i foretaksregisterforskriften § 2-5 og § 2-6 tredje og fjerde ledd.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Signering av felles melding til Enhetsregisteret og tilknyttet register",
+      "path": [
+        "Kapittel 6. Krav til meldinger mv."
+      ],
+      "text": "Dersom enheten sender inn en felles melding til Enhetsregisteret og minst ett tilknyttet register, vil kravet til signering etter § 6-5 være oppfylt hvis meldingen er signert i henhold til de krav som gjelder for tilknyttet register.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Stengning for mottak og registrering av meldinger ved større vedlikeholdsarbeider eller systemomlegginger",
+      "path": [
+        "Kapittel 7. Stengning for mottak og registrering av meldinger"
+      ],
+      "text": "(1) I forbindelse med større vedlikeholdsarbeider eller systemomlegginger kan registerføreren stenge for mottak og registrering av meldinger i den perioden som anses nødvendig av hensyn til det arbeidet som skal utføres. Papirdokumenter som har kommet inn under stengningen, vil anses mottatt på det tidspunkt stengningen opphører.(2) Registerføreren skal på egnet måte varsle brukerne om planlagt stengning i god tid før stengningen skjer.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Innhenting og registrering av opplysninger fra registre som ikke føres av offentlig myndighet",
+      "path": [
+        "Kapittel 8. Innhenting og registrering av opplysninger"
+      ],
+      "text": "Dersom det er ubetenkelig, kan registerføreren innhente og registrere opplysninger fra følgende registre:Posten Bring AS sitt Adresseregister, Gateregister og Postnummerregister.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Utlevering av opplysninger om antall ansatte",
+      "path": [
+        "Kapittel 9. Utlevering av opplysninger"
+      ],
+      "text": "Opplysninger om antall ansatte i en enhet skal avgis som det antallet ansatte som er registrert. Er det registrerte antallet ansatte fra én til fire, skal opplysningen avgis som at enheten har «1–4» ansatte.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Utstedelse, bekreftelse og autentisering av kopier",
+      "path": [
+        "Kapittel 9. Utlevering av opplysninger"
+      ],
+      "text": "Kopier som utstedes fra Enhetsregisteret skal bekreftes å være «rett kopi», med mindre rekvirenten gir avkall på bekreftelsen. Elektronisk kopi som utstedes fra Enhetsregisteret skal autentiseres ved bruk av tillitstjenester som nevnt i forordning (EU) nr. 910/2014, jf. lov 15. juni 2018 nr. 44 om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked § 1, for å sikre at kopien er fra Enhetsregisteret og at innholdet er en rett kopi av dokumentet i registeret eller samsvarer med opplysninger i registeret.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 10-1",
+      "heading": "Ileggelse av tvangsmulkt",
+      "path": [
+        "Kapittel 10. Tvangsmulkt"
+      ],
+      "text": "(1) Tvangsmulkt etter enhetsregisterloven § 11-1 kan ilegges enheten i inntil 26 uker etter følgende satser:kr 250 per uke de første åtte ukerkr 500 per uke de neste ti ukerkr 750 per uke de siste åtte uker.(2) Dersom særlige grunner tilsier det, kan tvangsmulkt etter første ledd ilegges den som er meldepliktig etter enhetsregisterloven § 5-3.(3) Tvangsmulkt ilegges for hele uker slik at del av en uke regnes som full uke.(4) Tvangsmulkt kan ikke ilegges uten at registerføreren har varslet enheten/den meldepliktige om manglende overholdelse av meldeplikten eller dokumentopplysningsplikten, og gitt denne en rimelig frist til å rette forholdet.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "Forbud mot å ilegge tvangsmulkt etter både enhetsregisterloven og foretaksregisterloven for samme forhold",
+      "path": [
+        "Kapittel 10. Tvangsmulkt"
+      ],
+      "text": "Det kan ikke ilegges tvangsmulkt etter både enhetsregisterloven og foretaksregisterloven for samme forhold.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "Klage på vedtak om tvangsmulkt",
+      "path": [
+        "Kapittel 10. Tvangsmulkt"
+      ],
+      "text": "Vedtak om tvangsmulkt kan påklages etter reglene i forvaltningsloven.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-4",
+      "provision_ref": "§ 10-4",
+      "heading": "Ettergivelse av ilagt tvangsmulkt",
+      "path": [
+        "Kapittel 10. Tvangsmulkt"
+      ],
+      "text": "(1) Registerføreren kan etter søknad helt eller delvis ettergi ilagt tvangsmulkt dersomdet blir gjort sannsynlig at meldeplikten eller dokumentopplysningsplikten ikke er overholdt som følge av forhold utenfor enhetens kontroll.særlige rimelighetsgrunner tilsier det.(2) Søknad om ettergivelse må fremsettes for Enhetsregisteret innen ett år etter at vedtaket om ileggelse av tvangsmulkt ble fattet.(3) Registerførerens vedtak i sak om ettergivelse av tvangsmulkt kan påklages etter reglene i forvaltningsloven.",
+      "xml_path": "article#kapittel-10-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 11. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves:forskrift 9. februar 1995 nr. 114 om registrering av juridiske personer m.m. i Enhetsregisteretforskrift 3. juli 2017 nr. 1107 om tvangsmulkt etter foretaksregisterloven og etter enhetsregisterloven.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    }
+  ]
+}

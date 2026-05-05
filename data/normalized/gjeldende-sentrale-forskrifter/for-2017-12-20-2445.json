@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2017-12-20-2445",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om rapportering av fangster fra turistfiskevirksomheter",
+  "short_title": "Forskrift om rapportering av fangster fra turistfiskevirksomheter",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2021-01-01",
+  "last_changed_by": "forskrift/2020-12-15-2791 fra 2021-01-01",
+  "lovdata_refid": "forskrift/2017-12-20-2445",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-20-2445",
+  "raw_xml_sha256": "d267fc3d5414f97702fd111d2fd36b284d47aa21726c952346829cf0686129cc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Arter som er omfattet av rapporteringsplikten",
+      "path": [],
+      "text": "Virksomheter som er registrert i Fiskeridirektoratets register over turistfiskevirksomheter skal rapportere til Fiskeridirektoratet om kundenes fangster av følgende arter:TorskKveiteSeiUerSteinbit.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fangstrapporteringens innhold",
+      "path": [],
+      "text": "Fangstene skal rapporteres som antall fisk per art, per fartøy og per fisketur fordelt på fangstdato. Rapporteringen skal inkludere fisk som er fanget men som ikke tas med til land. Også fisketurer uten fangst av de nevnte arter skal rapporteres (nullfangst).\nDet skal fremgå av rapporten hvilken virksomhet som rapporterer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Metode for fangstrapportering",
+      "path": [],
+      "text": "Fangstrapportene skal oversendes som maskinlesbare data. Fra og med 1. januar 2022 skal fangstrapportering skje ved bruk av digitale systemer som er godkjent av Fiskeridirektoratet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2018.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

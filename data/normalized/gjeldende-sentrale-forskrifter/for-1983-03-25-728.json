@@ -1,0 +1,36 @@
+{
+  "id": "FOR-1983-03-25-728",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om skattefrie fondsavsetninger. Delegering av myndighet.",
+  "short_title": "Forskrift om rentesats, fondsavsetninger",
+  "department": "Finansdepartementet",
+  "date_in_force": "1983-03-25",
+  "last_change_in_force": "1983-11-25",
+  "last_changed_by": "forskrift/1983-11-25-1700",
+  "lovdata_refid": "forskrift/1983-03-25-728",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1983-03-25-728",
+  "raw_xml_sha256": "c076090b06405a00c38382acefdee911ac155e7d080b60cf559a6226484bd09e",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Avsatte midler som er innsatt på særskilt konto i Norges Bank forrentes med 3 1/2 prosent pro anno.\nDet ytes likevel ikke renter for avsetninger dersom de disponeres slik at de skal skattlegges ved etterligning.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Når avsatte midler skal skattlegges ved etterligning, jfr. lovens §§ 6 og 10, skal skattyteren svare rente av skattebeløpet med 6 prosent pro anno, regnet fra utløpet av det kalenderår som følger etter avsetningsåret.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

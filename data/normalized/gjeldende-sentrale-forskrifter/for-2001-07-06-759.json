@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2001-07-06-759",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om oppbevaring ved domstolene av dokumenter i saker med anonym vitneførsel.",
+  "short_title": "Forskr. om fortrolige dokumenter ved domstolene",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2001-08-01",
+  "lovdata_refid": "forskrift/2001-07-06-759",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-07-06-759",
+  "raw_xml_sha256": "5a190babd0ab5446c66d0181434cc77076ee7b385dd55c4eeb92ba7bd5ad9864",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Dokumenter som skal oppbevares på en strengt betryggende måte etter straffeprosessloven § 21 a, § 40 sjette ledd eller § 52 tredje ledd, skal oppbevares etter reglene i forskriften her.\nReglene om oppbevaring gjelder tilsvarende for kopier av de dokumenter som skal oppbevares på en strengt betryggende måte.\nForskriften kommer til anvendelse når domstolene har ansvar for dokumentene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Oppbevaringsmåte",
+      "path": [],
+      "text": "Dokumentene skal oppbevares etter reglene i beskyttelsesinstruksen på samme måte som dokumenter med beskyttelsesgrad «STRENGT FORTROLIG».",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. august 2001.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

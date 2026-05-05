@@ -1,0 +1,219 @@
+{
+  "id": "LOV-2017-12-15-112",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om utprøving av selvkjørende kjøretøy",
+  "short_title": "Lov om utprøving av selvkjørende kjøretøy",
+  "department": "Samferdselsdepartementet",
+  "legal_area": "Transport og kommunikasjoner > Veitrafikk",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2018-07-20",
+  "last_changed_by": "lov/2018-06-15-38 fra 2018-07-20",
+  "lovdata_refid": "lov/2017-12-15-112",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2017-12-15-112",
+  "raw_xml_sha256": "426cae33042dc767a4205e0f69b7a80cb92d0e58a3dfa0a3d3ca85e6ccc67790",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Formålet med loven er å legge til rette for utprøving av selvkjørende kjøretøy innenfor rammer som særlig ivaretar trafikksikkerhets- og personvernhensyn. Utprøvingen skal skje gradvis, særlig ut fra teknologiens modenhet og med formål om å avdekke hvilke effekter selvkjørende kjøretøy kan ha for trafikksikkerhet, effektivitet i trafikkavviklingen, mobilitet og miljø.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Loven gjelder utprøving av selvkjørende kjøretøy uten ansvarlig fører og selvkjørende kjøretøy med ansvarlig fører som ikke befinner seg på tradisjonell førerplass. Loven gjelder også utprøving av selvkjørende kjøretøy hvor kjøretøyet har en ansvarlig fører på tradisjonell førerplass, men hvor det av andre grunner er nødvendig med unntak fra gjeldende regler som nevnt i § 3.\nMed selvkjørende kjøretøy menes et kjøretøy som er utrustet med et teknisk system som automatisk fører kjøretøyet og som har kontroll over kjøringen. Selvkjørende kjøretøy omfatter kjøretøy der en fører kan overlate kjøringen til det tekniske systemet som automatisk fører kjøretøyet, og kjøretøy som er konstruert for å kjøre uten fører.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forholdet til annen lovgivning",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Vegtrafikkloven med forskrifter, yrkestransportlova med forskrifter og personopplysningsloven med forskrifter gjelder under utprøving av selvkjørende kjøretøy, med mindre annet følger av denne loven eller forskrifter gitt med hjemmel i denne.\nDet kan i tillatelse etter § 4 gjøres unntak fra vegtrafikkloven med forskrifter og yrkestransportlova med forskrifter når dette er nødvendig for utprøving av selvkjørende kjøretøy.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Tillatelse",
+      "path": [
+        "Kapittel 2 Utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Fysisk eller juridisk person kan etter søknad få tillatelse til utprøving av selvkjørende kjøretøy. Slik tillatelse skal gjelde for en begrenset tidsperiode med mulighet for forlenging.\nDen som har fått tillatelsen, skal treffe alle tiltak som er nødvendige for å forebygge og hindre at kjøretøyet forårsaker skade på liv, helse, miljø eller eiendom.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Vilkår",
+      "path": [
+        "Kapittel 2 Utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Tillatelse til utprøving av selvkjørende kjøretøy kan gis på vilkår. Dersom særlige grunner gjør det nødvendig, kan vilkårene i tillatelsen endres, eller det kan settes nye vilkår etter at tillatelsen er gitt.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Ansvarlig for utprøvingen",
+      "path": [
+        "Kapittel 2 Utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Det skal i søknaden og tillatelsen utpekes en fysisk person som skal være ansvarlig for at utprøvingen gjennomføres etter gjeldende bestemmelser og i henhold til fastsatte vilkår, herunder må vedkommende særlig påse at sikkerheten er ivaretatt under kjøring hvor utprøvingen med selvkjørende kjøretøy skjer uten en ansvarlig fører.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Tilbakekall og midlertidig stans av tillatelser",
+      "path": [
+        "Kapittel 2 Utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "En tillatelse kan tilbakekalles eller stanses midlertidig dersom forutsetningene for tillatelsen ikke lenger er til stede. Det samme gjelder ved brudd på vilkår for tillatelsen og ved overtredelse av bestemmelser gitt i eller i medhold av denne loven. I særlige tilfeller kan tilbakekallelsen gis umiddelbar virkning.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Lagring og utlevering av informasjon",
+      "path": [
+        "Kapittel 3 Formidling av informasjon"
+      ],
+      "text": "Dersom det under utprøvingen oppstår situasjoner som gir grunn til å tro at det kan bli politietterforskning eller reises forsikringssak på grunn av kjøringen, kan opplysninger lagret under kjøringen, ikke slettes før forholdet er avklart.\nDen som har fått tillatelsen, plikter etter begjæring å gi selskapet der det er tegnet forsikring for det selvkjørende kjøretøyet, tilgang til lagrede opplysninger som er nødvendige i en forsikringssak reist på grunn av kjøring under utprøving. Den som har fått tillatelsen, plikter etter begjæring også å gi politi- og påtalemyndigheten tilgang til lagrede opplysninger som er nødvendige for etterforskning igangsatt på grunn av kjøring under utprøving.\nDen som har fått tillatelsen, skal gi informasjonen uten kostnad.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 3 Formidling av informasjon"
+      ],
+      "text": "Den som har fått tillatelsen, skal avgi rapport med en redegjørelse for utprøvingen til myndigheten som har gitt tillatelsen.\nDen som har fått tillatelsen skal, når en ulykke eller en trafikkfarlig situasjon inntreffer, snarest utrede ulykken eller hendelsen og gi rapport til den myndigheten som har gitt tillatelsen.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4 Behandling av personopplysninger i forbindelse med utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Den som ved utprøving av selvkjørende kjøretøy får tilgang til informasjon om noens personlige forhold, plikter å hindre at andre får adgang eller kjennskap til denne informasjonen, med mindre annet følger av lov eller regler gitt i medhold av lov.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Rett til å behandle personopplysninger",
+      "path": [
+        "Kapittel 4 Behandling av personopplysninger i forbindelse med utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Den som har fått tillatelsen, kan behandle personopplysninger når det er nødvendig av sikkerhetshensyn eller for forsknings- og utviklingsarbeid med sikte på å avdekke hvilke effekter selvkjørende kjøretøy kan ha for trafikksikkerhet, effektivitet i trafikkavviklingen, mobilitet og miljø.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Innhenting av personopplysninger",
+      "path": [
+        "Kapittel 4 Behandling av personopplysninger i forbindelse med utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Nødvendige personopplysninger fra områder utenfor kjøretøyet, og i kjøretøy hvor allmennheten har tilgang, kan innhentes og lagres uten samtykke fra dem som fremkommer i materialet, forutsatt at materialet slettes eller avidentifiseres innen syv dager med mindre annet følger av lov eller regler gitt i medhold av lov.\nLydopptak er ikke tillatt under utprøvingen, med mindre det er nødvendig for formålet og det på forhånd er gitt skriftlig samtykke fra alle som kan høres på lydopptaket.\nI kjøretøy hvor allmennheten ikke har tilgang, kan det innhentes personopplysninger som er nødvendige for formålet, dersom den eller de som befinner seg i kjøretøyet har samtykket skriftlig til dette.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Varslingsplikt",
+      "path": [
+        "Kapittel 4 Behandling av personopplysninger i forbindelse med utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Innhenting og lagring av informasjon som kan inneholde personopplysninger, skal varsles gjennom tydelig skilting eller på annen hensiktsmessig måte. Det skal også opplyses om hvem som innhenter informasjonen.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Behandling av personopplysninger",
+      "path": [
+        "Kapittel 4 Behandling av personopplysninger i forbindelse med utprøving av selvkjørende kjøretøy"
+      ],
+      "text": "Personopplysninger innhentet under utprøving av selvkjørende kjøretøy kan bare benyttes til forsknings- og utviklingsarbeid knyttet til utprøving av selvkjørende kjøretøy.\nSlike opplysninger kan bare utleveres i forbindelse med gjennomføring av tilsyn, forskning og utviklingsarbeid knyttet til utprøving av selvkjørende kjøretøy eller der plikt til slik utlevering følger av lov eller regler gitt i medhold av lov.\nSlike opplysninger skal slettes når de ikke lenger er nødvendige for formålet med behandlingen av opplysningene.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 5 Tilsyn"
+      ],
+      "text": "Tilsynsmyndigheten skal kontrollere at utprøving gjennomføres etter gjeldende regelverk og tillatelsen.\nTilsynsmyndigheten kan vedta påbud om tiltak, herunder retting, som er nødvendige for å sikre at utprøvingen gjennomføres etter gjeldende regelverk og tillatelsen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Gjennomføring av tilsyn",
+      "path": [
+        "Kapittel 5 Tilsyn"
+      ],
+      "text": "Den som har fått tillatelsen til utprøving, plikter å gi tilsynsmyndigheten tilgang til områder, lokaler og kjøretøy tilknyttet utprøvingen. Vedkommende plikter også å gi tilgang til opplysninger som er nødvendige for å gjennomføre tilsynet, herunder personopplysninger innhentet under utprøving.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 17",
+      "heading": "Ansvarlig fører",
+      "path": [
+        "Kapittel 6 Øvrige bestemmelser"
+      ],
+      "text": "Person som befinner seg på tradisjonell førerplass, anses som kjøretøyets ansvarlige fører med mindre det er gjort unntak i tillatelsen. Person som ikke befinner seg på tradisjonell førerplass, anses som ansvarlig fører dersom det følger av tillatelsen.\nHvis en person påvirker kjøringen når kjøretøyet er selvkjørende, skal personen anses som ansvarlig fører.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 18",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 6 Øvrige bestemmelser"
+      ],
+      "text": "Utprøving av selvkjørende kjøretøy som faller innenfor lovens virkeområde, uten at det er gitt tillatelse, straffes på samme måte som etter vegtrafikkloven § 31.\nDen som forsettlig eller uaktsomt overtrer vilkår eller regler gitt i eller i medhold av denne loven, straffes med bøter eller fengsel i inntil ett år, med mindre forholdet rammes av en strengere straffebestemmelse.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 19",
+      "heading": "Forskriftsmyndighet",
+      "path": [
+        "Kapittel 6 Øvrige bestemmelser"
+      ],
+      "text": "Departementet kan i forskrift gi nærmere bestemmelser om utprøving av selvkjørende kjøretøy, herunder om:tillatelse til utprøving, herunder hvem som kan gi slik tillatelse,vilkår for utprøving,midlertidig stans og tilbakekall av tillatelse,krav til den som skal være ansvarlig for utprøvingen,behandling av personopplysninger,tilsyn, herunder om tilsynsmyndighet oggebyr for behandling av søknad om tillatelse og tilsyn.\nDepartementet kan videre gi forskrift om lovens anvendelse på Svalbard, herunder fastsette særlige regler av hensyn til stedlige forhold.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 20",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6 Øvrige bestemmelser"
+      ],
+      "text": "Loven gjelder fra den tid1 Kongen bestemmer.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    }
+  ]
+}

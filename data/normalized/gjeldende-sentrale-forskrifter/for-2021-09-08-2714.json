@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2021-09-08-2714",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av forordning (EU) 2019/773 om tekniske spesifikasjoner for samtrafikk for drift og trafikkstyring i det europeiske jernbanesystemet (TSI OPE-forskriften)",
+  "short_title": "TSI OPE-forskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-01",
+  "last_change_in_force": "2024-06-13",
+  "last_changed_by": "forskrift/2024-06-13-979",
+  "lovdata_refid": "forskrift/2021-09-08-2714",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-08-2714",
+  "raw_xml_sha256": "814b2774ce02a86505e609d9a8a872841532b32f64dd7576b59252bacd68ddea",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 37pd (forordning (EU) 2019/773), som endret av forordning (EU) 2020/778, forordning (EU) 2021/2238 og forordning (EU) 2023/1693, om tekniske spesifikasjoner for samtrafikk for drift og trafikkstyring i det europeiske jernbanesystemet og om opphevelse av forordning (EU) 2012/757, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Statens jernbanetilsyn utøver myndighet etter denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft samtidig som beslutningen i EØS-komiteen som tar forordning (EU) 2019/773 inn i EØS-avtalen trer i kraft.1 Samtidig oppheves forskrift 19. juni 2012 nr. 564 om gjennomføring av TSI-drift og trafikkstyring på det nasjonale jernbanenettet og kapittel 3 i forskrift 12. juni 2019 nr. 721 om helsekrav for operativt personell på jernbane og signaler på tog.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

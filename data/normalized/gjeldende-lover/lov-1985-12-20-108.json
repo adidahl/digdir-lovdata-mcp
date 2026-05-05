@@ -1,0 +1,118 @@
+{
+  "id": "LOV-1985-12-20-108",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om folkebibliotek (folkebibliotekloven)",
+  "short_title": "Folkebibliotekloven",
+  "department": "Kultur- og likestillingsdepartementet",
+  "legal_area": "Kultur, idrett og underholdning > Bibliotek",
+  "date_in_force": "1986-01-01",
+  "last_change_in_force": "2014-01-01",
+  "last_changed_by": "lov/2013-06-21-95 fra 2014-01-01",
+  "lovdata_refid": "lov/1985-12-20-108",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1985-12-20-108",
+  "raw_xml_sha256": "4d6afd4281cf87efb9984146513ccec98d87e9ebdd427da781df01060501f928",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Målsetting",
+      "path": [
+        "Kapittel I. Folkebibliotekenes formål og virksomhet."
+      ],
+      "text": "Folkebibliotekene skal ha til oppgave å fremme opplysning, utdanning og annen kulturell virksomhet, gjennom aktiv formidling og ved å stille bøker og andre medier gratis til disposisjon for alle som bor i landet.\nFolkebibliotekene skal være en uavhengig møteplass og arena for offentlig samtale og debatt.\nDet enkelte bibliotek skal i sine tilbud til barn og voksne legge vekt på kvalitet, allsidighet og aktualitet.\nBibliotekenes innhold og tjenester skal gjøres kjent.\nFolkebibliotekene er ledd i et nasjonalt biblioteksystem.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Lovens virkeområde",
+      "path": [
+        "Kapittel I. Folkebibliotekenes formål og virksomhet."
+      ],
+      "text": "Loven gjelder for den offentlige folkebibliotekvirksomheten, herunder de lokale folkebibliotekene som kommunen har ansvaret for (lovens kap. II), fylkeskommunens bibliotekoppgaver (lovens kap. III), og særlige bibliotekformål som staten har ansvaret for (lovens kap. IV).\nFolkebibliotekvirksomheten omfatter bibliotektjenester for alle som har spesielle vansker med å bruke biblioteket.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Lånesamarbeid, registrering mv.",
+      "path": [
+        "Kapittel I. Folkebibliotekenes formål og virksomhet."
+      ],
+      "text": "Bibliotekene skal følge felles regler om lånesamarbeid og registrering, og for innlevering av statistikk. Departementet kan gi nærmere forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Generelt",
+      "path": [
+        "Kapittel II. Kommunale folkebibliotek."
+      ],
+      "text": "Til formål nevnt i kapittel I skal alle kommuner ha et folkebibliotek.\nFolkebiblioteket kan drives av kommunen alene, eller i helt eller delvis driftsfellesskap med annen kommune, fylkeskommunen eller statlig institusjon.\nKommunen fastsetter reglement for folkebiblioteket.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Kompetanse",
+      "path": [
+        "Kapittel II. Kommunale folkebibliotek."
+      ],
+      "text": "Alle kommuner skal ha fagutdannet biblioteksjef.\nDepartementet kan dispensere fra bestemmelsen i særskilte tilfeller og gir nærmere forskrifter om kvalifikasjonskrav.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Generelt",
+      "path": [
+        "Kapittel III. Fylkeskommunens bibliotekoppgaver."
+      ],
+      "text": "Fylkeskommunen skal ivareta regionale bibliotekoppgaver og regional bibliotekutvikling, herunder gi råd til lokale myndigheter, yte bibliotekfaglig veiledning og assistanse, og arrangere møter og kurs om bibliotekspørsmål.\nFylkeskommunen kan opprette avtaler om felles bibliotekdrift og lånesamarbeid med en eller flere kommuner.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Kompetanse",
+      "path": [
+        "Kapittel III. Fylkeskommunens bibliotekoppgaver."
+      ],
+      "text": "Fylkeskommunen skal ha bibliotekfaglig kompetanse på ledernivå til å gjennomføre fylkeskommunale bibliotekoppgaver. Departementet gir nærmere forskrifter om kvalifikasjonskrav.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Statlige bibliotekoppgaver",
+      "path": [
+        "Kapittel IV. Statlige oppgaver."
+      ],
+      "text": "Departementet, eller den departementet bestemmer, ivaretar statlige bibliotekoppgaver etter denne lov.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Særlige bibliotekformål",
+      "path": [
+        "Kapittel IV. Statlige oppgaver."
+      ],
+      "text": "Statlige oppgaver omfatter bibliotekformål som ikke naturlig hører inn under den enkelte kommunes ansvarsområde, eller som er av særlig betydning for opprettholdelse av et nasjonalt biblioteksystem.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 10",
+      "path": [
+        "Kapittel V. Lovens ikrafttreden. Endringer i andre lover."
+      ],
+      "text": "Denne lov trer i kraft fra den tid Kongen bestemmer.1 Fra samme dag endres følgende lover slik: – – –",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    }
+  ]
+}

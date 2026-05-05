@@ -1,0 +1,63 @@
+{
+  "id": "FOR-2019-08-13-1061",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om stønad til dekning av utgifter til jordmorhjelp",
+  "short_title": "Forskrift om utgifter til jordmorhjelp",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2019-08-13",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-06-23-1292 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2019-08-13-1061",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-08-13-1061",
+  "raw_xml_sha256": "be7501c6878e50510c33b4de59c062b88eb9e6166dd216590dd77cdc2da9f499",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det ytes stønad stønad til dekning av utgifter til jordmorhjelp ved svangerskapskonsultasjoner, veiledning i familieplanlegging og ved fødsel utenfor institusjon.\nDet er et vilkår for rett til stønad ved svangerskapskonsultasjoner og veiledning i familieplanlegging at jordmor har avtale om driftstilskudd med kommunen eller er ansatt i kommunen. Driftsavtalen må omfatte minst 1/5 av full arbeidstid.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Det er et vilkår for rett til stønad etter denne forskriften at den som utfører svangerskapskonsultasjoner og yter bistand ved fødsel utenfor institusjon, har autorisasjon som jordmor. Vilkåret om norsk autorisasjon gjelder ikke for jordmødre fra andre EU/EØS-stater som yter midlertidige tjenester i Norge, jf. forskrift 8. oktober 2008 nr. 1130 om autorisasjon, lisens og spesialistgodkjenning for helsepersonell med yrkeskvalifikasjoner fra andre EØS-land eller fra Sveits.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Stønad ved svangerskapskonsultasjoner ytes etter takstene i kapittel II. Stønad ved fødsel utenfor institusjon ytes etter takstene i kapittel III. Det er ikke anledning til å kreve honorar av medlemmet ut over de fastsatte takstene.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Hvis medlemmet på grunn av sin helsetilstand ikke kan møte fram på behandlingsstedet til svangerskapskonsultasjon, dekker kommunen reiseutgiftene for jordmor etter lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. § 11-1 fjerde og femte ledd.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kapittel I. Regler"
+      ],
+      "text": "Når jordmor er ansatt i kommunen, utbetales stønaden direkte til kommunen.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    }
+  ]
+}

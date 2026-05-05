@@ -1,0 +1,67 @@
+{
+  "id": "FOR-1984-10-24-1879",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføringen av bestemmelsene om sammenslåing for å oppnå minsteareal for hjorteviltjakt i viltlovens § 38",
+  "short_title": "Forskrift om sammenslåing til minsteareal",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1984-10-24",
+  "last_change_in_force": "2025-06-18",
+  "last_changed_by": "forskrift/2025-06-18-1070",
+  "lovdata_refid": "forskrift/1984-10-24-1879",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1984-10-24-1879",
+  "raw_xml_sha256": "ca5da029bd1e6b1b6fbf9f01124fde6acb301ea4b9b8264e37ece51797f67292",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Dersom kommunen finner at eiendommer som hver for seg ikke når opp i minsteareal for felling av hjortevilt bør slås sammen for å oppnå fellingstillatelse, og frivillig ordning ikke er oppnådd, skal hver enkelt grunneier ved rekommandert brev, og ved kunngjøring i lokal avis, gis en frist på 3 uker for å avgi uttalelse om saken.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Kommunens varsel og kunngjøring skal inneholde opplysning om hvilke eiendommer sammenslåingen omfatter med gårds- og bruksnummer og eiendommens størrelse og tellende areal.\nVarsel og kunngjøring skal videre uttrykkelig opplyse at kommunen kan vedta å oversende saken til Landbruksdirektoratet med forslag om å treffe vedtak om tvungen sammenslåing.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Dersom Landbruksdirektoratet fatter vedtak om tvungen sammenslåing returneres saken til kommunen som straks og med 3 ukers varsel innkaller de jaktberettigede grunneiere til et møte for å velge styre og fastsette forvaltningsregler.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forvaltningsreglene bør gi bestemmelser om fordeling av kvote, omkostninger og utbytte av jakta, styre- og årsmøtevedtak og regler for jaktutøvelsen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Dersom det ikke oppnås enighet om forvaltningsregler treffer kommunen avgjørelse.\nKommunens avgjørelse skal forelegges samtlige jaktberettigede grunneiere med opplysning om adgang til å påklage vedtaket.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Når eiendommene ligger i forskjellige kommuner eller fylker skal en sammenslåing for å oppnå minsteareal ledes av den kommune som har størst tellende areal innen sammenslåingen.\nFylkeskommunen trer i stedet for denne kommune når det gjelder forslag om tvungen sammenslåing og fastsettelse av forvaltningsregler.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Disse regler trer i kraft straks.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

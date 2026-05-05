@@ -1,0 +1,103 @@
+{
+  "id": "FOR-2024-06-05-940",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Digital gravferdsmelding",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2024-07-01",
+  "lovdata_refid": "forskrift/2024-06-05-940",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-06-05-940",
+  "raw_xml_sha256": "25c32d285ce811f8f8a7078a4bf6cbd0f0eba725a9b8e61c673e8199530695ee",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal legge til rette for at etterlattes oppgaver og valg om gravferden til en avdød kan løses digitalt og på en sikker og effektiv måte.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder tjenesten Digital gravferdsmelding og bruken av den.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gravferder hvor Digital gravferdsmelding kan benyttes",
+      "path": [],
+      "text": "Digital gravferdsmelding kan benyttes i kommuner hvor gravplassmyndigheten benytter Digital gravferdsmelding.\nDigital gravferdsmelding kan benyttes gjennom personlig innlogging av avdødes ektefelle, barn og foreldre. Disse kan også registrere sine valg gjennom gravplassmyndighet eller gravferdsbyrå. Andre som ønsker å sørge for gravferden, registrerer sine valg gjennom gravplassmyndighet eller gravferdsbyrå.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Brukervilkår",
+      "path": [],
+      "text": "Statsforvalteren kan stille vilkår for at gravplassmyndigheter, krematorier og gravferdsbyråer kan knytte seg til Digital gravferdsmelding og utveksle opplysninger, herunder krav til taushetsplikt og til funksjoner i fagsystemer og deres kommunikasjon med nasjonal fellesløsning for sikker tilgangsstyring for virksomheter som utveksler data seg imellom. Statsforvalteren kan stille vilkår om at gravplassmyndigheter, krematorier og gravferdsbyråer tar opp bestemte spørsmål i sin dialog med etterlatte. Statsforvalteren kan kreve kontaktinformasjon fra gravplassmyndigheter eller stille vilkår om at kontaktopplysninger i Enhetsregisteret er oppdatert.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Behandlingsansvar",
+      "path": [],
+      "text": "Statsforvalteren har behandlingsansvar for personopplysninger som behandles i forbindelse med utvikling, administrasjon og drift av den tekniske løsningen Digital gravferdsmelding. Gravplassmyndigheter, krematorier og gravferdsbyråer er behandlingsansvarlige for egen behandling av personopplysninger i samsvar med reglene i personvernforordningen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Gravplassmyndighetens ansvar for at gravlegging skjer",
+      "path": [],
+      "text": "Gravplassmyndigheten skal ha skriftlige rutiner som sikrer at gravferdsmeldinger blir mottatt og fulgt opp.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Melding til andre nære etterlatte",
+      "path": [],
+      "text": "Ektefelle, barn og foreldre til avdøde mottar melding når det registreres i Digital gravferdsmelding at en person har påtatt seg å sørge for gravferden. Meldingen kan inneholde navnet til den som sørger for gravferden og dennes valg for gravferden tatt i Digital gravferdsmelding.\nDersom en annen får ansvar for å sørge for gravferden, mottar den som påtok seg å sørge for gravferden i Digital gravferdsmelding melding. Meldingen kan inneholde navnet til den som skal sørge for gravferden.\nMelding etter første og andre ledd kan unnlates av særlige grunner.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Deling av opplysninger uten hinder av taushetsplikt",
+      "path": [],
+      "text": "Av private virksomheter er det kun gravferdsbyråer og godkjente krematorier som er omfattet av delingsadgangen etter gravplassloven § 26 andre ledd første punktum.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Statistikk",
+      "path": [],
+      "text": "Statsforvalteren skal skaffe til veie anonymiserte opplysninger om bruken av Digital gravferdsmelding som departementet ber om.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Departementet kan ved utvikling og testing av Digital gravferdsmelding dispensere fra bestemmelser i forskriften for en avgrenset periode.\nDepartementet kan etter søknad fra gravplassmyndighet fravike bestemmelser i forskriften.\nDepartementet kan etter søknad fra statsforvalteren fravike bestemmelser i forskriften.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. juli 2024.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

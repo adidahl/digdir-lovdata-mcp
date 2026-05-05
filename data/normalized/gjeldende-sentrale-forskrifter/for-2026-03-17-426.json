@@ -1,0 +1,91 @@
+{
+  "id": "FOR-2026-03-17-426",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og overføring av molekylære analytiske data ved utbrudd knyttet til næringsmidler",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2026-08-23",
+  "lovdata_refid": "forskrift/2026-03-17-426",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-17-426",
+  "raw_xml_sha256": "b1f8c55f908443684fc76d1c63d6977cab8c45253c7cd6810d657d5e68ae919f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gjennomføring av forordning (EU) 2025/179",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kapittel I del. 7.1 nr. 8aa (forordning (EU) 2025/179) gjelder som forskrift med de tilpasninger som følger av vedlegg I, protokoll 1 til avtalen og avtalen ellers.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak for å oppnå etterlevelse av bestemmelser gitt i denne forskriften, jf. matloven § 23. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 26.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen, jf. matloven § 32.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 23. august 2026.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1",
+      "heading": "Innsamling av og helgenomsekvensering (WGS) av isolater av patogener som overføres gjennom næringsmidler som forbindes med utbrudd av næringsmiddeloverført sykdom",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2025/179 om innsamling og overføring av molekylære analysedata i forbindelse med epidemiologiske undersøkelser av utbrudd av næringsmiddeloverført sykdom i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2025/179av 31. januar 2025om innsamling og overføring av molekylære analytiske data innenfor rammen av epidemiologisk undersøkelser av utbrudd av næringsmidler i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF"
+      ],
+      "text": "1. Vedkommende myndighet som er ansvarlig for undersøkelsen av utbrudd av næringsmiddeloverført sykdom i henhold til artikkel 8 i direktiv 2003/99/EF, skal uten unødig opphold samle inn isolater av Salmonella enterica, Listeria monocytogenes, Escherichia coli, Campylobacter jejuni og Campylobacter coli i de tilfeller disse patogenene er forbundet med eller mistenkes å være forbundet med et utbrudd av næringsmiddeloverført sykdom, på grunnlag av tilgjengelige analytiske eller epidemiologiske opplysninger, i vedkommende myndighets medlemsstat eller i en annen medlemsstat, og de stammer fra prøver tatt fra de mistenkte næringsmidlene, de mistenkte dyrene, det mistenkte fôret eller det tilknyttede miljøet under undersøkelser av utbrudd av næringsmiddeloverført sykdom.2. Vedkommende myndighet skal foreta helgenomsekvensering på minst ett isolat av hver serovar, biotype eller molekyltype av de innsamlede isolatene nevnt i nr. 1 i denne artikkelen i et offisielt laboratorium som nevnt i artikkel 37 i europaparlaments- og rådsforordning (EU) 2017/6254, og som er akkreditert for denne metoden i henhold til ISO 17025.3. Driftsansvarlige for næringsmiddel- og fôrforetak skal, på anmodning fra vedkommende myndighet, oversende myndigheten isolatene av patogenene nevnt i nr. 1 og de tilknyttede resultatene fra helgenomsekvenseringen innenfor rammen av deres egne undersøkelser, dersom de er tilgjengelige, når de er knyttet til eller mistenkes for å være knyttet til et utbrudd, sammen med de tilknyttede dataene nevnt i artikkel 2 nr. 2).",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2",
+      "heading": "Formidling av resultatene fra helgenomsekvenseringen",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2025/179 om innsamling og overføring av molekylære analysedata i forbindelse med epidemiologiske undersøkelser av utbrudd av næringsmiddeloverført sykdom i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2025/179av 31. januar 2025om innsamling og overføring av molekylære analytiske data innenfor rammen av epidemiologisk undersøkelser av utbrudd av næringsmidler i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF"
+      ],
+      "text": "1. Vedkommende myndighet nevnt i artikkel 1 skal uten unødig opphold formidle til myndigheten resultatene av helgenomsekvenseringen som er foretatt på isolatene av Salmonella enterica, Listeria monocytogenes, Escherichia coli, Campylobacter jejuni og Campylobacter coli som nevnt i artikkel 1 nr. 1.2. Dataene nevnt i nr. 1 skal ledsages av følgende tilknyttede data:Et entydig referansenummer for genomsekvensen av isolatet som sekvensen er generert fra.Et entydig referansenummer for prøven som patogenet er isolert fra.Arten patogen.Beskrivelsen av næringsmiddelet, dyrearten, fôret eller miljøet isolatet stammer fra.Datoen for prøvetaking.Medlemsstaten der prøvetakingen er foretatt.Henvisningen til meldingen som er knyttet til isolatet, dersom isolatet er meldt i hurtigvarslingssystemet for næringsmidler og fôr (RASFF).Et entydig referansenummer for det utbruddet av næringsmiddeloverført sykdom som undersøkes på nasjonalt plan.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3",
+      "heading": "Ikrafttredelse og anvendelsesdato",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2025/179 om innsamling og overføring av molekylære analysedata i forbindelse med epidemiologiske undersøkelser av utbrudd av næringsmiddeloverført sykdom i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2025/179av 31. januar 2025om innsamling og overføring av molekylære analytiske data innenfor rammen av epidemiologisk undersøkelser av utbrudd av næringsmidler i samsvar med europaparlaments- og rådsdirektiv 2003/99/EF"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 23. august 2026.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-3"
+    }
+  ]
+}

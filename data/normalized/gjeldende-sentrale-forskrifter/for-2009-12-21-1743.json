@@ -1,0 +1,378 @@
+{
+  "id": "FOR-2009-12-21-1743",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om posisjonsrapportering og elektronisk rapportering for norske fiske- og fangstfartøy",
+  "short_title": "ERS-forskriften",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2009-12-21",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-01-2374 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2009-12-21-1743",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-12-21-1743",
+  "raw_xml_sha256": "894b3188add26f7433fc48f3545614f749a4dc91fcc43ad7bd4011c3c6c6058f",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å sikre en effektiv regulering av fiskeriene. Forskriften skal videre legge til rette for en effektiv og troverdig kontroll med at de som havressursloven gjelder for etterlever reglene som er fastsatt i eller i medhold av loven og annen lovgivning om deltakelse, leting etter og uttak, omsetning, produksjon, innførsel og utførsel av viltlevende marine ressurser. Forskriften skal også sikre at Norge som flaggstat kan kontrollere og overvåke den høstingsaktivitet norske fiske- og fangstfartøy utfører. Forskriften skal også sikre datagrunnlag for statistikk- og forskningsformål.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder norske fiske- og fangstfartøy opplistet i §§ 8, 10 og 18. Når et fiske- og fangstfartøy er pålagt rapportering etter nevnte bestemmelser gjelder kravet til rapportering uavhengig av hvor fartøyene befinner seg, herunder i farvann under norsk jurisdiksjon, i farvann utenfor noen stats jurisdiksjon eller i farvann under andre staters jurisdiksjon.\n§ 26 gjelder for enhver som tar imot fisk som landes i Norge.\n§ 5 tredje ledd gjelder for leverandører av elektroniske rapporteringssystemer.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:fiske- og fangstfartøy (fiskeflåten): ethvert fartøy som er utstyrt for eller driver høstingsaktivitet i ervervsøyemed, og norske fartøy som bistår norske og utenlandske fiske- og fangstfartøy, herunder transportfartøy som mottar fangst, lete- og forsøksfartøy og fartøy som utfører enhver form for bistand og forsyning.høstingsaktivitet: all høsting og annen utnyttelse av viltlevende marine ressurser, herunder annen aktivitet som har sammenheng med høsting og annen utnyttelse av fangst, så som leting etter, omlasting, levering, landing, mottak, transport, oppbevaring, produksjon og omsetning av viltlevende marine ressurser. Gjenfangst og utfisking regnes også som høstingsaktivitet etter denne forskriften. Med gjenfangst og utfisking forstås fiske og fangst av ikke-viltlevende marine ressurser som har sluppet løs, samt fiske og fangst av uønskede marine ressurser.omlasting: enhver overføring av fangst på havet fra et fartøy til et annet fartøy, herunder også føring til og fra lås, steng, samleteiner mv.fisk: viltlevende marine ressurser.ansvarshavende om bord: skipper (skipsfører) om bord på fartøyet som leder av besetningen og med ansvaret for driften av fartøyet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til posisjonsrapporteringsutstyr",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Norske fiske- og fangstfartøy som omfattes av § 8 skal ha posisjonsrapporteringsutstyr om bord som tilfredsstiller kravene i forskrift 24. mars 2010 nr. 454 om krav til utstyr og installasjon av posisjonsrapporteringsutstyr.\nTil enhver tid skal det benyttes kommunikasjonsutstyr som har dekning i de områdene fisket utøves i. Dersom et fiskefartøy under 15 meter største lengde kun benyttes innenfor 12 nautiske mil av grunnlinjen er det ikke krav om å ha abonnement for kommunikasjon via satellitt. Unntaket gjelder ikke for fartøy på eller over 12 meter største lengde som driver fiske og fangst utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.\nAnsvarshavende om bord eller fartøyets eier skal oppgi fartøyets telefonnummer og e-postadresse til Fiskeridirektoratet og sørge for at opplysningene til enhver tid er oppdaterte. Opplysningene skal oppgis og oppdateres i det elektroniske rapporteringssystemet (ERS) eller ved å kontakte norsk FMC.\nDet er forbudt å slå av, skade, ødelegge eller på annen måte manipulere posisjonsrapporteringsutstyret.\nAnsvarshavende om bord på fartøyet skal påse at dataene ikke blir endret, at antenner som er tilkoblet posisjonsrapporteringsutstyret ikke blokkeres, at strømforsyningen til posisjonsrapporteringsutstyret ikke brytes og at posisjonsrapporteringsutstyret ikke fjernes fra fartøyet.\nStrømforsyningen til posisjonsrapporteringsutstyret kan likevel brytes dersom fartøyet har fått godkjennelse fra Fiskeridirektoratet. En slik godkjennelse kan skje i form av godkjent ONF-melding i systemet for elektronisk rapportering eller ved godkjent skjema på Fiskeridirektoratets nettsider. Godkjenning gjelder bare frem til fastsatt dato eller ved at fartøyet tas i bruk. Ved behov for forlengelse av fastsatt dato må ny ONF-melding eller nytt skjema sendes. Godkjenningen forutsetter at fartøyet ligger i opplag, eller i ro i sjøen uten å endre posisjon. Hver gang etter bruk av fartøyet kreves ny godkjenning.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til elektroniske rapporteringssystemer og sending av meldinger",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Norske fiske- og fangstfartøy skal sende meldinger angitt i denne forskrift elektronisk til Fiskeridirektoratet. Det skal kun benyttes rapporteringssystem som til enhver tid oppfyller Fiskeridirektoratets gjeldende krav til generering, autentisering og sikring av elektroniske meldinger og som er bekreftet tillatt av Fiskeridirektoratet. Ansvarshavende om bord er ansvarlig for at innholdet i meldingene er korrekt og at fartøyet oppfyller rapporteringskravene etter denne forskrift.\nTil enhver tid skal det benyttes kommunikasjonsutstyr som har dekning i de områdene fisket utøves i. Dersom et fiskefartøy under 15 meter største lengde kun benyttes innenfor 12 nautiske mil av grunnlinjen er det ikke krav om å ha abonnement for kommunikasjon via satellitt. Unntaket gjelder ikke for fartøy på eller over 12 meter største lengde som driver fiske og fangst utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.\nLeverandører av elektroniske rapporteringssystemer skal tilby brukerstøtte i normal arbeidstid.\nAnsvarshavende om bord eller fartøyets eier skal oppgi fartøyets telefonnummer og e-postadresse til Fiskeridirektoratet og sørge for at opplysningene til enhver tid er oppdaterte. Opplysningene skal oppgis og oppdateres i det elektroniske rapporteringssystemet (ERS) eller ved å kontakte norsk FMC.\nAnsvarshavende om bord på fartøy skal forvisse seg om at rapporteringssystem installert om bord fungerer tilfredsstillende. Etter installering og etter at vesentlige endringer av systemet er gjennomført skal ansvarshavende på fartøyet sende minst to elektroniske testmeldinger.\nTestmeldingen skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaring Meldingstype TM P AUD, testmelding Meldingsnummer RN P Serienummer for meldingen inneværende år Sekvensnummer SQ V Serienummer for meldingen inneværende år mellom et fartøy og endelig mottaker Radiokallesignal RC P Fartøyets radiokallesignal Fartøynavn NA V Fartøyets navn Registreringsmerke XR V Fartøyets registreringsnummer Skipper MA P Skippers navn Meldingsdato DA P Dato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD) Meldingstid TI P Tidspunkt når meldingen er sendt i UTC (TTMM)FritekstMSV0-255 karakterer lang tekst. Denne teksten vurderes kun etter avtale med Fiskeridirektoratet.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Returmelding ved elektronisk rapportering",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet bekrefter mottak av melding angitt i denne forskrift automatisk med en returmelding med meldingsidentifikasjon RET (Return). Dersom meldingen er mottatt uten vesentlig feil vil returmeldingen angi meldingsstatus ACK (Acknowledged). Dersom meldingen mottas med vesentlig feil, vil returmeldingen angi meldingsstatus NAK (Not acknowledged).\nMelding sendt i henhold til denne forskrift anses som ikke mottatt av Fiskeridirektoratet dersom avsender ikke mottar returmelding eller returmeldingen viser meldingsstatus NAK.\nDersom returmeldingen angir meldingsstatus ACK innebærer dette en bekreftelse på at meldingen er mottatt av Fiskeridirektoratet, og at format og obligatoriske felt i meldingen er kontrollert og godkjent. Meldingsstatus ACK betyr ikke at meldingen for øvrig er kontrollert i forhold til om den er i samsvar med regelverket og de faktiske forhold.\nReturmeldingen skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaring Meldingstype TM P RET, Returmelding fra Fiskeridirektoratet Meldingsnummer RN P Nummeret på den kvitterte meldingen Avsender FR P NOR for norsk kvotekontroll Mottaker RC P Fartøyets radiokallesignal Meldingsstatus RS P ACK for godkjent / NAK for ikke godkjent Returnert feilmelding RE P Feilmeldingsnummer: Se vedlegg 2 Meldingsdato DA P Dato RET-meldingen er sendt i UTC (ÅÅÅÅMMDD) Meldingstid TI P Tidspunkt når RET-meldingen er sendt i UTC (TTMM) Meldingens versjonsnummer MV V Heltall som viser versjonsnummer hentet fra kvittert melding dersom denne inneholder et versjonsnummer. Sekvensnummer SQ V Sekvensnummer hentet fra kvittert melding dersom denne inneholder et sekvensnummer",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Omkostninger",
+      "path": [
+        "Kapittel I. Generelle bestemmelser"
+      ],
+      "text": "Omkostninger i forbindelse med anskaffelse, installasjon og bruk av utstyr som nevnt i denne forskrift skal dekkes av fartøyets eier. Fiskeridirektoratet kan i særlige tilfeller dekke utgifter til bruk av slikt utstyr.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Krav om posisjonsrapportering",
+      "path": [
+        "Kapittel II. Posisjonsrapportering"
+      ],
+      "text": "Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:på eller over 10 meter største lengde, uavhengig av aktivitet og hvor de befinner seg,fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av aktivitet og hvor de befinner seg,uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,uavhengig av størrelse, som er gitt dispensasjon etter forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd, § 5a første ledd, eller § 8 fjerde ledd,uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,uavhengig av størrelse, som har tråltillatelse gitt i medhold av forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften),uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,uavhengig av størrelse, som driver fangst av kongekrabbe,uavhengig av størrelse, som driver fangst av skjell,uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,uavhengig av størrelse, som deltar i samfiske,uavhengig av størrelse, som deltar i kvotesamarbeid,uavhengig av størrelse, som driver fiske etter leppefisk.\nFartøy som nevnt i første ledd skal minst hvert 10. minutt automatisk sende melding om fartøyets posisjon til Fiskeridirektoratet. Krav om å sende melding om fartøyets posisjon gjelder hver dag hele kalenderåret for fartøy som omfattes av første ledd.\nFiskeridirektoratet kan stille krav om posisjonsrapportering utover de tilfeller som er nevnt i første ledd når dette er nødvendig for å kunne føre kontroll med at vilkår i dispensasjonsadganger eller særtillatelser etterleves. Fiskeridirektoratet kan innhente melding om posisjonen for det enkelte fartøy med høyere frekvens enn angitt i denne bestemmelsen.\nMelding om posisjon skal inneholde følgende opplysninger:Entydig identifikasjon av fartøyet,fartøyets geografiske posisjon i rapporteringsøyeblikket med en posisjonsfeil på under 500 meter med et konfidensintervall på 99 %,dato og tidspunkt for fartøyets posisjon,fart og kurs i rapporteringsøyeblikket ogidentifikasjon av hvilken rapporttype som sendes.\nNår et fartøy har sendt automatiske posisjonsmeldinger fra samme posisjon i mer enn fire timer, kan slike meldinger sendes en gang hver tolvte time frem til endring av posisjon. Dette gjelder ikke dersom fartøyet oppholder seg i fiskevernsonen ved Svalbard eller andre farvann hvor det er krav om hyppigere rapportering.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Posisjonsrapportering for bestemte fartøygrupper og i særlige tilfeller",
+      "path": [
+        "Kapittel II. Posisjonsrapportering"
+      ],
+      "text": "Fiskeridirektoratet kan for bestemte grupper av norske fiske- og fangstfartøy pålegge rapporteringsplikter nevnt i § 8, dersom internasjonale forpliktelser eller særlige grunner tilsier dette.\nFiskeridirektoratet kan i særlige tilfeller gjøre unntak fra rapporteringsplikter nevnt i § 8 for nærmere avgrensede tidsperioder.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Virkeområde for rapportering om høstingsaktivitet",
+      "path": [
+        "Kapittel III. Rapportering om høstingsaktivitet"
+      ],
+      "text": "Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy:på eller over 10 meter største lengde, uavhengig av hvor de befinner seg,fra og med 8,00 til og med 9,99 meter største lengde fra og med 1. januar 2026, uavhengig av hvor de befinner seg,uavhengig av størrelse, som oppholder seg i farvann utenfor noen stats jurisdiksjon,uavhengig av størrelse, som utfører høstingsaktivitet i britisk sone,uavhengig av størrelse, som høster tare, uavhengig av hvor de befinner seg,uavhengig av størrelse, som er gitt dispensasjon etter forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel § 5 sjette ledd, § 5a første ledd, eller § 8 fjerde ledd,uavhengig av størrelse, som har dispensasjon fra en salgsorganisasjon til å drive kaisalg,uavhengig av størrelse, som har tråltillatelse gitt i medhold av forskrift 13. oktober 2006 nr. 1157 om spesielle tillatelser til å drive enkelte former for fiske og fangst (konsesjonsforskriften),uavhengig av størrelse, som driver trålfiske etter reker i området utenfor 12 nautiske mil fra grunnlinjene uten reketråltillatelse,uavhengig av størrelse, som driver trålfiske etter reker uten reketråltillatelse, utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholm fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr,uavhengig av størrelse, som driver fangst av kongekrabbe,uavhengig av størrelse, som driver fangst av skjell,uavhengig av størrelse, som utfører høstingsaktivitet i fiskevernsonen ved Svalbard,uavhengig av størrelse, som deltar i samfiske,uavhengig av størrelse, som deltar i kvotesamarbeid,uavhengig av størrelse, som driver fiske etter leppefisk.\nBestemmelsene i dette kapittelet gjelder bare dersom høstingsaktivitet skal utføres etter havneavgang og før neste havneanløp. Fartøy omfattet av krav til å sende melding om havneavgang kan ikke utføre høstingsaktivitet før melding om havneavgang er sendt som beskrevet i § 11, jf. § 6. Krav om rapportering om høstingsaktivitet gjelder for enhver høstingsaktivitet som utføres av fartøy som omfattes av første ledd. Fartøy som omfattes av første ledd skal rapportere all høstingsaktivitet gjennom hele kalenderåret.\nFartøy under 11 meter største lengde er unntatt fra krav om å sende meldinger som følger av § 11 (DEP-melding) og § 12 (DCA-melding). Fartøy som kun benyttes til omlasting er unntatt fra krav om å sende melding som følger av § 12 (DCA-melding).\nFiskeridirektoratet kan stille krav om rapportering om høstingsaktivitet utover de tilfeller som er nevnt i første ledd og unntakene i tredje ledd når dette er nødvendig for å kunne føre kontroll med at vilkår i dispensasjonsadganger eller særtillatelser etterleves.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Melding om havneavgang",
+      "path": [
+        "Kapittel III. Rapportering om høstingsaktivitet"
+      ],
+      "text": "Fartøy som nevnt i § 10 skal sende melding om havneavgang før havneavgang. Meldingen skal sendes uavhengig om fartøyet har landet fangst eller ikke. Med havneavgang menes det tidspunkt fartøyet ikke lenger ligger til kai, eller er fortøyd til kai.\nMelding om havneavgang skal inneholde følgende opplysninger:DataelementKodePåkrevd/ValgfrittForklaringMeldingstypeTMPDEP, melding om havneavgangMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Posisjon breddeXTPPosisjon bredde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)Posisjon lengdeXGPPosisjon lengde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)AvgangshavnPOPInternasjonal kode for havnen som forlatesISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)Dato avgang havnZDPDato for avgang havn i UTC (ÅÅÅÅMMDD).Tid avgang havnZTPTidspunkt for avgang havn i UTC (TTMM).Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt.Fartøy med største lengde under 15 meter som fisker i norsk territorialfarvann kan rapportere fiskesorter som til sammen er begrenset oppad til totalt 200 kilo rund vekt samfengt (FAO fiskesortkode: MZZ). Hovedart skal alltid rapporteres. Fiskesort som utgjør mer enn 200 kilo rund vekt kan ikke rapporteres samfengt. Denne adgangen gjelder ikke for fartøy over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.DatoPDPDato for fiskestart i UTC (ÅÅÅÅMMDD). Fartøy som kun skal drive omlasting skal angi antatt dato for første omlasting.TidPTPAntatt tidspunkt for fiskestart i UTC (TTMM). Fartøy som kun skal drive omlasting skal angi antatt tidspunkt for første omlasting.Posisjon breddeLAPAntatt posisjon bredde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon bredde for første omlasting.N/SGGDD (WGS-84).Posisjon lengdeLOPAntatt posisjon lengde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon lengde for første omlasting.E/WGGGDD (WGS-84).HøstingsaktivitetACPPlanlagt hovedaktivitet for turen skal oppgis i samsvar med koder angitt i vedlegg 6.MålartDSPPlanlagt målart (FAO fiskeslagskode), angi kun enKanselleringskodeREVFeilkode som viser at det er en kansellering, se vedlegg 2.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Melding om fangst",
+      "path": [
+        "Kapittel III. Rapportering om høstingsaktivitet"
+      ],
+      "text": "Fartøy som nevnt i § 10 skal sende melding om fangst (DCA) etter at melding om havneavgang (DEP) er sendt. Meldingen skal sendes minst én gang daglig og senest klokken 23.59 UTC (Coordinated Universal Time). Meldingen skal angi fangst tatt i tidsrommet 00.00–23.59 UTC. Dersom ytterligere fiskeoperasjoner blir avsluttet før klokken 23.59 UTC, men etter at melding om fangst (DCA) er sendt, skal det sendes ny melding om fangst (DCA) hvor disse fiskeoperasjonene angis før klokken 23.59 UTC.\nSom unntak fra tidsfristen i første ledd kan fartøy under 15 meter største lengde sende turens første DCA-melding (melding om fangst) innen 23:59 UTC på turens andre døgn. Meldingen skal da inneholde all fangst og alle fiskeoperasjoner fra både første og andre døgn. Dersom det sendes DCA-melding første døgn, skal det også sendes DCA-melding andre døgn. Deretter sendes DCA-melding daglig som nevnt i første ledd. Dette unntaket gjelder ikke for tilfellene nevnt i tredje ledd bokstav a, b og d til f. Unntaket gjelder heller ikke fartøy på eller over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.\nMelding om fangst skal sendes uavhengig av om fartøyet har fisket siden forrige melding. Meldingen skal også sendesnår Fiskeridirektoratet eller Kystvakten krever det,ved inspeksjon på sjø,etter og samme dag som melding om havneavgang (DEP) er sendt,samme dag og før melding om havneanløp (POR) er sendt,samme dag og før fartøyet går inn i internasjonalt farvann eller annet lands sone,samme dag og før melding om avslutning av fiske (COX) er sendt.\nEtter at fisket er avsluttet og melding om havneanløp er sendt opphører plikten til å sende melding om fangst.\nOpplysninger i blokk B skal angis for hver enkelt fiskeoperasjon og skal registreres fortløpende etter at hver fiskeoperasjon er fullført. Flere fiskeoperasjoner kan registreres parallelt. Med fiskeoperasjon menes perioden fra det tidspunkt et sammenhengende fiskeredskap settes i sjøen til det er tatt opp fra sjøen. Fiskeoperasjonen er fullført når fiskeredskapet er tatt opp av sjøen.\nFartøy som fisker med garn, line, teiner eller høster tare kan angi opplysningene i blokk B per døgn. Fartøy som høster tare fra ulike høstingsfelt i løpet av samme døgn, skal angi opplysninger i blokk B per felt og før feltskifte.\nFartøy under 15 meter største lengde som fisker med trål, snurrevad eller notredskap i norske farvann kan angi opplysningene i blokk B per døgn. Dette gjelder ikke fartøy som skal rapportere til Havforskningsinstituttet jf. § 21 eller fartøy på eller over 12 meter største lengde som fisker med trål utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.\nDersom høstingsaktivitet (Blokk A – Dataelement AC) angis som SET skal kun blokk A rapporteres. Blokk B rapporteres når redskapet tas opp.\nMelding om fangst (DCA) skal inneholde opplysninger angitt i blokk A og B:Blokk ADataelementKodePåkrevd/ValgfrittForklaringMeldingstypeTMPDCA, melding om fangstMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottaker.KjenningssignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnFiskerimerkeXRPFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Posisjon bredde XTPPosisjon bredde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)Posisjon lengde XGPPosisjon lengde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)FiskeritillatelseQIPSe vedlegg 5.Dersom det fiskes på flere fiskeritillatelser innenfor et døgn skal det sendes separate meldinger om fangst (DCA).HøstingsaktivitetACPFartøyets hovedaktivitet innenfor tidsrommet det rapporteres for i denne melding skal oppgis i samsvar med koder angitt i vedlegg 6.KorrigeringskodeREVFeilkode som viser at det er en korrigering, se vedlegg 2MeldingsversjonMVVNy meldingsversjon vil fullstendig erstatte forrige versjon og må derfor inneholde alle meldingsdata i korrekt form, alle versjoner av en melding skal ha samme RNHavnPOPDNavnet på havnen der det skal landes. ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)PD: påkrevd dersom fisket er avsluttet.Blokk BDataelementKodePåkrevd/ValgfrittForklaringDatoBDPDato for start av fiskeoperasjon (ÅÅÅÅMMDD) i UTCFartøy opplistet i sjette og syvende ledd oppgir dato for start av første fiskeoperasjon.TidBTPTidspunkt for start av fiskeoperasjon (TTMM) i UTCFartøy opplistet i sjette og syvende ledd oppgir tidspunkt for start av første fiskeoperasjon.Start soneZOPSonen hvor fiskeoperasjonen gjennomføres (LT, LG) skal oppgis. Sonen skal oppgis i samsvar med ISO alfa-3 koder angitt i vedlegg 4.Ny DCA-melding må sendes ved fiske i flere soner. En DCA-melding kan ikke inneholde rapportering fra flere soner.Posisjon breddeLTPPosisjon bredde ved start av fiskeoperasjon+/– DD.ddd (WGS-84)Fartøy opplistet i sjette og syvende ledd oppgir posisjon bredde ved start av første fiskeoperasjonPosisjon lengdeLGPPosisjon lengde ved start av fiskeoperasjon+/– DDD.ddd (WGS-84)Fartøy opplistet i sjette og syvende ledd oppgir posisjon lengde ved start av første fiskeoperasjon.Fiskedybde ved startFGPDFiskedybde ved start av fiske angitt i meter (m)PD: påkrevd dersom angitt i forskrift med hjemmel i havressursloven.Bunndybde ved startBSPDBunndybde ved start av fiske angitt i meter (m).PD: påkrevd dersom angitt i forskrift med hjemmel i havressursloven.RedskapGEPFAO redskapskodeMaskeviddeMEPDMinste maskevidde på redskap som benyttes angitt i millimeter (mm).PD: påkrevd dersom det fiskes med trål, snurrevad eller garn.RedskapsspesifikasjonGSPDOppgi antall trål (1, 2, 3, 4 eller 5).PD: påkrevd dersom fartøyet fisker med trålInnsatsFOPDAntall krok og teiner eller totallengde garn (meter) samlet per fiskeoperasjon.PD: påkrevd dersom fartøyet driver fiske med line, garn eller fangst med teinerSpileavstandGOPDSpileavstand i sorteringsrist angitt i millimeter (mm).PD: Påkrevd dersom det benyttes sorteringsristRedskapsproblemerGPP1 = bomkast, 2 = notsprenging, 3 = splitt,4 = hull i sekk, 5 = mistet redskap,6 = annet, 7 = bomskudd hval, 8 = tapt hval, 0 = ingen redskapsproblemPosisjon breddeXTPPosisjon bredde ved avslutning av fiskeoperasjon +/– DD.ddd (WGS-84)Fartøy opplistet i sjette og syvende ledd oppgir posisjon bredde ved avslutning av siste fiskeoperasjon.Posisjon lengdeXGPPosisjon lengde ved avslutning av fiskeoperasjon +/– DDD.ddd (WGS-84)Fartøy opplistet i sjette og syvende ledd oppgir posisjon lengde ved avslutning av siste fiskeoperasjon.Fiskedybde ved avslutningFHPDFiskedybde ved avslutning av fiske angitt i meter (m)PD: påkrevd dersom angitt i forskrift med hjemmel i havressursloven.Bunndybde ved avslutningBXPDBunndybde ved avslutning av fiske angitt i meter (m).PD: påkrevd dersom angitt i forskrift med hjemmel i havressursloven.VarighetDUPVarighet for fiskeoperasjonen i minutter.Fartøy opplistet i andre ledd første setning må registrere tidspunkt for avslutning av siste fiskeoperasjon på andre døgn. Fartøy opplistet i sjette og syvende ledd oppgir total varighet fra start av første fiskeoperasjon til avslutning av siste fiskeoperasjon før rapportering.Pumpet fraTFPDRadiokallesignal på fartøyet det pumpes fangst fra.PD: påkrevd dersom dataelementet AC i Blokk A er angitt som RELFangstspesifikasjonSSPDNOR01 = Norsk vårgytende sild.NOR02 = Nordsjøsild.PD: påkrevd dersom feltet CA inneholder HER (norsk vårgytende sild eller nordsjøsild).FangstCAPTotal fangst fra denne fiskeoperasjonen fordelt på artskode (FAO-kode) i kilo rund vekt. Parvis angitt.Bifangst av sjøpattedyr og sjøfugl føres under dette dataelementet parvis angitt fordelt etter art (FAO-kode) og antall. Bifangst av levende koraller og levende svamper føres under dette dataelementet parvis angitt fordelt etter art (FAO-kode) og kilo rund vekt. I tillegg skal fangst av tare føres under denne koden.Fartøy med største lengde under 15 meter som fisker i norsk territorialfarvann kan rapportere fiskesorter som til sammen er begrenset oppad til totalt 200 kilo rund vekt samfengt (FAO fiskesortkode: MZZ). Hovedart skal alltid rapporteres. Fiskesort som utgjør mer enn 200 kilo rund vekt kan ikke rapporteres samfengt. Denne adgangen gjelder ikke for fartøy over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.Oversikt over FAO-koder for fisk, sjøpattedyr, sjøfugl, levende koraller, levende svamper og tare finnes på www.fiskeridir.no.Dersom dataelementet GE i blokk B er gitt som HAR (harpun) skal det angis en Blokk B for hvert dyr/hver fangstoperasjon.Ved fangst av makrellstørje (artskode (FAO-kode) BFT) skal det i tillegg til kilo rund vekt angis antall individer i dataelementet NI i blokk B for hver fangstoperasjon.IndividnummerINPDVerdi 1-999 per år.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7). Samme IN som sendes manuelt ved feilsituasjoner, skal brukes når meldingen registreres og ettersendes elektronisk.KjønnSEPDVed fangst av dyr av hannkjønn føres 1, dyr av hunnkjønn føres 2.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)LengdeLEPDDyrets lengde skal føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)OmkretsCIPDDyrets omkrets skal føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)SpekkmålBMPD3 (A, B og C) spekkmål av dyret skal føres i millimeter (mm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)GranatnummerGNPDNummer på granat brukt under fangstoperasjon.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun)Lengde på fosterLFPDFoster lengde føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og sjøpattedyret bærer foster.Antall individNIPDVed fangst av makrellstørje (artskode (FAO-kode) BFT) skal det i tillegg til kilo rund vekt angis antall individer for hver fangstoperasjon.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Melding om havneanløp",
+      "path": [
+        "Kapittel III. Rapportering om høstingsaktivitet"
+      ],
+      "text": "Fartøy som nevnt i § 10 skal, uavhengig av om det skal landes fangst, sende melding om havneanløp (POR) senest 2 timer før anløp til havn. Fartøy som foretar siste fiskeoperasjon nærmere havn enn 2 timer, skal snarest mulig før anløp havn sende melding om havneanløp. Det samme gjelder fartøy som skal foreta omlasting av fangst til lås/steng eller merd mindre enn 2 timer fra havn.\nFartøy som skal avgi fangst av tare til et mottaksfartøy som ligger i havn (omlasting), er unntatt fra kravet om å sende melding om havneanløp (POR). Det samme gjelder for fartøy som skal ligge i havn mens det mottar fangst av tare.\nFartøy som skal gjennomføre dellandinger skal sende en POR-melding for hver landing. Dersom fartøyet må forflytte seg for å gjennomføre dellanding og det ikke gjennomføres fangstoperasjoner under forflytningen er det ikke krav om å sende meldinger angitt i § 11 og § 12 før neste POR-melding sendes. Tidsfristen angitt i første ledd gjelder i disse tilfellene kun for den første landingen.\nDersom fartøyet skal anløpe flere havner før levering, og det ikke skal gjennomføres fangstoperasjoner eller utføres andre høstingsaktiviteter enn transport av fangsten mellom havnene, er det ikke krav om å sende meldinger angitt i § 11 og § 12 etter første havneanløp og frem til levering. POR-melding skal fortsatt sendes før hvert havneanløp inntil all fangst er levert. Dette unntaket gjelder ikke fartøy som foretar omlasting.\nFartøy som har mottatt fangst fra annet fartøy skal uavhengig av hvor omlastingen ble foretatt sende melding om havneanløp (POR) senest 24 timer før landing i norsk havn.\nFartøy som fører norsk flagg, herunder transportfartøy, som har fangst om bord fanget av utenlandske fartøy i NEAFCs konvensjonsområde som skal lande eller på annen måte bruke norsk havn, skal forholde seg som beskrevet i forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst i Norges økonomiske sone og landinger til eller annen bruk av norsk havn § 13. Fartøy som fører norsk flagg, herunder transportfartøy, som har fangst om bord fanget av utenlandske fartøy i NAFOs reguleringsområde og som skal lande i norsk havn, skal sende forhåndsmelding minst 3 virkedager før ankomst havn.\nMelding om havneanløp skal inneholde følgende opplysninger:DataelementKodePåkrevd/ValgfrittForklaringMeldingstypeTMPPOR, melding om havneanløpMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og en endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Posisjon bredde XTPPosisjon bredde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)Posisjon lengde XGPPosisjon lengde på tidspunktet for sending av melding +/- DD.ddd (WGS-84)AnløpshavnPOPInternasjonal kode for havnen som anløpes, ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)LandingsanleggLSPDNavnet på landingsanlegget (Tekst maks 60 karakterer). PD: påkrevd dersom fangst skal landes.LandingsdatoDLPDDato for start av landing i UTC (ÅÅÅÅMMDD).PD: påkrevd dersom fangst skal landes.LandingstidspunktHLPDStarttidspunkt for landing i UTC (TTMM).PD: påkrevd dersom fangst skal landes.DatoPDPAntatt dato for havneanløp i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for havneanløp i UTC (TTMM)Kvantum som skal landesKGPDKvantum som skal landes fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt.Fartøy med største lengde under 15 meter som fisker i norsk territorialfarvann kan rapportere fiskesorter som til sammen er begrenset oppad til totalt 200 kilo rund vekt samfengt (FAO fiskesortkode: MZZ). Hovedart skal alltid rapporteres. Fiskesort som utgjør mer enn 200 kilo rund vekt kan ikke rapporteres samfengt. Denne adgangen gjelder ikke for fartøy over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.PD: påkrevd dersom fangst skal landes.Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittFartøy med største lengde under 15 meter som fisker i norsk territorialfarvann kan rapportere fiskesorter som til sammen er begrenset oppad til totalt 200 kilo rund vekt samfengt (FAO fiskesortkode: MZZ). Hovedart skal alltid rapporteres. Fiskesort som utgjør mer enn 200 kilo rund vekt kan ikke rapporteres samfengt. Denne adgangen gjelder ikke for fartøy over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.KanselleringREVFeilkode som viser at det er en kansellering, se vedlegg 2",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Elektronisk rapportering for bestemte fartøygrupper og i særlige tilfeller",
+      "path": [
+        "Kapittel III. Rapportering om høstingsaktivitet"
+      ],
+      "text": "Fiskeridirektoratet kan for bestemte grupper av norske fiske- og fangstfartøy pålegge rapporteringsplikter nevnt i § 11, § 12 og § 13, dersom internasjonale forpliktelser eller særlige grunner tilsier dette.\nFiskeridirektoratet kan i særlige tilfeller gjøre unntak fra rapporteringsplikter nevnt i § 11, § 12 og § 13 for nærmere avgrensede tidsperioder.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Melding om fiskestart",
+      "path": [
+        "Kapittel IV. Kryssing av soner"
+      ],
+      "text": "Fartøy som nevnt i § 10 som skal drive fiske eller fangst i fiskevernsonen ved Svalbard, skal tidligst 24 timer og senest 12 timer før fisket i sonen påbegynnes, sende melding om fiskestart (COE).\nFartøy som kommer fra Norges økonomiske sone eller fra Svalbards territorialfarvann, etter å ha drevet fiske der, kan uten hensyn til tidsfristen i første ledd starte fiske etter at melding om fiskestart er sendt. Fartøy som bistår fiskeflåten skal sende melding om fiskestart hver gang det går inn i territorialfarvannet.\nFartøyet kan ikke påbegynne fiske i fiskevernsonen ved Svalbard før melding om fiskestart (COE) er godkjent (ACK) av Fiskeridirektoratet i henhold til § 22 i denne forskrift.\nMelding om fiskestart skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaringMeldingstypeTMPCOE, melding om fiskestartMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Kansellerings- eller korrigeringskodeREVFeilkode som viser at det er en kansellering eller korrigering, se vedlegg 2Posisjon breddeXTPPosisjon bredde ved sending av rapport+/- DD.ddd (WGS-84)Posisjon lengdeXGPPosisjon lengde ved sending av rapport+/- DD.ddd (WGS-84)Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode)(SN) i kilo rund vekt (WT). Parvis angitt.FangstområdeRAVICES-område der fisket skal starteDatoPDPDato for fiskestart i UTC (ÅÅÅÅMMDD)TidPTPAntatt tidspunkt for fiskestart i UTC (TTMM)Posisjon breddeLAPAntatt posisjon bredde for fiskestartN/SGGDD (WGS-84)Posisjon lengdeLOPAntatt posisjon lengde for fiskestartE/WGGGDD (WGS-84)MålartDSPPlanlagt målart (FAO fiskeslagskode), angi kun enMeldingsversjonMVVNy meldingsversjon vil fullstendig erstatte forrige versjon og må derfor inneholde alle meldingsdata i korrekt form, alle versjoner av en melding skal ha samme RN",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Melding om avslutning av fisket",
+      "path": [
+        "Kapittel IV. Kryssing av soner"
+      ],
+      "text": "Fartøy som nevnt i § 10 som har drevet fiske eller fangst i fiskevernsonen ved Svalbard, skal sende melding om avslutning av fiske når fisket i sonen avsluttes og senest ved utgang av sonen. Fartøy som bistår fiskeflåten skal sende melding om avslutning av fiske hver gang det går ut av sonen.\nMelding om avslutning av fisket skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaringMeldingstypeTMPCOX, melding om avslutning av fiskeMeldingsnummerRNPSerienummer for meldingen inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (Coordinated universal time) (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)KanselleringskodeREVFeilkode som viser at det er en kansellering, se vedlegg 2Posisjon breddeXTPPosisjon bredde ved sending av rapport+/- DD.ddd (WGS-84)Posisjon lengdeXGPPosisjon lengde ved sending av rapport+/- DD.ddd (WGS-84)AnløpshavnPOVInternasjonal kode for havnen som skal anløpes. ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode)(SN) i kilo rund vekt (WT). Parvis angitt.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Kryssing av soner for bestemte fartøygrupper",
+      "path": [
+        "Kapittel IV. Kryssing av soner"
+      ],
+      "text": "Fiskeridirektoratet kan i særlige tilfeller gjøre unntak fra rapporteringsplikter nevnt i § 15 og § 16 for nærmere avgrensede tidsperioder.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel V. Omlasting"
+      ],
+      "text": "Bestemmelsene i dette kapitlet gjelder for norske fiske- og fangstfartøy som foretar omlasting som beskrevet i § 3, herunder fartøy som foretar omlasting av tare. Bestemmelsene gjelder uavhengig av hvor fartøyene befinner seg, jf. § 2.\nFartøy med største lengde under 15 meter i farvann under norsk fiskerijurisdiksjon som driver med høstingsaktivitet hvor fisk lagres levende i sjø er ikke omfattet av reglene i dette kapittelet. Unntaket gjelder ikke for fartøy over 12 meter største lengde som driver fiske utenfor 4 nautiske mil fra grunnlinjene i Skagerrak, avgrenset mot vest av en rett linje gjennom Lindesnes fyr og Hanstholmen fyr og mot sør av en rett linje gjennom Skagen fyr og Tistlarna fyr.\nNorske fiske- og fangstfartøy kan bare foreta omlasting til andre norske fiske- og fangstfartøy og til fartøy som har fisketillatelse i henhold til forskrift 13. mai 1977 nr. 2 om utlendingers fiske og fangst mv. i Norges økonomiske sone og landinger til norsk havn § 4 og som er fra medlemsstater i EU, Russland, Færøyene, Grønland, Island, og Storbritannia, samt fartøy fra NEAFC-samarbeidsland.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Omlastingsmelding",
+      "path": [
+        "Kapittel V. Omlasting"
+      ],
+      "text": "Fartøy som nevnt i § 18 som skal avgi fangst skal senest 24 timer før omlastingen påbegynnes sende melding om omlasting til Fiskeridirektoratet. Fartøy som avgir fangst av tare skal sende melding om omlasting senest en time etter at omlastingen er avsluttet.\nUten hinder av første ledd kan fartøy som nevnt i § 18 som skal avgi fangst ved at fangsten lås- eller stengsettes sende melding om omlasting til Fiskeridirektoratet senest 2 timer før omlastingen påbegynnes. Dette gjelder også dersom det skal gjennomføres en omlasting mellom norske fartøy for tilvirkning på det mottakende fartøy. Dersom fiskeoperasjonen og lås- eller stengsetting, eller overføring til samleteiner, er en sammenhengende aktivitet, skal melding om omlasting sendes så snart som mulig etter at lås- eller stengsetting eller overføring til samleteiner er gjennomført. Det samme gjelder fartøy som foretar dellanding av fangst til havn før det skal overføre restkvantum til merd, hvor merden er plassert mindre enn 2 timer fra havn.\nOmlasting av fisk fanget i NEAFC sitt reguleringsområde kan bare starte etter at mottakerfartøyet har innhentet tillatelse til omlasting fra Fiskeridirektoratet. Det samme gjelder for fisk fanget utenfor dette området og som skal lastes om innenfor området.\nFartøy som nevnt i § 18 som har mottatt fangst skal senest en time etter at den enkelte omlasting er avsluttet sende elektronisk melding om omlasting til Fiskeridirektoratet.\nFartøy som avgir fangst av tare flere ganger i løpet av et døgn kan sende en daglig melding om omlasting. Meldingen skal sendes senest klokken 23.59 UTC. Meldingen skal angi samlet fangst omlastet til et fartøy i tidsrommet 00.00–23.59 UTC. Dersom fartøyet avgir fangst til ulike mottaksfartøy i løpet av samme døgn, så må fartøyet sende en melding om omlasting per mottaksfartøy. Dette gjelder også for fartøy som mottar fangst av tare flere ganger i løpet av et døgn.\nMelding om omlasting skal inneholde følgende opplysninger:DataelementKodePåkrevd/ValgfrittForklaringMeldingstypeTMPTRA, melding om omlastingMeldingsnummerRNPSerienummer for meldingen i inneværende årSekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottaker.RadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)Posisjon bredde XTPPosisjon bredde på tidspunktet for sending av melding+/- DD.ddd (WGS-84)Posisjon lengde XGPPosisjon lengde på tidspunktet for sending av melding+/- DD.ddd (WGS-84)Posisjon breddeLAPAntatt posisjon bredde for omlastingN/SGGDD (WGS-84)Posisjon lengdeLOPAntatt posisjon lengde for omlastingE/WGGGDD (WGS-84)Kvantum om bordOBPDFangst om bord før omlasting fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt. PD: påkrevd dersom fartøyet avgir fangst.Kvantum som skal overføresKGPKvantum som skal overføres fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angittOverført fraTFPDRadiokallesignal på fartøyet det overføres fra.PD: påkrevd dersom fartøyet mottar fangst.Overført tilTTPDRadiokallesignal på fartøyet det overføres til. Dersom fisk stengsettes skal stengsettingskode angis.PD: påkrevd dersom fartøyet avgir fangst.DatoPDPDAntatt dato for omlasting i UTC (ÅÅÅÅMMDD).PD: påkrevd dersom fartøyet avgir fangst.TidPTPDAntatt tidspunkt for omlasting i UTC (TTMM).PD: påkrevd dersom fartøyet avgir fangst.KanselleringskodeREVFeilkode som viser at det er en kansellering, se vedlegg 2",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Omlasting for bestemte fartøygrupper",
+      "path": [
+        "Kapittel V. Omlasting"
+      ],
+      "text": "Fiskeridirektoratet kan for bestemte grupper av norske fiske- og fangstfartøy gjøre unntak fra rapporteringsplikt nevnt i § 16 for nærmere avgrensede tidsperioder.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Saklig og stedlig virkeområde for rapportering til Havforskningsinstituttet",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Bestemmelsene i dette kapittelet gjelder for norske fiske- og fangstfartøy på eller over 15 meter største lengde som nevnt i § 10, som deltar i fiske etter følgende arter:ArtFAO kodeLatinsk navnSildHERClupea harengusKolmuleWHBMicromesistius poutassouMakrellMACScomber scombrusBrislingSPRSprattus sprattusØyepålNOPTrisopterus esmarkiiHestmakrellHOMTrachurus trachurusLoddeCAPMallotus villosusStrømsild/vassildARGArgentina spp.VassildARUArgentina silusStrømsildARYArgentina sphyraenaTobis og annen silSANAmmodytes\nMeldinger angitt i dette kapittelet sendes via det elektroniske rapporteringssystemet (ERS), jf. § 5, med Havforskningsinstituttet som meldingsmottaker.\nFiske- og fangstfartøy som omfattes av kapittelet, plikter å rette seg etter det Havforskningsinstituttet til enhver tid bestemmer når det gjelder ulike typer utstyr som fartøyet skal ha med om bord under fiskeoperasjoner. Havforskningsinstituttet bærer kostnadene ved det aktuelle utstyret, og eventuelle kostnader ved ombygging, dersom Havforskningsinstituttet krever dette.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Melding om havneavgang til Havforskningsinstituttet",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Fartøy som nevnt i § 21 skal sende melding om havneavgang som angitt i § 11 i kopi til Havforskningsinstituttet.\nMelding om havneavgang til Havforskningsinstituttet skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaringMeldingstypeTMPHIA, melding om havneavgang til HavforskningsinstituttetMeldingsnummerRNPSerienummer for meldingen inneværende årVideresendingFTPHavforskningsinstituttet (ZZH)SekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottakerRadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)AvgangshavnPOPInternasjonal kode for havnen som forlatesISO alfa 2 landkode + 3-bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)Dato avgang havnZDPDato for avgang havn i UTC (ÅÅÅÅMMDD).Tid avgang havnZTPTidspunkt for avgang havn i UTC (TTMM).Kvantum om bordOBPFangst om bord fordelt på fiskesort (FAO fiskesortkode) i kilo rund vekt. Parvis angitt.DatoPDPDato for fiskestart i UTC (ÅÅÅÅMMDD). Fartøy som kun skal drive omlasting skal angi antatt dato for første omlasting.TidPTPAntatt tidspunkt for fiskestart i UTC (TTMM). Fartøy som kun skal drive omlasting skal angi antatt tidspunkt for første omlasting.Posisjon breddeLAPAntatt posisjon bredde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon bredde for første omlasting.N/SGGDD (WGS-84).Posisjon lengdeLOPAntatt posisjon lengde for fiskestart. Fartøy som kun skal drive omlasting skal angi antatt posisjon lengde for første omlasting.E/WGGGDD (WGS-84).HøstingsaktivitetACPSe vedlegg 6MålartDSPPlanlagt målart (FAO fiskeslagskode), angi kun enKanselleringskodeREVFeilkode som viser at det er en kansellering, se vedlegg 2.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Melding om fangst til Havforskningsinstituttet",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Fartøy som nevnt i § 21 skal sende melding om fangst til Havforskningsinstituttet etter at melding om havneavgang er sendt til Havforskningsinstituttet (HIA). Meldingen skal angi fangst per fiskeoperasjonen. Det skal sendes en melding per fiskeoperasjon inntil melding om havneanløp (HIL) sendes, eller til returmelding fra Havforskningsinstituttet sier at prøvetakningen for denne turen er over. Opplysninger i blokk B skal angis for hver enkelt fiskeoperasjon, og skal registreres umiddelbart etter at hver fiskeoperasjon er fullført, eller tidligere dersom estimatet av fangstmengde er klart, og deretter sendes fortløpende til Havforskningsinstituttet.\nMelding om fangst til Havforskningsinstituttet skal inneholde opplysninger angitt i blokk A og B:Blokk ADataelement Kode Påkrevd/ ValgfrittForklaringMeldingstypeTMPHIF, melding om fangst til HavforskningsinstituttetMeldingsnummerRNPSerienummer for meldingen inneværende årVideresendingFTPHavforskningsinstituttet (ZZH)SekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og endelig mottaker.RadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummerSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)FiskeritillatelseQIPSe vedlegg 5.Dersom det fiskes på flere fiskeritillatelser innenfor et døgn skal det sendes separate meldinger om fangst (HIF).HøstingsaktivitetACPFartøyets hovedaktivitet. Se vedlegg 6.MeldingsversjonMVVNy meldingsversjon vil fullstendig erstatte forrige versjon og må derfor inneholde alle meldingsdata i korrekt form, alle versjoner av en melding skal ha samme RNHavnPOPDNavnet på havnen der det skal landes. ISO alfa 2 landkode + 3-bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)PD: påkrevd dersom fisket er avsluttet.Blokk BDataelement KodePåkrevd/ Valgfritt ForklaringDatoBDPDato for start av fiskeoperasjon (ÅÅÅÅMMDD) i UTCTidBTPTidspunkt for start av fiskeoperasjon (TTMM) i UTCStart soneZOPSone der fiskeoperasjonen starter (LT, LG) (ISO alfa-3, se vedlegg 4)Posisjon breddeLTPPosisjon bredde ved start av fiskeoperasjon +/- DD.ddd (WGS-84)Posisjon lengdeLGPPosisjon lengde ved start av fiskeoperasjon+/- DDD.ddd (WGS-84)RedskapGEPFAO redskapskodeRedskapsspesifikasjonGSPD1 = enkeltrål,2 = dobbeltrål,3 = trippeltrål.PD: påkrevd dersom fartøyet fisker med trål.MaskeviddeMEPDMinste maskevidde på redskap som benyttes angitt i millimeter (mm). PD: påkrevd dersom det fiskes med trål, snurrevad eller garn.RedskapsproblemerGPP1 = bomkast, 2 = notsprenging, 3 = splitt,4 = hull i sekk, 5 = mistet redskap,6 = annet, 7 = bomskudd hval, 8 = tapt hval, 0 = ingen redskapsproblemPosisjon breddeXTPPosisjon bredde ved avslutning av fiskeoperasjon +/- DD.ddd (WGS-84)Posisjon lengdeXGPPosisjon lengde ved avslutning av fiskeoperasjon +/- DDD.ddd (WGS-84)VarighetDUPVarighet for fiskeoperasjonen i minutterPumpet fraTFPDRadiokallesignal på fartøyet det pumpes fangst fra.PD: påkrevd dersom dataelementet AC i Blokk A er angitt som RELInnsatsFOPDAntall krok og teiner eller totallengde garn (meter) samlet per døgn.PD: påkrevd dersom fartøyet driver fiske med line, garn eller fangst med teiner etter snøkrabbe (CA=CRQ)FangstspesifikasjonSSPDNOR01 = Norsk vårgytende sild.NOR02 = Nordsjøsild.PD: påkrevd dersom feltet CA inneholder HER (norsk vårgytende sild eller nordsjøsild).FangstCAPTotal fangst fra denne fiskeoperasjonen fordelt på artskode (FAO kode) i kilo rund vekt. Parvis angitt.Bifangst av sjøpattedyr og sjøfugl føres under dette dataelementet parvis angitt fordelt etter art (FAO kode) og antall. Bifangst av levende koraller og levende svamper føres under dette dataelementet parvis angitt fordelt etter art (FAO kode) og kilo rund vekt. I tillegg skal fangst av tare føres under denne koden.Oversikt over FAO koder for fisk, sjøpattedyr, sjøfugl, levende koraller, levende svamper og tare finnes på www.fiskeridir.no.Dersom dataelementet GE i blokk B er gitt som HAR (harpun) skal det angis en Blokk B for hvert dyr/hver fangstoperasjon.IndividnummerINPDVerdi 1-999 per år.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7). Samme IN som sendes manuelt ved feilsituasjoner, skal brukes når meldingen registreres og ettersendes elektronisk.KjønnSEPDVed fangst av dyr av hannkjønn føres 1, dyr av hunnkjønn føres 2.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)LengdeLEPDDyrets lengde skal føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)OmkretsCIPDDyrets omkrets skal føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)SpekkmålBMPD3 (A, B og C) spekkmål av dyret skal føres i millimeter (mm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og det ikke er bomskudd (GP=7) eller tapt hval (GP=8)GranatnummerGNPDNummer på granat brukt under fangstoperasjon.PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun)Lengde på fosterLFPDFoster lengde føres i centimeter (cm).PD: påkrevd dersom dataelementet GE i Blokk B er gitt som HAR (harpun) og sjøpattedyret bærer foster.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Plikt til å foreta prøvetaking",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Fartøy som nevnt i § 21 skal sette til side en prøve på om lag 15 kilo fra fiskeoperasjonen. Dersom fartøyet mottar returmelding på HIF-melding om at det skal tas prøve, skal prøven straks pakkes i emballasje fra Havforskningsinstituttet, og fryses inn. Dersom fartøyet ikke har mulighet til å fryse inn prøven, skal denne oppbevares på slik måte som Havforskningsinstituttet bestemmer i det enkelte tilfellet. Prøver som er tatt, skal leveres til det norske mottaksanlegget som fartøyet lander ved, dersom det ikke avtales annet mellom fartøyet og Havforskningsinstituttet.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Melding om prøver til Havforskningsinstituttet",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Fartøy som nevnt i § 21, og som har blitt bedt om å ta prøve etter § 24, skal sende melding om prøver til Havforskningsinstituttet (HIL). Meldingen skal sendes etter at prøven(e) har blitt levert på et norsk mottaksanlegg. I de tilfeller der prøven ikke ble tatt skal melding likevel sendes.\nEr prøven levert direkte til Havforskningsinstituttet skal også melding sendes. Formålet med meldingen er å opplyse om den bestilte prøven ble tatt eller ikke, samt hvor den enkelte prøve har blitt levert.\nMelding om prøver til Havforskningsinstituttet skal inneholde følgende opplysninger:DataelementKodePåkrevd/ ValgfrittForklaringMeldingstypeTMPHIL, melding om prøver til HavforskningsinstituttetMeldingsnummerRNPSerienummer for meldingen i inneværende årVideresendingFTPHavforskningsinstituttet (ZZH)SekvensnummerSQVSerienummer for meldingen inneværende år mellom et fartøy og en endelig mottaker.RadiokallesignalRCPFartøyets radiokallesignalFartøynavnNAVFartøyets navnRegistreringsmerkeXRVFartøyets registreringsnummer i MerkeregisteretSkipperMAPSkippers navnMeldingsdatoDAPDato meldingen er sendt i UTC (ÅÅÅÅMMDD)MeldingstidTIPTidspunkt når meldingen er sendt i UTC (TTMM)AnløpshavnPOPDInternasjonal kode for havnen som anløpes, ISO alfa 2 landkode + 3 bokstaver havnekode UN/LOCODE (The United Nations code for Trade and Transport Locations.)PD: Påkrevd dersom prøve er tatt og levert.LandingsanleggLSPDNavnet på landingsanlegget (Tekst maks 60 karakterer).PD: påkrevd dersom Prøve er levert på anlegget.DatoPDPDDato for faktisk levering av prøven i UTC (ÅÅÅÅMMDD).PD: Påkrevd dersom prøve er tatt og levert.TidPTPDTidspunkt for faktisk levering av prøven i UTC (TTMM).PD: Påkrevd dersom prøve er tatt og levert.PrøveinformasjonSHPRC-RN-SQ Y/N informasjon fra hal som det er tatt prøve av Y eller N ikke.FritekstMSVMelding til mottaker kun etter avtale. Blir vanligvis ikke lest. Maks 255 tegn.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Fiskemottakets plikt til å motta, oppbevare og sende fangstprøver",
+      "path": [
+        "Kapittel VI. Rapportering til Havforskningsinstituttet (HI)"
+      ],
+      "text": "Enhver som tar i mot fisk som landes i Norge plikter å motta, forsvarlig oppbevare og videresende fangstprøver som norske fiske- og fangstfartøy har tatt etter § 24.\nFraktkostnader fra mottaksanlegg til Havforskningsinstituttet bæres av Havforskningsinstituttet.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 27",
+      "heading": "Tilgang til egne meldinger",
+      "path": [
+        "Kapittel VII. Tilgang på opplysninger, korreksjon, kansellering og tekniske feil"
+      ],
+      "text": "Meldinger innsendt i henhold til denne forskrift skal ved forespørsel gjøres tilgjengelig for fartøyeier.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 28",
+      "heading": "Adgang til å korrigere og kansellere meldinger",
+      "path": [
+        "Kapittel VII. Tilgang på opplysninger, korreksjon, kansellering og tekniske feil"
+      ],
+      "text": "Melding om fangst etter § 12 kan korrigeres frem til klokken 12.00 UTC dagen etter at slik melding er sendt eller inntil melding om havneanløp er sendt, dersom returmeldingen angir meldingsstatus ACK. Dataelementet kvantum om bord (OB) i melding om fiskestart (COE) skal korrigeres dersom fartøyet har drevet fiske etter at COE er sendt, men før fartøyet går inn i fiskevernsonen ved Svalbard.\nMelding om havneavgang etter § 11, havneanløp etter § 13, omlasting etter § 16, fiskestart etter § 15 og avslutning av fisket etter § 16, kan kanselleres ved å sende ny melding med kanselleringskode. Dette innebærer at den tidligere innsendte meldingen nulles ut. Meldingen som inneholder kanselleringskoden må være lik meldingen som skal kanselleres og derav også ha samme RN som den meldingen som skal kanselleres. Ny melding må sendes i henhold til gjeldende regelverk med nytt RN.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 29",
+      "heading": "Tekniske feil og feil med kommunikasjonslinjene",
+      "path": [
+        "Kapittel VII. Tilgang på opplysninger, korreksjon, kansellering og tekniske feil"
+      ],
+      "text": "Dersom det oppstår teknisk feil i de elektroniske rapporteringssystemene skal fartøyene:Føre posisjonsrapportene manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet minst en gang hver fjerde time.Føre meldinger angitt i kapittel III og IV manuelt og sende dem via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet innen ordinær tidsfrist.\nDersom det oppstår feil med kommunikasjonslinjene, som umuliggjør innsending av posisjonsrapporter og meldinger, skal de skrives ut eller føres manuelt og sendes via e-post eller funksjonen manuell posisjon i fartøyets elektroniske rapporteringssystem til Fiskeridirektoratet innen ordinær tidsfrist.\nPosisjonsrapportene og meldingene skal også lagres i rapporteringssystemet for sending når kommunikasjonslinjene eller de elektroniske rapporteringssystemene fungerer.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 30",
+      "heading": "Krav til utbedring av feil",
+      "path": [
+        "Kapittel VII. Tilgang på opplysninger, korreksjon, kansellering og tekniske feil"
+      ],
+      "text": "Dersom det har oppstått feil ved fartøyets posisjonsrapporteringsutstyr eller elektroniske rapporteringsutstyr slik at kravene i denne forskrift ikke kan oppfylles kan ikke fartøyet starte fisket på nytt uten rapporteringsutstyr som tilfredsstiller kravene i denne forskrift eller dersom fartøyet har fått dispensasjon fra Fiskeridirektoratet til å starte fisket.\nDersom det oppstår feil ved fartøyets elektroniske rapporteringsutstyr mens fartøyet er på fiskefeltet må utstyret repareres eller erstattes så snart fartøyet kommer til havn.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 31",
+      "heading": "Søknad om dispensasjon",
+      "path": [
+        "Kapittel VIII. Dispensasjonsadgang"
+      ],
+      "text": "Søknad om dispensasjon fra bestemmelser fastsatt i, eller i medhold av, denne forskriften skal være grunngitt og skriftlig.\nDersom skriftlig søknad ikke er mulig, eller vil være særlig byrdefull eller uhensiktsmessig, kan søknad fremsettes muntlig.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 32",
+      "heading": "Dispensasjonsvedtaket",
+      "path": [
+        "Kapittel VIII. Dispensasjonsadgang"
+      ],
+      "text": "Fiskeridirektoratet kan i særlige tilfeller gi midlertidig dispensasjon fra bestemmelser fastsatt i, eller i medhold av, denne forskriften. Midlertidig dispensasjon kan gis tidsbestemt. Det kan settes vilkår for dispensasjonen.\nDispensasjon kan ikke gis dersom kontrollhensynet blir vesentlig tilsidesatt.\nVed vurderingen av om det skal gis dispensasjon etter første ledd skal det legges særlig vekt på om skipper, eller andre som handler på vegne av fartøyet, er å bebreide for at den aktuelle bestemmelsen som det søkes dispensasjon fra ikke kan etterleves.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 33",
+      "heading": "Bemyndigelse",
+      "path": [
+        "Kapittel IX. Reguleringsfullmakt, overtredelsesgebyr, straff og ikrafttredelse"
+      ],
+      "text": "Fiskeridirektoratet kan endre denne forskrift og fastsette nærmere rapporteringsbestemmelser. Fiskeridirektoratet kan videre gi nærmere regler om gjennomføring av rapporteringspliktene, herunder regler om kontroll med bestemmelsene i denne forskriften og regler om krav til utstyr.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 34",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel IX. Reguleringsfullmakt, overtredelsesgebyr, straff og ikrafttredelse"
+      ],
+      "text": "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser i kapittel I til III, IV og VI i denne forskriften, eller bestemmelser gitt i medhold av disse kan ilegges overtredelsesgebyr i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 35",
+      "heading": "Straff",
+      "path": [
+        "Kapittel IX. Reguleringsfullmakt, overtredelsesgebyr, straff og ikrafttredelse"
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser i denne forskriften straffes etter lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar (havressurslova) § 62 og § 64.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 36",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel IX. Reguleringsfullmakt, overtredelsesgebyr, straff og ikrafttredelse"
+      ],
+      "text": "Denne forskrift trer i kraft straks. Samtidig oppheves forskrift 16. februar 2005 nr. 151 om rapportering av fangst for norske fartøy og forskrift 7. april 1999 nr. 387 om satellittbasert overvåkning av fiske- og fangstfartøys aktivitet. Rapporteringsplikt for fartøy over 21 meter i henhold til forskrift 16. februar 2005 nr. 151 om rapportering av fangst for norske fartøy gjelder likevel fram til 1. juli 2010, jf. § 10 første ledd bokstav a.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    }
+  ]
+}

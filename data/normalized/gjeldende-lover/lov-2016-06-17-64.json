@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2016-06-17-64",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om åpenhet om eierskap i medier",
+  "short_title": "Lov om åpenhet om eierskap i medier",
+  "department": "Kultur- og likestillingsdepartementet",
+  "legal_area": "IKT- og medierett > Medier IKT- og medierett > Kringkasting Selskaper, fond og foreninger > Selskaper. Statsforetak",
+  "date_in_force": "2016-07-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "lov/2025-04-25-12 fra 2026-01-01",
+  "lovdata_refid": "lov/2016-06-17-64",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2016-06-17-64",
+  "raw_xml_sha256": "d5d53aeb9dbace37c2cd3c2f8743f9e904f2cbd0003205275d24f66d7bc61ad0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens formål",
+      "path": [],
+      "text": "Lovens formål er å sikre åpenhet om eierforhold i norske medier.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Lovens virkeområde",
+      "path": [],
+      "text": "Loven gjelder foretak som driver dagspresse, fjernsyn, radio eller elektroniske medier, samt foretak som gjennom eierskap eller samarbeidsavtaler har innflytelse over slike foretak.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Medietilsynets oppgaver",
+      "path": [],
+      "text": "Medietilsynet skal bidra til å skape større åpenhet, oppmerksomhet og kunnskap om eierforholdene i norske medier. Tilsynet skal innhente og systematisere informasjon om eierforholdene, og informasjonen skal gjøres tilgjengelig for allmennheten.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Opplysningsplikt",
+      "path": [],
+      "text": "Enhver plikter å gi Medietilsynet de opplysninger tilsynet krever for å kunne utføre sine oppgaver etter loven. Opplysningsplikten omfatter både opplysninger om eierskap i norske medier og opplysninger om samarbeidsavtaler som gir en avtalepart tilsvarende innflytelse over det redaksjonelle produktet som eierskap. Opplysninger kan kreves gitt skriftlig eller muntlig innen en fastsatt frist.\nOpplysninger som kreves etter første ledd, kan gis uten hinder av den lovbestemte taushetsplikt som ellers påhviler skattemyndigheter og myndigheter som har til oppgave å overvåke offentlig regulering av ervervsvirksomhet. Slik taushetsplikt er heller ikke til hinder for at dokumenter som befinner seg hos slike myndigheter, utleveres for gransking.\nDepartementet kan gi forskrift om omfanget og gjennomføringen av opplysningsplikten.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tvangsmulkt",
+      "path": [],
+      "text": "For å sikre at vedtak etter § 4 første ledd overholdes, kan Medietilsynet ilegge den ansvarlige for oppfyllelsen tvangsmulkt. Tvangsmulkten tilfaller statskassen.\nTvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Ved løpende mulkt kan Medietilsynet bestemme at mulkten skal fastsettes for hver dag, uke eller måned som går etter at en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt. Ved tvangsmulkt i form av et engangsbeløp kan Medietilsynet bestemme at mulkten skal betales når en fastsatt frist for oppfyllelse av plikten løper ut, uten at plikten er oppfylt.\nDepartementet kan gi forskrift om ileggelse av tvangsmulkt, vilkår for tvangsmulkt, tvangsmulktens størrelse og renter ved forsinket betaling.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Klageinstans",
+      "path": [],
+      "text": "Klager over Medietilsynets enkeltvedtak etter denne loven eller etter forskrift fastsatt i medhold av loven behandles av Klagenemnda for mediesaker (Medieklagenemnda).\nKlagenemnda kan ikke av eget tiltak omgjøre Medietilsynets vedtak.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

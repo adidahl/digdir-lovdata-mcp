@@ -1,0 +1,114 @@
+{
+  "id": "FOR-2007-03-30-366",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om HMS-kort på bygge- og anleggsplasser",
+  "short_title": "Forskrift om HMS-kort på bygge- og anleggsplasser",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2008-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-18-2278 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2007-03-30-366",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-03-30-366",
+  "raw_xml_sha256": "4b459e00d7b467dd24087d03f1d31c8e35dcd2ef06975416a18378225b9369f4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å ivareta sikkerhet, helse og arbeidsmiljø på bygge- og anleggsplasser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for virksomhet som utfører arbeid på bygge- og anleggsplasser.1 Med arbeid som utføres på bygge- og anleggsplasser, jf. byggherreforskriften § 2, jf. § 4, menes:oppføring av bygningerinnrednings-, utsmykkings- og installasjonsarbeidmontering og demontering av prefabrikkerte elementerriving, demontering, ombygging og istandsettingsanering og vedlikeholdalminnelig anleggsvirksomhetgraving, sprengning og annet grunnarbeidannet arbeid som utføres i tilknytning til bygge- eller anleggsarbeid.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår for utstedelse av HMS-kort i bygge- og anleggsbransjen",
+      "path": [],
+      "text": "Det er et vilkår for utstedelse av HMS-kort at pålagt registreringsplikt til ett eller flere av følgende offentlige registre er oppfylt:EnhetsregisteretDet sentrale folkeregisterMerverdiavgiftsregisteretArbeidstaker- og arbeidsgiverregisteretOpplysningsplikten til Sentralskattekontoret for utenlandssaker i henhold til skatteforvaltningsloven § 7-6.\nBemanningsforetak, jf. forskrift 4. juni 2008 nr. 541 om bemanningsforetak § 1, som driver utleie av arbeidstakere innenfor denne forskriftens virkeområde, skal i tillegg være registrert i Arbeidstilsynets register over bemanningsforetak.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Arbeidsgivers plikter",
+      "path": [],
+      "text": "Arbeidsgiver og enkeltpersonforetak skal sørge for at alle som utfører arbeid på bygge- og anleggsplasser skal ha HMS-kort utstedt av en kortutsteder utpekt av Arbeidstilsynet.\nArbeidsgiver plikter å sørge for nødvendig identitetskontroll av arbeidstaker før bestilling av HMS-kort. HMS-kort kan bare bestilles av ansatte i, eller innehaver av, virksomheten som skal utføre arbeidet HMS-kortet er knyttet til.\nArbeidstakere eller innehavere av enkeltpersonforetak som er omfattet av forskrift 8. mai 2012 nr. 408 om offentlig godkjenning av renholdsvirksomheter og om kjøp av renholdstjenester § 9, er unntatt fra kravet om HMS-kort etter forskriften her.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Kortinnehavers ansvar",
+      "path": [],
+      "text": "HMS-kortet er personlig og skal ikke overdras til andre.\nHMS-kortet skal bæres godt synlig under opphold på bygge- og anleggsplasser, og kortet skal på oppfordring vises til Arbeidstilsynet, Havindustritilsynet, skattemyndighetene, politiet, verneombud, virksomhet med ansvar for samordning av vernetiltak etter arbeidsmiljøloven § 2-2 og byggherre, byggherres representant og koordinator for sikkerhet, helse og arbeidsmiljø etter byggherreforskriften.\nBestemmelsen gjelder også for arbeidstakere og innehavere av enkeltpersonforetak som er omfattet av § 4 tredje ledd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Kortutsteders plikter",
+      "path": [],
+      "text": "Arbeidstilsynet er å anse som behandlingsansvarlig i henhold til personopplysningsloven. Ved utstedelsen av HMS-kort opptrer kortutsteder på vegne av Arbeidstilsynet.\nKortutsteder skal påse at vilkårene for å utstede HMS-kort er oppfylt før kort utstedes, herunder foreta identitetskontroll av arbeidstaker.\nKortutsteder skal opprette og føre et register over godkjente bestillere.\nKortutsteder skal opprette og føre et register over alle utstedte kort, med tilhørende data.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Krav til opplysninger på HMS-kortet",
+      "path": [],
+      "text": "HMS-kortet skal inneholde følgende opplysninger på norsk og engelsk:navn på arbeidsgiver eller enkeltpersonforetakorganisasjonsnummer for registreringspliktige virksomheternavn på kortinnehaverenbilde av kortinnehaverenkortinnehaverens fødselsdatoutstedelsesdatokortnummernavn på utsteder av kortet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Kortets gyldighet, kontroll og inndragning",
+      "path": [],
+      "text": "HMS-kortet utstedes for en periode på to år. Kortet er kun gyldig så lenge ansettelsesforholdet består.\nDen som er omfattet av oppregningen i § 5 annet ledd, kan gjennom oppslag i registrene nevnt i § 3 kontrollere om registerpliktene etter § 3 er oppfylt. Dersom oppslaget gir grunn til å tro at registerpliktene ikke er oppfylt, skal det gis melding til Arbeidstilsynet eller Havindustritilsynet, og til kortinnehaverens arbeidsgiver.\nArbeidstilsynet, Havindustritilsynet, skattemyndighetene og politiet kan inndra HMS-kort som er ugyldige fordi gyldighetsperioden er utløpt, arbeidsforholdet eller virksomheten er opphørt, eller dersom kortet eller bruken av kortet av andre grunner er ugyldig.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8a",
+      "heading": "Arbeidsgivers plikt til å makulere HMS-kort",
+      "path": [],
+      "text": "Etter utløpet av kortets gyldighetsperiode skal virksomheten straks sørge for at HMS-kortet blir makulert. Det samme gjelder ved opphør av arbeidsforholdet eller når virksomheten opphører.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Tap av HMS-kort",
+      "path": [],
+      "text": "Ved tapt eller stjålet HMS-kort skal det umiddelbart gis melding til arbeidsgiver. Arbeidsgiver skal umiddelbart melde fra til kortutsteder slik at kortet gjøres ugyldig og nytt kort utstedes. Tilsvarende gjelder for enkeltpersonforetak.\nDersom tapt HMS-kort kommer til rette skal det leveres arbeidsgiver for makulering.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift eller vedtak gitt i medhold av denne, eller medvirkning til dette, er straffbart i henhold til arbeidsmiljøloven kapittel 19.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra den tid departementet bestemmer.1",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

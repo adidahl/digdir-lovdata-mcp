@@ -1,0 +1,848 @@
+{
+  "id": "FOR-2020-03-09-715",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om offentlig kontroll – IMSOC – forordning (EU) 2019/1715",
+  "short_title": "IMSOC-forskriften",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2020-04-07",
+  "last_change_in_force": "2025-06-18",
+  "last_changed_by": "forskrift/2025-06-18-1068",
+  "lovdata_refid": "forskrift/2020-03-09-715",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-03-09-715",
+  "raw_xml_sha256": "0c104427c7ccb2a0ece988c51e7d0dd224f91788c56f0a32e2789f1c05373af8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften regulerer informasjonsstyringssystemet for offentlig kontroll og dets underliggende systemer.\nVed konflikt mellom forordningens bestemmelser og denne bestemmelse, går alltid forordningens bestemmelser foran.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Informasjonsstyringssystemet for offentlig kontroll (IMSOC)",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kap. I del 1.1 nr. 11bd, kap. II nr. 31qd og vedlegg II kap. XII nr. 164d (forordning (EU) 2019/1715, som endret ved forordning (EU) 2021/547) om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen») gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 2a",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kapittel I del 1.1 nr. 11bzg, kap. II nr. 31qzb og vedlegg II kap. XII nr. 164zh (forordning (EU) 2024/2104) om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen gjelder som forskrift med de tilpasninger som følger vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra den blir kunngjort i Norsk Lovtidend.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "heading": "Formål og virkeområde",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 1Formål, virkeområde og definisjoner"
+      ],
+      "text": "1. I denne forordning fastsettessærlige vilkår og framgangsmåter for oversending av meldinger og tilleggsopplysninger for hurtigvarslingssystemet for næringsmidler og fôr (RASFF), som skal opprettes i henhold til forordning (EF) nr. 178/2002,framgangsmåter for opprettelse og bruk av det databaserte systemet for melding og rapportering av sykdommer i Unionen, som skal opprettes og forvaltes av Kommisjonen i samsvar med artikkel 22 i forordning (EU) 2016/429,særlige regler, herunder frister, for innsending av meldinger, som skal fastsettes i henhold til forordning (EU) 2016/2031,regler for databasert håndtering og utveksling av opplysninger, data og dokumenter i informasjonsstyringssystemet for offentlig kontroll (IMSOC) som er nødvendige for å gjennomføre den offentlige kontrollen fastsatt i forordning (EU) 2017/625 med hensyn tilformatet for det felles innførselsdokumentet om helse (CHED) nevnt i artikkel 56 i forordning (EU) 2017/625, herunder den elektroniske versjonen, og veiledning om hvordan det skal framlegges og brukes,ensartede ordninger for samarbeid mellom tollmyndigheter, vedkommende myndigheter og andre myndigheter, som nevnt i artikkel 75 i forordning (EU) 2017/625,utstedelse av elektroniske sertifikater og bruk av elektroniske signaturer for de offisielle sertifikatene nevnt i artikkel 87 i forordning (EU) 2017/625,standardformater for utveksling av opplysninger innenfor rammen av administrativ bistand og administrativt samarbeid, som nevnt i avdeling IV i forordning (EU) 2017/625, som gjelderanmodninger om bistand,vanlige og gjentakende meldinger og svar,spesifikasjoner for de tekniske verktøyene og framgangsmåtene for kommunikasjon mellom kontaktorganer utpekt i samsvar med artikkel 103 nr. 1 i forordning (EU) 2017/625,hensiktsmessig drift av IMSOC som nevnt i avdeling VI kapittel IV i forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 1Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forordning menes med«komponent» et elektronisk system som er integrert i IMSOC,«nettverk» en gruppe medlemmer som har tilgang til en bestemt komponent,«nettverksmedlem» vedkommende myndighet i en medlemsstat, Kommisjonen, et EU-byrå, vedkommende myndighet i en tredjestat eller en internasjonal organisasjon som har tilgang til minst én komponent,«kontaktpunkt» kontaktpunktet som nettverksmedlemmet har utpekt til å representere seg,«medlemsstatens nasjonale system» et databasert informasjonssystem som er eid og opprettet av en medlemsstat før ikrafttredelsesdatoen for forordning (EU) 2017/625, med henblikk på å forvalte, håndtere og utveksle data, opplysninger og dokumenter om offentlige kontroller, og som gjør det mulig å utveksle data elektronisk med den relevante komponenten,«internasjonal organisasjon» ethvert av de internasjonalt anerkjente organene angitt i artikkel 121 bokstav g) i forordning (EU) 2017/625 eller lignende mellomstatlige organisasjoner,«iRASFF» det elektroniske systemet som gjennomfører RASFF- og AAC-prosedyrene beskrevet i henholdsvis artikkel 50 i forordning (EF) nr. 178/2002 og i artikkel 102-108 i forordning (EU) 2017/625,",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1",
+      "provision_ref": "a3#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1",
+      "heading": "Komponenter i IMSOC",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. IMSOC skal bestå av følgende komponenter:iRASFF.ADIS.EUROPHYT.TRACES.2. Komponentene nevnt i nr. 1 skal fungere i samsvar med de allmenne prinsippene om og reglene for vern av opplysninger fastsatt i dette kapittel.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2",
+      "provision_ref": "a4#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2",
+      "heading": "Komponenter, nettverk og kontaktpunkter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Hver av komponentene skal ha et nettverk som Kommisjonen skal være en del av.2. Hvert nettverksmedlem skal utpeke minst ett kontaktpunkt og underrette Kommisjonens kontaktpunkt om dette og om kontaktopplysningene for det. De skal umiddelbart underrette Kommisjonens kontaktpunkt om eventuelle endringer av dette.3. Kommisjonens kontaktpunkt skal føre og holde oppdatert en liste over kontaktpunkter og gjøre den tilgjengelig for alle nett-verksmedlemmene.4. Kommisjonen skal opprette en styringsstruktur for å styre utviklingen av, fastsette prioriteringer for og overvåke at IMSOC gjennomføres på riktig måte. Styringsstrukturen skal bestå avet driftsstyre, i samarbeid med medlemsstatene, som minst en gang i året skal drøfte prioriteringer for og utviklingen av hver komponent,undergrupper i driftsstyret som regelmessig skal drøfte prioriteringer for og utviklingen av spesifikke funksjoner for hver av komponentene.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3",
+      "provision_ref": "a5#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3",
+      "heading": "Eierskap til og ansvar for data, opplysninger og dokumenter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Hvert nettverksmedlem skal eie og være ansvarlig for dataene, opplysningene og dokumentene som dets kontaktpunkt eller brukere som handler under dets ansvar, har lagt inn eller generert i den relevante komponenten.2. Hver underskriver, vedkommende myndighet som en underskriver tilhører, eller vedkommende myndighet som oppretter et elektronisk segl, skal eie og være ansvarlig for den delen av dokumentene som den skriver under eller påfører segl i TRACES.3. Dersom flere enn én underskriver skriver under et dokument i TRACES, skal hver underskriver eie og være ansvarlig for den delen av dokumentet som vedkommende skriver under.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-4",
+      "provision_ref": "a6",
+      "heading": "Koplinger mellom komponentene",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Koplingene mellom komponentene skal ha som formål åkomplettere data, opplysninger eller dokumenter i en eller flere komponenter med data, opplysninger eller dokumenter som allerede finnes i en annen komponent, oggi nettverksmedlemmene relevante og oppdaterte opplysninger, slik at de kan utføre sine oppgaver i samsvar med reglene som er fastsatt for hver komponent i denne forordning, ogstøtte og bruke framgangsmåtene forå fastsette og endre hyppigheten av identitetskontrollen og den fysiske kontrollen som skal gjennomføres av forsendelser med kategoriene av varer og dyr nevnt i artikkel 47 nr. 1 bokstav a), b) og c) i forordning (EU) 2017/625,å gjennomføre identitetskontroll og fysisk kontroll med foreskreven hyppighet av forsendelser med kategoriene av varer og dyr nevnt i bokstav d), e) og f) i nevnte artikkel,vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen ved mistanke om manglende overholdelse som nevnt i artikkel 65 nr. 6 i nevnte forordning.2. Koplingene nevnt i nr. 1 skal bestå av koplinger mellomiRASFF og TRACES som gjør det mulig å utveksle data om meldinger om avvisning ved grensen og felles innførselsdokumenter om helse,► M1EUROPHYT og TRACES som gjør det mulig å utveksle data om EUROPHYT-meldinger om utbrudd,iRASFF og TRACES som gjør det mulig å utveksle data om de driftsansvarliges historikk med hensyn til overholdelse av reglene nevnt i artikkel 1 nr. 2 i forordning (EU) 2017/625.ADIS og TRACES som gjør det mulig å utveksle data og informasjon om melding i Unionen◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-5",
+      "provision_ref": "a7",
+      "heading": "Elektronisk utveksling av data mellom komponenter og andre elektroniske systemer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Utveksling av data mellom IMSOC og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skalvære basert på internasjonale standarder som er relevante for komponenten, og bruke formatene XML, CMS eller PDF,bruke de spesifikke datakatalogene og forretningsreglene som er tilgjengelige i den relevante komponenten.2. Kommisjonen skal gi medlemsstateneopplysninger om hyppigheten av identitetskontroller og fysiske kontroller nevnt i artikkel 6 nr. 1 bokstav c) i),opplysninger om hyppigheten og utfallet av vedkommende myndigheters koordinerte gjennomføring av den skjerpede offentlige kontrollen nevnt i artikkel 6 nr. 1 bokstav c) iii),datakatalogene og forretningsreglene nevnt i nr. 1 bokstav b).3. Kommisjonen skal i samarbeid med medlemsstatene utarbeide en servicenivåavtale om vedlikehold av den elektroniske utvekslingen av data mellom den relevante komponenten og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-6",
+      "provision_ref": "a8",
+      "heading": "Kommisjonens forpliktelser og rettigheter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Kommisjonen skal sørge for drift, vedlikehold, støtte og enhver nødvendig oppdatering eller utvikling av komponentenes programvare og IT-infrastruktur.2. Kommisjonen skal ha tilgang til alle data, opplysninger og dokumenter i hver av komponentene for å kunne overvåke utvekslingen av data, opplysninger og dokumenter som er lagt inn eller generert i dem, for å identifisere aktiviteter som ikke er, eller som ser ut til ikke å være, i samsvar med reglene nevnt i artikkel 1 nr. 2 i forordning (EU) 2017/625, og somhar eller kan ha konsekvenser i flere enn én medlemsstat, ellerfinner sted eller ser ut til å finne sted i flere enn én medlemsstat.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-7",
+      "provision_ref": "a9",
+      "heading": "Vilkår for å gi tredjestater og internasjonale organisasjoner delvis tilgang til IMSOC",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Etter å ha mottatt en behørig begrunnet søknad kan Kommisjonen i samarbeid med medlemsstatene gi vedkommende myndighet i en tredjestat eller en internasjonal organisasjon delvis tilgang til funksjoner i en eller flere komponenter og til spesifikke data, opplysninger og dokumenter som er lagt inn eller generert i dem, forutsatt at søkeren for den eller de aktuelle komponentene dokumenterer at vedkommende oppfyller følgende krav:Vedkommende har den rettslige og driftsmessige kapasiteten til uten unødig opphold å yte den bistanden som er nødvendig for å sikre at komponenten som det anmodes om delvis tilgang til, fungerer tilfredsstillende.Vedkommende har utpekt et kontaktpunkt for dette formålet.2. Den delvise tilgangen nevnt i nr. 1 skal ikke omfatte tilgang til personopplysninger som behandles i den eller de komponentene som det gis delvis tilgang til.3. Som unntak fra nr. 2 kan delvis tilgang omfatte tilgang til personopplysninger dersom den ansøkende tredjestaten eller internasjonale organisasjonen oppfyller vilkårene for lovlig overføring av personopplysning i henhold til forordning (EU) 2016/679 og (EU) 2018/1725.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-8",
+      "provision_ref": "a10",
+      "heading": "Behandling av personopplysninger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Personopplysninger skal behandles i hver komponent for det formål å gjennomføre offentlig kontroll og annen offentlig virksomhet. Personopplysninger skal særlig tilhøre en av følgende kategorier:Kontaktpunkter, driftsansvarlige, importører, eksportører, transportører og laboratorieteknikere når det kreves personopplysninger i henhold til unionsretten.Brukere av hver komponent.2. Ved behandling av personopplysninger i henhold til denne forordning skal medlemsstatene oppfylle kravene i forordning (EU) 2016/679 og direktiv (EU) 2016/680, og Kommisjonen skal oppfylle kravene i forordning (EU) 2018/1725.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-9",
+      "provision_ref": "a11",
+      "heading": "Behandlingsansvarlige og felles behandlingsansvar",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 2Allmenne prinsipper og vern av opplysninger"
+      ],
+      "text": "1. Kommisjonen og vedkommende myndigheter i tredjestatene skal være felles behandlingsansvarlige for databehandlingen i hver av komponentene.2. Kommisjonen skal ha ansvar for åfastsette og iverksette de tekniske midlene som gjør det mulig for registrerte å utøve sine rettigheter, og sikre at disse rettighetene utøves i samsvar med forordning (EU) 2018/1725,sørge for sikker behandling i hver av komponentene i henhold til artikkel 33 i forordning (EU) 2018/1725,fastsette hvilke kategorier av Kommisjonens eget personale og eksterne leverandører som kan gis tilgang til komponentene,melde ethvert brudd på personopplysningssikkerheten i komponentene til EUs datatilsyn i henhold til artikkel 34 i forordning (EU) 2018/1725 og underrette den registrerte om dette i henhold til artikkel 35 i nevnte forordning,sørge for at Kommisjonens personale og eksterne leverandører har fått tilstrekkelig opplæring for å kunne utføres sine oppgaver i henhold til forordning (EU) 2018/1725.3. Vedkommende myndigheter i medlemsstatene skal ha ansvar for åsørge for at den registrertes rettigheter utøves i samsvar med forordning (EU) 2016/679 og denne forordning,sikre personopplysningenes sikkerhet og konfidensialitet i henhold til kapittel IV avsnitt 2 i forordning (EU) 2016/679,utpeke det personalet som skal ha tilgang til hver komponent,sikre at personalet som har tilgang til hver komponent, har fått tilstrekkelig opplæring for å kunne utføre sine oppgaver i samsvar med forordning (EU) 2016/679 og, dersom det er relevant, direktiv (EU) 2016/680.4. Vedkommende myndigheter i medlemsstatene kan utpeke forskjellige felles behandlingsansvarlige i samme medlemsstat for å oppfylle en eller flere av forpliktelsene nevnt i nr. 3.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "a12",
+      "heading": "Kontaktorganer med ansvar for utveksling av visse typer opplysninger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "Medlemsstatene skal angi hvilket av kontaktorganene utpekt i samsvar med artikkel 103 nr. 1 i forordning (EU) 2017/625 som har ansvar for å utveksle opplysninger om meldinger om svindel.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "a13",
+      "heading": "Nasjonalt kontaktpunkt",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Det nasjonale kontaktpunktet i hver medlemsstat skal ha ansvar for åopprette effektive ordninger for å sikre en smidig utveksling av relevante opplysninger med alle relevante vedkommende myndigheter innenfor sin jurisdiksjon, slik at meldinger, anmodninger eller svar umiddelbart kan oversendes til vedkommende myndigheter med henblikk på egnede tiltak, samt sørge for god orden i meldingene, anmodningene eller svarene,fastsette sine egne roller og ansvarsområder og de som påhviler relevante vedkommende myndigheter innenfor kontaktpunktets jurisdiksjon med hensyn til utarbeiding og oversending av meldinger, anmodninger og svar, samt vurdering og distribusjon av meldinger, anmodninger og svar fra andre medlemmer av varslings- og samarbeidsnettverket.► M12. Medlemsstatene kan innlemme sitt kontaktpunkt for nettverket mot svindel i sitt nasjonale kontaktpunkt.◄ M13. Kommunikasjonen i RASFF-nettverket skal skje gjennom det nasjonale kontaktpunktet.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-3",
+      "provision_ref": "a14",
+      "heading": "Arbeidsoppgaver for medlemmene av varslings- og samarbeidsnettverket",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Medlemmene av varslings- og samarbeidsnettverket skal sørge for at nettverkene innenfor deres jurisdiksjon fungerer effektivt.2. Hvert utpekte kontaktpunkt for varslings- og samarbeidsnettverket skal gi Kommisjonens kontaktpunkt detaljerte opplysninger om personene som tar hånd om driften, samt deres kontaktopplysninger. For dette formål skal malen for kontaktpunktopplysninger som Kommisjonen stiller til rådighet, brukes.3. RASFF-nettverkets kontaktpunkter skal sørge for at en vakthavende er tilgjengelig for nødkommunikasjon døgnet rundt alle dager.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-4",
+      "provision_ref": "a15",
+      "heading": "Opplysninger som utveksles i iRASFF",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Utveksling av opplysninger mellom varslings- og samarbeidsnettverkets kontaktpunkter i henhold til artikkel 50 i forordning (EF) nr. 178/2002 og avdeling IV i forordning (EU) 2017/625 skal bare gjøres i iRASFF og i form av meldinger, anmodninger og svar.2. Varslings- og samarbeidsnettverkets kontaktpunkter skal fylle ut de relevante feltene i en melding for å muliggjøre en utvetydig identifisering av produktet, risikoen(e), tilfeller av manglende overholdelse og mistanke om svindel, framlegge opplysninger om sporbarhet dersom det er mulig, samt identifisere kontaktpunkter med ansvar for en eventuell oppfølging av en melding eller et svar på en anmodning.3. Meldinger kan oversendes som opprinnelige meldinger eller oppfølgingsmeldinger.4. Anmodninger og svar skal inneholde opplysninger om varslings- og samarbeidsnettverkets kontaktpunkt(er) som anmodningen eller svaret er rettet til.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-5",
+      "provision_ref": "a16",
+      "heading": "Meldinger om manglende overholdelse",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Varslings- og samarbeidsnettverkets kontaktpunkter skal uten unødig opphold utveksle meldinger om manglende overholdelse som minst skal inneholde følgende:Navnet på vedkommende myndighet som behandler meldingen, dersom denne er en annen enn kontaktpunktet.En beskrivelse av den mulige manglende overholdelsen.Identifisering, dersom det er mulig, av de driftsansvarlige som er knyttet til den mulige manglende overholdelsen.Nærmere opplysninger om de berørte dyrene eller varene.Opplysninger om mistanker om risikoer.En angivelse av om meldingen gjelder et mulig tilfelle av manglende overholdelse som skyldes bedragersk praksis.2. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om manglende overholdelse.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-6",
+      "provision_ref": "a17",
+      "heading": "Varselmeldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. RASFF-nettverkets kontaktpunkter skal oversende varselmeldinger til Kommisjonens kontaktpunkt uten unødig opphold og under alle omstendigheter senest 48 timer etter at de er blitt underrettet om risikoen.2. Varselmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen. Det faktum at ikke alle relevante opplysninger foreligger, skal ikke forsinke oversendingen av varselmeldinger unødig.3. Kommisjonens kontaktpunkt skal kontrollere varselmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter senest 24 timer etter å ha mottatt dem.4. Utenom Kommisjonens kontortid skal RASFF-nettverkets kontaktpunkter underrette Kommisjonens kontaktpunkt om at en varselmelding er overført, eller følge opp en varselmelding, ved å ringe nødnummeret til nevnte kontaktpunkt og angi hvilke medlemsstater i RASFF-nettverket som er berørt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som er berørt, ved å ringe deres nødnumre.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-7",
+      "provision_ref": "a18",
+      "heading": "Informasjonsmeldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende informasjonsmeldinger til Kommisjonens kontaktpunkt.2. Informasjonsmeldinger skal inneholde alle tilgjengelige opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.3. Kommisjonens kontaktpunkt skal kontrollere informasjonsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-8",
+      "provision_ref": "a19",
+      "heading": "Nyhetsmeldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Varslings- og samarbeidsnettverkets kontaktpunkter kan oversende nyhetsmeldinger til Kommisjonens kontaktpunkt.2. Nyhetsmeldinger skal inneholde opplysningene som kreves i henhold til artikkel 16 nr. 1, når dette er tilgjengelig.3. Kommisjonens kontaktpunkt skal kontrollere nyhetsmeldingene og oversende dem til varslings- og samarbeidsnettverkets kontaktpunkter uten unødig opphold etter å ha mottatt dem.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-9",
+      "provision_ref": "a20",
+      "heading": "Meldinger om avvisning ved grensen",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. RASFF-nettverkets kontaktpunkter skal uten unødig opphold oversende meldinger om avvisning ved grensen til varslings- og samarbeidsnettverkets kontaktpunkter.2. Meldinger om avvisning ved grensen skal inneholde alle opplysninger som kreves i henhold til artikkel 16 nr. 1, og alle opplysninger om risikoen og produktet som er opphav til risikoen.3. Opplysningene nevnt i nr. 2 skal oversendes via TRACES til alle grensekontrollstasjoner.4. Kommisjonens kontaktpunkt skal kontrollere hver oversendte melding om avvisning ved grensen.► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-10",
+      "provision_ref": "a21",
+      "heading": "Meldinger om svindel",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Kontaktpunktene for nettverket mot svindel skal utveksle meldinger om svindel som minst skal inneholde følgende:Alle opplysninger som kreves i henhold til artikkel 16 nr. 1.En beskrivelse av den mistenkte svindelen.Dersom det er mulig, en identifisering av de driftsansvarlige som er involvert.Opplysninger om hvorvidt det pågår politietterforskning eller rettslige undersøkelser av den mistenkte svindelen.Opplysninger om eventuelle pålegg fra politi eller rettsmyndighet så snart disse foreligger og kan utleveres.2. Kontaktpunktene for nettverket mot svindel skal uten unødig opphold oversende alle opplysninger om helserisikoer til sitt kontaktpunkt for RASFF-nettverket.3. Kommisjonens kontaktpunkt skal uten unødig opphold kontrollere hver utvekslede melding om svindel.◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-11",
+      "provision_ref": "a22",
+      "heading": "Oppfølgingsmeldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Dersom et medlem av varslings- og samarbeidsnettverket har tilleggsopplysninger om en opprinnelig melding, skal det eller de berørte kontaktpunktene umiddelbart oversende en oppfølgingsmelding til nevnte nettverk.2. Dersom et kontaktpunkt nevnt i nr. 1 har anmodet om oppfølgende opplysninger om en opprinnelig melding, skal disse opplysningene uten unødig opphold og i den grad det er mulig, oversendes varslings- og samarbeidsnettverket.3. Dersom et medlem av RASFF-nettverket treffer tiltak etter å ha mottatt en opprinnelig melding i samsvar med artikkel 50 nr. 5 i forordning (EF) nr. 178/2002, skal dets kontaktpunkt umiddelbart oversende en detaljert oppfølgingsmelding til varslings- og samarbeidsnettverket.4. Dersom tiltaket nevnt i nr. 3 består i å holde tilbake et produkt og sende det tilbake til en avsender i staten til et annet RASFF-nettverksmedlem,skal nettverksmedlemmet som treffer tiltaket, gi relevante opplysninger om det tilbakesendte produktet i en oppfølgingsmelding, med mindre alle disse opplysningene allerede er angitt i den opprinnelige meldingen,skal det andre nettverksmedlemmet gi opplysninger i en oppfølgingsmelding om tiltaket som er truffet i forbindelse med det tilbakesendte produktet.5. Som unntak fra nr. 1 gjelder at dersom en oppfølgingsmelding endrer klassifiseringen av en opprinnelig melding til en varsel- eller informasjonsmelding, skal medlemmet av varslings- og samarbeidsnettverket oversende den til Kommisjonens kontaktpunkt for kontroll og oversending til varslings- og samarbeidsnettverkets kontaktpunkter innen fristene fastsatt i artikkel 17 eller 18.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-12",
+      "provision_ref": "a23",
+      "heading": "Tilgang til meldinger i iRASFF",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Alle medlemmer av varslings- og samarbeidsnettverket skal ha tilgang til varselmeldinger, informasjonsmeldinger, nyhetsmeldinger eller meldinger om avvisning ved grensen.2. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare varslings- og samarbeidsnettverkets medlemmer som meldinger kommer fra, og underrettede og anmodede medlemmer av nettverket som skal ha tilgang til meldinger om manglende overholdelse. Andre nettverksmedlemmer skal imidlertid ha tilgang til opplysningene nevnt i artikkel 16. nr. 1 bokstav a), b) og e).► M13. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, er det bare de kontaktpunktene i nettverket mot svindel som meldinger kommer fra, og nettverkets underrettede og anmodede kontaktpunkter som skal ha tilgang til meldinger om svindel.◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-13",
+      "provision_ref": "a24",
+      "heading": "Kontroll og offentliggjøring av meldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Kommisjonens kontaktpunkts kontroll av meldinger skal omfatte kontroll avat meldingen er fullstendig og leselig,at det rettslige grunnlaget for meldingen er riktig. Et feilaktig rettslig grunnlag skal imidlertid ikke hindre oversending av en melding dersom en risiko er blitt identifisert,om meldingen omfattes av RASFF-nettverkets virkeområde,at de viktigste opplysningene i meldingen er angitt på et språk som er enkelt å forstå for varslings- og samarbeidsnettverkets kontaktpunkt,at kravene i denne forordning er oppfylt,om det gjentatte ganger er rapportert om den samme driftsansvarlige og/eller fare og/eller opprinnelsesstat.► M12. Som unntak fra nr. 1 skal meldinger om manglende overholdelse, svindel og avvisning på grensen omfatte bokstav b), c) og e) i nevnte nummer.◄ M13. Når Kommisjonens kontaktpunkt har kontrollert en melding i samsvar med nr. 1 eller 2, kan den offentliggjøre et sammendrag av varselmeldinger, informasjonsmeldinger, meldinger om avvisning på grensen og meldinger om manglende overholdelse med opplysninger om klassifiseringen av og statusen for meldingen, produktet og den eller de risikoene som er identifisert, opprinnelsesstaten, statene der produktet er blitt distribuert, nettverksmedlemmet som meldingen kommer fra, grunnlaget for meldingen og tiltak som er truffet.4. Kommisjonen skal offentliggjøre en årlig rapport om meldingene som er oversendt i iRASFF.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-14",
+      "provision_ref": "a25",
+      "heading": "Tilbaketrekking og endring av meldinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Dersom tiltaket som skal treffes, ser ut til å være basert på grunnløse opplysninger, eller dersom meldingen er oversendt ved en feil, kan alle kontaktpunktene i varslings- og samarbeidsnettverket be om at► M1et kontaktpunkt som meldingen kommer fra, trekker tilbake en melding om manglende overholdelse, svindel eller oppfølging,◄ M1Kommisjonens kontaktpunkt, etter samtykke fra kontaktpunktet som meldingen kommer fra, trekker tilbake en varsel- eller informasjonsmelding, en melding om avvisning ved grensen eller en nyhetsmelding.2. Alle kontaktpunktene i varslings- og samarbeidsnettverket kan be om at en melding endres etter samtykke fra kontaktpunktet som meldingen kommer fra.3. En oppfølgingsmelding skal ikke anses som en endring av en melding, og den kan derfor oversendes uten samtykke fra andre nettverksmedlemmer, med mindre oppfølgingsmeldingen endrer klassifiseringen av meldingen.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-15",
+      "provision_ref": "a26",
+      "heading": "Avslutning av en melding og lagringstid for personopplysninger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. En melding avsluttes automatisk i iRASFF dersomdet ikke foreligger uavsluttede oppfølgingsanmodninger, elleralle anmodninger er besvart, ellerdet ikke er svart på den siste anmodningen senest seks måneder etter at den er overført.2. Personopplysninger fra avsluttede meldinger skal lagres i høyst ti år.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-16",
+      "provision_ref": "a27",
+      "heading": "Utveksling av opplysninger med tredjestater",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Dersom en varselmelding, informasjonsmelding eller melding om avvisning ved grensen gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, skal Kommisjonen uten opphold underrette nevnte tredjestat.► M12. Dersom en melding om manglende overholdelse eller om svindel gjelder et produkt som har sin opprinnelse i eller er distribuert til en tredjestat som ikke har tilgang til iRASFF eller TRACES, kan Kommisjonen underrette nevnte tredjestat.◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-17",
+      "provision_ref": "a28",
+      "heading": "Beredskapsplaner for iRASFF",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 1iRASFF"
+      ],
+      "text": "1. Dersom iRASFF er utilgjengelig,skal RASFF-nettverkets kontaktpunkter underrette om at det oversendes en e-post angående en varselmelding eller oppfølging av en varselmelding, ved å ringe nødnummeret til Kommisjonens kontaktpunkt. Kommisjonens kontaktpunkt skal underrette de av RASFF-nettverkets kontaktpunkter som skal stå for oppfølgingen, ved å ringe deres nødnumre,skal AAC-nettverkets kontaktpunkter utveksle opplysninger via e-post,► M1skal kontaktpunktene i nettverket mot svindel utveksle opplysninger om meldinger om svindel via e-post,◄ M1skal utvekslingen nevnt i bokstav b) og c) ikke utløse anmodnings- og svarmekanismen.2. Når iRASFF er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge inn opplysningene som er blitt utvekslet utenfor systemet, i systemet.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-1-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-1",
+      "provision_ref": "a29",
+      "heading": "ADIS-nettverket",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 2ADIS"
+      ],
+      "text": "► M11. Hvert medlem av ADIS-nettverket skal utpeke minst ett kontaktpunkt med ansvar for innsending av data og opplysninger om meldinger og rapportering i forbindelse med artiklene 3, 4, 6, 7, 8, 11 og 13 i Kommisjonens gjennomføringsforordning (EU) 2020/2002*.2. Hvert av ADIS-nettverkets kontaktpunkter skal føre en oppdatert liste i ADIS over meldings- og rapporteringsregioner som kontaktpunktets medlemsstat har opprettet, og som er fastsatt i vedlegg IV til gjennomføringsforordning (EU) 2020/2002.◄ M1► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-2",
+      "provision_ref": "a29a",
+      "heading": "Lagringstid for personopplysninger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 2ADIS"
+      ],
+      "text": "Personopplysninger fra meldinger og rapporter i Unionen nevnt i artikkel 29 nr. 1 skal lagres i ADIS i høyst ti år.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-3",
+      "provision_ref": "a29b",
+      "heading": "Beredskapsplaner for ADIS",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 2ADIS"
+      ],
+      "text": "1. Dersom ADIS ikke er tilgjengelig, skal ADIS-nettverkets kontaktpunkter sende inn de dataene og opplysningene om meldinger og rapporter i Unionen som er omhandlet i artikkel 29 nr. 1, via e-post eller på andre måter angitt på Kommisjonens nettsted2. Når ADIS er tilgjengelig igjen, skal varslings- og samarbeidsnettverkets kontaktpunkter legge de dataene og opplysningene som er blitt innsendt utenfor systemet, inn i ADIS.◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-1",
+      "provision_ref": "a30",
+      "heading": "EUROPHYT-nettverket for utbrudd",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 3EUROPHYT"
+      ],
+      "text": "Hvert medlem av EUROHYT-nettverket for utbrudd skal utpeke et kontaktpunkt som skal ha ansvaret for å sende inn EUROPHYT-meldinger om utbrudd i EUROPHYT.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-2",
+      "provision_ref": "a31",
+      "heading": "Artikkel 31",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 3EUROPHYT"
+      ],
+      "text": "---",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-3",
+      "provision_ref": "a32",
+      "heading": "Oversending av EUROPHYT-meldinger om utbrudd til EUROPHYT-nettverket for utbrudd",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 3EUROPHYT"
+      ],
+      "text": "1. EUROPHYT-nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding om utbrudd som minst inneholder opplysningene angitt i nr. 1.1, 1.3, 2.1, 2.2, 3.1, 4.1, 5.1, 5.2, 6.4 og 8 i vedlegg I til denne forordning, senest åtte virkedager etter datoen for det ansvarlige offisielle organets offisielle bekreftelse av forekomsten av en skadegjører som nevnt i artikkel 11 første ledd bokstav a) og b), artikkel 29 nr. 1, artikkel 30 nr. 1 og artikkel 33 nr. 1 i forordning (EU) 2016/2031.2. Dersom forekomsten av en skadegjører er offisielt bekreftet i henhold til nr. 1, skal meldingen også inneholde opplysningene angitt i nr. 5.6 i vedlegg I.3. Nettverkets kontaktpunkter skal i EUROPHYT sende inn en melding som inneholder opplysningene angitt i nr. 1.2, 3.2, 4.2, 4.3, 4.4, 5.3-5.6, 6.1, 6.2, 6.3, 6.5, 6.6, 6.7, 7.1–7.6, 9 og 10 i vedlegg I senest 30 dager etter den relevante datoen nevnt i nr. 1.4. EUROPHYT-nettverkets kontaktpunkter skal oppdatere meldingene nevnt i nr. 1 og 3 så snart de har kontrollert eventuelle relevante nye opplysninger som de har fått tilgang til, eller så snart vedkommende myndighet har truffet nye tiltak.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-4",
+      "provision_ref": "a33",
+      "heading": "Artikkel 33",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 3EUROPHYT"
+      ],
+      "text": "---",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-5",
+      "provision_ref": "a34",
+      "heading": "Lagringstid for personopplysninger i EUROPHYT-meldinger om utbrudd",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 3EUROPHYT"
+      ],
+      "text": "I EUROPHYT skal personopplysninger fra EUROPHYT-meldinger om utbrudd lagres i høyst ti år.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-1",
+      "provision_ref": "a35",
+      "heading": "TRACES-nettverket",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "Uten at det berører artikkel 4 nr. 2, skal hvert medlem av TRACES-nettverket utpeke ett eller flere kontaktpunkter for funksjonene omhandlet i artikkel 132 bokstav d) og i artikkel 133 i forordning (EU) 2017/625, og i annet av Unionens regelverk der det henvises til TRACES.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-2",
+      "provision_ref": "a36",
+      "heading": "Tilgang til data, opplysninger og dokumenter i TRACES",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Hver driftsansvarlig skal ha tilgang til dataene, opplysningene eller dokumentene som vedkommende håndterer, genererer eller oversender i TRACES.2. Hver vedkommende myndighet skal ha tilgang til data, opplysninger eller dokumenter som håndteres, genereres eller oversendes på dens ansvar i TRACES, enten av myndighetens eget personale eller av de driftsansvarlige som den har ansvar for i TRACES.3. Dersom mer enn én vedkommende myndighet håndterer, genererer eller oversender data, opplysninger eller dokumenter i TRACES, skal de ha tilgang til alle slike data, opplysninger og dokumenter.4. Uten at det berører Kommisjonens rett til tilgang i henhold til artikkel 8 nr. 2, skal enheter som ikke har bidratt til håndtering, utarbeiding eller oversending av data, opplysninger eller dokumenter i TRACES, eller som ikke er involvert i den aktuelle omsetningen eller forflytningen, ikke ha tilgang til slike data, opplysninger eller dokumenter.5. Som unntak fra nr. 4 i denne artikkel skal vedkommende myndigheter ha tilgang til data, opplysninger og dokumenter om en beslutning om å nekte innførsel av en forsendelse eller et pålegg om å treffe tiltak som er registrert i TRACES i samsvar med artikkel 66 nr. 5 i forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-3",
+      "provision_ref": "a37",
+      "heading": "Utveksling av data mellom TRACES og andre elektroniske systemer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Utvekslingen av data mellom TRACES og andre elektroniske systemer, herunder medlemsstatenes nasjonale systemer, skal være synkronisert, gjensidig og basert på standardene til UN/CEFACT, IPPC og OIE.2. Ved utvekslingen av data mellom TRACES og medlemsstatenes nasjonale systemer skal det brukes referansedata fra TRACES.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-4",
+      "provision_ref": "a38",
+      "heading": "Samarbeid mellom medlemsstatenes myndigheter når det gjelder forsendelser som innføres til Unionen",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Med henblikk på samarbeidet fastsatt i artikkel 75 nr. 1 i forordning (EU) 2017/625 skal medlemsstatenes tollmyndigheter ha tilgang til data, opplysninger og dokumenter om dyr og varer som innføres til Unionen fra tredjestater, og til beslutninger truffet på grunnlag av offentlig kontroll gjennomført i samsvar med avdeling II kapittel V i nevnte forordning, viaTRACES eller medlemsstatenes nasjonale systemer ellerEUs system med ett meldepunkt på tollområdet basert på de elektroniske tollsystemene som er nevnt i vedtak nr. 70/2008/EF, og som er koplet til TRACES.2. Dersom tilgangen nevnt i nr. 1 ikke er tilgjengelig, skal medlemsstatene uten unødig opphold sørge for at deres tollmyndigheter og vedkommende myndigheter gjensidig og rettidig utveksler relevante data, opplysninger og dokumenter.► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-5",
+      "provision_ref": "a39",
+      "heading": "Utstedelse av elektroniske sertifikater for forsendelser av dyr og varer som innføres til Unionen, og bruk av elektroniske signaturer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Elektroniske dyrehelsesertifikater, offisielle sertifikater og kombinerte dyrehelse-/offisielle sertifikater for forsendelser med dyr og varer som innføres til unionen skal oppfylle alle av de følgende krav:De skal være utstedt i ett av følgende systemer:TRACESen medlemsstats nasjonale systemen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med TRACESen tredjestats eller en internasjonal organisasjons system for elektronisk sertifisering som kan utveksle data med en medlemsstats nasjonale system.de skal være undertegnet av en autorisert tjenestemann med dennes elektroniske signatur.de skal være utstyrt med den utstedende kompetente myndighets avanserte eller kvalifiserte elektroniske segl eller med denne myndighets rettslige representants avanserte eller kvalifiserte elektroniske signatur.2. Dersom elektroniske helsesertifikater, offisielle sertifikater og kombinerte helses-/offisielle sertifikater utstedes i samsvar med nr. 1 bokstav a) iii) eller iv), er den offisielle tjenestemannens elektroniske signatur ikke påkrevd.3. Kommisjonen skal underrettes på forhånd om utstedelsen av elektroniske helsesertifikater, offisielle sertifikater og kombinerte helse-/offisielle sertifikater i samsvar med nr. 1 bokstav a) iv).4. Vedkommende myndighet skal godta elektroniske plantehelsesertifikater, som kreves for innførsel av planter, planteprodukter og andre gjenstander til Unionens territorium i samsvar med kapittel VI avsnitt 1 i forordning (EU) 2016/2031, bare dersom de er utstedt i samsvar med nr. 1 bokstav a) i) eller iii) i denne artikkelen.◄ M1► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-6",
+      "provision_ref": "a39a",
+      "heading": "Utstedelse av elektroniske sertifikater og handelsdokumenter for forflytninger av dyr og varer mellom medlemsstater og bruk av elektroniske signaturer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "Elektroniske helsesertifikater, offisielle sertifikater og kombinerte helsesertifikater/offisielle sertifikater for forflytninger av dyr, produkter av animalsk opprinnelse og avlsmateriale mellom medlemsstater, og elektroniske handelsdokumenter for visse animalske biprodukter og avledede produkter som ikke er beregnet på konsum, og som transporteres til en annen medlemsstat, skal oppfylle alle følgende krav:De skal være utstedt i TRACES.De skal være underskrevet av en offentlig veterinær eller sertifikatutsteder med dennes elektroniske signatur.Det skal være forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-7",
+      "provision_ref": "a39b",
+      "heading": "Utstedelse av elektroniske sertifikater for eksport og gjeneksport av planter, planteprodukter og andre gjenstander og bruk av elektroniske signaturer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "Elektroniske plantehelsesertifikater for eksport eller gjeneksport av planter, planteprodukter og andre gjenstander fra Unionens territorium til et tredjeland skal utstedes i ett av følgende systemer:TRACES, forutsatt at sertifikatet oppfyller alle følgende krav:Det er underskrevet av en sertifikatutsteder med dennes elektroniske signatur.Det er forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.En medlemsstats nasjonale system, forutsatt at sertifikatet oppfyller alle følgende krav:Det er underskrevet av en sertifikatutsteder med dennes elektroniske signatur.Det overføres til TRACES senest når det forsynes med sertifikatutstederens elektroniske signatur, og denne overføringen forsynes med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-8",
+      "provision_ref": "a40",
+      "heading": "Formatet for det felles innførselsdokumentet om helse (CHED) og veiledning om hvordan det skal framlegges og brukes",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Det felles innførselsdokumentet om helse skal inneholde felter for opplysningene angitt i del 1 i vedlegg II til denne forordning og skal brukes av den driftsansvarlige og vedkommende myndigheter i samsvar med artikkel 56 nr. 3 i forordning (EU) 2017/625 i ett av følgende formater, alt etter forsendelsens kategori fastsatt i artikkel 47 nr. 1 i nevnte forordning:Et CHED-A som er utarbeidet i samsvar med malen i del 2 avsnitt A i vedlegg II til denne forordning, for forsendelser med dyrnevnt i artikkel 47 nr. 1 bokstav a) i forordning (EU) 2017/625 ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav e) eller f) i forordning (EU) 2017/625.Et CHED-P som er utarbeidet i samsvar med malen i del 2 avsnitt B i vedlegg II til denne forordning, for forsendelser med produkternevnt i artikkel 47 nr. 1 bokstav b) i forordning (EU) 2017/625 ellersom ved innførselen til Unionen omfattes av tiltakene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning (EU) 2017/625.Et CHED-PP som er utarbeidet i samsvar med malen i del 2 avsnitt C i vedlegg II til denne forordning, for forsendelser medplanter, planteprodukter og andre gjenstander nevnt i artikkel 47 nr. 1 bokstav c) i forordning (EU) 2017/625) ellerplanter, planteprodukter og andre gjenstander som ved innførselen til Unionen omfattes av et av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning (EU) 2017/625, ellerspesifikke planter, planteprodukter og andre gjenstander av en bestemt opprinnelse eller et bestemt opphav for hvilke et minstenivå av offentlig kontroll er nødvendig for å håndtere kjente allmenne farer og risikoer for plantehelsen som fastsatt i gjennomføringsforordning (EU) 2019/66.Et CHED-D som er utarbeidet i samsvar med malen i del 2 avsnitt D i vedlegg II til denne forordning, for forsendelser med fôr og næringsmidler av ikke-animalsk opprinnelse som ved innførselen til Unionen omfattes av noen av tiltakene eller vilkårene fastsatt i artikkel 47 nr. 1 bokstav d), e) eller f) i forordning (EU) 2017/625.2. Det felles innførselsdokumentet om helse nevnt i nr. 1 skal væreutarbeidet på minst ett av de offisielle språkene i innførselsmedlemsstaten,behørig utfylt på minst ett av de offisielle språkene i innførselsmedlemsstaten, i samsvar med de forklarende kommentarene fastsatt i del 1 i vedlegg II til denne forordning, avden driftsansvarlige som er ansvarlig for forsendelsen, når det gjelder nærmere opplysninger om forsendelsen, som beskrevet i del I i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på en grensekontrollstasjon eller et kontrollsted når det gjelder opplysninger om beslutningen som er truffet angående forsendelsen, som beskrevet i del II i malene i del 2 avsnitt A-D i nevnte vedlegg,vedkommende myndighet på utførselsgrensekontrollstasjonen eller grensekontrollstasjonen på det endelige bestemmelsesstedet, eller av den lokale vedkommende myndigheten, når det gjelder opplysninger om oppfølgingstiltak som er truffet angående forsendelsen etter at en beslutning er truffet, som beskrevet i del III i malene i del 2 avsnitt A–D i nevnte vedlegg.3. Som unntak fra nr. 2 bokstav a) kan en medlemsstat samtykke i at et felles innførselsdokument om helse utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-9",
+      "provision_ref": "a41",
+      "heading": "Bruk av et elektronisk felles innførselsdokument om helse (CHED)",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "En driftsansvarligs eller en vedkommende myndighets bruk av et elektronisk CHED-dokument skal skje ved hjelp av ett av følgende systemer:TRACES, forutsatt at CHED-dokumentet oppfyller alle følgende krav:Det er underskrevet av den driftsansvarlige som er ansvarlig for forsendelsen, med dennes elektroniske signatur.Det er underskrevet av den offentlige veterinæren, den offentlige plantehelseinspektøren eller sertifikatutstederen på en grensekontrollstasjon eller et kontrollsted med dennes elektroniske signatur.Det er forsynt med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.En medlemsstats nasjonale system, forutsatt at CHED-dokumentet oppfyller alle følgende krav:Det er underskrevet av den driftsansvarlige som er ansvarlig for forsendelsen, med dennes elektroniske signatur.Det er underskrevet av den offentlige veterinæren, den offentlige plantehelseinspektøren eller sertifikatutstederen på en grensekontrollstasjon eller et kontrollsted med dennes elektroniske signatur.Det overføres til TRACES senest på det tidspunktet det treffes beslutning om forsendelsen på grunnlag av offentlig kontroll, og denne overføringen forsynes med utstedende vedkommende myndighets avanserte eller kvalifiserte elektroniske segl.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-10",
+      "provision_ref": "a42",
+      "heading": "Lagringstid for elektroniske sertifikater, felles innførselsdokumenter om helse (CHED) og personopplysninger i disse",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. For å opprettholde integriteten for sertifikater og felles innførselsdokumenter om helse utstedt i samsvar med henholdsvis artikkel 39 og artikkel 41 skal relevante data om elektroniske signaturer, elektroniske segl, tidsstempler og elektroniske utvekslinger lagres i TRACES og medlemsstatenes nasjonale systemer i minst tre år.2. Personopplysninger fra sertifikatene og de felles innførselsdokumentene om helse nevnt i nr. 1 skal lagres i TRACES og medlemsstatenes nasjonale systemer i høyst ti år.► M13. ---◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-11",
+      "provision_ref": "a43",
+      "heading": "Liste over kontrollenheter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "Hvert av TRACES-nettverkets kontaktpunkter skal i TRACES føre og holde oppdatert listen over kontrollenheter som dets medlemsstat har utpekt med henblikk på TRACES.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-12",
+      "provision_ref": "a44",
+      "heading": "Liste over grensekontrollstasjoner og kontrollsteder",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Hvert av TRACES-nettverkets kontaktpunkter skal i TRACES føre og holde oppdatert listen over grensekontrollstasjoner og kontrollsteder som dets medlemsstat har utpekt i samsvar med henholdsvis artikkel 59 nr. 1 og artikkel 53 nr. 2 i forordning (EU) 2017/625, med henblikk på offentlig kontroll av en eller flere av kategoriene av dyr og varer nevnt i artikkel 47 nr. 1 i nevnte forordning.2. Kontaktpunktene nevnt i nr. 1 i denne artikkel skal legge inn opplysninger i TRACES om hver grensekontrollstasjon og hvert kontrollsted som er utpekt, ved bruk avformatet fastsatt i vedlegg I til Kommisjonens gjennomføringsforordning (EU) 2019/101435 for å gi opplysningene nevnt i artikkel 60 nr. 1 i forordning (EU) 2017/625,forkortelsene og spesifikasjonene fastsatt i vedlegg II til nevnte gjennomføringsforordning.► M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-13",
+      "provision_ref": "a45",
+      "heading": "Lister over referansedata",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. Hvert av TRACES-nettverkets kontaktpunkter skal føre oppdaterte lister over følgende i TRACES:Næringsmiddelvirksomheter som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med artikkel 6 nr. 3 i forordning (EF) nr. 852/2004.Virksomheter, anlegg og driftsansvarlige som håndterer animalske biprodukter eller avledede produkter, og som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent eller registrert i samsvar med artikkel 47 i forordning (EF) nr. 1069/2009.Kontrollstasjoner som vedkommende myndighet i kontaktpunktets medlemsstat har godkjent i samsvar med artikkel 3 i forordning (EF) nr. 1255/97*.Transportører som gjennomfører lange turer, og som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 11 nr. 1 i rådsforordning (EF) nr. 1/2005**.Virksomheter som er oppført i registeret over godkjente anlegg nevnt i artikkel 101 nr. 1 første ledd bokstav b) i forordning (EU) 2016/429, i den grad de forflytter holdte landdyr og avlsmateriale til en annen medlemsstat eller mottar holdte landdyr og avlsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over godkjente akvakulturanlegg og næringsmiddelforetak som gjennomfører tiltak for å bekjempe sykdom hos akvatiske dyr, nevnt i henholdsvis artikkel 185 nr. 1 bokstav b) og c) i forordning (EU) 2016/429, i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Virksomheter og driftsansvarlige som er oppført i registeret over registrerte anlegg og driftsansvarlige nevnt i artikkel 101 nr. 1 første ledd bokstav a) i forordning (EU) 2016/429, i den grad de forflytter holdte landdyr og formeringsmateriale til en annen medlemsstat eller mottar holdte landdyr og formeringsmateriale fra et tredjeland.Virksomheter som er oppført i registeret over registrerte akvakulturanlegg nevnt i artikkel 185 nr. 1 bokstav a) i forordning (EU) 2016/429, i den grad de forflytter akvakulturdyr til en annen medlemsstat eller mottar akvakulturdyr fra et tredjeland.Transportører som vedkommende myndighet har utstedt godkjenning til i samsvar med artikkel 10 nr. 1 i forordning (EU) nr. 1/2005.Førere og ledsagere i veigående kjøretøyer som transporterer tamme dyr av hestefamilien eller storfe, tamsau, tamgeit, tamsvin eller fjørfe, og som vedkommende myndighet har utstedt et egnethetssertifikat til i samsvar med artikkel 17 nr. 2 i forordning (EF) nr. 1/2005.Veigående transportmidler som brukes på lange turer, og dyretransportfartøyer som vedkommende myndighet har utstedt godkjenningsattest til i samsvar med henholdsvis artikkel 18 nr. 1 og artikkel 19 nr. 1 i forordning (EF) nr. 1/2005.Driftsansvarlige oppført i registeret over profesjonelle aktører som innfører planter, planteprodukter og andre gjenstander til Unionen som det kreves et plantehelsesertifikat for, som omhandlet i artikkel 65 nr. 1 første ledd bokstav a) i forordning (EU) 2016/2031.Karantenestasjoner og inneslutningsanlegg som er utpekt i samsvar med artikkel 60 i forordning (EU) 2016/2031 til å utføre aktiviteter som involverer planter, planteprodukter og andre gjenstander som innføres til Unionens territorium fra tredjeland.2. Kontaktpunktene omhandlet i nr. 1 skal legge inn opplysninger i TRACES om hver av listene omhandlet i samme nummer ved å bruke de tekniske spesifikasjonene for formatet på disse listene som stilles til rådighet av Kommisjonen.3. Kommisjonen skal bistå medlemsstatene i å gjøre listene nevnt i nr. 1 bokstav a)-f) tilgjengelige for offentligheten ved å offentliggjøre dem på Kommisjonens nettsted eller via TRACES.◄ M1",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-14",
+      "provision_ref": "a46",
+      "heading": "Beredskapsplaner for TRACES og medlemsstatenes nasjonale systemer i tilfelle ikke-planlagt eller planlagt utilgjengelighet",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 3Komponenter, nettverk og kontaktpunkter",
+        "AVSNITT 4TRACES"
+      ],
+      "text": "1. TRACES-nettverkets kontaktpunkter skal føre et offentlig nettbasert register som inneholder en utfyllbar mal for alle dokumentene som kan utstedes i TRACES eller i medlemsstatens nasjonale system i samsvar med denne forordning.2. Dersom en medlemsstats nasjonale system, TRACES eller en av funksjonene i disse systemene er utilgjengelig i mer enn én time, kan brukerne av disse bruke en utfyllbar trykt eller elektronisk mal, som nevnt i nr. 1, for å registrere og utveksle opplysninger.3. Når systemene eller funksjonene nevnt i nr. 2 er tilgjengelige igjen, skal brukerne bruke opplysningene registrert i samsvar med nr. 2 for elektronisk å generere de dokumentene som kreves i henhold til denne forordning.4. Dersom TRACES, en medlemsstats nasjonale system eller en av funksjonene i disse systemene er utilgjengelig, kan medlemsstatene midlertidig generere og elektronisk utveksle alle nødvendige dokumenter i det tilgjengelige systemet, og forpliktelser som gjelder TRACES’ funksjoner, får ikke anvendelse. Kommisjonen og eierne av de nasjonale systemene skal foreta en samlet ad hoc-utveksling av disse dokumentene så snart systemene er tilgjengelige igjen.5. Dokumentene som er generert i samsvar med nr. 2 og 4, skal være merket med teksten «generert under en uforutsett hendelse».6. Kommisjonen skal underrette brukere via TRACES to uker før en planlagt utilgjengelighet og opplyse om hvor lenge den vil vare og årsaken til den.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-kapittel-4-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1",
+      "provision_ref": "a47",
+      "heading": "Opphevinger",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 4Sluttbestemmelser"
+      ],
+      "text": "1. Direktiv 94/3/EF, vedtak 92/486/EØF, 2003/24/EF, 2003/623/EF, 2004/292/EF, 2004/675/EF og 2005/123/ED, forordning (EU) nr. 16/2011 og gjennomføringsbeslutning 2014/917/EU, (EU) 2015/1918 og (EU) 2018/1553 oppheves med virkning fra 14. desember 2019.2. Henvisninger til disse opphevede rettsaktene skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegg III.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2",
+      "provision_ref": "a48",
+      "heading": "Ikrafttredelse og anvendelse",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EU) 2019/1715 om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter",
+        "KOMMISJONENS GJENNOMFØRINGSFORORDNING (EU) 2019/1715av 30. september 2019om fastsettelse av regler for driften av informasjonsstyringssystemet for offentlig kontroll og dets systemkomponenter («IMSOC-forordningen»)",
+        "KAPITTEL 4Sluttbestemmelser"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 14. desember 2019, med unntak av kapittel 3 avsnitt 2 som får anvendelse fra 21. april 2021.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel 30. september 2019.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "heading": "Formål og virkeområde",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2024/2104 om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2024/2104av 27. juni 2024om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen"
+      ],
+      "text": "Denne forordningen fastsetter regler med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen, og som ikke omfattes av artikkel 47 og 48 i forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "heading": "Tilfeller der det kan bes om melding",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2024/2104 om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2024/2104av 27. juni 2024om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen"
+      ],
+      "text": "Vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer dersom følgende vilkår er oppfylt:Meldingen er nødvendig, idet det tas hensyn til:påviste risikoer for menneskers eller dyrs helse, for plantehelsen eller dyrevelferden eller, når det gjelder genmodifiserte organismer og plantevernmidler, for miljøet, som er forbundet med de aktuelle varene, ellerhistorikken med hensyn til overholdelse av kravene fastsatt i reglene nevnt i artikkel 1 nr. 2 i forordning (EU) 2017/625 som gjelder for de aktuelle varene.De aktuelle varene er gjenstand for offentlig kontroll på grensekontrollstasjoner i samsvar med artikkel 44 nr. 3 bokstav b) i forordning (EU) 2017/625.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2024/2104 om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2024/2104av 27. juni 2024om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen"
+      ],
+      "text": "I denne forordningen menes med«TRACES» systemet som er nevnt i artikkel 133 nr. 4 i forordning (EU) 2017/625,«elektronisk signatur» en elektronisk signatur som definert i artikkel 3 nr. 10 i forordning (EU) nr. 910/2014,«avansert elektronisk segl» et elektronisk segl som oppfyller de tekniske spesifikasjonene fastsatt i vedlegget til gjennomføringsbeslutning (EU) 2015/1506,«kvalifisert elektronisk segl» et elektronisk segl som definert i artikkel 3 nr. 27 i forordning (EU) nr. 910/2014.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-2-kapittel-1-paragraf-4",
+      "heading": "Vilkår for å be om melding om ankomst",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2024/2104 om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2024/2104av 27. juni 2024om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen"
+      ],
+      "text": "1. Vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av forsendelsene, forutsatt at grensekontrollstasjonen for første ankomst til Unionen av forsendelsene ligger innenfor territoriet til vedkommende myndigheters medlemsstat.2. Meldingen om ankomst skal omfattestandardisert informasjon som beskriver forsendelsene tilstrekkelig detaljert til at vedkommende myndigheter umiddelbart og utvetydig kan identifisere forsendelsene, deres bestemmelsessted og tiltenkte bruk, i samsvar med nr. 4, ogen erklæring fra den driftsansvarlige for forsendelsene om at opplysningene nevnt i bokstav a) er korrekte og fullstendige.3. For hver forsendelse skal den driftsansvarlige som er ansvarlig for forsendelsene, før forsendelsene ankommer, fylle ut og sende inn meldingen om ankomst i TRACES på et offisielt EU-språk i innførselsmedlemsstaten, for videresending til vedkommende myndigheter på grensekontrollstasjonen for første ankomst til Unionen. En medlemsstat kan imidlertid samtykke i at en melding utarbeides på et annet offisielt EU-språk enn språket i innførselsmedlemsstaten.4. Meldingen om ankomst skal fylles ut med følgende standardiserte informasjon:Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen som sender forsendelsen.Navn på grensekontrollstasjonen for første innførsel til Unionen.Navn på og adresse til den fysiske eller juridiske personen som forsendelsen er bestemt til.Navn, adresse, land og ISO-landkode for stedet der forsendelsen leveres for endelig lossing.Navn, adresse, land og ISO-landkode for den fysiske eller juridiske personen i medlemsstaten som er ansvarlig for forsendelsen når den forevises på grensekontrollstasjonen.Typen av dokumenter som følger med forsendelsen, deres unike kode og utstedelseslandet, dersom det er relevant.Henvisninger til handelsdokumenter, dersom det er relevant.Dato og klokkeslett for forventet ankomst til innførselsstedet der grensekontrollstasjonen ligger.Varenes opprinnelsesland eller landet der varene er dyrket, høstet eller produsert.Det endelige transportmiddelet for forsendelse til Unionen og identifikasjonen av det endelige transportmiddelet.Landet der varene ble lastet på det endelige transportmiddelet med henblikk på forsendelse til Unionen.Navn, adresse, land og ISO-landkode for opprinnelsesanleggene og, dersom det er relevant, deres registrerings- eller godkjenningsnummer.Kategorien for temperaturen som kreves under transporten (omgivelsestemperatur, kjølt, fryst), dersom det er relevant.Containernummer og forseglingsnummer, dersom det er relevant.Den tiltenkte bruken av varene eller deres kategori som angitt i de offisielle sertifikatene, offisielle attestasjonene, erklæringene eller handelsdokumentene, når det er påkrevd.Opplysninger om varenes samsvar.Forsendelsens tiltenkte bestemmelsessted etter at forsendelsen har forlatt grensekontrollstasjonen, som følger:«For det indre marked» dersom forsendelsen er beregnet på å bringes i omsetning i Unionen.«For transitt», når det gjelder forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler beregnet på transitt til et bestemmelsestredjeland, med angivelse av navnet på og ISO-landkoden for bestemmelsestredjelandet og, når det gjelder forsendelse av ikke-godkjente produkter som krysser Unionens territorium på vei, jernbane eller vannvei, navnet på utførselsgrensekontrollstasjonen, som ligger i samme medlemsstat som grensekontrollstasjonen.«For overføring til», dersom forsendelsen i henhold til nasjonale regler kan overføres fra grensekontrollstasjonen til et kontrollsted nevnt i artikkel 53 nr. 1 bokstav a) i forordning (EU) 2017/625, som ligger i samme medlemsstat som grensekontrollstasjonen, for ytterligere offentlig kontroll, med angivelse av navnet på kontrollstedet.«For videre transport til» dersom forsendelsen i henhold til nasjonale regler kan overføres til et anlegg for videre transport utpekt i samsvar med artikkel 9 i delegert forordning (EU) 2019/2124, som ligger i samme medlemsstat som grensekontrollstasjonen, med angivelse av nærmere opplysninger om dette anlegget.Ved forsendelse av ikke-godkjente fôrtilsetningsstoffer av ikke-animalsk opprinnelse og av ikke-godkjente plantevernmidler som ikke er i direkte transitt til et tredjeland, følgende kontrollerte bestemmelsessteder der forsendelsen skal leveres før den forlater territoriet til medlemsstaten der grensekontrollstasjonen ligger:Et tollager som nevnt i artikkel 240 nr. 1 i forordning (EU) nr. 952/2013.Et midlertidig lagringssted som nevnt i artikkel 147 nr. 1 i forordning (EU) nr. 952/2013.En frisone, dersom det er relevant.Et fôrforetaksanlegg, med angivelse av registrerings- eller godkjenningsnummer.Beskrivelsen av varene i forsendelsen basert på offisielle sertifikater, offisielle attesteringer, erklæringer eller handelsdokumenter, som gjør det mulig å identifisere dem og beregne gebyrer, herunder alt følgende:KN-koden og betegnelsen fastsatt i forordning (EØF) nr. 2658/87 og Den europeiske unions integrerte tariffkode (TARIC-kode).Nettovekt i kg.Bruttovekt, bestående av nettovekt pluss indre emballasje og annen emballasje, men uten transportcontainere og annet transportutstyr.Type emballasje og totalt antall kolli i forsendelsen.Partinummer.Produkttypen, herunder hvorvidt varene er beregnet på å bringes i omsetning som økologiske produkter eller omleggingsprodukter.Antall deler eller volum dersom det er relevant.5. Vedkommende myndigheter på grensekontrollstasjonene kan legge til skriftlig dokumentasjon om offentlig kontroll nevnt i artikkel 13 nr. 1 i forordning (EU) 2017/625 i meldingen om ankomst som sendes inn i TRACES, herunder følgende beslutninger som er truffet om forsendelsene:«Kan godkjennes for det indre marked».«Kan godkjennes for overføring».«Kan godkjennes for videre transport».«Kan godkjennes for transitt».«Kan godkjennes for varer som ikke oppfyller kravene».«Kan ikke godkjennes».6. Meldinger om ankomst som driftsansvarlige som er ansvarlige for forsendelsen undertegner i TRACES med sin elektroniske signatur, skal være utstyrt med vedkommende myndigheters avanserte eller kvalifiserte elektroniske segl.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-5",
+      "provision_ref": "a5#kapittel-1-kapittel-2-kapittel-1-paragraf-5",
+      "heading": "Ikrafttredelse og anvendelse",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2024/2104 om bruk av TRACES ved meldeplikt for forsendelser regulert av nasjonale regler",
+        "DELEGERT KOMMISJONSFORORDNING (EU) 2024/2104av 27. juni 2024om utfylling av europaparlaments- og rådsforordning (EU) 2017/625 med hensyn til i hvilke tilfeller og på hvilke vilkår vedkommende myndigheter kan be driftsansvarlige om å melde fra om ankomsten av visse varer som innføres til Unionen"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 3. mars 2025.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-5"
+    }
+  ]
+}

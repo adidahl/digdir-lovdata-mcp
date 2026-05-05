@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2018-06-15-890",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bruk av lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold (naturmangfoldloven) på Jan Mayen",
+  "short_title": "Forskrift om bruk av naturmangfoldloven på Jan Mayen",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2018-06-15",
+  "lovdata_refid": "forskrift/2018-06-15-890",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-06-15-890",
+  "raw_xml_sha256": "c839f8b7d4890a48c2088b02da6d757692aca27d25ef3a309c7534aef8964fc6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Naturmangfoldloven § 26 og § 28 til § 32 gjelder på Jan Mayen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

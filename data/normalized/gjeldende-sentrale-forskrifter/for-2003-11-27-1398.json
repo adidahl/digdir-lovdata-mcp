@@ -1,0 +1,63 @@
+{
+  "id": "FOR-2003-11-27-1398",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forenklet oppgjør for arbeidsgiveravgift fra statens forvaltningsvirksomhet",
+  "short_title": "Forskrift om forenklet oppgjør for a-avgift",
+  "department": "Finansdepartementet",
+  "date_in_force": "2004-01-01",
+  "last_change_in_force": "2020-11-01",
+  "last_changed_by": "forskrift/2020-10-30-2201 fra 2020-11-01",
+  "lovdata_refid": "forskrift/2003-11-27-1398",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-11-27-1398",
+  "raw_xml_sha256": "63ae457267266095eee8bc8fa71e40a03915294e40992d686309a8f66549b00a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Denne forskrift gjelder for beregning av arbeidsgiveravgift fra statens forvaltningsvirksomhet (statsforvaltningen).\nStatsforvaltningen omfatter i denne forskrift:forvaltningsorganer som får fastsatt sine driftsbevilgninger over statsbudsjettet, herunder statens forretningsdrift og statsbankene, ogforvaltningsorganer med unntak fra bruttobudsjetteringsprinsippet (såkalte post 50 virksomheter).",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Statsforvaltningen plikter å beregne arbeidsgiveravgift av lønn og annen godtgjørelse, jf. folketrygdloven § 23-2, etter de særlige satser som fastsettes for statsforvaltningen i det årlige vedtaket om avgift til folketrygden.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "De deler av statsforvaltningen som betaler månedlig innskudd til Statens pensjonskasse skal medta dette i beregningsgrunnlaget etter § 2. For de øvrige deler av statsforvaltningen beregnes avgift av slike innskudd sentralt og gjøres opp ved særskilte bevilgninger under Arbeids- og administrasjonsdepartementet.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Statsforvaltningen er unntatt fra å levere opplysninger om beregnet arbeidsgiveravgift etter a-opplysningsloven. I stedet gjennomføres forenklet oppgjør ved at beregnet avgift i rapport til statsregnskapet føres til utgift i samme måned som lønn og godtgjørelse er utbetalt til arbeidstaker. Samtidig skal arbeidsgiveravgiften bokføres som inntekt under folketrygdens kapittel i rapporten til statsregnskapet.\nFørste ledd gjelder ikke for de deler av statsforvaltningen som er omtalt i § 1 andre ledd b. Disse deler av statsforvaltningen skal levere opplysninger om beregnet arbeidsgiveravgift etter § 2 til skattekontoret, etter de ordinære regler for opplysningsplikt om arbeidsgiveravgift.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "I"
+      ],
+      "text": "Finansdepartementet kan gi nærmere retningslinjer til gjennomføring av reglene i forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    }
+  ]
+}

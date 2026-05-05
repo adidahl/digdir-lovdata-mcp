@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1990-08-24-761",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Midlertidig forskrift om forbud mot jakt på utsatt fugl",
+  "short_title": "Forskrift om forbud mot jakt på utsatt fugl",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1990-08-24",
+  "last_change_in_force": "2010-08-06",
+  "last_changed_by": "forskrift/2010-08-06-1147",
+  "lovdata_refid": "forskrift/1990-08-24-761",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1990-08-24-761",
+  "raw_xml_sha256": "df9bc9846925cd7d8f9c83649d31236318e979f0b7e99cbbc54d835b029516c1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det er forbudt å arrangere og delta i jakt på fugl i områder hvor jakten i hovedsak er rettet mot utsatte individer, med mindre det har gått så lang tid fra utsetting og eventuell fôring at fuglen har tilpasset seg en vill tilværelse. Den skal ha naturlig næringssøk, ha kondisjon som en vill fugl, ha fått flygeegenskaper som en vill fugl og ha en naturlig skyhet for mennesker.\nFuglen skal være satt ut senest 20. juli. Eventuell fôring skal foregå på slik måte at fuglen utvikler naturlig næringssøk. Det er ikke tillatt å bruke fôringsautomat.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Dersom det oppstår tvil, avgjør Mattilsynet om vilkårene i § 1 er oppfylt.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

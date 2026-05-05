@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2016-06-01-547",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om jordskiftemeddommeres forsikring",
+  "short_title": "Forskrift om jordskiftemeddommeres forsikring",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2016-07-01",
+  "lovdata_refid": "forskrift/2016-06-01-547",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-06-01-547",
+  "raw_xml_sha256": "63ce0d1a785fb7b2875d919d3aa6a3043999ed48eb5cd9a1f26defb8fbca4a81",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Første gang en person gjør tjeneste som jordskiftemeddommer skal det avgis forsikring. Forsikringen skal avgis i rettsmøte med partene til stede. Alle tilstedeværende skal reise seg når forsikringen avgis.\nAvlagt forsikring som meddommer eller skjønnsmedlem ved de alminnelige domstolene samt skjønnsmedlem ved jordskiftedomstolene kan ikke erstatte forsikring som jordskiftemeddommer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Før det avgis forsikring skal jordskiftedommeren gjøre jordskiftemeddommeren kjent med de pliktene en meddommer har, jf. jordskifteloven § 2-8.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsikringen har følgende ordlyd:",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Jordskiftemeddommere som har avgitt forsikring etter bestemmelsene i lov 21. desember 1979 nr. 77 om jordskifte § 11 trenger ikke avgi forsikring på nytt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. juli 2016.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

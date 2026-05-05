@@ -1,0 +1,65 @@
+{
+  "id": "FOR-2015-02-11-115",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om særskilte beskyttelsestiltak ved import av næringsmidler fra Thailand",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2015-02-11",
+  "last_change_in_force": "2022-06-28",
+  "last_changed_by": "forskrift/2022-06-28-1229",
+  "lovdata_refid": "forskrift/2015-02-11-115",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-02-11-115",
+  "raw_xml_sha256": "3ae2e37ef1a5baf9d4a760ee353af10b8d5381ef93483eecc64c411cda6531b2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften omfatter fjørfekjøtt og alle typer reker som kommer fra eller som har opprinnelse i Thailand.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kontrolltiltak på produkter fra Thailand",
+      "path": [],
+      "text": "Ved grensekontroll av alle forsendelser med produkter omfattet av § 1, som følges av et helsesertifikat utstedt av thailandske myndigheter før 21. september 2002, skal det foretas særskilte undersøkelser ved en kjemisk metode for å sikre at de ikke utgjør en helsefare. Undersøkelsene skal særlig ta sikte på å påvise forekomst av kloramfenikol, samt nitrofuraner og deres metabolitter.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Utgifter",
+      "path": [],
+      "text": "Alle utgifter forbundet med de særskilte undersøkelsene som skal foretas i henhold til denne forskriften, skal bæres av importøren eller av den som fremstiller forsendelsen for grensekontroll.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Samtidig oppheves forskrift 1. februar 2002 nr. 101 om vernetiltak, inntil videre, ved import av visse fiskeri- og akvakulturprodukter fra Myanmar og Thailand.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

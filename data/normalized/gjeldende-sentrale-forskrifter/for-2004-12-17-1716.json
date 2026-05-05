@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2004-12-17-1716",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra forvaltningslovens klageregler for vedtak fattet av Finansmarkedsfondet.",
+  "short_title": "Forskrift om klageregler, Finansmarkedsfondet",
+  "department": "Finansdepartementet",
+  "date_in_force": "2004-12-17",
+  "lovdata_refid": "forskrift/2004-12-17-1716",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-12-17-1716",
+  "raw_xml_sha256": "0a93923b834a0f8ff6934cc680b429a84dd27373c3e1a9af1012406636f80b35",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Klage over vedtak truffet av Finansmarkedsfondet kan bare omfatte saksbehandlingen og ikke skjønnsutøvelsen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks og gjelder også for saker der det allerede er inngitt klage.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

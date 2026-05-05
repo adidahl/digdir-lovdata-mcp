@@ -1,0 +1,23 @@
+{
+  "id": "FOR-1953-03-19-1",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter vedrørende sivilprosesskonvensjonen av 30. januar 1931 mellom Norge og Storbritannia.",
+  "short_title": "Forskrift om sivilprosesskonvensjon",
+  "department": "Justis- og beredskapsdepartementet",
+  "lovdata_refid": "forskrift/1953-03-19-1",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1953-03-19-1",
+  "raw_xml_sha256": "316108813a8f374e1ecbd8f98a957f4ba08a4c80d7429d96d2c794e85f9b8e75",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Forskrifter vedrørende sivilprosesskonvensjonen av 30. januar 1931 mellom Norge og Storbritannia.",
+      "path": [],
+      "text": "Skrivelse fra Justis- og politidepartementet der det er uttalt at § 11 i sivilprosesskonvensjonen av 30. januar 1931 mellom Norge og Storbritannia bare fritar norske statsborgere fra plikten til å stille sikkerhet for sakskostnader ved britisk domstol dersom de er bosatt i Storbritannia. På tilsvarende måte er britiske borgere ved norske domstoler etter konvensjonen bare fritatt dersom de bor i Norge.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

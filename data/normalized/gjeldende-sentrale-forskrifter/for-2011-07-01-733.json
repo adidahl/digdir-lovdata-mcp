@@ -1,0 +1,58 @@
+{
+  "id": "FOR-2011-07-01-733",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om radiotelefoniprosedyrer",
+  "short_title": "Forskrift om radiotelefoniprosedyrer",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2011-09-22",
+  "last_change_in_force": "2018-02-28",
+  "last_changed_by": "forskrift/2018-02-28-287",
+  "lovdata_refid": "forskrift/2011-07-01-733",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-07-01-733",
+  "raw_xml_sha256": "2127c06c6a6157fad03d81663acc68d2c88d4ef985942dc24d5d7cb71782bfb5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for alle norske luftfartsstasjoner innenfor norsk område, samt områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å utøve lufttrafikktjeneste. Forskriften gjelder luftfartsstasjoner som utøver mobil kommunikasjonstjeneste for luftfarten samt for enhver luftfartøystasjon som gjør bruk av eller har mulighet for å gjøre bruk av slik tjeneste.\nForskriften gjelder også radiokommunikasjon mellom bakkepersonell og lufttrafikktjenesten, med unntak av de bestemmelser som spesifikt gjelder radiokommunikasjon mellom luftfartsstasjon og luftfartøystasjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Norske særbestemmelser til ICAO Annex 10 Volume II",
+      "path": [],
+      "text": "Forskriften gir norske særbestemmelser til relevante standarder i ICAO Annex 10 Volume II.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.1.7",
+      "path": [],
+      "text": "I tillegg til det som følger av punkt 5.2.1.7.1.2 kan følgende tjeneste og betegnelse benyttes:Vektorering for sluttinnlegget – DIRECTOR\nI tillegg til det som følger av punkt 5.2.1.7 gjelder følgende for kallesignal på radiotelefoni for kjøretøy og bakkepersonell:Den enkelte lufthavn skal utarbeide et system for kallesignal for identifisering av kjøretøy og bakkepersonell som skal ha radiokommunikasjon med lufttrafikktjenesten.Kallesignal for kjøretøy og bakkepersonell skal ikke forkortes.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Norske særbestemmelser til Annex 10 Volume II, kapittel 5, punkt 5.2.2.1.2 og 5.2.2.1.3",
+      "path": [],
+      "text": "I tillegg til det som følger av punktene 5.2.2.1.2 og 5.2.2.1.3 skal Luftfartsstasjoner, når de er åpne, holde lyttevakt på de kanaler som er kunngjort for vedkommende stasjon.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 22. september 2011.\nFra samme dato oppheves forskrift 10. desember 2002 nr. 1782 om flytelefoniprosedyrer.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

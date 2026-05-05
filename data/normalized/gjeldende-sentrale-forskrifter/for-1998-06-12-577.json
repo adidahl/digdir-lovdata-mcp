@@ -1,0 +1,43 @@
+{
+  "id": "FOR-1998-06-12-577",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om renter ved tilbakebetaling av for meget innbetalt CO2 -avgift.",
+  "short_title": "Forskr om renter ved tilbakebet. av CO2-avg",
+  "department": "Finansdepartementet",
+  "date_in_force": "1998-06-12",
+  "lovdata_refid": "forskrift/1998-06-12-577",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-06-12-577",
+  "raw_xml_sha256": "8d9e131180b294100116946ac49417734f578bffc6aabd2c95938a1d01c72a9b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Når CO2 -avgift betales tilbake, svares renter av for meget innbetalt avgift med mindre feil innbetaling skyldes forhold som kan legges den avgiftspliktige til last eller som han er nærmest til å bære ansvaret for. Ved tilbakebetaling av for meget innbetalt avgift, refunderes betalte forsinkelsesrenter etter lov av 21. desember 1990 nr. 72 om avgift på utslipp av CO2 i petroleumsvirksomheten på kontinentalsokkelen § 4 annet ledd av det avgiftsbeløp som tilbakebetales.\nAvgjørelse om renter kan påklages til departementet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Renter av for meget innbetalt avgift beregnes fra det tidspunktet beløpet ble innbetalt og inntil tilbakebetaling skjer.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Rentesatsen er lik den til enhver tid gjeldende rentesats fastsatt i forskrift av 5. september 1980 nr. 4 om utskriving, betaling og avregning av terminskatt m.v. § 11 nr. 2.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    }
+  ]
+}

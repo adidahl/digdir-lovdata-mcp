@@ -1,0 +1,193 @@
+{
+  "id": "FOR-2016-04-15-379",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om EØS-krav til sikkerhet for utstyr til elektronisk kommunikasjon",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2016-04-20",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3423 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2016-04-15-379",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-04-15-379",
+  "raw_xml_sha256": "d70c4db7b74745b6146a5e004ed5ec5785ce8113e725864a2f72b99123910d94",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å sikre at det indre marked fungerer og sørge for et høyt beskyttelsesnivå for helse og sikkerhet for personer og husdyr, og beskyttelse av eiendom, ved å stille sikkerhetskrav til utstyr for elektronisk kommunikasjon som gjøres tilgjengelig på markedet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder utstyr til elektronisk kommunikasjon konstruert for bruk ved en merkespenning på mellom 50 og 1000 V for vekselstrøm og på mellom 75 og 1500 V for likestrøm. Forskriften setter krav til utstyr som gjøres tilgjengelig på markedet og krav til markedsaktørene som gjør utstyret tilgjengelig.\nForskriften gjelder ikkeelektrisk utstyr til bruk i en eksplosiv atmosfæreelektrisk utstyr til radiologi og medisinske formålelektriske deler til vare- og personheiserelektrisitetsmålereplugger og stikkontakter til bruk i boligerelektriske gjerdeapparaterspesialisert elektrisk utstyr til bruk om bord i skip, fly eller jernbane som er i samsvar med sikkerhetsbestemmelser utarbeidet av internasjonale organer som Norge er medlem avelektromagnetisk interferensspesialbygde evalueringsbyggesett for profesjonelle som kun skal brukes ved forsknings- og utviklingsinstitusjoner til forsknings- eller utviklingsformålutstyr regulert av forskrift 20. juni 2000 nr. 628 om EØS-krav til radio- og teleterminalutstyr og forskrift om EØS-krav til radioutstyr med ikrafttredelse 13. juni 2016 som opphever førstnevnte forskriftutstyr regulert av forskrift 15. juni 1999 nr. 709 om EØS-godkjenning av maritimt radioutstyr og forskrift om EØS-krav til maritimt radioutstyr med ikrafttredelse 18. september 2016 som opphever førstnevnte forskrift.\nPå Svalbard kan det for utstyr som omfattes av forskriften, alternativt gis tillatelse etter ekomloven § 13-1 tredje ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften menes medgjøre tilgjengelig på markedet: enhver levering av et utstyr for distribusjon, forbruk eller bruk i EØS i forbindelse med kommersiell virksomhet, mot betaling eller vederlagsfrittbringe i omsetning: gjøre et utstyr tilgjengelig i EØS for første gangprodusent: enhver fysisk eller juridisk person som produserer et utstyr, eller som får et utstyr konstruert eller produsert, og som markedsfører produktet under sitt navn eller varemerkeautorisert representant: enhver fysisk eller juridisk person etablert i EØS som har fått skriftlig fullmakt fra en produsent til å opptre på dennes vegne i forbindelse med nærmere angitte oppgaverimportør: enhver fysisk eller juridisk person etablert i EØS som bringer et utstyr fra en tredjestat i omsetning i EØSdistributør: enhver fysisk eller juridisk person i omsetningskjeden, utenom produsenten eller importøren, som gjør et utstyr tilgjengelig på markedetmarkedsdeltakere: produsenten, den autoriserte representanten, importøren og distributørenteknisk spesifikasjon: et dokument der det er fastsatt hvilke tekniske krav et utstyr skal oppfylleharmonisert standard: en europeisk standard utarbeidet av de europeiske standardiseringsorganisasjonene, CEN, CENELEC og ETSI, og som er vedtatt på grunnlag av en anmodning fra Europakommisjonen, med henblikk på gjennomføring av Unionens harmoniseringsregelverksamsvarsvurdering: en prosess for å fastslå om de grunnleggende kravene i forskriften her er oppfylttilbakekalling: ethvert tiltak med sikte på tilbakelevering av et produkt som allerede er gjort tilgjengelig for sluttbrukerentilbaketrekking: ethvert tiltak med sikte på å hindre at et utstyr i omsetningskjeden blir gjort tilgjengelig på markedetCE-merking: merking der produsenten angir at utstyret oppfyller gjeldende krav fastsatt i EØS-regelverket.\nFor øvrig gjelder definisjonene i ekomloven.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Vilkår for å kunne gjøre utstyr tilgjengelig på markedet",
+      "path": [],
+      "text": "Utstyr kan gjøres tilgjengelig på markedet når det tilfredsstiller de grunnleggende kravene i § 5 og er korrekt merket i henhold til § 14.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til utstyret",
+      "path": [],
+      "text": "Utstyr skal være konstruert slik at det ikke forårsaker fare for liv og helse for personer og husdyr og fare for skade på eiendom, og oppfylle grunnleggende krav til sikkerhet når det er korrekt installert, vedlikeholdt og blir brukt som tilsiktet.\nUtstyret skal være konstruert og produsert i samsvar med anerkjent teknologisk praksis for sikkerhet, slik at utstyret ved installasjon, vedlikehold og tiltenkt bruk ikke medfører fare som kan være forårsaket av:direkte eller indirekte kontakt med utstyrettemperaturer, lysbuer eller strålingikke-elektrisk art som kan skyldes det elektriske utstyretat utstyrets isolasjon ikke er tilpasset de forhold som kan forutsesat utstyret ikke oppfyller mekaniske kravat utstyret ikke kan motstå ikke-mekaniske påvirkninger som kan forutses under de miljømessige forhold som utstyret forventes brukt ioverbelastning og andre påregnelige feil.\nUtstyret og dets enkelte deler skal være konstruert slik at det kan settes sammen og tilkoples på en korrekt og sikker måte.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Krav til produsent",
+      "path": [],
+      "text": "Før utstyr bringes i omsetning skal produsent utarbeide teknisk dokumentasjon i samsvar med § 13, utføre samsvarsvurdering etter § 11, sikre krav til merking i § 14 og informasjon til bruker i § 15.\nDer samsvarsvurderingen dokumenterer at utstyret fyller kravene, skal produsenten utstede samsvarserklæring etter § 12 og påføre CE-merke på apparatet i samsvar med § 14. Ved å utstede samsvarserklæring og påføre CE-merke er produsenten ansvarlig for at utstyret er i samsvar med kravene i forskriften.\nProdusent skal oppbevare teknisk dokumentasjon og samsvarserklæring i ti år etter at utstyret ble brakt i omsetning.\nProdusent skal stille til rådighet for Nasjonal kommunikasjonsmyndighet informasjon om hvilke markedsdeltakere produsenten har overlevert utstyr til i ti år etter at utstyret ble overlevert.\nNår et utstyr bringes i omsetning skal produsent sikre at utstyret er konstruert og produsert i samsvar med kravene i § 5.\nProdusent skal ha prosedyrer for å sikre at utstyret ved serieproduksjon oppfyller kravene i forskriften. Det skal i tilstrekkelig grad tas hensyn til endringer i utstyrets konstruksjon og egenskaper, og til endringer i de harmoniserte standarder, internasjonale standarder, nasjonale standarder eller andre tekniske spesifikasjoner som det er erklært samsvar med.\nFor utstyr som kan utgjøre en risiko for helse og sikkerheten til brukeren, skal produsent når det anses hensiktsmessig, foreta stikkprøvekontroll av utstyret som er gjort tilgjengelig i markedet, utføre undersøkelser og om nødvendig føre register over klager over utstyr som ikke oppfyller kravene i forskriften, og over utstyr som er tilbakekalt. Produsent skal informere distributører om slik overvåkning av utstyret.\nDer produsent finner ut eller har grunn til å tro at et utstyr som er brakt i omsetning ikke tilfredsstiller kravene i forskriften, skal produsenten straks treffe nødvendige tiltak for å bringe utstyret i samsvar med regelverket, og om nødvendig trekke det tilbake fra markedet eller kalle det tilbake fra sluttbruker.\nDersom utstyret utgjør en risiko, skal produsenten straks melde fra til Nasjonal kommunikasjonsmyndighet og informere om den manglende overensstemmelsen med regelverket og de tiltak som er gjort for å bringe utstyret i samsvar med regelverket.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Krav til autorisert representant i EØS",
+      "path": [],
+      "text": "Produsenten kan ved skriftlig fullmakt gi en autorisert representant i EØS fullmakt til å opptre på vegne av produsenten. Den autoriserte representanten kan ikke gis fullmakt til å påta seg ansvaret for kravene til utarbeidelse av teknisk dokumentasjon i § 13 eller ansvar for å sikre at utstyret er konstruert og produsert i samsvar med de grunnleggende kravene i forskriften § 5.\nDen autoriserte representanten skal utføre de oppgaver som følger av fullmakten fra produsenten. Fullmakten skal som minimum gi den autoriserte representanten mulighet til åstille samsvarserklæring og teknisk dokumentasjon til rådighet for Nasjonal kommunikasjonsmyndighet i ti år etter at utstyret ble brakt i omsetningpå anmodning fra Nasjonal kommunikasjonsmyndighet, legge frem informasjon og dokumentasjon på at utstyret er i samsvar med kravene i forskriftenpå anmodning, samarbeide med Nasjonal kommunikasjonsmyndighet om tiltak for å eliminere risiko ved utstyret.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Krav til importør",
+      "path": [],
+      "text": "Før utstyr bringes i omsetning skal importør sikre atprodusenten har utført samsvarsvurdering i samsvar med § 11produsenten har utarbeidet teknisk dokumentasjon i samsvar med § 13utstyret er korrekt merket i samsvar med § 14utstyret har bruksanvisning og sikkerhetsinformasjon i samsvar med kravene i § 15.\nDer en importør finner ut eller har grunn til å tro at utstyr ikke oppfyller de grunnleggende kravene i forskriften § 5, skal han ikke gjøre utstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom utstyret utgjør en risiko, skal importør informere produsent og Nasjonal kommunikasjonsmyndighet om dette.\nImportøren skal sikre at transport og oppbevaringsforhold av utstyr under deres ansvar ikke utgjør en risiko for utstyrets samsvar med de grunnleggende kravene i § 5.\nFor utstyr som kan utgjøre en risiko for helse og sikkerheten til brukeren skal importør, når det anses hensiktsmessig, foreta stikkprøvekontroll av utstyret som er gjort tilgjengelig i markedet, utføre undersøkelser og om nødvendig føre register over klager, utstyr som ikke oppfyller kravene i forskriften eller er tilbakekalt. Importør skal informere distributører om slik overvåkning av utstyret.\nDer importør finner ut eller har grunn til å tro at et utstyr som er brakt i omsetning ikke tilfredsstiller kravene i forskriften, skal importøren straks treffe nødvendige tiltak for å bringe utstyret i samsvar med regelverket, om nødvendig trekke det tilbake fra markedet eller kalle det tilbake fra sluttbruker.\nDersom utstyret utgjør en risiko, skal importøren straks melde fra til Nasjonal kommunikasjonsmyndighet og informere om den manglende overensstemmelsen med regelverket og de tiltak som er gjort for å bringe utstyret i samsvar med regelverket.\nImportør skal stille til rådighet for Nasjonal kommunikasjonsmyndighet samsvarserklæring for utstyr i ti år etter at utstyret er brakt i omsetning og sikre at teknisk dokumentasjon for utstyret er tilgjengelig i samme periode.\nImportør skal stille til rådighet for Nasjonal kommunikasjonsmyndighet informasjon om hvilke markedsdeltakere importøren har fått overlevert utstyr fra og hvilke markedsdeltakere importøren har overlevert utstyr til i ti år etter at utstyret ble overlevert.\nDer importør bringer utstyr i omsetning under sitt navn eller varemerke, eller endrer utstyr som allerede er bragt i omsetning på en slik måte at det kan påvirke samsvar med kravene i forskriften, skal denne regnes som produsent med de plikter som følger av forskriften.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Krav til distributør",
+      "path": [],
+      "text": "Før utstyr gjøres tilgjengelig på markedet skal distributøren sikre atutstyret er CE-merket i samsvar med § 14 og at det følger med dokumentasjon, bruksanvisning og sikkerhetsinformasjon slik det fremgår av § 15produsent og importør har oppfylt krav omat utstyret som er bragt i omsetning er merket med type-, produksjons- eller serienummer eller tilsvarende i henhold til § 14 annet ledd som gjør det mulig å identifisere utstyretat utstyret er merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på i henhold til § 14 første ledd.\nDer en distributør finner ut eller har grunn til å tro at utstyr ikke oppfyller de grunnleggende kravene i forskriften § 5, skal han ikke gjøre utstyret tilgjengelig på markedet før det er brakt i samsvar med kravene. Dersom utstyret utgjør en risiko, skal distributør informere produsent og Nasjonal kommunikasjonsmyndighet.\nDistributør skal sikre at transport og oppbevaringsforhold av utstyr under deres ansvar ikke utgjør en risiko for utstyrets samsvar med de grunnleggende kravene i forskriften § 5.\nDer distributør finner ut eller har grunn til å tro at et utstyr som er gjort tilgjengelig i markedet ikke tilfredsstiller kravene i forskriften her, skal distributøren straks treffe nødvendige tiltak for å bringe utstyret i samsvar med regelverket, om nødvendig trekke det tilbake fra markedet eller kalle det tilbake fra sluttbruker.\nDersom utstyret utgjør en risiko, skal distributøren straks melde fra til Nasjonal kommunikasjonsmyndighet og informere om den manglende overensstemmelsen med regelverket og de tiltak som er gjort for å bringe utstyret i samsvar med regelverket.\nDistributør skal stille til rådighet for Nasjonal kommunikasjonsmyndighet informasjon om hvilke markedsdeltakere distributøren har fått overlevert utstyr fra og hvilke markedsdeltakere distributøren har overlevert utstyr til i ti år etter at utstyret ble overlevert.\nDer distributør bringer utstyr i omsetning under sitt navn eller varemerke, eller endrer utstyr som allerede er bragt i omsetning på en slik måte at det kan påvirke samsvar med kravene i forskriften skal denne regnes som produsent med de plikter som følger av forskriften.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Antakelse om samsvar",
+      "path": [],
+      "text": "Utstyr som er i samsvar med hele eller deler av harmoniserte standarder som er publisert i Den europeiske unions tidende, skal formodes å oppfylle de grunnleggende kravene i § 5 som dekkes av disse standardene, eller deler av standardene.\nHvor det ikke finnes harmoniserte standarder som nevnt i første ledd, skal utstyret formodes å oppfylle de grunnleggende kravene i § 5, dersom det oppfyller sikkerhetskravene gitt i internasjonale standarder publisert av International Electrotechnical Commission (IEC) dersom standardene har blitt notifisert til medlemstatene av Europakommisjonen og ingen av medlemstatene har protestert på notifiseringen.\nHvor det ikke finnes harmoniserte standarder etter første ledd eller internasjonale standarder etter annet ledd, skal utstyret formodes å oppfylle de grunnleggende kravene i § 5, dersom det oppfyller sikkerhetskravene gitt i gjeldende standarder i medlemslandet der utstyret er produsert, forutsatt at gjeldende krav til sikkerhetsnivå i Norge er oppfylt.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Samsvarsvurdering",
+      "path": [],
+      "text": "Produsent skal dokumentere at de grunnleggende kravene i § 5 er oppfylt ved samsvarsprosedyre ved intern produksjonskontroll som innebærer at produsenten skalutarbeide teknisk dokumentasjon i henhold til forskriften § 13besørge en forsvarlig produksjonsprosess for å sikre at utstyret er i samsvar med grunnleggende krav og i tråd med den tekniske dokumentasjonenprodusent eller dennes autoriserte representant i EØS skal påføre CE-merking i henhold til § 14 på utstyr som oppfyller kravene i forskriftenprodusent eller dennes autoriserte representant i EØS skal utstede samsvarserklæring i henhold til § 12 og oppbevare denne sammen med den tekniske dokumentasjonen i 10 år etter at utstyret ble brakt i omsetning.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Samsvarserklæring",
+      "path": [],
+      "text": "Samsvarserklæringen skal erklære at de grunnleggende kravene i § 5 er oppfylt.\nSamsvarserklæringen skal ha samme struktur og inneholde de elementer som angitt i vedlegg 1, og oppdateres fortløpende.\nSamsvarserklæringen skal utferdiges på norsk, svensk, dansk eller engelsk.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Teknisk dokumentasjon",
+      "path": [],
+      "text": "Den tekniske dokumentasjonen skal sikre mulighet for å vurdere om utstyret er i samsvar med kravene i forskriften, og skal omfatte en analyse og vurdering av risiko ved utstyret. Dokumentasjonen skal inneholde en beskrivelse av gjeldende krav, og skal, i den grad det er relevant for vurderingen, omfatte dokumentasjon av konstruksjon, produksjon og utstyrets virkemåte.\nDen tekniske dokumentasjonen, skal i den grad det er relevant, minst inneholdeen generell beskrivelse av utstyretkonstruksjons- og produksjonstegninger, komponentlister, lister over delmontasjer, strømkretsskjemaer mv.beskrivelser og forklaringer som er nødvendige for å forstå tegninger og oversikter som nevnt i bokstav b samt bruk av utstyretliste over harmoniserte standarder som er anvendt med referanser til Den europeiske unions tidende eller internasjonale standarder eller nasjonale standarder. Der slike standarder ikke er anvendt, skal det beskrives de løsninger som er anvendt for å oppfylle grunnleggende krav, herunder liste over andre relevante tekniske spesifikasjoner som er anvendt. I tilfeller hvor kun deler av harmoniserte standarder, internasjonale standarder eller nasjonale standarder er anvendt, skal dokumentasjonen angi hvilke deler som er anvendtresultater fra gjennomførte konstruksjonsberegninger, gjennomførte undersøkelser og andre relevante elementertestrapporter.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Krav til merking",
+      "path": [],
+      "text": "Utstyr skal være merket med produsentens og importørens navn, registrert firmanavn eller registrert varemerke og postadresse som angir et bestemt sted som produsenten og importøren kan kontaktes på. Der dette som følge av utstyrets størrelse eller utforming ikke er mulig, skal slike opplysninger fremgå av emballasjen eller dokumentasjon som følger med utstyret. Kontaktinformasjon skal være på norsk, svensk, dansk eller engelsk.\nUtstyr skal være merket med type, produksjon eller serienummer eller tilsvarende som gjør det mulig å identifisere utstyret. Der dette, som følge av utstyrets størrelse eller utforming ikke er mulig, skal slike opplysninger fremgå av emballasjen eller dokumentasjon som følger med utstyret.\nUtstyr skal være merket med nødvendig informasjon for å sikre at utstyret blir brukt på en sikker måte for det formålet det er laget for. Dersom det ikke er mulig å merke selve utstyret skal merkingen gjøres på et dokument som følger med utstyret.\nFør utstyr kan bringes i omsetning, skal produsenten eller produsentens autoriserte representant i EØS merke utstyr som oppfyller kravene i forskriften med CE-merking slik det fremgår av lov 12. april 2013 nr. 13 om det frie varebytte i EØS (EØS-vareloven), forordning (EF) nr. 765/2008 vedlegg II.\nDet er ikke tillatt å påføre et utstyr merking, tegn eller inskripsjoner som kan villede tredjemann med hensyn til CE-merkingens betydning eller grafiske utforming. Annen merking kan påføres utstyret, forutsatt at den ikke gjør CE-merkingen mindre synlig eller lesbar eller endrer dens betydning.\nCE-merking skal påføres utstyret eller dets merkeplate slik at den er synlig, leselig og ikke kan fjernes. Dersom det på grunn av utstyrets fysiske karakter ikke er mulig eller berettiget å påføre CE-merkingen på utstyret, er det tilstrekkelig kun å merke emballasjen og medfølgende dokumenter.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Krav om informasjon til bruker",
+      "path": [],
+      "text": "Produsenten skal sikre at det med utstyret følger bruksanvisning og sikkerhetsinformasjon. Bruksanvisningen og sikkerhetsinformasjon skal som minimum være på norsk, dansk, svensk eller engelsk.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Når særlige grunner foreligger og det ikke vil være i strid med EØS-avtalen kan Nasjonal kommunikasjonsmyndighet gjøre unntak fra krav i forskriften.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "paragraf-17",
+      "provision_ref": "§ 17",
+      "heading": "Tilsyn",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndighet fører tilsyn etter lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon kapittel 15 med at bestemmelser i forskriften eller vedtak fattet med hjemmel i forskriften overholdes.\nDen som er gjenstand for tilsyn plikter å skaffe til veie utstyr som Nasjonal kommunikasjonsmyndighet ber om å få utlevert eller tilsendt for nærmere kontroll, selv om utstyret ikke er tilgjengelig på lager. Utstyret som er gjenstand for tilsyn skal overleveres til Nasjonal kommunikasjonsmyndighet vederlagsfritt.",
+      "xml_path": "article#paragraf-17"
+    },
+    {
+      "section_id": "paragraf-18",
+      "provision_ref": "§ 18",
+      "heading": "Reaksjoner",
+      "path": [],
+      "text": "Ved brudd på pliktene kan Nasjonal kommunikasjonsmyndighet gjennomføre reaksjoner etter lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon kapittel 15 og lov 12. april 2013 nr. 13 om det frie varebytte i EØS (EØS-vareloven), forordning (EF) nr. 765/2008.",
+      "xml_path": "article#paragraf-18"
+    },
+    {
+      "section_id": "paragraf-19",
+      "provision_ref": "§ 19",
+      "heading": "Straff",
+      "path": [],
+      "text": "Brudd på forskriften er straffbart etter lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon § 15-14.",
+      "xml_path": "article#paragraf-19"
+    },
+    {
+      "section_id": "paragraf-20",
+      "provision_ref": "§ 20",
+      "heading": "Overgangsbestemmelser",
+      "path": [],
+      "text": "Utstyr som er bragt i omsetning før 20. april 2016 og som omfattes av og oppfyller kravene i forskrift 27. september 2005 nr. 1094 om elsikkerhet i elektronisk kommunikasjonsnett kan gjøres tilgjengelig på markedet og settes i drift.",
+      "xml_path": "article#paragraf-20"
+    },
+    {
+      "section_id": "paragraf-21",
+      "provision_ref": "§ 21",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 20. april 2016.",
+      "xml_path": "article#paragraf-21"
+    },
+    {
+      "section_id": "paragraf-22",
+      "provision_ref": "§ 22",
+      "heading": "Endringer i andre forskrifter",
+      "path": [],
+      "text": "Fra den tid forskriften trer i kraft, gjøres følgende endringer i forskrift 15. mars 2002 nr. 276 om registrering og krav til innførsel og omsetning av radio-, teleterminal- og nettutstyr ---",
+      "xml_path": "article#paragraf-22"
+    }
+  ]
+}

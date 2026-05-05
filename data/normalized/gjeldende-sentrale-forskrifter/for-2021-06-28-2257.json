@@ -1,0 +1,72 @@
+{
+  "id": "FOR-2021-06-28-2257",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om passasjerskip i norsk internasjonalt skipsregister (NIS)",
+  "short_title": "Forskrift om passasjerskip i NIS",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2021-07-01",
+  "lovdata_refid": "forskrift/2021-06-28-2257",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-06-28-2257",
+  "raw_xml_sha256": "945d78428dbb663cd34d2b684d5a778418c6d6371576f696ebdff04d67fcd30f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder passasjerskip som er registrert i norsk internasjonalt skipsregister (NIS).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Adgang til å transportere passasjerer på Svalbard",
+      "path": [],
+      "text": "Passasjerskip registrert i NIS kan transportere passasjerer mellom havner på Svalbard, mellom Svalbard og fastlandet, og i fast rute mellom Svalbard og utenlandsk havn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Adgang til å transportere passasjerer langs kysten",
+      "path": [],
+      "text": "Cruiseskip registrert i NIS kan transportere passasjerer mellom norske havner dersom de anløper tilsammen minst to utenlandske havner før eller etter anløp av en eller flere norske havner.\nPassasjerene skal ikke kunne kjøpe billetter bare mellom norske havner.\nPassasjerene kan gå om bord og forlate cruiseskipet i norsk havn dersom billetten inkluderer anløp av minst to utenlandske havner.\nMed cruiseskip menes passasjerskip etter forskriften som har lugarkapasitet til samtlige passasjerer og seiler i samsvar med et tilbudt turprogram. Skipsruten må ha minst en nattseilas og vare i minst 24 timer.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forbud mot å transportere passasjerer mellom nordiske land",
+      "path": [],
+      "text": "Passasjerskip registrert i NIS kan ikke transportere passasjerer i fast rute mellom nordiske land. Forbudet gjelder all passasjertransport, også sesongpreget, mellom Danmark, Finland, Island og Sverige.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forbud mot å utøve stasjonær næringsvirksomhet",
+      "path": [],
+      "text": "Passasjerskip registrert i NIS kan ikke utøve stasjonær næringsvirksomhet i norsk farvann. Dette gjelder skip som ligger oppankret eller til kai, og som tilbyr tjenester som ikke har karakter av transport.\nPassasjerskip som transporterer passasjerer i samsvar med § 2 og § 3, kan likevel tilby tjenester i tilknytning til slik transport.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff og overtredelsesgebyr",
+      "path": [],
+      "text": "Brudd på § 4 og § 5 kan straffes etter NIS-loven § 11 eller sanksjoneres etter NIS-loven § 13.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2021. Fra samme tidspunkt oppheves forskrift av 9. juli 1993 nr. 596 om fartsområde for passasjerskip registrert i norsk internasjonalt skipsregister (NIS).",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "FOR-2012-06-28-794",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av Europeisk avtale om kjøre- og hviletid m.v. for mannskap på kjøretøy i internasjonal vegtransport (AETR-avtalen)",
+  "short_title": "Forskrift om gjennomføring av AETR-avtalen",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2012-08-01",
+  "lovdata_refid": "forskrift/2012-06-28-794",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-06-28-794",
+  "raw_xml_sha256": "6da69a2f26cd2fc10ab6488bbcb909ef673136c07d7140311b6b7a7b2f7e87c3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Forskriften gjelder for fører og mannskap på norske og utenlandske kjøretøyer i internasjonal vegtransport der transporten utføres helt eller delvis utenfor EØS-området.\nMed internasjonal vegtransport menes enhver vegtransport som innebærer minst en grensepassering.\nArtiklene 1-12 bis i Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøyer i internasjonal vegtransport (AETR-avtalen) av 1. juli 1970 med de seneste endringer som trådte i kraft 20. september 2010 og med vedlegg og tillegg 1 og 1B gjelder som forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "For internasjonal vegtransport etter AETR-avtalen gjelder reglene i artikkel 10 om konstruksjon, installering, bruk og testing av fartsskriver.\nFor internasjonal vegtransport med kjøretøy som er registrert i land som ikke er part i AETR-avtalen, skal det føres daglige registreringer etter AETR-avtalen vedlegg artikkel 12 nr. 3 og 12 nr. 5. Det skal registreres i kjørebok, diagramskive eller tilsvarende. Dersom analog fartsskriver er installert i kjøretøyet, skal den brukes i tråd med reglene i AETR-avtalen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Politiet og Statens vegvesen er kontrollmyndighet og kan til enhver tid foreta kontroll hos den som er underlagt denne forskrift. På forlangende skal sjåfør eller foretak utlevere eller overføre elektronisk de opplysninger og den dokumentasjon som er nødvendig for å kontrollere at reglene i denne forskrift er fulgt. Kontroll kan omfatte fartsskriveren med tilhørende komponenter.\nHar en sjåfør overtrådt bestemmelsene på en slik måte at videre kjøring klart kan sette trafikksikkerheten i fare, kan kontrolløren pålegge sjåføren å gjennomføre nødvendig hvile.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I"
+      ],
+      "text": "Overtredelse av forskriften straffes etter vegtrafikkloven § 31.\nOvertredelse begått på en avtaleparts territorium eller på territorium til land som ikke er part i avtalen, og som oppdages i Norge, straffes her i riket i samsvar med vegtrafikkloven § 31, uavhengig av statsborgerskap og bostedsland, jf. AETR-avtalen artikkel 12 nr. 6 bokstav a) og b).",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "path": [
+        "II"
+      ],
+      "text": "Forskriften trer i kraft 1. august 2012. Samtidig oppheves forskrift 28. april 1987 nr. 337 om gjennomføring av Europeisk avtale om kjøre- og hviletid m.v. for mannskaper på kjøretøyer i internasjonal vegtransport (AETR).",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    }
+  ]
+}

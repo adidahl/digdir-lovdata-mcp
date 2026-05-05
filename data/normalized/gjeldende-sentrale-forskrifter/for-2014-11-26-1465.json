@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2014-11-26-1465",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om godskriving av pensjonspoeng for mottakere av avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år",
+  "short_title": "Forskrift om godskriving av pensjonspoeng, AFP",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2015-01-01",
+  "lovdata_refid": "forskrift/2014-11-26-1465",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-11-26-1465",
+  "raw_xml_sha256": "a04f691e153ffd1771d8adb3ef267633d947eb3150ba12574097efd113eafc4f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften kommer til anvendelse når det utbetales avtalefestet pensjon som omfattes av AFP-tilskottsloven § 12 eller avtalefestet pensjon fra offentlig pensjonsordning før fylte 65 år.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Godskriving av pensjonspoeng",
+      "path": [],
+      "text": "Den som mottar avtalefestet pensjon som nevnt i § 1, får godskrevet pensjonspoeng etter reglene i folketrygdloven kapittel 3, slik de lød før lov 16. desember 2011 nr. 59 om endringer i folketrygdloven trådte i kraft.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2015.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

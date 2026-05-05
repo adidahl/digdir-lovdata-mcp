@@ -1,0 +1,208 @@
+{
+  "id": "FOR-1997-02-20-192",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om desinfeksjon av inntaksvann til og avløpsvann fra akvakulturrelatert virksomhet",
+  "short_title": "Forskrift om desinfeksjon av vann, akvakultur",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1997-02-20",
+  "last_change_in_force": "2016-10-19",
+  "last_changed_by": "forskrift/2016-10-19-1217",
+  "lovdata_refid": "forskrift/1997-02-20-192",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-02-20-192",
+  "raw_xml_sha256": "eef38899cbe9921c03caf5a11fa2d20253b1b83c6801d24fcf4ff021a3b6493a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I Formål, virkeområde og definisjoner"
+      ],
+      "text": "Formålet med denne forskriften er å forebygge og begrense spredning av smittsomme sjukdommer hos akvatiske organismer gjennom tilfredsstillende desinfeksjon av inntaksvann til, og avløpsvann fra akvakulturrelatert virksomhet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I Formål, virkeområde og definisjoner"
+      ],
+      "text": "Denne forskrift gjelder for virksomheter som er pålagt desinfeksjon av inntaksvann, og/eller avløpsvann med hjemmel i annet regelverk eller enkeltvedtak, slik som;virksomheter hvor det foregår slakting og/eller tilvirking av fisk, krepsdyr eller muslinger fra oppdrett1virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk2virksomheter som karantenterer importerte levende akvatiske organismer for oppdrett og/eller videresalg til konsum3transportenheter for akvatiske organismer fra oppdrett4virksomheter som driver smitteforsøk med akvatiske organismer, og andre virksomheter etter fylkesveterinærens bestemmelser",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I Formål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forskriften menes med:Akvatiske organismer: alle vannlevende dyr inklusive deres kjønnsprodukter, hvile- og forplantningsstadier, unntatt amfibier, krypdyr, pattedyr og fugler.Akvakultur: virksomhet der en driver oppdrett1 eller på annen måte holder akvatiske organismer i fangenskap.Eksotisk smittestoff: et kjent smittestoff som ikke er dokumentert tilstede i Norge.Eksotiske arter av akvatiske organismer: akvatiske organismer som ikke er naturlig hjemmehørende i norsk fauna.Prosedyre: dokumentert beskrivelse av en prosess for å angi hvem som gjør hva, og i hvilken rekkefølge.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Inntaksvann til virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk",
+      "path": [
+        "Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann"
+      ],
+      "text": "Virksomheter som driver klekking og produksjon av laksefisk og annen ferskvannsfisk skal normalt ikke ta inn sjøvann, eller ferskvann fra kilde som har oppgang av anadrom fisk. Dersom slikt vann tas inn, skal det desinfiseres slik at faren for inntak av smittestoff til anlegget reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.\nMattilsynet kan bestemme at også andre akvakulturanlegg skal desinfisere inntaksvannet slik at faren for inntak av smittestoff til anlegget reduseres.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Avløpsvann fra slakterier/tilvirkningsanlegg",
+      "path": [
+        "Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann"
+      ],
+      "text": "Slakterier/tilvirkningsanlegg m.v. skal desinfisere alt avløpsvann slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.\nMattilsynet kan i enkeltsaker og for et begrenset tidsrom godkjenne andre metoder som gir lik eller større trygghet mot smittespredning.\nOrganisk slam som produseres i forbindelse med behandling av avløpsvann fra slakting/tilvirkning, skal desinfiseres slik at faren for smittespredning reduseres.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Avløpsvann fra landbaserte akvakulturanlegg",
+      "path": [
+        "Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann"
+      ],
+      "text": "Landbaserte akvakulturanlegg som har tillatelse til å drive smitteforsøk med akvatiske organismer skal desinfisere avløpsvannet slik at det ikke medfører fare for smittespredning. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og anleggets driftsplan forøvrig.\nMattilsynet kan bestemme at også andre landbaserte akvakulturanlegg skal desinfisere avløpsvannet slik at faren for smittespredning reduseres.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Transportvann",
+      "path": [
+        "Kapittel II Krav om desinfeksjon av inntaksvann og avløpsvann"
+      ],
+      "text": "Mattilsynet kan bestemme at vann fra transport av akvatiske organismer til/fra akvakulturanlegg skal desinfiseres slik at faren for smittespredning reduseres. Dette skal skje ved bruk av godkjent metode og utstyr og i samsvar med denne forskrift og slakteriets/transportenhetens driftsplan forøvrig.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann",
+      "path": [
+        "Kapittel III Godkjenning av metoder og teknisk utstyr"
+      ],
+      "text": "Veterinærinstituttet kan etter søknad godkjenne metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann som oppfyller de krav som går frem av §§ 10 og 11 i denne forskrift.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Forbehandling av inntaksvann og avløpsvann",
+      "path": [
+        "Kapittel III Godkjenning av metoder og teknisk utstyr"
+      ],
+      "text": "Inntaksvann og avløpsvann skal forfiltreres gjennom en silanordning før videre behandling.\nInntaksvann til akvakulturanlegg skal filtreres gjennom filter/silanordning med poreåpning/spaltebredde ≤ 0,3 mm.\nAvløpsvann fra slakterier/tilvirkningsanlegg skal filtreres gjennom silanordning med poreåpning/spaltebredde ≤ 1 mm.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Krav til metoder for desinfeksjon av inntaksvann og avløpsvann",
+      "path": [
+        "Kapittel III Godkjenning av metoder og teknisk utstyr"
+      ],
+      "text": "1. For inntaksvann til akvakulturanlegg som driver klekking og produksjon av laksefisk og annen ferskvannsfisk gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 3 log10 (99,9%) inaktivering av Aeromonas salmonicida, subsp. salmonicida, og det er vist, eller på grunnlag av dose-responskurver for IPN-virus anses sannsynlig, at infeksiøs lakseanemi virus (ILA-virus) også inaktiveres tilsvarende.2. For avløpsvann fra slakterier/tilvirkningsanlegg m.v. gjelder § 10.1.3. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk med bakterier/virus/parasitter som er listeført på sjukdomslistas gr. B eller C gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av Yersinia ruckeri.4. For avløpsvann fra landbaserte akvakulturanlegg som har tillatelse til å drive forsøk nevnt i § 10.3 og i tillegg én eller flere av følgende kategorier a) smittestoff som er listeført på sjukdomslistas gr. A, b) eksotisk smittestoff, c) eksotiske arter av akvatiske organismer, og/eller d) ukjent smittestoff, gjelder at metoden gjennom anerkjent vitenskapelig dokumentasjon under relevante forsøksbetingelser (vannkvalitet, temperatur m.v.), skal vise minimum 5 log10 (99,999%) inaktivering av IPN-virus.5. Der det settes krav om installasjon av filteranlegg for å holde tilbake Gyrodactylus salaris, er kravet at filteret skal holde tilbake alle livsstadier av G. salaris ved det vanntrykket filteret blir utsatt for under maksimal belastning. Dersom filteranlegget i seg selv ikke er tilstrekkelig til å hindre spredning, må filtreringen kombineres med andre desinfeksjonsmetoder.6. For avløpsvann fra akvakulturanlegg som karantenterer importerte levende akvatiske organismer for videresalg til konsum gjelder § 10.4.7. For avløpsvann fra akvakulturanlegg som har tillatelse til å drive oppdrett av eksotiske arter av akvatiske organismer gjelder § 10.4.8. For avløpsvann fra transport av akvatiske organismer til/fra akvakulturanlegg, gjelder § 10.1.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Krav til teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann",
+      "path": [
+        "Kapittel III Godkjenning av metoder og teknisk utstyr"
+      ],
+      "text": "Godkjent teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal som et minimum ha følgende sikkerhetsfunksjoner:det skal være montert sikringsanordning som sørger for at kravene til desinfeksjonsmidlets/metodens «konsentrasjon» (mg/l, mJ/cm2, °C m.v.) og virketid overholdesdet skal være montert sikring mot driftsstans og/eller annen funksjonsfeildet skal være montert registreringsenhet som skal lagre informasjon som gjør det mulig å kontrollere at desinfeksjonsmidlets/metodens «konsentrasjon» og virketid har vært i samsvar med kravene, samt registrere driftsstans/funksjonsfeil.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Godkjenningsprosedyre",
+      "path": [
+        "Kapittel IV Godkjenningsprosedyre og tilsynsordning"
+      ],
+      "text": "1. Godkjenning av metode etter § 10 (metodegodkjenning) gjøres på grunnlag av dokumenterte resultater oppnådd i forsøksskala.2. Godkjenning av utstyr etter § 11 (utstyrsgodkjenning) kan gis for en spesifikk utstyrstype (typegodkjenning), teknisk utstyr som bygges om slik at det blir identisk med typegodkjent utstyr, eller særegent utstyr som er konstruert ut i fra lokale tilpasninger hos den enkelte virksomhet. Godkjenningene kan gjøres tidsbegrensede.3. Godkjenning av metode eller utstyr kan trekkes tilbake med øyeblikkelig virkning for de tilfeller der systematiske feil/mangler ved utstyret, nye sjukdomssituasjoner/smittestoff eller ny viten om slike forhold tilsier at godkjente metoder eller utstyr ikke lenger oppfyller formålet de er godkjent for.4. Etter at desinfeksjonsutstyret er installert på den enkelte virksomhet, skal det gis melding om dette til Mattilsynet. Meldingen skal gis på den måten Mattilsynet bestemmer.5. Godkjenning av metoder og teknisk utstyr for desinfeksjon av inntaksvann og avløpsvann skal for øvrig gjennomføres i samsvar med de til enhver tid gjeldende instrukser utarbeidet av Fiskeridepartementet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Tilsyn og vedtak",
+      "path": [
+        "Kapittel IV Godkjenningsprosedyre og tilsynsordning"
+      ],
+      "text": "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Krav til registreringer og dokumentasjon",
+      "path": [
+        "Kapittel IV Godkjenningsprosedyre og tilsynsordning"
+      ],
+      "text": "Virksomheter som har teknisk utstyr godkjent etter denne forskrift skal ha utarbeidet prosedyrer som beskriver rutiner for:oppstart.avstengning.tiltak ved alarm.uttak og analyser av prøver for dokumentasjon av desinfeksjonseffekt.periodisk vedlikehold.\nRegistreringer og annen dokumentasjon skal minimum inneholde:godkjenningspapirer for vanndesinfeksjonsanlegget.utskrift eller data fra registreringsenhet, jfr. § 11, siste setning.resultater fra analyser av prøver for dokumentasjon av desinfeksjonseffekt.journaler/rapporter fra virksomhetens prosedyrer for egenkontroll.\nDokumentasjon og registreringer skal oppbevares ved virksomheten i minimum 5 år, og være tilgjengelig for tilsynsmyndighet.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Gebyr",
+      "path": [
+        "Kapittel V Avsluttende bestemmelser"
+      ],
+      "text": "For behandling av søknader om godkjenning etter § 8 i denne forskrift skal det betales et gebyr til det offentlige på 25.000 kroner.\nFor behandling av søknader om re-godkjenning etter § 12 nr. 2 i denne forskriften skal det betales et gebyr til det offentlige på 5.000 kroner.\nGebyret skal være innbetalt før søknaden tas under behandling. Bevis for at gebyret er innbetalt skal vedlegges søknaden. Gebyret blir ikke refundert ved et eventuelt avslag på søknaden.\nNår særlige grunner foreligger kan Fiskeridepartementet eller den departementet bemyndiger helt eller delvis frita for gebyr etter denne paragraf.\nØvrige kostnader forbundet med søknader er det offentlige uvedkommende.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel V Avsluttende bestemmelser"
+      ],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriftens kapittel II samt § 9 og § 14, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Klagerett",
+      "path": [
+        "Kapittel V Avsluttende bestemmelser"
+      ],
+      "text": "Vedtak fattet av Veterinærinstituttet kan påklages til Fiskeridepartementet.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 18",
+      "heading": "Straff",
+      "path": [
+        "Kapittel V Avsluttende bestemmelser"
+      ],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 19",
+      "heading": "Ikrafttreden",
+      "path": [
+        "Kapittel V Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft straks. Fra samme tid oppheves forskrift av 14. juni 1991 nr. 494 om godkjenning av metoder og utstyr for behandling av død fisk, fiskeavfall og avløp m.v. mot smittefare, og forskrift av 4. februar 1991 nr. 76 om desinfeksjon av inntaksvann til oppdrettsanlegg for akvatiske organismer med tilhørende instruks.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    }
+  ]
+}

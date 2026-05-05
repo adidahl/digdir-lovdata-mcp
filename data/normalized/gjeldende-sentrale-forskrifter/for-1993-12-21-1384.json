@@ -1,0 +1,90 @@
+{
+  "id": "FOR-1993-12-21-1384",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om identifikasjonsmerking av næringsmiddelpartier.",
+  "short_title": "Lotmerkingsforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "1994-01-01",
+  "last_change_in_force": "2004-01-15",
+  "last_changed_by": "forskrift/2004-01-15-235",
+  "lovdata_refid": "forskrift/1993-12-21-1384",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-12-21-1384",
+  "raw_xml_sha256": "14b3e31e562203fb86f185c7c5b205f155473fe2b710cf6bd0dcf5587a728348",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne forskrift er å gjøre det mulig å identifisere hvilket parti et næringsmiddel kommer fra i tilfeller hvor næringsmidlet kan utgjøre en helsefare eller der hvor næringsmidlet er gjenstand for en tvist.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav om identifikasjonsmerking",
+      "path": [],
+      "text": "Næringsmidler som omsettes skal være merket slik at det er mulig å identifisere næringsmiddelpartiet. Med næringsmiddelparti forstås den gruppe salgsenheter av et næringsmiddel som er produsert, fremstilt eller emballert under så å si identiske forhold.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ansvarlig for avgrensing av næringsmiddelparti",
+      "path": [],
+      "text": "Et næringsmiddelparti skal avgrenses av den virksomhet som har produsert, fremstilt eller emballert det aktuelle næringsmidlet, eller av den forhandler innen EØS som først omsetter det.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Identifikasjonsmerkingen",
+      "path": [],
+      "text": "Identifikasjonsmerkingen skal være lett synlig, lett leselig og uutslettelig, og skal innledes med bokstaven «L», med mindre den klart skiller seg fra de øvrige opplysninger.\nPå ferdigpakkede næringsmidler skal identifikasjonsmerkingen være påført ferdigemballasjen eller en etikett festet til denne.\nPå ikke ferdigpakkede næringsmidler skal identifikasjonsmerkingen være påført emballasje eller beholdere, eller i mangel av slike, i handelsdokumentene.\nHoldbarhetsmerking i henhold til generell forskrift om merking av næringsmidler er tilstrekkelig som identifikasjonsmerking av et næringsmiddelparti, forutsatt at denne angir minst dag og måned i nevnte rekkefølge. Bokstaven «L» settes ikke foran slik identifikasjonsmerking.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Unntak fra krav om identifikasjonsmerking",
+      "path": [],
+      "text": "Følgende næringsmidler er unntatt fra krav om identifikasjonsmerking:Landbruksprodukter som når de forlater produksjonsområdet blir:solgt eller levert til et sted for midlertidig lagring, bearbeidelse eller emballering,transportert til en produsentorganisasjon, ellerhentet for umiddelbart å inngå i en tilberednings- eller bearbeidelsesprosess.Næringsmidler som ikke er ferdigpakket når de omsettes til forbruker, som blir innpakket på kjøpers anmodning eller umiddelbart før omsetning.Næringsmidler i emballasje eller beholdere med største overflate mindre enn 10 cm2.Inntil den 31. desember 1996: næringsmidler i glassflasker som er beregnet på gjenbruk, påført holdbarhetsmerking og som derfor verken har etikett, halsetikett eller lignende.Spiseis i individuelle pakninger, forutsatt at opplysningene gis på samleemballasjen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft samtidig med at EØS-avtalen trer i kraft.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

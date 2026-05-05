@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1996-07-19-735",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om regulering av rekefisket i Svalbards territorialfarvann og indre farvann.",
+  "short_title": "Forskrift om rekefisket ved Svalbard",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1996-07-19",
+  "last_change_in_force": "2006-01-01",
+  "last_changed_by": "forskrift/2005-08-31-959 fra 2006-01-01",
+  "lovdata_refid": "forskrift/1996-07-19-735",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1996-07-19-735",
+  "raw_xml_sha256": "30bb52ca26eae1ce2eaeaa2dc93ab00babf81cd22843f5f01fa8d2555a588620",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Denne forskrift gjelder for fisket etter reker i Svalbards territorialfarvann og indre farvann.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Bare fartøyer fra land som tradisjonelt har fisket reker i Svalbards territorialfarvann og indre farvann eller i fiskevernsonen ved Svalbard, kan fiske reker i Svalbards territorialfarvann og indre farvann. Dette er fartøyer fra Canada, Færøyene, Grønland, Island, EU, Russland og Norge. Omfanget av det enkelte lands deltakelse fastsettes særskilt på grunnlag av tidligere fiske.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av bestemmelser gitt i eller i medhold av denne forskrift straffes etter § 4 annet ledd i lov av 17. juli 1925 nr. 11 om Svalbard.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

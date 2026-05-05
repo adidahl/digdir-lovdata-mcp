@@ -1,0 +1,80 @@
+{
+  "id": "FOR-2015-09-25-1141",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om offentliggjøring av resultater fra Mattilsynets tilsyn med serveringssteder (smilefjesforskriften)",
+  "short_title": "Smilefjesforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2016-01-01",
+  "lovdata_refid": "forskrift/2015-09-25-1141",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-09-25-1141",
+  "raw_xml_sha256": "e4e174a4d8c67629aeb2b9e280dca1f1537737f872f0d5427f3835958c2f7909",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er at forbrukerne skal gis tilrettelagt informasjon om resultatene av Mattilsynets tilsyn med serveringssteder etter matlovgivningen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for serveringssteder som er allment tilgjengelige og som tilbereder, serverer og omsetter mat til forbrukerne og som er tilrettelagt og beregnet for at maten skal spises på stedet i permanente serveringsområder (restauranter og kaféer o.l.).\nForskriften gjelder ikke for kantiner, matservering på institusjoner, bensinstasjoner eller storkiosker.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Smilefjesrapporten",
+      "path": [],
+      "text": "Smilefjesrapporten er en standardisert skriftlig rapport som skal gi forbrukerne tilrettelagt informasjon, der resultatet av det gjennomførte tilsynet er uttrykt ved ett av tre mulige smilefjessymboler. (smilefjes): Mattilsynet har ikke funnet brudd på regelverket eller har bare funnet bagatellmessige brudd på regelverket og påpekt dette. (strekmunn): Mattilsynet har funnet brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak. (sur munn): Mattilsynet har funnet alvorlige eller gjentatte brudd på regelverket og gitt forhåndsvarsel eller fattet nødvendige vedtak.\nSmilefjesrapporten inneholder i tillegg informasjon om hva som er kontrollert og hvilke funn som er gjort samt smilefjessymbolene fra inntil tre tidligere tilsyn.\nSmilefjesrapporten kommer i tillegg til den ordinære tilsynsrapporten.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Offentliggjøring på serveringsstedet",
+      "path": [],
+      "text": "Serveringsstedet skal henge opp smilefjesrapporten straks Mattilsynet har levert den.\nSmilefjesrapporten skal henges opp godt synlig slik at forbrukerne får informasjonen før de går inn på serveringsstedet. For serveringssteder som på grunn av sin plassering ikke har eget inngangsparti, skal smilefjesrapporten plasseres godt synlig slik at forbrukerne får informasjonen før de velger om de vil spise på serveringsstedet.\nServeringsstedet skal ikke gjøre endringer i eller tilføyelser til smilefjesrapporten.\nSmilefjesrapporten skal henges opp selv om serveringsstedet klager på resultatet av tilsynet eller ber om oppfølging etter § 6.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Publisering",
+      "path": [],
+      "text": "Mattilsynet skal publisere tilsynsresultatene digitalt innen fem virkedager etter gjennomført tilsyn.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Oppfølging",
+      "path": [],
+      "text": "Etter at serveringsstedet har rettet opp de regelverksbruddene Mattilsynet har funnet og melding om dette er mottatt hos Mattilsynet, skal Mattilsynet innen 10 virkedager etter at meldingen er mottatt, følge opp saken.\nDersom Mattilsynet ikke overholder denne fristen, kan serveringsstedet ta ned gjeldende smilefjesrapport, og Mattilsynet skal fjerne den fra sin digitale publisering.\nMattilsynets oppfølging kan være i form av et nytt tilsyn ved serveringsstedet eller ved kontroll av dokumentasjon som serveringsstedet sender eller melder fra om på annen egnet måte.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Tilsyn ved skifte av eier eller ansvarlig",
+      "path": [],
+      "text": "Ved skifte av eier eller ansvarlig kan serveringsstedet kreve nytt tilsyn innen 10 virkedager etter at melding om skifte av eier eller ansvarlig er mottatt hos Mattilsynet.\nDersom Mattilsynet ikke overholder denne fristen, kan serveringsstedet ta ned gjeldende smilefjesrapport, og Mattilsynet skal fjerne den fra sin digitale publisering.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2016.\nSamtidig oppheves forskrift 30. mai 2007 nr. 566 om et avgrenset pilotprosjekt om plikt til å offentliggjøre resultater av utført tilsyn i serveringsvirksomheter (smilefjesordning).",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

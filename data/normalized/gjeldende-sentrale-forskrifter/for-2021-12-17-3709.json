@@ -1,0 +1,57 @@
+{
+  "id": "FOR-2021-12-17-3709",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om stønad til dekning av utgifter til undersøkelse og behandling hos logoped og audiopedagog",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2022-01-01",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-06-23-1293 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2021-12-17-3709",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-12-17-3709",
+  "raw_xml_sha256": "bf4b79e835c37107d3efbd02a12762832f1c4208c6787cd79101dcd3fbf38de3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Stønad til undersøkelse og behandling",
+      "path": [
+        "Kapittel 1. Regler"
+      ],
+      "text": "Det gis stønad til dekning av utgifter til undersøkelse og behandling hos logoped og audiopedagog ved sykdom, skade eller lyte.\nDet er et vilkår at medlemmet er henvist fra lege. På henvisningen må legen oppgi diagnose. Behandlingen må være av vesentlig betydning for medlemmets sykdom og funksjonsevne.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Logopedens og audiopedagogens kompetanse",
+      "path": [
+        "Kapittel 1. Regler"
+      ],
+      "text": "Det gis bare stønad til undersøkelse og behandling hos logoped og audiopedagog hvis den som gir behandlingen:har bestått eksamen i masterstudium i logopedi eller audiopedagogikk ved norsk utdanningsinstitusjon, ellerhar godkjent eksamen i logopedi eller audiopedagogikk etter tidligere regelverk (før 2005).\nHelsedirektoratet eller det organ Helsedirektoratet bestemmer vurderer om utdanning fra utlandet kan likestilles med norsk masterutdanning i logopedi eller audiopedagogikk.\nDen enkelte logoped og audiopedagog må dokumentere kompetansen sin overfor Helfo.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Stønaden",
+      "path": [
+        "Kapittel 1. Regler"
+      ],
+      "text": "Stønad til undersøkelse og behandling gis etter takstene i kapittel 2.\nDen enkelte logoped og audiopedagog er selv ansvarlig for å vurdere om medlemmet fyller vilkårene for stønad etter folketrygdloven § 5-10 og denne forskriften.\nLogopeden og audiopedagogen må dokumentere refusjonskravet i journal, herunder hvilke undersøkelser som er utført og hvilken behandling som er gitt i det enkelte tilfellet. Pasientjournalen skal inneholde alle opplysninger som er relevante og nødvendige.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Reiseutgifter for logopeden og audiopedagogen",
+      "path": [
+        "Kapittel 1. Regler"
+      ],
+      "text": "Hvis medlemmet ikke kan møte fram på behandlingsstedet på grunn av sin helsetilstand, dekker kommunen reiseutgiftene for logopeden og audiopedagogen etter lov 24. juni 2011 nr. 30 om kommunale helse- og omsorgstjenester m.m. § 11-1 fjerde og femte ledd.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

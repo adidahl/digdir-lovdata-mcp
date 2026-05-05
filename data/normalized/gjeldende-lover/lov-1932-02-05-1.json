@@ -1,0 +1,163 @@
+{
+  "id": "LOV-1932-02-05-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om ansvar for handlinger som påtales ved Riksrett [ansvarlighetsloven]",
+  "short_title": "Ansvarlighetsloven – riksrl",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Statsforfatningen Stats-, statsforfatnings- og statsborgerrett > Stortinget Strafferett > Utenfor straffeloven",
+  "date_in_force": "1932-02-05",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1932-02-05-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1932-02-05-1",
+  "raw_xml_sha256": "1124abe2586ad77917fb0abd83e3894d286466511577347e43f023fba469183a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapitel 1. Almindelige bestemmelser."
+      ],
+      "text": "Denne lov får anvendelse på handlinger som påtales ved Riksrett.\nForsåvidt ikke annet følger av denne lov, gjelder bestemmelsene om straff og erstatning i lovgivningen for øvrig ved siden av denne lov, når Statsrådets, Høyesteretts eller Stortingets medlemmer har brutt sine konstitusjonelle plikter.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapitel 1. Almindelige bestemmelser."
+      ],
+      "text": "For ethvert straffbart forhold som påtales ved Riksrett kan tap av offentlig tjeneste idømmes istedenfor eller som tillegg til den straff som ellers er bestemt.\nSom tillegg til den straff som ellers idømmes, kan tap av stemmerett i offentlige anliggender og av adgang til å oppnå offentlig tjeneste idømmes for det tidsrom som retten bestemmer.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kapitel 1. Almindelige bestemmelser."
+      ],
+      "text": "Bestemmelsene i denne lovs 2net og 3dje kapittel kommer også til anvendelse på den handling som er forøvet av uaktsomhet, såfremt det ikke uttrykkelig er bestemt at bare den forsettlige handling er straffbar.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kapitel 1. Almindelige bestemmelser."
+      ],
+      "text": "Bestemmelsene om foreldelse i straffeloven kapittel 15 kommer til anvendelse på handlinger som påtales ved Riksrett, dog således at foreldelsesfristen for adgangen til å reise straffesak eller avsi straffedom ikke i noget tilfelle er kortere enn 15 år.\nForeldelsens løp avbrytes ved beslutningen om tiltale, eller ved særskilt beslutning av Stortinget om å iverksette undersøkelser såfremt beslutning om tiltale derefter blir fattet innen 1 år.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kapitel 1. Almindelige bestemmelser."
+      ],
+      "text": "For handling som påtales ved Riksrett kan den ansvarlige tilpliktes å betale erstatning for den skade som er voldt.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 8",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Med bøter eller fengsel inntil 5 år straffes det medlem av Statsrådet som ved handling eller undlatelse bevirkerat noget som krever beslutning av Stortinget blir foretatt uten Stortingets samtykke;at en beslutning av Stortinget ikke blir gjennemført, eller at en handling blir foretatt i strid med en stortingsbeslutning;at protokoller, dokumenter eller oplysninger som skal meddeles Stortinget blir tilbakeholdt, eller at statens regnskaper ikke blir tilstillet Statsrevisjonen således som bestemt i Grunnlovens § 75 bokstav k.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Undlater noget medlem av Statsrådet under behandlingen av en sak å gi oplysninger som har betydning for saken, eller gir han uriktige oplysninger, straffes han med bøter eller med fengsel inntil 5 år.\nDet medlem av statsrådet som misligholder sin opplysningsplikt overfor Stortinget, straffes med bøter eller med fengsel inntil 5 år.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 10",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Med bøter eller med fengsel inntil 2 år straffes det medlem av Statsrådet som bevirker eller medvirker til at statens eiendommer eller øvrige midler ikke blir forsvarlig anvendt, eller bestyrt, eller som på annen måte viser uforstand eller forsømmelighet i sin virksomhet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 11",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Den der som medlem av Statsrådet på annen måte enn nevnt i denne lovs øvrige bestemmelser ved handling eller undlatelse bevirker noget som er stridende mot Grunnloven eller rikets lover, straffes med bøter eller med fengsel inntil 10 år.\nMed samme straff straffes de medlemmer av Statsrådet, som forsømmer den dem med hensyn til innkallelse av Stortinget ved Grunnlovens § 39 påliggende plikt.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 12",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Det medlem av Stortinget som uten gyldig forfall undlater å møte på Stortinget når dette trer sammen, straffes med bøter. På samme måte straffes den representant som uten gyldig grunn forsettlig unddrar sig fra å delta i Stortingets forhandlinger eller som ikke retter sig efter Stortingets forretningsorden.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 13",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Undlater noget medlem av Stortinget å gi oplysninger som han plikter å meddele Stortinget, eller gir han uriktige oplysninger, straffes han med bøter eller med fengsel inntil 5 år.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 14",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Gjør noget medlem av Statsrådet eller av Stortinget sig skyldig i sådant lovbrud som nevnt i straffeloven § 209, straffes han med bøter eller med fengsel inntil 5 år.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 15",
+      "path": [
+        "Kapitel 2. Særlige bestemmelser om straffansvar for medlemmer av Statsrådet og Stortinget."
+      ],
+      "text": "Det medlem av statsrådet som ikke innleverer sin søknad om avskjed i samsvar med Grunnlovens § 15 første ledd, straffes med tap av embetet og bøter eller fengsel inntil 10 år.\nPå samme måte straffes det medlem av statsrådet som, etter at Stortinget har truffet beslutning om mistillit, overskrider sin bemyndigelse ifølge Grunnlovens § 15 tredje ledd.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 16",
+      "path": [
+        "Kapitel 3. Særlige bestemmelser om straffansvar for medlemmer av Høiesterett og Riksretten."
+      ],
+      "text": "De medlemmer av Høiesterett, som forsømmer den dem med hensyn til innkallelse av Stortinget ved Grunnloven § 46 påliggende plikt, straffes med bøter eller med fengsel inntil 10 år forsåvidt ikke nogen strengere straffebestemmelse kommer til anvendelse på forholdet.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 17",
+      "path": [
+        "Kapitel 3. Særlige bestemmelser om straffansvar for medlemmer av Høiesterett og Riksretten."
+      ],
+      "text": "Det medlem av Høiesterett, sommeddeler nogen part råd eller veiledning i en sak som står for Høiesterett eller kan komme inn for Høiesterett,eller i nogen betenkning, eller innstilling medvirker til noget som er stridende mot Grunnloven,eller i sin embedsgjerning for øvrig ved handling eller undlatelse bevirker noget som er stridende mot Grunnlov eller lovgivning,straffes med bøter eller med fengsel inntil 10 år.\nDenne bestemmelse gjelder tilsvarende når et medlem av Høyesterett er medlem av Riksretten.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 19",
+      "path": [
+        "Kapitel 4. Lovens krafttreden."
+      ],
+      "text": "Denne lov trer i kraft straks.\n– – –",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    }
+  ]
+}

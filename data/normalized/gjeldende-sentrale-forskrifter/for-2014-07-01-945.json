@@ -1,0 +1,57 @@
+{
+  "id": "FOR-2014-07-01-945",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om frakt av last på norske skip og lektere",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2014-09-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-16-2678 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2014-07-01-945",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-07-01-945",
+  "raw_xml_sha256": "123fe8575f4b2799e882bb207c12bd58edc3e7c5fed90856cc6652ac375afdc4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norske skip og lektere som frakter last, unntatt flytende stoffer eller gass i bulk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav ved føring av last",
+      "path": [],
+      "text": "For skip i utenriksfart gjelder som forskriftDen internasjonale konvensjon om sikkerhet for menneskeliv til sjøs, 1974 (SOLAS) konsolidert utgave 2020 kapittel VI.International Maritime Solid Bulk Cargoes Code (IMSBC-koden), jf. MSC.539 (107).The International Code for the Safe Carriage of Grain in Bulk (Korn-koden), jf. MSC.23(59), som endret ved MSC.552(108).\nFørste ledd gjelder tilsvarende for lasteskip og lektere i innenriksfart.\nKornkoden gjelder som forskrift også for et skip som fører tørr bulklast som har en naturlig rasvinkel mindre enn 35°.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Supplerende bestemmelser om lastsikringsmanual, faktahefte for stabilitet og styrke og laste- og losseplan for lasteskip og lektere",
+      "path": [],
+      "text": "Lasteskip og lektere skal ha om bord lastsikringsmanual etter SOLAS regel VI/5.6.\nSkip i innenriksfart og lektere kan unnlate å følge kravene etter SOLAS regel VI/7 om faktahefte for stabilitet og styrke, og laste- og losseplan.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Sjøfartsdirektoratet kan etter skriftlig søknad godkjenne andre løsninger enn de som kreves etter forskriften når det er godtgjort at løsningene er likeverdige med forskriftens krav.\nSjøfartsdirektoratet kan unnta skip i innenriksfart, lektere i innenriks- og utenriksfart og skip som unntaksvis må foreta en enkelt internasjonal sjøreise, fra ett eller flere av kravene i forskriften, når rederiet søker skriftlig om unntak og ett av følgende krav er oppfylt:Det godtgjøres at kravet ikke er vesentlig og unntaket anses sikkerhetsmessig forsvarlig.Det godtgjøres at kompenserende tiltak vil opprettholde samme sikkerhetsnivå som kravet i forskriften.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. september 2014.\nFra samme tidspunkt oppheves forskrift 29. juni 2006 nr. 785 om frakt av last på lasteskip og lektere.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

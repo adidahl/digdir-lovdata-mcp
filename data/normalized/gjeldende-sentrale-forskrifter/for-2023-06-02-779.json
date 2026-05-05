@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2023-06-02-779",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsregler til lov 11. mai 2023 nr. 13 om endringer i tvisteloven mv. (rettsmekling, ankenektelse mv.)",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2023-06-02",
+  "lovdata_refid": "forskrift/2023-06-02-779",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-06-02-779",
+  "raw_xml_sha256": "9146c32c1aa7e6f649258b9707fc1006ba5067b3d3cf90700f112bcad4461597",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Skjæringstidspunkt for endringer i tvisteloven",
+      "path": [],
+      "text": "Endringene i tvisteloven § 29-13 andre ledd første punktum får ikke anvendelse for anker over avgjørelser som er avsagt før 1. juli 2023. Endringene i tvisteloven § 29-13 fjerde ledd andre punktum får ikke anvendelse for ankesaker som er mottatt av lagmannsretten før 1. juli 2023.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Skjæringstidspunkt for endringer i jordskiftelova",
+      "path": [],
+      "text": "Endringene i jordskiftelova § 7-9 første ledd andre punktum får ikke anvendelse for saker der krav om sak er fremsatt før 1. juli 2023. Endringene i jordskiftelova § 8-8 tredje ledd første punktum får ikke anvendelse for anker over avgjørelser som er avsagt før 1. juli 2023.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

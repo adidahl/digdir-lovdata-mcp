@@ -1,0 +1,34 @@
+{
+  "id": "FOR-1980-09-05-4",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utskriving, betaling og avregning av terminskatt m.v.",
+  "short_title": "Forskrift om utskriving m.v. av terminskatt",
+  "department": "Finansdepartementet",
+  "date_in_force": "1980-09-05",
+  "last_change_in_force": "2025-06-25",
+  "last_changed_by": "forskrift/2025-06-25-1324",
+  "lovdata_refid": "forskrift/1980-09-05-4",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1980-09-05-4",
+  "raw_xml_sha256": "87490497163ab0a5eb23e1723516f86ef8168d2713ec8c018460667bf188012b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Utskriving og endring av terminskatt",
+      "path": [],
+      "text": "Terminskatt utskrives av Oljeskattekontoret i ti like store terminer som forfaller til betaling 1. august, 1. september, 1. oktober, 1. november og 1. desember i inntektsåret og 1. februar, 1. mars, 1. april, 2. mai og 1. juni i skattefastsettingsåret.\nHvis særlige forhold tilsier det, kan det i enkelte tilfelle fattes vedtak om at terminene ikke skal være like store.\nUtskrevet terminskatt kan endres fram til forfallstid for sjette termin med virkning for de fem siste terminene når det er overveiende sannsynlig at den skattepliktige med den utskrevne terminskatt vil få en resterende skatt eller en tilgodesum ved skattefastsettingen for vedkommende år.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Melding om terminskatt",
+      "path": [],
+      "text": "Den skattepliktige skal ha melding om utskrevet terminskatt og senere endringer i slik skatt.\nEndringer i utskrevet terminskatt betales sammen med eller kommer til fradrag ved betaling av de fem siste terminene.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

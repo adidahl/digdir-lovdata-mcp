@@ -1,0 +1,81 @@
+{
+  "id": "FOR-2009-07-03-971",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om melding av opplysninger om utleverte og brukte legemidler til dyr",
+  "department": "Helse- og omsorgsdepartementetLandbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2010-07-01",
+  "last_change_in_force": "2010-08-06",
+  "last_changed_by": "forskrift/2010-08-06-1147",
+  "lovdata_refid": "forskrift/2009-07-03-971",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-07-03-971",
+  "raw_xml_sha256": "8ed8877f768ca3b068fbb866a1533c70242d8231e7c2fff9774b7b5f2c95effd",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre at utleverere og rekvirenter melder opplysninger om utleverte og brukte legemidler til dyr og at opplysningene registreres og bearbeides til bruk i arbeidet for å sikre helsemessig trygge næringsmidler, fremme folkehelse, dyrehelse, dyrevelferd og forbrukerhensyn samt ivareta miljøvennlig produksjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften forstås medutleverere: apotek, legemiddelgrossister, fôrfirmaer og medisinfôrfirmaerrekvirenter: veterinærer og fiskehelsebiologerbruksområder: kategorier av sykdommer og andre indikasjoner som begrunner bruk av reseptpliktige legemidler, herunder medisinfôr, eller av fôr som er tilsatt koksidiostatika.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Meldeplikt",
+      "path": [],
+      "text": "Utleverere skal melde fra til Mattilsynet om all utlevering avreseptpliktige legemidler til dyr, herunder medisinfôrfôr som er tilsatt koksidiostatika.\nRekvirenter skal melde fra til Mattilsynet om alle reseptpliktige legemidler som de får utlevert og deretter bruker til matproduserende dyr og hester. Rekvirentene skal spesifisere om det er de selv eller dyreholdere som tilfører dyrene legemidlene.\nMeldingen skal inneholde nødvendige og relevante opplysninger omutlevererenrekvirentendyreholdets identitet, unntatt for kjæledyr som holdes privatdyr som tilføres legemidlerbruksområdehvorvidt legemidler er utlevert til rekvirentlegemidler, herunder medisinfôrfôr som er tilsatt koksidiostatikatidspunkt for utleveringtidspunkt for reell eller forventet bruktilbakeholdelsestidervarigheten av startforbud for hest i henhold til norsk dopingreglement.\nDet sentrale Mattilsynet spesifiserer i meldesystemet hva som er nødvendige og relevante opplysninger om forhold nevnt i tredje ledd, herunder bruk av kodeverk.\nDet sentrale Mattilsynet spesifiserer meldingenes form og tidsfrister for melding.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Direkte tilgang til registrerte opplysninger",
+      "path": [],
+      "text": "Mattilsynet skal gi utleverere, rekvirenter og dyreholdere direkte tilgang til registrerte opplysninger som gjelder deres egen virksomhet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i § 3, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til dyrevelferdsloven § 37, legemiddelloven § 31, apotekloven § 9-5, dyrehelsepersonelloven § 37 og matloven § 28.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2010.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

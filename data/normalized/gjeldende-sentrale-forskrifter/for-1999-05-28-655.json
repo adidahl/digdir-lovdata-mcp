@@ -1,0 +1,168 @@
+{
+  "id": "FOR-1999-05-28-655",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om årsregnskap m.m. for inkassovirksomhet.",
+  "short_title": "Forskrift om årsregnskap for inkassovirksomhet",
+  "department": "Finansdepartementet",
+  "date_in_force": "1999-07-01",
+  "last_change_in_force": "2006-02-21",
+  "last_changed_by": "forskrift/2006-02-21-234",
+  "lovdata_refid": "forskrift/1999-05-28-655",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-05-28-655",
+  "raw_xml_sha256": "7c33b9bdc8f3df06bdfa1644916442b46ec45728904e584cc0c81eeafab8a1f7",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Forskriftens virkeområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften gjelder for personer og foretak som driver inkassovirksomhet etter inkassoloven § 4 første ledd, jf. § 2 første ledd.\nRegnskapsloven § 4-1 annet ledd kommer ikke til anvendelse for inkassosaker.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjon av inkassosaker",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Med inkassosaker menes oppdrag om inndrivning av forfalte pengekrav for andre.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Regnskap utarbeidet etter regnskapsloven § 3-9",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "For konsernregnskap eller selskapsregnskap utarbeidet i samsvar med regnskapsloven § 3-9, gjelder kun § 4-3 i denne forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Prinsipper for resultatføring av inntekter fra inkassosaker",
+      "path": [
+        "Kapittel 2. Vurderingsregler"
+      ],
+      "text": "Inntekter fra inkassosaker skal resultatføres ved løpende avregning (i takt med fremdriften). Dersom utfallet av inkassosaken ikke kan fastslås med rimelig grad av sikkerhet, skal inntektsføringen være løpende avregning uten fortjeneste.\nOpptjent fortjeneste tas til inntekt når det foreligger:Pålitelig estimat for de totale inntektene fra inkassosaken.Pålitelig estimat for de kostnader som gjenstår for å fullføre inkassosaken og fullføringsgraden som er oppnådd på balansedagen.\nVurdering av inntekter fra inkassosaker kan foretas på gruppebasis for grupper av ensartede saker.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Kostnadsføring av tap",
+      "path": [
+        "Kapittel 2. Vurderingsregler"
+      ],
+      "text": "Dersom inkassosaker forventes å gi tap, skal hele det forventede tapet kostnadsføres.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Beregning av opptjent inntekt fra inkassosak",
+      "path": [
+        "Kapittel 2. Vurderingsregler"
+      ],
+      "text": "Opptjent inntekt fra inkassosak beregnes som estimert total inntekt fra inkassosaken multiplisert med fullføringsgraden. Opptjent inntekt i regnskapsperioden skal utgjøre opptjent inntekt på balansedagen fratrukket opptjent inntekt rapportert i tidligere perioder.\nVed gruppevurdering av opptjent inntekt på inkassosaker, skal det tas hensyn til risikoen for at saker ikke løses.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Inntekter fra inkassosaker",
+      "path": [
+        "Kapittel 3. Resultatregnskap og balanse"
+      ],
+      "text": "Inntekter fra inkassosaker i regnskapsperioden skal i resultatregnskapet presenteres på egen linje under salgsinntekter.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Opptjente, ikke fakturerte inntekter",
+      "path": [
+        "Kapittel 3. Resultatregnskap og balanse"
+      ],
+      "text": "Opptjente, ikke fakturerte inntekter fra inkassosaker, skal i balansen presenteres på egen linje under kundefordringer som opptjente, ikke fakturerte inkassoinntekter.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Mottatte, ikke opptjente inntekter",
+      "path": [
+        "Kapittel 3. Resultatregnskap og balanse"
+      ],
+      "text": "Dersom mottatt betaling fra inkassosaken overstiger opptjent inntekt fra inkassosaken, skal det overskytende presenteres i balansen på egen linje som mottatte, ikke opptjente inkassoinntekter under kortsiktig gjeld.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Klientmidler",
+      "path": [
+        "Kapittel 3. Resultatregnskap og balanse"
+      ],
+      "text": "Midler som oppbevares av inkassoforetaket, men som tilhører klientene (klientmidler) skal ikke regnskapsføres i inkassoforetakets balanse.\nDersom midler innestående på konto for klientmidler overstiger klientansvaret (klientgjelden) er det overskytende foretakets eiendel og skal regnskapsføres i inkassoforetakets balanse.\nDersom klientmidlene ikke fullt ut dekker klientansvaret er underdekningen foretakets gjeld til klienten og skal regnskapsføres som kortsiktig gjeld i inkassoforetakets balanse.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Utlegg",
+      "path": [
+        "Kapittel 3. Resultatregnskap og balanse"
+      ],
+      "text": "Utlegg som inkassovirksomheten har på vegne av oppdragsgiver, skal presenteres på egen linje under andre fordringer.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Regnskapsprinsipper",
+      "path": [
+        "Kapittel 4. Noteopplysninger"
+      ],
+      "text": "Det skal opplyses om hovedprinsipper for inntektsføring av inkassosaker, herunder prinsippene for beregning av opptjent fortjeneste, fullføringsgraden og grunnlaget for gruppevurdering.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Avsetninger til tap",
+      "path": [
+        "Kapittel 4. Noteopplysninger"
+      ],
+      "text": "Det skal opplyses om avsetninger til tap fordelt på de enkelte poster i balansen.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Klientmidler",
+      "path": [
+        "Kapittel 4. Noteopplysninger"
+      ],
+      "text": "Det skal opplyses om hvor mye foretaket oppbevarer av midler som tilhører klientene (klientmidler), samt om størrelsen på foretakets klientansvar (klientgjeld).\nDersom klientmidlene ikke fullt ut dekker klientansvaret skal underdekningen forklares. Tilsvarende gjelder dersom midler innestående på konto for klientmidler overstiger klientansvaret.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Ikrafttredelse"
+      ],
+      "text": "Denne forskrift trer i kraft 1. juli 1999. Fra samme tidspunkt oppheves forskrift 4. november 1994 nr. 997 om inkassovirksomheters inntektsføring av inkassosaker under utførelse m.v.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "FOR-2025-08-06-1613",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utveksling av opplysninger gjennom registersammenkoblingssystemet (BRIS) mv.",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-08-06-1613",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-08-06-1613",
+  "raw_xml_sha256": "ac320b94ee7ac1cde5326d2b7c6231350175d022a58faaadabded8d7eb822323",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Registersammenkoblingssystemet",
+      "path": [
+        "Kapittel 1. Registersammenkoblingssystemet"
+      ],
+      "text": "Med registersammenkoblingssystemet menes i denne forskriften systemet for sammenkobling av registre etter direktiv (EU) 2017/1132 artikkel 22.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Utveksling av opplysninger ved endringer i registrerte opplysninger for aksjeselskap, allmennaksjeselskap og europeisk selskap mv.",
+      "path": [
+        "Kapittel 2. Foretaksregisterets og Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet mv."
+      ],
+      "text": "(1) Registerføreren skal gjennom registersammenkoblingssystemet varsle registermyndigheten der en filial til et aksjeselskap, allmennaksjeselskap eller europeisk selskap er registrert, om endringer i registrerte opplysninger i Foretaksregisteret for slikt selskap som gjelder:selskapets foretaksnavn;selskapets registrerte kontor;selskapets organisasjonsnummer, og eventuelt EUID;selskapets organisasjonsform;selskapets regnskapsdokumenter som nevnt i regnskapsloven § 8-2;opplysninger som nevnt i foretaksregisterloven § 3-8 første ledd bokstav b og tredje ledd bokstav c og d.Varsel etter første punktum skal sendes uten opphold etter at endringen er registrert i Foretaksregisteret.(2) Dersom registerføreren gjennom registersammenkoblingssystemet mottar varsel om endring av opplysninger som nevnt i første ledd på et hovedforetak som er registrert i annen EØS-stat, skal registerføreren:bekrefte mottak av varselet gjennom registersammenkoblingssystemet, oguten opphold sørge for at relevante dokumenter og opplysninger knyttet til hovedforetakets filial eller filialer i Foretaksregisteret blir oppdatert.(3) Andre ledd gjelder tilsvarende for Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet så langt denne passer.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Utveksling av opplysninger ved registrering og sletting av filialer mv.",
+      "path": [
+        "Kapittel 2. Foretaksregisterets og Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet mv."
+      ],
+      "text": "(1) Dersom et norskregistrert utenlandsk foretak, til et hovedforetak som er registrert i en annen EØS-stat, blir registrert i eller slettet fra Foretaksregisteret, skal registerføreren gjennom registersammenkoblingssystemet varsle registermyndigheten i den staten om registreringen eller slettingen.(2) Dersom registerføreren, gjennom registersammenkoblingssystemet, mottar varsel om at en filial, til et foretak som er registrert i Foretaksregisteret, har blitt registrert i eller slettet fra registeret i den staten, skal registerføreren:bekrefte mottak av varselet gjennom registersammenkoblingssystemet, oguten opphold registrere opplysningen i Foretaksregisteret.(3) Andre ledd gjelder tilsvarende for Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet så langt denne passer.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Kontroll av opplysninger om hovedforetak ved registrering av utenlandsk foretak i Foretaksregisteret og Enhetsregisteret mv.",
+      "path": [
+        "Kapittel 2. Foretaksregisterets og Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet mv."
+      ],
+      "text": "(1) Ved melding til Foretaksregisteret om registrering av et utenlandsk foretak med et hovedforetak som er registrert i en annen EØS-stat, kan registerføreren kontrollere opplysninger om hovedforetaket som nevnt i foretaksregisterloven § 3-8 ved å innhente informasjon om foretaket gjennom registersammenkoblingssystemet.(2) Dersom registerføreren mottar varsel om endringer i opplysninger som nevnt i første ledd gjennom registersammenkoblingssystemet, skal registerføreren:bekrefte mottak av varselet gjennom registersammenkoblingssystemet, oguten opphold registrere opplysningen i Foretaksregisteret.(3) Første og andre ledd gjelder tilsvarende for Enhetsregisterets utveksling og kontroll av opplysninger gjennom registersammenkoblingssystemet så langt de passer.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Registrering av opplysninger i Foretaksregisteret om filialer til et norskregistrert hovedforetak",
+      "path": [
+        "Kapittel 2. Foretaksregisterets og Enhetsregisterets utveksling av opplysninger gjennom registersammenkoblingssystemet mv."
+      ],
+      "text": "(1) Dersom Foretaksregisteret mottar varsel gjennom registersammenkoblingssystemet om at et norskregistrert hovedforetak har registrert en filial i en annen EØS-stat, skal registerføreren registrere følgende opplysninger om filialen i Foretaksregisteret:filialens navn;filialens registreringsnummer og eventuelt EUID;i hvilken stat filialen er registrert;sletting av filialen i utlandet.(2) Dersom registerføreren mottar varsel om endringer i opplysninger som nevnt i første ledd gjennom registersammenkoblingssystemet, skal registerføreren:bekrefte mottak av varselet gjennom registersammenkoblingssystemet, oguten opphold registrere opplysningen i Foretaksregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Gjennomføring av forordning (EU) 2021/1042",
+      "path": [
+        "Kapittel 3. Gjennomføring av forordning (EU) 2021/1042"
+      ],
+      "text": "EØS-avtalen vedlegg XXII nr. 1a forordning (EU) 2021/1042 av 18. juni 2021 om regler for anvendelsen av europaparlaments- og rådsdirektiv (EU) 2017/1132 for det som angår tekniske spesifikasjoner og fremgangsmåte for registersammenkoblingssystemet og om opphevelse av Kommisjonens gjennomføringsforordning (EU) 2020/2244 gjelder som forskrift med de tilpasninger som følger av vedlegg XXII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2026. Fra samme tidspunkt oppheves:forskrift 22. desember 2023 nr. 2308 om utveksling av opplysninger gjennom registersammenkoblingssystemet (BRIS) mv.forskrift 10. august 2022 nr. 1422 om Kommisjonens gjennomføringsforordning (EU) 2021/1042 om regler for anvendelsen av Europaparlaments- og Rådsdirektiv (EU) 2017/1132 for det som angår tekniske spesifikasjoner og fremgangsmåte for registersammenkoblingssystemet og om opphevelse av Kommisjonens gjennomføringsforordning (EU) 2020/2244.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2021-03-19-762",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fordelingen av sakene i domstolene",
+  "short_title": "Forskrift om fordelingen av sakene i domstolene",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2021-04-12",
+  "lovdata_refid": "forskrift/2021-03-19-762",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-03-19-762",
+  "raw_xml_sha256": "c678dbd5914c6bf2e960764242655ce10c8a6ed1983e9bf7ed56dc44420a9c10",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for tingrettene og jordskifterettene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fordeling av saker i rettskretser med flere rettssteder",
+      "path": [],
+      "text": "Saker i tingrettene og jordskifterettene skal behandles på rettsstedet i den delen av rettskretsen hvor sakene geografisk hører hjemme.\nNår det er hensiktsmessig, kan saker behandles på andre rettssteder i rettskretsen.\nReglene i denne bestemmelsen er ikke til hinder for at rett settes i andre lokaler enn rettslokaler når det er hensiktsmessig, jf. domstolloven § 25 fjerde ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 12. april 2021.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

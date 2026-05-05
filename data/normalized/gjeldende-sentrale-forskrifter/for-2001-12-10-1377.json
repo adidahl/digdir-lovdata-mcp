@@ -1,0 +1,82 @@
+{
+  "id": "FOR-2001-12-10-1377",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innbetaling av påslag på nettariffen til Energifondet (forskrift om Energifondet)",
+  "short_title": "Forskrift om Energifondet",
+  "department": "Energidepartementet",
+  "date_in_force": "2002-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3495 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2001-12-10-1377",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-12-10-1377",
+  "raw_xml_sha256": "702a7473ed747330ea1589ac2fb91e8be8b6abbebf0e41ae5f6af9b0b3c9920b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre en effektiv innbetaling og kontroll av bidrag til Energifondet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskrift forstås med:Omsetningskonsesjonær: Enhet som har konsesjon meddelt etter energiloven § 4-1.Husholdningsbruk: Med husholdningsbruk menes bruk av elektrisk energi for:eneboliger, leiligheter, hybler og fritidsboliger, herunder hytter, setrer, koier o.l.fellesvaskeri, garasjer og andre fellesanlegg i eller for boliger mv. som nevnt i bokstav a og b.Målepunkt-ID: Entydig identifikasjon av et målepunkt basert på GS1-standarden Global Service Relation Number (GSRN).Forvalter av Energifondet: Den som til enhver tid er satt til å forvalte midlene fra Energifondet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Påslag og bidrag til Energifondet",
+      "path": [],
+      "text": "Omsetningskonsesjonær som tarifferer for uttak av elektrisk energi skal i forbindelse med fakturering legge et påslag på tariffen til alle sluttbrukere på alle nettnivåer.\nFor husholdningsbruk skal påslaget utgjøre 1 øre/kWh. For andre sluttbrukere enn husholdninger skal påslaget utgjøre 800 kroner/år per målepunkt-ID.\nBidraget omsetningskonsesjonær skal betale til Energifondet er 1 øre/kWh multiplisert med den energimengden som er fakturert husholdningsbruk, samt summen av påslag per målepunkt-ID som er fakturert andre sluttbrukere enn husholdninger, i den angjeldende termin.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Regnskap",
+      "path": [],
+      "text": "Det skal etableres egne regnskaps- og balansekonti som tydeliggjør fakturering mot og innbetalinger fra sluttbrukere, samt overføring av bidrag til Energifondet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Innbetaling og oppgave",
+      "path": [],
+      "text": "Omsetningskonsesjonær skal sende forvalter av Energifondet terminvise oppgaver. Hver termin omfatter to kalendermåneder. 1. termin omfatter januar og februar, 2. termin mars og april, 3. termin mai og juni, 4. termin juli og august, 5. termin september og oktober og 6. termin november og desember.\nOppgaven skal vise samlet fakturert mengde elektrisk energi og antall målepunkt-ID som er fakturert påslag etter § 3 annet ledd annet punktum i den angjeldende terminen.\nOppgaven må være kommet frem til forvalter av Energifondet innen 1 måned og 10 dager etter utløpet av hver termin.\nBidraget etter § 3 tredje ledd forfaller til betaling samtidig med oppgavefristen. Bidrag skal betales uavhengig av faktiske innbetalinger til omsetningskonsesjonær fra sluttbrukere.\nAvvik mellom fakturert uttak av elektrisk energi og faktisk forbruk av elektrisk energi skal korrigeres ved motregning eller etterbetaling til Energifondet i forbindelse med den terminen avregning av avviket mot sluttkunder faktureres.\nOmsetningskonsesjonærs revisor skal årlig verifisere fakturerte mengder elektrisk energi, antall fakturerte målepunkt-ID og bidrag til Energifondet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Kontroll",
+      "path": [],
+      "text": "Forvalter av Energifondet fører kontroll med at energiloven § 4-4 og bestemmelser gitt i eller i medhold av denne forskrift overholdes.\nForvalter av Energifondet skal ha rett til å foreta bokettersyn og kreve alle opplysninger som er nødvendige for gjennomføring av kontroll.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Departementet kan i særlige tilfeller dispensere fra denne forskrift.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. januar 2002. Uttak av elektrisk energi før ikrafttredelsesdatoen er ikke grunnlag for påslag på nettariffen og betaling av bidrag til Energifondet.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2005-11-16-1340",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utvidet sensurfrist for fjernundervisningsemner ved Høgskolen i Sør-Trøndelag.",
+  "short_title": "Forskrift om sensurfrist ved HiST",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2006-01-01",
+  "lovdata_refid": "forskrift/2005-11-16-1340",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-11-16-1340",
+  "raw_xml_sha256": "f5482bf71d4fc629d3b55ce3126359663165d4a6b2e88c55cead48c90350b014",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften gjelder eksamen i emner definert som fjernundervisningsemner ved Høgskolen i Sør-Trøndelag.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "For perioden 1. januar 2006 – 31. desember 2006 fastsettes sensurfristen ved eksamener iflg. § 1 til fire uker – 20 virkedager.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne forskriften trer i kraft fra 1. januar 2006.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

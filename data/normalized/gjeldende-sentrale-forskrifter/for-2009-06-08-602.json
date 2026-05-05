@@ -1,0 +1,298 @@
+{
+  "id": "FOR-2009-06-08-602",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om håndtering av brannfarlig, reaksjonsfarlig og trykksatt stoff samt utstyr og anlegg som benyttes ved håndteringen",
+  "short_title": "Forskrift om håndtering av farlig stoff",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2009-06-08",
+  "last_change_in_force": "2015-07-01",
+  "last_changed_by": "forskrift/2015-06-26-774 fra 2015-07-01",
+  "lovdata_refid": "forskrift/2009-06-08-602",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-06-08-602",
+  "raw_xml_sha256": "7c846d436e329c0b365c076a7a8402994553b02744eff6b259b3c69f5cba48ad",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften har som formål å verne liv, helse, miljø og materielle verdier mot uhell og ulykker med farlig stoff.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften regulerer håndtering av farlig stoff og utstyr og anlegg, herunder rørledninger med tilhørende systemer, som benyttes ved håndtering av farlig stoff. Forskriften regulerer prosjektering, konstruksjon, produksjon, omsetning, installasjon, drift, endring, reparasjon, vedlikehold og kontroll av utstyr og anlegg som benyttes ved håndtering av farlig stoff.\nFor rørsystem som har utgangspunkt til havs gjelder forskriften fra det punkt slikt rørsystem første gang krysser marbakken til fastland eller øy, og rørsystem med utgangspunkt på fastland, også når deler av rørsystem over land senere krysser fjorder, sund m.m.\nForskriften regulerer lasting, lossing og stasjonær oppbevaring av farlig stoff på skip, herunder omlasting fra skip til skip.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Pliktsubjekt",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Enhver som håndterer farlig stoff, plikter å oppfylle forskriftens krav.\nEnhver som eier eller bruker utstyr og anlegg som benyttes ved håndtering av farlig stoff, plikter å oppfylle forskriftens krav.\nEnhver som prosjekterer, konstruerer, produserer, omsetter, installerer, drifter, endrer, reparerer, vedlikeholder og kontrollerer utstyr og anlegg som benyttes ved håndtering av farlig stoff, plikter å oppfylle forskriftens krav.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I denne forskrift skal følgende uttrykk forstås slik:Anerkjent normStandard, bransjenorm, veiledning mv. som er internasjonalt og/eller nasjonalt anerkjent innenfor et fagområde.Farlig stoff– Brannfarlig stoff: Fast, flytende eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som i kraft av sitt flammepunkt, kontakt med andre stoffer, trykk, temperatur eller andre kjemiske egenskaper representerer en fare for brann.– Reaksjonsfarlig stoff: Fast, flytende, eller gassformig stoff, stoffblanding, samt stoff som forekommer i kombinasjoner av slike tilstander, som ved kontakt med vann, ved sitt trykk, temperatur eller andre kjemiske forhold, representerer en fare for farlig reaksjon, eksplosjon eller utslipp av farlig gass, damp, støv eller tåke.– Trykksatt stoff: Annet fast, flytende eller gassformig stoff eller stoffblanding enn brann- eller reaksjonsfarlig stoff, som er under trykk, og som derved kan representere en fare ved ukontrollert utslipp.Definisjonen av farlig stoff er en innsnevring i forhold til brann- og eksplosjonsvernlovens definisjon i § 4 c) da denne også omfatter eksplosjonsfarlig stoff.Nærmere kriterier for klassifisering av brannfarlig, reaksjonsfarlig og trykksatt stoff er fastsatt i vedlegg 1.HåndteringEnhver omgang med farlig stoff slik som tilvirkning, oppbevaring, behandling, omtapping, transport, lasting, lossing, handel, overføring og bruk.RisikoUttrykk for den fare som uønskede hendelser representerer for mennesker, miljø eller materielle verdier. Risikoen uttrykkes ved sannsynligheten for og konsekvensene av de uønskede hendelsene.VirksomhetEthvert offentlig og privat foretak uansett om foretaket er etablert med henblikk på forretningsmessig fortjeneste eller ikke.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Krav til aktsomhet",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver plikter å vise alminnelig aktsomhet og opptre på en slik måte at brann, eksplosjon og annen ulykke forebygges.\nBruk av ild eller andre tennkilder er forbudt der farlig stoff håndteres under slike forhold at brann, eksplosjon eller annen ulykke kan oppstå.\nDet skal være ryddig og ikke finnes unødvendig brennbart materiale på sted hvor farlig stoff håndteres.\nBrannfarlig gass kategori 1 og 2 skal ikke oppbevares i kjeller eller annet rom under terreng eller på loft.\nEnhver som foretar gravearbeid skal før graving påbegynnes gjøre seg kjent med om det er rørsystemer som inneholder farlige stoffer i området og ta nødvendig hensyn til disse under gravingen. Befinner det seg slike rørsystemer i området, skal eier av rørsystemet varsles før graving påbegynnes. Rørledningen skal påvises før gravingen påbegynnes.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Maksimal tillatt oppbevaring i visse typer av objekt",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "I boenhet kan det oppbevares inntil 55 liter brannfarlig gass kategori 1 og 2 og inntil 10 liter brannfarlig væske kategori 1 og 2.\nI garasje, i utvendig bod, båthus eller lignende kan det for personlig bruk oppbevares inntil 90 liter brannfarlig gass kategori 1 og 2 og inntil 50 liter brannfarlig væske kategori 1 og 2.\nI serveringssted, i overnattingssted og i forsamlingslokale er det ikke tillatt å oppbevare brannfarlig gass kategori 1 og 2, med mindre særskilte tiltak er iverksatt.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Kompetanse",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver som prosjekterer, konstruerer, produserer, installerer, drifter, endrer, reparerer, vedlikeholder eller kontrollerer utstyr og anlegg som benyttes ved håndtering av farlig stoff skal ha nødvendig kompetanse. Tilsvarende gjelder enhver som håndterer farlig stoff utover det som er beregnet for vedkommendes personlige bruk.\nKompetansen skal omfatte kunnskap om aktuelt regelverk, om de farlige stoffene som skal håndteres og om teknisk utførelse og drift av utstyr og anlegg.\nDer hvor det finnes anerkjente normer for kompetanse, skal innholdet i disse legges til grunn som et minimumsnivå.\nKompetansen skal vedlikeholdes slik at man er oppdatert på nytt regelverk, nye metoder og utvikling på fagområdet generelt.\nDen som skal drifte kjelanlegg med ytelse over kriterier fastsatt av Direktoratet for samfunnssikkerhet og beredskap skal ha særskilt kompetansebevis.\nVirksomheten skal påse at ansatte har nødvendig kompetanse samt gi opplæring slik at alle arbeidsoppgaver kan gjennomføres på en sikker måte både ved normal drift og ved unormale situasjoner og driftsbetingelser. Opplæringen skal også omfatte rutiner og forholdsregler ved uhell og ulykker.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Utstyr og anlegg",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver som prosjekterer, konstruerer, produserer, installerer, endrer, reparerer, vedlikeholder eller kontrollerer utstyr og anlegg skal sørge for at dette gjøres fagmessig i samsvar med anerkjente normer for å oppnå tilstrekkelig sikkerhet ved alle påregnelige driftsforhold. Det skal tas særlig hensyn til de mekaniske belastninger, temperaturforhold og miljøpåvirkninger som kan oppstå under bruk.\nEnhver som omsetter utstyr og anlegg som benyttes ved håndtering av farlig stoff skal påse at dette er formålstjenlig, sikkert og i tråd med anerkjent norm, samt at skriftlig monterings-, bruks- og vedlikeholdsveiledning på norsk medfølger. Direktoratet for samfunnssikkerhet og beredskap kan bestemme at utstyr som benyttes ved håndtering av farlig stoff ikke kan omsettes uten å være godkjent av direktoratet eller den direktoratet måtte bestemme.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Ved konstruksjon, produksjon, installasjon, endring og reparasjon av utstyr og anlegg skal det gjennomføres kontroll for å påse at utstyr og anlegg er formålstjenlig og sikkert. Kravet til kontroll gjelder både nytt og brukt utstyr. Ved virksomheter som skal ha samtykke etter § 17 eller utstyr og anlegg som representerer en potensiell høy risiko, skal kontroll av utstyr og anlegg utføres av uavhengig kontrollør i form av teknisk kontrollorgan, brukerinspektorat eller akkreditert inspeksjonsorgan. Med utstyr og anlegg som representerer en høy potensiell risiko menes i denne paragrafkjeler som er beregnet for produksjon av damp eller hetvann med temperatur over 110 °C, og hvor produktet av trykk i bar og volum i liter er større enn 3 000 og hvor trykket er større enn 0,5 bar overtrykk og volumet er større enn 100 liter,anlegg som alene eller sammenkoblet inneholder mer enn 400 liter giftig gass kategori 1, 2 eller 3,gassanlegg for bruk av brannfarlig gass kategori 1 og 2 tilknyttet fast rørnett med over- eller undergrunnstank, rørsystem for distribusjon av gass, eller flaskebatteri. Når slike gassanlegg er tilknyttet frittliggende eneboliger eller frittliggende fritidsboliger, og hvor trykket er maksimalt 100 mbar når gassen føres inn i boligen, kreves likevel ikke at kontrollen skal utføres av uavhengig kontrollør.\nEier og bruker skal sørge for at utstyr og anlegg underlegges systematisk tilstandskontroll for å påse at den tekniske tilstand er tilfredsstillende. Hyppighet og omfang av den systematiske tilstandskontrollen må tilpasses utstyrets og anleggets driftsbetingelser. Systematisk tilstandskontroll av utstyr og anlegg skal utføres av uavhengig kontrollør dersom virksomheten skal ha samtykke etter § 17, eller utstyret og anlegget representerer en høy potensiell risiko, jf. første ledd.\nNår gassanlegg i boliger er tilknyttet fast rørnett med over- eller undergrunnstank, rørsystem for distribusjon av gass, eller flaskebatteri, skal det til enhver tid foreligge avtale med kontrollør om gjennomføring av den systematiske tilstandskontrollen etter annet ledd.\nGassflasker for LPG skal gjennomgå periodisk kontroll etter prosedyrene som er fastsatt for slike flasker i forskrift 1. april 2009 nr. 384 om landtransport av farlig gods, ADR kapittel 4 og 6 og i overensstemmelse med fristen som fremkommer av merkingen på flasken. Nye og kontrollerte gassflasker for LPG skal merkes med dato for neste periodiske kontroll slik at kontrollintervallet blir på maksimalt 10 år, med følgende unntak:For gassflasker for LPG av komposittmateriale skal kontrollintervallet fastsettes av den myndigheten som har utstedt typegodkjenningen eller av et organ som denne myndigheten har utpekt.For sveisede gassflasker for LPG av stål kan kontrollintervallet etter søknad utvides til 15 år etter betingelsene i forskrift 1. april 2009 nr. 384 om landtransport av farlig gods, ADR 4.1.4.1 P200, (12).",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Drift, vedlikehold og opphør",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Eier eller bruker av utstyr og anlegg som benyttes ved håndtering av farlig stoff skal sørge for at utstyr og anlegg holdes i forsvarlig stand og vedlikeholdes slik at sikkerhetsnivået opprettholdes.\nNår utstyr og anlegg ikke lenger er i bruk, skal dette enten fjernes eller sikres forsvarlig.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "Skilting og merking",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Der farlig stoff håndteres skal det settes opp skilt, lett synlig på passende steder og i tilstrekkelig antall, som opplyser om faren for brann, eksplosjon eller annen ulykke.\nDer farlig stoff håndteres under slike forhold at brann eller eksplosjon lett kan oppstå skal det settes opp skilt med forbud mot bruk av åpen ild eller andre tennkilder.\nUtstyr og rørsystemer skal ha formålstjenlig og varig identifikasjonsmerking.\nNedgravde transportrørledninger skal markeres tydelig og varig.\nKrav til skilting omfatter ikke håndtering av mindre mengder farlig stoff for personlig bruk.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "heading": "Innmelding av farlig stoff",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Enhver som oppbevarer farlig stoff i et anlegg eller transporterer farlig stoff i rørledning i mengde lik eller større enn mengdene fastsatt i vedlegg 2, skal sende melding til Direktoratet for samfunnssikkerhet og beredskap. Melding skal sendes i rimelig tid før utstyr og anlegg tas i bruk. Dersom det skal bygges nytt anlegg som skal oppbevare farlig stoff eller transportere farlig stoff i rørledning i mengde lik eller større enn mengdene nevnt i vedlegg 2, skal melding sendes i rimelig tid før bygging påbegynnes.\nVed endringer og opphør skal ny melding sendes tilsvarende.\nMelding skal sendes elektronisk i den form Direktoratet for samfunnssikkerhet og beredskap bestemmer.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "heading": "Dokumentasjon",
+      "path": [
+        "Kapittel 2. Alminnelige bestemmelser"
+      ],
+      "text": "Den som er tillagt plikter etter forskriftens bestemmelser skal til enhver tid kunne dokumentere at kravene i forskriften er oppfylt.\nDokumentasjonen skal oppdateres og opprettholdes for hele utstyret og anleggets levetid.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Risiko og risikovurdering",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Eier eller bruker av utstyr og anlegg som benyttes ved håndtering av farlig stoff og virksomheter som håndterer farlig stoff skal sørge for at risikoen er redusert til et nivå som med rimelighet kan oppnås. Sikkerhetshensyn skal være integrert i alle virksomhetens faser, herunder prosjektering, etablering, drift og avvikling.\nVirksomheten skal kartlegge farer og problemer med hensyn på håndtering av farlig stoff og på denne bakgrunn vurdere risiko. Vurderingen skal inkludere interne og eksterne forhold samt uønskede tilsiktede handlinger.\nPå bakgrunn av vurderingen skal det utarbeides planer og gjennomføres tiltak for å redusere risikoen til et akseptabelt nivå.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Forebyggende sikkerhetstiltak",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Virksomheten skal som et minimum iverksette følgende forebyggende sikkerhetstiltak relatert til bygg- og anleggstekniske forhold:Bygning der farlig stoff håndteres skal ha effektiv ventilasjon som sikrer mot brann, eksplosjon og annen ulykke.Bygning eller rom som er klassifisert som eksplosjonsfarlig område skal ha avlastningsflate(r) som er svekket i forhold til bygningskonstruksjonen forøvrig, og som skal fungere som trykkavlastning dersom eksplosjon inntreffer i bygningen. Avlastet trykk skal ledes bort i sikker retning.Oppføring eller vesentlig endring av bygg eller anlegg der gass skal håndteres skal prosjekteres.Gjennomføring for elektriske kabler, rør og lignende skal tettes effektivt for å beskytte mot gassinntrengning fra områder hvor eksplosjonsfarlig atmosfære lett kan oppstå.Lufterør fra utstyr skal føres ut i friluft med mindre særskilte forhold tilsier annen plassering.Rørbruddsventiler eller annet konsekvensreduserende utstyr skal monteres dersom konsekvensene for omgivelsene etter rørbrudd er store.Prosessikrings-, nødavstengnings- og nødstrømsystem tilpasset virksomhetens kompleksitet skal installeres dersom det er nødvendig for å forhindre at unormale tilstander utvikler seg til faresituasjoner.Trykkavlastningssystem skal installeres slik at utstyr og anlegg ikke utsettes for uakseptabelt trykk. Systemet skal lede bort farlig stoff på en sikker måte.Spill av farlig stoff skal tas hånd om slik at faresituasjoner ikke oppstår.Det skal gjennomføres sikringstiltak for å hindre at uvedkommende får tilgang til farlig stoff.Det skal utarbeides situasjonsplan samt nødvendige sikkerhets- og driftsinstrukser på norsk og i tillegg på et språk som ansatte og andre berørte i virksomheten forstår når disse ikke forstår norsk.Utstyr og anlegg skal oppstilles slik at kontroll, vedlikehold og reparasjoner kan gjennomføres.\nVirksomheter skal som et minimum iverksette følgende forebyggende tiltak for atmosfæriske tanker:Tank som fylles ved fast tilkopling, skal være utstyrt med overfyllingsvarsel. For tank hvor oppfyllingshastigheten er høy eller hvor konsekvensen ved overfylling er stor skal det monteres overfyllingsvern.Oppsamlingsarrangement tilpasset tankens volum og det farlige stoffets egenskaper skal etableres dersom et utslipp fra tank kan få store konsekvenser.\nVirksomheter skal som et minimum iverksette følgende forebyggende tiltak for brannfarlig gass:Brannfarlig gass som skal til forbruker, unntatt hydrogen og gass med naturlig lukt, skal være tilsatt luktstoff.Fylling av brannfarlig gass på løse beholdere skal kun skje ved anlegg beregnet for slik fylling og av personell med nødvendig kompetanse. Selvbetjening er ikke tillatt.Det skal ikke føres gass med uredusert trykk inn i bolig, fritidsbolig eller publikumsanlegg\nVirksomheter skal som et minimum iverksette følgende forebyggende tiltak for brannfarlig og reaksjonsfarlig stoff:Oksiderende stoffer skal oppbevares atskilt fra brannfarlige og brennbare stoffer og produkter.Organiske peroksider og selvreaktive stoffer skal oppbevares og transporteres i den emballasje som er lagt til grunn ved klassifisering og som er godkjent for transport.Organiske peroksider og selvreaktive stoffer skal håndteres slik at de ikke utsettes for temperatur høyere enn kontrolltemperatur, eller for støt, friksjon eller kontakt med stoffer som kan føre til farlig reaksjon.Forurenset oksiderende stoff, organisk peroksid eller selvreaktivt stoff som kan undergå farlig reaksjon (dekomponering) skal destrueres på betryggende måte.Stoffer som utvikler brannfarlig eller giftig gass i kontakt med vann, fuktighet eller andre stoffer, skal håndteres slik at det ikke kan oppstå farlig atmosfære.\nVirksomheter skal som et minimum iverksette følgende forebyggende tiltak for rørledning for transport av petroleum over land:Plan for rørsystemet som viser trasé skal utarbeides. Basert på risikovurdering skal planen omfatte arealmessige begrensninger i området rundt rørsystemet.For nedgravde rørledninger skal det etableres et system for instruksjon ved gravearbeid.Rørsystemet skal utstyres med korrosjonsbeskyttelse og korrosjonsovervåking som muliggjør sikker drift i hele levetiden.Rørsystemer med driftstrykk over 16 bar skal utstyres med sender- og mottakermuligheter for rense- og inspeksjonsverktøy. Slusene for sending og mottak skal designes slik at de ikke kan åpnes under trykk.Ved driftstrykk over 16 bar skal traséen deles inn i klasser basert på kartlagt risiko for å etablere et helhetlig sikkerhetsnivå for rørsystemer. Dette sikkerhetsnivået skal opprettholdes i hele levetiden for rørsystemer.Umiddelbart etter førstegangs landfall skal det for rørsystem med driftstrykk over 16 bar installeres en nødavstengingsventil.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 15a",
+      "heading": "Gassflasker for LPG",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Det er ikke tillatt å fylle gassflasker for LPG som er skadde, defekte, eller har forfalt til periodisk kontroll.\nVirksomheter som fyller gassflasker med LPG skalkontrollere flaskene før fylling. Kontrollen skal sikre at gassflaskene ikke er påført fysiske, kjemiske eller mekaniske skader, og at påfyllingsventil, sikkerhetsventil og pakning er intaktmerke flaskene ved fylling, slik at de er sporbare tilbake til fyllestedet. Merkingen skal motstå mekaniske, kjemiske og fysiske belastninger som kan oppstå ved normal bruk. Merkingen skal angi at flasken er kontrollert før fyllingkontrollere flaskene etter fylling. Kontrollen skal sikre at bestemmelsene om fyllingsgrad er overholdt, at flaskene med utstyr er fri for lekkasje og at flaskene har påkrevd merking og identifikasjon.\nVirksomheter som fyller eller omsetter gassflasker for LPG skal ta imot slike flasker kostnadsfritt fra forbrukere, herunder ta imot flasker som ikke kan fylles eller som forbrukere av annen årsak ønsker å levere fra seg.\nGassflasker for LPG som skal fylles skal være samsvarsmerket med π eller ε i henhold til forskrift 22. november 2012 nr. 1088 om transportabelt trykkutstyr. Ikke samsvarsmerkede gassflasker for LPG kan allikevel fylles dersom de oppfyller kravene i forskrift 1. april 2009 nr. 384 om landtransport av farlig gods og ble brakt i omsetning i Norge før kravet om samsvarsmerking ble gjort gjeldende.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Arealmessige begrensninger",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Det skal opprettes arealmessige begrensninger rundt utstyr og anlegg der dette er nødvendig etter § 14 for å sikre omgivelsene på en tilfredsstillende måte.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Samtykke fra Direktoratet for samfunnssikkerhet og beredskap",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Virksomheter som omfattes av forskrift 17. juni 2005 nr. 672 om tiltak for å forebygge og begrense konsekvensene av storulykker der farlige kjemikalier forekommer (storulykkeforskriften), virksomheter som omlaster farlig stoff fra skip til skip, virksomheter som bunkrer passasjerskip med LNG (flytende naturgass) fra anlegg eller tankbil på land, og virksomheter som transporterer farlig stoff i rørledninger med driftstrykk høyere enn 16 bar skal innhente samtykke fra Direktoratet for samfunnssikkerhet og beredskap i rimelig tid før håndtering av farlig stoff påbegynnes.\nDersom det skal bygges nytt anlegg som nevnt i første ledd, skal samtykke innhentes i rimelig tid før bygging kan påbegynnes.\nVed vesentlige endringer skal tilsvarende samtykke innhentes.\nDirektoratet for samfunnssikkerhet og beredskap kan i særskilte tilfeller treffe vedtak om at også andre virksomheter vil kunne omfattes av krav om samtykke dersom virksomhetens plassering og utforming samt håndtering av farlig stoff tilsier det.\nVirksomheter som pr. 13. desember 2013 bunkrer passasjerskip med LNG fra anlegg eller tankbil på land, og som ikke innehar samtykke fra Direktoratet for samfunnssikkerhet og beredskap etter § 17 eller midlertidig samtykke etter § 27 annet ledd til slik håndtering, må innen 31. desember 2014 søke direktoratet om samtykke til bunkring av passasjerskip. Uansett overgangsordning som nevnt i første punktum, skal virksomheter som skal bunkre passasjerskip mens det er passasjerer om bord, innhente samtykke fra direktoratet til dette før slik bunkring kan iverksettes.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 18",
+      "heading": "Nabovirksomheter",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Nabovirksomheter som hver for seg håndterer farlig stoff der en hendelse kan få konsekvens for nabovirksomhet, skal utveksle informasjon og samordne tiltak slik at sikkerheten blir ivaretatt.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 19",
+      "heading": "Beredskapsplikt",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Virksomheter som håndterer farlig stoff skal utarbeide en beredskapsplan og etablere en tilstrekkelig egenberedskap med tilhørende varslings- og innsatsplaner. Beredskapsplanen skal oppdateres jevnlig og redegjøre for ansvars-, oppgave- og ressursfordeling under innsats ved ulykker og andre uønskede hendelser. Beredskapsplanen skal inneholde alarmerings-, rømnings-, rednings- og slokkeinstrukser.\nMeldepliktige virksomheter etter § 12 skal samordne sin beredskapsplan med offentlige beredskapsplaner slik at det kan etableres et samarbeid med berørte lokale myndigheter.\nEgnet slokke- og beredskapsutstyr skal være lett tilgjengelig på steder der farlig stoff håndteres.\nBeredskapen skal øves regelmessig.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 20",
+      "heading": "Varsling og rapportering av uhell og ulykker",
+      "path": [
+        "Kapittel 3. Plikter i virksomhet med farlig stoff"
+      ],
+      "text": "Virksomheten skal umiddelbart varsle Direktoratet for samfunnssikkerhet og beredskap om større ulykker i forbindelse med håndtering av farlig stoff og tilhørende utstyr og anlegg.\nVirksomheten skal etablere et system for registrering av uhell, ulykker og tilløp til slike i forbindelse med håndtering av farlig stoff og tilhørende utstyr og anlegg.\nUhell og ulykker i forbindelse med håndtering av farlig stoff skal snarest mulig rapporteres til Direktoratet for samfunnssikkerhet og beredskap. Rapporten skal inneholde en beskrivelse av hendelsen, analyse av årsaken til hendelsen og opplyse om hvilke tiltak virksomheten vil iverksette for å forhindre slike hendelser i fremtiden.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Direktoratet for samfunnssikkerhet og beredskap kan i det enkelte tilfelle etter søknad dispensere fra bestemmelser i forskriften når særlige grunner foreligger, tilstrekkelig grad av sikkerhet kan opprettholdes og det vil være i tråd med forskriftens formål, jf. § 1.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Begrensninger eller forbud",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Direktoratet for samfunnssikkerhet og beredskap og kommunen kan i det enkelte tilfelle fastsette nærmere begrensninger eller forbud mot håndtering av farlig stoff dersom det anses nødvendig for å verne liv, helse, miljø og materielle verdier mot uhell og ulykker med farlig stoff.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Kommunen skal føre tilsyn med at bestemmelsene i denne forskriften blir overholdt.\nI tillegg fører Direktoratet for samfunnssikkerhet og beredskap alene eller i samarbeid med kommunen tilsyn med virksomheter som representerer en betydelig risiko eller der direktoratet anser det som nødvendig for å ha oversikt over risiko knyttet til håndtering av farlig stoff.\nVed utøvelsen av tilsynet gjelder lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver § 33 – § 36.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Reaksjonsmidler",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Ved overtredelsen av forskriften eller vedtak truffet i medhold av denne, gjelder bestemmelsene i lov 14. juni 2002 nr. 20 om vern mot brann, eksplosjon og ulykker med farlig stoff og om brannvesenets redningsoppgaver § 37 til § 40 og § 42 tilsvarende.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Klage",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Vedtak truffet av Direktoratet for samfunnssikkerhet og beredskap kan påklages til Justis- og politidepartementet.\nVedtak truffet av kommunestyret kan påklages til Direktoratet for samfunnssikkerhet og beredskap. For øvrige vedtak fattet av kommunen gjelder forvaltningslovens § 28 annet ledd.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 8. juni 2009.\nFra samme tid opphevesforskrift 26. juni 2002 nr. 744 om brannfarlig vare,forskrift 27. februar 2004 nr. 490 om brannfarlig eller trykksatt stoff,forskrift 9. mai 2000 nr. 421 om anlegg som leverer motordrivstoff (bensinstasjon, marina o.l.),forskrift 24. februar 2004 nr. 456 om transport av petroleum i rørledning over land.\nVed ikrafttredelse faller alle gitte tillatelser for brannfarlige og trykksatte stoffer bort.\nFor reaksjonsfarlig stoff gjelder denne forskriften fra 1. oktober 2009.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel 4. Avsluttende bestemmelser"
+      ],
+      "text": "Enhver som ved denne forskrifts ikrafttredelse oppbevarer eller transporterer farlig stoff i rørledning i mengde lik eller større enn mengdene nevnt i vedlegg 2, skal sende melding innen 31. desember 2009.\nFor virksomheter som omfattes av § 17 gis det midlertidig samtykke på de vilkår som ligger til grunn for tillatelsen som var gyldig ved ikrafttredelse av denne forskriften.\nTolv måneder etter denne forskrifts ikrafttredelse skal det kunne dokumenteres at krav etter denne forskrift utover det som fulgte av de etter § 26 annet ledd opphevede forskrifter er oppfylt.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "id": "FOR-2011-12-16-1348",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunens dekning av utgifter til helse- og omsorgstjenester",
+  "short_title": "Forskrift om utgifter til helse- og omsorgstjenester",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2012-01-01",
+  "last_change_in_force": "2021-09-17",
+  "last_changed_by": "forskrift/2021-09-17-2821",
+  "lovdata_refid": "forskrift/2011-12-16-1348",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-16-1348",
+  "raw_xml_sha256": "657bfaa8c7ed973547e5dc880a1bcdbc64e740e6432bb3af81873d603bec4f40",
+  "sections": [
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Behandling av tvist mellom kommuner",
+      "path": [],
+      "text": "Oppstår det tvist mellom kommuner om ansvar etter helse- og omsorgstjenesteloven § 11-1 andre ledd, kan kommunene kreve at statsforvalteren avgjør tvisten.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

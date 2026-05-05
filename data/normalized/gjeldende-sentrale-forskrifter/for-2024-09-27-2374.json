@@ -1,0 +1,97 @@
+{
+  "id": "FOR-2024-09-27-2374",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tiltak for å begrense spredningen av blåtunge hos drøvtyggere",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2024-09-27",
+  "last_change_in_force": "2026-03-13",
+  "last_changed_by": "forskrift/2026-03-13-411",
+  "lovdata_refid": "forskrift/2024-09-27-2374",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-09-27-2374",
+  "raw_xml_sha256": "4157be4432d7f30f02d545cbd3d632b25c67754e750da6753afecf29ec870112",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og virkeområde",
+      "path": [],
+      "text": "Formålet er å begrense spredningen av blåtunge hos drøvtyggere i Norge.\nForskriften retter seg mot virksomheter og personer i forbindelse med nasjonal forflytning av dyr og avlsmaterialer i og fra vaksinasjonssonen. Forskriften retter seg også mot virksomheter og personer som velger å vaksinere drøvtyggere mot blåtunge i vaksinasjonssonen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "Dyr i denne forskriften forstås som holdte drøvtyggere.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opprettelse av vaksinasjonssone",
+      "path": [],
+      "text": "Vaksinasjonssone som beskrevet i vedlegg 2 er opprettet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6a",
+      "heading": "Krav til dyr og avlsmaterialer som flyttes ut av anlegg med positiv test for blåtungevirus i vaksinasjonssonen",
+      "path": [],
+      "text": "Ved flytting av dyr og avlsmaterialer ut av anlegg i vaksinasjonssonen der dyr eller produkter har testet positivt for blåtungevirus på PCR-test:skal dyr holdes innendørs i minst 15 dager og teste negativt på PCR-test tatt tidligst på den femtende dagen etter at dyret ble satt innendørs før det flyttes ut av anlegget.gjelder bestemmelsene for flytting av avlsmateriale fra andre dyr enn storfe i avlsmaterialeforskrift § 2, jf. forordning (EU) 2020/686 artiklene 16, 22 og 38 med hensyn til blåtunge.\nPositiv PCR-test for blåtungevirus som utløser kravene over for dyr og avlsmaterialer, er prøvesvar som ikke er eldre enn tre måneder.\nDriftsansvarlig for opprinnelsesanlegget skal journalføre datoene for når dyret ble holdt innendørs før flytting og prøvesvar, i henhold til krav i første ledd.\nKravene i denne bestemmelsen gjelder ikke når:dyr flyttes til fjellbeitedyr sendes til slaktdyr flyttes i tidsrommet 1. desember til 15. mars, foruten drektige storfe og drektige dyr av kamelfamilienavlsmaterialer innsamlet fra dyr i tidsrommet 1. desember til 15. mars.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Vaksinasjon av dyr i vaksinasjonssonen",
+      "path": [],
+      "text": "Vaksinering av drøvtyggere mot blåtungevirus er tillatt i vaksinasjonssonen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Unntak fra krav om beite",
+      "path": [],
+      "text": "Påbudene om beite i forskrift 22. april 2004 nr. 665 om hold av storfe § 10 og forskrift 18. februar 2005 nr. 160 om velferd for småfe § 24 skal ikke være til hinder for å etterleve denne forskriften.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskrift.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Straffebestemmelser",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 12",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

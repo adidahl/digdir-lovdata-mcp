@@ -1,0 +1,235 @@
+{
+  "id": "FOR-2024-12-19-3395",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om CO2-kompensasjon for industrien for perioden 2021–2030",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2025-01-01",
+  "lovdata_refid": "forskrift/2024-12-19-3395",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-12-19-3395",
+  "raw_xml_sha256": "af7fd03fce7909f2da1ecdf1238afa34153d38a2a6fdb9e7a5fae39fd6bce861",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med denne kompensasjonsordningen er å motvirke karbonlekkasje fra Europa, grunnet økning i elektrisitetspriser som følge av EUs klimakvotesystem. Kompensasjonsordningen er regelstyrt og tett knyttet opp til metoden for beregning av støtte som angitt i ESAs retningslinjer for statsstøtte i forbindelse med i kvotehandelssystemet etter 2020 (2020/C 317/04).",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kompensasjonsordningens varighet",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Kompensasjonsordningen gjelder for perioden 1. januar 2021 til 31. desember 2030.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Stedlig virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Kompensasjon etter forskriften her gjelder produksjon nevnt i § 4 som foregår i riket, med unntak av Svalbard.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Vilkår for kompensasjon",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "En virksomhet har rett til kompensasjon dersom den har produksjon som faller inn under én eller flere av de næringskoder (NACE-koder) som er oppført i tabellen under.\nI tillegg må virksomheter som har et årlig energiforbruk som overstiger 5 GWh minst ett av de siste fire årene oppfylle kravene til energikartlegging i vedlegg II og enten:implementere anbefalinger fra kartleggingsrapporten, forutsatt at tilbakebetalingstiden på investeringene ikke overstiger tre år og at kostnadene av investeringene er proporsjonale, ellersørge for at minst 30 prosent av deres kraftforbruk stammer fra fornybare energikilder, ellerbruke minst 50 prosent av kompensasjonen til å investere i prosjekter som vil lede til betydelige utslippsreduksjoner hos installasjonen og godt under utslippsstandarden («benchmarken») for tildeling av vederlagsfrie kvoter i det europeiske kvotesystemet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Søknad om kompensasjon",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "Søknad om kompensasjon må sendes til Miljødirektoratet innen 1. mars året etter støtteåret det søkes kompensasjon for.\nSøknaden skal inneholde følgende opplysninger til Miljødirektoratet:produksjon i støtteåret,elektrisitetsforbruk i støtteåret,mottatt offentlig støtte som omfattes av § 9,dokumentasjon på at vilkårene i § 4 er oppfylt.\nSøker skal benytte søknadsskjema fastsatt av Miljødirektoratet, og levert søknad skal inneholde alle opplysninger som kreves i henhold til dette. Opplysningene skal verifiseres av en uavhengig tredjepart.\nMiljødirektoratet kan ved behov kreve ytterligere opplysninger.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Beregning av årlig kompensasjon",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "For produksjon av produkter med energieffektivitetsstandard skal årlig kompensasjon beregnes ved å multiplisere CO2-utslippsfaktor med energieffektivitetsstandard som angitt i vedlegg I, støtteårets produksjon, støtteintensitet og støtteårets EUA (European Union Allowance) forwardpris.\nFor produksjon av produkter og eventuelle tilleggsprosesser som ikke er dekket av energieffektivitetsstandarder gitt i vedlegg I, skal årlig kompensasjon beregnes ved å multiplisere CO2- utslippsfaktor med relevant alternativstandard, støtteårets elektrisitetsforbruk, støtteintensitet og støtteårets EUA (European Union Allowance) forwardpris.\nEUA forwardprisen skal tilsvare gjennomsnittet av daglige sluttpriser i året før støtteåret på EUA forwardkontrakter med leveranse i desember i støtteåret. Prisene skal innhentes fra den børsen som har størst volum av EUA forwardkontrakter første kvartal i året før støtteåret, og omregnes til norske kroner basert på Norges Banks daglige valutakurser.\nCO2-utslippsfaktoren er 0,53 tonn CO2 per MWh i perioden 2021–2025. Støtteintensiteten er 0,75 i perioden 2021–2030.\nDersom den totale kompensasjonen i et støtteår overstiger syv milliarder kroner, skal kompensasjonen avkortes forholdsmessig mellom virksomhetene. Beløpet er angitt i 2024-kroner, og skal prisjusteres lik prosentvis endring i konsumprisindeksen i støtteåret.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Fordeling mellom ulike produkter",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "Dersom virksomheten både har støtteberettiget produksjon, som definert i § 4, og ikke-støtteberettiget produksjon, eller produserer flere ulike støtteberettigede produkter, skal elektrisitetsforbruket fordeles basert på antall tonn produsert av hvert produkt.\nDersom det foreligger direkte målinger av elektrisitetsforbruk benyttet i produksjon av produkter uten energieffektivitetsstandard, skal disse legges til grunn.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Konservativt estimat",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "Der data som har betydning for beregning av kompensasjon er mangelfullt dokumentert i søknaden, skal kompensasjonen beregnes basert på konservative estimater.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Kumulasjon av offentlig støtte",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "Dersom det er mottatt annen offentlig støtte til dekning av kostnader som gir grunnlag for kompensasjon etter denne forskriften, kommer dette beløpet til fradrag ved beregning av årlig kompensasjon. Dette gjelder likevel bare i den utstrekning den samlede støtten overstiger det høyeste støttetaket i de aktuelle regelverkene.\nMed offentlig støtte menes støtte som faller inn under EØS-avtalen artikkel 61 (1), og andre former for finansiering fra EU.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 10",
+      "heading": "Årlig vedtak og utbetaling av kompensasjon",
+      "path": [
+        "Kapittel 2. Tildeling av kompensasjon"
+      ],
+      "text": "Miljødirektoratet treffer vedtak om årlig kompensasjon i henhold til § 6 og § 7.\nMiljødirektoratet utbetaler kompensasjon innen 15. april året etter støtteåret. For ny produksjon, eller ved mangelfull søknad, kan utbetalingen for det aktuelle støtteåret skje på et senere tidspunkt. Dersom Stortinget etter 1. mars bevilger mer til kompensasjonsordningen for foregående år, utbetaler Miljødirektoratet tillegget i kompensasjonen forholdsmessig til virksomhetene på et senere tidspunkt, uten ugrunnet opphold, og senest 31. desember samme år. Det kan likevel ikke gis kompensasjon utover det som er godkjent av EFTAs overvåkningsorgan.\nRett til kompensasjon for det aktuelle støtteåret faller bort hvis korrekt søknad ikke er mottatt innen 1. juni året etter støtteåret.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 11",
+      "heading": "Krav om klima- og energieffektiviseringstiltak",
+      "path": [
+        "Kapittel 3. Bruk av andel av kompensasjonen på klima- og energieffektiviseringstiltak"
+      ],
+      "text": "Virksomheter som mottar kompensasjon skal bruke minst 40 prosent av den samlede kompensasjonen for perioden 1. januar 2024 til 31. desember 2030 på klima- og energieffektiviseringstiltak.\nKompensasjonen skal brukes på tiltak direkte eller indirekte knyttet til støtteberettiget produksjon, jf. § 4, med følgende formål:reduksjon i direkte utslipp av klimagasser per produsert enhet, ellerreduksjon av behovet for kraft, ellergjenvinning av energi til egen virksomhet, til andre virksomheter eller til kraftproduksjon.Kompensasjonen kan også brukes på forsknings- og utviklingsarbeid som skal fremme tiltak som nevnt i bokstav a) til c).\nKompensasjonen skal dekke merkostnader knyttet til tiltak som nevnt i andre ledd. Dersom et tiltak er en del av en investering med et annet formål enn nevnt i andre ledd, kan kompensasjonen kun dekke den delen av kostnadene som er knyttet til tiltaket.\nKompensasjonen skal dekke kostnader til tiltak, inkludert pilot- og demonstrasjonsanlegg, i Norge. Kompensasjonen kan likevel brukes på en forholdsmessig andel av forskningsprosjekter utenfor Norge.\nKompensasjonen skal brukes innen 31. desember 2034. Virksomheter i samme konsern som mottar kompensasjon, kan bruke samlet kompensasjon ved en eller flere av virksomhetene.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 12",
+      "heading": "Unntak fra krav om utslippsreduksjon og energieffektivitet",
+      "path": [
+        "Kapittel 3. Bruk av andel av kompensasjonen på klima- og energieffektiviseringstiltak"
+      ],
+      "text": "Miljødirektoratet kan gjøre helt eller delvis unntak fra kravet i § 11 første ledd dersomvirksomhetens fossile klimagassutslipp er under 1 000 tonn CO2-ekvivalenter for virksomhetens støtteberettigede produksjon og det ikke finnes relevante energieffektiviseringstiltak, ellerforhold utenfor virksomhetens kontroll gjør oppfyllelse av kravet umulig eller urimelig byrdefullt, for eksempel manglende tilgang på kraft.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 13",
+      "heading": "Krav om tiltaksplan",
+      "path": [
+        "Kapittel 3. Bruk av andel av kompensasjonen på klima- og energieffektiviseringstiltak"
+      ],
+      "text": "Virksomheter som mottar kompensasjon skal utarbeide en tiltaksplan som viser hvordan kompensasjonen skal brukes på klima- og energieffektiviseringstiltak, jf. § 11. Virksomheter i samme konsern kan legge frem en plan på konsernnivå.\nTiltaksplanen skal som minimum beskrive alle planlagte tiltak, estimerte kostnader, tidsplan for gjennomføring og en vurdering av tiltakenes potensial for reduksjon av klimagassutslipp eller energieffektivisering.\nTiltaksplanen skal legges frem for Miljødirektoratet innen 1. mars 2025. Miljødirektoratet skal godkjenne tiltaksplanen så langt kravene i denne forskriften er oppfylt. Dersom virksomheten vil legge til nye tiltak eller endre tiltakene i planen, skal planen revideres og legges frem for Miljødirektoratet for ny godkjenning.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 14",
+      "heading": "Årlig rapportering",
+      "path": [
+        "Kapittel 3. Bruk av andel av kompensasjonen på klima- og energieffektiviseringstiltak"
+      ],
+      "text": "Virksomheter som mottar kompensasjon, skal legge frem rapport til Miljødirektoratet innen 1. mars hvert år fra og med 2026 til og med 2034.\nI årsrapporten skal virksomhetene redegjøre for hvordan kompensasjonen er brukt på tiltak i henhold til tiltaksplanen, eventuelle endringer i estimerte kostnader, tidsplan for gjennomføring og tiltakenes potensial for reduksjon av klimagassutslipp eller energieffektivisering.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 15",
+      "heading": "Sluttrapport",
+      "path": [
+        "Kapittel 3. Bruk av andel av kompensasjonen på klima- og energieffektiviseringstiltak"
+      ],
+      "text": "Virksomheter som mottar kompensasjon, skal legge frem sluttrapport til Miljødirektoratet om oppfyllelse av forpliktelsen i § 11. Sluttrapport skal legges frem innen 1. april 2035. Miljødirektoratet kan om nødvendig kreve at sluttrapport legges frem før 1. april 2035.\nI sluttrapporten skal virksomhetene dokumentere hvor mye av kompensasjonen som er brukt på enkelttiltak og tiltak totalt i perioden 2024–2034, og tiltakenes bidrag til reduksjon av klimagassutslipp eller energieffektivisering.\nOpplysningene i sluttrapporten skal verifiseres av en uavhengig tredjepart.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Tilbakehold av kompensasjon",
+      "path": [
+        "Kapittel 4. Håndheving og kontroll"
+      ],
+      "text": "Miljødirektoratet kan holde tilbake inntil 40 prosent av berettiget kompensasjon for enkeltår dersom det er grunn til å tro at virksomheten ikke vil oppfylle sine forpliktelser etter § 11. Kompensasjon som er holdt tilbake skal utbetales når virksomheten sannsynliggjør at forpliktene etter § 11 vil oppfylles.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Tilbakebetaling",
+      "path": [
+        "Kapittel 4. Håndheving og kontroll"
+      ],
+      "text": "Miljødirektoratet skal kreve at virksomheten betaler tilbake utbetalt kompensasjon så langtdet er gitt ufullstendige eller ukorrekte opplysninger i søknad om kompensasjon slik at mottaker har fått utbetalt mer kompensasjon enn den er berettiget til i henhold til § 6,mottaker har mottatt for mye støtte, i strid med denne forskrift.EFTAs overvåkingsorgan har fattet vedtak om tilbakeføring av ulovlig støtte.forpliktelsene etter § 11 ikke er oppfylt.\nVed krav om tilbakebetaling etter første ledd skal renter beregnes fra tidspunktet for utbetaling av kompensasjonen frem til tilbakebetaling skjer. Rentesatsen er den sats EFTAs overvåkingsorgan til enhver tid fastsetter.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Omgjøring",
+      "path": [
+        "Kapittel 4. Håndheving og kontroll"
+      ],
+      "text": "Vedtak etter § 10 skal omgjøres dersom det er grunnlag for krav om tilbakebetaling av utbetalt kompensasjon etter § 17.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 4. Håndheving og kontroll"
+      ],
+      "text": "Miljødirektoratet kan uten hinder av taushetsplikt kreve de opplysninger av virksomhetene som er nødvendig for å føre kontroll med oppfyllelse av plikter etter denne forskrift.\nMiljødirektoratet skal ha uhindret tilgang til virksomhetenes lokaler og anlegg for å føre kontroll med oppfyllelse av plikter etter denne forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Unntak",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Miljødirektoratet kan i særlige tilfeller gjøre unntak fra bestemmelser i denne forskrift.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Fremtidige endringer i kompensasjonsordningen",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Rettigheter etter denne forskriften og vedtak gitt med hjemmel i forskriften kan endres eller innskrenkes ved senere forskrift.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2025. Fra samme dato oppheves forskrift 11. november 2022 nr. 1964 om CO2-kompensasjon for industrien for perioden 2021–2030.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    }
+  ]
+}

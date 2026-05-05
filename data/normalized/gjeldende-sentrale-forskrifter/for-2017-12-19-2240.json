@@ -1,0 +1,168 @@
+{
+  "id": "FOR-2017-12-19-2240",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utprøving av selvkjørende motorvogn",
+  "short_title": "Forskrift om utprøving av selvkjørende motorvogn",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2021-03-01",
+  "last_changed_by": "forskrift/2021-03-01-572",
+  "lovdata_refid": "forskrift/2017-12-19-2240",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-19-2240",
+  "raw_xml_sha256": "37179078dfb7e9c53cb70e76af70f5f82a11ea2092e2d70751d85a1a9258338b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å utfylle lov om utprøving av selvkjørende kjøretøy for å sikre at slik utprøving skjer innenfor rammer som ivaretar trafikksikkerhet, framkommelighet, datasikkerhet og personvern. Utprøvingen skal skje gradvis, særlig ut fra teknologiens modenhet og med formål om å avdekke effekter for trafikksikkerhet, effektivitet i trafikkavviklingen, mobilitet og miljø.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften gjelder utprøving av selvkjørende kjøretøy, jf. lov om utprøving av selvkjørende kjøretøy § 2, for kjøretøy som anses som motorvogn.\nForskriften omfatter utprøving av motorvogn med fører på tradisjonell førerplass utrustet med et teknisk system som automatisk fører motorvognen hvor føreren under kjøringen helt eller delvis ikke lenger skal anses som ansvarlig fører.\nForskriften omfatter også utprøving av motorvogner som kjører helt uten en ansvarlig fører, eller med ansvarlig fører på annet enn tradisjonell førerplass.\nForskriften omfatter utprøving av selvkjørende motorvogn enten den foregår på eller utenfor veg.\nForskriften omfatter ikke utprøving av motorvogner med tekniske systemer som skal assistere føreren og hvor utprøving kan skje i tråd med vegtrafikkloven, yrkestransportloven og personopplysningslovgivningen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Myndighet til å gi tillatelse",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Vegdirektoratet kan gi tillatelse til utprøving av selvkjørende motorvogn.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tillatelse",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Tillatelse til utprøving av selvkjørende motorvogn kan etter søknad gis til fysiske eller juridiske personer når vilkårene i kapittel 2 er oppfylt, og trafikksikkerheten under utprøvingen blir minst like godt ivaretatt som den ville ha blitt uten selvkjørende motorvogn, jf. lov om utprøving av selvkjørende kjøretøy § 4.\nTillatelsen skal sette de rammer som er nødvendig for formålet med den aktuelle utprøvingen. Det kan stilles vilkår i tillatelsen av hensyn til blant annet trafikksikkerhet, fremkommelighet for andre trafikanter, miljø, datasikkerhet og personvernkonsekvenser. Vegdirektoratet har anledning til å stille ytterligere vilkår i løpet av utprøvingen hvis det er nødvendig.\nDersom forutsetningene for utprøvingen endres skal Vegdirektoratet informeres.\nTillatelsen skal inneholde en beskrivelse av hvilke unntak som er gitt fra bestemmelsene i vegtrafikkloven eller yrkestransportloven. Unntak skal bare gis i den grad det er forsvarlig og nødvendig.\nDe aktuelle politidistriktene, vegmyndighetene, vegeierne, skiltmyndighetene og eierne av eventuell jernbaneinfrastruktur skal få mulighet til å uttale seg før tillatelse gis. Dette særlig for å belyse forhold av betydning for trafikksikkerhet og fremkommelighet, herunder om nødvendigheten av særskilte trafikkreguleringer i forbindelse med utprøvingen jf. vegtrafikkloven § 7 annet ledd og § 9.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Krav til søknad",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Søknaden skal inneholde opplysninger om:navn på søker og navn på personen som er utpekt som ansvarlig for sikkerhetenhensikten med utprøvingenmotorvognene som skal være med i utprøvingennavn på operatørene der det er aktuelt, jf. § 11automatiseringssystem som skal benyttesplan for utprøvingentidsperiode for utprøvingeneventuelle behov for særskilte trafikkreguleringerhvor utprøvingen skal foregå, herunder konkrete vegstrekninger eller konkrete områder som skal brukesbeskrivelse av behov for unntak fra gjeldende bestemmelser i vegtrafikkloven og yrkestransportloven med forskrifterforsikring under utprøvingen som sikrer skadelidende minst like godt som alminnelig ansvarsforsikring etter bilansvarsloven, ogdokumentasjon på at kravene i § 7 – § 11 er oppfylt.\nVegdirektoratet kan kreve ytterligere opplysninger som er relevant for behandling av søknaden.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Krav til motorvogn som inngår i utprøvingen",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Motorvogn som skal inngå i utprøving skal, med mindre det er gjort unntak oppfylle kravene i bilforskriften, kjøretøyforskriften, motorsykkelforskriften eller traktorforskriften mv.\nVegdirektoratet kan stille ytterligere tekniske krav for å ivareta hensynene til sikkerhet og miljø enn det som følger av for eksempel bilforskriften, kjøretøyforskriften, motorsykkelforskriften og traktorforskriften under utprøvingen av selvkjørende motorvogn.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Krav til registrering",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Motorvogn som inngår i utprøvingen skal registreres i henhold til vegtrafikkloven med forskrifter.\nVegdirektoratet kan gjøre unntak fra kravet om registrering dersom særskilte hensyn tilsier dette. Motorvognen må uansett være forsikret eller dekket av selvassuranse, jf. bilansvarsloven.\nVegdirektoratet kan sette som vilkår for utprøvingen at motorvognen skal være utstyrt med særskilt merking som angir at den har selvkjørende egenskaper.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Krav til det automatiske systemet",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Det skal legges frem dokumentasjon på følgende forhold vedrørende det automatiske systemet som benyttes under utprøvingen:funksjonsbeskrivelsesystembeskrivelseteknologibeskrivelseredegjørelse av teknologiens modenhetredegjørelse av hvordan informasjonssikkerhet og personvern er ivaretattredegjørelse for risiko av automatiseringsfunksjonene, jf. bokstav a samt informasjonssikkerhet og konsekvenser for personvernet (PIA), ogredegjørelse for systemets elektromagnetiske kompatibilitet (EMC).\nVegdirektoratet kan kreve ytterligere dokumentasjon eller at dokumentasjonen er vurdert av en kompetent uavhengig institusjon.\nDer det er aktuelt skal systemet løpende registrere om det er det automatiske systemet eller føreren som fører kjøretøyet og har kontroll over kjøringen.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Krav til vegstrekning eller testområde",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Utprøving på veg åpen for alminnelig ferdsel kan bare skje på vegstrekning som er egnet for utprøving av de aktuelle selvkjørende motorvognene.\nSøkeren skal foreta en helhetsvurdering av strekningens egnethet og legge vekt på trafikksikkerheten og fremkommeligheten for andre trafikanter. Redegjørelsen for risiko jf. § 10 skal tillegges stor vekt ved vurderingen.\nSøker skal dokumentere at motorvognens tekniske systemer kan håndtere den tilgjengelige infrastrukturen, herunder vegens utforming, vegutstyr, skilting, oppmerking, signaler og eventuelle planoverganger.\nUtprøving med tunge kjøretøy skal skje innenfor tillatte vekter og dimensjoner for den aktuelle kjøretøytypen på den aktuelle vegstrekningen. Utprøving av flere tunge kjøretøy koblet sammen («platooning») på strekninger med bruer kan bare skje der det er vurdert at bruene på strekningen tåler belastningen.\nUtprøving på veg åpen for alminnelig ferdsel må varsles til politiet ved de relevante operasjonssentralene på forhånd dersom ikke annet fremgår av tillatelsen.\nVed utprøving på lukket område er søker ansvarlig for å finne et egnet område som er stengt for annen trafikk og dokumentere at utprøvingen skal foregå på en sikker måte og påse at uvedkommende ikke har adgang.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Krav til redegjørelse for risiko",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Søker skal i søknaden gjøre rede for risikoen forbundet med utprøvingen. Redegjørelsen skal dekke alle vesentlige forhold ved utprøvingen. Tiltak for å redusere eller fjerne risiko skal beskrives i redegjørelsen.\nVed utprøving på veg åpen for alminnelig ferdsel skal også forhold utover normalsituasjon vurderes både for strekningen og området rundt. Dette kan være vegarbeid, vær, omkjøring, ulykker og andre forhold.\nVegdirektoratet kan kreve at redegjørelsen skal gjennomgås av en uavhengig tredjepart.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "Krav til operatører",
+      "path": [
+        "Kapittel 2. Vilkår for tillatelse"
+      ],
+      "text": "Det skal i søknaden i nødvendig utstrekning pekes ut operatør som skal overvåke kjøringen av den selvkjørende motorvognen og beskrive rollen til operatøren, herunder forholdet til ansvarlig fører jf. loven § 17 og den som er utpekt som ansvarlig for sikkerheten, jf. forskriften § 5 a). Operatøren kan sitte på vanlig førerplass, på en annen plass i motorvognen eller oppholde seg utenfor motorvognen.\nSøker skal dokumentere at de navngitte operatørene som skal delta på utprøvingen har gyldig førerkort for den aktuelle motorvognkategorien, har gjennomgått tilstrekkelig opplæring og har den nødvendige kunnskapen om hvordan det automatiske systemet fungerer.\nSøker skal sørge for å gi operatørene tilstrekkelig opplæring og informasjon om deres rolle og ansvar under utprøvingen. Dette gjelder særlig for utprøving med fører på tradisjonell førerplass hvor det tekniske systemet skal føre motorvognen under deler av kjøringen.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Rapportering",
+      "path": [
+        "Kapittel 3. Forskjellige bestemmelser"
+      ],
+      "text": "Den som har fått tillatelsen til utprøvingen skal etter utprøvingens avslutning utarbeide en sluttrapport med redegjørelse for gjennomføring og resultater sett i forhold til formål, rammer og vilkår i tillatelsen. Rapporten skal sendes Statens vegvesen senest seks måneder etter utprøvingens avslutning hvis ikke annet fremgår av tillatelsen. Det skal samtidig sendes inn en versjon av rapporten som kan offentliggjøres.\nVegdirektoratet kan stille vilkår om at det skal føres en kontinuerlig logg som beskriver framdriften til utprøvingen, oppgradering eller endringer i teknologi, administrative endringer, målsetning for utprøvingen med videre. Dette inkluderer også registrering og beskrivelse av uforutsette hendelser i forbindelse med utprøvingen. Den som har fått tillatelsen skal på begjæring fra Statens vegvesen framvise denne loggen.\nVed en ulykke eller en potensielt alvorlig hendelse i forbindelse med utprøvingen, skal den som har fått tillatelsen til utprøvingen snarest utrede ulykken. Utredningen skal inneholde en beskrivelse av hendelsesforløp, konsekvenser, mulige årsakssammenhenger og beskrivelse av tiltak for å unngå lignende hendelser på et senere tidspunkt. Utredningen skal uten unødig opphold sendes den som har gitt tillatelsen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Tilsynsmyndighet",
+      "path": [
+        "Kapittel 3. Forskjellige bestemmelser"
+      ],
+      "text": "Statens vegvesen fører tilsyn med utprøvingen.\nGjennomført tilsyn skal dokumenteres i en tilsynsrapport.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Reaksjoner",
+      "path": [
+        "Kapittel 3. Forskjellige bestemmelser"
+      ],
+      "text": "Vegdirektoratet kan vedta påbud om tiltak, herunder retting, som er nødvendig for å sikre at utprøvingen gjennomføres etter gjeldende regelverk og tillatelsen.\nVegdirektoratet kan tilbakekalle eller midlertidig stanse tillatelsen i medhold av lov om utprøving av selvkjørende motorvogn § 7.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Forskjellige bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 1. januar 2018.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    }
+  ]
+}

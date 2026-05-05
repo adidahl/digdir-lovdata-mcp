@@ -1,0 +1,120 @@
+{
+  "id": "FOR-2018-09-17-1339",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilleggskrav for ervervsmessige luftfartsoperasjoner på kortbanelufthavner",
+  "short_title": "Forskrift om kortbaneoperasjoner",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2019-01-31",
+  "lovdata_refid": "forskrift/2018-09-17-1339",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-09-17-1339",
+  "raw_xml_sha256": "8f8df8a9e03dc50c8ce85d00cbd106b73b4072049ff34f92de2df56c7ec8e214",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å fastsette særskilte krav for luftfartsoperasjoner på kortbanelufthavner, i tillegg til de krav som følger av forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner, som følge av spesielle forhold knyttet til disse lufthavnene med hensyn til meteorologi, topografi, fysiske anlegg og innretninger.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for luftfartsoperatører som driver luftambulansetjeneste og luftfartsoperatører som utøver regelbundet ervervsmessig lufttransport med fly innenfor norsk område, med unntak av Svalbard, og som skal foreta landing eller avgang på en kortbanelufthavn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskrift forstås med:Kortbanelufthavn: En lufthavn med en kortbane.Kortbane: En rullebane med kunngjort tilgjengelig landingsdistanse (LDA) lik eller mindre enn 1000 meter.Flyger: En flyger som skal utføre flyging til en kortbanelufthavn.Rutetrening: «Line Flying Under Supervision» (LIFUS). Flygetrening som gjennomføres med passasjerer om bord under overvåking av en flyger som luftfartsoperatøren anser kvalifisert til slik overvåking.LPV: «Localizer Performance with Vertical guidance». Et satellittbasert innflygingssystem som gir høyere lokaliseringspresisjon gjennom mottak av et korreksjonssignal fra en designert satellitt, også kalt SBAS (Satellite Based Augmentation System).GLS: «GBAS (Ground Based Augmentation System) Landing System». Et satellittbasert innflygingssystem etter samme prinsipp som LPV, men der korreksjonssignalet sendes fra en bakkestasjon.RNP AR: «Required Navigation Performance Approval Required». En satellittbasert innflygingsprosedyre som krever særskilt autorisasjon for luftfartsoperatøren.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Instrumentinnflygingskapasitet",
+      "path": [],
+      "text": "Luftfartsoperatøren må være i stand til å benytte alle instrumentinnflygingsprosedyrer, med unntak av LPV, GLS og RNP AR, som er kunngjort i AIP Norge for den aktuelle kortbanelufthavnen som flygingen skal foregå til eller fra.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Minste erfaringsnivå",
+      "path": [],
+      "text": "Luftfartsoperatøren må etablere et tilstrekkelig minste erfaringsnivå for flygere.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Opplæringsprogram",
+      "path": [],
+      "text": "Luftfartsoperatøren må utarbeide et opplæringsprogram for førstegangs og periodisk trening for flygere. Programmet må omfatte teori, bruk av flysimulator og trening i fly, og dekke de særskilte forholdene ved luftfartsoperasjoner på kortbaner.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Flysimulator",
+      "path": [],
+      "text": "Flysimulator til bruk for førstegangs og periodisk trening for flygere må kunne gjengi et utvalg kortbanelufthavner visuelt nøyaktig. Med visuelt nøyaktig menes en realistisk gjengivelse av kortbanelufthavnen, det tilhørende lysanlegget og det omkringliggende terrenget. Alternativt må trening i fly gjennomføres.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Landingsteknikk",
+      "path": [],
+      "text": "Førstegangsopplæring i landingsteknikk på kortbane må gjennomføres i fly før rutetrening påbegynnes.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Rutetrening",
+      "path": [],
+      "text": "Rutetrening må foregå over en periode som er tilstrekkelig lang til å dekke alle aktuelle kortbaner under ulike værforhold og innflygingstyper. Det skal foreligge klare vind- og værbegrensninger under den innledende delen av treningen.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Periodisk trening",
+      "path": [],
+      "text": "Under periodisk trening for flygere må det i tillegg til obligatoriske elementer gjennomføres trening av særskilte kortbaneelementer.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Godkjenning",
+      "path": [],
+      "text": "For at en luftfartsoperatør skal anses å ha oppfylt kravene i denne forskriften, må det foreligge en godkjenning fra Luftfartstilsynet. Luftfartsoperatøren må søke om godkjenning til Luftfartstilsynet senest 3 måneder før oppstart av luftfartsoperasjoner på en kortbanelufthavn. Søknaden må inneholde en beskrivelse av planlagte luftfartsoperasjoner og rutenett. Det må vedlegges dokumentasjon som viser hvordan kravene i denne forskriften blir ivaretatt.\nLuftfartstilsynet skal utstede godkjenning dersom kravene i denne forskriften etter en konkret helhetsvurdering anses oppfylt.\nEn godkjenning er gyldig så lenge det jevnlig utføres luftfartsoperasjoner på kortbanelufthavner. Godkjenningen bortfaller dersom luftfartsoperatøren ikke har utført noen luftfartsoperasjoner på kortbanelufthavner over en periode på seks måneder.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Sanksjoner og overtredelsesgebyr",
+      "path": [],
+      "text": "Ved overtredelse av forskriftens bestemmelser kan Luftfartstilsynet begrense, midlertidig oppheve og tilbakekalle luftfartsoperatørens godkjenning til å utføre luftfartsoperasjoner på kortbanelufthavner.\nLuftfartstilsynet kan ilegge overtredelsesgebyr etter luftfartsloven § 13a-5 for brudd på § 4 til og med § 10.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse og overgangsregel",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 31. januar 2019.\nLuftfartsoperatører som ved forskriftens ikrafttredelse allerede utfører luftfartsoperasjoner på kortbanelufthavner, må innen 1. april 2019 ha søkt om godkjenning etter § 11 og må innen 1. juli 2019 ha godkjenning til å utføre luftfartsoperasjoner på kortbanelufthavner.",
+      "xml_path": "article#paragraf-13"
+    }
+  ]
+}

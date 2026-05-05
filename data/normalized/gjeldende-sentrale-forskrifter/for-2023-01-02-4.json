@@ -1,0 +1,89 @@
+{
+  "id": "FOR-2023-01-02-4",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om registrering av offentlig støtte",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2023-01-02",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-10-2492 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2023-01-02-4",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-01-02-4",
+  "raw_xml_sha256": "bcdf3fa0d1d8702136231e92f852c4461d175770eabadfe1fca9ca9c1cd8ab90",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å sikre allmenheten tilgang til informasjon om enkelttildelinger av offentlig støtte. Formålet er videre å sikre overholdelse av de registreringsforpliktelsene som følger av EØS-avtalens regler om offentlig støtte.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 1a",
+      "heading": "Terskelverdien for meldepliktig offentlig støtte",
+      "path": [],
+      "text": "Offentlig støtte som omfattes av EØS-avtalen artikkel 61 nr. 1 og er tildelt i samsvar med forskrift 2. januar 2023 nr. 2 om unntak fra notifikasjonsplikt for offentlig støtte § 1, jf. forordning (EU) nr. 651/2014 om erklæring av visse støttekategoriers forenlighet med det indre marked i henhold til traktatens artikkel 107 og 108, eller som er notifisert og godkjent av EFTAs overvåkingsorgan med grunnlag i EØS-avtalens artikkel 61 nr. 3 bokstav c, eller med grunnlag i organets retningslinjer til samme bestemmelse, skal meldes til Støtteregisteret dersom støtten er på 100 000 euro eller mer i en tildeling.\nTerskelverdien i første ledd gjelder ikke for offentlig støtte som omfattes av § 6a.\nTildelinger av bagatellmessig støtte, tildelt i samsvar med EØS-avtalens vedlegg XV nr. 1ea, og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, tildelt i samsvar med reglene i EØS-avtalens vedlegg XV nr. 1ha, skal meldes til Støtteregisteret. Slike tildelinger skal registreres fra første krone.\nDersom flere foretak i samme konsern er tildelt støtte til samme støtteberettigede kostnader fra samme støtteordning eller det samme nasjonale rettsgrunnlaget, er terskelverdien nådd når summen av mottatt støtte for alle foretakene tilsvarer 100 000 euro eller mer. Den enkelte tildelingen innenfor et konsern skal likevel meldes og registreres med det enkelte foretaket som støttemottaker.\nBegrepet konsern skal forstås slik det anvendes i EØS-retten.\nStøttebeløpets størrelse i euro beregnes etter den offisielle valutakursen fastsatt av EFTAs overvåkingsorgan.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 2",
+      "heading": "Støttegivers meldeplikt og hvilke opplysninger som skal meldes",
+      "path": [],
+      "text": "Støttegiver skal melde støttetildelinger etter § 1a til registeret og opplyse omstøttegivers navn og organisasjonsnummerstøttemottakers navn og organisasjonsnummer, fødselsnummer eller d-nummerom støttemottaker er et lite, mellomstort eller stort foretak, slik definert i forordning (EU) nr. 651/2014 vedlegg I, bare dersom det er et vilkår for å tildele støtten. For bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning er det ikke krav om å gi informasjon om støttemottakers størrelsetildelingsdatoenstøttebeløpet i norske kroner eller i intervaller i euro dersom støttetildelingen gis i form av en skatte- eller avgiftsfordel. Bagatellmessig støtte gitt i form av skatte- og avgiftsfordeler skal oppgis i norske kroner i eksakte beløphvilken støtteordning tildelingen hører inn under, alternativt om tildelingen er ad hoc-støtte, og ID-nummeret for støtteordningen eller ad hoc-støtten hos EFTAs overvåkingsorgan. Kravet om ID-nummer fra EFTAs overvåkningsorgan gjelder ikke for bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydningdet EØS-rettslige grunnlaget for å gi støttentypen støtteinstrument, som tilskudd, garanti, lån, skatteordninger og andre typer støtteregionnæringssektorformålfor bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, om støtten er gitt for å dekke spesifikke kostnader eller om støtten er gitt som uspesifisert støtte.\nSkatteetaten er ansvarlig for å melde inn offentlig støtte i form av skatte- og avgiftsfordeler.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Meldefristen",
+      "path": [],
+      "text": "Opplysningene skal meldes innen seks måneder fra datoen den offentlige støtten blir tildelt, med unntak av bagatellmessig støtte og bagatellmessig støtte til foretak som utfører tjenester av allmenn økonomisk betydning, som skal meldes innen 20 virkedager etter at støtten er tildelt.\nOffentlig støtte som gis i form av skatte- eller avgiftsfordel, skal meldes innen ett år fra fristen for å levere skattemelding. Støtte gitt i form av differensiert arbeidsgiveravgift skal registreres av skattemyndighetene innen 20 virkedager etter fristen til levere a-melding.\nFremgår opplysningene om skatte- eller avgiftsfordelen av innleverte omsetningsoppgaver eller annen periodisk rapportering, skal støtten meldes til registeret innen ett år fra 31. desember i det året støtten er mottatt.\nDersom skatte- eller avgiftsfordelen ikke fremgår av skattemeldingen eller annen periodisk rapportering, skal støttemottaker rapportere informasjon om skatte- eller avgiftsfordelen til skattemyndighetene.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Tildelingsdatoen",
+      "path": [],
+      "text": "Støtten anses tildelt datoen støttemottaker fikk krav på støtten. Skatte- eller avgiftsfordeler anses tildelt datoen skattemeldingen ble levert, dersom skatte- eller avgiftsfordelen fremkommer av denne. Fremkommer ikke skatte- eller avgiftsfordelen av skattemeldingen, skal tildelingsdato anses for å være 31. desember det året støtten er mottatt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Føringen av registeret og elektronisk innsending av opplysningene",
+      "path": [],
+      "text": "Støtteregisteret føres av Brønnøysundregistrene.\nMeldingen skal sendes registeret elektronisk i den formen og med den fremgangsmåten som Brønnøysundregistrene krever.\nTilfredstiller meldingen kravene til meldingens form og fremgangsmåte, skal opplysningene registreres i registeret. Brønnøysundregistrene kontrollerer ikke at de registrerte opplysningene er korrekte.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Innsyn i registrerte opplysninger",
+      "path": [],
+      "text": "Enhver har rett til innsyn i registrerte opplysninger i Støtteregisteret gjennom Brønnøysundregistrenes elektroniske tilgjengeliggjøringsløsning. Dette gjelder likevel ikke fødselsnummer og d-nummer.\nOpplysningene i registeret skal være tilgjengelige for allmennheten i minst ti år fra tildelingsdatoen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 6a",
+      "heading": "Registrering av informasjon om støtte tildelt under koronapandemien i Støtteregisteret",
+      "path": [],
+      "text": "Støttegivere skal registrere opplysninger som angitt i § 2 om alle enkelttildelinger gitt innenfor støtteordninger og enkelttildelinger gitt utenfor støtteordninger som listet opp i forskriftens vedlegg A.\nOpplysningene skal registreres i Støtteregisteret innen 31. desember 2026.\nRegistreringsplikten etter første og annet ledd gjelder ikke for kommuner.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 29. juni 2016 nr. 834 om registrering av offentlig støtte.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

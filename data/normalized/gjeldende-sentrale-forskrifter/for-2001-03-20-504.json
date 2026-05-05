@@ -1,0 +1,145 @@
+{
+  "id": "FOR-2001-03-20-504",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av næringsmidler med ioniserende stråling",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2001-05-01",
+  "last_change_in_force": "2022-12-12",
+  "last_changed_by": "forskrift/2022-12-12-2161",
+  "lovdata_refid": "forskrift/2001-03-20-504",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-03-20-504",
+  "raw_xml_sha256": "37d12777a1967a4058edefab3e088e07f61e67ecf5d38251b4df9252a9b8fb08",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Omfang",
+      "path": [],
+      "text": "Denne forskriften gjelder for produksjon, omsetning og import mv. av næringsmidler og næringsmiddelingredienser, heretter kalt næringsmidler, behandlet med ioniserende stråling.\nForskriften gjelder ikke for:næringsmidler som utsettes for ioniserende stråling fra måle- og kontrollutstyr, når den absorberte stråledosen ikke overstiger 0,01 Gy for måle- og kontrollutstyr som anvender nøytroner eller 0,5 Gy for annet måle- og kontrollutstyr, ved et maksimalt strålingsenerginivå på 10 MeV når det gjelder røntgenstråler, 14 MeV når det gjelder nøytroner og 5 MeV i andre tilfeller.næringsmidler behandlet med ioniserende stråling, som tilberedes til pasienter under medisinsk tilsyn med behov for sterile dietter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Behandling med ioniserende stråling",
+      "path": [],
+      "text": "Kun næringsmidler oppført i vedlegg I til denne forskrift, kan behandles med ioniserende stråling.\nNæringsmidler behandlet med ioniserende stråling, skal merkes i samsvar med forskrift av 21. desember 1993 nr. 1385 om merking m.v. av næringsmidler.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår",
+      "path": [],
+      "text": "Næringsmidler skal ha egnet kvalitet på det tidspunkt de behandles med ioniserende stråling.\nNæringsmidler kan bare behandles med ioniserende stråling dersom:det er et rimelig teknologisk behov,det ikke utgjør noen helserisiko og foretas i samsvar med bestemmelsene,det er til fordel for forbrukeren,det ikke er til erstatning for god hygienisk praksis, god produksjonspraksis eller god landbrukspraksis.\nBehandling av næringsmidler med ioniserende stråling skal ikke anvendes sammen med en kjemisk behandling som tjener samme formål som behandlingen med ioniserende stråling.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Siktemål",
+      "path": [],
+      "text": "Behandling av næringsmidler med ioniserende stråling kan bare ta sikte på:å redusere forekomsten av næringsmiddelbårne sykdommer ved å ødelegge sykdomsfremkallende organismer,å redusere bedervelse av næringsmidler ved å forsinke eller stanse forråtnelsesprosesser og ødelegge bedervelsesorganismer,å redusere tap av næringsmidler på grunn av for tidlig modning, vekst eller spiring,å bekjempe organismer i næringsmidler som er skadelige for planter eller planteprodukter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Strålingskilder",
+      "path": [],
+      "text": "Næringsmidler kan bare behandles med følgende former for ioniserende stråling:gammastråler fra de radioaktive isotoper kobolt-60 og cesium-137,røntgenstråler fra anlegg med nominell energi (maksimal kvanteenergi) på 5 MeV eller mindre,elektronstråler fra anlegg med en nominell energi (maksimal kvanteenergi) på 10 MeV eller mindre.\nBehandling av næringsmidler med ioniserende stråling skal skje i samsvar med den internasjonale kode for drift av bestrålingsanlegg til behandling av næringsmidler anbefalt av FAO/WHOs Felles Codex Alimentarius Kommisjon, jf. FAO/WHO/CAC Bind XV 1. utgave.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Strålingsdoser",
+      "path": [],
+      "text": "Den samlede gjennomsnittlige absorberte strålingsdose skal beregnes som fastsatt i vedlegg II til denne forskrift, og skal ikke overstige de grenseverdier som er fastsatt i vedlegg I til denne forskrift.\nDen maksimale strålingsdose for næringsmidler kan gis i deldoser, men må samlet ikke overstige de grenseverdier som er fastsatt i vedlegg I til denne forskrift.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Godkjenning av anlegg",
+      "path": [],
+      "text": "Anlegg som behandler næringsmidler med ioniserende stråling, skal være godkjent av Mattilsynet. Godkjente anlegg skal tildeles et registreringsnummer.\nFor å bli godkjent skal anlegget oppfylle de krav som er fastsatt i denne forskriften, og være godkjent av Direktoratet for strålevern og atomsikkerhet i medhold av strålevernlovgivningen.\nAnlegg for behandling av næringsmidler med ioniserende stråling skal oppfylle kravene i den internasjonale kode for drift av bestrålingsanlegg til behandling av næringsmidler anbefalt av FAO/WHOs Felles Codex Alimentarius Kommisjon, jf. FAO/WHO/CAC Bind XV 1. utgave. Det skal utpekes en person som er ansvarlig for at alle de betingelser som skal oppfylles for å kunne anvende denne fremgangsmåten, overholdes.\nDersom tilsynsmyndigheten påviser en klar mangel i forhold til godkjenningskravene eller møter hindringer for en tilstrekkelig kontroll, kan den midlertidig stoppe virksomheten.\nDersom påviste mangler ikke rettes etter den fristen som er satt av tilsynsmyndigheten, skal Mattilsynet trekke tilbake godkjenningen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Plikt til å føre register",
+      "path": [],
+      "text": "Ansvarlig for anlegg som er godkjent for behandling av næringsmidler med ioniserende stråling, skal for hver ioniserende strålingskilde føre et register som inneholder følgende opplysninger for hvert behandlet parti næringsmidler:Arten og mengden av de bestrålte næringsmidlene.Partiets nummer.Hvem som har bestilt behandlingen med ioniserende stråling.Mottakeren av de bestrålte næringsmidlene.Dato for behandlingen med ioniserende stråling.Emballasjematerialer benyttet under behandlingen med ioniserende stråling.Data til kontroll av behandlingen med ioniserende stråling i samsvar med vedlegg II til denne forskrift, resultatene av de utførte dosemålinger med nærmere angivelse av spesielt de øvre og nedre grenseverdier for den absorberte dose, samt typen av ioniserende stråling.Henvisning til de innledende dosevalideringsmålinger.\nRegistre som angitt i første ledd, skal oppbevares i minst fem år.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Import fra tredjeland",
+      "path": [],
+      "text": "Næringsmidler behandlet med ioniserende stråling, kan bare importeres fra tredjeland dersom:de oppfyller de bestemmelser som gjelder for slike næringsmidler,de ledsages av dokumenter som inneholder navn og adresse på de anlegg der behandlingen med ioniserende stråling har funnet sted, samt de opplysninger som kreves i § 8,de er behandlet på et bestrålingsanlegg som er godkjent av Fellesskapet, og som er oppført på den offisielle listen over godkjente bestrålingsanlegg i vedlegg III i denne forskriften.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Emballasjematerialer",
+      "path": [],
+      "text": "Materialer som anvendes til emballasje for næringsmidler som skal behandles med ioniserende stråling, skal være egnet til formålet.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10a",
+      "heading": "Merking av bestrålte næringsmidler som er beregnet for omsetning til forbruker eller storhusholdning",
+      "path": [],
+      "text": "Bestrålte næringsmidler som er beregnet for omsetning til forbruker eller storhusholdning, skal i tilknytning til varebetegnelsen merkes med betegnelsen «bestrålt» eller «behandlet med ioniserende stråling».\nFor næringsmidler som inneholder bestrålte ingredienser, skal opplysningen i første ledd gis i tilknytning til den aktuelle ingrediensen i ingredienslisten.\nFor bestrålte næringsmidler som ved omsetning ikke er ferdigpakket, skal opplysningen i første ledd gis på skilt, oppslag e.l. ved salgsstedet.\nFor næringsmidler som ved omsetning ikke er ferdigpakket og som inneholder bestrålte ingredienser, skal opplysningen i første ledd gis sammen med varebetegnelsen på den aktuelle ingrediensen. Tredje ledd gjelder tilsvarende.\nDersom en bestrålt ingrediens inngår i en sammensatt ingrediens, skal opplysningen gis selv om den sammensatte ingrediensen utgjør mindre enn 25 prosent av det ferdige produktet.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 10b",
+      "heading": "Merking av bestrålte næringsmidler som ikke er beregnet for omsetning til forbruker eller storhusholdning",
+      "path": [],
+      "text": "Bestrålte næringsmidler og bestrålte ingredienser som ikke er beregnet for omsetning til forbruker eller storhusholdning, skal merkes som bestemt i § 10a første ledd. I tillegg skal navn og adresse på bestrålingsanlegget eller dets registreringsnummer angis.\nOpplysninger om at bestråling har funnet sted, skal dessuten alltid angis i de dokumentene som følger eller vedrører næringsmidlet eller ingrediensen.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 11",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og fatter vedtak for å gjennomføre bestemmelsene gitt i og i medhold av denne forskriften.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 12",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 13",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskriften eller bestemmelser og vedtak gitt i medhold av den, er straffbart i henhold til matloven § 28",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 14",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. mai 2001.",
+      "xml_path": "article#paragraf-16"
+    }
+  ]
+}

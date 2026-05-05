@@ -1,0 +1,145 @@
+{
+  "id": "FOR-2026-03-05-340",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om omsetning og innførsel av produkter med lystgass",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2026-07-01",
+  "lovdata_refid": "forskrift/2026-03-05-340",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-05-340",
+  "raw_xml_sha256": "e9c8c54a11b1c413a5e2db4952a60d1100a1368313ba99efea2a259936d8240a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Formålet med denne forskriften er å forebygge at bruk av produkter med lystgass medfører helseskade.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften omfatter innførsel til og omsetning av produkter med lystgass i Norge.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Med «produkter med lystgass» menes: en beholder som i hovedsak inneholder N2O, og hvis innhold ikke er beregnet til medisinsk formål, og som kan medføre helseskade.\nMed «forbruker» menes: fysisk eller juridisk person som ikke hovedsakelig handler som ledd i næringsvirksomhet.\nMed «omsetning» menes: å gjøre produkter med lystgass tilgjengelig mot eller uten betaling.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Forbud mot å omsette produkter med lystgass til rusformål",
+      "path": [
+        "Kapittel 2. Begrensninger i muligheten til å omsette produkter med lystgass mv."
+      ],
+      "text": "Det er forbudt å omsette produkter med lystgass til rusformål.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Aldersgrense",
+      "path": [
+        "Kapittel 2. Begrensninger i muligheten til å omsette produkter med lystgass mv."
+      ],
+      "text": "Det er forbudt å omsette produkter med lystgass til personer under 18 år.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Mengdebegrensninger for omsetning av produkter med lystgass til forbrukere",
+      "path": [
+        "Kapittel 2. Begrensninger i muligheten til å omsette produkter med lystgass mv."
+      ],
+      "text": "Det er forbudt å omsette mer enn 17 gram lystgass per dag til en enkelt forbruker.\nDet er likevel tillatt å omsette mer enn 17 gram lystgass per dag til lisensierte bilsportutøvere når lystgassen skal anvendes i bilsport.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Krav om å føre kontroll med at omsetningsbegrensningene overholdes",
+      "path": [
+        "Kapittel 2. Begrensninger i muligheten til å omsette produkter med lystgass mv."
+      ],
+      "text": "Tilbydere av lystgass skal ha et system for alderskontroll som effektivt sikrer at kjøperen er fylt 18 år.\nVed salg av lystgass som overstiger mengdebegrensningen i § 6 første ledd, skal tilbyderen kontrollere at kjøperen er en næringsdrivende registrert med gyldig organisasjonsnummer i Enhetsregisteret, og at lystgassen ikke kjøpes med formål om å omsettes eller anvendes til rusformål.\nVed salg av lystgass i henhold til § 6 annet ledd skal tilbyderen kontrollere at forbrukeren er lisensiert bilsportutøver, og at lystgassen ikke kjøpes med formål om å omsettes eller anvendes til rusformål.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Innførsel av produkter med lystgass",
+      "path": [
+        "Kapittel 2. Begrensninger i muligheten til å omsette produkter med lystgass mv."
+      ],
+      "text": "Det er forbudt for forbrukere å innføre produkter med lystgass til Norge.\nSom ledd i næringsvirksomhet kan produkter med lystgass kun innføres av en næringsdrivende med gyldig organisasjonsnummer i Enhetsregisteret, og som ikke innfører lystgassen med formål om å omsette eller anvende gassen til rusformål.\nProdukter med lystgass kan bare innføres av personer over 18 år.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel 3. Tilsyn, kontroll, straff mv."
+      ],
+      "text": "Helsedirektoratet fører tilsyn med at kravene i denne forskriften overholdes.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Pålegg om retting av ulovlige forhold og stenging av ulovlig virksomhet",
+      "path": [
+        "Kapittel 3. Tilsyn, kontroll, straff mv."
+      ],
+      "text": "Ved brudd på §§ 4 til 7, kan Helsedirektoratet fastsette at det ulovlige forholdet skal rettes, eller at den ulovlige virksomheten skal opphøre, eller stenge.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 3. Tilsyn, kontroll, straff mv."
+      ],
+      "text": "Helsedirektoratet kan treffe vedtak om tvangsmulkt etter reglene i produktkontrolloven § 13 for å sikre at bestemmelsene i denne forskriften blir gjennomført.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 3. Tilsyn, kontroll, straff mv."
+      ],
+      "text": "Helsedirektoratet kan ilegge overtredelsesgebyr overfor den som overtrer §§ 4 til 8.\nOvertredelsesgebyr for foretak skal ikke overstige 15 ganger folketrygdens grunnbeløp. Overtredelsesgebyr for fysiske personer skal ikke overstige 2 ganger folketrygdens grunnbeløp.\nI vurderingen av overtredelsesgebyrets størrelse innenfor de maksimale rammene i annet ledd, kan Helsedirektoratet blant annet ta hensyn tilovertredelsesgebyrets preventive virkningovertredelsens grovhet og varighetovertrederens grad av skyldovertrederens økonomiske evnefordeler som er oppnådd eller kunne vært oppnådd ved overtredelseneventuelle tidligere overtredelser av bestemmelser i denne forskrift.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Tilsyn, kontroll, straff mv."
+      ],
+      "text": "Denne forskriften trer i kraft 1. juli 2026.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    }
+  ]
+}

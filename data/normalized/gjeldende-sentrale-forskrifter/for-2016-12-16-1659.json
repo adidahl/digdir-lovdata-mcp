@@ -1,0 +1,678 @@
+{
+  "id": "FOR-2016-12-16-1659",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om strålevern og bruk av stråling (strålevernforskriften)",
+  "short_title": "Strålevernforskriften",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2017-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-11-02-2170 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2016-12-16-1659",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-12-16-1659",
+  "raw_xml_sha256": "7d3403d5554b783e97b3b73804611bd63986012e1e8a6f76711a30ba58b56b85",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å sikre forsvarlig strålebruk, forebygge skadelige virkninger av stråling på menneskers helse og bidra til vern av miljøet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Saklig virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for enhver tilvirkning, import, eksport, overdragelse, besittelse, installasjon, bruk, anskaffelse, oppbevaring, avhending, håndtering og utvinning av strålekilder.\nForskriften gjelder også for naturlig ioniserende stråling når denne er forhøyet på grunn av menneskelig aktivitet. Dette omfatter blant annet radon i eksisterende bygninger og lokaler hvor mennesker kan oppholde seg.\nForskriftens kapittel VI om medisinsk strålebruk gjelder for bruk av radiologisk utstyr for ikke-medisinske formål, så langt det passer.\nForskriften gjelder ikke forradon og annen forhøyet naturlig stråling i boliger og fritidsboliger hvor eier selv bor eller oppholder seg,arbeidsgivers plikter vedrørende radon på arbeidsplassen,transport av strålekilder utenfor lukket område,elektriske apparater og komponenter som utilsiktet frambringer røntgenstråling, dersomdoseraten på tilgjengelige overflater er mindre enn 1 μSv/t ved normal bruk, ellermaksimal energi på den strålingen som produseres er lavere enn 5 keV,bruk av forbrukerartikler som inneholder svake ikke-ioniserende strålekilder, med mindre disse er omfattet av § 4 bokstav w.\nBestemmelsene i § 13, § 17, § 18 og § 27 gjelder ikke for bruk avrøykvarslere som inneholder mindre enn 40 kBq Am-241,andre tillatte forbrukerartikler som inneholder radioaktivt stoff,sveiseelektroder som inneholder thorium, ellerbalansevekter og skjermingsmateriale som inneholder utarmet uran.\nAndre radioaktive strålekilder er unntatt fra kravene i § 9 første ledd bokstav r, § 13, § 17, § 18 og § 27 dersom total aktivitet (Bq) eller aktivitetskonsentrasjon (Bq/g) er lavere eller lik unntaksgrensene i forskriftens vedlegg. For strålekilder som inneholder flere radionuklider skal summen av forholdet mellom aktivitet eller aktivitetskonsentrasjon for hver radionuklide og unntaksgrensen for respektive radionuklide, være mindre eller lik 1.\nFor arbeid med åpne radioaktive strålekilder i laboratorier, gjelder unntaksgrensene for den aktivitet som kan brukes per gang i det enkelte laboratorium. Dersom det arbeides med ulike radionuklider samtidig, skal summen av forholdet mellom aktivitet for hver radionuklide og unntaksgrensen for respektive radionuklide, være mindre eller lik 1.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Stedlig virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "For Svalbard og Jan Mayen gjelder bestemmelsene i denne forskrift med unntak av § 6 sjette ledd.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "I forskriften forstås med:Absorbert dose: avsatt energi per masseenhet i et eksponert individ eller materiale fra ioniserende stråling. Enheten for absorbert dose er gray (Gy).Aktivitet: styrken til en radioaktiv strålekilde angitt i antall kjerneomvandlinger per tidsenhet. Enheten for aktivitet er bequerel (Bq).Ansvarlig helsepersonell: lege, tannlege eller annen person som er autorisert helsepersonell, og som har fullmakt til å ta det kliniske ansvar for den individuelle medisinske bestråling i overenstemmelse med nasjonale krav.Diagnostisk referanseverdi eller referansenivå: fastsatt verdi som benyttes i optimalisering av pasientdoser ved stråleeksponering av pasienter i medisinske undersøkelser.Doserate: doserateangivelser i denne forskriften refererer til målt miljødoseekvivalent per tidsenhet.Effektiv dose: gjennomsnittlig helkroppsdose beregnet fra den absorberte dosen, korrigert for strålingstype og vektet med strålefølsomhet for eksponerte organer. Enheten for effektiv dose er sievert (Sv).Eierløs strålekilde: en strålekilde som ikke er under myndighetskontroll, enten fordi den aldri har vært det, eller fordi den har blitt forlatt, mistet, feilplassert, stjålet eller overdratt uten godkjenning eller melding.Ekvivalent dose: absorbert dose multiplisert med vektfaktoren til ulike strålingstyper som røntgen-, gamma-, beta-, alfa- eller nøytronstråling. Enheten for ekvivalent dose er sievert (Sv).Hybridapparatur: kombinert apparatur som kan avbilde anatomi og metabolisme i én og samme undersøkelse.Forbrukerartikkel: gjenstand eller apparat til bruk for forbrukere.Harmonisert standard: tekniske spesifikasjoner som er vedtatt av europeiske standardiseringsorganisasjoner og norske standarder som er offentliggjort av Standard Norge eller Norsk Elektroteknisk Komite.IPL (intenst pulset lys): intenst synlig lys som er pulset, eventuelt i kombinasjoner med radiofrekvent, ultrafiolett eller infrarød stråling.Kapslet radioaktiv strålekilde: radioaktivt stoff som er innkapslet for å forhindre spredning av det radioaktive stoffet til omgivelsene.Klinisk revisjon: en systematisk evaluering av klinisk praksis opp mot faglige anbefalinger med formål å bedre kvaliteten og resultatene i pasientdiagnostikk og behandling.Laserpeker: håndholdt laser, batteridrevet eller med annen egen strømforsyning med en merkespenning som er lavere enn 50 V for vekselstrøm og 75 V for likestrøm, beregnet for å holdes i hånden og peke på noe på avstand.Nukleærmedisin: bruk av radioaktive legemidler eller stoff for medisinsk og veterinærmedisinsk diagnostikk og behandling.Radioaktiv strålekilde: strålekilde inneholdende radioaktivt stoff, dvs. stoff som sender ut alfa-, beta-, gamma- eller nøytronstråling.Radonnivå: radonkonsentrasjonen i luft bestemt med den til enhver tid gjeldende måleprosedyre fastsatt av Direktoratet for strålevern og atomsikkerhet.Representativ aktivitet: virksomhetens beregnede gjennomsnittsverdi av administrert aktivitet for en typisk nukleærmedisinsk undersøkelse.Representativ dose: virksomhetens beregnede doseverdi basert på gjennomsnittet av dosemålinger, for en bestemt røntgenundersøkelse på et bestemt laboratorium, der standard undersøkelsesprotokoll er benyttet.Screening: systematisk undersøkelse av en større gruppe symptomfrie mennesker for å kartlegge deres helsetilstand i forhold til en bestemt sykdom.Solarium: apparat med én eller flere ultrafiolette strålekilder for bestråling av hud.Sterk ikke-ioniserende strålekilde: strålekilde som ved eksponering av personer kan føre til at anbefalte grenseverdier fastsatt i Guidelines on limited exposure to Non-Ionizing Radiation fra den Internasjonale kommisjonen for beskyttelse mot ikke-ioniserende stråling (ICNIRP), overskrides.Unntaksgrense: grenseverdi, uttrykt i aktivitet (Bq) eller aktivitetskonsentrasjon (Bq/g), for når et radioaktivt stoff kan unntas fra hele eller deler av denne forskriften.Yrkeseksponering: eksponering som arbeidstakere utsettes for i forbindelse med sitt yrke, der strålekilden eller eksponeringssituasjonen er en påregnelig del av yrkesutøvelsen og knyttet til denne.Åpen radioaktiv strålekilde: radioaktivt stoff som ikke er innkapslet.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Berettigelse og optimalisering",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "All strålebruk skal være berettiget. Dette innebærer at fordelene skal være større enn ulempene strålingen medfører.\nStrålebruken skal være optimalisert. Dette innebærer at eksponering for ioniserende stråling skal holdes så lav som praktisk mulig, teknologisk kunnskap, sosiale og økonomiske forhold tatt i betraktning.\nFor ikke-ioniserende stråling skal all eksponering av mennesker holdes så lav som god praksis tilsier.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Eksponering av mennesker: Dosegrenser, grenseverdier og tiltaksgrenser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Dosegrenser og grenseverdier gjelder for mennesker som blir eksponert for stråling, men ikke for pasienter.\nDosegrenser og grenseverdier for yrkeseksponering fremgår av § 32.\nEffektiv dose til allmennhet og ikke-yrkeseksponerte arbeidstakere skal ikke overstige 1 mSv/år for ioniserende stråling. Ekvivalent dose til øyelinse skal ikke overstige 15 mSv/år. Ekvivalent dose til hud skal ikke overstige 50 mSv/år, målt eller beregnet over et vilkårlig hudareal på 1 cm2.\nVirksomheten skal planlegge strålingen og skjermingstiltakene slik at ikke-yrkeseksponerte arbeidstakere og allmennhet ikke eksponeres for en effektiv dose som overstiger 0,25 mSv/år.\nDer det ikke finnes nasjonale retningslinjer og grenseverdier innen optisk stråling og elektromagnetiske felt er sist oppdatert versjon av Guideline on limited exposure to Non-Ionizing Radiation fra den Internasjonale kommisjonen for beskyttelse mot ikke-ioniserende stråling (ICNIRP) veiledende for hva god praksis tilsier.\nRadonreduserende tiltak skal iverksettes i barnehager, skoler mv. som er omfattet av forskrift 1. desember 1995 nr. 928 om miljørettet helsevern i barnehager og skoler mv. § 2, dersom radonnivået overstiger 100 Bq/m3 (tiltaksgrense). Tilsvarende gjelder for boliger hvor eier ikke bor eller oppholder seg. Radonnivået skal ikke overstige grenseverdien på 200 Bq/m3 i slike bygninger og lokaler.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Dosegrenser for redningsarbeid",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Redningsarbeid i nødssituasjoner skal så langt som mulig utføres innenfor dosegrensene i § 32 første ledd bokstavene a) til c). Arbeid som kan medføre effektive doser som overstiger 50 mSv, skal bare utføres av frivillige som er tilstrekkelig informert om aktuell strålerisiko og de faremomenter dette innebærer. Gravide kvinner skal ikke delta. Overskridelse av grensen kan bare aksepteres for å redde liv, unngå alvorlig helseskade eller forhindre en omfattende oppskalering av ulykken. Effektive doser over 500 mSv skal så langt som mulig unngås. Bestemmelsene i § 30 og § 33 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Søknad om godkjenning",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "For godkjenning skal virksomheten søke skriftlig og gi de opplysninger som er nødvendige for at Direktoratet for strålevern og atomsikkerhet skal kunne vurdere om kravene for godkjenning er oppfylt og hvilke vilkår som skal settes.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Godkjenning av aktiviteter som medfører stråling",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheter som skal utøve følgende aktiviteter som medfører ioniserende stråling, skal ha godkjenning av Direktoratet for strålevern og atomsikkerhet:Anskaffelse, bruk og vedlikehold av industrielt radiografiutstyr.Anskaffelse og bruk av strålekilder til bestråling av dyr, øvrig biota, materialer, produkter mv. for behandling, sterilisering, herding eller andre formål. Dette gjelder ikke for lukkede røntgenanlegg som tilfredsstiller kravene i § 24 tredje ledd.Anskaffelse og bruk av kapslede radioaktive strålekilder ved loggevirksomhet eller akseleratorer til kartlegging av strukturer rundt borehull.Omfattende, ikke-medisinsk forskningsmessig strålebruk.Anskaffelse og administrasjon av radioaktivt legemiddel eller stoff i forbindelse med medisinsk og veterinærmedisinsk diagnostikk og behandling.Anskaffelse og bruk av utstyr for strålebehandling av mennesker.Anskaffelse og bruk av røntgenapparatur innen helsetjenesten, for blant annet vanlig røntgenfotografering og gjennomlysning, angiografi- og intervensjonsvirksomhet, dataassistert snittavbildning (CT) og mammografi. Anskaffelse og bruk av enkel røntgenapparatur som gir lave doser er unntatt godkjenningsplikt.Anskaffelse og ikke-medisinsk bruk av akseleratorer, unntatt elektronmikroskop.Tilvirkning og innførsel av radioaktive legemidler.Tilsetting av radioaktive stoffer i produkter og salg av slike produkter. Salg av forbrukerartikler nevnt i § 2 femte ledd er unntatt fra krav om godkjenning.Tilvirkning av radioaktive strålekilder.Anskaffelse og bruk av åpne radioaktive strålekilder til sporundersøkelser utenfor laboratorium.Anskaffelse og bruk av kapslede radioaktive strålekilder med aktiviteter større enn 2 x 106 ganger unntaksgrensene i forskriftens vedlegg.Anskaffelse og bruk av åpne radioaktive strålekilder som krever type A isotoplaboratorium, jf. § 27.Anskaffelse og bruk av ioniserende strålekilder til kontroll av personer og bruk av radiologisk utstyr for ikke-medisinsk formål.Import og eksport av sterke radioaktive strålekilder.Utvinning av radioaktive stoffer i forbindelse med bergverksdrift.Omsetning og utleie av strålekilder. Krav om godkjenning gjelder likevel ikke strålekilder og bruksområder som nevnt i § 2 femte og sjette ledd.\nVirksomheter som skal utføre følgende aktiviteter som medfører ikke-ioniserende stråling, skal ha godkjenning av Direktoratet for strålevern og atomsikkerhet:Anskaffelse og bruk av magnetisk resonansavbildning (MR) for medisinsk formål.Import eller produksjon av solarier for kosmetisk formål.\nFor søknader om godkjenning etter § 9 og § 10 skal saksbehandlingsfrist som nevnt i lov 19. juni 2009 nr. 103 om tjenestevirksomhet § 11 første ledd første punktum, være 30 dager. Tjenesteloven § 11 annet ledd om at tillatelse anses gitt når saksbehandlingsfristen er utløpt, gjelder ikke for godkjenning eller andre tillatelser etter forskriften her jf. lov 12. mai 2000 nr. 36 om strålevern § 6a.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "Godkjenning av sterke laserpekere",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Det er forbudt å eie, besitte, tilvirke, importere, eksportere, overlate, håndtere, bruke og selge laserpekere klasse 3R, 3B og 4, uten godkjenning fra Direktoratet for strålevern og atomsikkerhet. Godkjenning gis kun dersomsøker kan dokumentere at laserpekeren er utformet, klassifisert og merket i samsvar med de krav som stilles i § 35,søker kan dokumentere at tiltenkt bruk av laserpekeren er berettiget i tråd med § 5, ogdet ikke er grunn til å anta at laserpekeren vil misbrukes.\nDet kan gis godkjenning både til virksomheter og enkeltpersoner. En godkjenning kan omfatte flere laserpekere og kan være tidsbegrenset.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "Vilkår i godkjenningen",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "I godkjenningen kan Direktoratet for strålevern og atomsikkerhet sette nærmere vilkår for å sikre forsvarlig strålebruk og forebygge skadelige virkninger av stråling på menneskers helse. Dette omfatter blant annet nærmere vilkår for strålebruk, melding, rapportering, kompetanse, opplæring, fysisk sikring, bruk av måleutstyr, vedlikeholdsrutiner, kvalitetskontroll av apparatur og utstyr for strålebruk, returordninger, økonomiske garantier, import, eksport, beredskap og utforming av lokaler.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "heading": "Endring eller tilbakekalling av godkjenning",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Direktoratet for strålevern og atomsikkerhet kan oppheve, endre eller sette nye vilkår i en godkjenning, og om nødvendig kalle godkjenningen tilbake dersomdet viser seg at ulempen ved strålebruken blir vesentlig større eller annerledes enn ventet da godkjenning ble gitt,ulempen ved strålebruken kan reduseres uten urimelig kostnad for virksomheten,strålebruken i vesentlig grad kan reduseres eller erstattes, jf. § 23,vilkår eller pålegg gitt i medhold av strålevernlovningen blir vesentlig eller gjentatte ganger tilsidesatt, ellerdet følger av godkjenning etter § 9 eller § 10, eller forvaltningsloven § 35.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "heading": "Meldeplikt",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheter som anskaffer, leier ut, bruker eller håndterer røntgenapparater, akseleratorer og radioaktive kilder over unntaksgrensene i forskriftens vedlegg og som ikke er godkjenningspliktige etter § 9 eller § 10, skal gi melding til Direktoratet for strålevern og atomsikkerhet.\nVirksomheter som selger, anskaffer, leier ut eller bruker solarier for kosmetisk formål, skal gi melding til Direktoratet for strålevern og atomsikkerhet. Meldingen skal blant annet inneholde en beskrivelse av system for alderskontroll, jf. § 37.\nVirksomheter som leier ut, anskaffer, bruker eller håndterer laser klasse 4 og intenst pulset lys (IPL), skal gi melding til Direktoratet for strålevern og atomsikkerhet.\nStrålekildene skal ikke tas i bruk før virksomheten har fått bekreftelse på at meldingen er mottatt. Meldingen skal gis i elektronisk form, og inneholde de opplysninger som er nødvendige for at Direktoratet for strålevern og atomsikkerhet skal kunne vurdere om aktiviteten omfattes av meldeplikten.\nDirektoratet for strålevern og atomsikkerhet kan vedta en tilpasset meldeordning for strålekilder i Forsvaret.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 14",
+      "heading": "Avhending av strålekilder",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheter som anskaffer kapslede radioaktive strålekilder skal påse at det eksisterer returordninger i opprinnelseslandet og bruke disse så langt det er mulig. Virksomheten skal opplyse Direktoratet for strålevern og atomsikkerhet om returordningen i forbindelse med godkjenning eller melding etter § 9 og § 13. Virksomheten skal returnere radioaktive kilder som er tatt varig ut av bruk.\nVirksomheter som avhender strålekilder underlagt godkjenning eller melding etter § 9, § 10 og § 13, skal melde dette til Direktoratet for strålevern og atomsikkerhet.\nRadioaktive strålekilder som er kasserte og som ikke kan returneres til opprinnelseslandet, skal deponeres i Norge og håndteres i henhold til forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall kapittel 16.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 15",
+      "heading": "Nedleggelse, driftsstans mv.",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheten skal til enhver tid ha kontroll over strålekildene. Ved driftsstans eller nedleggelse, skal Direktoratet for strålevern og atomsikkerhet varsles uten ugrunnet opphold.\nVirksomheten skal sende skriftlig melding til Direktoratet for strålevern og atomsikkerhet uten ugrunnet opphold om navneendring, overdragelse og opphør av aktiviteter som omfattes av § 9 og § 10 om godkjenning eller § 13 om melding.\nVirksomhet som har vært nedlagt eller stanset i mer enn to år, og som har godkjenning etter § 9 eller § 10 eller er meldt etter § 13 skal kontakte Direktoratet for strålevern og atomsikkerhet ved gjenopptakelse av driften. Direktoratet avgjør om det er nødvendig med ny godkjenning eller melding før driften starter opp igjen.\nDirektoratet for strålevern og atomsikkerhet kan pålegge eieren eller brukeren å stille garanti for dekning av fremtidige utgifter og mulig erstatningsansvar.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 16",
+      "heading": "Internkontroll, kompetanse, instrukser og prosedyrer",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomhetens plikt til internkontroll følger av forskrift 6. desember 1996 nr. 1127 om systematisk helse-, miljø- og sikkerhetsarbeid i virksomheter.\nVirksomheten skal sørge for at ansatte og andre tilknyttede personer som installerer eller arbeider med strålekilder, eller som kan bli eksponert for stråling, skal ha tilstrekkelig kompetanse innen strålevern, herunder sikker håndtering av strålekilder og måle- og verneutstyr.\nVirksomheten skal utarbeide skriftlige instrukser og arbeidsprosedyrer som sørger for et forsvarlig strålevern. Disse skal bidra til å forhindre at personer eksponeres for nivåer som overskrider dosegrenser eller grenseverdier etter forskriften, gjeldende standarder eller internasjonale retningslinjer.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 17",
+      "heading": "Strålevernkoordinator",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheter som er underlagt godkjenningsplikt etter § 9 eller § 10 eller meldeplikt etter § 13, skal ha et system som ivaretar strålevern.\nVirksomheten skal utpeke én eller flere strålevernkoordinatorer som skal kunneveilede arbeidstakere om sikker håndtering av strålekilder samt bruk av verne- og måleutstyr, ogutføre eller få utført målinger og vurderinger for å bestemme stråledoser.\nDet samme gjelder for virksomheter som anvender eller installerer sterke ikke-ioniserende strålekilder.\nStrålevernkoordinator skal arbeide for at virksomheten oppfyller kravene til helse, miljø og sikkerhet slik de er fastsatt i strålevernlovgivningen.\nVed særlig omfattende bruk eller annen håndtering av ioniserende strålekilder må strålevernkoordinator kunne vurdere helserisiko og konsekvenser ved forskjellige ulykker og unormale hendelser som kan oppstå.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-14",
+      "provision_ref": "§ 18",
+      "heading": "Risikovurdering og forebyggende tiltak",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheter som planlegger å bruke eller håndtere strålekilder, skal utarbeide en skriftlig risikovurdering knyttet til strålebruken. Nye aktiviteter med strålekilder skal ikke settes i gang før risikovurderingen er gjennomført og nødvendige forebyggende tiltak er iverksatt.\nViser vurderingene at det finnes uakseptabel risiko for arbeidstakere, pasienter eller andre personer, eller at strålekilder kan komme på avveier, skal virksomheten iverksette forebyggende tiltak for å redusere risikoen, herundergi de ansatte nødvendig informasjon om og opplæring i risikoene forbundet med strålebruk,utforme egnede arbeidsrutiner,bruke hensiktsmessig verneutstyr og materialer, ogsikre strålekildene forsvarlig mot tyveri, sabotasje eller annen skade.\nDersom risikovurderingen tilsier at arbeidstakere kan komme i kontakt med strålekilder på avveier, skal virksomheten gi de ansatte nødvendig informasjon om risiko og opplæring i hvordan de skal håndtere en slik situasjon.\nKravene i denne bestemmelsen gjelder ikke strålekilder og bruksområder som nevnt i § 2 femte og sjette ledd.",
+      "xml_path": "article#kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-15",
+      "provision_ref": "§ 19",
+      "heading": "Beredskap",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheten skal, på grunnlag av en risikovurdering, utarbeide en beredskapsplan og gjennomføre tiltak for å opprettholde evnen til å håndtere ulykker og unormale hendelser.",
+      "xml_path": "article#kapittel-2-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-16",
+      "provision_ref": "§ 20",
+      "heading": "Varslingsplikt ved ulykker og unormale hendelser",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheten skal straks varsle om ulykker og unormale hendelser til Direktoratet for strålevern og atomsikkerhet. Skriftlig melding skal sendes fra virksomheten til Direktoratet så snart som mulig og senest innen 3 virkedager.\nMed ulykker og unormale hendelser menes blant annet:Hendelser som forårsaker eller kunne ha forårsaket uønsket eksponering av arbeidstaker, pasient eller annen person vesentlig utover normalnivåene, eller uventede stråleskader.Tap, tyveri eller sabotasje av strålekilder.Uønsket utslipp av radioaktive stoffer til omgivelsene.Hendelser som kan medføre bestråling av allmennheten slik at individ kan bli eksponert for en effektiv dose over 0,25 mSv/år.Teknisk svikt av strålevernmessig betydning.Vesentlig avvik fra tilsiktet absorbert dose eller aktivitet til eksponert vev hos pasient.Alvorlig radioaktiv forurensning av virksomhetens område eller utstyr.Funn av eierløse strålekilder.",
+      "xml_path": "article#kapittel-2-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-17",
+      "provision_ref": "§ 21",
+      "heading": "Oversikt over og kontroll med strålekilder",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheten skal ha oversikt over og kontroll med ioniserende og sterke ikke-ioniserende strålekilder. Dette innebærer blant annet registrering avtype strålekilde og informasjon som entydig kan identifisere strålekilden, som serienummer, produsent eller modell,kildeplassering og midlertidige forflytninger, ogradionuklide og aktivitet til radioaktive strålekilder.\nFor åpne radioaktive strålekilder skal virksomheten ha oppdaterte lister over radionuklider og aktiviteter.",
+      "xml_path": "article#kapittel-2-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-18",
+      "provision_ref": "§ 22",
+      "heading": "Krav til strålekilder",
+      "path": [
+        "Kapittel II. Generelle bestemmelser om ioniserende og ikke-ioniserende stråling"
+      ],
+      "text": "Produsent, forhandler, eier og bruker skal sørge for at strålekilder og utstyr er i en slik tilstand at risiko for ulykker, unormale hendelser og uønsket stråleeksponering av brukere, pasienter og andre personer er så lav som praktisk mulig.\nIoniserende strålekilder skal være merket med standard symbol for ioniserende stråling. Symbolets utforming fremgår av norsk standard NS-1029: Symbol for ioniserende stråling. For radioaktive strålekilder skal opplysninger om radionuklide, aktivitet på en gitt dato, serienummer eller annen informasjon som entydig identifiserer strålekildene fremgå av merkingen.\nFor hvert enkelt apparat skal det foreligge teknisk måleprotokoll med resultater fra ferdigstilling, mottakskontroll og periodiske kontroller av apparatet, samt vedlikeholds- og servicerapporter.\nDirektoratet for strålevern og atomsikkerhet kan vedta unntak fra krav i bestemmelsen for Forsvarets militære materiell som er eller inneholder strålekilder.",
+      "xml_path": "article#kapittel-2-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 23",
+      "heading": "Valg av strålekilde – substitusjonsplikt",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Ved bruk av ioniserende stråling skal virksomheten vurdere alternativer og, dersom det kan gjøres uten urimelig kostnad eller ulempe, velge metoder som ikke innebærer bruk av ioniserende stråling.\nFor ikke-medisinsk bruk av stråling skal det brukes røntgenapparat i stedet for radioaktive strålekilder dersom det er praktisk mulig.\nEksisterende bruksområder og metoder skal vurderes på nytt dersom det kommer frem nye opplysninger om deres berettigelse.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 24",
+      "heading": "Tekniske krav til kapslede radioaktive strålekilder og andre ioniserende strålekilder",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Produsent, forhandler, eier og bruker skal påse at kapslingen er tilstrekkelig solid til å forhindre lekkasje av det radioaktive stoffet, og at kapslingen er produsert i henhold til anbefalingene i ISO 2919. Virksomheten skal utføre lekkasjetest der hvor kildekapslingen regelmessig utsettes for mekanisk eller kjemisk slitasje og ved konkret mistanke om skade på kildekapslingen.\nProdusent, forhandler, eier og bruker skal påse at industrielle radioaktive kontrollkilder i faste installasjoner tilfredsstiller kravene angitt i ISO 7205 for klasse xx2323xxxx med hensyn til strålelekkasje. Produsent skal sørge for at utstyret er konstruert på en slik måte at det ikke er mulig å åpne eller demontere utstyret uten bruk av spesialverktøy, eller være forseglet på en slik måte at den radioaktive kilden ikke kan fjernes uten at seglet brytes.\nProdusent, forhandler, eier og bruker skal påse at fast plassert utstyr i lukkede systemer for ikke-medisinsk avbildning og tekniske analyser, herunder røntgenutstyr i prosess, laboratorieutstyr som inneholder kapslede strålekilder eller røntgenrør, bagasjerøntgen, kroppsavbildningsutstyr mv.er skjermet, slik at doseraten på overflaten ikke overstiger 5 μSv/t, ogfor røntgenapparater, at de har lys- eller lydsignaler som viser når stråling genereres, og ikke kan generere stråling uten bruk av nøkkel eller kode.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 25",
+      "heading": "Oppbevaring av radioaktive strålekilder",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Virksomheten er ansvarlig for at radioaktive strålekilder oppbevares forsvarlig. Dette innebærer blant annet atoppbevaring av åpne radioaktive strålekilder skal begrenses til et minimum,det på oppbevaringsplassen skal foreligge en oversikt over strålekildene,oppbevaringsplassen skal være sikret mot adgang fra uvedkommende,oppbevaringsplassen skal være merket med fareskilt som advarer mot risiko og fare for ioniserende stråling i henhold til forskrift 6. desember 2011 nr. 1356 om utforming og innretning av arbeidsplasser og arbeidslokaler,doseraten utenfor oppbevaringsplassen ikke skal overstige 7,5 μSv/t, ogradioaktive strålekilder ikke skal oppbevares sammen med eksplosiver, sterkt brennbare stoffer eller i korrosivt miljø.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 26",
+      "heading": "Skjerming og sikkerhetsutstyr",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Virksomheten skal sørge for at stråleskjerming og annet sikkerhetsutstyr, som personlig verneutstyr og tekniske sikkerhetssystemer, finnes der det er påkrevd eller anses som nødvendig. Virksomheten skal bruke stråleskjerming og sikkerhetsutstyr som gjør at risiko for stråleeksponering av yrkeseksponerte, øvrige arbeidstakere og allmennheten, og risikoen for ulykker og unormale hendelser er så lav som praktisk mulig.\nVirksomheten skal regelmessig forsikre seg om at sikkerhetsutstyr og -funksjoner fungerer optimalt.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 27",
+      "heading": "Arbeid med åpne radioaktive strålekilder og klassifisering av isotoplaboratorium",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Arbeid med åpne radioaktive strålekilder skal foregå i isotoplaboratorium av type A, B eller C, avhengig av aktiviteten. Aktivitetsgrensene for de ulike typer isotoplaboratorier er som følger:LaboratorietypeTotal aktivitet som kan brukes per gang i laboratorietType CInntil 10 ganger unntaksgrensen for aktivitet gitt i forskriftens vedleggType BInntil 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedleggType AOver 104 ganger unntaksgrensen for aktivitet gitt i forskriftens vedlegg\nAktivitetsgrensene gjelder for normalt kjemisk arbeid. For enkle arbeidsprosesser, for eksempel uttak av stamløsninger og fortynninger, kan de angitte grensene økes med inntil en faktor 10. Ved spesielt risikofylt arbeid, herunder arbeid med tørre stoffer, skal aktivitetsgrensene reduseres med en faktor 10.\nVed arbeid med åpne radioaktive strålekilder skal måleutstyr for kontroll av radioaktiv forurensning være tilgjengelig. Måleutstyr og annet sikkerhetsutstyr, som avtrekksskap og vifter, skal kontrolleres regelmessig.\nKrav om laboratorieklasse A, B eller C gjelder ikke for arbeid med aktivitet under unntaksgrensene i forskriftens vedlegg.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 28",
+      "heading": "Isotoplaboratorier",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Alle isotoplaboratorier skal være utstyrt og utformet slik atstråledosene til personell holdes så lave som praktisk mulig,risiko for kontaminering og inntak av radioaktive stoffer er så lav som praktisk mulig,overflater er tette og jevne for å lette rengjøring og er resistente mot den kjemikaliebruken som foregår i laboratoriet,resirkulering av radioaktive stoffer til laboratoriet eller andre lokaler forhindres, normalt ved hjelp av avtrekksskap eller sikkerhetsbenk. Om nødvendig skal absorberende filtre monteres i ventilasjonsanlegget, oghåndvask kan foretas.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 29",
+      "heading": "Tilleggskrav til type A og B isotoplaboratorium",
+      "path": [
+        "Kapittel III. Bestemmelser om ioniserende stråling"
+      ],
+      "text": "Type A og B isotoplaboratorium skal være forbeholdt arbeid med radioaktive stoffer, og skal være utformet slik atdet finnes en overgangssone inn til kontrollert område, med kontamineringsmonitor, egnet håndvask og nøddusj. Overgangen til det aktive området skal være tydelig merket med malt stripe på gulvet eller fysisk barriere,laboratoriet har redusert lufttrykk mot omgivelsene, slik at radioaktive stoffer ikke kommer ut i arbeidsatmosfæren, ogventilasjonsanlegg for utadgående luft er tilkoblet separat ventilasjonskanal, med utløp plassert slik at luften ikke resirkuleres inn i arbeidsatmosfæren.\nFor type A isotoplaboratorium vil det i tillegg settes spesielle krav til utforming og utstyr i godkjenning etter § 9 bokstav n.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 30",
+      "heading": "Klassifisering og merking av arbeidsplassen",
+      "path": [
+        "Kapittel IV. Bestemmelser om yrkeseksponering for ioniserende stråling"
+      ],
+      "text": "Virksomheten skal klassifisere arbeidsplassen som kontrollert område, dersomarbeidstakere kan utsettes for effektiv dose som overstiger 6 mSv per år,ekvivalent dose til huden og ekstremitetene kan overstige 150 mSv per år, ellerekvivalent dose til øyelinsen kan overstige 15 mSv per år.\nVirksomheten skal klassifisere arbeidsplassen som overvåket område, dersomarbeidstakere kan utsettes for effektiv dose som overstiger 1 mSv per år, ellerekvivalent dose til huden og ekstremitetene kan overstige 50 mSv per år.\nVirksomheten skal sørge for at arbeidstakere utenfor kontrollert og overvåket område ikke kan utsettes for effektiv dose som overstiger 1 mSv per år.\nKontrollert område skal være fysisk avgrenset, eller tydelig merket der hvor fysisk avgrensning ikke er mulig. Kontrollert og overvåket område skal merkes med skilt som opplyser om at dette er et kontrollert eller overvåket område. For øvrig skal arbeidsplassen være merket med fareskilt som advarer mot risiko og fare for ioniserende stråling i henhold til forskrift 6. desember 2011 nr. 1356 om utforming og innretning av arbeidsplasser og arbeidslokaler.\nBestemmelsene om merking av arbeidsplassen gjelder ikke ved forhøyet kosmisk stråling til flypersonell.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 31",
+      "heading": "Inndeling av yrkeseksponerte arbeidstakere",
+      "path": [
+        "Kapittel IV. Bestemmelser om yrkeseksponering for ioniserende stråling"
+      ],
+      "text": "Virksomheten skal sørge for at yrkeseksponerte arbeidstakere inndeles i to kategorier:Kategori A: yrkeseksponerte arbeidstakere som kan utsettes foren effektiv dose over 6 mSv per år,en ekvivalent dose over 150 mSv per år til huden og ekstremitetene, elleren ekvivalent dose over 15 mSv per år til øyelinsen.Kategori B: yrkeseksponerte arbeidstakere som ikke klassifiseres i kategori A.\nVirksomheten skal inndele den enkelte arbeidstaker i kategori A eller B før arbeid som kan medføre eksponering starter. Ved inndelingen skal det tas hensyn til potensiell eksponering.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 32",
+      "heading": "Dosegrenser m.m.",
+      "path": [
+        "Kapittel IV. Bestemmelser om yrkeseksponering for ioniserende stråling"
+      ],
+      "text": "Virksomheten skal sørge for at all stråleeksponering holdes så lav som praktisk mulig, og at følgende dosegrenser ikke overskrides:Effektiv dose for yrkeseksponerte arbeidstakere, lærlinger og studenter over 18 år skal ikke overstige 20 mSv per år. Direktoratet for strålevern og atomsikkerhet kan gi dispensasjon for enkeltpersoner, der det av hensyn til arbeidets art ikke er praktisk mulig å fastsette en årlig grense på 20 mSv. Det kan i slike tilfeller gis tillatelse til å praktisere en grense på 100 mSv over en sammenhengende periode på fem år, under forutsetning av at dosen ikke overstiger 50 mSv i noe enkelt år.Ekvivalent dose til øyelinsen for yrkeseksponerte arbeidstakere, lærlinger og studenter over 18 år skal ikke overstige 20 mSv per år, eller 100 mSv for en sammenhengende periode på fem år så lenge dosen i et enkelt år ikke overstiger 50 mSv.Ekvivalent dose til huden for yrkeseksponerte arbeidstakere, lærlinger og studenter over 18 år skal ikke overstige 500 mSv per år. Dosegrensen gjelder for middelverdien av dosen målt eller beregnet over et vilkårlig hudareal på 1 cm2. Ekvivalent dose for ekstremitetene skal ikke overstige 500 mSv per år.Ekvivalent dose til fosteret for gravide yrkeseksponerte arbeidstakere, lærlinger og studenter skal ikke overstige 1 mSv for den resterende delen av svangerskapet, dvs. etter at graviditet er kjent.\nFor lærlinger og studenter mellom 16 og 18 år som bruker strålekilder i sin utdannelse, gjelder i stedet for dosegrensene angitt under a–c dosegrenser på henholdsvis 5, 15 og 150 mSv per år.\nGravide og ammende arbeidstakere, lærlinger og studenter skal ikke arbeide med oppgaver som kan medføre vesentlig risiko for inntak av radionuklider eller kontaminering.\nDer det er grunn til å tro at en arbeidstaker har overskredet en dosegrense, skal arbeidsgiver straks undersøke dette, eventuelt finne mulig årsak, og om mulig iverksette tiltak for å unngå gjentakelser.\nKravene til omplassering av gravide, legers meldeplikt, arbeidsgivers registreringsplikt m.m. fremgår av forskrift 6. desember 2011 nr. 1358 om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 33",
+      "heading": "Persondosimetri",
+      "path": [
+        "Kapittel IV. Bestemmelser om yrkeseksponering for ioniserende stråling"
+      ],
+      "text": "Virksomheten skal systematisk overvåke yrkeseksponerte i kategori A. Overvåkingen av effektiv dose skal være basert på individuelle målinger som utføres av en persondosimetritjeneste. Der dette ikke er praktisk mulig, skal individuell overvåking baseres på doseberegninger. I tilfeller hvor arbeidstakere kan bli eksponert for en vesentlig intern bestråling eller en vesentlig bestråling av øyelinsen eller ekstremitetene, skal det innføres et egnet overvåkingssystem.\nVirksomheten skal sørge for at yrkeseksponerte i kategori B som kan få effektiv dose over 1 mSv/år får fastlagt sin individuelle stråleeksponering.\nArbeidstaker skal medvirke til dosemonitorering, og virksomheten skal sørge for at arbeidstaker informeres skriftlig eller elektronisk om doseavlesningene og iverksette tiltak ved behov.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 34",
+      "heading": "Nasjonalt yrkesdoseregister og doserapportering",
+      "path": [
+        "Kapittel IV. Bestemmelser om yrkeseksponering for ioniserende stråling"
+      ],
+      "text": "Direktoratet for strålevern og atomsikkerhet er behandlingsansvarlig for nasjonalt yrkesdoseregister. Registeret skal ha til formål å gi en samlet nasjonal oversikt over doser fra ioniserende stråling, verne arbeidstaker mot uønsket stråleeksponering og forebygge helseskader.\nI samsvar med denne forskriftens § 33 og forskrift 6. desember 2011 nr. 1357 om utførelse av arbeid § 15-3 skal virksomhetene sørge for at den enkelte arbeidstakers individuelle stråleeksponering fastlegges. Virksomheter som får fastlagt individuell stråleeksponering av arbeidstakere skal minst årlig rapportere dosedata til det nasjonale yrkesdoseregisteret ved Direktoratet for strålevern og atomsikkerhet. Dosene skal rapporteres på individnivå og Direktoratet kan sette krav til rapporteringsmåte og rapporteringsfrekvens.\nVirksomhetenes rapporteringsplikt omfatter også opplysninger om doseavlesninger, arbeidstakers navn, fødselsnummer, type arbeid, arbeidsgiver (organisasjonsnummer) og arbeidssted.\nAlle virksomheter skal oppbevare persondoserapportene inntil arbeidstaker er fylt, eller ville ha fylt 75 år, og minst i 30 år etter avslutning av arbeidet som innebar stråleeksponering.\nDirektoratet for strålevern og atomsikkerhet kan bruke opplysningene fra nasjonalt yrkesdoseregister i forbindelse med utredning, utvikling- og kartleggingsarbeid.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 35",
+      "heading": "Bruk av IPL, lasere og sterke ikke-ioniserende strålekilder",
+      "path": [
+        "Kapittel V. Bestemmelser om ikke-ioniserende stråling"
+      ],
+      "text": "Produsent, importør, forhandler, eier og bruker skal påse at lasere er merket, klassifisert og produsert i samsvar med NEK EN 60825-1.\nFor IPL og sterke ikke-ioniserende strålekilder, herunder laser klasse 3R, 3B eller 4, der eksponering av mennesker er tilsiktet, gjelder kapittel VI så langt det passer.\nEier og bruker av IPL og sterke ikke-ioniserende strålekilder skal påse ategnede beskyttelsesbriller er tilgjengelig,beskyttelsesbriller blir benyttet av pasient,beskyttelsesbriller blir benyttet av arbeidstaker der arbeidsrutiner ikke kan sikre at grenseverdier i forskrift 6. desember 2011 nr. 1358 om tiltaksverdier og grenseverdier for fysiske og kjemiske faktorer i arbeidsmiljøet samt smitterisikogrupper for biologiske faktorer overholdes,reflekterende flater og vinduer er tilstrekkelig tildekket før bruk, ogområde hvor laser eller andre sterke ikke-ioniserende strålekilder benyttes er merket med fareskilt i henhold til forskrift 6. desember 2011 nr. 1356 om utforming og innretning av arbeidsplasser og arbeidslokaler.\nDirektoratet for strålevern og atomsikkerhet kan unnta Forsvaret fra krav om samsvar med NEK EN 60825-1 for militært laserutstyr.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 36",
+      "heading": "Tekniske krav til solarier",
+      "path": [
+        "Kapittel V. Bestemmelser om ikke-ioniserende stråling"
+      ],
+      "text": "Produsent, importør, forhandler, eier og bruker skal påse at solarier er produsert og merket i overensstemmelse med EN 60335 – Part 2-27. Kun solarier klassifisert som UV-type 3 i henhold til EN 60335-2-27 og som er publisert på Direktoratet for strålevern og atomsikkerhets solarieoversikt tillates for salg, utleie eller bruk til kosmetisk formål.\nImportør eller forhandler av solarier, skal sørge for atkravene i første ledd er oppfylt og at nødvendige målinger er utført. Målinger som bekrefter klassifiseringen skal være utført av et laboratorium som oppfyller Direktoratet for strålevern og atomsikkerhets kvalitetskrav, ogapparatene er utstyrt med bruksanvisning og merking på norsk. Kravet anses oppfylt om EN 60335-2-27 er fulgt. Merkingen av solariet skal plasseres lett synlig og være i bestandig utførelse.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 37",
+      "heading": "Alderskontroll ved bruk av solarier",
+      "path": [
+        "Kapittel V. Bestemmelser om ikke-ioniserende stråling"
+      ],
+      "text": "Det er forbudt for virksomheter å tilby solarier til kosmetisk formål ved salg, utleie eller bruk til personer under 18 år. Virksomhetene skal sørge for et tilfredsstillende system for alderskontroll. Følgende løsninger anses som tilfredsstillende:Heltidsbetjening eller delvis betjening kombinert med etterfølgende elektronisk adgangskontroll.Videoautomat med dokumentleser tilknyttet kundesenter.Annen type forhåndskontroll og registrering kombinert med etterfølgende elektronisk adgangskontroll.\nVirksomhetene skal redegjøre for alderskontrollsystemet i meldingen til Direktoratet for strålevern og atomsikkerhet, jf. § 13. Systemet skal ivareta brukernes personvern.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 38",
+      "heading": "Andre krav til virksomhet som tilbyr soling i solarier",
+      "path": [
+        "Kapittel V. Bestemmelser om ikke-ioniserende stråling"
+      ],
+      "text": "Virksomheten skal sørge for at ansvarlig for daglig drift av solarier og ansatte med kundekontakt har bestått en kunnskapsprøve etter retningslinjer gitt av Direktoratet for strålevern og atomsikkerhet. Bestått prøve har en gyldighet på fem år.\nVirksomheten skal informere den enkelte kunde om relevante risikofaktorer ved solariebruk.\nVirksomheten skal sørge forat solariene til enhver tid tilfredsstiller de tekniske kravene, jf. § 36,å opplyse kunden om anbefalt doseringsplan,at solarienes tidsur kan innstilles etter anbefalt doseringsplan,å ha oppslag med advarselstekst og verneregler utarbeidet av Direktoratet for strålevern og atomsikkerhet lett synlig i lokalet, ogå ha egnede beskyttelsesbriller tilgjengelig for kunden.\nVirksomhetene skal ikke ha andre oppslag som tar oppmerksomheten bort fra den obligatoriske advarselsteksten, jf. tredje ledd bokstav d.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 39",
+      "heading": "Berettigelse",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Medisinsk strålebruk er berettiget dersom de samlede diagnostiske eller terapeutiske fordeler for individ og samfunn er større enn ulempene strålebruken medfører. Fordeler og risiko ved alternative metoder for samme formål, som innebærer liten eller ingen eksponering for ioniserende stråling, skal vurderes.\nFor å gjennomføre prinsippet om berettigelse skal virksomheten sørge for:Å dokumentere at nye metoder eller anvendelser av medisinsk strålebruk er vurdert berettiget på generelt grunnlag før disse tas i allmenn bruk. Eksisterende metoder og bruksområder må vurderes på nytt når det foreligger nye opplysninger om deres berettigelse.At all individuell medisinsk strålebruk på forhånd er vurdert berettiget, ut fra det konkrete formål med strålebruken og personens helsetilstand. Medisinsk strålebruk som ikke er vurdert generelt berettiget, kan under særlige omstendigheter likevel være berettiget. Berettigelsen skal da vurderes og dokumenteres for den enkelte. For å unngå unødvendig strålebruk, skal det, om mulig, innhentes tidligere relevante medisinske opplysninger, journaler og radiologiske bilder om personen.At medisinsk strålebruk innen forskning er vurdert av en regional etisk komité.\nStrålebelastning av arbeidstaker, omsorgsyter og befolkning skal inkluderes i berettigelsesvurderingen når dette er relevant.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 40",
+      "heading": "Optimalisering",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal sørge for optimalisert medisinsk strålebruk. I optimaliseringen inngår blant annet valg av metode, apparatur og utstyr, arbeidsteknikk, vurdering av stråledose til og dosefordeling i pasient, bildekvalitet og behandlingseffekt.\nOptimaliseringen skal utføres tverrfaglig, være en kontinuerlig prosess og vurderes mot nasjonale referanseverdier eller faglige anbefalinger der dette finnes.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 41",
+      "heading": "Prosedyrer",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal ha skriftlige prosedyrer for strålemedisinske undersøkelser og behandlinger som ivaretar pasientsikkerhet. Prosedyrene skal blant annet beskrive metodene og eventuelle innstillinger av apparaturen for gjennomføring av undersøkelsene og behandlingene. Prosedyrene skal revideres jevnlig.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 42",
+      "heading": "Henvisning",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal sørge for at medisinsk strålebruk på pasienter eller symptomfrie personer, kun foretas etter henvisning fra helsepersonell med ansvar for og kompetanse til å følge opp disse. Henvisningen skal bygge på en klinisk vurdering av pasienten og inneholde tilstrekkelig informasjon slik at ansvarlig helsepersonell, jf. § 47, kan vurdere undersøkelsens og behandlingens berettigelse. Kravet til henvisning gjelder ikke undersøkelser i screeningprogram jf. § 51.\nVirksomheten skal sørge for at undersøkelser og behandlinger er vurdert berettiget mot faglige retningslinjer, standardisert utredningsløp og/eller henvisningskriterier. I ikke-akutte tilfeller der undersøkelsen eller behandlingen er særlig strålebelastende, skal berettigelsen vurderes av relevant medisinsk spesialist, jf. § 47.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 43",
+      "heading": "Informasjons- og veiledningsplikt",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal informere pasienter eller pårørende, ledsagere, omsorgsytere og symptomfrie individer om stråledoser og risiko ved medisinsk strålebruk. Informasjonen skal være tilpasset undersøkelsen eller behandlingen og gis etter behov.\nVirksomheten skal informere henvisende helsepersonell og pasient eller pårørende om uhell og utilsiktet eksponering av betydning for pasienten.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 44",
+      "heading": "Klinisk revisjon",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal gjennomføre kliniske revisjoner jevnlig.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 45",
+      "heading": "Representative doser og administrert aktivitet",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal etablere representative doser og aktiviteter for typiske røntgendiagnostiske og nukleærmedisinske undersøkelser samt intervensjonsprosedyrer. De representative dose- og aktivitetsverdiene skal vurderes og sammenlignes med nasjonale diagnostiske referanseverdier gitt av Direktoratet for strålevern og atomsikkerhet. Dersom doseverdiene i vesentlig grad avviker fra de nasjonale referanseverdiene, skal virksomheten kartlegge årsaken og vurdere om tiltak for å redusere eller øke dosene bør iverksettes.\nDe representative dose- og aktivitetsverdiene skal revideres jevnlig.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 46",
+      "heading": "Gravide og ammende",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Ved undersøkelse eller behandling av kvinner som ammer, er eller kan være gravide, skal virksomheten rette særlig oppmerksomhet mot beskyttelse av embryo, foster og barn som blir ammet.\nI vurderingen av berettigelse skal virksomheten blant annet ta hensyn tilforventet dose til embryo, foster eller barn som blir ammet,om undersøkelsen eller behandlingen kan utsettes med hensyn til kvinnens helsetilstand, ogom det finnes alternative metoder som innebærer mindre risiko for skader på embryo, foster og barn som blir ammet.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 47",
+      "heading": "Medisinsk personell med strålevernkompetanse",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "I virksomheter som bruker stråling som beskrevet i bokstavene a til l nedenfor, skal det inngå helsepersonell med medisinsk kompetanse som har strålevernkompetanse til blant annet å kunne vurdere berettigelse og optimalisering.Ved bruk av røntgen og MR som er godkjenningspliktig etter § 9 annet ledd bokstav g og § 9 tredje ledd bokstav s; legespesialist innen radiologi eller tannlegespesialist innen kjeve- og ansiktsradiologi. Innen spesifikke disipliner, herunder hjertesykdommer og lungesykdommer; legespesialist innen sin fagdisiplin. Ved bruk av røntgen i kiropraktorvirksomhet; kiropraktor.Ved nukleærmedisinske undersøkelser; legespesialist innen nukleærmedisin, ved flermodalitetsundersøkelser; også legespesialist innen radiologi.Ved høy- og mellomenergetisk strålebehandling; legespesialist innen onkologi.Ved hudbehandling med rørspenning inntil 15 kV røntgenstråling; legespesialist innen hud- og veneriske sykdommer.Ved nukleærmedisinske behandlinger; legespesialist innen onkologi eller nukleærmedisin.Ved intraoral tannrøntgen; tannlege eller tannpleier, ved ekstraoral tannrøntgen uten CT-funksjon; tannlege.Ved annen røntgendiagnostikk uten godkjenning; lege.Ved medisinsk behandling med laser klasse 4 eller IPL; lege.Ved medisinsk behandling med laser klasse 3B eller andre sterke ikke-ioniserende strålekilder; lege, kiropraktor eller fysioterapeut.Ved medisinsk behandling i munnhule med optiske strålekilder; lege, tannlege eller tannpleier.Ved behandling av øyne med laser; legespesialist innen øyesykdommer.Ved lysbehandling av gulsott hos nyfødte; legespesialist innen barnesykdommer.\nAntall helsepersonell med medisinsk kompetanse skal være tilpasset virksomhetens omfang og størrelse.\nInnen hvert bruksområde (bokstavene a–l) skal virksomheten utpeke en medisinsk faglig ansvarlig.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 48",
+      "heading": "Kompetanse til å betjene apparatur for medisinsk strålebruk",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal sørge for at helsepersonell som betjener strålekilder som beskrevet i denne bestemmelsen, har strålevernskompetanse tilpasset bruksområdet. Virksomheten skal sørge for at helsepersonell som skal betjenerøntgen- og MR-apparatur; er radiograf, relevant legespesialist eller tannlegespesialist i kjeve- og ansiktsradiologi. Krav til spesialistgodkjenning for leger gjelder ikke for enkel røntgenapparatur. Røntgenapparatur i kiropraktorvirksomhet kan betjenes av kiropraktor.ekstraoral tannrøntgenapparatur med CT-funksjon; er tannlege og for ekstraoral tannrøntgenapparatur uten CT-funksjon; er tannlege eller tannpleier.intraoral tannrøntgenapparatur; er tannlege, tannpleier eller tannhelsesekretær.nukleærmedisinsk apparatur; har helsefaglig utdanning på bachelornivå (radiograf, bioingeniør e.l.) med videreutdanning i nukleærmedisin og strålevern tilsvarende minst 15 studiepoeng, eller lege med relevant spesialistgodkjenning. Personell som skal betjene hybridapparatur skal ha kompetanse i både nukleærmedisin og radiografi.stråleterapiapparatur selvstendig; har profesjonsutdanning som stråleterapeut på bachelornivå.lysbehandlingsapparatur for gulsottbehandling av nyfødte; er autorisert helsepersonell.laser klasse 3B og 4, IPL og andre sterke ikke-ioniserende strålekilder til bruk på mennesker; er autorisert helsepersonell.\nHelsepersonell under utdanning kan betjene apparatur i ovennevnte kategorier når dette skjer som ledd i utdanningen.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 49",
+      "heading": "Opplæring i strålevern og medisinsk strålebruk",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal sørge for at personell får årlig opplæring og faglig oppdatering i strålevern og strålebruk tilpasset den enkeltes arbeidsoppgaver. Personell skal ha apparatspesifikk opplæring før ny apparatur eller nye metoder tas i klinisk bruk. Opplæringen skal være dokumentert i omfang og innhold for den enkelte arbeidstaker.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-12",
+      "provision_ref": "§ 50",
+      "heading": "Kompetanse innen medisinsk fysikk",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "I virksomheter som benytter medisinsk strålebruk som krever godkjenning etter § 9, skal det inngå realfaglig personell på masternivå med realkompetanse i den aktuelle disiplinen av medisinsk fysikk. Virksomheten skal dokumentere ansvar og arbeidsoppgaver. Antall fysikere og arbeidsoppgaver skal være tilpasset virksomhetens omfang og kompleksitet. Faglig ansvarlig fysiker skal ha ytterligere to års klinisk erfaring.\nI tilfeller hvor bruken ikke er omfattende, kan Direktoratet for strålevern og atomsikkerhet bestemme at kravet om kompetanse innen medisinsk fysikk ikke skal gjelde for bruk av enkel røntgenapparatur.",
+      "xml_path": "article#kapittel-6-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-13",
+      "provision_ref": "§ 51",
+      "heading": "Screeningvirksomhet mm.",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Screeningprogrammer og andre undersøkelsesprogrammer som bruker apparatur underlagt godkjenning jf. § 9, og som er rettet mot symptomfrie grupper, skal meldes til Direktoratet for strålevern og atomsikkerhet. Virksomheten må om nødvendig også ha godkjenning for medisinsk bruk av røntgenapparaturen i henhold til § 9 bokstav g. For øvrig gjelder følgende krav til slik virksomhet:Screeningprogrammets berettigelse skal være dokumenterbar og basere seg på vitenskapelige og samfunnsmessige vurderinger.Screeningprogrammet skal være systematisk og veldefinert i forhold til hvilken befolkningsgruppe som omfattes og ha rutiner for oppfølging av positive funn og eventuelle bifunn.Screeningprogrammet skal kunne dokumentere positive og negative funn slik at effekten av programmet kan evalueres jevnlig.Den enkelte skal informeres om stråledoser og risiko ved undersøkelsen.Teknisk og medisinsk kvalitetssikringsprogram skal foreligge.",
+      "xml_path": "article#kapittel-6-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-14",
+      "provision_ref": "§ 52",
+      "heading": "Plikt til å gi opplysninger",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "På forespørsel fra Direktoratet for strålevern og atomsikkerhet skal virksomheten gi opplysninger som er nødvendige for å overvåke medisinsk strålebruk.\nPå forespørsel fra Direktoratet for strålevern og atomsikkerhet skal virksomheten fremlegge teknisk måleprotokoll for hvert enkelt apparat, med resultater fra ferdigstilling, mottakskontroll og periodiske kontroller av utstyret, kalibreringsbevis, vedlikeholds- og servicerapporter.",
+      "xml_path": "article#kapittel-6-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-15",
+      "provision_ref": "§ 53",
+      "heading": "Utstyr, kvalitetssikring og kvalitetskontroll",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal sørge for atstrålemedisinsk apparatur og utstyr er tilpasset de respektive bruksområdene og i overenstemmelse med anerkjente akseptkriterier,det finnes et dokumenterbart system for kvalitetssikring av utstyr og apparatur,en mottakskontroll, som omfatter parametere og forhold som kan påvirke geometri, stråledose, avsatt energi og bildekvalitet, gjennomføres før strålemedisinsk apparatur og utstyr tas i klinisk bruk,det finnes et system for periodiske kvalitetskontroller av strålemedisinsk apparatur og utstyr. Kontrollen skal omfatte parametere og forhold som i bokstav c, ogdet finnes et system for vedlikehold av apparatur og utstyr.\nMottakskontroll, kvalitetskontroller og vedlikehold skal utføres på en planlagt, systematisk og dokumenterbar måte.",
+      "xml_path": "article#kapittel-6-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-16",
+      "provision_ref": "§ 54",
+      "heading": "Dosimetri og kalibrering ved ioniserende strålebehandling, røntgendiagnostikk og nukleærmedisin",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skal ha et referanseinstrument til måling av stråledose ved strålebehandling. Referanseinstrumentet skal annethvert år kalibreres mot nasjonal normal. Strålekilder som brukes til strålebehandling, skal være kalibrert mot referanseinstrumentet for de strålekvalitetene som brukes klinisk. Kalibrering av strålekilder til strålebehandling skal gjøres ved mottakskontroll, etter vedlikehold av betydning for dosimetrien og etter fastsatte prosedyrer. Kalibrering skal utføres etter anerkjente internasjonale eller nasjonale protokoller der det finnes.\nUtstyr som gir et mål på pasientdose i røntgendiagnostikk og nukleærmedisin skal kalibreres og kontrolleres jevnlig.",
+      "xml_path": "article#kapittel-6-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-17",
+      "provision_ref": "§ 55",
+      "heading": "Uhell og uønskede hendelser",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Virksomheten skalgjennomføre tiltak for å minimere risikoen for uhell og uønskede hendelser i forbindelse med medisinsk strålebruk, ogha et avviks- og læringssystem for registrering, analyse og oppfølging av uhell og uønskede hendelser innen medisinsk strålebruk, og om nødvendig utføre korrigerende tiltak for å hindre gjentakelse av slike hendelser.",
+      "xml_path": "article#kapittel-6-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-18",
+      "provision_ref": "§ 56",
+      "heading": "Røntgenapparatur og dosemonitorering",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Ved røntgendiagnostikk og intervensjon skal virksomheten sørge for atrøntgenapparatur har utstyr som gir et mål på stråledosen til pasient,intervensjonsutstyr viser relevant doseinformasjon under undersøkelsen,CT, intervensjonsutstyr og ny apparatur har mulighet for automatisk overføring av doseinformasjon,det etableres et system for monitorering av individuelle pasientdoser som støtter analyse og rapportering. Dosemonitoreringen skal være basert på automatisk doseoverføring, ogstråledose til pasient skal registreres i pasientjournalen.",
+      "xml_path": "article#kapittel-6-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-19",
+      "provision_ref": "§ 57",
+      "heading": "Ekstern strålebehandling og brachyterapi",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Ved bruk av ioniserende stråling for å helbrede sykdom eller forebygge og lindre symptomer skal virksomheten sørge for atstrålebehandlingen planlegges og gjennomføres etter faglig forsvarlige og dokumenterte prosedyrer med hensyn til beskrivelse av målvolum, risikoorgan, fraksjonering og doser,den individuelle behandlingsplanen er godkjent av onkolog og fysiker før behandlingsstart,strålebehandlingen gjennomføres i henhold til behandlingsplanen,behandlingen dokumenteres og kan rekonstrueres på bakgrunn av dokumentasjonen, ogat virksomheten har en faglig ansvarlig fysiker.",
+      "xml_path": "article#kapittel-6-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-20",
+      "provision_ref": "§ 58",
+      "heading": "Nukleærmedisinsk diagnostikk og behandling",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Ved nukleærmedisinsk diagnostikk og behandling skal virksomheten bestemme og verifisere mengden radioaktivitet som skal tilføres pasient.\nVed nukleærmedisinsk behandling skal virksomheten gjøre en individuell doseplanlegging.\nVirksomheten skal føre administrert aktivitet av radiofarmaka, radionuklide og kjemisk form, administrert form til radiofarmaka i pasientens journal.",
+      "xml_path": "article#kapittel-6-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-21",
+      "provision_ref": "§ 59",
+      "heading": "Behandling med ikke-ioniserende strålekilder",
+      "path": [
+        "Kapittel VI. Bestemmelser om medisinsk strålebruk"
+      ],
+      "text": "Behandling med ikke-ioniserende strålekilder for å forebygge og helbrede sykdom eller lindre symptomer, skal skje etter faglig forsvarlige og dokumenterte prosedyrer. Det samme gjelder for kosmetisk behandling.\nVed behandling med ikke-ioniserende strålekilder skal det være et system for dosimetri basert på en vurdering eller kontrollmåling av strålekildens utbytte.",
+      "xml_path": "article#kapittel-6-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 60",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel VII. Administrative bestemmelser"
+      ],
+      "text": "Virksomheten skal gi Direktoratet for strålevern og atomsikkerhet de opplysninger som er nødvendige for å kunne gjennomføre tilsyn og oppfølging av vedtak fattet med hjemmel i forskriften.\nDirektoratet for strålevern og atomsikkerhet velger selv hvem av virksomhetens representanter som ved tilsynet skal gi de nødvendige opplysningene.\nDirektoratet for strålevern og atomsikkerhet skal gi virksomheten skriftlig rapport etter tilsynet.\nDirektoratet for strålevern og atomsikkerhets tilsynsmyndighet for solarier, herunder myndighet til å treffe nødvendige enkeltvedtak, delegeres til kommunene, jf. lov 12. mai 2000 nr. 36 om strålevern § 18.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 60a",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel VII. Administrative bestemmelser"
+      ],
+      "text": "Direktoratet for strålevern og atomsikkerhet kan ilegge den som forsettlig eller uaktsomt overtrer §§ 5, 9, 10 og 13 til 59 i denne forskriften, overtredelsesgebyr. Nærmere regler om ileggelse og utmåling av overtredelsesgebyr følger av forskrift 2. november 2025 nr. 2169 om ileggelse og utmåling av overtredelsesgebyr etter strålevernloven.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 61",
+      "heading": "Tilbakehold, beslag og destruksjon av laserpekere",
+      "path": [
+        "Kapittel VII. Administrative bestemmelser"
+      ],
+      "text": "Laserpekere som importeres i strid med § 10 kan tilbakeholdes, beslaglegges og destrueres av tollmyndighetene.\nVirksomheter som utfører forsendelse og tollbehandling skal varsle den som har importert laserpekeren om at laserpekeren er tilbakeholdt, årsaken til dette, og at den kan beslaglegges og destrueres.\nDen som har importert laserpekeren kan uttale seg innen 10 dager etter at varsel er sendt.\nHar virksomheten som utfører forsendelse og tollbehandling oppgitt en elektronisk adresse for mottak av elektroniske tilbakemeldinger, er tilsvaret rettidig fremsatt dersom det er kommet frem til denne adressen innen fristens utløp. Sendes tilsvaret med postoperatør er tilsvaret rettidig fremsatt om det er postlagt før fristens utløp.\nDersom den som har importert laserpekeren ikke uttaler seg innen fristen, kan laserpekeren beslaglegges og destrueres. Forvaltningsloven § 23, § 24, § 25 og § 27 kommer ikke til anvendelse i slike tilfeller.\nDersom den som har importert laserpekeren uttaler seg i saken innen fristen som nevnt i tredje ledd, skal Direktoratet for strålevern og atomsikkerhet fatte enkeltvedtak om at laserpekeren skal utleveres eller skal beslaglegges og destrueres.\nDirektoratet for strålevern og atomsikkerhet kan fatte vedtak om beslag og destruksjon av ulovlige laserpekere i omløp i Norge. Saksbehandlingsreglene i andre til sjette ledd gjelder tilsvarende så langt det passer.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 62",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel VII. Administrative bestemmelser"
+      ],
+      "text": "Dersom en eller flere av forskriftens bestemmelser vil virke sterkt urimelige, kan Direktoratet for strålevern og atomsikkerhet gi dispensasjon.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 63",
+      "heading": "Endringer i forskriften",
+      "path": [
+        "Kapittel VII. Administrative bestemmelser"
+      ],
+      "text": "Departementet kan fastsette endringer i denne forskriften.\nDirektoratet for strålevern og atomsikkerhet kan fastsette og endre unntaksgrenser i forskriftens vedlegg. Ved endring av unntaksgrenser, skal Direktoratet fastsette nødvendige overgangsordninger.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 64",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel VIII. Sluttbestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2017 med unntak av § 32 første ledd bokstav b og § 33 første ledd fjerde punktum som trer i kraft 1. januar 2018 og § 56 første ledd bokstav c og d som trer i kraft 1. januar 2020. Fra 1. januar 2017 oppheves forskrift 29. oktober 2010 nr. 1380 om strålevern og bruk av stråling (strålevernforskriften).",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 65",
+      "heading": "Overgangsbestemmelser",
+      "path": [
+        "Kapittel VIII. Sluttbestemmelser"
+      ],
+      "text": "Virksomhet som krever godkjenning etter § 9 bokstav g, o og t i denne forskriften og som ikke har eksisterende godkjenning, skal søke Direktoratet for strålevern og atomsikkerhet om godkjenning så snart som mulig og senest innen 1. januar 2018.\nDirektoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet som nevnt i første ledd likevel må søke om godkjenning innen en kortere frist og bestemme at virksomheten er ulovlig etter en fastsatt dato, dersom pålegget ikke etterkommes.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2005-12-16-1510",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om føring av register til bruk i forbindelse med kontroll av beregning og utbetaling av kontantstøtte.",
+  "short_title": "Forskrift om føring av kontantstøtteregister",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2006-01-01",
+  "lovdata_refid": "forskrift/2005-12-16-1510",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-12-16-1510",
+  "raw_xml_sha256": "c8119c2fdf52eb30a78b09db15f89ab5fdadba4bd9da6fd961184de434cab81b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Plikt til å føre register",
+      "path": [],
+      "text": "Kommunen har plikt til å opprette og føre register til bruk for trygdekontorene i forbindelse med kontroll av beregning og utbetaling av kontantstøtte etter kontantstøtteloven. Registeret kan samkjøres mot trygdekontorets register over mottakere av kontantstøtte.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Registerets innhold",
+      "path": [],
+      "text": "Registeret skal inneholde opplysninger om:navn, fødselsnummer og adresse til barn i alderen 1 til 3 år som har barnehageplass med offentlig driftstilskuddnavn, fødselsnummer og adresse til den/de barnet bor fast hosavtalt ukentlig oppholdstid i barnehagenbarnehagens navn, adresse og organisasjonsnummertidspunktet for når barnet begynte i barnehagen, når det eventuelt fikk endret oppholdstiden eller sluttet i barnehagen.\nDet er ikke tillatt å registrere andre opplysninger enn de som er nevnt i bokstav a-e.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Føring og sikring av registeret",
+      "path": [],
+      "text": "Registerføringen skal skje på bakgrunn av innsamlede opplysninger fra barnehageeierne. Registeret skal ajourføres månedlig. Kommunen fører kontroll med opplysninger fra barnehageeierne.\nAlle registrerte opplysninger skal oppbevares fram til barnet fyller 6 år. Opplysningene skal slettes fra registeret fra måneden etter at barnet fyller 6 år.\nDe registrerte har rett til å få opplyst hvilke opplysninger om dem selv eller deres barn som er registrert i registeret. Utlevering av opplysninger fra registeret til andre kan bare skje etter skriftlig avtale med den registrerte eller dennes foresatte eller dersom utleveringen er hjemlet i lov.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2006.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

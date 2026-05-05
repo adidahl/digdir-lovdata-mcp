@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2023-12-01-1943",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om anvendelse av lov 15. desember 1950 nr. 7 om særlige rådgjerder under krig, krigsfare og liknende forhold for Svalbard",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2023-12-01",
+  "lovdata_refid": "forskrift/2023-12-01-1943",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-12-01-1943",
+  "raw_xml_sha256": "b27a6d80fc83aecbddbe31b25246bd157d9ba675f84a1aaa79ebf10658790f4d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelse for Svalbard",
+      "path": [],
+      "text": "Loven gjelder for Svalbard.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Stedlig tilpasning",
+      "path": [],
+      "text": "Sysselmesteren på Svalbard har samme myndighet som statsforvalteren.\nLongyearbyen lokalstyre har samme myndighet som en kommune.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

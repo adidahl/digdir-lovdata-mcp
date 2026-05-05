@@ -1,0 +1,82 @@
+{
+  "id": "FOR-2010-05-18-708",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning og tidsfrister i behandlingen av akvakultursøknader",
+  "short_title": "Forskrift om behandling av akvakultursøknader",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2010-09-01",
+  "last_change_in_force": "2024-02-02",
+  "last_changed_by": "forskrift/2024-02-02-168",
+  "lovdata_refid": "forskrift/2010-05-18-708",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-05-18-708",
+  "raw_xml_sha256": "a8e7a45b159a82ada091eaef44a840300479d6b01dfdc031178f092c0a6d7c49",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal medvirke til en effektiv søknadsbehandling av lokaliteter til akvakultur etter akvakulturloven. Forskriften regulerer kun forholdet mellom offentlige myndigheter, og innebærer ikke utvidede rettigheter eller plikter for private.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for søknadsbehandling av klarering av lokaliteter som foretas av tildelingsmyndigheten og andre myndigheter som skal gi uttalelser eller nødvendige tillatelser, jf. akvakulturloven § 6, § 15 og § 16, samt for kommuners behandling av søknader som oversendes til uttalelse etter laksetildelingsforskriften § 8-2 eller tildelingsforskriften for andre arter § 9.\nForskriften gjelder ikke for søknadsbehandling av klarering av lokaliteter utenfor én nautisk mil utenfor grunnlinjene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "Tildelingsmyndigheten: Fylkeskommunen lokaliteten søkes plassert i.\nSektormyndigheter: Forvaltningsmyndighet for lovene nevnt i akvakulturloven § 6 d) med unntak av lov 24. november 2000 nr. 82 om vassdrag og grunnvann.\nKomplett søknad: innebærer at de krav som følger av søknadsskjema med veileder er oppfylt, herunder at en uttalelse om konsesjonsfritak eller tillatelse etter vannressursloven også foreligger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Frister for behandling",
+      "path": [],
+      "text": "Tildelingsmyndigheten skal registrere tidsbruken fra mottakelse av komplett søknad og frem til sluttbehandling. Tildelingsmyndigheten skal innen to uker fra mottakelse av komplett søknad videresende denne til kommunen det søkes lokalisering i, sektormyndighetene og andre myndigheter som skal gi uttalelser.\nMerknader fra offentlig utlegging og eventuell uttalelse fra kommunen skal være tildelingsmyndigheten i hende senest tolv uker etter at kommunen mottok søknaden.\nTildelingsmyndigheten skal umiddelbart etter utløpet av tolvukersfristen i annet ledd ettersende merknader fra offentlig utlegging og eventuell kommunal uttalelse til sektormyndighetene og til andre myndigheter som kan gi uttalelser.\nSektormyndighetene skal behandle søknaden i løpet av fire uker fra mottakelsen av merknader mv. etter tredje ledd. Dersom statsforvalteren kommer til at den omsøkte virksomheten ikke trenger tillatelse etter forurensningsloven, skal statsforvalteren skriftlig underrette tildelingsmyndigheten om dette. Dersom kommunen ikke overholder fristen i annet ledd og den enkelte sektormyndighet vurderer at saken er tilstrekkelig opplyst, kan denne myndigheten behandle søknaden uten å vente på merknader mv. etter tredje ledd.\nUttalelser fra andre myndigheter skal være tildelingsmyndigheten i hende senest fire uker etter at de mottok merknader mv. etter tredje ledd.\nTildelingsmyndigheten skal innen fire uker fra mottakelse av sektormyndighetenes vedtak eller uttalelse fra statsforvalteren om at virksomheten ikke trenger tillatelse etter forurensningsloven, sluttbehandle søknaden. Fristen gjelder ikke dersom sektormyndighetenes vedtak er påklaget før vedtak er fattet av tildelingsmyndigheten.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utsatt saksbehandlingsfrist for statsforvalteren i særlige tilfeller",
+      "path": [],
+      "text": "Statsforvalteren kan skriftlig anmode fylkeskommunen om inntil 4 ukers fristforlengelse i særlige tilfeller. Anmodningen skal sendes fylkeskommunen senest 1 uke før statsforvalterens frist etter § 4 fjerde eller femte ledd utløper.\nFylkeskommunen skal innen 1 uke etter mottak av statsforvalterens anmodning svare statsforvalteren, samt sende kopi til søker, lokaliseringskommunen og øvrige sektormyndigheter.\nDersom det fortsatt foreligger særlige tilfeller kan statsforvalteren anmode fylkeskommunen om ytterligere inntil 4 ukers fristforlengelse. Statsforvalteren må sende anmodning om ytterligere fristforlengelse senest 1 uke før den utsatte fristen utløper.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Klagebehandling av vedtak av sektormyndighetene",
+      "path": [],
+      "text": "Sektormyndighetene skal behandle klager i løpet av 12 uker, og sende avgjørelsen til tildelingsmyndigheten.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Avsluttende bestemmelser",
+      "path": [],
+      "text": "Oversittelse av tidsfristene i denne forskriften har ikke betydning for gyldigheten av sektormyndighetenes eller tildelingsmyndighetenes vedtak, og gir ikke rett til erstatning eller lignende for private.\nLov 17. juni 2005 nr. 79 om akvakultur kapittel 7 gjelder ikke.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. september 2010.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

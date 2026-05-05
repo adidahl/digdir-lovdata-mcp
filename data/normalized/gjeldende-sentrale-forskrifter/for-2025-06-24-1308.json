@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2025-06-24-1308",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kontroll av rutegående roro- og hurtiggående passasjerskip",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2025-08-01",
+  "lovdata_refid": "forskrift/2025-06-24-1308",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-06-24-1308",
+  "raw_xml_sha256": "c85503aebd58ae0a2f1d0a98bee861cd11a65e408294c95f12dbd79277fe170a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder for norske roro-passasjerskip og hurtiggående passasjerskip som opererer i rutetrafikk:mellom norsk havn og havn i et land utenfor EØS-området, ellerinnenriks i Norge med klasse A etter forskrift av 28. mars 2000 nr. 305 om besiktelse, bygging og utrustning av passasjerskip.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kontroll før skipet settes i rute",
+      "path": [],
+      "text": "Skipet kan ikke settes inn i rute før kontroll i samsvar med vedlegg 1 og 2 til forskriften her er gjennomført av Sjøfartsdirektoratet. Rederiet skal gi Sjøfartsdirektoratet dokumentasjon på samsvar med kravene i vedlegg 1 en måned før kontrollen.\nI kontrollen etter første ledd kan Sjøfartsdirektoratet ta hensyn til sammenfallende sjekkpunkter i det årlige fornyelsestilsynet, dersom fornyelsestilsynet ble utført i løpet av de seks foregående månedene. Tilsvarende kan Sjøfartsdirektoratet ta hensyn til tilsyn utført på det samme skipet i annen rute som omfattes av direktiv (EU) 2017/2110.\nKontroll etter første ledd kan utsettes inntil en måned etter oppstart i ruten dersomdet som følge av uforutsette omstendigheter er behov for å sette skipet inn på ruten for å opprettholde tilbudet, ogskipet etter dokumentkontroll og en visuell inspeksjon antas å oppfylle nødvendige krav til sikker operasjon.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Årlig kontroll ved kai og mens skipet er underveis",
+      "path": [],
+      "text": "Skipet skal gjennomgå årlig kontroll for å verifisere samsvar med kravene i vedlegg 2. Kontrollen kan gjennomføres samtidig eller i forlengelsen av det årlige sertifikattilsynet, jf. forskrift om tilsyn og sertifikat for norske skip og flyttbare innretninger § 7 eller § 19.\nMellom fire og åtte måneder etter kontroll som nevnt i første ledd eller § 2 første ledd, skal skipet gjennomgå kontroll mens det er underveis for å verifisere samsvar med kravene i vedlegg 3.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Kontroll etter reparasjon, ombygging, bytte av klasseselskap mv.",
+      "path": [],
+      "text": "Skipet skal gjennomgå kontroll for å verifisere samsvar med kravene i vedlegg 2 etter reparasjon, større endringer, ved bytte av rederi eller ved bytte av klasseselskap. Sjøfartsdirektoratet kan unnta skipet fra kravet om kontroll etter første punktum hvis tilsynshistorikken tilsier det og endringene ikke påvirker operasjonen av skipet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. august 2025.\nFra samme tidspunkt oppheves forskrift 20. mars 2001 nr. 373 om kontroll med roroferger, hurtiggående passasjerfartøyer uansett flagg i rutetrafikk (vertsstatskontroll).",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

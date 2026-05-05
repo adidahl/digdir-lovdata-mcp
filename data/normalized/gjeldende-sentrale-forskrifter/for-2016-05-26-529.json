@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2016-05-26-529",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om økt beregningsgrunnlag for gifte og samboende uføretrygdede som mottar en uføretrygd omregnet fra uførepensjon",
+  "short_title": "Forskrift om økt beregningsgrunnlag for uføretrygdede",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2016-09-01",
+  "lovdata_refid": "forskrift/2016-05-26-529",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-05-26-529",
+  "raw_xml_sha256": "67a3139fbd3a8655c57ea227e3bcaa589118b771c2e8c62fe14c038f8d9dc1d5",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområdet",
+      "path": [],
+      "text": "Forskriften gir utfyllende bestemmelser om økning i uføretrygd med virkning fra 1. september 2016 til personer som hadde rett til uførepensjon per 31. desember 2014, og som da levde sammen med en ektefelle (se folketrygdloven § 1-5) eller med en samboer i et samboerforhold som hadde vart i minst 12 av de siste 18 månedene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Uføretrygd",
+      "path": [],
+      "text": "Uføretrygden ytes med 66 prosent av grunnlaget fastsatt etter § 3. Bestemmelsene i folketrygdloven kapittel 12 gjelder for en omregnet uføretrygd, med unntak av § 12-11. Trygdetiden og uføregraden som er fastsatt for beregning av uførepensjonen per 31. desember 2014 legges til grunn.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Økning av beregningsgrunnlaget",
+      "path": [],
+      "text": "Grunnlaget fastsatt etter forskrift 3. juli 2014 nr. 947 om omregning av uførepensjon til uføretrygd § 3 tredje ledd skal økes med en sum tilsvarende 0,05 ganger grunnbeløpet dividert med 0,66. Det fastsettes likevel ikke et nytt beregningsgrunnlag for personer som var gift eller samboer per 31. desember 2014, og som fikk omregnet uførepensjon til uføretrygd etter forskrift 3. juli 2014 nr. 947 § 3 første ledd siste punktum.\nDet er et vilkår at uføretrygden er en omregnet uførepensjon. Personer som per 1. september 2016 mottar en uføretrygd som fullt ut er beregnet etter folketrygdloven kapittel 12 fordi det er fastsatt et nytt uføretidspunkt, jf. folketrygdloven § 12-8 andre ledd og § 12-10 fjerde ledd, får likevel fastsatt et nytt beregningsgrunnlag etter første ledd. Dersom grunnlaget etter første ledd er høyest, skal dette legges til grunn for uføretrygden.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften i kraft 1. september 2016.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

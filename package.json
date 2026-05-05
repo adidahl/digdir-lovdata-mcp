@@ -1,0 +1,58 @@
+{
+  "name": "digdir-norwegian-law-mcp",
+  "version": "0.1.0",
+  "description": "Digdir Norwegian Law MCP server",
+  "type": "module",
+  "main": "dist/index.js",
+  "bin": {
+    "digdir-norwegian-law-mcp": "dist/index.js"
+  },
+  "files": [
+    "dist",
+    "data/database.db"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "dev": "node --import tsx src/index.ts",
+    "dev:http": "node --import tsx src/http-server.ts",
+    "start": "node dist/index.js",
+    "start:http": "node dist/http-server.js",
+    "build:db": "node --import tsx scripts/build-db.ts",
+    "check-updates": "node --import tsx scripts/check-updates.ts",
+    "publicdata:list": "node --import tsx scripts/publicdata-list.ts",
+    "publicdata:sync": "node --import tsx scripts/publicdata-sync.ts",
+    "publicdata:normalize": "node --import tsx scripts/publicdata-normalize.ts",
+    "publicdata:diff": "node --import tsx scripts/publicdata-diff.ts",
+    "lovtidend:normalize": "node --import tsx scripts/lovtidend-normalize.ts",
+    "lovtidend:diff": "node --import tsx scripts/lovtidend-diff.ts",
+    "smoke:corpus": "node --import tsx scripts/smoke-corpus.ts",
+    "smoke:http": "node --import tsx scripts/smoke-http.ts",
+    "smoke:stdio": "node --import tsx scripts/smoke-stdio.ts",
+    "test": "vitest run",
+    "validate": "npm run build && npm test && npm run smoke:corpus && npm run smoke:stdio && npm run smoke:http"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "norwegian-law",
+    "norway",
+    "legal",
+    "lovdata"
+  ],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0",
+    "better-sqlite3": "^12.9.0"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/jsdom": "^28.0.1",
+    "@types/node": "^25.6.0",
+    "fast-xml-parser": "^5.7.2",
+    "jsdom": "^29.1.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3",
+    "vitest": "^4.1.5"
+  }
+}

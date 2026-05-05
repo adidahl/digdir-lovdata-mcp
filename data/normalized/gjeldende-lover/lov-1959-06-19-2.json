@@ -1,0 +1,61 @@
+{
+  "id": "LOV-1959-06-19-2",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om avgifter vedrørende motorkjøretøyer og båter (motorkjøretøy- og båtavgiftsloven)",
+  "short_title": "Motorkjøretøy- og båtavgiftsloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Skatte- og avgiftsrett > Særavgifter > Bilavgifter Transport og kommunikasjoner > Havner Transport og kommunikasjoner > Veitrafikk",
+  "date_in_force": "1959-07-01",
+  "last_change_in_force": "2017-01-01",
+  "last_changed_by": "lov/2016-05-27-14 fra 2017-01-01, lov/2016-06-17-34",
+  "lovdata_refid": "lov/1959-06-19-2",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1959-06-19-2",
+  "raw_xml_sha256": "b4ce16a6f03f046d16c8609d0cc2cbff9f2c89e75709edd40d7480e3e5cc507f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "For så vidt det til statskassen besluttes pålagt avgifter vedrørende motorkjøretøyer, tilhengere til motorkjøretøyer eller båter, kan Kongen i forskrift gi nærmere regler om beregning og kontroll.\nDet som i denne lov er fastsatt vedrørende motorkjøretøyer gjelder også tilhengere til motorkjøretøyer.\nKongen kan påby at motorkjøretøyer og båter forsynes med måleapparater, telleapparater, avgiftsmerker o.l. som finnes påkrevd av hensyn til beregning og kontroll av avgiften. Kongen gir nærmere bestemmelser om godkjenning, montering og kontroll av slikt utstyr. Utgiftene til anskaffelse, montering og vedlikehold av utstyret dekkes av vedkommende eier.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "For avgift og renter på motorkjøretøyer eller båter eller i samband med bruk av motorkjøretøy eller båt som omfattes av denne lov, er eieren ansvarlig.\nFor avgift som oppstår ved førstegangsregistrering her i landet er likevel den som melder kjøretøyet til registrering ansvarlig for avgiften. Departementet kan i forskrift gi utfyllende bestemmelser om dette.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "path": [],
+      "text": "Kongen gir nærmere bestemmelser om plikt forvedkommende registreringsmyndighet til å gi oppgaver over registrerte motorkjøretøyer og båter i distriktetimportører og forhandlere og forsikringsselskaper til å gi oppgaver over eierforhold og type av båt og motor – spesifikasjoner av båt og motor – herunder pris på båt og motor, eventuelt forsikringssum – vedrørende samtlige båter og båtmotorer som er forhandlet eller forsikret,til vedkommende avgiftsmyndighet for etablering og vedlikehold av register og for utskrivning av avgiften.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "path": [],
+      "text": "Hvis bruk av motorkjøretøy eller båt ved offentlig tiltak hindres eller vesentlig innskrenkes, kan vedkommende departement helt eller delvis frafalle avgift for den tid hindringen eller innskrenkingen gjelder.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "path": [],
+      "text": "For motorkjøretøy eller båt som er solgt med forbehold om eiendomsrett for selgeren, regnes kjøperen som eier med hensyn til bestemmelser gitt i eller i medhold av denne lov.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "path": [],
+      "text": "Denne lov trer i kraft fra den tid1 Kongen bestemmer.",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

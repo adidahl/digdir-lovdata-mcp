@@ -1,0 +1,154 @@
+{
+  "id": "LOV-1947-05-02-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov um prisereglar og prisedomstolar",
+  "short_title": "Lov um prisereglar og prisedomstolar",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "1947-05-02",
+  "last_change_in_force": "2021-06-01",
+  "last_changed_by": "lov/2021-05-07-34 fra 2021-06-01",
+  "lovdata_refid": "lov/1947-05-02-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1947-05-02-1",
+  "raw_xml_sha256": "d4e4480ac0766150f0bc5fa664e78c3261628a1851383664cfc52a20cf5efa98",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Kapitel I. Prisereglar."
+      ],
+      "text": "Når eit skip er god prise skal prisedomstolen døma at det er forbrote til staten.\nEit skip som er handelsskip og som høyrer heime i fiendestat er god prise kva fart det so gjeng i.\nEit skip som er handelsskip og som høyrer heime i nøytral stat er ikkje god prise utan dethar brote eller freista bryta blokade som er kunngjort av Noreg eller av stat som er i krig på same sida som Noreg,fører krigskontrabande, jfr. § 2, likevel so at domstolen kan lata vera prisedøma skipet soframt umstendi i saki er for det.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Kapitel I. Prisereglar."
+      ],
+      "text": "Krigskontrabande er:Våpn, ammunisjon, krigsfly, stridsvogner og anna som etter sitt slag vert nytta til hjelpemiddel i krig eller til å laga slikt hjelpemiddel av, og som er på veg til fiendeland eller til umkverve som fienden har hersett,slike forsyningar og hjelpemiddel av alle slag som det er tanken at fiendekrigsmakt skal nytta,ting elles som vert rekna for krigskontrabande etter millomfolkeleg skikk og bruk.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Kapitel I. Prisereglar."
+      ],
+      "text": "Når last umbord på skip er god prise skal prisedomstolen døma at ho er forbroti til staten.\nLast umbord på skip er god prise soframt ho er fiendeeige, likevel so at fiendelast på nøytralt skip ikkje kan prisedømast utan det er i samsvar med millomfolkeleg skikk og bruk.\nLast som er nøytral eige er god prise soframt skipet har brote eller freista bryta slik blokade som er nemnt i § 1 a eller er krigskontrabande.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Kapitel I. Prisereglar."
+      ],
+      "text": "Departementet som har med det å gjera, avgjer um offiserar og mannskap på skipet som tok prisa, skal få part i den vinning som fell på staten.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Når ei prise er teki, skal dei militære styremaktene som har med det, utan drygjing få sak reist for prisedomstol.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Prisedomstol er i fyrste instans tingretten.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Prisesak skal reisast på den staden prisa er ført inn til, eller der skipet eller godset som saki gjeld, er på den tid sak vert reist.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "For sakfyrehavinga gjeld reglane i tvisteloven, med dei avvik som er fastsett i denne lov.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Statsforvaltaren avgjer kven som skal føra saki for staten, anten ein advokat eller ein embetsmann i påtalemakti.\nMøter ikkje motparten, nemner retten upp ein sakførar for han.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Tilsegjing og melding til ein part som ikkje har kjend tilhaldstad her i riket, skal gjevast på den måten som retten meiner er forsvarleg etter tilhøvi i det einskilde tilfellet. Det same gjeld når det er uråd å nå parten på vanleg måte.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Ei prisesak skal domstolen fremja fyrst det er råd. Rettsferi gjeld ikkje. Mekling i forliksråd skal det ikkje vera.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Skip og last skal liggja tryggt forvart til det er sagt endeleg dom i saki dersom departementet som har med det, ikkje fastset noko anna i serhøve.\nDet som er fastsett i fyrste leden stengjer ikkje for at skip og last vert oreigna etter dei reglane som gjeld for norsk eigedom.\nLast som ikkje toler liggja, kan retten taka ved skal seljast gjennom namsmyndigheten etter reglane om tvangssal så langt dei høver eller på annen forsvarleg måte. Bestemmelsene i tvangsfullbyrdelseslova § 8-16 fyrste leden gjelder ikkje i dette høvet. Like eins kan domstolen taka ved etter at den militære styremakt som har med det å gjera, har sagt si meining, at skip eller last skal seljast, so framt domarane meiner det er fåre for at fienden kan få tak i eller få høve til å øydeleggja skipet eller lasti.\nReglane i fyrre leden gjeld sameleis når eigaren ikkje hentar skip eller last som er frigjevne i endeleg dom. I slike høve kan skip og last like eins seljast soframt eigaren ikkje har henta dei innan rimeleg tid etter frigjevinga.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "path": [
+        "Kapitel II. Rettargangsreglar o.a."
+      ],
+      "text": "Når skip eller last vert oreigna eller selde etter reglane i § 12 andre til fjorde leden, skal retten setja salssumen inn i Noregs Bank eller um det ikkje let seg gjera, setja pengane fast på annan måte etter beste skyn. Er salet gjort under saki, skal den som har rett til pengane få dei når det er sagt endeleg dom.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 14",
+      "path": [
+        "Kapitel III. Yvergangs- og innføringsreglar."
+      ],
+      "text": "– – –",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 15",
+      "path": [
+        "Kapitel III. Yvergangs- og innføringsreglar."
+      ],
+      "text": "Denne lovi tek til å gjelda straks.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

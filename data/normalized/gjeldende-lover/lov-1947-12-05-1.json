@@ -1,0 +1,61 @@
+{
+  "id": "LOV-1947-12-05-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om boikott [boikottloven]",
+  "short_title": "Boikottloven – boil",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Arbeidsrett > Arbeidsforhold. Sysselsetting Arbeidsrett > Arbeidstvister",
+  "date_in_force": "1948-01-16",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1947-12-05-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1947-12-05-1",
+  "raw_xml_sha256": "40afc80c3fce5af0c0fec894d72bcac053260f38e11dda587cb402bf8647a1f1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Med boikott mener denne lov en oppfordring, avtale eller liknende tiltak som for å tvinge, skade eller straffe noen tar sikte på å hindre eller vanskeliggjøre en persons eller virksomhets økonomiske samkvem med andre.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Boikott er rettsstridig:når den har et rettsstridig formål eller ikke kan nå sitt mål uten å føre til et rettsbrudd;når den blir foretatt eller holdt vedlike ved rettsstridige midler eller på en unødig opphissende eller krenkende måte eller ved usanne eller misvisende opplysninger;når den vil skade vesentlige samfunnsinteresser eller virke utilbørlig, eller når det ikke er noe rimelig forhold mellom den interesse som skal fremmes ved boikotten og den skade som den vil føre med seg;når den blir foretatt uten at den som boikotten er rettet mot har fått rimelig varsel, eller uten at det på forhånd overfor ham og dem som en boikottoppfordring er rettet til, er gjort fyllestgjørende rede for grunnen til boikotten.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Er varsel om boikott gitt, kan søksmål reises for å få avgjort om den er lovlig.\nMegling i forliksrådet er ikke nødvendig i saker om lovligheten av boikott eller om skadebot for tap som er voldt ved boikott.\nEr boikott foretatt eller varslet, kan retten etter krav fra den som boikotten er rettet mot, ved midlertidig forføyning sette forbud mot boikotten til det er avgjort om den er lovlig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Når retten skal fastsette skadebot for ulovlig boikott, skal den legge vekt ikke bare på størrelsen av skaden, men også på den utviste skyld og på om den skadelidende selv har vist mislig forhold. Under forhold som er særlig formildende, kan skadeboten falle helt bort.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Den som setter i verk boikott som er rettsstridig etter denne lov, straffes med bøter eller med fengsel opp til 3 måneder. Straffeloven § 251 gjelder ikke forhold som rammes av loven.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Denne lov trer i kraft den dag1 Kongen fastsetter.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

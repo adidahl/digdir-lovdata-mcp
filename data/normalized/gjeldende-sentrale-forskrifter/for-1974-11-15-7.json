@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1974-11-15-7",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra lov av 5. april 1974 nr. 11 om aksjeemisjoner.",
+  "short_title": "Forskr. om unntak fra lov om aksjeemisjoner",
+  "department": "Finansdepartementet",
+  "date_in_force": "1975-01-01",
+  "lovdata_refid": "forskrift/1974-11-15-7",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1974-11-15-7",
+  "raw_xml_sha256": "8ce9c27a283fcfc6e97fce072a65eeb09d79ec471c697e18e70f3d122bf42732",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Innbydelser til tegning av aksjer skal være unntatt fra lovens regler for så vidt angår følgende selskaper:Banker undergitt lov av 24. mai 1961 nr. 2 om forretningsbanker.Forsikringsselskaper undergitt lov av 29. juli 1911 nr. 1 om forsikringsselskaper.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innbydelser til tegning av aksjer hvor aksjonærene har fortrinnsrett til tegning av den nye kapital, skal være unntatt fra lovens regler, når aksjene er børsnoterte og aksjeutvidelsen ikke overstiger selskapets aksjekapital.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Tegningsinnbydelser som inneholder det vilkår at hele det tegnede beløp skal deponeres samtidig med tegningen, skal være unntatt fra lovens regler.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft 1. januar 1975.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

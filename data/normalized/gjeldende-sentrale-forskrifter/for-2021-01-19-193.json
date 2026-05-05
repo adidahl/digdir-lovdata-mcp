@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2021-01-19-193",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om rekneskapsføring av pensjonsutgifter for Den norske kyrkja (rettssubjektet Den norske kyrkja)",
+  "short_title": "Forskrift om rekneskapsføring av pensjonsutgifter for Den norske kyrkja",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2021-02-01",
+  "lovdata_refid": "forskrift/2021-01-19-193",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-01-19-193",
+  "raw_xml_sha256": "831b13f5d877a981f72550695c546a3d019e546c8a86d72d32619ded38b8e493",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Den norske kyrkja skal ikkje balanseføre pensjonsplikter som er forsikra. Pensjonspremien skal reknast som pensjonskostnad.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Pensjonspliktene skal gå fram av note til rekneskapen. Noten skal gje all relevant informasjon om grunnlaget og føresetnadene for pensjonspliktene og for endringar i desse, og basere seg på dei spesifikasjonskrava som følgjer av Norsk Rekneskapsstandard 6 om pensjonskostnader. Departementet kan stille nærare krav til rekneskapsinformasjonen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskrifta gjeld frå 1. februar 2021. Frå same tid blir forskrift 4. oktober 2016 nr. 1167 om rekneskapsføring av pensjonsutgifter for Den norske kyrkja (rettssubjektet Den norske kyrkja) oppheva.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

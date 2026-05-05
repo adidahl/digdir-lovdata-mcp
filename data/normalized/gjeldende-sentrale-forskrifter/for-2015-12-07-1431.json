@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2015-12-07-1431",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om jordskiftedommerfullmektigers myndighet",
+  "short_title": "Forskrift om jordskiftedommerfullmektigers myndighet",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2016-01-01",
+  "lovdata_refid": "forskrift/2015-12-07-1431",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-12-07-1431",
+  "raw_xml_sha256": "4ab1cc8bd59626b89244d1c807877f6e454960fa8e3eb99790aa2a466b0518bb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Myndighet etter denne forskrift tildeles jordskiftedommerfullmektigen av domstolleder ved den jordskifterett hvor jordskiftedommerfullmektigen er ansatt. Fullmakten skal være skriftlig og oppbevares i jordskiftedommerfullmektigens personalmappe.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Jordskiftedommerfullmektiger med alminnelig fullmakt kan behandle saker etter jordskifteloven kapittel 3 og 4.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Domstolleder kan ved særlig fullmakt gi jordskiftedommerfullmektiger myndighet til å behandle saker etter jordskiftelovens kap 5.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Det skal gå fram av rettsboken hvilken fullmakt jordskiftedommerfullmektigen har.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. januar 2016.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

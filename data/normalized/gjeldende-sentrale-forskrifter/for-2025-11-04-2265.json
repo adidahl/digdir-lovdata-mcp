@@ -1,0 +1,145 @@
+{
+  "id": "FOR-2025-11-04-2265",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om inntak til videregående opplæring i Longyearbyen, Longyearbyen lokalstyre",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2025-11-05",
+  "lovdata_refid": "forskrift/2025-11-04-2265",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-11-04-2265",
+  "raw_xml_sha256": "e940042e6ba5a9961876dc930c259b14bb86ea867f699c170e4ef99c6731a288",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1 – Generelle bestemmelser"
+      ],
+      "text": "Formålet med den lokale forskriften er å fastsette rettigheter og plikter for søkere til videregående opplæring i Longyearbyen. Den lokale forskriften fastsetter hvordan Longyearbyen lokalstyre skal gjennomføre inntak tilpasset de særskilte bestemmelser som gjelder for videregående opplæring i Longyearbyen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 – Generelle bestemmelser"
+      ],
+      "text": "Forskriften gjelder for inntak til videregående opplæring i Longyearbyen.\nDenne forskriften gjelder ikke fagopplæring i bedrift. Dette ivaretas av Troms fylkeskommune, jf. samarbeidsavtale mellom Longyearbyen lokalstyre og Troms fylkeskommune.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Søknadsfrist til videregående opplæring i Longyearbyen er 1. februar. Endringer etter fristen må være anbefalt av rådgiver.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Vilkår for inntak av norske søkere bosatt i Longyearbyen",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Søkere med ungdomsrett kan tas inn til videregående opplæring i Longyearbyen når søkeren er registrert i befolkningsregisteret.\nSøker under 18 år må være bosatt sammen med sine foresatte.\nSøker over 18 år som ikke er bosatt med foresatte, må være registrert i befolkningsregisteret innen søknadsfristen 1. februar.\nReglene om inntak på særskilt grunnlag gjelder ikke på Svalbard.\nFor søkere som ved inntak til videregående opplæring på fastlandet kunne fått inntak på særskilt grunnlag, skal det vurderes om eleven vil kunne få forsvarlig utbytte av et videregående tilbud ved kun tilpasset opplæring. Sakkyndig uttalelse fra PPT og/eller kartlegging vil være avgjørende i denne vurderingen.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "Vilkår for inntak og prioritering av søkere bosatt på fastlandet",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Longyearbyen skole kan ta inn fastlandselever ved vg2 og/eller vg3 til skolens ordinære programfagtilbud. Inntaket gjelder for ett skoleår om gangen.\nElever fra Troms vil under ellers like vilkår bli prioritert foran andre søkere.\nKriterier for inntak er gjennomsnittskarakter 4 eller bedre, ingen karakterer under 3, intervju og referanser som dokumenterer personlige egenskaper som gjør at søker vil være en positiv bidragsyter til skolemiljøet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Vilkår for inntak av utenlandske søkere bosatt på Svalbard",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Utenlandske søkere med ungdomsrett kan tas inn til videregående opplæring på Svalbard når søkeren er registrert i befolkningsregisteret.\nUtenlandske søkere under 18 år må være bosatt sammen med sine foresatte.\nUtenlandske søkere over 18 år som ikke er bosatt med foresatte, må være registrert i befolkningsregisteret innen søknadsfristen 1. februar.\nDet er et vilkår for inntak at søkeren må ha gode nok språkkunnskaper i norsk til å få forsvarlig utbytte av undervisningen uten særskilt språkopplæring.\nReglene om inntak på særskilt grunnlag, gjelder ikke på Svalbard.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Elever uten rett",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Longyearbyen skole kan ta inn norske søkere uten rett som heltidselever eller deltidselever når søkere med rett har fått tildelt skoleplass.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8",
+      "heading": "Søkere til vg2 og vg3 ved Longyearbyen skole som ikke har bestått i alle fag",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Longyearbyen skole skal foreta en helhetlig vurdering av om søkere som ikke har bestått i alle fag likevel har nødvendig kompetanse til å fullføre opplæringen på neste trinn. Vurderinga gjøres på grunnlag av fagdokumentasjon. Rektor fatter enkeltvedtak om utfallet av den helhetlige vurderingen. Fristen for å fatte enkeltvedtak er 1. juli.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 9",
+      "heading": "Inntak av utvekslingselever og elever med utdanning fra utlandet",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Elev som reiser til utlandet i forbindelse med elevutveksling, kan få forhåndsgodkjent året i utlandet som et vg1 eller vg2 på Svalbard. Eleven kan søke om å få forhåndsgodkjent skoleplass på neste trinn ved skolen som har forhåndsgodkjent året i utlandet.\nElev som ikke ønsker å få året i utlandet godkjent som et vg1 eller vg2 på Svalbard, skal søke om inntak til vg2 eller vg3 og konkurrere om skoleplass etter poeng.\nSkolen ved rektor godkjenner hele opplæringsår fra utlandet som et vg1 eller vg2 på Svalbard. Elev som får et vg1 eller vg2 fra utlandet godkjent, skal tas inn etter individuell vurdering.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 10",
+      "heading": "Frammøte første skoledag",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Eleven må møte på skolen første skoledag i skoleåret. Elev som uteblir fra skolen uten gyldig grunn første skoledag, kan miste skoleplassen. Ved sykdom plikter eleven å gi beskjed til skolen snarest mulig om at hun/han ikke kan møte, senest innen oppmøtetidspunkt første skoledag. Forholdet må dokumenteres med legeerklæring.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 11",
+      "heading": "Endring av status fra heltidselev til deltidselev",
+      "path": [
+        "Kapittel 2 – Inntak"
+      ],
+      "text": "Endring av status må godkjennes av rektor og dokumenteres med saklig grunn.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Mindre endringer i den lokale forskriften",
+      "path": [
+        "Kapittel 3 – Ikrafttredelse"
+      ],
+      "text": "Administrasjonssjefen selv har rett til å gjøre mindre endringer i lokal forskrift. Endringer som får betydning for søkernes rettigheter, skal behandles politisk.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3 – Ikrafttredelse"
+      ],
+      "text": "Forskrifta trer i kraft 5. november 2025 og gjelder for inntak fra og med skoleåret 2026–2027.\nTidligere forskrift (forskrift 5. februar 2018 nr. 150 om inntak til videregående opplæring på Svalbard, Longyearbyen lokalstyre) blir oppheva ved ikrafttredelse av denne forskriften.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

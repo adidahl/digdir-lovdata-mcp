@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2018-10-24-1610",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Overgangsbestemmelser til lov 22. juni 2018 nr. 78 om endringer i utlendingsloven mv. (utvisning på grunnlag av eksklusjon fra flyktningstatus mv.)",
+  "short_title": "Overgangsbestemmelser til lov 2018:78, endr. i utlendingsloven mv.",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2018-11-01",
+  "lovdata_refid": "forskrift/2018-10-24-1610",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2018-10-24-1610",
+  "raw_xml_sha256": "aac298d5106d17ae3716d1fd5431e2214f8c8cc22505a019505f40452f0af234",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Utlendinger som er gitt asyl før 1. november 2018",
+      "path": [],
+      "text": "En utlending som før 1. november 2018 er gitt asyl, kan ikke utvises etter de nye lovreglene uten at det først blir truffet vedtak om eksklusjon eller tilbakekall.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Utlendinger som er gitt oppholdstillatelse med annen hjemmel enn utlendingsloven § 74 eller § 28 før 1. november 2018",
+      "path": [],
+      "text": "En utlending som før 1. november 2018 er gitt oppholdstillatelse med en annen hjemmel enn utlendingsloven § 74 eller § 28, kan ikke utvises etter de nye lovreglene, med mindre handlingene har funnet sted etter lovendringenes ikrafttredelse eller forholdet gir grunnlag for tilbakekall av den gitte tillatelsen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Overgangsbestemmelsene trer i kraft 1. november 2018.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

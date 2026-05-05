@@ -1,0 +1,358 @@
+{
+  "id": "FOR-1990-12-07-959",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om produksjon, omforming, overføring, omsetning, fordeling og bruk av energi m.m. (energilovforskriften)",
+  "short_title": "Energilovforskriften",
+  "department": "Energidepartementet",
+  "date_in_force": "1991-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-11-2496 fra 2026-01-01",
+  "lovdata_refid": "forskrift/1990-12-07-959",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1990-12-07-959",
+  "raw_xml_sha256": "eb708f32499b19249a77abf79b7a5a49260b4237466b08955a50522af8e08f2b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften kommer til anvendelse ved planlegging, bygging, eierskap og drift av anlegg for produksjon, omforming, overføring og fordeling av elektrisk energi, varmeenergi produsert i fjernvarme- og fjernkjøleanlegg, samt ved omsetning og bruk av elektrisk energi.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften skal sikre at produksjon, omforming, overføring, fordeling og bruk av energi foregår på en samfunnsmessig rasjonell måte, herunder skal det tas hensyn til allmenne og private interesser som blir berørt.\nForskriften skal bidra til å sikre at omsetning av elektrisk energi foregår på en samfunnsmessig rasjonell måte.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Søknad",
+      "path": [
+        "Kapittel 2. Saksbehandling"
+      ],
+      "text": "Søknad om konsesjon må oppfylle de krav som stilles i energiloven § 2-2, samt øvrige krav som følger av denne forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Tildeling av konsesjon",
+      "path": [
+        "Kapittel 2. Saksbehandling"
+      ],
+      "text": "Tildeling av konsesjoner etter energiloven skal skje på grunnlag av objektive, transparente og ikke-diskriminerende kriterier.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Konsesjonsplikt for elektriske anlegg",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Konsesjonspliktige elektriske anlegg etter loven § 3-1 er anlegg med spenning over 1000 volt vekselstrøm/1500 volt likestrøm.\nVindkraftanlegg på land er ikke konsesjonspliktig når den installerte effekten i anlegget er inntil 1 MW. Omfatter vindkraftanlegget til sammen mer enn fem vindturbiner, foreligger det likevel konsesjonsplikt etter første ledd. Norges vassdrags- og energidirektorat kan i tvilstilfeller avgjøre hvorvidt konsesjonsplikt foreligger.\nSolkraftanlegg på land er ikke konsesjonspliktig når den installerte effekten i anlegget er inntil 10 MW. Norges vassdrags- og energidirektorat kan i tvilstilfeller avgjøre hvorvidt konsesjonsplikt foreligger.\nFordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm er konsesjonspliktige frem til tilknytningspunkt hos kunde.\nUnntatt fra konsesjonsplikten for fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm er:kundespesifikke anleggfordelingsnett som er bygget for å levere kraft fra lokal produksjon til uttakskunder hvor samlet hovedsikringskapasitet ikke overstiger 200 A ved 3 faser og 230 V.\nAndre fordelingsanlegg med spenning under 1000 volt vekselstrøm/1500 volt likestrøm kan ved enkeltvedtak unntas fra konsesjonsplikt dersom konsesjon anses åpenbart unødvendig.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Innholdet i søknader om konsesjon for elektriske anlegg",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Søknad om konsesjon for elektriske anlegg skal så langt det passer omfatte følgende punkter:beskrivelse av søkeren og dennes virksomhet, samt eierforholdteknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anlegget og eventuelle hjelpeanlegg som veier mv.anleggets innpassing i energiplanplanlagt tidspunkt for påbegynnelse og fullførelse av anleggetredegjørelse for den landskapsmessige tilpassing med nødvendig tegnings- og kartunderlaginnvirkning på allmenne interesser og mulige avbøtende tiltakresultat av eventuelle konsekvensutredningerinnvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesserbehov for tillatelser etter annen lov, herunder forholdet til kommunale planer hjemlet i plan- og bygningsloven.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Områdekonsesjon",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Områdekonsesjon kan gis for bygging, eierskap og drift av fordelingsanlegg med nominell spenning fra 230 V og opp til og med 22 kV.\nOmrådekonsesjon kan også gis for kablede anlegg og utvidelser i bestående transformator- og koplingsstasjoner, med nominell spenning opp til og med 132 kV, forutsatt at disse ligger innenfor et avgrenset område med et betydelig bymessig preg.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Tilknytningsplikt for produksjonsanlegg",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Ved uenighet om alternative nettinvesteringer ved oppfyllelse av en plikt til å tilknytte anlegg for produksjon av elektrisk energi etter energiloven § 3-4a, kan spørsmålet bringes inn for Norges vassdrags- og energidirektorat til avgjørelse.\nOmrådekonsesjonærens plikt etter energiloven § 3-4a annet ledd gjelder frem til klemme på vegg på stasjonsbygg, innføring gjennom grunnmur eller til nettstasjon ved produksjonsanlegget, hvis ikke annet er avtalt mellom partene.\nNorges vassdrags- og energidirektorat kan etter søknad fra konsesjonæren gi dispensasjon fra tilknytnings- og investeringsplikten for produksjon etter energiloven § 3-4a, dersom tiltaket ikke er samfunnsmessig rasjonelt.\nEn søknad om dispensasjon skal inneholde en beskrivelse av den eller de konkrete nettforsterkningene.\nHvis flere nettselskaper får behov for nettforsterkninger som følge av nye produksjonsanlegg, er hvert av selskapene ansvarlig for å søke om konsesjon eller dispensasjon for sine egne anlegg.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Plikter ved konsesjon for elektriske anlegg",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Drift, vedlikehold og moderniseringKonsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for atdet utarbeides planer for systematisk vedlikehold av anlegg og planer for modernisering av anlegg i transmisjonsnettet og regionalnettet. Planene skal oppdateres minimum hvert annet år.det foreligger systemer og rutiner for kontroll for å fastslå anleggenes tilstand.normer vedtatt av Norsk Elektroteknisk Komité (NEK) og Standard Norge om drift, vedlikehold og modernisering av elektriske anlegg følges, med mindre det kan dokumenteres at andre metoder gir tilfredsstillende driftssikker stand.det gjennomføres vedlikehold og modernisering av anlegget, slik at konsesjonsgitt kapasitet og øvrig funksjonalitet opprettholdes i hele konsesjonsperioden.det foreligger oppdatert dokumentasjon for planlagte og gjennomførte tiltak i henhold til § 3-5 bokstav a. All dokumentasjon skal oppbevares i konsesjonsperioden.Miljø og landskapKonsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader eller ulemper for konsesjonæren.BeredskapKonsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.Nedleggelse og rydding av anleggAnlegg med konsesjon etter energiloven § 3-1 kan ikke nedlegges uten tillatelse fra Norges vassdrags- og energidirektorat.Hvis konsesjonæren ikke lenger vil drive anlegget mens konsesjonen løper, skal det søkes Norges vassdrags- og energidirektorat om nedleggelse.Senest ett år før konsesjon utløper skal konsesjonæren søke Norges vassdrags- og energidirektorat om forlengelse av konsesjon eller skriftlig varsle om nedleggelse av elektriske anlegg.Ved nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake til naturlig tilstand.Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser med hensyn til tilbakeføringen.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Tilgang til personell",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Nettselskap med inntektsramme skal til enhver tid ha tilgang til personell med kompetanse innenfor nettforvaltning, driftskontroll, tilstandskontroll og feilretting, behandling av henvendelser om tekniske forhold, samt nybygging og ombygging av elektriske anlegg. Det kreves tilstrekkelig egenbemanning til å lede virksomheten i enhver situasjon, vurdere hvilke tiltak som må iverksettes for å utføre oppgavene nevnt i første punktum, og til å følge opp innhold og utførelse dersom disse oppgavene er satt bort til andre.\nAlle med konsesjon etter energiloven § 3-1 for kraftproduksjon skal til enhver tid ha tilgang til personell med kompetanse til å ivareta ledelse, kontroll og praktisk drift.\nDen som omfattes av første eller annet ledd skal til enhver tid kunne fremvise dokumentasjon for at kravene er oppfylt. Avtaler og beskrivelser av kontrollrutiner ved kjøp av tjenester skal fremlegges for Norges vassdrags- og energidirektorat eller departementet på forespørsel.\nKravene i første og annet ledd fritar ikke konsesjonæren fra forpliktelser gitt i eller i medhold av lov.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 3-7",
+      "heading": "Internkontroll for krav til miljø og landskap",
+      "path": [
+        "Kapittel 3. Elektriske anlegg"
+      ],
+      "text": "Konsesjonæren skal sørge for at det innføres og praktiseres internkontroll for ivaretakelse av krav til miljø og landskap som er fastsatt i eller i medhold av energiloven kapittel 3. Dersom internkontrollsystemet for et anlegg inngår i et større internkontrollsystem, skal det enkelte anlegget kunne identifiseres.\nKonsesjonæren skal tilpasse internkontrollen til virksomhetens art, aktiviteter, risikoforhold og størrelse i det omfang som er nødvendig for å etterleve de krav som er omfattet av første ledd.\nInternkontrollsystemet skal minimum inneholde:oversikt over relevante lover, forskrifter og vedtak for anleggenekart, tegninger og annen nødvendig dokumentasjon for anleggetdokumentasjon og konkretisering av at anleggene bygges og drives i samsvar med krav om miljø og landskap fastsatt i eller i medhold av energiloven kapittel 3kartlegging og vurdering av risikoforhold med utarbeiding av tilhørende planer for risikoreduserende tiltakrutiner for å forebygge, avdekke og rette opp avvik.\nKonsesjonæren skal skriftlig dokumentere internkontrollen i den form og det omfang som er nødvendig på bakgrunn av virksomhetens art, aktiviteter, risikoforhold og størrelse.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Konsesjonsplikt for fjernvarmeanlegg",
+      "path": [
+        "Kapittel 5. Fjernvarmeanlegg."
+      ],
+      "text": "Konsesjonspliktige fjernvarmeanlegg er anlegg med ytelse over 10 MW (10 MJ/s).\nAnlegg med lavere ytelse kan konsesjonsbehandles i de tilfelle eieren ønsker dette for å oppnå tilknytningsplikt etter plan- og bygningsloven § 27-5.\nFjernvarmeanlegg som skal forsyne offentlige institusjonsbygg, større forretningsbygg, industriell virksomhet, borettslag eller boligsameier kan ved enkeltvedtak unntas fra konsesjonsplikt.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Innholdet i søknader om konsesjon for fjernvarmeanlegg",
+      "path": [
+        "Kapittel 5. Fjernvarmeanlegg."
+      ],
+      "text": "Søknad om konsesjon skal så langt det passer omfatte følgende punkter:beskrivelse av søkeren og dennes virksomhet, samt eierforholdteknisk og økonomisk beskrivelse av anlegget, herunder den fysiske utførelse av anleggetanleggets innpassing i energiplan og til eventuelle større interkommunale eller regionale fjernvarmeanleggplanlagt tidspunkt for påbegynnelse og fullførelse av anleggetinnvirkning på allmenne interesser og mulige avbøtende tiltakresultat av eventuelle konsekvensutredningerinnvirkning på private interesser, herunder grunneieres og andre rettighetshaveres interesserbehov for tillatelser etter annen lov, herunder forholdet til forurensningsloven, lov om brannfarlige varer, plan- og bygningsloven mv.opplysninger om priser og andre leveringsvilkår dersom søkeren forutsetter at det innføres vedtekt om tilknytningsplikt etter plan- og bygningsloven § 66a.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Plikter ved konsesjon for fjernvarmeanlegg",
+      "path": [
+        "Kapittel 5. Fjernvarmeanlegg."
+      ],
+      "text": "Drift og vedlikeholdKonsesjonæren plikter til enhver tid å holde anlegget i tilfredsstillende driftssikker stand, herunder sørge for vedlikehold og modernisering som sikrer kundene en pålitelig energilevering.Miljø og landskapKonsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at allmennheten påføres minst mulig miljø- og landskapsmessige ulemper i den grad det kan skje uten urimelige kostnader og ulemper for konsesjonæren.BeredskapKonsesjonæren plikter ved planlegging, utførelse og drift av anlegget å sørge for at det tas beredskapsmessige hensyn.Nedleggelse og rydding av anleggVed nedleggelse plikter den tidligere konsesjonæren å fjerne det nedlagte anlegg og så langt det er mulig føre landskapet tilbake i naturlig tilstand.Det kan bestemmes at nedgravde deler av anlegget ikke skal graves opp igjen.Norges vassdrags- og energidirektorat kan sette frist for arbeidet og treffe bestemmelser om tilbakeføringen.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Rapporteringsplikt for kraftsystem-, anleggs-, tilstands- og geografiske data",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Konsesjonær for anlegg i eller tilknyttet regional- eller transmisjonsnettet plikter å rapportere kraftsystem-, anleggs-, tilstands-, kostnads- og geografiske data for anlegget til Norges vassdrags- og energidirektorat. Første punktum gjelder tilsvarende for eiere av produksjonsanlegg som ikke er konsesjonspliktig etter § 3-1 annet og tredje ledd, dersom anlegget er tilknyttet regional- eller transmisjonsnettet.\nEiere av produksjonsanlegg tilknyttet distribusjonsnettet plikter å rapportere anleggs-, tilstands-, kostnads- og geografiske data for anlegget til Norges vassdrags- og energidirektorat. Eier av produksjonsanlegg som ikke er konsesjonspliktig etter § 3-1 annet og tredje ledd, skal rapportere til Norges vassdrags- og energidirektorat tidspunkt for når anlegget har fått endelig tillatelse etter plan- og bygningsloven.\nNorges vassdrags- og energidirektorat kan pålegge at rapportering etter første og annet ledd skal skje til systemansvarlig.\nDersom data etter bestemmelsens første og annet ledd er rapportert til systemansvarlig, plikter systemansvarlig å oversende eller tilgjengeliggjøre disse dataene til Norges vassdrags- og energidirektorat.\nNorges vassdrags- og energidirektorat fastsetter nærmere krav til innhold, format og tidspunkt for rapportering etter denne bestemmelsen.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Utpeking av rasjoneringsmyndighet",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Departementet utpeker en rasjoneringsmyndighet.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-2a",
+      "heading": "Rasjoneringsmyndighetens ansvar",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Rasjoneringsmyndigheten er ansvarlig for planlegging og administrativ gjennomføring av tiltak i forbindelse med kraftrasjonering.\nAnsvaret omfatter tiltak før, under og etter selve kraftrasjoneringsperioden, herunder:til enhver tid å være informert om forhold som har betydning for vurderingen av kraftoppdekningenanalysere kraftsituasjonen og vurdere hvorvidt vilkårene for å iverksette eller terminere kraftrasjonering er til stedeinformere departementet når kraftrasjonering kan være aktuelt og foreslå nødvendige tiltakholde departementet løpende orientert om utviklingen etter at kraftrasjonering er innførtnødvendige informative tiltak i tilknytning til en kraftrasjoneringssituasjon.sørge for at det til enhver tid er utarbeidet nødvendige planer og prosedyrer for sikker og effektiv varsling og rapportering om iverksettelse, gjennomføring og opphør av kraftrasjoneringføre kontroll og tilsyn med at pålagte forberedende tiltak gjennomføres.\nRasjoneringsmyndigheten skal legge til rette for at markedet kan virke så lenge som mulig og i så stor utstrekning som mulig. Det skal legges til rette for at markedsmessige virkemidler benyttes før, under og etter iverksettelse av kraftrasjonering.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-2b",
+      "heading": "Vilkår for å iverksette kraftrasjonering",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Departementet kan iverksette kraftrasjonering når det på grunn av ekstraordinære forhold kan bli eller er energiknapphet, og det ut fra allmenne hensyn finnes påkrevet for å sikre at energien blir best mulig utnyttet.\nKraftrasjonering omfatter planlegging og gjennomføring av tvangsmessige leveringsinnskrenkninger og rekvisisjon av elektrisk energi og fjernvarme.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-2c",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Rasjoneringsmyndigheten eller den rasjoneringsmyndigheten gir fullmakt, kan gi de pålegg som er nødvendig for en effektiv planlegging og gjennomføring av kraftrasjonering.\nNår departementet har iverksatt kraftrasjonering, kan rasjoneringsmyndigheten fravike bestemmelser i forskrift om kraftomsetning og nettjenester i samsvar med forskriften § 9-1 a om rasjonering og fastsette særskilte tariffer i samsvar med forskrift om kontroll av nettvirksomhet § 17-8.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-2d",
+      "heading": "Gjennomføring av kraftrasjonering",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Tiltak i forbindelse med en kraftrasjonering skal gjennomføres på en samfunnsmessig rasjonell måte og til minst mulig ulempe for dem som berøres. Kraftrasjoneringen skal søkes gjennomført etter saklige og kontrollerbare kriterier.\nKraftrasjoneringen skal gjennomføres i henhold til fastsatte planer utarbeidet i samråd med sentrale, regionale og lokale myndigheter, og aktuelle netteiere.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-3",
+      "heading": "Detaljskjema",
+      "path": [
+        "Kapittel 6. Systemansvar, rasjonering og leveringskvalitet"
+      ],
+      "text": "Systemansvarlig skal utarbeide og kontinuerlig oppdatere detaljskjema for regional- og transmisjonsnettet samt tilknyttede forbruks- og produksjonsenheter.\nDetaljskjema utarbeidet etter første ledd, skal rapporteres til Norges vassdrags- og energidirektorat innen 1. februar hvert år.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Energiplanlegging",
+      "path": [
+        "Kapittel 7. Energiplanlegging"
+      ],
+      "text": "Som grunnlag for en samfunnsmessig rasjonell utvikling av energisystemet og søknader om konsesjon for elektriske anlegg og fjernvarmeanlegg, skal alle konsesjonærer delta i energiplanarbeidet og samordne de enkelte energiplaner til hverandre.\nEnergiplaner skal omfatte produksjon, overføring, distribusjon og bruk av elektrisk energi. I planleggingen skal det tas hensyn til muligheter for bruk av fjernvarme, energifleksible løsninger, varmegjenvinning, innenlandsk bruk av gass, tiltak for energiøkonomisering ved nybygg og rehabiliteringer, effekten av å ta i bruk energistyringssystemer på forbrukssiden mv.\nKonsesjonær plikter etter pålegg fra Norges vassdrags- og energidirektorat å utarbeide langsiktige energiplaner. Konsesjonær plikter også etter pålegg fra Norges vassdrags- og energidirektorat å koordinere utarbeidelse av energiplaner innen et nærmere definert planområde.\nPålagte energiplaner skal oversendes Norges vassdrags- og energidirektorat. Norges vassdrags- og energidirektorat kan kreve fremlagt alt nødvendig underlagsmateriale av teknisk og økonomisk art for oppfølgingen av energiplanarbeidet.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Overføring, behandling og lagring av opplysninger fra Elhub til Norges vassdrags- og energidirektorat",
+      "path": [
+        "Kapittel 8. Overføring, behandling og lagring av personopplysninger fra Elhub"
+      ],
+      "text": "Norges vassdrags- og energidirektorat kan innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.\nNorges vassdrags- og energidirektorat kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Norges vassdrags- og energidirektorat til enhver tid har som:energimyndighetkonsesjonsmyndighetmiljøtilsyn med energi- og vassdragsanleggberedskapsmyndighetrasjoneringsmyndighet.\nNorges vassdrags- og energidirektorat kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.\nNorges vassdrags- og energidirektorat kan lagre personopplysninger overført fra Elhub frem til opplysningene er 3 år og 41 dager gamle, så lenge det er nødvendig for utøvelse av de forvaltningsoppgaver som er nevnt i annet ledd.\nNorges vassdrags- og energidirektorat er behandlingsansvarlig for personopplysninger som overføres fra Elhub.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Overføring, behandling og lagring av opplysninger fra Elhub til Reguleringsmyndigheten for energi",
+      "path": [
+        "Kapittel 8. Overføring, behandling og lagring av personopplysninger fra Elhub"
+      ],
+      "text": "Reguleringsmyndigheten for energi kan innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.\nReguleringsmyndigheten for energi kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Reguleringsmyndigheten for energi til enhver tid har for følgende:fatte vedtak om nettselskapets inntektsrammerutvikling og bruk av analyser, metoder og annet grunnlagsmateriale i forbindelse med inntektsregulering av nettselskapenekontroll med arbeid knyttet til inntektsregulering av nettselskapene.\nReguleringsmyndigheten for energi kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.\nReguleringsmyndigheten for energi kan lagre personopplysninger overført fra Elhub frem til opplysningene er 3 år og 41 dager gamle, så lenge det er nødvendig for utøvelse av de forvaltningsoppgaver som er nevnt i annet ledd.\nReguleringsmyndigheten for energi er behandlingsansvarlig for personopplysninger som overføres fra Elhub.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Overføring, behandling og lagring av opplysninger fra Elhub til Statnett SF som systemansvarlig",
+      "path": [
+        "Kapittel 8. Overføring, behandling og lagring av personopplysninger fra Elhub"
+      ],
+      "text": "Statnett SF kan, som systemansvarlig etter forskrift om systemansvaret i kraftsystemet og som nettutreder etter energiutredningsforskriften, innhente og behandle alle opplysninger fra Elhub, også personopplysninger, med samme detaljeringsgrad som de til enhver tid har i kraftsystemet.\nStatnett SF kan behandle personopplysninger overført fra Elhub når det er nødvendig for de forvaltningsoppgaver Statnett SF til enhver tid har for følgende:arbeid med analyser av kraftproduksjon, forbrukerfleksibilitet og endringeroptimalisering av systemdriftennettplanlegging.\nStatnett SF kan vurdere, kvalitetssikre, analysere, sammenstille og på annen måte behandle personopplysninger overført fra Elhub med andre opplysninger fra interne og eksterne datakilder.\nStatnett SF kan lagre personopplysninger overført fra Elhub til de er 3 år og 41 dager gamle, så lenge det er nødvendig for utøvelse av de forvaltningsoppgaver som er nevnt i annet ledd.\nStatnett SF er behandlingsansvarlig for personopplysninger som overføres fra Elhub.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Publisering",
+      "path": [
+        "Kapittel 8. Overføring, behandling og lagring av personopplysninger fra Elhub"
+      ],
+      "text": "Norges vassdrags- og energidirektorat og Reguleringsmyndigheten for energi kan publisere statistikk basert på grunndata og måledata for kraftproduksjon og kraftforbruk fra Elhub.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 8. Overføring, behandling og lagring av personopplysninger fra Elhub"
+      ],
+      "text": "Enhver som skal utføre, utfører eller har utført arbeid eller oppdrag for Norges vassdrags- og energidirektorat, Reguleringsmyndigheten for energi eller Statnett SF, plikter i forbindelse med arbeidet eller oppdraget å hindre at andre får tilgang eller kjennskap til grunndata og måleverdier for kraftproduksjon og kraftforbruk overført fra Elhub.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Kompetanse",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat kan gi forskrifter om:ytterligere krav til søknaderkraftrasjonering og virkemidler for å unngå kraftrasjoneringenergiplanleggingberedskapovertredelsesgebyr.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Tilsyn og kontroll",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Departementet fører tilsyn med at bestemmelser gitt i eller i medhold av energiloven overholdes. Når myndighet etter loven og denne forskrift er lagt til Norges vassdrags- og energidirektorat, omfatter dette også myndighet etter første punktum.\nKonsesjonæren skal medvirke til gjennomføring av tilsyn. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre tilsyn.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Departementet kan gi de pålegg som er nødvendige for gjennomføring av bestemmelser gitt i eller i medhold av energiloven. Når myndighet etter loven og denne forskriften er lagt til Norges vassdrags- og energidirektorat, omfatter dette også myndighet etter første punktum.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 9-4",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Departementet kan i særlige tilfelle dispensere fra denne forskrift, bestemmelser gitt i medhold av denne forskrift og vilkår satt i konsesjoner gitt i medhold av energiloven. Når myndighet etter loven og denne forskriften er lagt til Norges vassdrags- og energidirektorat, omfatter dette også myndighet etter første punktum.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 9-5",
+      "heading": "Ikrafttreden og overgangsregler",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 1991.\nSøknader om omsetningskonsesjon skal sendes Norges vassdrags- og energidirektorat innen 1. mars 1991.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-6",
+      "provision_ref": "§ 9-6",
+      "heading": "Forhold til eldre standardvilkår m.v.",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Når forskriftene trer i kraft, oppheves Standardvilkår for konsesjoner for elektriske anlegg og Standardvilkår for bygging og drift av statens anlegg godkjent av Industridepartementet 20. august 1975 med senere endringer. Standardvilkårene gjelder for bestående anlegg inntil tidligere tildelte konsesjoner løper ut.\nRetningslinjer for søknader, saksbehandling og om forholdet til annen lovgivning og annen offentlig myndighet, gjelder så langt de samsvarer med denne forskrift inntil de blir avløst av nye retningslinjer.",
+      "xml_path": "article#kapittel-9-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-7",
+      "provision_ref": "§ 9-7",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 9. Diverse bestemmelser"
+      ],
+      "text": "Ved overtredelse av bestemmelsene i § 3-5, § 5-1 første ledd, § 5-3, § 7-1 tredje ledd kan det ilegges overtredelsesgebyr, jf. energiloven § 10-7 første ledd.",
+      "xml_path": "article#kapittel-9-paragraf-7"
+    }
+  ]
+}

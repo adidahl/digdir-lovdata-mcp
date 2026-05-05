@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2025-12-18-2854",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til kryptoeiendelsloven",
+  "department": "Finansdepartementet",
+  "date_in_force": "2025-12-18",
+  "lovdata_refid": "forskrift/2025-12-18-2854",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-12-18-2854",
+  "raw_xml_sha256": "674572569b6a1759cd2de3f3813f6a774bbef2d66830c88a7a25f467c2d96c3c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelsesområde",
+      "path": [],
+      "text": "Denne forskriften gir utfyllende bestemmelser til lov 27. mai 2025 nr. 20 om kryptoeiendeler (kryptoeiendelsloven).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Overgangsperiode",
+      "path": [],
+      "text": "Tilbydere av vekslingstjenester og oppbevaringstjenester for virtuell valuta som er registrert hos Finanstilsynet, jf. forskrift fastsatt med hjemmel i hvitvaskingsloven § 4 femte ledd, kan fortsette å tilby sine tjenester frem til 30. juni 2026 eller til de har fått eller blitt nektet tillatelse etter kryptoeiendelsforordningen artikkel 63, etter hva som kommer først.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

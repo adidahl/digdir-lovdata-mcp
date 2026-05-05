@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2016-11-09-1306",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om saksbehandlingsfrister ved erverv av betydelig eierandel i verdipapirregistre",
+  "short_title": "Forskrift om saksbehandlingsfrister, verdipapirregistre",
+  "department": "Finansdepartementet",
+  "date_in_force": "2017-01-01",
+  "lovdata_refid": "forskrift/2016-11-09-1306",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-11-09-1306",
+  "raw_xml_sha256": "eea373dda8e5ac814f64d8e222dd084e1bfbac8e9a9d8346796970fe39c39f9a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Saksbehandlingsfrister",
+      "path": [],
+      "text": "Finanstilsynet skal så raskt som mulig bekrefte å ha mottatt søknad om tillatelse etter verdipapirregisterloven § 5-2 første ledd. Søknaden skal avgjøres innen fire måneder etter at Finanstilsynet har mottatt søknaden. Har departementet eller Finanstilsynet innen tre måneder fremsatt skriftlig anmodning om ytterligere opplysninger, som er nødvendige for å få avsluttet vurderingen, overfor erververen eller andre, avbrytes fristen inntil svaret er mottatt, men ikke i mer enn 20 arbeidsdager hvis den anmodningen er rettet mot er undergitt tilsyn i og er hjemmehørende i en EØS-stat.\nEr spørsmålet om tillatelse ikke avgjort innen utløpet av fristen etter første ledd, skal tillatelse anses gitt til erverv av eierandel som angitt i søknaden etter verdipapirregisterloven § 5-2 femte ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2017.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

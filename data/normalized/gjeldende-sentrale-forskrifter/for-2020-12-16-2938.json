@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2020-12-16-2938",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bruk av vilkår etter sosialtjenesteloven",
+  "short_title": "Forskrift om bruk av vilkår etter sosialtjenesteloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2021-01-01",
+  "lovdata_refid": "forskrift/2020-12-16-2938",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-12-16-2938",
+  "raw_xml_sha256": "091077d09d9bffe03289d933a962c46eff08c82f742527ddbdb03341f3312880",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Plikten til å stille vilkår om aktivitet",
+      "path": [],
+      "text": "Plikten etter sosialtjenesteloven § 20a første ledd tredje punktum til å stille vilkår om norskopplæring for person som har hatt rett og plikt til å delta i introduksjonsprogram, gjelder bare så langt opplysningen om rett og plikt til å delta i introduksjonsprogram fremgår av Nasjonalt introduksjonsregister etter integreringsloven § 43.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2021.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

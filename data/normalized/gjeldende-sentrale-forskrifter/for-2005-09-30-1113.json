@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2005-09-30-1113",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om at passlovens § 6 annet ledd og § 6a også skal omfatte diplomatpass, spesialpass og tjenestepass mv.",
+  "short_title": "Forskrift om diplomatpass mv.",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2005-09-30",
+  "last_change_in_force": "2020-10-19",
+  "last_changed_by": "forskrift/2020-10-09-2013 fra 2020-10-19",
+  "lovdata_refid": "forskrift/2005-09-30-1113",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-09-30-1113",
+  "raw_xml_sha256": "a9cf7027589d735407ab971351f45648a5ab4761ef2619759dbc612397b226c6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Lov om pass § 6 annet ledd (innhenting og lagring av biometrisk personinformasjon i passet) og § 6a (Innhenting av biometrisk personinformasjon til gjennomføring av passkontroll (verifikasjon) mv.) skal også omfatte diplomatpass, spesialpass og tjenestepass utstedt etter regler gitt i medhold av utenrikstjenesteloven, samt utlendingspass og reisebevis for flyktninger i medhold av utlendingsloven § 64.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

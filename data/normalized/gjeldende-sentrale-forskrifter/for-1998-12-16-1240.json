@@ -1,0 +1,508 @@
+{
+  "id": "FOR-1998-12-16-1240",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om årsregnskap for banker, kredittforetak og finansieringsforetak",
+  "short_title": "Forskrift om årsregnskap for banker mv",
+  "department": "Finansdepartementet",
+  "date_in_force": "1999-01-01",
+  "last_change_in_force": "2024-11-01",
+  "last_changed_by": "forskrift/2024-11-01-2609",
+  "lovdata_refid": "forskrift/1998-12-16-1240",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1998-12-16-1240",
+  "raw_xml_sha256": "b8b02f0bdbb791149cb8bb3ad94c501c62c9cd2df2fdab266291fbcbbfedd2a2",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Forskriftens virkeområde",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften gjelderbanker, jf. lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 2-7,kredittforetak, jf. lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 2-8,finansieringsforetak, jf. lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 2-9,morselskap som nevnt i lov 10. april 2015 nr. 17 om finansforetak og finanskonsern § 17-6 annet ledd bokstav a og b som eier foretak som nevnt i punkt 1, 2 eller 3,finansstiftelser som har bestemmende innflytelse i institusjoner som nevnt i punkt 1, 2 eller 3, ogfilialer av utenlandske kredittinstitusjoner og finansieringsforetak, med unntak av kapittel 8 om delårsregnskap.\nRegnskapslovens bestemmelser om små foretak gjelder ikke institusjoner som nevnt i første ledd. Regnskapsloven § 3-1 fjerde ledd om unntak fra bestemmelser i regnskapsloven, gjelder for alle institusjoner underlagt denne forskrift\nSalgsinntekter i regnskapsloven § 1-5 skal, for institusjoner som nevnt i første ledd, forstås som summen av postene 1, 3, 5, 6 og 7 i § 4-1 i denne forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Som institusjon regnes i denne forskrift foretak som nevnt i § 1-1 første ledd.\nSom kredittinstitusjon regnes i denne forskriftbanker og kredittforetak,foretak med hovedsete i annen EØS-stat som er gitt tillatelse til å drive virksomhet som kredittinstitusjon og er underlagt myndighetstilsyn i slik stat, ogsentralbanker og offisielle nasjonale og internasjonale institusjoner av bankmessig karakter.\nSom noterte institusjoner regnes i denne forskrift institusjoner som har utstedt verdipapirer på regulert marked i en EØS-stat.\nMed IAS og IFRS i denne forskrift menes internasjonale regnskapsstandarder inntatt som vedlegg til forskrift 17. desember 2004 nr. 1852 om gjennomføring av EØS-regler om vedtatte internasjonale regnskapsstandarder, jf. regnskapsloven § 3-9 annet ledd.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Regnskapsmodell noterte institusjoner",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Noterte institusjoner som har konsernregnskapsplikt, skal utarbeide konsernregnskap i samsvar med IFRS, jf. regnskapsloven § 3-9 første ledd.\nSelskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:i samsvar med IFRS, jf. regnskapsloven § 3-9 tredje ledd første punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift. Bestemmelsene i kapittel 4 i denne forskrift gjelder ikke.\nNoterte institusjoner som ikke har konsernregnskapsplikt, skal utarbeide selskapsregnskap i samsvar med IFRS, jf. regnskapsloven § 3-9 tredje ledd annet punktum.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Regnskapsmodell øvrige institusjoner",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "Institusjoner som ikke er noterte institusjoner skal utarbeide konsernregnskap:i samsvar med IFRS, jf. regnskapsloven § 3-9 fjerde ledd første punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift.\nSelskapsregnskapet til institusjoner som nevnt i første ledd skal utarbeides:i samsvar med IFRS, jf. regnskapsloven § 3-9 fjerde ledd annet punktum, elleri samsvar med IFRS med mindre annet følger av denne forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Regnskap utarbeidet etter internasjonale regnskapsstandarder",
+      "path": [
+        "Kapittel 1. Alminnelige bestemmelser"
+      ],
+      "text": "For konsernregnskap og selskapsregnskap utarbeidet i samsvar med regnskapsloven § 3-9 første til fjerde ledd, gjelder kun følgende bestemmelser i denne forskrift: § 2-1, § 2-2, § 2-4, § 2-8, § 7-4, § 7-5, § 7-6, § 7-7, § 7-9, § 8-1 og § 8-4.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Plikt til å utarbeide årsregnskap og årsberetning",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Forslag til årsregnskap og årsberetning skal vedtas av institusjonens styre senest tre måneder etter regnskapsårets slutt. Årsregnskap og årsberetning for filialer av utenlandske foretak skal vedtas innen fem måneder etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Årsberetningens innhold",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Dersom institusjonens kapitaldekning er under gjeldende minimumskrav skal det i årsberetningen, jf. regnskapsloven § 2-2, gjøres oppmerksom på dette og redegjøres for tiltak som er truffet for å sikre institusjonens drift.\nKravet i regnskapsloven § 2-2 åttende ledd nr. 3 gjelder når styrets handlingsplikt utløses i henhold til finansforetaksloven § 21-4.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Konsernregnskap",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Reglene om konsernregnskap i regnskapsloven og denne forskrift gjelder tilsvarende for gjensidige foretak som gjennom samarbeidsavtaler har dannet konsernenheter basert på felles vedtektsfestede selskapsorganer. Slikt konsernregnskap skal omfatte de samarbeidende selskapene samt deres datterselskaper.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Begrensninger i unntak fra konsernregnskapsplikten",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Unntaket fra konsernregnskapsplikten etter regnskapsloven § 3-7 gjelder bare der institusjonens morselskap er institusjon som nevnt i § 1-1 første ledd. Hvis institusjonens morselskap også eier datterselskap som reguleres av forskrift om årsregnskap for livsforsikringsforetak og/eller forskrift om årsregnskap for skadeforsikringsforetak, skal morselskapet i underkonsernet likevel utarbeide konsernregnskap.\nFinanstilsynet kan i særlige tilfeller tillate andre unntak fra konsernregnskapsplikten i samsvar med regnskapsloven § 3-7.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "utelatelse av datterselskap fra konsolidering",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Dersom datterselskap som er en kredittinstitusjon skal utelates fra konsolidering etter regnskapsloven § 3-8 første ledd og institusjonen har ervervet aksjene eller andelene etter en finansiell bistandstransaksjon for å reorganisere eller redde selskapet, skal årsregnskapet til datterselskapet legges ved institusjonens årsregnskap.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Unntak fra konsernregnskapsplikten for finansstiftelser",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Plikten i regnskapsloven § 3-2 tredje ledd til å utarbeide konsernregnskap gjelder ikke for finansstiftelser som kun har som formål å forvalte eierinteresser i kun ett datterselskap.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Presentasjonsvaluta",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Regnskapsloven § 3-4 annet ledd gjelder ikke. Årsregnskapet skal presenteres i norske kroner.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Offentlighet",
+      "path": [
+        "Kapittel 2. Årsregnskap og årsberetning"
+      ],
+      "text": "Årsregnskapet, årsberetningen og revisjonsberetningen skal, etter fastsetting av årsregnskapet, uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at årsregnskapet, årsberetningen og revisjonsberetningen forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. For øvrig har enhver rett til å gjøre seg kjent med innholdet av dokumentene hos Regnskapsregisteret.\nFørste ledd gjelder ikke for filialer av utenlandske institusjoner, jf. regnskapsloven § 8-1 annet ledd.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Utbytte og konsernbidrag fra datterselskap",
+      "path": [
+        "Kapittel 3. Vurderingsregler"
+      ],
+      "text": "Utbytte og konsernbidrag fra datterselskap kan, i mottakende og avgivende foretak, regnskapsføres i samsvar med regnskapslovens bestemmelser.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Forsikringskontrakter",
+      "path": [
+        "Kapittel 3. Vurderingsregler"
+      ],
+      "text": "Forsikringskontrakter skal i konsernregnskap utarbeidet i samsvar med § 1-4 første ledd bokstav b, innregnes og måles etter samme prinsipper som anvendes i datterselskapets selskapsregnskap.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Resultatregnskap",
+      "path": [
+        "Kapittel 4. Resultatregnskap og balanse"
+      ],
+      "text": "Resultatregnskapet skal ha følgende oppstillingsplan:",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Balanse",
+      "path": [
+        "Kapittel 4. Resultatregnskap og balanse"
+      ],
+      "text": "Balansen skal ha følgende oppstillingsplan:",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Oppdeling eller sammenslåing av poster",
+      "path": [
+        "Kapittel 4. Resultatregnskap og balanse"
+      ],
+      "text": "Når institusjonens forhold tilsier det, skal det i resultatregnskap og balanse foretas en ytterligere oppdeling i underposter. Det kan ikke tilføyes nye hovedposter eller foretas endringer av rekkefølgen av hovedpostene.\nHovedposter kan ikke slås sammen. Underposter skal slås sammen dersom sammenslåingen fører til et mer oversiktlig årsregnskap. Underposter kan bare slås sammen innenfor samme hovedpost. Poster i oppstillingsplanene som er slått sammen skal spesifiseres i noter.\nUnderposter i resultatregnskapet som gjelder andre inntekter og kostnader (post 14) kan ikke slås sammen.\nUnderposter i balansen som gjelder egenkapital (post 23 og 24) kan ikke slås sammen.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Konsernregnskapets oppstillingsplan",
+      "path": [
+        "Kapittel 4. Resultatregnskap og balanse"
+      ],
+      "text": "§§ 4-1 og 4-2 gjelder så langt de passer på konsernregnskapets oppstillingsplan.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Renteinntekter og lignende inntekter – Resultatpost 1",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Under resultatpost 1 føres alle renteinntekter fra eiendeler ført under eiendelspostene 1, 2, 3 og 4. Rentelignende inntekter i forbindelse med dekkede termintransaksjoner fordelt over transaksjonens reelle løpetid og rentelignende provisjoner utregnet på grunnlag av fordringens varighet eller størrelse føres også her.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Rentekostnader og lignende kostnader – Resultatpost 2",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Under resultatpost 2 føres alle kostnader i forbindelse med forpliktelsene ført under gjeldspostene 14, 15, 16 og 20, med mindre annet følger av denne forskrift. Kostnadene omfatter periodiserte kostnader for gjeld utstedt til en pris under/over innløsningsverdien. Rentelignende kostnader i forbindelse med dekkede termintransaksjoner fordelt over transaksjonens reelle løpetid og rentelignende provisjoner utregnet på grunnlag av gjeldens varighet eller størrelse føres også her. Det samme gjelder kostnader knyttet til Bankenes sikringsfond.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Provisjonsinntekter og inntekter fra banktjenester – Resultatpost 3",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Under resultatpost 3 føres garantiprovisjonsinntekter, gebyrer og provisjonsinntekter ved blant annet handel med verdipapirer og valuta, forsikringstjenester, mottatte formidlingsprovisjoner i forbindelse med forvaltning av lån for andre långiveres regning og formidling av lån, gebyrer ved betalingsformidling og depot- og forvaltningsgebyrer.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Provisjonskostnader og kostnader ved banktjenester – Resultatpost 4",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Under resultatpost 4 føres garantiprovisjonskostnader, gebyrer og provisjonskostnader ved blant annet handel med verdipapirer og valuta og gebyr for betalingsformidling.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 5-5",
+      "heading": "Netto verdiendring og gevinst/tap på valuta og finansielle instrumenter – Resultatpost 6",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Resultatpost 6 omfatter gevinst/tap på transaksjoner med finansielle instrumenter og verdiendringer av disse.\nNetto verdiendring i resultatpost 6.1 og 6.2 omfatter annet enn verdiendringer som føres som renteinntekter og tap i resultatpost 1 og 11.\nNetto verdiendring i resultatpost 6.4 omfatter annet enn verdiendringer som føres som rentekostnader i resultatpost 2.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 5-6",
+      "heading": "Kredittap på utlån, garantier mv. og rentebærende verdipapirer – Resultatpost 11",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Kredittap på utlån, garantier mv. og rentebærende verdipapirer som måles til virkelig verdi over resultat, skal resultatføres på resultatpost 11 dersom det er relevant for forståelsen av institusjonens finansielle stilling, jf. IAS 1.85.\nResultatpost 11 omfatter innbetalinger på tidligere konstaterte tap.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 5-7",
+      "heading": "Andre inntekter og kostnader – Resultatpost 14",
+      "path": [
+        "Kapittel 5. Nærmere om postene i resultatregnskapet"
+      ],
+      "text": "Andre inntekter og kostnader omfatter inntekts- og kostnadsposter som ikke blir innregnet i resultatet slik det kreves eller tillates i IFRS, jf. IAS 1.7. Resultatpost 14.1 omfatter andre inntekter og kostnader som etter IFRS ikke vil bli omklassifisert til resultatet, jf. IAS 1.82A litra a). Resultatpost 14.1.1 omfatter verdiendringer på egenkapitalinstrumenter som regnskapsføres etter IFRS 9.5.7.5. Resultatpost 14.1.2 omfatter estimatendringer på ytelsesbaserte pensjonsordninger som regnskapsføres etter IAS 19.120 litra c). Resultatpost 14.1.3 omfatter verdiendringer på finansielle forpliktelser som skyldes egen kredittrisiko, jf. IFRS 9.5.7.7.\nResultatpost 14.2 omfatter andre inntekter og kostnader som etter IFRS kan bli omklassifisert til resultatet, jf. IAS 1.82A litra b). Resultatpost 14.2.1 omfatter verdiendringer på renteinstrumenter som regnskapsføres etter IFRS 9.4.1.2A. Resultatpost 14.2.2 omfatter gevinster og tap på sikringsinstrumenter i kontantstrømsikring som regnskapsføres etter IFRS 9.6.5.11 litra b).",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Kontanter og kontantekvivalenter – Eiendelspost 1",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Med kontantekvivalenter menes kortsiktige, svært likvide investeringer som lett kan omgjøres i kjente kontantbeløp og som har ubetydelig risiko for verdiendringer.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Utlån til og fordringer på kunder – Eiendelspost 3",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Eiendelspost 3 omfatter utlån til og fordringer på kunder som ikke er kredittinstitusjoner.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Innlån fra kredittinstitusjoner og finansieringsforetak – Gjeldspost 14",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Gjeldspost 14 omfatter enhver form for gjeld til kredittinstitusjoner og finansieringsforetak som ikke skal føres under gjeldspost 16, 20 eller 21.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Innskudd og andre innlån fra kunder – Gjeldspost 15",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Gjeldspost 15 omfatter enhver form for gjeld til kunder som ikke skal føres under gjeldspost 14, 16, 20 eller 21.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Gjeld stiftet ved utstedelse av verdipapirer – Gjeldspost 16",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Gjeldspost 16 omfatter all gjeld stiftet ved utstedelse av verdipapirer som ikke er ansvarlig lånekapital eller fondsobligasjonskapital.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Annen gjeld – Gjeldspost 18",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Gjeldspost 18 omfatter skattetrekk, skyldig merverdiavgift og skyldig lønn og arbeidsgiveravgift.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "Avsetninger – Gjeldspost 19",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Gjeldspost 19.4 omfatter avsetninger beregnet i samsvar med IAS 37.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 6-8",
+      "heading": "Innskutt egenkapital – Egenkapitalpost 23",
+      "path": [
+        "Kapittel 6. Nærmere om poster i balansen"
+      ],
+      "text": "Egne aksjer/egenkapitalbevis føres på egenkapitalpost 23.1.3 til pålydende verdi.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Alminnelig opplysningsplikt",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Regnskapsloven § 7-15 første til tredje ledd, § 7-26, § 7-27 annet ledd, § 7-30, § 7-30a, § 7-31, § 7-31a, § 7-31b og § 7-32 gjelder med de unntak og tillegg som følger av bestemmelsene i dette kapittel. Opplysninger som nevnt i dette kapittel kan utelates når de ikke er av betydning for å bedømme institusjonens eller konsernets stilling og resultat. Det skal likevel alltid gis opplysninger som nevnt i § 7-5 og § 7-7.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Noteopplysninger i samsvar med IFRS",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Det skal gis opplysninger i noter i samsvar med krav i IFRS. Følgende krav etter IFRS om opplysninger i noter til årsregnskapet kan likevel fravikes:IFRS 13 under forutsetning av det gis opplysninger om virkelig verdi i samsvar med § 7-3IFRS 15.113–128IAS 19.135 litra c og IAS 19.145–147.\nDersom adgangen i første ledd om å fravike enkelte notekrav i IFRS benyttes, skal det gis opplysninger om hvilke IFRS-krav som fravikes.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Opplysninger om virkelig verdi",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "For eiendeler og forpliktelser som måles til virkelig verdi skal det opplyses om:De verdsettingsmetodene og inndata som ble benyttet,Det nivået innenfor hierarkiet for virkelig verdi der målingen av virkelig verdi i sin helhet er kategorisert,Der målingen av virkelig verdi er kategorisert i nivå 2 eller 3, gi en beskrivelse av de verdsettingsmetodene og inndata som er benyttet. Dersom det foreligger en endring i verdsettingsmetode, skal foretaket opplyse om dette og begrunne endringen.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Aksjer, andeler og andre egenkapitalinstrumenter",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Aksjer, egenkapitalbevis og andeler i andre foretak ført under eiendelspost 6 skal spesifiseres etter foretak. Norske foretak skal angis med organisasjonsnummer. Spesifikasjonen skal omfatte de største postene og minst utgjøre 90 % av institusjonens beholdning av henholdsvis aksjer, egenkapitalbevis og andeler. Det skal opplyses om balanseført verdi, eierandel og antall aksjer i hvert foretak. Aksjer og egenkapitalbevis i finansforetak skal spesifiseres.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Egenkapital",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Regnskapsloven § 7-26 gjelder tilsvarende for institusjoner som har utstedt egenkapitalbevis.\nOpplysninger som nevnt i regnskapsloven § 7-26 tredje ledd skal omfatte egenkapitalbevis eller aksjer som innehas av medlem av generalforsamling og foretaksforsamling.\nI tillegg til opplysninger som nevnt i regnskapsloven § 7-27 annet ledd skal institusjoner som er morselskap opplyse om datterselskapers beholdning av aksjer og egenkapitalbevis utstedt av morselskapet.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Kapitaldekning",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Det skal opplyses om institusjonens kapitaldekning. Regnskapsloven § 6-6 om sammenligningstall gjelder tilsvarende\nAnsvarlig kapital, jf. finansforetaksloven § 14-1, skal spesifiseres på egenkapital (ren kjernekapital), annen godkjent kjernekapital, ansvarlig lånekapital, annen tilleggskapital, samt på fradrag og tillegg.\nInstitusjonen skal offentliggjøre beregningsgrunnlaget, jf. finansforetaksloven § 14-2, for kredittrisiko fordelt på engasjementkategori, samt for markedsrisiko og operasjonell risiko.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 7-7",
+      "heading": "Ytelser og lån til ledende personer m.v.",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Kravene i regnskapsloven § 7-32 annet ledd til opplysninger om lån eller sikkerhetsstillelse til fordel for aksjeeiere og nærstående til aksjeeiere gjelder ikke.\nPlikten til å opplyse om vilkår for lån og sikkerhetsstillelse i regnskapsloven § 7-31b niende ledd og § 7-32 annet ledd gjelder bare der vilkårene avviker fra de generelle vilkår som gjelder for ansatte.\nRegnskapsloven § 7-31b trettende ledd om adgang til å gi opplysninger i rapport etter allmennaksjeloven § 6-16b, gjelder tilsvarende for sparebanker.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "Sammenslåing av poster i oppstillingsplanen",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Poster i oppstillingsplanen som er slått sammen etter § 4-3, skal spesifiseres. Det skal gis sammenligningsinformasjon i samsvar med kravene i IAS 1.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-9",
+      "provision_ref": "§ 7-9",
+      "heading": "Nøkkeltall",
+      "path": [
+        "Kapittel 7. Noteopplysninger"
+      ],
+      "text": "Det skal opplyses om resultat før andre inntekter og kostnader som prosent av forvaltningskapitalen.",
+      "xml_path": "article#kapittel-7-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Plikt til å utarbeide delårsregnskap",
+      "path": [
+        "Kapittel 8. Delårsregnskap"
+      ],
+      "text": "Det skal utarbeides delårsregnskap for hvert kvartal. Institusjoner som ikke er noterte institusjoner, jf. § 1-2 annet ledd, kan unnlate å utarbeide delårsregnskap for fjerde kvartal. For morselskap består delårsregnskapet av selskapsregnskap og konsernregnskap.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Innhold i delårsregnskap",
+      "path": [
+        "Kapittel 8. Delårsregnskap"
+      ],
+      "text": "Delårsregnskapet skal utarbeides i samsvar med IAS 34. Det er likevel ikke krav til å utarbeide kontantstrømoppstilling. Resultatregnskap og balanse skal minst angi hovedpostene i oppstillingsplanene, jf. § 4-1 og § 4-2. Kravet i IAS 34.16A litra j) om å gi opplysninger om virkelig verdi på finansielle instrumenter, kan fravikes under forutsetning av at det gis opplysninger i samsvar med § 7-3.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Tilleggsopplysninger",
+      "path": [
+        "Kapittel 8. Delårsregnskap"
+      ],
+      "text": "Det skal gis opplysninger om institusjonens kapitaldekning.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Offentlighet m.v.",
+      "path": [
+        "Kapittel 8. Delårsregnskap"
+      ],
+      "text": "Delårsregnskapet skal vedtas av institusjonenes styre innen 45 dager etter regnskapsperiodens slutt, og uten unødig opphold offentliggjøres på institusjonens hjemmeside på Internett. Institusjonen skal sørge for at delårsregnskapet forblir offentlig i minst fem år. Finanstilsynet kan pålegge institusjonen å opprette hjemmeside på Internett. Det skal gis opplysninger om hvilke deler av delårsregnskapet som er revidert.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Finanstilsynet kan i det enkelte tilfelle dispensere fra bestemmelsene i denne forskrift.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Overgangsregler",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "For regnskapsåret 2020 kan institusjoner som utarbeider konsernregnskap etter denne forskrift § 1-4 første ledd bokstav b unnlate å omarbeide sammenligningstall. Tilsvarende gjelder institusjoner som utarbeider selskapsregnskap etter denne forskrift § 1-4 annet ledd bokstav b.\nInstitusjoner som utarbeider konsernregnskap etter denne forskrift § 1-4 første ledd bokstav b og/eller selskapsregnskap etter denne forskrift § 1-4 annet ledd bokstav b skal ved førstegangs anvendelse av krav i IFRS gi opplysninger som følger av overgangsreglene i den enkelte IFRS-standard. I tillegg skal det i noter forklares hvordan overgangen fra tidligere anvendte prinsipper har påvirket institusjonens rapporterte finansielle stilling. Det skal gis en avstemming av institusjonens egenkapital pr. 31. desember 2019 mot institusjonens egenkapital 1. januar 2020 som setter brukere i stand til å forstå de vesentligste justeringene i balanseoppstillingen.\nFor regnskapsåret 2020 kan institusjoner som utarbeider konsernregnskap etter denne forskrift § 1-4 første ledd bokstav b og/eller selskapsregnskap etter denne forskrift § 1-4 annet ledd bokstav b, unnlate å anvende IFRS 16 Leieavtaler og i stedet anvende tidligere anvendte prinsipper.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    }
+  ]
+}

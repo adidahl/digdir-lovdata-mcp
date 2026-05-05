@@ -1,0 +1,30 @@
+{
+  "id": "FOR-1997-06-19-619",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til lov 13. juni 1997 nr. 59 om endringer i lov 16. desember 1966 nr. 9 om anke til Trygderetten og i lov 28. februar 1997 nr. 19 om folketrygd (folketrygdloven).",
+  "short_title": "Overgangsregler etter folketrygdloven m.v.",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-06-19",
+  "lovdata_refid": "forskrift/1997-06-19-619",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-06-19-619",
+  "raw_xml_sha256": "c7e104480a7483d9f6705ec62b2792b222cf95f4236f104ab276f0c7d2a20474",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Endringene i trygderettsloven § 7 og § 21 andre ledd gis virkning også for saker som er under behandling i Trygderetten når loven trer i kraft, likevel slik at rett satt etter den tidligere § 7 anses som lovlig satt.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Reglene trer i kraft straks og gis virkning fra endringslovens ikrafttredelse 13. juni 1997.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

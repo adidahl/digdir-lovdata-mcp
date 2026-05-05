@@ -1,0 +1,104 @@
+{
+  "id": "FOR-2021-09-07-2692",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om infrastruktur for alternativt drivstoff",
+  "short_title": "Forskrift om infrastruktur for alternativt drivstoff",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2021-11-01",
+  "lovdata_refid": "forskrift/2021-09-07-2692",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-07-2692",
+  "raw_xml_sha256": "74be245edd835dea77ab1b40237b12792e23f031d4d265af82815bd05aeef4fa",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å sikre at anlegg som tilbyr samme type alternativt drivstoff følger like tekniske spesifikasjoner.\nForskriften skal sikre at brukere enkelt kan orientere seg om hvilke alternative drivstoff kjøretøy kan benytte og hvilke alternative drivstoff som tilbys på lade- og energistasjoner.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for eiere og operatører av ladepunkt, energistasjoner, anlegg for landstrømsforsyning og fyllestasjoner for naturgass.\nKrav til instruksjonshåndbøker og merking av kjøretøy gjelder for motorvognprodusent.\nKrav om informasjon til bruker gjelder for forhandler som omsetter motorvogn som kan benytte drivstoff som omsettes i markedet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften menes medalternativt drivstoff: drivstoff eller energikilder som helt eller delvis tjener som en erstatning for fossile oljekilder i forsyningen av energi til transport, og som potensielt kan bidra til utfasing av CO2 og forbedre transportsektorens miljøprestasjon. Dette omfatter bl.a.:elektrisitethydrogenbiodrivstoff i henhold til artikkel 2 bokstav i) i direktiv 2009/28/EFsyntetisk og parafinske drivstoffnaturgass, herunder biometan, i gassform (komprimert naturgass (CNG) og flytende form (flytende naturgass (LNG)) ogflytende petroleumsgass (LPG).elektrisk kjøretøy: motorvogn som er utstyrt med minst én elektrisk motor som ikke befinner seg utenfor motorvognen som energiomformer, med et elektrisk energilagringssystem som kan lades eksternt.ladepunkt: grensesnitt som gjør det mulig å lade ett elektrisk kjøretøy om gangen eller bytte batteri i ett kjøretøy om gangen.normalladepunkt: ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mindre enn eller lik 22 kW, med unntak av innretninger med en effekt mindre enn eller lik 3,7 kW, som installeres i private husholdninger eller hvis hovedformål ikke er å lade elektriske kjøretøyer, og som ikke er offentlig tilgjengelige.hurtigladepunkt: ladepunkt der elektrisitet kan overføres til et elektrisk kjøretøy med en effekt på mer enn 22 kW.landstrømsforsyning: levering av landstrøm gjennom et standardisert grensesnitt til fartøyer ved kai.offentlig tilgjengelig ladepunkt eller energistasjon: ladepunkt eller en energistasjon til forsyning av alternativt drivstoff, som brukerne har tilgang til, uten forskjellsbehandling. Tilgang uten forskjellsbehandling kan omfatte ulike vilkår for godkjenning, bruk og betaling.energistasjon: anlegg for fylling av alle typer drivstoff, med unntak av LNG, via et fast eller flyttbart anlegg.LNG-fyllestasjon: anlegg for fylling av LNG, som enten er et fast eller flyttbart anlegg, et offshore-anlegg eller et annet system.instruksjonshåndbok: håndbok som følger med kjøretøy og som gir informasjon om hvilket alternativt drivstoff kjøretøyet kan benytte.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Spesifikasjoner for ladepunkter og landstrømsforsyning.",
+      "path": [],
+      "text": "Offentlig tilgjengelige normalladepunkter bortsett fra trådløse eller induktive enheter, skal oppfylle kravene i punkt 1.1 i forskriftens vedlegg I.\nOffentlig tilgjengelige hurtigladepunkter bortsett fra trådløse eller induktive enheter, skal oppfylle kravene i punkt 1.2 i forskriftens vedlegg I.\nOffentlig tilgjengelige ladepunkter for motorvogn i gruppe L (mopeder og motorsykler) skal oppfylle krav i punkt 1.5 i forskriftens vedlegg I.\nLandstrømsforsyning fra land til sjøgående fartøy, skal oppfylle kravene i punkt. 1.7 i forskriftens vedlegg I.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Spesifikasjoner for energistasjoner for hydrogen",
+      "path": [],
+      "text": "Offentlig tilgjengelige energistasjoner for hydrogen som kan benyttes av motorvogn skal være i samsvar med kravene i punkt 2.1 i forskriftens vedlegg I.\nRenhetsgraden til hydrogen som kan fylles på energistasjoner skal oppfylle kravene i punkt 2.2 i forskriftens vedlegg I.\nEnergistasjoner for hydrogen skal oppfylle kravene som beskrevet i punkt 2.3 i forskriftens vedlegg I.\nKoblinger som skal benyttes for fylling av gassformig hydrogen skal tilfredsstille kravet i punkt 2.4 i forskriftens vedlegg I.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Spesifikasjoner for fyllestasjoner for naturgass (LNG og CNG)",
+      "path": [],
+      "text": "For LNG-fyllestasjoner for fartøyer gjelder de tekniske spesifikasjonene fastsatt i punkt 3.1 forskriftens vedlegg I.\nFor LNG-fyllestasjoner for motorvogner gjelder de tekniske spesifikasjonene fastsatt i punkt 3.2 i forskriftens vedlegg I.\nFor CNG-fyllestasjoner for motorvogner gjelder de tekniske spesifikasjonene fastsatt i punkt 3.3 og punkt 3.4 forskriftens vedlegg I.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Merking av offentlige tilgjengelige ladepunkter og energistasjoner",
+      "path": [],
+      "text": "På energistasjoner for motorvogner, skal pumper og dyser merkes på en tydelig og godt synlig måte med ett eller flere symboler, som viser hvilke typer drivstoff som er tilgjengelig. Symbolene skal være utformet i henhold til standard EN 16942+A1:2021.\nPå offentlig tilgjengelige ladepunkter skal det på en tydelig og godt synlig måte være angitt hvilke type kontakter som er tilgjengelig. Merking skal være i henhold til standard EN 17186.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Instruksjonshåndbøker og merking av motorvogner",
+      "path": [],
+      "text": "Instruksjonshåndbøker til motorvogner som kan benytte alternativt drivstoff skal inneholde symboler som viser hvilke typer drivstoff motorvognen kan benytte. Symbolene skal være utformet i henhold til standardene EN 16942+A1:2021 og EN 17186.\nPå alle motorvogner som kan benytte alternativt drivstoff skal det på eller i umiddelbar nærhet av påfyllingslokket, på en tydelig og godt synlig måte, med ett eller flere symboler, vises hvilke typer drivstoff som kan benyttes.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Krav til forhandlere om brukerinformasjon",
+      "path": [],
+      "text": "Forhandlere som omsetter nye motorvogner som kan benytte alternativt drivstoff skal sikre at informasjon til brukere om hvilke alternativt drivstoff motorvognen kan benytte er lett synlig og tilgjengelig. Informasjonen skal være utformet i form av symboler i henhold til standard EN 16942+A1:20121 og EN17186",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Overgangsbestemmelse",
+      "path": [],
+      "text": "Forskriften gjelder ikke for ladepunkter, energistasjoner og landstrømsanlegg for fartøy som er etablert før forskriften trer i kraft.\nFra 1. juli 2022 gjelder § 7 for etablerte og senere etableringer av energistasjoner og ladepunkter.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. november 2021.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

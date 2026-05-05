@@ -1,0 +1,1430 @@
+{
+  "id": "FOR-2004-12-01-1558",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om bokføring",
+  "short_title": "Bokføringsforskriften",
+  "department": "Finansdepartementet",
+  "date_in_force": "2005-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-06-13-1007 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2004-12-01-1558",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2004-12-01-1558",
+  "raw_xml_sha256": "3e1dba668749d953b2ef2f73c58a4500a80d2bc6093fbb4860423ac79b4f87c2",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Unntak fra bokføringsplikt",
+      "path": [
+        "Kapittel 1. Bokføringspliktige"
+      ],
+      "text": "Konkursbo som ikke er næringsdrivende og som plikter å levere skattemelding for merverdiavgift etter skatteforvaltningsloven, unntas fra bokføringsloven § 5 første ledd nr. 2 til 7.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Pliktig regnskapsrapportering",
+      "path": [
+        "Kapittel 2. Pliktig regnskapsrapportering"
+      ],
+      "text": "Pliktig regnskapsrapportering etter bokføringsloven § 3 omfatter regnskapsrapportering fastsatt med hjemmel i:Lov 17. juli 1998 nr. 56 om årsregnskap m.v. (regnskapsloven)Lov 17. juni 2005 nr. 67 om betaling og innkreving av skatte- og avgiftskrav (skattebetalingsloven)Lov 27. mai 2016 nr. 14 om skatteforvaltning (skatteforvaltningsloven), med unntak av § 8-3 første ledd bokstav e, § 8-4, § 8-5 og § 8-7.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Spesifikasjoner av pliktig regnskapsrapportering",
+      "path": [
+        "Kapittel 3. Spesifikasjoner av pliktig regnskapsrapportering"
+      ],
+      "text": "Spesifikasjoner som nevnt i bokføringsloven § 5 skal inneholde:Bokføringsspesifikasjon. Alle bokførte opplysninger pr. periode, der alle poster skal fremgå i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, tilordningskoder og andre relevante behandlingskoder. Systemgenererte poster kan fremkomme som totaler dersom de er lett kontrollerbare.Kontospesifikasjon. Alle kontoer pr. periode, der det for hver konto skal angis kontokode og kontonavn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning, andre relevante behandlingskoder og inn- og utgående saldo. Inngående og utgående merverdiavgift skal kunne spesifiseres pr. transaksjon.Kundespesifikasjon. Alle transaksjoner med kunder pr. periode, der kundens kode og navn, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.Leverandørspesifikasjon. Alle transaksjoner med leverandører pr. periode, der leverandørens kode, navn og organisasjonsnummer, alle poster i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning og inn- og utgående saldo skal fremgå.Spesifikasjon av uttak til eiere, deltakere og egen virksomhet. Alle uttak av eiendeler og tjenester spesifisert pr. eier, deltaker eller på egen virksomhet i ordnet rekkefølge til virkelig verdi med dokumentasjonsdato og dokumentasjonshenvisning.Spesifikasjon av salg til eiere og deltakere i foretak med færre enn 10 eiere eller deltakere. Alle salg av varer og tjenester spesifisert pr. eier eller deltaker i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om eiere eller deltakere opptrer som forbrukere.Spesifikasjon av salg og andre ytelser til ledende ansatte. Med ledende ansatte forstås daglig leder, butikksjefer, avdelingssjefer og andre som har bestemmende myndighet over prisfastsettelsen knyttet til eget kjøp av varer og tjenester. Alle salg av varer og tjenester til ledende ansatte spesifisert pr. ansatt i ordnet rekkefølge med dokumentasjonsdato og dokumentasjonshenvisning. Dette gjelder selv om den ledende ansatte opptrer som forbruker.Spesifikasjon av merverdiavgift.Grunnlaget for utgående merverdiavgift, fradragsberettiget innenlands inngående merverdiavgift og fradragsberettiget innførselsmerverdiavgift, fordelt på de forskjellige avgiftssatsene spesifisert pr. termin.Innenlands omsetning og uttak fritatt for merverdiavgift, innenlands omsetning med omvendt avgiftsplikt, omsetning av varer og tjenester til utlandet fritatt for merverdiavgift, samt omsetning og uttak som faller utenfor bestemmelsene i merverdiavgiftsloven kapittel 3.Kjøp med omvendt avgiftsplikt, fordelt på tjenester kjøpt fra utlandet og innenlands kjøp av varer og tjenester.Beløpene skal vises pr. konto og totalt. For utgående merverdiavgift skal avgiftsgrunnlaget også kunne spesifiseres pr. transaksjon. Spesifikasjonen skal vise eventuelle forskjeller mellom beregnet grunnlag i henhold til kontospesifikasjonen og innberettet avgiftsgrunnlag, spesifisert pr. transaksjon for hver avgiftssats.Grunnlaget for beregning av merverdiavgift ved innførsel av varer fordelt på de forskjellige avgiftssatsene, samt grunnlag knyttet til innførsel av varer som det ikke skal beregnes merverdiavgift av.Spesifikasjon av lønnsopplysningspliktige ytelser. Lønnsopplysningspliktige ytelser spesifisert pr. periode etter kontoene i regnskapssystemet. Arbeidsgiveravgiftspliktige ytelser skal dessuten kunne gjengis samlet, pr. avgiftssats og sone.Spesifikasjon av elimineringer og andre posteringer ved utarbeidelse av konsernregnskap. Alle poster spesifisert enkeltvis med dokumentasjonshenvisning.\nKunde- og leverandørspesifikasjoner som nevnt i første ledd nr. 3 og 4 skal også omfatte kontante salg og kjøp når vederlaget utgjør mer enn kr 40 000 inklusive merverdiavgift og det betales med kontanter. Det samme gjelder når varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, med unntak for de tilfeller hvor det ikke er krav om å angi kjøper i salgsdokumentet, jf. § 5-3-12. Bokføringspliktige som i hovedsak selger kontant, kan spesifisere slike salg og unntaksvise kredittsalg ved fremleggelse av kopier av salgsdokumentasjonen ordnet pr. kunde. Det samme gjelder spesifikasjon av salg til ledende ansatte, jf. første ledd nr. 7. Tilfeldige kjøp og salg kan spesifiseres på henholdsvis felles leverandørkonto og felles kundekonto med relevante identifikasjonskoder slik at opplysningsplikten kan ivaretas.\nVed formidling av varer og tjenester hvor salgsdokumentet utferdiges av formidler på vegne av den enkelte leverandør, kan transaksjonene registreres i kunde- og leverandørspesifikasjonen over formidlerens konto.\nNår det er utstedt felles salgsdokument etter § 8-15-1, kan transaksjonene registreres i leverandørspesifikasjonen over fakturautsteders konto.\nPoster kan fremkomme som totaler dersom transaksjoner og andre regnskapsmessige disposisjoner fremkommer enkeltvis og oppsummert i underliggende spesifikasjon, og er kontrollerbare mot totalene.\nDepartementet kan ved enkeltvedtak gjøre unntak fra kravet i første ledd nr. 1 og 2 om å angi andre relevante behandlingskoder i bokføringsspesifikasjon og kontospesifikasjon.\nDato for utarbeidelse av spesifikasjoner av pliktig regnskapsrapportering skal fremgå av spesifikasjonene.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Ajourhold",
+      "path": [
+        "Kapittel 4. Bokføring mv."
+      ],
+      "text": "Pliktig regnskapsrapportering på lønnsområdet medfører ikke plikt til å ajourføre bokføringen, med mindre det er annen pliktig regnskapsrapportering i perioden.\nBokføringspliktige med få transaksjoner skal ajourføre regnskapet senest innen fristene for pliktig regnskapsrapportering. Med bokføringspliktige med få transaksjoner menes foretak som har færre enn 600 bilag i året.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Bokføring i utenlandsk valuta",
+      "path": [
+        "Kapittel 4. Bokføring mv."
+      ],
+      "text": "Dersom den bokføringspliktiges funksjonelle valuta er en annen enn norske kroner kan bokføringen skje i denne valutaen. Med funksjonell valuta menes den valuta som den bokføringspliktiges økonomiske virksomhet i hovedsak er knyttet til. Filialer i utlandet kan ved bokføringen benytte egen funksjonell valuta.\nBeløp som inngår i pliktig regnskapsrapportering knyttet til merverdiavgift, skal fastsettes (låses) i norske kroner til kursen på fakturatidspunktet. Beløp som inngår i pliktig regnskapsrapportering knyttet til lønn, skal fastsettes (låses) i norske kroner til kursen på utbetalingstidspunktet. Beløp knyttet til eiendeler og gjeld hvor skatteloven har egne vurderingsregler om valuta, skal fastsettes (låses) i norske kroner til transaksjonsdagens kurs.\nOmregning av beløp som inngår i pliktig regnskapsrapportering til norske kroner skal skje minst en gang i året ved bruk av gjennomsnittskurser. Det skal dokumenteres hvordan omregningen har skjedd og hvilke kurser som er benyttet.\nBokføringspliktige som ikke utarbeider balanse ved pliktig regnskapsrapportering til skattemyndighetene, skal likevel benytte kursen på transaksjonstidspunktet ved omregning til norske kroner. Dersom kursen i perioden ikke har hatt svingninger som avviker mer enn 5 % i forhold til den månedlige gjennomsnittskursen, kan likevel månedens offisielle gjennomsnittskurs benyttes. Store enkelttransaksjoner skal i alle tilfeller omregnes til transaksjonsdagens kurs.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-1",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-1",
+      "heading": "Salgsdokumentets innhold",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Dokumentasjon av salg av varer og tjenester skal minst inneholde:Nummer og dokumentasjonsdato,angivelse av partene,ytelsens art og omfang,tidspunkt og sted for levering av ytelsen,vederlag og betalingsforfall, ogeventuell merverdiavgift og andre avgifter knyttet til transaksjonen som kreves spesifisert i lov eller forskrift. Merverdiavgift skal angis i norske kroner.Hvis kjøper skal beregne og betale merverdiavgift etter merverdiavgiftsloven § 11-1 annet eller tredje ledd, skal salgsdokumentet merkes: «Omvendt avgiftsplikt – Merverdiavgift ikke beregnet».\nDokumentasjonsdato er dato for utstedelse av dokumentet med mindre annet følger av denne forskrift.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-2",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-2",
+      "heading": "Språk i salgsdokument",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Salgsdokumentet skal utstedes på et språk som nevnt i bokføringsloven § 12. Bokføringspliktige med filialer i utlandet kan likevel utstede filialens salgsdokument på det lokale språket.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-3",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-3",
+      "heading": "Angivelse av partene",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Angivelse av kjøper, jf. § 5-1-1 nr. 2, skal minst inneholde kjøpers navn, og adresse eller organisasjonsnummer som er tildelt i henhold til lov 3. juni 1994 nr. 15 om Enhetsregisteret § 23. Ved salg som nevnt i § 5-1-1 nr. 7 skal kjøpers organisasjonsnummer alltid angis. Dersom kjøper er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA.\nAngivelse av selger, jf. § 5-1-1 nr. 2, skal minst omfatte selgers navn og organisasjonsnummer som er tildelt i henhold til lov 3. juni 1994 nr. 15 om Enhetsregisteret § 23. Dersom selger er registrert i Merverdiavgiftsregisteret, skal organisasjonsnummer etterfølges av bokstavene MVA. Dersom selger er registrert i Merverdiavgiftsregisteret ved representant etter merverdiavgiftsloven § 2-1 sjette ledd, skal også representantens navn og adresse fremgå av salgsdokumentet. Dersom selger er aksjeselskap, allmennaksjeselskap eller filial av utenlandsk selskap skal også ordet «Foretaksregisteret» fremgå av salgsdokumentet, jf. foretaksregisterloven § 10-2. Videre skal hovedkontorets adresse framgå av salgsdokumentet til slik selger. Dersom slik selger er under avvikling, skal dette framgå av salgsdokumentet.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-4",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-4",
+      "heading": "Nummerering og datering av salgsdokument",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Salgsdokument skal være forhåndsnummerert på trykte blanketter eller ved maskinelt tildelte nummer med en kontrollerbar sekvens, eller være merket på annen måte slik at fullstendig registrering av utfakturerte salg kan etterprøves på en enkel måte.\nBokføringspliktige som nevnt i § 5-2-1 tredje ledd, kan i stedet for fortløpende nummerering av hver enkelt selgers salgsdokument, anføre i salgsdokumentet hvor mye som er avregnet overfor vedkommende selger hittil i regnskapsåret.\nSalgsdokument som utstedes innen de femten første virkedager i måneden, kan angi siste dato i foregående måned som dokumentasjonsdato, forutsatt at varen eller tjenesten er levert på dette tidspunktet. Bestemmelsen gjelder tilsvarende ved utstedelse av dokumentasjon for uttak.\nVed utleie av fast eiendom hvor det utstedes salgsdokumenter på papir for flere perioder på samme tidspunkt, kan dokumentasjonsdato settes lik forfallsdato.\nPlikten til nummerering av salgsdokument, jf. § 5-1-1 nr. 1, gjelder ikke konkursbo som nevnt i § 1-1.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-5",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-5",
+      "heading": "Leveringstidspunkt",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Plikten til å angi leveringsdato på salgsdokumentet, jf. § 5-1-1 nr. 4, gjelder ikke når varen ekspederes gjennom speditør, ved postordre og lignende og salgsdokumentet følger forsendelsen.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-6",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-6",
+      "heading": "Spesifikasjon av avgiftspliktig og avgiftsfritt salg mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Avgiftspliktig og avgiftsfritt salg, salg som nevnt i § 5-1-1 nr. 7, samt salg som er unntatt merverdiavgiftsloven etter bestemmelsene i merverdiavgiftsloven kapittel 3, skal fremgå hver for seg og summeres særskilt. Det samme gjelder dersom avgiftspliktig omsetning avgiftsberegnes etter forskjellige satser.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-7",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-7",
+      "heading": "Formidling",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Den som formidler varer og tjenester, kan utferdige salgsdokument for flere leverandører i ett salgsdokument. Det kan benyttes en felles nummerserie for slike salgsdokument og det totale vederlaget for den enkelte leverandør kan unnlates spesifisert.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-8",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-8",
+      "heading": "Løpende ytelser",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Salg av ikke avgiftspliktige tjenester som leveres løpende til fast beløp per periode, i henhold til skriftlig inngått avtale, kan dokumenteres med betalingsdokumentasjon og avtale. Betalingsdokumentasjon skal i slike tilfeller angi en referanse til avtalen. Avtalen skal inneholde opplysninger som nevnt i § 5-1-1.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-9",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-9",
+      "heading": "Medlemskontingenter",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Ikke avgiftspliktig medlemskontingent i ideelle organisasjoner som regnskapsmessig anses opptjent på betalingstidspunktet, kan dokumenteres med betalingsdokumentasjon. Betalingsdokumentasjon skal i slike tilfeller inneholde opplysninger som nevnt i § 5-1-1 nr. 2 til 5.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-10",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-10",
+      "heading": "Spesifikasjon ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Ved salg av beltemotorsykkel eller firehjuls terrenggående motorsykkel som nevnt i merverdiavgiftsforskriften § 1-3-1 annet og tredje ledd, skal kjennemerke angis i salgsdokumentet. Det samme gjelder ved salg av tjenester til vedlikehold, reparasjon, påkostning og ombygging av slike samt omsetning av varer i forbindelse med utføring av slike tjenester.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-11",
+      "provision_ref": "§ 5-1#kapittel-5-kapittel-1-paragraf-11",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-1. Dokumentasjon av salg av varer og tjenester"
+      ],
+      "text": "Departementet kan i særlige tilfeller gjøre ytterligere unntak fra § 5-1-1.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-1",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-1",
+      "heading": "Utsteder av salgsdokument",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Salgsdokumentet skal utstedes av selger, med mindre annet er bestemt i lov eller forskrift. Bokføringspliktig som kjøper varer eller tjenester fra ikke-bokføringspliktig selger, kan likevel utstede salgsdokumentet på vegne av selger.\nVed salg av vare hvor det mottas innbytte (kjøp), kan en av partene i handelen utstede salgsdokumentet. Det kan benyttes en felles nummerserie for slike salgsdokument. For øvrig gjelder kravene til salgsdokumentets innhold, jf. delkapittel 5-1, for hver av partenes salg.\nFølgende bokføringspliktige kjøpere kan utstede salgsdokumentasjon på vegne av selger:foreninger og samvirkelag som hovedsakelig tilvirker eller forhandler produkter fra medlemmenes fiske, skogbruk eller gårdsbruk med binæringer, samt hagebruk, gartneri, husdyrhold og reindrift, og som foretar avregning ved alle sine kjøp av produkter fra medlemmer og ikke-medlemmerandre tilvirkere eller forhandlere som kjøper opp produkter som nevnt i bokstav a) direkte fra produsent og som har tillatelse til å anføre avgift i salgsdokumentet etter merverdiavgiftsforskriften § 15-11-1 tredje ledd.husflidsutsalg som kjøper produkter fra hjemmeprodusenter av håndverks- og husflidsarbeidandre forretninger som kjøper opp produkter som nevnt i bokstav c) og som har tillatelse til å anføre avgift i salgsdokumentet etter merverdiavgiftsforskriften § 15-11-2.kjøpere som alene besitter hele eller deler av materialet for beregning av omfang, vekt, kvalitet eller lignende som grunnlag for utbetaling av provisjon eller annet vederlag til selgeren. Salgsdokumentet skal i tilfelle utstedes av kjøper på grunnlag av en skriftlig, underskrevet avtale om dette. Avtalen skal oppbevares av både kjøper og selger. Det skal fremgå av salgsdokumentet at det er utstedt av kjøper. Kjøperen skal dessuten oppbevare annen dokumentasjon som underbygger salgsdokumentets innhold i 3 år og 6 måneder etter regnskapsårets slutt. Kjøperen skal, ved jevnlig å ta utskrift fra Enhetsregisteret eller lignende, dokumentere om selgeren er registrert i Merverdiavgiftsregisteret.\nSalgsdokumentet skal uoppfordret oversendes kjøper med mindre annet fremgår av skriftlig, undertegnet avtale mellom partene eller er bestemt i lov eller forskrift.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-2",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-2",
+      "heading": "Utstedelse av salgsdokument ved formidling",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Når en formidler utsteder salgsdokument til kjøper på vegne av selger, skal en gjenpart av salgsdokumentet oversendes til selger.\nFormidler kan likevel utstede avregning til selger for dennes del av salget. Slik avregning skal for den enkelte selger inneholde de opplysningene som er angitt i salgsdokumentet til kjøper.\nOversendelse av salgsdokument eller avregning til selger kan unnlates dersom selger utsteder et særskilt salgsdokument til formidler, på grunnlag av en skriftlig undertegnet avtale om dette. Det skal fremgå av avtalen at dette gjelder formidling, og avtalen skal oppbevares av både selger og formidler. Selgers salgsdokument skal tydelig merkes «FORMIDLING – IKKE KJØPSDOKUMENTASJON» og ha en henvisning til avtalen.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-3",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-3",
+      "heading": "Tidspunkt for utstedelse av salgsdokument og dokumentasjon av uttak",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Salgsdokument skal utstedes snarest mulig og senest en måned etter levering, med mindre annet er bestemt i denne forskriften. Bokføringspliktige som leverer årlig skattemelding for merverdiavgift etter skatteforvaltningsforskriften § 8-3-3 eller § 8-3-7, kan likevel ikke utstede salgsdokument senere enn det kalenderår levering finner sted med mindre bestemmelsen i § 5-1-3 tredje ledd benyttes.\nDokumentasjon av uttak skal utstedes snarest mulig etter uttakstidspunktet og senest innen femten virkedager i måneden etter at uttaket fant sted. Bokføringspliktige som leverer årlig skattemelding for merverdiavgift etter skatteforvaltningsforskriften § 8-3-3 eller § 8-3-7, kan likevel ikke utstede dokumentasjonen senere enn det kalenderår uttaket fant sted med mindre bestemmelsen i § 5-1-3 tredje ledd benyttes. Uttak skal være betryggende registrert i perioden mellom uttaket skjer og dokumentasjon for uttak utstedes.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-4",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-4",
+      "heading": "Månedlig fakturering",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Leveranser som faktureres månedlig, kan faktureres innen femten virkedager i måneden etter leveringsmåneden.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-5",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-5",
+      "heading": "Løpende levering av varer og tjenester",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Tjenester som leveres løpende, og varer som leveres i den forbindelse, skal faktureres senest en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift, jf. skatteforvaltningsforskriften § 8-3-1. Utstedelse av salgsdokument for løpende tjenesteleveranser kan utsettes ytterligere for ubetydelige leveranser. Ved anbudsarbeider og lignende kan avtalte betalingsplaner legges til grunn for faktureringen med mindre de avviker vesentlig fra den reelle fremdriften i perioden.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-6",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-6",
+      "heading": "Strøm, telefoni og lignende",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "For tjenester som leveres basert på måling av faktisk forbruk (strøm, telefoni og lignende), kan det utstedes salgsdokument for lengre perioder, begrenset til en periode på ett år. Salgsdokumentet skal så vidt mulig utstedes innenfor det kalenderår levering finner sted.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-7",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-7",
+      "heading": "Forskuddsfakturering",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Salgsdokument for persontransport, servering, abonnementer, leier, avgifter og lignende kan utstedes før levering har funnet sted, begrenset til en periode på ett år. Det samme gjelder salgsdokument som gjelder adgang til museer, gallerier, fornøyelsesparker og opplevelsessentre eller rett til å overvære idrettsarrangementer. Salgsdokumentet skal så vidt mulig utstedes innenfor det kalenderår levering finner sted. For andre typer leveranser kan det ikke utstedes salgsdokument inklusive merverdiavgift før den avgiftspliktige varen eller tjenesten er levert.\nFørste ledd er ikke til hinder for at varer og tjenester som er unntatt fra merverdiavgiftsloven forskuddsfaktureres. Første ledd er heller ikke til hinder for at varer og tjenester som er fritatt for merverdiavgift forskuddsfaktureres, dersom avgiftsfritaket kan dokumenteres etter bestemmelsene i merverdiavgiftsforskriften kapittel 6 på det tidspunkt salgsdokumentet utstedes.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-8",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-8",
+      "heading": "Kreditnota",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Når det utstedes nytt salgsdokument til erstatning for allerede avsendt salgsdokument, skal det også utstedes en kreditnota som reverserer opprinnelig salgsdokument.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-9",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-9",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Departementet kan ved enkeltvedtak gjøre ytterligere unntak fra bestemmelsen i § 5-2-1 om at salgsdokumentet skal utstedes av selger.\nDepartementet kan i særlige tilfeller ved enkeltvedtak tillate at det utstedes salgsdokument inklusive merverdiavgift før den avgiftspliktige varen eller tjenesten er levert, jf. § 5-2-6.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-10",
+      "provision_ref": "§ 5-2#kapittel-5-kapittel-2-paragraf-10",
+      "heading": "Filformat ved elektronisk utstedelse av salgsdokumenter",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-2. Utstedelse av salgsdokument"
+      ],
+      "text": "Salgsdokumenter som utstedes elektronisk skal utstedes i et filformat som ikke enkelt lar seg redigere i allment kjent sluttbrukerverktøy for tekstbehandling, regneark, e-post mv. uten at endringen fremgår direkte av salgsdokumentet.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-1",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-1",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "I dette kapittel menes medkontantsalg: salg av varer og tjenester der kjøpers betalingsforpliktelse overfor selger gjøres opp ved levering, ved bruk av betalingskort eller kontanter som betalingsmiddel. Salg over internett eller ved oppkrav anses ikke som kontantsalg,betalingskort: debetkort, kredittkort og faktureringskort,kontanter: andre betalingsmidler enn betalingskort,kassasystem: kassaapparat eller annet elektronisk system for registrering av kontantsalg og utskrift av salgskvittering,kassaskuff: oppbevaringsplass for betalingsmiddel som registreres i et kassasystem,kassapunkt: en enhet innen et kassasystem som kan avslutte et kontantsalg ved å beordre utskrift av en salgskvittering,kassasystemets ID-nummer: en unik identifikator for kassasystemet,skuffeåpning (nullinnslag): integrert kassaskuff åpnes uten at det har skjedd noen registrering av kontantsalg eller tilbakebetaling,salgskvittering: utskrift fra kassasystem som viser gjennomført kontantsalgstransaksjon,returkvittering: utskrift fra kassasystemet som viser at tidligere utskrevet salgskvittering inneholder feilaktige opplysninger eller opplysninger om tilbakebetaling for prisjusterte eller returnerte varer eller tjenester,utleveringskvittering: bekreftelse for kredittsalg,løpende anvendelse: all bruk av kassasystemet, blant annet registrering av salg mv. og utskrift av kvitteringer som nevnt i bokstavene i til k, endring av priser, korreksjoner, skuffeåpninger (nullinnslag), utskrift av rapporter og lignende, samt endringer av programvare og midlertidig tilkobling av ekstern programvare,elektronisk journal: dokumentasjon av den løpende anvendelsen av kassasystemet i elektronisk form,Z-rapport: sammenstilling av dagens registreringer i kassasystemet,X-rapport: sammenstilling av registreringer i kassasystemet siden forrige Z-rapport,Integrert betalingsløsning: løsninger hvor informasjon om salget, beløp mv. sendes fra kassasystemet til betalingsløsningen, betalingen registreres automatisk i kassasystemet og betalingsmiddelet er annet enn sedler og mynter.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-2",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-2",
+      "heading": "Registreringer i kassasystemet",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Bokføringspliktige skal registrere kontantsalg fortløpende i et kassasystem med produkterklæring som tilfredsstiller kravene i kassasystemlova og kassasystemforskrifta med mindre annet er bestemt i denne forskrift. Også annen løpende anvendelse av kassasystemet skal registreres fortløpende i kassasystemet. Registrering i kassasystemet skal omfatte all den informasjon som kreves spesifisert på X-rapport, Z-rapport og kvitteringer etter kassasystemforskrifta § 2-8 (§ 2-8-1 til § 2-8-7).\nKontantsalget skal registreres på den enkelte operatør hvis systemet har slik funksjonalitet, og operatøren oppbevarer kontantene i eget pengebelte eller lignende.\nTips kan registreres særskilt i kassasystemet hvis systemet har slik funksjonalitet og kontanttips oppbevares i kassaskuffen. Registrering skal da også omfatte tips betalt med betalingskort mv. Dersom tips ikke registreres særskilt på kassasystemet, kan kontanttips ikke oppbevares i kassaskuffen.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-3",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-3",
+      "heading": "Forbud mot andre kassasystemer enn de som har produkterklæring",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Det kan bare benyttes kassasystemer i virksomheten som det foreligger produkterklæring for etter kassasystemlova § 5.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-4",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-4",
+      "heading": "Krav til bruk av kassaskuff",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Bokføringspliktig skal oppbevare kontanter i integrert kassaskuff. Dersom kontantsalget blir registrert i kassasystemet på den enkelte operatør og betaling ikke skjer ved et fast kassapunkt, kan operatøren likevel benytte pengebelte eller lignende for å oppbevare kontanter for virksomheten.\nDersom beordring av utskrift av salgskvittering ikke skjer fra et fast kassapunkt og salget blir registrert på den enkelte operatør, kan bokføringspliktig benytte et kassasystem der kassapunktet ikke har integrert kassaskuff. Det samme gjelder for kassapunkt der det ikke er mulig å betale med sedler og mynter.\nIntegrert kassaskuff skal lukkes umiddelbart etter at betaling for kontantsalget er mottatt. Det samme gjelder dersom kassaskuffen har vært åpnet for andre formål som veksling eller inn- og utbetalinger.\nDersom flere bokføringspliktige bruker felles kassasystem, jf. § 5-3-9, må minst en av de bokføringspliktige bruke integrert kassaskuff for oppbevaring av betalingsmidlene. Dersom det ikke er mulig å holde betalingsmidlene fra flere bokføringspliktige brukere adskilt i kassaskuffen, skal øvrige brukere oppbevare betalingsmidlene i egne kassaskuffer.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-5",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-5",
+      "heading": "Utskrift av salgskvittering mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved hvert salg skal det skrives ut en salgskvittering fra kassasystemet som skal fremlegges for kunden. Dette gjelder likevel ikke dersom det benyttes en integrert betalingsløsning i forbindelse med salget og kunden ikke ønsker kvittering. Dersom kassasystemet også brukes til å registrere kredittsalg som blir fakturert på et senere tidspunkt, skal det skrives ut en utleveringskvittering.\nSalgskvittering og utleveringskvittering kan sendes kunden elektronisk.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-6",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-6",
+      "heading": "Krav til dokumentasjon av returer mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved returer skal det skrives ut en særskilt returkvittering. Ved returer hvor det samtidig skjer en ny salgstransaksjon kan returen fremgå av salgskvitteringen.\nDersom det er registrert feil betalingsmiddel på salgskvittering, skal det enten tas ut returkvittering som korrigerer feilen og ny salgskvittering med angivelse av rett betalingsmiddel eller en kvittering som har referanse til salgskvitteringens nummer og som kun viser endringen av betalingsmiddel. Dokumentasjonen skal skrives ut og tilbys kunden.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-7",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-7",
+      "heading": "Krav til dokumentasjon av andre korreksjonsposter",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Det skal foreligge dokumentasjon av korreksjonsposter med angivelse av beløp og årsak.\nDersom korreksjonen gjelder tidligere registrert salg, skal det foreligge ytterligere dokumentasjon som underbygger korreksjonen. Tilbakebetaling til kunde, herunder ved returer, skal dokumenteres med kundens signatur og telefonnummer.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-8",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-8",
+      "heading": "Registrering av vekselkasse og krav til dokumentasjon ved uttak av kontanter",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved salgsdagens begynnelse skal vekselkassen registreres i kassasystemet.\nUttak av kontanter fra kassaskuffen i løpet av dagen skal dokumenteres særskilt. Dokumentasjonen skal minst inneholde følgende opplysninger:dato og klokkeslettbeløphvem som har gjort uttaket.Dokumentasjonen skal oppbevares i kassaskuffen.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-9",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-9",
+      "heading": "Bruk av felles kassasystem",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Flere bokføringspliktige kan benytte felles kassasystem hvis kassasystemet er tilrettelagt for dette, jf. kassasystemforskrifta § 2-5 femte ledd.\nNår flere bokføringspliktige benytter felles kassasystem skal betalingsmidlene holdes adskilt, jf. § 5-3-4 tredje ledd, og det skal foretas individuelle dagsoppgjør.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-10",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-10",
+      "heading": "Overføring av opplysninger til annet oppbevaringsmedium",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Dersom lagringsminnet på kassasystemet er fullt skal opplysningene i elektronisk journal umiddelbart overføres til annet elektronisk lagringsmedium, jf. kassasystemforskrifta § 2-7 første ledd.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-11",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-11",
+      "heading": "Reserveløsninger",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Dersom det oppstår feil i et kassasystem, og feilen medfører at kravene i kassasystemlova § 3 eller kassasystemforskrifta § 2-1 til § 2-8 ikke oppfylles, skal feilen rettes uten ugrunnet opphold. Inntil feilen er rettet skal den bokføringspliktige ta i bruk hensiktsmessige reserveløsninger.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-12",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-12",
+      "heading": "Krav til innhold mv. i salgsdokument",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Kassasystemet skal kunne skrive salgsdokument (salgskvittering) for hvert salg og beløpet som registreres på kassasystemet med display skal være lett synlig for kunden med mindre det er vanskelig gjennomførbart.\nSalgskvittering skal, med de unntak som følger av tredje og fjerde ledd, inneholde de opplysninger som følger av delkapittel 5-1 og kassasystemforskrifta § 2-8-4. Salgskvitteringen skal dessuten angi klokkeslett for salget.\nSelger kan fravike krav om angivelse av kjøper, jf. § 5-1-1 nr. 2, ved kontantsalg fra detaljist. Dette gjelder likevel ikke når kjøper er bokføringspliktig, herunder når en ansatt kjøper på vegne av sin bokføringspliktige arbeidsgiver, og varen eller tjenesten er beregnet for videresalg eller som direkte innsatsfaktor i produksjon eller tjenesteleveranse, og vederlaget er over kr 1 000 inklusive merverdiavgift eller hvor kjøpet gjelder drivstoff til bruk i person- eller varetransport. Selger kan heller ikke fravike kravet om angivelse av kjøper dersom vederlaget er på kr 40 000 eller mer inklusive merverdiavgift og det betales med kontanter. Selger plikter i alle tilfelle å angi kjøper på dennes kvittering dersom kjøper ber om dette, jf. § 5-5-1 annet ledd. I slike tilfeller skal selger signere og stemple kvitteringen.\nVed kontantsalg fra detaljist kan enkeltinnslag angis per varegruppe dersom detaljert beskrivelse av art, jf. § 5-1-1 nr. 3, vanskelig lar seg gjennomføre. Selger plikter i slike tilfeller å utstede ytterligere spesifikasjon dersom kjøper ber om dette.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-13",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-13",
+      "heading": "Dokumentasjon av hver enkelt salgstransaksjon mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Registrert kontantsalg og annen løpende anvendelse av kassasystemet skal dokumenteres med elektronisk journal.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-14",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-14",
+      "heading": "Dagsoppgjør",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved dagens slutt skal det utarbeides en Z-rapport fra hvert enkelt kassapunkt. Z-rapporten skal enten skrives ut på papir eller lagres elektronisk i kassasystemet slik at den til enhver tid kan skrives ut på papir.\nTilsvarende skal det ved dagens slutt utarbeides rapport fra hver enkelt betalingsterminal over de betalinger og uttak som er registrert. Den delen av betalingene som gjelder tips skal fremgå særskilt. Rapporten skal være forløpende nummerert med maskinelt tildelte nummer.\nKontantbeholdningen skal telles daglig og sammenholdes med opplysningene på Z-rapporter. Opplysninger fra betalingsterminal om betalinger ved bruk av betalingskort skal sammenholdes med tilsvarende opplysninger på Z-rapport. Eventuelle differanser skal forklares. Avstemmingen skal foretas for det enkelte kassapunkt. Hvis kassapunktene betjenes av flere operatører som har egen kassaskuff, skal avstemmingen foretas for hver enkelt operatør.\nHvis tips ikke er registrert på kassasystemet, jf. § 5-3-2 tredje ledd, skal kontanttips telles opp særskilt og fremgå av dagsoppgjøret.\nDagsoppgjøret skal dateres og det skal fremgå hvem som har foretatt opptelling av kontantbeholdningen og avstemt kontantsalget.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-3-paragraf-15",
+      "provision_ref": "§ 5-3#kapittel-5-kapittel-3-paragraf-15",
+      "heading": "Oppbevaring og tilgjengelighet",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-3. Særlig om dokumentasjon av kontantsalg"
+      ],
+      "text": "Z-rapport og rapport fra betalingsterminal skal oppbevares sammen med avstemmingen av kontantsalget.\nKassasystemet må i sin helhet være tilgjengelig i Norge. Kassasystemet kan likevel være midlertidig utilgjengelig i Norge når dette skjer som ledd i registrering av kontantsalg mv. om bord på et transportmiddel til eller fra utlandet.\nSystembeskrivelse som nevnt i kassasystemlova § 3 annet ledd skal oppbevares slik at den er lett tilgjengelig for offentlige kontrollmyndigheter.",
+      "xml_path": "article#kapittel-5-kapittel-3-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-1",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-1",
+      "heading": "Ambulerende og sporadisk kontantsalg mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "For bokføringspliktige som driver ambulerende eller sporadisk kontantsalg som ikke overstiger 3 ganger folketrygdens grunnbeløp i løpet av et regnskapsår for så vidt gjelder denne virksomheten, gjelder ikke kravene i § 5-3-2. Det samme gjelder bokføringspliktige med kontantsalg som ikke overstiger kr 50 000 eksklusive merverdiavgift i løpet av et regnskapsår. Bokføringspliktige som nevnt i første og annet punktum kan dokumentere kontantsalg fortløpende i innbundet bok, der sidene er forhåndsnummererte, ved gjenpart av daterte forhåndsnummererte salgsbilag eller ved oppstilling over ut- og innleverte varer og kontanter. Oppstillingen skal være datert og signert. Det skal skrives ut kvittering dersom kunden ber om det.\nSom daterte, forhåndsnummererte salgsbilag etter første ledd tredje punktum, regnes også forhåndsnummererte billetter. Det skal fremgå av salgsbilaget i hvilken grad det er gitt rabatt eller fribillett. Hvis rabatt eller fribillett er gitt på grunnlag av medlemskap eller lignende, skal det opplyses om dette.\nKontantsalg kreves ikke registrert i et kassasystem dersom den bokføringspliktige utsteder salgsdokument (kontantfaktura) i samsvar med delkapittel 5-1.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-2",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-2",
+      "heading": "Oppsøkende salg til publikum",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved oppsøkende salg til publikum på idrettsarrangementer, konserter og lignende, kan daglig salg fra hver enkelt selger registreres som ett beløp på kassasystemet. Ved registrering som nevnt i første punktum og for bokføringspliktige som ikke har plikt til å benytte kassasystem, må dokumentasjonen av kontantsalget vise ut- og innleverte varer og kontanter. Oppgjørene skal telles og signeres av to personer.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-3",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-3",
+      "heading": "Salg fra automater",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Salg fra automater kan dokumenteres med avstemming mellom opptelte kontanter og registrerte salg etter automatens telleverk, eller beregnet salg ut fra andre registrerte opplysninger i automaten. Dersom automaten ikke registrerer slike opplysninger kan salget dokumenteres med lister som viser beregnet salg ut fra endring i varebeholdning.\nUnntaket i første ledd gjelder ikke drivstoff-, parkerings- og billettautomater. Unntaket gjelder heller ikke andre automater med funksjonalitet til å skrive salgskvittering. Kravet til utskrift av salgskvittering i § 5-3-5 gjelder likevel ikke dersom automaten har en funksjon som gjør det frivillig for kunden å ta ut salgskvittering, jf. kassasystemforskrifta § 2-6 fjerde ledd. For dagsoppgjør gjelder bestemmelsen i § 5-4-5.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-4",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-4",
+      "heading": "Salg fra andre ubetjente salgssteder enn automater",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Salg fra andre ubetjente salgssteder enn automater, jf. § 5-4-3 kan dokumenteres med forhåndsnummererte konvolutter, elektronisk salgsrapport som viser alle transaksjoner enkeltvis eller innbundet bok der sidene er forhåndsnummererte. Dokumentasjonen skal inneholde opplysninger om ytelsens art og omfang, dato og vederlag. Salg av varer kan alternativt dokumenteres med lister som viser beregnet salg ut fra endring i varebeholdning.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-5",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-5",
+      "heading": "Dagsoppgjør mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Ved salg som nevnt i § 5-4-1 og § 5-4-2 skal det foretas daglig opptelling av kassabeholdning som skal sammenholdes mot salgsdokumentasjonen. Ved salg som nevnt i § 5-4-3 og § 5-4-4 kan avstemming mot salgsdokumentasjon skje på det tidspunktet den bokføringspliktige oppsøker salgsstedet, forutsatt at kassabeholdningen er tilfredsstillende sikret i mellomtiden. Oppgjørene skal dateres og det skal fremgå hvem som har foretatt opptelling av kassabeholdningen. Eventuelle differanser skal forklares.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-6",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-6",
+      "heading": "Unntak for konkursbo",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Plikten til nummerering av salgsbilag gjelder ikke konkursbo som nevnt i § 1-1.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-4-paragraf-7",
+      "provision_ref": "§ 5-4#kapittel-5-kapittel-4-paragraf-7",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-4. Unntak fra kravene om dokumentasjon av kontantsalg"
+      ],
+      "text": "Departementet kan i særlige tilfeller gjøre ytterligere unntak fra kravet til kassasystem i delkapittel 5-3.",
+      "xml_path": "article#kapittel-5-kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-5#kapittel-5-kapittel-5-paragraf-1",
+      "heading": "Kjøpsdokumentets innhold",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-5. Dokumentasjon av kjøp"
+      ],
+      "text": "Kjøpsdokumentet skal være salgsdokumentet selger har utstedt, og skal inneholde de opplysningene som fremgår av delkapittel 5-1 og § 5-3-12.\nVed kontantkjøp fra detaljist skal kjøpsdokumentasjonen, i tillegg til opplysningene nevnt i første ledd, inneholde angivelse av kjøper når vederlaget overstiger kr 1 000 inklusive merverdiavgift. Kravet til angivelse av kjøper etter første punktum gjelder ikke når det er betalt med den bokføringspliktiges betalingskort.\nNår kjøper ikke er angitt eller kan identifiseres gjennom bruk av betalingskort etter første eller annet ledd, skal formålet med eller bruksområdet for varene og tjenestene klart fremgå av dokumentasjonen. Dokumentasjonen skal dateres og signeres.\nDokumentasjon av kjøp som er lagt ut av en ansatt i den bokføringspliktige virksomheten skal inneholde angivelse av kjøper (arbeidsgiver) når kjøpet gjelder varer eller tjenester som er beregnet for videresalg eller som direkte innsatsfaktor i vare- eller tjenesteproduksjon og vederlaget overstiger kr 1 000 inklusive merverdiavgift. Ved andre typer kjøp skal den ansatte utarbeide og signere en datert oppstilling som viser hvilke kjøp som er foretatt. Formålet med eller bruksområdet for varene og tjenestene skal fremgå av dokumentasjonen. Dokumentasjonen skal også være i samsvar med aktuelle regler i forskrift 21. desember 2007 nr. 1766 til utfylling og gjennomføring mv. av skattebetalingsloven. Utleggsdokumentasjonen skal så vidt mulig utstedes innenfor den merverdiavgiftsterminen utleggene er foretatt.\nKassakvittering skal oppbevares sammen med eventuell annen dokumentasjon, herunder dokumentasjon som nevnt i fjerde ledd.\nDersom mottatt salgsdokument er uriktig eller på annen måte ikke tilfredsstiller kravene i delkapittel 5-1 og § 5-3-12, må kjøper kreve nytt salgsdokument. Dersom dette ikke lar seg gjøre, må kjøper kunne sannsynliggjøre at kjøpet er en reell utgift for kjøpers virksomhet.",
+      "xml_path": "article#kapittel-5-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-5#kapittel-5-kapittel-5-paragraf-2",
+      "heading": "Dokumentasjon av merverdiavgift, tollavgift og særavgifter ved innførsel av varer",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-5. Dokumentasjon av kjøp"
+      ],
+      "text": "Grunnlaget for beregning av merverdiavgift ved innførsel av varer, grunnlaget for varer det ikke skal beregnes merverdiavgift av, tollavgift og særavgifter skal dokumenteres med innførselsdeklarasjon og grunnlagsdokumenter knyttet til slik deklarasjon, jf. § 7-5-1 første ledd i forskrift 27. oktober 2022 nr. 1901 om inn- og utførsel av varer. Det skal foreligge særskilt dokumentasjon som viser hvilke beløp som inngår i grunnlaget for beregning av merverdiavgift ved innførsel av varer og selve avgiften.",
+      "xml_path": "article#kapittel-5-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-1",
+      "provision_ref": "§ 5-6",
+      "heading": "Dokumentasjon av lønn mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av lønn og andre oppgavepliktige ytelser, samt forskuddstrekk og utleggstrekk skal vise ytelsene pr. motpart. Dette gjelder også når det er gitt pålegg om trekk i en ytelse som ikke er gjenstand for forskuddstrekk. Følgende opplysninger skal fremgå av dokumentasjonen:fødselsnummernavnskattekommunetabellnummer og/eller den trekkprosent som står på skattekortet.\nDersom skattekortet ikke er gjort tilgjengelig for arbeidsgiver, og opplysninger som skal fremgå av skattekortet ikke på annen måte er kommet til arbeidsgiverens kunnskap, skal arbeidsgivers dokumentasjon vise navn og nummer på den kommunen hvor mottakeren av ytelsen (motparten) oppgir at vedkommende var bosatt 1. november i året før trekkåret. Dersom mottaker av ytelsen (motparten) er utenlandsk og ikke var bosatt i Norge 1. november i året før trekkåret, skal dokumentasjonen vise hvilken kommune vedkommende bosatte seg i ved ankomsten til Norge.\nHar arbeidsgiveren mottatt pålegg om utleggstrekk, skal dokumentasjonen også inneholde opplysninger om:når pålegget er mottatttrekkprosenten eller det beløp som skal trekkes for hver utbetalingsperiode.\nFor hver periode med pliktig regnskapsrapportering av forskuddstrekk og utleggstrekk skal dokumentasjonen inneholde opplysninger pr. motpart:dato for utbetaling av ytelser og om mulig det tidsrom ytelsen knytter seg tilbrutto ytelse, hvis aktuelt med angivelse av antall godtgjorte timereventuelt tillegg for naturalytelser som det skal foretas trekk ifradrag etter skattebetalingsloven § 5-9trekkgrunnlagetstørrelsen av det foretatte forskuddstrekk og utleggstrekk.\nFor ansatte som helt eller delvis godtgjøres basert på antall arbeidede timer, skal i tillegg følgende opplysninger være dokumentert pr. motpart:dato for utført arbeidantall timer den aktuelle datosum timer for den aktuelle perioden.\nDokumentasjon av lønn mv. skal utstedes senest på det tidspunkt det er anledning til å få de aktuelle ytelsene utbetalt.\nDet skal foreligge en lettfattelig beskrivelse av lønnssystemets oppbygging og funksjoner.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-2",
+      "provision_ref": "§ 5-7",
+      "heading": "Uttak av eiendeler og tjenester til veldedige og allmennyttige institusjoner og organisasjoner mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av uttak av eiendeler og tjenester fra den bokføringspliktiges virksomhet til bruk som gave til veldedige og allmennyttige institusjoner og organisasjoner skal i tillegg til opplysningene i § 5-1-1, inneholde virkelig verdi av eiendelen eller tjenesten og eventuelle kostnadsrefusjoner mottatt fra institusjonen eller organisasjonen. Dersom virkelig verdi av eiendelen eller tjenesten overstiger 2 ganger folketrygdens grunnbeløp skal dokumentasjonen attesteres av den bokføringspliktiges revisor. Dersom virksomheten ikke er revisjonspliktig, skal dokumentasjonen attesteres av styrets leder eller annet medlem av styret eller tilsvarende ledelsesorgan.\nDokumentasjon av uttak av næringsmidler som leveres vederlagsfritt til mottaker for utdeling på veldedig grunnlag etter merverdiavgiftsloven § 6-19 annet ledd, skal dessuten inneholde en bekreftelse fra legitimert representant hos mottaker om at varene er mottatt for slik utdeling. Kravet til å angi vederlag, betalingsforfall samt virkelig verdi gjelder ikke.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-3",
+      "provision_ref": "§ 5-8",
+      "heading": "Uttak av eiendeler og tjenester til eiere, deltakere eller anvendelse i egen virksomhet",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av uttak til eiere, deltakere eller anvendelse i egen virksomhet skal følge kravene til innhold i § 5-1-1 så langt de passer. I tillegg skal dokumentasjonen inneholde virkelig verdi av eiendelen eller tjenesten.\nVed anvendelse av varer og tjenester til reparasjon av brukte kjøretøyer, jf. merverdiavgiftsloven § 6-7, skal det dokumenteres på hvilket objekt varene og tjenestene er benyttet.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-4",
+      "provision_ref": "§ 5-9",
+      "heading": "Reise- og oppholdsutgifter",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Det skal fremgå av dokumentasjon av reise- og oppholdsutgifter hvem utgiftene omfatter, hva formålet med reisen har vært og hvilke arrangement den reisende har deltatt på. Består dokumentasjonen av flere reisedokumenter, og opplysningene som nevnt i første punktum ikke fremgår av hvert enkelt dokument, skal det være gjensidig henvisning mellom dem. Dokumentasjonen skal også være i samsvar med aktuelle regler i forskrift 21. desember 2007 nr. 1766 til utfylling og gjennomføring mv. av skattebetalingsloven.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-5",
+      "provision_ref": "§ 5-10",
+      "heading": "Bevertningsutgifter mv.",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av bevertningsutgifter skal angi formålet og hvem bevertningen omfatter.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-6",
+      "provision_ref": "§ 5-11",
+      "heading": "Dokumentasjon av betalingstransaksjoner",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av betalingstransaksjoner som ikke vedrører kontante kjøp og salg, skal vise betaler og mottaker av betalingen samt beløp og dokumentasjonsdato.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-7",
+      "provision_ref": "§ 5-12",
+      "heading": "Dokumentasjon av andre regnskapsmessige disposisjoner",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon av andre regnskapsmessige disposisjoner skal vise årsaken til at disposisjonen gjennomføres og bokføres. Når disposisjonen er en korreksjon av en bokført opplysning, skal det påføres en gjensidig referanse mellom den nye og den opprinnelige dokumentasjonen så langt det er praktisk mulig.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-8",
+      "provision_ref": "§ 5-13",
+      "heading": "Papir- og trykkvalitet",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Dokumentasjon som utstedes på papir skal utstedes med en papir- og trykkvalitet som sikrer lesbarheten i hele oppbevaringsperioden. Bestemmelsen gjelder tilsvarende ved dokumentasjon av balansen, jf. kapittel 6.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-9",
+      "provision_ref": "§ 5-14",
+      "heading": "Dokumentasjon av medgått tid",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Bokføringspliktige som utfører tjenester hvor vederlaget er basert på tidsforbruk, skal for hver eier og ansatt dokumentere utførte timer. Timene skal spesifiseres pr. dag fordelt på intern tid og på de enkelte kunder eller oppdrag. Dokumentasjonen skal være utarbeidet senest innen utløpet av den etterfølgende måned. Med intern tid menes timer brukt på arbeidsoppgaver som ikke kan henføres til kunder eller oppdrag. Bestemmelsene gjelder også i tilfeller hvor det er avtalt fast pris.\nIntern tid kan unnlates spesifisert dersom omfanget av tjenester hvor vederlaget er basert på tidsforbruk, er ubetydelig. Dersom intern tid ikke spesifiseres, skal det dokumenteres at tjenestene hvor vederlaget er basert på medgått tid, er ubetydelig.\nBestemmelsene i første og annet ledd gjelder ikke eiere og ansatte som kun utfører interne, administrative arbeidsoppgaver. Bestemmelsene gjelder heller ikke administrative enheter i konsern, ideelle organisasjoner og foreninger uten økonomisk formål som utelukkende leverer tjenester internt, og hvor vederlaget fastsettes på bakgrunn av kostnadsfordeling. Slike bokføringspliktige skal dokumentere prisfastsettelsen på annen tilfredsstillende måte, og herunder dokumentere de vurderinger som er gjort med hensyn til hvilke kostnader som skal fordeles samt fordelingsnøkler og fordelingsmetode.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-6-paragraf-10",
+      "provision_ref": "§ 5-15",
+      "heading": "Dokumentasjon av timebestillinger",
+      "path": [
+        "Kapittel 5. Dokumentasjon av bokførte opplysninger",
+        "Delkapittel 5-6. Dokumentasjon av andre bokførte opplysninger"
+      ],
+      "text": "Bokføringspliktige som utfører tjenester etter timebestilling, skal dokumentere de bestilte timene. Dokumentasjonen skal omfatte tidspunkt for utførelsen av tjenesten, kundens navn og så vidt mulig hvem som skal utføre tjenesten. Det skal fremgå av dokumentasjonen hvilke timer som ikke er gjennomført. Dersom en avbestilt time erstattes av en ny bestilling, skal den nye bestillingen fremgå av dokumentasjonen og den tidligere bestillingen kan fjernes.\nFor bokføringspliktige som tar imot timebestillinger, gjelder bestemmelsen også for timer som ikke er forhåndsbestilte.",
+      "xml_path": "article#kapittel-5-kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Dokumentasjon av varelager",
+      "path": [
+        "Kapittel 6. Dokumentasjon av balansen"
+      ],
+      "text": "Varelager skal telles ved regnskapsårets slutt. Bokføringspliktige som fører et betryggende lagerregnskap kan foreta opptelling i løpet av året, forutsatt at tilgang og avgang fra opptellingstidspunktet til regnskapsårets slutt kan dokumenteres på tilfredsstillende måte.\nDokumentasjon av varelager skal inneholde en spesifisert oppstilling over varens art, kvantum (med angivelse av måleenhet) og verdi for hver enkelt vare, samt en summeringskolonne for de spesifiserte verdiene. Beregningsmåten for de spesifiserte verdiene, jf. tredje ledd, skal fremgå av dokumentasjonen.\nVed dokumentasjon av varelageret kan verdi for hver enkelt vare etter første ledd beregnes til:anskaffelseskostvarens kalkulerte utsalgsverdi dersom varelagerets anskaffelseskost på tilfredsstillende måte kan beregnes på grunnlag av denne verdien. Det skal fremgå av dokumentasjonen hvordan anskaffelseskosten er beregnet. Varer som etter sin art er fritatt for merverdiavgift ved salg eller avgiftsberegnes med forskjellige satser, skal skilles ut og vises som egne grupper. Det samme gjelder varer med forskjellig bruttofortjeneste.\nDen regnskapsmessige og skattemessige verdien av varelageret skal fremgå av dokumentasjonen. For bokføringspliktige etter bokføringsloven § 2 annet ledd, er det tilstrekkelig at den skattemessige verdien fremgår. Varer verdsatt til virkelig verdi skal vises som egen gruppe.\nDokumentasjonen skal være ordentlig og oversiktlig. Dersom tellelister på papir benyttes, skal de være nummerert før tellingen foretas. Dokumentasjonen skal være datert og det skal fremgå hvem som har foretatt opptellingen. Tellelister på papir skal oppbevares som en del av dokumentasjonen, men kan skannes for elektronisk oppbevaring.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Dokumentasjon av bankinnskudd, lånegjeld, kontanter og lignende",
+      "path": [
+        "Kapittel 6. Dokumentasjon av balansen"
+      ],
+      "text": "Dokumentasjon av bankinnskudd og lånegjeld skal inneholde oppgaver fra finansinstitusjoner over mellomværende.\nKontantbeholdning skal telles ved årets slutt. Opptellingen skal dokumenteres, og det skal fremgå hvem som har foretatt opptellingen og på hvilket tidspunkt. Eventuelle differanser skal forklares.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Dokumentasjon av finansielle instrumenter",
+      "path": [
+        "Kapittel 6. Dokumentasjon av balansen"
+      ],
+      "text": "Finansielle instrumenter som er registrert i et verdipapirregister skal dokumenteres med oppgaver fra et verdipapirregister over verdipapirbeholdning.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Dokumentasjon av avsetninger, nedskrivninger mv.",
+      "path": [
+        "Kapittel 6. Dokumentasjon av balansen"
+      ],
+      "text": "Dokumentasjon av poster som er verdsatt etter vurdering skal minst omfatte opplysninger om beregningsmetode og de forutsetninger som beregningen bygger på.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Oppbevaringsmedium",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Regnskapsmateriale skal oppbevares på en måte som opprettholder lesekvaliteten i hele oppbevaringsperioden. Det samme gjelder bokførte opplysninger som skal holdes elektronisk tilgjengelig etter bokføringsloven § 13b.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Sikkerhetskopi",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Det skal foreligge en sikkerhetskopi av elektronisk regnskapsmateriale.\nSikkerhetskopiering skal skje så ofte som virksomhetens og transaksjonenes art og omfang tilsier og innen ajourholdsfristene i bokføringsloven § 7 annet ledd. Sikkerhetskopien skal oppbevares adskilt fra originalen. Testing av sikkerhetskopien skal skje minimum en gang i året.\nDersom regnskapsmateriale er erstattet ved overføring av regnskapsinformasjon til elektronisk medium med hjemmel i bestemmelser i eller i medhold av bokføringsloven, skal originalt regnskapsmateriale oppbevares til det er tatt sikkerhetskopi av det elektroniske regnskapsmaterialet.\nDet skal foreligge en fortegnelse over regnskapsmateriale som er sikkerhetskopiert, hvor ofte sikkerhetskopiering gjennomføres og hvor originalen og sikkerhetskopien oppbevares. Fortegnelsen skal oppbevares i fem år etter regnskapsårets slutt.\nReglene i bokføringsloven § 13 og § 13b, og i denne forskrift om oppbevaringspliktig regnskapsmateriale, oppbevaringssted, oppbevaringstid, sikring og elektronisk tilgjengelighet gjelder tilsvarende for sikkerhetskopien som for originalen.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Unntak fra oppbevaringstid",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Dokumentasjon av antall arbeidede timer i henhold til § 5-6 femte ledd skal oppbevares i Norge i 3 år og 6 måneder etter regnskapsårets slutt.\nDokumentasjon som nevnt i § 5-14 skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt.\nDokumentasjon som nevnt i § 5-15 skal oppbevares i fem år etter regnskapsårets slutt.\nDokumentasjon av kjøp av kapitalvarer som nevnt i merverdiavgiftsloven § 9-1 (2) pkt. b, skal oppbevares i ti år etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Unntak fra oppbevaringssted",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Bokføringspliktige som fører regnskap i utlandet skal overføre regnskapsmateriale til oppbevaring i Norge innen en måned etter fastsetting av årsregnskapet og senest sju måneder etter regnskapsårets slutt. Departementet kan ved enkeltvedtak pålegge den bokføringspliktige å føre og oppbevare regnskapet i Norge dersom den bokføringspliktige vesentlig tilsidesetter bestemmelser i eller i medhold av bokføringsloven.\nFor utenlandske foretak som ikke lenger har bokføringsplikt til Norge er plikten til oppbevaring av regnskapsmateriale i Norge begrenset til 3 år etter regnskapsårets slutt.\nBokføringspliktige som driver virksomhet i utlandet kan oppbevare regnskapsmateriale knyttet til denne virksomheten i dette land, dersom de er pliktige til det etter det aktuelle lands lovgivning. Oppbevaringstiden skal som et minimum følge bokføringsloven § 13 annet ledd og reglene i denne forskrift selv om oppbevaringstiden er en annen etter det aktuelle lands lovgivning.\nRegnskapsmateriale skal uten ubegrunnet opphold kunne fremlegges for offentlig kontrollmyndighet i Norge i hele oppbevaringstiden.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Adgang til å oppbevare elektronisk regnskapsmateriale i andre EØS-stater, Storbritannia og Sveits",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Bokføringspliktige kan oppbevare elektronisk regnskapsmateriale i et annet EØS-land, Storbritannia og Sveits. Regnskapsmaterialet skal være tilgjengelig i lesbar form og skal kunne skrives ut på papir fra terminal eller lignende i Norge i hele oppbevaringsperioden. Den bokføringspliktige skal skriftlig informere skattekontoret om hvilket regnskapsmateriale som oppbevares i utlandet, hvor regnskapsmaterialet oppbevares, og hvordan kontrollmyndighetene til enhver tid kan få adgang til regnskapsmaterialet. Oppbevaringstiden skal som et minimum følge bokføringsloven § 13 annet ledd og reglene i denne forskrift selv om oppbevaringstiden er en annen etter det aktuelle lands lovgivning.\nUten hensyn til unntaket i første ledd kan skattekontoret ved enkeltvedtak pålegge bokføringspliktige å oppbevare elektronisk regnskapsmateriale i Norge i en periode på inntil 3 år dersom den bokføringspliktige vesentlig har overtrådt bestemmelser gitt i eller i medhold av bokføringsloven eller dersom norske myndigheters tilgang til elektronisk regnskapsmateriale i utlandet har blitt vanskeliggjort på grunn av forhold på den bokføringspliktiges, herunder eventuelle tjenestetilbyderes, side.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Lukking av regnskapsperioder",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Regnskapsperioder skal lukkes innen fristene som nevnt i bokføringsloven § 7 annet ledd. Lukkingen skal skje på en måte som gir betryggende sikring mot endring eller sletting av bokførte opplysninger.\nDet skal foreligge en beskrivelse av regnskapssystemets funksjonalitet for lukking av regnskapsperioder, herunder hvordan lukkingen gir betryggende sikring mot endring eller sletting av bokførte opplysninger. Beskrivelsen skal oppbevares i fem år etter regnskapsårets slutt.\nBestemmelsene i første og annet ledd gjelder ikke for bokføringspliktige som oppbevarer utarbeidede spesifikasjoner av pliktig regnskapsrapportering, jf. bokføringsloven § 13 første ledd nr. 2.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 7-7",
+      "heading": "Elektronisk tilgjengelighet",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Med elektronisk tilgjengelighet menes at de bokførte opplysningene er tilgjengelig i regnskapssystemet eller lagret på annen måte. Ved lagring i utlandet må de bokførte opplysningene være tilgjengelig gjennom terminal eller lignende i Norge.\nKravet til sikkerhetskopiering etter § 7-2 gjelder tilsvarende for bokførte opplysninger som holdes elektronisk tilgjengelig.\nBokføringspliktige som har mindre enn 5 millioner kroner i omsetning eksklusive merverdiavgift, er unntatt fra kravet i bokføringsloven § 13b om å ha bokførte opplysninger tilgjengelig elektronisk. Når en bokføringspliktig virksomhet som ikke omfattes av første punktum avvikles, skal bokførte opplysninger være tilgjengelig elektronisk i minst 6 måneder etter at virksomheten ble avviklet.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "Gjengivelse av elektronisk bokførte opplysninger i standardisert form",
+      "path": [
+        "Kapittel 7. Oppbevaring og elektronisk tilgjengelighet"
+      ],
+      "text": "Bokføringspliktige som skal ha bokførte opplysninger elektronisk tilgjengelig etter bokføringsloven § 13b, skal kunne gjengi bokførte opplysninger i standardisert form. Kravet gjelder også for bokføringspliktige som omfattes av unntakene i § 7-7 tredje ledd, men som likevel har bokførte opplysninger elektronisk tilgjengelig.\nSkattedirektoratet fastsetter innholdet og formatet ved gjengivelse av elektronisk bokførte opplysninger i standardisert form.\nSkattedirektoratet kan i særlige tilfeller gjøre unntak fra kravet etter første ledd, herunder gi utsettelse med å oppfylle kravet.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-1",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "Dette delkapittelet gjelder den som utfører arbeid for egen eller andres regning innen bygge- og anleggsvirksomhet og verftsindustri.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-2",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-2",
+      "heading": "Dokumentasjon av timer",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "Bokføringspliktige etter § 8-1-1 skal føre timelister etter § 5-14.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-3",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-3",
+      "heading": "Utstedelse av salgsdokument",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "Salgsdokument kan utstedes i samsvar med bygge- og anleggsarbeidets fremdrift. Når arbeidet er fullført, skal salgsdokument utstedes senest innen en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift, jf. skatteforvaltningsforskriften § 8-3-1.\nNår det er mottatt en delbetaling som samsvarer med arbeidets fremdrift, skal salgsdokument for delbetalingen utstedes senest innen en måned etter utløpet av den alminnelige skattleggingsperioden for merverdiavgift.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-4",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-4",
+      "heading": "Krav om prosjektregnskap",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "For hver periode med pliktig regnskapsrapportering, og ikke sjeldnere enn hver fjerde måned, skal det kunne utarbeides egne spesifikasjoner (prosjektregnskap) etter § 8-1-4 for prosjekter der anbudspris eller anslått omsetningsverdi overstiger 5 ganger folketrygdens grunnbeløp eksklusive merverdiavgift.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-5",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-5",
+      "heading": "Prosjektregnskapets innhold",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "Prosjektregnskapet skal inneholde følgende opplysninger:prosjektkodeoppdragsgivers navn og adresse, eventuelt organisasjonsnummeroppdragets artoppdragets oppstartoppdragets opphøralle direkte kostnaderalle inntekter.\nSpesifikasjoner av kostnader og inntekter skal tilpasses oppdragets art. Kostnader skal minst spesifiseres på lønnskostnader, materialkostnader, kostnader til underentreprenører og andre direkte kostnader.\nProsjektkoden skal fremgå for hver enkelt post i bokføringsspesifikasjonen og kontospesifikasjonen etter § 3-1 første ledd nr. 1 og 2.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-1-paragraf-6",
+      "provision_ref": "§ 8-1#kapittel-8-kapittel-1-paragraf-6",
+      "heading": "Oppbevaringsplikt og sporbarhet",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-1. Bygge- og anleggsvirksomhet"
+      ],
+      "text": "Prosjektregnskap som nevnt i § 8-1-4 eller bokførte opplysninger som er nødvendige for å kunne utarbeide slike prosjektregnskap skal oppbevares i 10 år. Det samme gjelder dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet, samt byggekontrakter med anbud/kalkyler, tegninger, kontrakter med underentreprenører, timelister og ordrelister. I tillegg skal opprinnelige timelister på papir oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, eventuelt skannet for elektronisk oppbevaring, selv om timelistene er overført til andre media for oppbevaring i hele 10-årsperioden. Oppbevaringsplikten etter tredje punktum gjelder ikke dersom følgende vilkår er oppfylt:den bokføringspliktige har revisjonsplikt, jf. revisorloven § 2-1,revisor har signert kontrolloppstilling og næringsspesifikasjon foregående skattleggingsperiode, jf. skatteforvaltningsforskriften §§ 7-2-11, 8-2-7 og 8-9-4, ogden bokføringspliktige etter § 8-1-1 har ikke mottatt bokføringspålegg i medhold av skatteforvaltningsloven eller skattebetalingsloven i løpet av de foregående 18 måneder for brudd på forskriften § 3-1 første ledd nr. 9, § 5-6 eller § 8-1-2.\nOpprinnelige timelister som skal oppbevares etter første ledd tredje punktum, skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt, selv om plikten til å oppbevare opprinnelige timelister bortfaller i løpet av oppbevaringstiden. Dersom den bokføringspliktiges revisjonsplikt opphører, jf. første ledd fjerde punktum nr. 1, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato revisors fratreden er registrert i Foretaksregisteret. Dersom revisor ikke har signert kontrolloppstilling eller næringsspesifikasjon, jf. første ledd fjerde punktum nr. 2, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra fristen for å levere skatte- eller selskapsmeldingen, jf. skatteforvaltningsforskriften § 8-2-3. Dersom den revisjonspliktige mottar bokføringspålegg, jf. første ledd fjerde punktum nr. 3, inntrer plikten til å oppbevare opprinnelige timelister etter første ledd tredje punktum fra den dato bokføringspålegget har kommet fram til den bokføringspliktige.\nBestemmelsene i § 7-6 om lukking av regnskapsperioder gjelder tilsvarende for bokførte opplysninger som er nødvendige for utarbeidelse av prosjektregnskap som nevnt i § 8-1-4.\nDet skal foreligge et toveis kontrollspor mellom prosjektregnskap og dokumentasjon av bokførte opplysninger som inngår i prosjektregnskapet.",
+      "xml_path": "article#kapittel-8-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-1",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-1",
+      "heading": "Taksameter",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "Bokføringspliktige som driver taxinæring skal registrere kontant- og kredittsalg ved bruk av taksameter som tilfredsstiller kravene i forskrift 1. oktober 2009 nr. 1226 om krav til taksametre.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-2",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-2",
+      "heading": "Krav til innholdet i salgsdokumentet",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "Ved kontantsalg skal taksameteret skrive salgsdokument (salgskvittering) til kunden for hvert salg. Kvitteringen skal inneholde opplysninger som nevnt i § 5-3-12, samt opplysninger om type betalingsmiddel.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-3",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-3",
+      "heading": "Dokumentasjon av kontantsalg",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "Kontantsalget skal dokumenteres ved bruk av skiftlapper og rapport fra taksameteret som viser hver enkelt salgstransaksjon, jf. § 8-2-2. Skiftlappene skal nummereres fortløpende av systemet og inneholde løyvenummeret og taksameterets serienummer.\nSkiftlappen skal for hvert skift inneholde følgende opplysninger:skiftets datoklokkeslett for skiftets begynnelse og sluttantall turerbrutto innkjørt beløp fordelt på kontant og kreditt. Kontantbeløp skal være fordelt på ulike betalingsmiddelkontanttips og tips som betales med betalingskort mv.totale og besatte kilometersjåførens navn og fødselsnummer eller annen identifikasjonskodeakkumulerte tall for totale kilometer og totalt innkjørt i kroner. Kilometer og kroner skal oppgis med henholdsvis minimum seks- og nisifrede tall.\nSkiftlapper skal ved utskrift signeres fortløpende med fullt navn av skiftets sjåfør.\nDersom skiftlappsystemet på grunn av feil, strømbrudd eller lignende midlertidig er ute av drift skal årsaken dokumenteres. I disse tilfellene skal det benyttes forhåndsnummererte manuelle skiftlapper. Besatte kilometer, jf. annet ledd nr. 6 kan i slike tilfeller unnlates spesifisert. For øvrig gjelder § 5-3-11 så langt den passer.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-4",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-4",
+      "heading": "Kassaavstemming",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "For hvert skift skal det foretas en avstemming hvor opptalt kassabeholdning mv. sammenholdes med kontantsalg ifølge skiftlapp. Avstemmingen skal dateres og det skal fremgå hvem som har foretatt avstemmingen.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-5",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-5",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "Dokumentasjon som nevnt i § 8-2-3 og § 8-2-4 skal oppbevares i fem år etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-2-paragraf-6",
+      "provision_ref": "§ 8-2#kapittel-8-kapittel-2-paragraf-6",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-2. Taxinæring"
+      ],
+      "text": "Departementet kan i særlige tilfeller gjøre unntak fra kravet til taksameter i § 8-2-1.",
+      "xml_path": "article#kapittel-8-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-3-paragraf-1",
+      "provision_ref": "§ 8-3#kapittel-8-kapittel-3-paragraf-1",
+      "heading": "Spesifikasjon av omsetning og uttak, varekjøp og varebeholdning på varegrupper",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-3. Frisørvirksomhet og skjønnhetspleie"
+      ],
+      "text": "Bokføringspliktige som driver frisørvirksomhet og skjønnhetspleie skal bokføre kjøp av varer slik at disse kan spesifiseres for salgsvarer og behandlingsvarer. Omsetning og uttak skal tilsvarende kunne spesifiseres for varesalg og salg av behandlingstjenester. Bokføringspliktige som driver frisørvirksomhet skal dessuten kunne skille ut og spesifisere klipp fra øvrige behandlingstjenester. Ved varetelling skal varene grupperes adskilt for salgsvarer og behandlingsvarer.",
+      "xml_path": "article#kapittel-8-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-3-paragraf-2",
+      "provision_ref": "§ 8-3#kapittel-8-kapittel-3-paragraf-2",
+      "heading": "Z-rapporter",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-3. Frisørvirksomhet og skjønnhetspleie"
+      ],
+      "text": "Z-rapporter som omtalt i delkapittel 5-3, skal vise omsetning pr. ansatt fordelt på varesalg og salg av behandlingstjenester. Z-rapportene i frisørvirksomhet skal dessuten vise omsetning av klipp adskilt fra øvrige behandlingstjenester.",
+      "xml_path": "article#kapittel-8-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-3-paragraf-3",
+      "provision_ref": "§ 8-3#kapittel-8-kapittel-3-paragraf-3",
+      "heading": "Dokumentasjon av priser og timebestillinger",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-3. Frisørvirksomhet og skjønnhetspleie"
+      ],
+      "text": "Det skal utarbeides oversikt over de til enhver tid gjeldende priser. Det skal likeledes utarbeides oversikt over hvilke priser som brukes ved uttak til eiere og ansatte. Prisoversiktene skal dateres og signeres av den som har ansvaret for å fastsette prisene.\nI tillegg til de krav som stilles til registrering av timebestillinger i § 5-15 i denne forskriften, skal det registreres behandlingstype.",
+      "xml_path": "article#kapittel-8-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-3-paragraf-4",
+      "provision_ref": "§ 8-3#kapittel-8-kapittel-3-paragraf-4",
+      "heading": "Personalliste",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-3. Frisørvirksomhet og skjønnhetspleie"
+      ],
+      "text": "Bokføringspliktige etter § 8-3-1 skal føre og oppbevare personalliste i samsvar med § 8-5-6 og § 8-5-7.",
+      "xml_path": "article#kapittel-8-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-1",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Med serveringssted menes i denne forskrift serveringssted som nevnt i lov 13. juni 1997 nr. 55 om serveringsvirksomhet § 2.\nDette delkapittelet gjelder for den som i næring driver serveringssted der det foregår servering av øl, vin eller brennevin.\nForskriften § 8-5-6 og § 8-5-7 gjelder dessuten for den som i næring driver serveringssted, cateringvirksomhet, gatekjøkken eller annen virksomhet hvor tilberedt mat mv. bringes ut til kunden eller hentes på forretningsstedet.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-2",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-2",
+      "heading": "Spesifikasjon av omsetning, uttak, varekjøp og varebeholdning på varegrupper",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Bokføringen skal innrettes slik at omsetning og uttak kan spesifiseres på varegruppene mat, øl, vin, brennevin, rusbrus/cider, mineralvann, annen drikke, tobakk og andre varer. Innkjøpte varer for videresalg skal spesifiseres på tilsvarende måte. Ved varetelling grupperes varene på samme måte som spesifikasjon av varekjøp.\nEventuelle garderobeinntekter, inngangspenger (cover charge) og spilleinntekter fra automater skal spesifiseres.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-3",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-3",
+      "heading": "Kassasystem mv.",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Salg av mat og drikke mv. fra restaurant eller annet serveringssted skal registreres fortløpende på kassasystem som nevnt i denne forskrift § 5-3-2, selv om betaling skjer når gjesten forlater serveringsstedet. Slik registrering skal enten skje ved at salget registreres fortløpende på bordnummer eller lignende, mens kvittering tas ut når gjesten skal betale, eller ved at salget registreres hver gang det serveres mat eller drikke mv. med samtidig utskriving av kvittering fra kassasystemet.\nOpplysninger om gjester som gis fri adgang eller fri garderobe på grunnlag av medlemskap eller lignende, skal registreres på kassasystemet. Opplysningene skal spesifiseres i X og Z-rapport med angivelse av antall for hver tjenestegruppe, jf. kassasystemforskrifta § 2-8-2 og 2-8-3.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-5",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-5",
+      "heading": "Dokumentasjon av priser",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Det skal utarbeides oversikt over de til enhver tid gjeldende priser. I den grad trykte menyer brukes, skal disse dokumentere prisene. Det skal likeledes utarbeides oversikt over hvilke priser som brukes ved uttak til eiere, ansatte, artister og gjester. Prisoversiktene skal dateres og signeres av den som har ansvaret for å fastsette prisene.\nServeringssteder som oftere enn hver uke endrer sin matmeny er unntatt fra kravet om å dokumentere priser for denne del av omsetningen.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-6",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-6",
+      "heading": "Personalliste",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Den bokføringspliktige skal sørge for at det på arbeidsstedet føres en personalliste. Personallisten skal angi den bokføringspliktiges navn og organisasjonsnummer.\nPersonallisten skal gi en oversikt over personer som arbeider i virksomheten, herunder også ulønnet og innleid personale. Personallisten skal angi den enkeltes navn og fødselsnummer eller D-nummer. Fødselsnumre og D-numre kan erstattes med unike koder. Det skal i så fall utarbeides en oversikt over benyttede koder med tilhørende fødselsnummer eller D-nummer. Kodeoversikten anses som en del av personallisten.\nPersonallisten skal for hver arbeidsdag angi tidspunktet for arbeidsdagens begynnelse og slutt, og skal føres i umiddelbar tilknytning til at arbeidet påbegynnes og avsluttes.\nDen bokføringspliktige skal sørge for at pass eller annen gyldig legitimasjon med bilde, eller kopi av slik legitimasjon kan fremvises for alle tilstedeværende som arbeider i virksomheten.\nPersonalliste kan føres manuelt eller elektronisk. Personalliste som føres manuelt skal foreligge på arbeidsstedet i en innbundet bok der sidene er forhåndsnummererte. Personalliste som føres elektronisk skal umiddelbart kunne skrives ut på papir. Dersom det foretas rettelser i personallisten, skal det fremgå hvem som har foretatt rettelsen og tidspunkt for når det er gjort.\nBokføringspliktige som plikter å utarbeide arbeidsplan etter arbeidsmiljøloven (lov 17. juni 2005 nr. 62) § 10-3, eller som på annet grunnlag utarbeider tilsvarende arbeidsplan, kan benytte denne som alternativ til personalliste etter første ledd. En slik arbeidsplan må oppdateres fortløpende. Bestemmelsene om personalliste i denne forskrift gjelder tilsvarende for slik arbeidsplan.\nBestemmelsene i denne paragraf gjelder ikke for bokføringspliktige der personalet kun består av innehaveren, dennes ektefelle/samboer eller barn under 16 år. Bestemmelsene gjelder heller ikke bokføringspliktige, der personalet kun består av daglig leder som også er deltaker eller aksjonær i foretaket, dennes ektefelle/samboer eller barn under 16 år. Bestemmelsene gjelder heller ikke dersom den bokføringspliktige i hovedsak driver virksomhet som ikke omfattes av kravet til personalliste.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-4-paragraf-7",
+      "provision_ref": "§ 8-5#kapittel-8-kapittel-4-paragraf-7",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-5. Serveringssteder"
+      ],
+      "text": "Dokumentasjon av priser som nevnt i § 8-5-5 og personalliste med eventuell kodeoversikt som nevnt i § 8-5-6 skal oppbevares i 3 år og 6 måneder etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-8-kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-5-paragraf-1",
+      "provision_ref": "§ 8-6#kapittel-8-kapittel-5-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-6. Hoteller mv."
+      ],
+      "text": "Dette delkapittelet gjelder for den som omfattes av bestemmelsene om romutleie i hotellvirksomhet mv., jf. merverdiavgiftsforskriften § 5-5-1 og § 5-5-2.",
+      "xml_path": "article#kapittel-8-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-5-paragraf-2",
+      "provision_ref": "§ 8-6#kapittel-8-kapittel-5-paragraf-2",
+      "heading": "Bokføring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-6. Hoteller mv."
+      ],
+      "text": "Bokføringen skal innrettes slik at transaksjoner knyttet til helpensjon, halvpensjon og overnatting med frokost kan spesifiseres hver for seg.",
+      "xml_path": "article#kapittel-8-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-5-paragraf-3",
+      "provision_ref": "§ 8-6#kapittel-8-kapittel-5-paragraf-3",
+      "heading": "Spesifikasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-6. Hoteller mv."
+      ],
+      "text": "For hver rapportperiode skal fordeling av pensjonspriser mellom omsetning som avgiftsberegnes med de ulike satsene eller som er unntatt merverdiavgiftsloven etter merverdiavgiftsloven kapittel 3, spesifiseres.",
+      "xml_path": "article#kapittel-8-kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-5-paragraf-5",
+      "provision_ref": "§ 8-6#kapittel-8-kapittel-5-paragraf-5",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-6. Hoteller mv."
+      ],
+      "text": "Benyttes kalkyle som grunnlag ved fordelingen av bruttopensjonsprisen, skal kalkylen oppbevares i fem år etter regnskapsårets slutt. Det samme gjelder for kalkyle over frokostverdien.",
+      "xml_path": "article#kapittel-8-kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-6-paragraf-1",
+      "provision_ref": "§ 8-7",
+      "heading": "Stats- og bygdeallmenninger",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-7. Stats- og bygdeallmenninger"
+      ],
+      "text": "Stats- og bygdeallmenninger skal bokføre alle leveranser, utbetalt utbytte samt bidrag fra allmenningen slik at opplysningene kan spesifiseres for hver enkelt bruksberettiget.\nAv dokumentasjonen skal det fremgå hvilke kvanta som er levert. Videre skal fremgå både verdi beregnet etter vanlige priser ved detaljomsetning i åpent marked, og den betaling som den bruksberettigede har erlagt for leveranser av tømmer, ved, skurlast, høvellast, torv mv. Når den bruksberettigede har fått utvist tømmer og ved på rot, skal virkets antatte rotverdi ved salg i åpent marked anføres. Når det utbetales utbytte eller bidrag, skal det anføres hvor mye av det utbetalte som tidligere er skattlagt på allmenningens hånd.",
+      "xml_path": "article#kapittel-8-kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-7-paragraf-1",
+      "provision_ref": "§ 8-8#kapittel-8-kapittel-7-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land"
+      ],
+      "text": "Dette delkapittelet gjelder for bokføringspliktige som nevnt i bokføringsloven § 2, jf. regnskapsloven § 1-2 første ledd nr. 13, som utøver eller deltar i virksomhet som er skattepliktig etter petroleumsskatteloven, med unntak av skattepliktige etter petroleumsskatteloven § 3 og § 5. Videre gjelder den bokføringspliktige som nevnt i bokføringsloven § 2, jf. regnskapsloven § 1-2 første ledd nr. 13, som ikke har varig tilknytning til riket.",
+      "xml_path": "article#kapittel-8-kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-7-paragraf-2",
+      "provision_ref": "§ 8-8#kapittel-8-kapittel-7-paragraf-2",
+      "heading": "Bokføring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land"
+      ],
+      "text": "Bokføringen skal innrettes slik at alle økonomiske transaksjoner mellom den bokføringspliktige og foretak med interessefellesskap trer klart frem og slik at disse transaksjoner kan påvises enkeltvis og samlet.\nInteressefellesskap mellom to foretak foreligger når det ene av foretakene direkte eller indirekte eier eller kontrollerer mer enn 20 prosent i det andre foretaket, eller når en tredjeperson direkte eller indirekte eier eller kontrollerer mer enn 20 prosent i begge foretak.",
+      "xml_path": "article#kapittel-8-kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-7-paragraf-3",
+      "provision_ref": "§ 8-8#kapittel-8-kapittel-7-paragraf-3",
+      "heading": "Spesifikasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land"
+      ],
+      "text": "Bokføringspliktige som har påtatt seg oppdrag som for oppdragsgiveren er rapporteringspliktig i henhold til skatteforvaltningsloven § 7-6, skal kunne spesifisere inntekter og direkte kostnader for hver kontrakt. Det må være mulig å kontrollere at all inntekt vedrørende slik virksomhet er tatt med i regnskapet.",
+      "xml_path": "article#kapittel-8-kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-7-paragraf-4",
+      "provision_ref": "§ 8-8#kapittel-8-kapittel-7-paragraf-4",
+      "heading": "Dokumentasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land"
+      ],
+      "text": "Det skal foreligge en oppstilling som viser hvilke kostnader som inngår i fordelingen av indirekte kostnader, samt anvendte fordelingsnøkler. Sammen med oppstillingen skal det være en forklaring på de anvendte fordelingsprinsipper, herunder hvordan belastninger og godskrivinger er fordelt mellom de enkelte selskapsenheter og/eller foretak med interessefellesskap.",
+      "xml_path": "article#kapittel-8-kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-7-paragraf-5",
+      "provision_ref": "§ 8-8#kapittel-8-kapittel-7-paragraf-5",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-8. Utenlandske foretak som driver virksomhet på norsk sokkel, unntatt petroleumsutvinning og rørledningstransport, eller foretak som driver midlertidig virksomhet på land"
+      ],
+      "text": "Dokumentasjon som nevnt i § 8-8-4 skal oppbevares i 10 år.",
+      "xml_path": "article#kapittel-8-kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-9#kapittel-8-kapittel-8-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-9. Petroleumsutvinning og rørledningstransport"
+      ],
+      "text": "Dette delkapittelet gjelder for bokføringspliktige som driver utvinning av undersjøiske petroleumsforekomster eller rørledningstransport i de områder som er nevnt i petroleumsskatteloven § 1.",
+      "xml_path": "article#kapittel-8-kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-9#kapittel-8-kapittel-8-paragraf-2",
+      "heading": "Bokføring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-9. Petroleumsutvinning og rørledningstransport"
+      ],
+      "text": "Ved bokføring av salg og uttak av petroleum skal både fakturerte eller avregnede priser og fastsatte normpriser registreres.",
+      "xml_path": "article#kapittel-8-kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-9#kapittel-8-kapittel-8-paragraf-3",
+      "heading": "Dokumentasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-9. Petroleumsutvinning og rørledningstransport"
+      ],
+      "text": "Dokumentasjonen av salg og/eller uttak av petroleum skal inneholde opplysninger om:hvem som kjøpernår kontrakten er inngåttnår petroleumen passerte leveringsstedet (det leveringssted som er lagt til grunn for det enkelte normprisvedtak)petroleumens artleveringsvilkårkredittidbetalingsvalutafraktbeløp (ved andre leveringsvilkår enn FOB)kvantumfaktura, eller avregningspris pr. enhetsalg eller uttak etter faktura- eller avregningspris.",
+      "xml_path": "article#kapittel-8-kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-9#kapittel-8-kapittel-8-paragraf-4",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-9. Petroleumsutvinning og rørledningstransport"
+      ],
+      "text": "Oppbevaringspliktig materiale etter bokføringsloven § 13 skal oppbevares ordnet i minst 15 år etter utløpet av vedkommende inntektsår.",
+      "xml_path": "article#kapittel-8-kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-1",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Dette delkapittelet gjelder for den som omfattes av merverdiavgiftsloven § 4-5, § 4-6 og § 4-10 om videresalg og uttak av brukte varer mv.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-2",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-2",
+      "heading": "Spesifikasjon av kjøp og salg",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Videreforhandlere skal spesifisere alle kjøp og salg av brukte varer, kunstverk, samleobjekter og antikviteter, jf. dog annet ledd. Mottatte gjenstander skal straks merkes med et nummer, som også skal fremgå av spesifikasjonen. Det skal fremgå av spesifikasjonen om avansen eller de alminnelige regler for avgiftsberegningen er lagt til grunn ved avgiftsberegningen ved videresalget av gjenstanden. Spesifikasjonen skal inneholde følgende opplysninger:gjenstandens nr.kjøpsdatokjøpssumen klar beskrivelse av varen samt antall, størrelse, mengde eller vektnavn og adresse til den person gjenstanden er ervervet frasalgsdatosalgssum, inkludert avgiftberegningsgrunnlag utgående avgift.\nVed samlede kjøp hvor prisen på den enkelte vare ikke er kjent, skal det under pkt. d) minimum angis hovedgrupper av varer som er innkjøpt samt en nøyaktig angivelse av det antall gjenstander som er innkjøpt med antatt pris som overstiger kr 300. Disse gjenstandene skal merkes med nummeret i spesifikasjonen. Salg fra samlede kjøp kreves ikke spesifisert.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-3",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-3",
+      "heading": "Dokumentasjon av kjøp",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Videreforhandlere må påse at det utferdiges salgsdokument også når selger av gjenstanden ikke er bokføringspliktig. I slike tilfeller regnes også avregningsseddel eller annet bilag som videreforhandleren utsteder som salgsdokument. Salgsdokumentet skal foruten videreforhandlerens navn, inneholde de spesifikasjoner som fremgår av § 8-10-2 bokstavene b-e og skal signeres av den som avhender gjenstanden. Også samlede innkjøp med enhetspris på mindre enn kr 300 skal fremgå av salgsdokumentet.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-4",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-4",
+      "heading": "Dokumentasjon av salg",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Avgiftspliktige videreforhandlere som ved videresalg benytter avansen som beregningsgrunnlag for utgående avgift skal utstede særskilt salgsdokument over leveransen.\nGjenstandens nummer skal påføres salgsdokumentet. Avgiftsbeløpet skal ikke angis i salgsdokumentet. Det skal fremgå av salgsdokumentet at avgiftsbeløp som er inkludert i prisen ikke er fradragsberettiget som inngående avgift.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-5",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-5",
+      "heading": "Dokumentasjon av beløp som nevnt i merverdiavgiftsloven § 4-6",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Det skal opprettes en hjelpekonto eller annen oversikt hvor samlede kjøp utlignes motenkeltsalg fra et samlet kjøp ogsamlede salg redusert for kjente kjøpsverdier på den enkelte gjenstand som inngår i salget.\nDersom samlet kjøp eller salg utgjør den hovedsakelige del (80 pst. eller mer) av videreforhandlerens kjøp eller salg i terminen, kan også positiv avanse fra andre brukte varer føres mot hjelpekontoen. I slike tilfeller bokføres hele salgssummen som avgiftsfri omsetning.\nDersom hjelpekontoen ikke er utlignet, kan det overskytende beløp medregnes til verdien av samlede kjøp i de etterfølgende terminer. Dersom hjelpekontoen viser positiv avanse, skal avansen bokføres på avgiftspliktig salgskonto.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-6",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-6",
+      "heading": "Bokføring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Videreforhandlere som foretar samlede innkjøp eller salg hvor prisen på den enkelte vare ikke er kjent, skal enten opprette egne konti for samlede kjøp og salg, eller føre oversikt over slike kjøp og salg i hjelpebøker eller på annen måte. Det må tilsvarende føres oversikt over kjøp og salg hvor avgiften ved videresalget er beregnet på grunnlag av de alminnelige regler for avgiftsberegningen, jf. merverdiavgiftsloven kapittel 4.\nSamlede salg og salg av enkeltgjenstander fra et samlet kjøp, skal i sin helhet føres på en avgiftsfri salgskonto inntil hjelpekontoen, jf. § 8-10-5, er utlignet.\nFor øvrige salg skal avansen føres på avgiftspliktig salgskonto, mens resten av salgsverdien skal føres på en avgiftsfri salgskonto, jf. dog § 8-10-5 første ledd. Dersom varen selges med tap, bokføres salgssummen i sin helhet på den avgiftsfrie salgskontoen.\nFordelingen mellom avgiftspliktig og avgiftsfri omsetning, kan gjennomføres ved utgangen av en termin. Grunnlaget for denne fordelingen må fremgå av regnskapet eller hjelpeoppstillinger.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-9-paragraf-7",
+      "provision_ref": "§ 8-10#kapittel-8-kapittel-9-paragraf-7",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-10. Videreforhandlere av brukte varer, kunstverk, samleobjekter eller antikviteter"
+      ],
+      "text": "Spesifikasjon av kjøp og salg som nevnt i § 8-10-2 skal oppbevares i fem år etter at siste gjenstand som inngår i spesifikasjonen er solgt. Dokumentasjon som nevnt i § 8-10-5 og § 8-10-6 skal oppbevares i fem år etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-8-kapittel-9-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-10-paragraf-1",
+      "provision_ref": "§ 8-11#kapittel-8-kapittel-10-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-11. Bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner"
+      ],
+      "text": "Dette delkapittelet gjelder for bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner, som omfattes av merverdiavgiftsloven § 3-12 første ledd bokstav b og e om omsetning av varer til betydelig overpris og varer fra enkeltstående og kortvarige salgsarrangementer samt § 3-12 tredje ledd om omsetning av varer fra kiosk og omsetning av serveringstjenester.",
+      "xml_path": "article#kapittel-8-kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-10-paragraf-2",
+      "provision_ref": "§ 8-11#kapittel-8-kapittel-10-paragraf-2",
+      "heading": "Dokumentasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-11. Bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner"
+      ],
+      "text": "Ved salg av varer til betydelig overpris etter merverdiavgiftsforskriften § 3-12-2 skal inntakskost dokumenteres ved salgsdokument, erklæring fra giver eller lignende.",
+      "xml_path": "article#kapittel-8-kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-10-paragraf-3",
+      "provision_ref": "§ 8-11#kapittel-8-kapittel-10-paragraf-3",
+      "heading": "Unntak fra krav til dokumentasjon av kontantsalg",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-11. Bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner"
+      ],
+      "text": "For bokføringspliktige som er omfattet av dette delkapittelet, gjelder ikke § 5-3-2 for å dokumentere omsetning som nevnt i merverdiavgiftsloven § 3-12 første ledd bokstav e og § 3-12 tredje ledd. Slike bokføringspliktige kan i stedet dokumentere kontantsalget med dagsoppgjør, jf. § 5-4-5 første og tredje punktum og annen tilgjengelig dokumentasjon, for eksempel elektronisk salgsrapport som viser transaksjonene enkeltvis og rapporter fra betalingsterminal.",
+      "xml_path": "article#kapittel-8-kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-10-paragraf-4",
+      "provision_ref": "§ 8-11#kapittel-8-kapittel-10-paragraf-4",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-11. Bokføringspliktige veldedige og allmennyttige institusjoner og organisasjoner"
+      ],
+      "text": "Dokumentasjon av inntakskost, jf. § 8-11-2 skal oppbevares i fem år etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-8-kapittel-10-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-11-paragraf-1",
+      "provision_ref": "§ 8-12",
+      "heading": "Bilverksteder og bilpleie",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-12. Bilverksteder og bilpleie"
+      ],
+      "text": "Bokføringspliktige som driver bilverksteder eller bilpleievirksomhet skal føre og oppbevare personalliste i samsvar med § 8-5-6 og § 8-5-7.",
+      "xml_path": "article#kapittel-8-kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-12-paragraf-1",
+      "provision_ref": "§ 8-13#kapittel-8-kapittel-12-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-13. Finansvirksomhet"
+      ],
+      "text": "Med finansvirksomhet menes i denne forskrift banker, kredittforetak, finansieringsforetak, verdipapirfond, verdipapirforetak og verdipapirfondenes forvaltningsselskaper.",
+      "xml_path": "article#kapittel-8-kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-12-paragraf-2",
+      "provision_ref": "§ 8-13#kapittel-8-kapittel-12-paragraf-2",
+      "heading": "Salgsdokument",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-13. Finansvirksomhet"
+      ],
+      "text": "Ved kjøp og salg av finansielle instrumenter kan finansvirksomhet benytte sluttsedler som salgsdokument. Finansvirksomhet som har transaksjoner i form av utlån/kreditt/finansiering til eller innskudd/forvaltningsoppdrag fra kunder, og som etter avtale med kundene kan belaste kunden direkte for utførte tjenester via kontoforhold, kan benytte kontoutskrift som salgsdokument.\nSluttsedler og kontoutskrift skal inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i § 5-1-3 om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av kundens kontonummer og et fortløpende nummer på kundenivå.",
+      "xml_path": "article#kapittel-8-kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-12-paragraf-3",
+      "provision_ref": "§ 8-13#kapittel-8-kapittel-12-paragraf-3",
+      "heading": "Kunde- og leverandørspesifikasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-13. Finansvirksomhet"
+      ],
+      "text": "Finansvirksomhet kan benytte sine fagsystemer for å utarbeide spesifikasjoner som nevnt i § 3-1 nr. 3 og 4. Opplysningene må kunne spesifiseres i en form som sikrer at opplysningsplikten etter lov og forskrift kan ivaretas.",
+      "xml_path": "article#kapittel-8-kapittel-12-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-12-paragraf-4",
+      "provision_ref": "§ 8-13#kapittel-8-kapittel-12-paragraf-4",
+      "heading": "Oppbevaring",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-13. Finansvirksomhet"
+      ],
+      "text": "Banker og finansieringsforetak skal oppbevare spesifikasjoner som nevnt i 8-13-3 samt dokumentasjon av bokførte opplysninger som inngår i slike spesifikasjoner i ti år etter regnskapsårets slutt.",
+      "xml_path": "article#kapittel-8-kapittel-12-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-13-paragraf-1",
+      "provision_ref": "§ 8-14#kapittel-8-kapittel-13-paragraf-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-14. Forsikringsselskaper og pensjonsforetak"
+      ],
+      "text": "Dette kapittelet gjelder for forsikringsselskaper og pensjonsforetak etter lov 10. juni 2005 nr. 44 om forsikringsselskaper, pensjonsforetak og deres virksomhet mv.",
+      "xml_path": "article#kapittel-8-kapittel-13-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-13-paragraf-2",
+      "provision_ref": "§ 8-14#kapittel-8-kapittel-13-paragraf-2",
+      "heading": "Salgsdokument",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-14. Forsikringsselskaper og pensjonsforetak"
+      ],
+      "text": "Polisedokument kan benyttes som salgsdokument dersom dokumentasjonen inneholde opplysninger som nevnt i delkapittel 5-1. Kravet i § 5-1-3 om fortløpende nummerering av salgsdokument kan likevel erstattes av angivelse av polisenummer/forsikringsavtalenummer og termin.",
+      "xml_path": "article#kapittel-8-kapittel-13-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-13-paragraf-3",
+      "provision_ref": "§ 8-14#kapittel-8-kapittel-13-paragraf-3",
+      "heading": "Kunde- og leverandørspesifikasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-14. Forsikringsselskaper og pensjonsforetak"
+      ],
+      "text": "Bokføringspliktige som er omfattet av dette delkapittelet, som oppfyller kravene gitt i eller i medhold av forsikringsavtaleloven og forsikringsvirksomhetsloven, kan benytte sitt fagsystem for å utarbeide spesifikasjoner som nevnt i § 3-1 nr. 3 og 4. Opplysningene må kunne spesifiseres i en form som sikrer at opplysningsplikten etter lov og forskrift kan ivaretas.",
+      "xml_path": "article#kapittel-8-kapittel-13-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-14-paragraf-1",
+      "provision_ref": "§ 8-15#kapittel-8-kapittel-14-paragraf-1",
+      "heading": "Felles fakturering av nettjenester og elektrisk energi",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-15. Kraftbransjen"
+      ],
+      "text": "Leverandører av nettjenester og elektrisk energi kan utstede felles salgsdokument. Det kan benyttes en felles nummerserie for slike salgsdokument. For øvrig gjelder kravene til salgsdokumentets innhold, jf. delkapittel 5-1, for hver av partenes omsetning.",
+      "xml_path": "article#kapittel-8-kapittel-14-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-kapittel-14-paragraf-2",
+      "provision_ref": "§ 8-15#kapittel-8-kapittel-14-paragraf-2",
+      "heading": "Kundespesifikasjon",
+      "path": [
+        "Kapittel 8. Tilleggsbestemmelser og særlige regler for enkelte næringer og bransjer",
+        "Delkapittel 8-15. Kraftbransjen"
+      ],
+      "text": "Når det er utstedt felles salgsdokument etter § 8-15-1, kan leverandører som ikke selv har utstedt salgsdokumentet, registrere transaksjonene i kundespesifikasjonen over fakturautsteders konto.",
+      "xml_path": "article#kapittel-8-kapittel-14-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 9. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2005.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    }
+  ]
+}

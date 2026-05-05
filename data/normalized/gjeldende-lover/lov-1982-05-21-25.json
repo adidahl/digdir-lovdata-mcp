@@ -1,0 +1,54 @@
+{
+  "id": "LOV-1982-05-21-25",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om tillegg til lov 28. juli 1949 om Statens pensjonskasse [høyesterettspensjonsloven]",
+  "short_title": "Høyesterettspensjonsloven",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "legal_area": "Pensjons- og trygderett Selskaper, fond og foreninger",
+  "date_in_force": "1982-05-21",
+  "last_change_in_force": "2024-04-12",
+  "last_changed_by": "lov/2024-04-12-15",
+  "lovdata_refid": "lov/1982-05-21-25",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1982-05-21-25",
+  "raw_xml_sha256": "ee7e914a42fae003d21aed930fa5010f85b86329d5c7786fafd28766c4802c63",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Loven omfatter dem som er utnevnt til medlem av Høyesterett før 1. januar 2011. Loven gir pensjonsrett etter lov om Statens pensjonskasse, med de tilpasninger som følger av loven her.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "For medlem av Høyesterett som fratrer sitt embete etter fylte 67 år, skal tjenestetiden ved beregningen av alderspensjon etter kapittel 5 i lov om Statens pensjonskasse forhøyes med inntil 15 år.\nTjenestetiden forhøyes på tilsvarende måte ved beregning av uføre-, enke-, enkemanns- og barnepensjon.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Alderspensjon skal beregnes etter lov om Statens pensjonskasse kapittel 5, med de tilpasninger som følger av paragrafen her. Lov om Statens pensjonskasse kapittel 5 a gjelder ikke for dem som er født etter 1962.\nAlderspensjon ved full tjenestetid skal være 57 prosent av pensjonsgrunnlaget. Når stillingen som høyesterettsdommer fratres med rett til pensjon, er pensjonsgrunnlaget den fastsatte årlige bruttogodtgjørelsen. Fratres stillingen tidligere, skal pensjonsgrunnlaget settes til årlig bruttogodtgjørelse på fratredelsestidspunktet. For pensjoner som er under utbetaling per 1. januar 2011, skal pensjonsgrunnlaget per 1. januar 2011 svare til den årlige fastsatte bruttogodtgjørelse på dette tidspunktet. Tilsvarende gjelder for dem som har fratrådt stillingen uten å ta ut pensjon før 1. januar 2011.\nAlderspensjonen levealdersjusteres etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse §§ 24 og 24 a, likevel slik at pensjonen ved uttak etter 67 år og ved full tjenestetid ikke blir høyere enn 57 prosent av pensjonsgrunnlaget. For årskullene fra og med 1954-kullet til og med 1962-kullet skal det kunne benyttes et lavere justeringstall enn 1,000 etter lov om Statens pensjonskasse § 24 tredje ledd tredje og fjerde punktum.\nEt medlem kan ha krav på et garantert pensjonsnivå etter reglene i lov om Statens pensjonskasse § 24 b, likevel slik at det garanterte pensjonsnivået for medlemmer med full tjenestetid er 57 prosent av pensjonsgrunnlaget. Garantert pensjonsnivå etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse § 24 c gjelder tilsvarende.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Pensjoner etter denne loven reguleres etter lov om Statens pensjonskasse § 42.\nReglene i denne loven gjelder også tidligere medlemmer av Høyesterett og deres etterlatte.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Loven trer i kraft straks og får virkning fra 1. januar 1982.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

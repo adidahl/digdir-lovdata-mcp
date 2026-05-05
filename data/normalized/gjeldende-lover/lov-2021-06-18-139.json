@@ -1,0 +1,73 @@
+{
+  "id": "LOV-2021-06-18-139",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om utleie av små elektriske kjøretøy på offentlig grunn",
+  "short_title": "Lov om utleie av små elektriske kjøretøy på offentlig grunn",
+  "department": "Samferdselsdepartementet",
+  "legal_area": "Transport og kommunikasjoner > Veitrafikk",
+  "date_in_force": "2021-06-18",
+  "lovdata_refid": "lov/2021-06-18-139",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2021-06-18-139",
+  "raw_xml_sha256": "b20a5a50d3e8984e0cc252d1362d5e6066a25dc4d8770098faea69ad41e46bc6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med loven er å legge til rette for at utleie av små elektriske kjøretøy på offentlig grunn bidrar til fremkommelige og trygge offentlige rom, effektiv forvaltning, klimavennlige løsninger og godt miljø og lokalmiljø.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne loven gjelder utleie av små elektriske kjøretøy. Det som er regulert for små elektriske kjøretøy, gjelder tilsvarende for sykkel med hjelpemotor (elsykkel). Departementet kan i forskrift gi nærmere bestemmelser om hva som skal anses som små elektriske kjøretøy og sykkel med hjelpemotor (elsykkel).",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forskrift om utleie av små elektriske kjøretøy på offentlig grunn",
+      "path": [],
+      "text": "Kommunen kan gi forskrift om bruk av offentlig grunn for utleie av små elektriske kjøretøy. Forskriften kan blant annet gi bestemmelser om:steder eller soner på offentlig grunn for utplassering eller parkering av små elektriske kjøretøyområder på offentlig grunn der det innføres bruksreguleringer slik som hastighetsbegrensninger og bruksforbudtidsperioder når utleie kan skjeat små elektriske kjøretøy skal oppfylle nærmere angitte standarder som krav til batteritid og miljømessige batterityperat små elektriske kjøretøy er utrustet med teknologi som kan sikre oppfyllelse av krav fastsatt i nr. 1-3, for eksempel geofencing mv.tilgjengeliggjøring av data, som for eksempel utlevering av anonyme opplysninger om bruken av små elektriske kjøretøy.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tillatelsesordning for utleie av små elektriske kjøretøy på offentlig grunn",
+      "path": [],
+      "text": "Kommunen kan gi forskrift om at utleie av små elektriske kjøretøy på offentlig grunn bare kan gjøres med tillatelse fra kommunen.\nForskriften kan ha bestemmelser om tillatelsens varighet, hvor mange kjøretøy som maksimalt kan plasseres på offentlig grunn for utleie, om hvor mange utleiere som maksimalt skal få tillatelse, og andre vilkår for tillatelsen.\nForskriften kan gi saksbehandlingsregler for tillatelsesordningen. Ved gjentatte eller grove overtredelser av kommunens forskrift eller vilkår stilt i tillatelsen, kan kommunen trekke tilbake tillatelsen.\nForskriften kan gi nærmere bestemmelser om dette.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Gebyr",
+      "path": [],
+      "text": "Kommunen kan gi forskrift om gebyr for å dekke kommunens utgifter i forbindelse med administrasjon og tilrettelegging for, samt utgifter til tilsyn og kontroll med, utleievirksomhet regulert i denne loven.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Fjerning og forvaring",
+      "path": [],
+      "text": "Små elektriske kjøretøy som er plassert ut for utleie eller parkert i strid med forskrift gitt i medhold av § 3, eller i strid med tillatelse etter § 4, kan om nødvendig fjernes og tas i forvaring av kommunen. I kommuner som har tillatelsesordning etter § 4, kan små elektriske kjøretøy som er plassert ut eller parkert uten at utleier har tillatelse etter § 4, fjernes eller tas i forvaring av kommunen. Små elektriske kjøretøy som er tatt i forvaring, står for utleiers regning og risiko. Tilbakelevering kan skje når utleieren har betalt utgiftene som kommunen har hatt i forbindelse med fjerningen og forvaringen. Vegtrafikkloven § 37 femte og sjette ledd gjelder tilsvarende for salg av kjøretøy tatt i forvaring etter denne paragrafen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft straks.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

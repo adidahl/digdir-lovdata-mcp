@@ -1,0 +1,36 @@
+{
+  "id": "FOR-2022-12-15-2264",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til lov 18. juni 2021 nr. 97 om barnevern (barnevernsloven)",
+  "department": "Barne- og familiedepartementet",
+  "date_in_force": "2023-01-01",
+  "lovdata_refid": "forskrift/2022-12-15-2264",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-12-15-2264",
+  "raw_xml_sha256": "5c860784641ad3d7543d5d4c15ebc694a4586b01bda57d92a0f3ca5c54d4b1f1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Når nemnda eller domstolen har truffet vedtak eller dom i sak om samvær før 1. januar 2023, gjelder det en sperrefrist på tolv måneder fra vedtaks- eller domstidspunktet før private parter kan kreve at nemnda behandler en ny sak om samvær, jf. barnevernsloven § 7-4.\nSperrefristen på tolv måneder gjelder også dersom samværssaken ble anket til lagmannsretten eller Høyesterett som avviste saken før 1. januar 2023. Avvisningstidspunktet er utgangspunktet for fristberegningen på tolv måneder.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "I sak om opphevelse av vedtak om omsorgsovertakelse jf. barnevernsloven § 5-7 annet ledd første punktum vil sperrefristen på 12-måneder regnes fra tidspunktet for vedtak eller dom, dersom vedtak eller dom forelå før 1. januar 2023. Dersom saken ble anket til lagmannsretten eller Høyesterett som avviste saken før 1. januar 2023, er avvisningstidspunktet utgangspunktet for fristberegningen. At saken eventuelt er fremmet for nemnda, krevd rettslig overprøvd eller anket og deretter trukket, får ikke betydning for fristberegningen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Kravet om å legge fram politiattest etter barnevernsloven § 12-11 fjerde ledd kan fravikes når det ikke er praktisk mulig å få utstedt politiattest før samtale med barnet eller tilsyn skal finne sted. Bestemmelsen gjelder til 1. februar 2023.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

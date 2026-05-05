@@ -1,0 +1,63 @@
+{
+  "id": "FOR-2024-10-31-2605",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om volummodell melk",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2024-11-01",
+  "lovdata_refid": "forskrift/2024-10-31-2605",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-10-31-2605",
+  "raw_xml_sha256": "dbdec08b74b11562e1c9910605d97b24f4d485234e78aa8a78cf260763781d0e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne forskriften er å regulere frister for fastsettelse av planlagt gjennomsnittlig engrospris for melk og regulere årlig kvantum for markedsregulators innlegging av melkeprodukter på reguleringslager.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Planlagt gjennomsnittlig engrospris og prisløype",
+      "path": [],
+      "text": "Markedsregulator skal fastsette en planlagt gjennomsnittlig engrospris for rå melk som skal gjelde henholdsvis for periodene 1. januar til 30. juni og 1. juli til 31. desember. Med utgangspunkt i planlagt gjennomsnittlig engrospris skal markedsregulator fastsette en tilhørende planlagt prisløype. Den fastsatte planlagte gjennomsnittlige engrosprisen skal være bindende oppover per halvårsperiode, men kan settes ned en gang i løpet av perioden.\nDersom Landbruksdirektoratet for å hindre alvorlig markedsforstyrrelse har satt tollavgiftssatsen til null i medhold av forskrift om administrative nedsettelser av tollavgiftssatser for landbruksvarer kapittel 2a, kan markedsregulator suspendere fastsatt planlagt gjennomsnittlig engrospris med tilhørende prisløype for den resterende del av halvåret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Frister",
+      "path": [],
+      "text": "Markedsregulator skal fastsette planlagt gjennomsnittlig engrospris innen utgangen av 20. april og 20. oktober hvert år. Planlagt prisløype skal fastsettes innen utgangen av 25. april og 25. oktober.\nMarkedsregulator skal kunngjøre eventuell reduksjon av gjennomsnittlig engrospris, sammen med tilhørende prisløype samtidig som offentliggjøringen av volumprognosene i mars og september. Dersom det vurderes som nødvendig kun å endre prisløypen for å oppnå fastsatt gjennomsnittlig engrospris for prisperioden, skal dette meddeles samtidig.\nMarkedsregulators kunngjøring av beslutninger i samsvar med paragrafen her skal skje umiddelbart etter at beslutningen er truffet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Grunnlaget for planlagt gjennomsnittlig engrospris",
+      "path": [],
+      "text": "Markedsregulator skal, uten ugrunnet opphold etter at planlagt gjennomsnittlig engrospris er fastsatt, legge frem vurderingene som beslutningen bygger på.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Maksimalt årlig kvantum for innlegging av varer på reguleringslager",
+      "path": [],
+      "text": "Innlegging av varer på reguleringslager i melkesektoren skal skje innenfor et maksimalt årlig kvantum. For kumelk er kvantumsgrensen 7 100 tonn for proteinfraksjonen og 3 800 tonn for fettfraksjonen. Proteinfraksjonen defineres som mengden skummetmelkpulver multiplisert med en faktor på 1,1 pluss mengden hvitost. Fettfraksjonen defineres som mengden fløtemysost multiplisert med en faktor på 0,33 pluss mengden smør. For geitemelk er kvantumsgrensen 3 100 tonn brunostprodukter. Mengden av ekte geitost, FG33, teller inn med en faktor på 7,5 som legges til mengden gudbrandsdalsost G35.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. november 2024.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

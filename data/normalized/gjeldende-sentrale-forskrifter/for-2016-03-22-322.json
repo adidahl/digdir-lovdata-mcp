@@ -1,0 +1,58 @@
+{
+  "id": "FOR-2016-03-22-322",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til leider på fartøy som er underlagt havressurslovgivningen",
+  "short_title": "Forskrift om krav til leider på fartøy",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2016-05-01",
+  "last_change_in_force": "2022-04-25",
+  "last_changed_by": "forskrift/2022-04-25-609",
+  "lovdata_refid": "forskrift/2016-03-22-322",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-03-22-322",
+  "raw_xml_sha256": "cd5eb7db43a842dcb12daa0b5d032f50d452961e4778feb3b51f378e3eee434b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å sikre kontrollmyndighetenes personell trygg atkomst til fartøy i sjøen for gjennomføring av kontroll med overholdelse av havressurslovgivningen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for norske og utenlandske fartøy ved kontroll av bestemmelser som er fastsatt i eller i medhold av havressurslova eller annen havressurslovgivning.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til leider",
+      "path": [],
+      "text": "Fartøy nevnt i § 2 skal ha leider som er egnet for å ta om bord inspektør og som oppfyller kravene i forskrift 13. juni 2000 nr. 660 om konstruksjon, utstyr, drift og besiktelser for fiske- og fangstfartøy med største lengde på 15 meter og derover § 6-6.\nLeideren skal være klar til bruk på kort varsel fra kontrollmyndighetene.\nFartøyfører og rederi er ansvarlig for at leideren til enhver tid er i forsvarlig stand, og at den blir forsvarlig rigget ved bruk.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til havressurslova § 62, § 64 og § 65. På samme måte straffes medvirkning og forsøk.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. mai 2016.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

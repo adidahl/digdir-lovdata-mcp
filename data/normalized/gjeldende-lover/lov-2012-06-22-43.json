@@ -1,0 +1,139 @@
+{
+  "id": "LOV-2012-06-22-43",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven)",
+  "short_title": "A-opplysningsloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Arbeidsrett > Ansettelse. Avskjed. Oppsigelse Forvaltnings- og kommunalrett > Statistikk. Registrering Pensjons- og trygderett Skatte- og avgiftsrett > Inntekts- og formueskatt",
+  "date_in_force": "2015-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "lov/2025-04-25-12 fra 2026-01-01",
+  "lovdata_refid": "lov/2012-06-22-43",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2012-06-22-43",
+  "raw_xml_sha256": "75f38284f7a3951646acb5cf5ec640e21e1cf50c1306a9cf8ade91ad7445e0f1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål og stedlig virkeområde",
+      "path": [],
+      "text": "Formålet med denne loven er å legge til rette for at arbeidsgivere mv. effektivt kan oppfylle sine plikter til å gi opplysninger om enkeltpersoners (inntektsmottakeres) inntekts- og arbeidsforhold og skattetrekk- og utleggstrekkopplysninger, og å gi offentlige etater tilgang til opplysningene innrapportert fra arbeidsgiver.\nLoven gjelder også for Svalbard. Departementet kan i forskrift fastsette at deler av loven ikke skal gjelde på Svalbard, eller fastsette særskilte regler for dette området.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Opplysningspliktige",
+      "path": [],
+      "text": "Fysiske og juridiske personer som har opplysningsplikt etter bestemmelsene nevnt i § 3 første ledd, skal gi opplysninger etter reglene i denne lov.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opplysningspliktens omfang",
+      "path": [],
+      "text": "Plikten til å gi opplysninger etter denne lov omfatter opplysninger som skal gis med hjemmel i følgende bestemmelser med tilhørende forskrifter:skatteforvaltningsloven §§ 7-2 og 8-6,folketrygdloven §§ 25-1 annet ledd og 25-10, jf. 21-4,skattebetalingsloven § 5-11,statistikkloven § 10,svalbardskatteloven § 5-2 femte ledd oginnkrevingsloven § 30 tredje ledd.\nMed mindre annet er bestemt, skal opplysningene gis spesifisert for hver enkelt inntektsmottaker, og det skal gis opplysninger om fødselsnummer eller annet nummer for identifikasjon av inntektsmottaker.\nDepartementet kan i forskrift gi regler om opplysningspliktens omfang.\nSkattedirektoratet kan fastsette skjemaer som skal benyttes når det skal gis opplysninger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Frist for levering av opplysninger",
+      "path": [],
+      "text": "Opplysninger skal gis av den opplysningspliktige minimum en gang per kalendermåned.\nOpplysninger om føderåd etter skatteforvaltningsloven § 7-2 første ledd bokstav b kan leveres en gang per år og skal senest leveres samtidig med fristen for å levere opplysninger i januar i året etter inntektsåret.\nMeldinger etter folketrygdloven § 25-1 andre ledd til arbeidstakerregisteret om inntak av en arbeidstaker og om opphør av et arbeidsforhold skal leveres innen fredag i uken etter at arbeidsforholdet tok til eller opphørte, med mindre det gis dispensasjon i medhold av forskrift gitt med hjemmel i fjerde ledd i paragrafen her.\nDepartementet kan i forskrift gi regler om fristen for å levere opplysninger, herunder at det kan gjøres unntak fra fristen i første og tredje ledd.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Sted for levering og leveringsmåte",
+      "path": [],
+      "text": "Opplysningene skal leveres elektronisk til den mottakssentralen som Skattedirektoratet fastsetter.\nDepartementet kan i forskrift gi nærmere vilkår for levering, herunder leveringsmåte og format.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ansvar for fellestjenester og behandlingsansvar",
+      "path": [],
+      "text": "Fellestjenester knyttet til drift og forvaltning av ordningen ivaretas av Skattedirektoratet. Skattedirektoratet kan delegere forvaltningen av fellestjenester til skattekontoret.\nSkattedirektoratet er behandlingsansvarlig etter personopplysningsloven for behandling av personopplysninger ved ivaretakelse av fellestjenester etter første ledd. Den behandlingsansvarlige kan bare behandle personopplysningene i den utstrekning som er nødvendig for å ivareta fellestjenestene.\nSkattemyndighetene skal, uten hinder av taushetsplikt hos folkeregistermyndigheten, ha tilgang til opplysninger fra Folkeregisteret som er nødvendige for utførelsen av oppgaver etter denne loven.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6a",
+      "heading": "Bruk av personopplysninger ved utvikling og testing av IT-systemer",
+      "path": [],
+      "text": "Skattemyndighetene kan behandle innhentede personopplysninger for å utvikle og teste IT-systemer dersom det vil være umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.\nDepartementet kan i forskrift gi nærmere regler om behandling etter første ledd.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Taushetsplikt ved drift og forvaltning",
+      "path": [],
+      "text": "Enhver som har eller har hatt verv, stilling eller oppdrag knyttet til drift og forvaltning etter § 6, skal hindre at uvedkommende får adgang eller kjennskap til opplysninger innsamlet etter § 3.\nFørste ledd er ikke til hinder for at opplysninger utleveres til virksomheter som har tilgang til dem etter § 8.\nDersom opplysninger kan innhentes uavhengig av taushetsplikt, skal opplysningene innhentes hos det forvaltningsorgan som etter § 8 har tilgang til opplysningene og som er myndighet på det området opplysningene er innhentet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Tilgang til opplysningene",
+      "path": [],
+      "text": "Arbeids- og velferdsetaten skal ha tilgang til opplysningene i registeret i forbindelse med forvaltning og beregning av ytelser etter folketrygdloven og andre lover som etaten administrerer, forvaltning av arbeidstakerregisteret og fastsetting av underholdsbidrag og deling av reisekostnader ved samvær etter barnelova, oppfostringsbidrag etter barnevernloven1 og bidrag etter ekteskapsloven. Etaten skal også ha tilgang til opplysningene i registeret i forbindelse med utredning og produksjon av statistikk på de områdene etaten administrerer. Arbeids- og velferdsdirektoratet skal ha tilgang til opplysninger i registeret i forbindelse med utredning og produksjon av statistikk om kvalifiseringsstønad etter sosialtjenesteloven.\nSkattedirektoratet og skattekontoret skal ha tilgang til opplysningene i registeret i forbindelse med fastsetting av skatt og trygdeavgift etter skattelovgivningen og arbeidsgivers beregning og oppgjør av skattetrekk, arbeidsgiveravgift og finansskatt på lønn etter skattebetalingsloven og folketrygdloven. Skattedirektoratet og Innkrevingsmyndigheten skal ha tilgang til opplysningene i registeret i forbindelse med etablering, beregning og gjennomføring av utleggstrekk.\nStatistisk sentralbyrå skal ha tilgang til opplysningene i registeret i forbindelse med produksjon av statistikk etter statistikklovgivningen.\nTilgangen er begrenset til opplysninger som organet har hjemmel i lov til å innhente.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Inntektsmottakers innsynsrett",
+      "path": [],
+      "text": "Inntektsmottaker har innsynsrett i opplysninger om egne forhold som er innsamlet etter denne lov.\nRetten til innsyn begrenser ikke rett til innsyn etter andre regler.\nDepartementet kan i forskrift gi nærmere regler om innsynsrett.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Tvangsmulkt ved manglende innrapportering",
+      "path": [],
+      "text": "Skattekontoret kan ilegge den som ikke innrapporterer alle opplysninger innen fristen i § 4, en daglig løpende tvangsmulkt frem til opplysningene er levert. Samlet tvangsmulkt kan ikke overstige 1 000 ganger rettsgebyret. Departementet kan i forskrift gi regler om hvordan den daglige tvangsmulkten skal fastsettes.\nVedtak om tvangsmulkt er tvangsgrunnlag for utlegg.\nVedtak om tvangsmulkt kan påklages til Skattedirektoratet. Vedtak om tvangsmulkt kan påklages i samsvar med reglene om klage over enkeltvedtak i skatteforvaltningsloven kapittel 13.\nTvangsmulkt kan helt eller delvis frafalles dersom forpliktelsen ikke er overholdt som følge av forhold utenfor den opplysningspliktiges kontroll eller dersom særlige rimelighetsgrunner som forelå ved ileggelsen, tilsier det.\nSaksbehandlingsreglene i skatteforvaltningsloven gjelder så langt de passer i saker om tvangsmulkt.\nTvangsmulkten tilfaller statskassen.\nDepartementet kan i forskrift gi regler om hvilke opplysninger som må være levert for at opplysningsplikten skal anses oppfylt.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 11",
+      "heading": "Overtredelsesgebyr ved for sen innrapportering",
+      "path": [],
+      "text": "Skattekontoret kan ilegge den som ikke leverer alle opplysninger innen fristen i § 4, et overtredelsesgebyr. Gebyret kan ikke overstige 15 ganger rettsgebyret. Departementet kan i forskrift gi regler om hvordan gebyret skal fastsettes.\nBestemmelsene i § 10 annet til syvende ledd gjelder tilsvarende for overtredelsesgebyr.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 12",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft fra det tidspunkt Kongen bestemmer.1",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 12a",
+      "heading": "Overgangsbestemmelser",
+      "path": [],
+      "text": "Departementet kan i forskrift gi regler om en frivillig prøveordning.\nDepartementet kan i forskrift gi regler som etter vedtak fritar enkelte arbeidsgivere fra pliktene etter loven i en overgangsperiode. Vedtak om fritak treffes av Skattedirektoratet, som kan sette vilkår for å ivareta hensynet bak ordningen.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 13",
+      "heading": "Endringer i andre lover",
+      "path": [],
+      "text": "Fra det tidspunkt loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#paragraf-15"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "LOV-1775-06-08",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Kongelig Resolution ang. Jorddelingen i Finmarken samt Bopladses Udvisning og Skyldlægning sammesteds",
+  "short_title": "Res. anggående jorddelingen i Finmark m.v.",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Fiskeri- og fangstrett og havbruk > Fiskeri Landbruk, jakt og skogbruk > Jakt og innlandsfiske",
+  "lovdata_refid": "lov/1775-06-08",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1775-06-08",
+  "raw_xml_sha256": "308d104ed10c4a959b13fa566b9c2c4b5564295044b9b426e4a38f26b4214817",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "De Herligheder, som hidindtil have været tilfælles for hele Bygder eller Almuen i Almindelighed, være sig Fiskerie i Havet og de store Elve, samt Landings-Steder og deslige, forblive fremdeles til saadan almindelig Brug.",
+      "xml_path": "article#paragraf-1"
+    }
+  ]
+}

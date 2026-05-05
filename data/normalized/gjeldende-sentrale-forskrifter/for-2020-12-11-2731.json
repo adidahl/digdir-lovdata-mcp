@@ -1,0 +1,56 @@
+{
+  "id": "FOR-2020-12-11-2731",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift til statistikkloven (statistikkforskriften)",
+  "short_title": "Statistikkforskriften",
+  "department": "Finansdepartementet",
+  "date_in_force": "2021-01-01",
+  "lovdata_refid": "forskrift/2020-12-11-2731",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-12-11-2731",
+  "raw_xml_sha256": "06e489f6510f1dad14c5288197d8b66dcf24530bf68254fdfb70d2b280fab4ac",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Hvem som kan gis tilgang til opplysninger for statistiske resultater og analyser",
+      "path": [],
+      "text": "(1) Tilgang til opplysninger etter statistikkloven § 14 kan gis til forskningsinstitusjoner for forskningsformål og til følgende organer for utarbeiding av statistiske resultater og analyser:statlige organer, fylkeskommuner og kommunerNorges BankRiksrevisjonensentrale statistikkmyndigheter i andre landinternasjonale organisasjoner med grunnlag i folkerettslig avtale.(2) Med forskningsinstitusjoner menes organisasjoner som er godkjent som forskningsorganisasjon av Forskningsrådet eller EUs statistikkontor, Eurostat. Statistisk sentralbyrå kan godkjenne en organisasjon som forskningsinstitusjon selv om organisasjonen ikke vil kunne godkjennes av Forskningsrådet eller Eurostat.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Begrensninger i hvilke opplysninger det kan gis tilgang til og tidspunkt for tilgang",
+      "path": [],
+      "text": "(1) Det kan ikke gis tilgang til opplysninger Statistisk sentralbyrå har innhentet fra registre som har hjemmel i helseregisterloven.(2) Det kan ikke gis tilgang til opplysninger som inngår i statistikkgrunnlaget for offisiell statistikk før statistikken er publisert. Opplysninger som Statistisk sentralbyrå utelukkende har samlet inn for utviklings- eller kvalitetssikringsformål, kan det gis tilgang til når disse er statistisk klargjort og tilrettelagt for tilgang.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Betaling for tilgang til opplysninger",
+      "path": [],
+      "text": "Statistisk sentralbyrå kan kreve betaling for tilrettelegging og tilgjengeliggjøring av opplysninger. Betalingen kan ikke overstige kostnadene ved saksbehandling, tilrettelegging og tilgjengeliggjøring samt oppfølging av den enkelte søknaden.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tvangsmulkt",
+      "path": [],
+      "text": "(1) Tvangsmulkt etter statistikkloven § 20 skal fastsettes som et fast beløp som forfaller ved hver overtredelse.(2) Tvangsmulkt skal normalt utgjøre fire ganger rettsgebyret. I særlige tilfeller kan tvangsmulkten settes lavere eller høyere.(3) Tvangsmulkt kan ilegges også dersom opplysningene ikke er gitt i den formen Statistisk sentralbyrå har bestemt etter statistikkloven § 10.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse og endringer i andre forskrifter",
+      "path": [],
+      "text": "(1) Forskriften trer i kraft 1. januar 2021.(2) Fra samme tidspunkt opphevesforskrift 13. februar 1990 nr. 105 om gjennomføring og utfylling av lov om offisiell statistikk og Statistisk sentralbyrå (statistikkloven).forskrift 15. desember 2006 nr. 1454 om utvidet virkeområde for lov 16. juni 1989 nr. 54 om offisiell statistikk og Statistisk sentralbyrå til å gjelde for Svalbardforskrift 20. juni 2008 nr. 632 om gjennomføring av EØS-rettsakter om europeisk statistikkforskrift 1. desember 2014 nr. 1489 om opplysningsplikt til den offisielle lønnsstatistikken ved rapportering i henhold til lov om arbeidsgivers innrapportering av ansettelses- og inntektsforhold m.m. (a-opplysningsloven).",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

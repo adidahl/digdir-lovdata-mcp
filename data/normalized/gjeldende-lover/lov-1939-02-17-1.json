@@ -1,0 +1,362 @@
+{
+  "id": "LOV-1939-02-17-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om gjeldsbrev [gjeldsbrevlova]",
+  "short_title": "Gjeldsbrevlova – gbl",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Banker Bank, finans og regnskapsrett > Betalingsformidling",
+  "date_in_force": "1940-01-01",
+  "last_change_in_force": "2013-07-01",
+  "last_changed_by": "lov/2010-03-26-9 fra 2013-07-01",
+  "lovdata_refid": "lov/1939-02-17-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1939-02-17-1",
+  "raw_xml_sha256": "927bbfa1772e88baf180b3d908eb45b9a5c6da33e0ed6bd9c5afb20acf8507d7",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Den som gjev eit gjeldsbrev, misser ikkje med det utan avtale nokor motsegn frå det rettshøvet som er grunnlag for gjeldsbrevet.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Gjev fleire ut eit gjeldsbrev, svarar dei ein for alle og alle for ein, om inkje anna er sagt.\nBetaler ein av dei, kann han søkja att hjå kvar av dei andre det som skal falle på han etter rettshøvet mellom dei.\nEr det visst at ein av dei andre ikkje kann betala, eller er tilhaldsstaden hans ukjend, blir parten hans bytt mellom alle hine. Det same gjeld, om han ikkje betalar innan 14 dagar etter han er kravd eller krav er sendt til han på forsvarleg måte.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Er betalingsstad ikkje avtala, skal eit gjeldsbrev betalast der kravshavaren bur, eller på forretningsstaden, om han driv forretning. Om kravshavaren flytter ut or landet eller kravet går over til ein mann i eit anna land, blir betalingsstaden verande den same som før når inkje anna er avtala.\nKravshavaren kann krevja betaling på ein annan stad i det land der pengane skal greidast, so framt det ikkje blir til nemnande ulempe eller utgift for skyldnaren.\nFlytter kravshavaren eller kjem kravet på andre hender og skyldnaren so ikkje får veta kvar han skal betala, er han utan ansvar om han kjem for seint av den grunn. Utgifter og tap som skyldnaren har for di han ikkje kjenner til skiftet, lyt kravshavaren svara.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Ihendehavargjeldsbrev skal betalast i forretningslokalet til skyldnaren når ikkje anna er sagt.\nDet same gjeld gjeldsbrev som blir utgjevne mange i samanheng og med sams tekst (mengdegjeldsbrev), og gjeldsbrev som bankar eller samvirkeføretak gjev ut for innlån.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Er det ikkje fastsett noko om betalingstid, har skyldnaren rett til å betala so snart han vil. Han er skyldig til å betala straks kravsmannen seier frå.\nForfell gjeldsbrevet på ein sundag eller annen helgedag eller på ein laurdag eller på den 1 eller 17 mai, blir forfallsdagen utdrygd til yrkedagen etter. Dette gjeld òg når gjeldsbrevet lyder på betaling innen ein serskild nemnd frist som går ut på ein helgedag eller på ein laurdag eller på 1 eller 17 mai.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Betalar ikkje skyldnaren i tide, skal han svara rente etter lov om renter ved forsinket betaling m.m. frå den dagen han skulle ha betala.\nKunde kravshavaren krevja høgre rente på anna grunnlag, har han framleis rett til det. Det same gjeld om skadebot, i fall kravshavaren har tap som renta ikkje gjev fullt vederlag for.\nEr det på kravshavaren betalinga står, skal ikkje skyldnaren svara rente so lenge dette varer, endå om kravet før bar rente.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Lyder gjeldsbrevet på eit pengeslag som ikkje gjeld der gjeldsbrevet blir betala, kann det betalast med slike pengar som gjeld på staden etter verdet på betalingsdagen, om inkje anna er avtala.\nBlir gjeldsbrevet ikkje betala i tide, og lyder det på eit pengeslag som ikkje gjeld der gjeldsbrevet skal betalast, skal kravshavaren ha vederlag for tap han får av at kursen på gjeldsbrevpengane har falle. Gjev ikkje tilhøvet grunnlag for annan tapsrekning, kann han krevja betaling i slike pengar som gjeld der betaling skulde gjevast, etter kursen på forfallsdag.\nDet skal likevel ikkje gjevast vederlag for kurstapet, i fall det er på kravshavaren sjølv betalinga står, eller seinkingsgrunnen er lovbod, stans i samferdsla eller andre slike hindringar som skyldnaren ikkje vinn med og som det ikkje var ventande at han tok omsyn til då han gav ut gjeldsbrevet.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 9",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Når nokon avhender eit gjeldsbrev til eige eller pant, svarar han for at kravet er til. Men dette gjeld ikkje ved gåvor, og ikkje heller når mottakaren visste at kravet ikkje var til, eller hadde grunn til mistanke om det.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-10",
+      "provision_ref": "§ 10",
+      "path": [
+        "Fyrste kapitel. Ålmenngjeldande reglar."
+      ],
+      "text": "Avhendaren svarar berre for at skyldnaren er vederheftig, når han tek det på seg. Blir ein vekselobligasjon avhendt ved endossement, blir dette rekna for å vera tilfelle.",
+      "xml_path": "article#kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 11",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Reglane i dette kapitel gjeld berre omsetningsgjeldsbrev.\nEit gjeldsbrev er omsetningsgjeldsbrev når det antenlyder på ihendehavaren eller ikkje seier kven gjelda skal betalast til (ihendehavargjeldsbrev), ellerlyder på namn med tillegget «eller order» eller eit anna slikt tillegg (ordergjeldsbrev), ellergjev pant i fast eigedom eller i skip eller anna innretning som er innført i skipsregisteret, jf sjøloven §§ 11, 33 og 507, eller i luftfartøy som er innført i luftfartøyregisteret, so nær som når det er tilset «ikkje til order» eller eit anna slikt atterhald, ellerlyder på namngjeven mann (namnegjeldsbrev) og endefram seier at det skal vera omsetningsgjeldsbrev.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 12",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Får eit ihendehavargjeldsbrev påskrift om at ein namngjeven mann er kravshavar, blir det likevel rekna for eit ihendehavargjeldsbrev, so framt ikkje skyldnaren har skrive under påskrifta eller ho har heimel i teksten i gjeldsbrevet. Men i desse høve òg blir brevet verande omsetningsgjeldsbrev.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 13",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Den som har eit omsetningsgjeldsbrev i hende, er legitimera til å rå over det med verknad som nemnt i §§ 14, 15, 18 og 19, so framt det er eit ihendehavargjeldsbrev. Det same gjeld, når han er den som etter teksten i gjeldsbrevet eller ei samanhangande rekkje av skriftlege utsegner om avhendingar til namngjeven mann eller in blanco synest vera rette innehavaren til gjeldsbrevet, eller når han med grunn kann haldast for å vera den nemnde eller for å ha rett til å rå for han.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 14",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Avhender legitimasjonshavaren (jfr. § 13) eit omsetningsgjeldsbrev til eige eller pant, og mottakaren får det i hende, hindrar det ikkje rettsvinning at han vantar rett til å rå over brevet, utan når mottakaren veit dette eller ikkje er so aktsam som han bør vera etter tilhøvet.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 15",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Avhender legitimasjonshavaren eit omsetningsgjeldsbrev til eige eller pant, og mottakaren får det i hende, kan utgjevaren ikkje gjera gjeldandeat kravet er ugildt etter reglane i §§ 29-33 eller 36 i avtalelova, eller § 2 i pristiltakslova, eller at gjeldsbrevet er utgjeve utan hans vilje etter at han skreiv under det,at han ikkje har fått det vederlaget som var avtala, eller har andre motsegner frå det rettshøvet som var grunnlag for gjeldsbrevet,at kravet er betala før gjeldsbrevet vart avhendt eller at det er bortfalle eller brigda med avtale, motrekningsfråsegn eller oppseiing eller i dom.\nMen ei motsegn går ikkje tapt, i fall mottakaren kjenner det omstendet som ho blir bygd på, eller bør ha mistanke om det. Det same gjeld, om gjeldsbrevet har fått ei påskrift om det, som ikkje lett kunde takast bort, endå om dette sidan er gjort.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 16",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Har skyldnaren betala rente som forfall før gjeldsbrevet vart avhendt, kann han gjera dette gjeldande mot ein mottakar i god tru. Likeins har han alle andre motsegner mot krav på rente som etter gjeldsbrevet skulde vore betala før avhendingsdagen.\nSame regelen gjeld faste tidvisse summar som blir betala etter gjeldsbrevet og inneheld både rente og avdrag.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 17",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Utgjevaren kann likeins gjera gjeldande at gjeldsbrevet er falskt eller forfalska, underskrive på hans vegner utan fullmakt eller ugildt på grunn av grov tvang (§ 28 i avtalelova), manglande rettsleg handleevne eller sinnssjukdom, at gjeldsbrevet er sagt maktlaust, eller at kravet er bortfalle eller brigda etter reglane om deponering, forelding, preklusjon eller tvangsakkord.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 18",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Avhender legitimasjonshavaren eit omsetningsgjeldsbrev til eige eller pant, og mottakaren får det i hende, kann skyldnaren ikkje krevja motrekning med krav på avhendaren, uten mottakaren visste at skyldnaren hadde eit krav som kunde nyttast til motrekning, og måtte skjøna at skyldnaren kom til å lida tap, om ei avhending skulde stengja for dette.\nMotkrav som reiser seg frå same rettshøvet som gjeldsbrevkravet, fylgjer likevel dei reglane som gjeld om motsegner frå dette høvet.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 19",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Betalar skyldnaren eit omsetningsgjeldsbrev til legitimasjonshavaren, blir han fri, endå om mottakaren ikkje har rett til å taka mot betaling, når skyldnaren ikkje veit det og er so aktsam som han etter tilhøvet bør vera for å hindra at pengane kjem i urette hender.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 20",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Når eit omsetningsgjeldsbrev er avhendt til eige eller pant, kann skyldnaren likevel betala forfallen rente til avhendaren, når skyldnaren ikkje veit at avhendaren er utan rett til å taka mot pengane og ikkje bør ha mistanke om det heller. Det same gjeld faste summar som etter gjeldsbrevet blir betala med jamne mellomrom, og som inneheld både rente og avdrag.\nBetalar ein annan enn skyldnaren etter gjeldsbrevet, lyt betalaren òg vera i god tru.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 21",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Skyldnaren etter eit omsetningsgjeldsbrev er berre skyldig å betala, so framt han får brevet tilbake. Er det ikkje eit ihendehavargjeldsbrev, kann han òg krevja kvittering på gjeldsbrevet.\nBetalar han avdrag, kann han krevja at dei blir avskrivne på brevet, og dessutan laus kvittering. Men skal det etter gjeldsbrevet betalast med jamne mellomrom faste summar som inneheld både rente og avdrag, kann han ikkje krevja at desse avdrag blir avskrivne.\nBlir gjeldsbrevet opsagt, kann skyldnaren krevja at det får påskrift om det.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 22",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Rentekupongar til mengdegjeldsbrev fylgjer reglane om ihendehavargjeldsbrev, straks renteterminen har take til.\nDen som vinn retten til ein kupong, er bunden av føresegnene i den teksten gjeldsbreva har sams. Han lyt òg finna seg i den motsegn at gjeldsbrevet som kupongen høyrde til, er ugildt, for di utskrivaren ikkje har gjeve det ut.\nNår gjeldsbrevet er utdrage eller havt til å forfalle på annan måte med heimel i den sams teksten, gjev kupongar som sidan forfell, ingen rett.\nBlir kupongar avhende saman med gjeldsbrevet, får mottakaren ikkje betre rett etter kupongane enn etter sjølve gjeldsbrevet.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 23",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Utbytekupongar til aksjer eller anna brev på ein selskapspart fylgjer òg reglane om ihendehavargjeldsbrev.\nDen som vinn retten til ein kupong, lyt finna seg i den motsegn at aksjen eller partbrevet ikkje gav partsrett i selskapet då kupongen forfall.\nBlir ein kupong avhend serskilt før utbytet er fastsett, gjeld §§ 14 og 15 ikkje.\nBlir kupongar avhende saman med aksjen eller partbrevet, får ikkje mottakaren betre rett etter kupongane enn etter sjølve aksjen eller partbrevet.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-14",
+      "provision_ref": "§ 23a",
+      "heading": "a.",
+      "path": [
+        "Andre kapitel. Omsetningsgjeldsbrev."
+      ],
+      "text": "Den som før kravet er forelda, melder til skyldnaren at eit mengdegjeldsbrev eller ein rente- eller utbytekupong er komen bort og som gjer retten sin etter brevet eller kupongen sannsynleg, kan krevje betaling når foreldingsfristen er ute.",
+      "xml_path": "article#kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 24",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Reglane i dette kapitel gjeld berre enkle gjeldsbrev. Med dette er i denne lova meint namnegjeldsbrev som ikkje går inn under § 11 nr. 3 eller 4.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 25",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Når nokon avhender eit enkelt gjeldsbrev, får ikkje mottakaren betre rett enn avhendaren, om inkje anna fylgjer av serlege rettsreglar.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 26",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Krav på avhendaren kann skyldnaren nytta til motrekning, når han vart eigar av kravet før han fekk veta om avhendinga eller fekk nokon tanke om henne. Var motkravet ikkje forfalle på den tid, lyt det dessutan vera forfalle seinast samstundes med hovudkravet.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 27",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Er eit enkelt gjeldsbrev avhendt, blir skyldnaren likevel fri når han betalar til den førre kravshavaren, soframt han ikkje veit at hin er utan rett til å taka mot betaling, og han er so aktsam som han bør vera etter tilhøvet.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 28",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Når skyldnaren betalar til den som har fått eit gjeldsbrev overført til seg skriftleg, blir han fri, endå om det syner seg at avhendinga ikkje er bindande. Veit skyldnaren dette eller bør han ha mistanke om det, gjeld denne føresegn ikkje; og ikkje heller om avhendinga er ugild av ein grunn som er nemnd i § 17.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 29",
+      "path": [
+        "Tredje kapitel. Enkle gjeldsbrev."
+      ],
+      "text": "Blir eit enkelt gjeldsbrev avhendt, gjeld dette berre mot kravsmennene til avhendaren når skyldnaren har fått melding om avhendinga frå mottakaren eller avhendaren.\nEr kravet avhendt til fleire som alle er i god tru, går den retten føre som skyldnaren fyrst får melding om.\nDesse reglane gjeld likevel ikkje når uteståande krav blir avhende saman med ein forretning som det gjeld bokføringsplikt for.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 30",
+      "path": [
+        "Fjerde kapitel. Innskotsbøker."
+      ],
+      "text": "Innskotsbøker i bankar og samvirkeføretak fylgjer føresegnene om enkle gjeldsbrev.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 32",
+      "path": [
+        "Fjerde kapitel. Innskotsbøker."
+      ],
+      "text": "Blir ei innskotsbok avhendt til eige, gjeld dette mot kravsmennene til avhendaren berre når skyldnaren har notert avhendinga i bøkene sine, og gjeve mottakaren melding om det og om kva det stod inne på kontoen. Dette må skyldnaren gjera straks om innehavaren av kontoen krev det og legg fram boka so framt ikkje serleg avtale eller reglar i vedtektene til skyldnaren gjev rett til å nekte notering.\nEr boka avhend til fleire, går den føre som har fått notert sin rett av skyldnaren og i god tru fått melding om det.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 33",
+      "path": [
+        "Fjerde kapitel. Innskotsbøker."
+      ],
+      "text": "Skyldnaren kan ikkje krevja motrekning med krav på avhendaren, når han har gjeve mottakaren slik melding som § 32 talar om. Heller ikkje har han den motsegna at han ikkje var skyldig pengane so framt ikkje mottakaren visste dette eller burde ha mistanke om det.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 34",
+      "path": [
+        "Femte kapitel. Overgangsreglar."
+      ],
+      "text": "Denne lova tek til å gjelda 1 januar 1940.\nHo blir nytta på eldre gjeldsbrev òg når inkje anna er sagt i dei næste paragrafane.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 35",
+      "path": [
+        "Femte kapitel. Overgangsreglar."
+      ],
+      "text": "Når reglane i denne lova skal nyttast på eldre namnegjeldsbrev, blir breva rekna for å vera stila til namngjeven mann eller order, so nær som når det er tilsett «ikkje til order» eller eit anna slikt atterhald.\n– – –",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 36",
+      "path": [
+        "Femte kapitel. Overgangsreglar."
+      ],
+      "text": "Paragrafane 1-5 og 7 gjeld berre gjeldsbrev som er yngre enn denne lova.\nParagraf 6 blir nytta på eldre gjeldsbrev òg, når betalingstida fell etter lova tek til å gjelda.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 37",
+      "path": [
+        "Femte kapitel. Overgangsreglar."
+      ],
+      "text": "– – –",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 39",
+      "path": [
+        "Sjette kapitel. Brigde i andre lover o.a."
+      ],
+      "text": "Norske Lov 1-21-13 og 14 held opp å gjelda. Samkausjonistar svarar ein for alle og alle for ein, når inkje anna er sagt. Reglane i § 2, andre og tredje leden, gjeld likeins for samkausjonistar.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 40",
+      "path": [
+        "Sjette kapitel. Brigde i andre lover o.a."
+      ],
+      "text": "Det som er fastsett i § 6 skal gjelda på tilsvarande måte om avtalegjeld som ikkje knyter seg til gjeldsbrev, men som skyldnaren har fått serskilt varsel om å betala. Kjem varslet etter forfallsdag, tek renta til frå den dag varslet er framkome til skyldnaren.\n– – –",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    }
+  ]
+}

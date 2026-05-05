@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2007-06-29-904",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om satser i prisutjevningsordningen for melk og satser for produksjonsfløte og tilvirkningsverdi på smør",
+  "short_title": "Forskrift om melkeprisutjevningssatser mv.",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2007-07-01",
+  "last_change_in_force": "2025-07-01",
+  "last_changed_by": "forskrift/2025-04-30-951 fra 2025-07-01",
+  "lovdata_refid": "forskrift/2007-06-29-904",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-06-29-904",
+  "raw_xml_sha256": "995141ade32d8715664aad953c2518ede6a54fba47f6fb2dddc05fe08b934ad9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Satser for avgifter og tilskudd per pris- og biproduktgruppe",
+      "path": [],
+      "text": "Satser for avgifter og tilskudd per pris- og biproduktgruppe i prisutjevningsordningen for melk skal være som følger (positive tall innebærer avgift, negative tall innebærer tilskudd):GruppeSatsPrisgruppe 1 (sure og søte smakstilsatte flytende melkeprodukter og ferske oster, dagligvaremarkedet)0,00 kr/l melkPrisgruppe 2 (ikke smakstilsatte flytende melkeprodukter, dagligvaremarkedet)2,00 kr/l melkPrisgruppe 3 (modnede oster, mysoster og geitemelksprodukter, dagligvaremarkedet)–0,17 kr/l melkPrisgruppe 4 (Flytende produkter, ferske oster, modnede oster, mysoster og geitemelksprodukter i industrimarkedet, samt tørrmelk og kasein i industri- og dagligvaremarkedet)–0,71 kr/l melkBiproduktgruppe 1 (kremfløteprodukter dagligvaremarkedet)13,52 kr/l fløteBiproduktgruppe 2 (smørprodukter dagligvaremarkedet)–0,88 kr/l fløteBiproduktgruppe 3 (smørprodukter industrimarkedet)–4,47 kr/l fløteBiproduktgruppe 4 (mysostprodukter dagligvaremarkedet og industrimarkedet)2,17 kr/l myse\nFor melk som selges direkte fra melkeprodusenter til meieriselskap som Tine SA ikke har bestemmende innflytelse over, jf. samvirkelova § 5, og som anvendes i dette selskapets foredling, reduseres avgiften eller økes tilskuddet med 0,88 kr/l melk.\nAndel norsk melk anvendt i modnede oster som inngår i blandinger med analog ost og/eller importert ost omsatt i dagligvaremarkedet skal rapporteres i prisgruppe 3.\nBiproduktgruppe 4 omfatter all myse og derivater av myse anvendt i mysost og mysostlignende produkter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Satser for fraktutjevning",
+      "path": [],
+      "text": "Satser for innfrakttillegg fremkommer av vedlegg 1.\nSats for distribusjonstillegg for Nord-Norge (Finnmark, Troms, Nordland) skal være 0,13 kr/l distribuert melk.\nSats for distribusjonstillegg for skolemelk skal være 0,17 kr/l distribuert melk.\nLandbruksdirektoratet kan redusere sats for særskilt distribusjonstillegg, jf. forskrift om prisutjevning for melk § 8, tredje ledd, enten ved inngangen til, eller i løpet av perioden 1. juli t.o.m. 30. juni, dersom prognoser tyder på at rammen vil bli overskredet i løpet av perioden. Endelig fastsettelse av utbetaling av særskilt distribusjonstillegg foretas etter periodens slutt og etter at meieriselskaper som mottar dette tilskuddet har levert inn særskilt revisorattest for dette distribusjonstilskuddet. Slik attest må være mottatt av direktoratet innen 15. september påfølgende satsperiode.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Sats for produksjonsfløteverdi",
+      "path": [],
+      "text": "Sats for produksjonsfløteverdi skal være 24,40 kr/l fløte.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Sats for prognosert tilvirkningsverdi på smør",
+      "path": [],
+      "text": "Sats for prognosert tilvirkningsverdi på smør skal være 60,25 kr/kg smør.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Landbruksdirektoratet kan i særlige tilfeller dispensere fra denne forskriften.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. juli 2007. Fra samme tid oppheves forskrift 13. juni 2006 nr. 953 om satser og etterregning i prisutjevningsordningen for melk.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

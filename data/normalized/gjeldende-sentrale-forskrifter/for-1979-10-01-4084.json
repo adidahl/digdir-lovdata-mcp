@@ -1,0 +1,53 @@
+{
+  "id": "FOR-1979-10-01-4084",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av alders- og uførepensjon fra tjenestepensjonsordninger",
+  "short_title": "Forskrift om samordning av alders- og uførepensjon",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1979-10-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1979-10-01-4084",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1979-10-01-4084",
+  "raw_xml_sha256": "f375d04b17aabebf496d9449817e5c4a51ccd1ce87f4cb0df69d8e804097f733",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften gjelder samordning av to eller flere uførepensjoner, to eller flere alderspensjoner eller en kombinasjon av uføre- og alderspensjon fra tjenestepensjonsordninger.\nI tilfeller der det ikke er tatt ut hel alderspensjon, skal begrepet pensjonsgrad bety den del av hel alderspensjon som er tatt ut. For uførepensjonens vedkommende skal pensjonsgrad bety det samme som uføregrad.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Er minst en av pensjonene beregnet etter 100 prosent pensjonsgrad, skal maksimal samlet pensjon etter samordningslovens § 7 nr. 1 første ledd, bestemmes som pensjon for full tjenestetid etter 100 prosent pensjonsgrad i den pensjonsordning vedkommende sist ble medlem av.\nEr ingen av pensjonene beregnet etter 100 prosent pensjonsgrad, skal maksimal samlet pensjon reduseres i forhold til den høyeste pensjonsgrad som forekommer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Ved anvendelse av samordningslovens § 7 nr. 1 annet ledd og § 7 nr. 2, skal de alternative maksima for samlet pensjon reduseres i forhold til den høyeste pensjonsgrad som forekommer.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Overstiger summen av pensjonene det tillatte maksimum, skal det overskytende gå til fradrag i den tjenestepensjon som er tjent opp sist.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. oktober 1979. Tjenestepensjoner som pr. 1. oktober 1979 løper med høyere samlet beløp enn maksimum etter disse forskrifter, skal allikevel ikke settes ned.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

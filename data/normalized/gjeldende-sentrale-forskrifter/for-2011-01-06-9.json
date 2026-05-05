@@ -1,0 +1,34 @@
+{
+  "id": "FOR-2011-01-06-9",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fraktførerens ansvar for skade ved lufttransport av passasjerer, reisegods og gods",
+  "short_title": "Forskrift om fraktførerens skadeansvar",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2011-01-06",
+  "last_change_in_force": "2024-12-28",
+  "last_changed_by": "forskrift/2024-12-09-3008 fra 2024-12-28",
+  "lovdata_refid": "forskrift/2011-01-06-9",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-01-06-9",
+  "raw_xml_sha256": "6669c28130a190c2f485dcdaf191f6f0ed3b21dc8474495b513d8c99f0701156",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Ansvarsgrenser for fraktførerens ansvar etter luftfartsloven § 10-22",
+      "path": [],
+      "text": "Ved personskade eller dødsfall er grensen for fraktførerens ansvar etter luftfartsloven § 10-22 første ledd første og andre punktum 151 880 SDR for hver passasjer.\nVed forsinkelse ved befordring av passasjer er grensen for fraktførerens ansvar etter luftfartsloven § 10-22 andre ledd 6303 SDR for hver passasjer.\nVed befordring av reisegods er grensen for fraktførerens ansvar etter luftfartsloven § 10-22 tredje ledd første punktum 1519 SDR for hver passasjer.\nVed befordring av gods er grensen for fraktførerens ansvar etter luftfartsloven § 10-22 fjerde ledd første punktum 26 SDR per kg.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

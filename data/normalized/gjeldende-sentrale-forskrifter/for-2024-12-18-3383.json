@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2024-12-18-3383",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot å fiske reker i NAFO-området",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2025-01-01",
+  "lovdata_refid": "forskrift/2024-12-18-3383",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-12-18-3383",
+  "raw_xml_sha256": "8b4f094deb897b7f21c6c2f0b4d862a2a30d102ddb6c32898d40109f4ca2a57b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for fiske i internasjonalt farvann i området nord for 35° N og vest for en linje trukket langs meridianen 42° V til posisjon 59° N 42° V og derfra langs meridianen 44° V til Grønlands kyst (NAFO-området).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Generelt forbud",
+      "path": [],
+      "text": "Det er forbudt for norske fartøy å fiske og lande reker i NAFO-området.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Foretak og den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften, kan ilegges overtredelsesgebyr i henhold til havressurslova § 59 og forskrift 20. desember 2011 nr. 1437 om bruk av tvangsmulkt og overtredelsesgebyr ved brudd på havressurslova og deltakerloven.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av forskriften straffes i henhold til havressurslova §§ 60, 61, 62, 64 og 65. På samme måte straffes medvirkning og forsøk.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2025.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

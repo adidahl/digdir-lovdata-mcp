@@ -1,0 +1,663 @@
+{
+  "id": "FOR-2011-04-02-360",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om merking og omsetning av fôrvarer",
+  "short_title": "Forskrift om merking mm av forvarer",
+  "department": "Landbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2011-05-01",
+  "last_change_in_force": "2025-03-19",
+  "last_changed_by": "forskrift/2025-03-19-612",
+  "lovdata_refid": "forskrift/2011-04-02-360",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-04-02-360",
+  "raw_xml_sha256": "075c1ac468140193189139ad7c1a065ed4d09731f76e237d1b5ca0e89f623283",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for merking og omsetning av fôrvarer både til matproduserende og ikke-matproduserende dyr.\nVed motstrid mellom forordningens bestemmelser og denne bestemmelse, går alltid forordningens bestemmelser foran.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gjennomføring av forordning (EF) nr. 767/2009",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I, kapittel II nr. 48 (forordning (EF) nr. 767/2009 endret vedforordning (EU) nr. 568/2010,forordning (EU) nr. 939/2010,forordning (EU) 2017/2279 ogforordning (EU) 2018/1903)om merking og omsetning av fôrvarer gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll I til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Overgangsbestemmelser",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kapittel II nr. 50 (forordning (EU) nr. 454/2010) om overgangsordninger om bestemmelser for merking av fôrvarer gjelder som forskrift med de tilpasninger som følger av vedlegg I Kapittel II protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Gjennomføring av forordning (EU) nr. 68/2013 – fôrmiddelkatalogen",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kapittel II nr. 51 (forordning (EU) nr. 68/2013 endret ved forordning (EU) 2017/1017) om fortegnelsen over fôrmidler/fôrmiddelkatalogen gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Gjennomføring av forordning (EU) 2020/354 – diettfôr",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I, kapittel II, nr. 322 (forordning (EU) 2020/354 endret ved forordning (EU) 2024/2899) om diettfôr gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særskilte tilfelle dispensere fra bestemmelsene i denne forskrift, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. mai 2011.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "heading": "Mål",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel IInnledende bestemmelser"
+      ],
+      "text": "Formålet med denne forordning, i samsvar med de allmenne prinsippene fastsatt i forordning (EF) nr. 178/2002, er å harmonisere vilkårene for omsetning og bruk av fôrvarer, for å sikre et høyt nivå av fôrtrygghet og dermed et høyt vernenivå for menneskers helse, samt gi tilstrekkelige opplysninger til brukere og forbrukere, samtidig som det sikres at det indre marked fungerer på en effektiv måte.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel IInnledende bestemmelser"
+      ],
+      "text": "1. Denne forordning fastsetter regler for omsetning og bruk av fôrvarer både til dyr som er bestemt til næringsmiddelproduksjon og dyr som ikke er bestemt til næringsmiddelproduksjon i Fellesskapet, herunder krav til merking, emballering og presentasjon.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel IInnledende bestemmelser"
+      ],
+      "text": "1. I denne forordning får følgende definisjoner anvendelse:de definisjonene av «fôr», «fôrvarer», «fôrforetak» og «bringe i omsetning» som er fastsatt i forordning (EF) nr. 178/2002,de definisjonene av «tilsetningsstoffer i fôrvarer», «premiks», «tekniske hjelpestoffer» og «dagsrasjon» som er fastsatt i forordning (EF) nr. 1831/2003, ogde definisjonene av «virksomhet» og «vedkommende myndighet» som er fastsatt i forordning (EF) nr. 183/2005.2. Dessuten menes med:«driftsansvarlig for fôrforetak» den eller de fysiske eller juridiske personene som har ansvar for at kravene i denne forordning overholdes i det fôrforetaket vedkommende driver,«ernæring av dyr ved fôring» fôrtilførsel gjennom munnen til dyrets mage-tarm-kanal, med det formål å oppfylle dyrets ernæringsbehov og/eller opprettholde produktiviteten hos normalt friske dyr,«dyr bestemt til næringsmiddelproduksjon» alle dyr som fores, avles eller holdes for produksjon av næringsmidler beregnet på konsum, herunder dyr som ikke er beregnet på konsum, men som tilhører arter som normalt brukes til konsum i Fellesskapet,«dyr som ikke er bestemt til næringsmiddelproduksjon» alle dyr som fôres, avles eller holdes, men som ikke brukes til konsum, som pelsdyr, kjæledyr og dyr som holdes i laboratorier, zoologiske hager eller sirkus,«pelsdyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som fôres, avles eller holdes for pelsproduksjon, og som ikke er beregnet på konsum,«kjæledyr» alle dyr som ikke er bestemt til næringsmiddelproduksjon, som tilhører arter som fôres, oppdrettes eller holdes, men som normalt ikke brukes til konsum i Fellesskapet,«fôrmidler» produkter av vegetabilsk eller animalsk opprinnelse, hvis hovedformål er å oppfylle dyrenes ernæringsbehov, i naturlig tilstand, ferske eller konserverte, og avledede produkter av disse etter industriell bearbeiding samt organiske og uorganiske stoffer, med eller uten tilsetningsstoffer, som i ubearbeidet form eller etter bearbeiding er beregnet til ernæring av dyr ved fôring, til framstilling av fôrblandinger eller som bærestoff i premikser,«fôrblanding» en blanding av minst to fôrmidler, med eller uten tilsetningsstoffer, som er beregnet på ernæring av dyr ved fôring i form av fullfôr eller tilskuddsfôr,«fullfôr» fôrblanding som ved sin sammensetning dekker dagsrasjonen,«tilskuddsfôr» fôrblanding som har et høyt innhold av visse stoffer, og som ved sin sammensetning dekker dagsrasjonen bare dersom det kombineres med andre fôrvarer,«mineralfôr» tilskuddsfôr som inneholder minst 40 % råaske,«melkeerstatningsfôr» fôrblanding som i tørr form eller etter fortynning i en bestemt mengde væske gis til ungdyr som et tilskudd til eller erstatning for melk etter kolostrum eller som fôr til ungdyr som kalver, lam eller kje beregnet på slakting,«bærestoff» et stoff som brukes til å løse opp, fortynne, dispergere eller på annen måte endre fysisk et tilsetningsstoff i fôrvarer for å gjøre det enklere å håndtere, anvende eller bruke uten å endre dets teknologiske funksjon og uten at det får noen teknologisk virkning i seg selv,«særlig ernæringsformål» det formål å oppfylle særlige ernæringsbehov hos visse dyr hvis fordøyelse, næringsopptak eller stoffskifte kan bli eller er forstyrret midlertidig eller kronisk, og som derfor kan ha fordel av å innta fôrvarer som er hensiktsmessige for deres tilstand,«fôrvarer med særlige ernæringsformål» fôrblandinger med det formål å dekke visse ernæringsbehov, som i kraft av sin særlige sammensetning eller produksjonsprosess kan skilles klart fra vanlige fôrvarer. Fôrvarer med særlige ernæringsformål omfatter ikke medisinfôr som definert i direktiv 90/167/EØF,«forurensede fôrmidler» fôr som inneholder en mengde uønskede stoffer som overstiger det nivået som er akseptabelt i henhold til direktiv 2002/32/EF,«holdbarhetsgrense» den perioden når den personen som er ansvarlig for merkingen, garanterer at fôret beholder sine angitte egenskaper, under egnede oppbevaringsforhold; og det kan bare angis en holdbarhetsgrense for fôret som helhet, og den fastslås på grunnlag av holdbarhetsgrensen for hver enkelt av fôrets bestanddeler,«parti» en identifiserbar mengde fôr som er fastslått å ha felles egenskaper, som opprinnelse, sort, type emballasje, emballeringsbedrift, avsender eller merking, og når det gjelder en produksjonsprosess, en produksjonsenhet fra et og samme anlegg som benytter ensartede produksjonsparametrer, eller en rekke slike enheter, når de er framstilt fortløpende og oppbevares sammen,«merking» betegnelse av fôr med angivelser, opplysninger, varemerker, varenavn, bilder eller symboler på ethvert medium som viser til eller ledsager fôret, som emballasje, beholder, skilt, etikett, dokument, halsetikett, krage eller på Internett, herunder til reklameformål,«etikett» enhver merkelapp, merke, tegn, bilde eller annet beskrivende materiell, som er skrevet, trykt, stensilert, angitt, preget, stemplet eller vedlagt pakningen eller beholderen med fôr, og«presentasjon» form, utseende eller emballasje og emballasjemateriale som er brukt til fôret, samt den måten fôret er arrangert på og de omgivelsene det stilles ut i.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1",
+      "provision_ref": "a4#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1",
+      "heading": "Krav til sikkerhet og omsetning",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 2Generelle krav"
+      ],
+      "text": "1. Fôrvarer kan bare bringes i omsetning og brukes dersom:de er trygge, ogde ikke har noen direkte skadevirkning på miljøet eller på dyrs velferd.Kravene fastsatt i artikkel 15 i forordning (EF) nr. 178/2002 får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.2. I tillegg til kravene som er fastsatt i nr. 1 i denne artikkelen, skal driftsansvarlige for fôrforetak som bringer fôr i omsetning, sikre at fôret:er sunt, ekte, uforfalsket, egnet til formålet og av godhandelskvalitet, oger merket, pakket og presentert i samsvar med bestemmelsene fastsatt i denne forordning og andre gjeldende fellesskapsrettsakter.Kravene fastsatt i artikkel 16 i forordning (EF) nr. 178/2002, får tilsvarende anvendelse på fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.3. Fôr skal overholde de tekniske bestemmelsene om urenheter og andre kjemiske bestanddeler fastsatt i vedlegg I til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2",
+      "provision_ref": "a5#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2",
+      "heading": "Fôrforetakenes ansvar og forpliktelser",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 2Generelle krav"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak skal tilsvarende oppfylle forpliktelsene fastsatt i artikkel 18 og 20 i forordning (EF) nr. 178/2002 og artikkel 4 nr. 1 i forordning (EF) nr. 183/2005 når det gjelder fôr til dyr som ikke er bestemt til næringsmiddelproduksjon.2. Personen som er ansvarlig for merkingen av fôr, skal framlegge for vedkommende myndigheter alle opplysninger som gjelder sammensetning eller påståtte egenskaper hos fôret som denne personen har brakt i omsetning, noe som gjør det mulig å etterprøve om opplysningene som gis på merkingen, er riktige, herunder de nøyaktige vektprosentene av fôrmidler som brukes i fôrblandinger.3. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for bestemmelsene i direktiv 2004/48/EF, kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til nr. 2 i denne artikkel, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3",
+      "provision_ref": "a6",
+      "heading": "Begrensninger og forbud",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 2Generelle krav"
+      ],
+      "text": "1. Fôr skal ikke innholde eller bestå av fôrmidler hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt. Listen over disse materialene er oppført i vedlegg III.2. Kommisjonen skal endre listen over materialer hvis omsetning eller bruk som fôrvarer er begrenset eller forbudt, samtidig som det tas hensyn til tilgjengelige vitenskapelige data, den teknologiske utviklingen, underretninger i henhold til hurtigvarslingssystemet for næringsmidler og fôr (RASFF) eller resultatene av offentlige kontroller i henhold til forordning (EF) nr. 882/2004.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.I de tilfeller der det av tvingende grunner er nødvendig med hastesaksbehandling, kan Kommisjonen anvende framgangsmåten for behandling av hastesaker omhandlet i artikkel 28 nr. 5, med henblikk på å vedta disse tiltakene.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-1",
+      "provision_ref": "a7",
+      "heading": "Fôrtypers egenskaper",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 3Omsetning av særlige typer fôrvarer"
+      ],
+      "text": "1. Etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, kan Kommisjonen vedta retningslinjer for å klargjøre skillet mellom fôrmidler, tilsetningsstoffer i fôrvarer og andre produkter som veterinærpreparater.2. Kommisjonen kan om nødvendig vedta tiltak for å klargjøre hvorvidt et bestemt produkt utgjør en fôrvare som definert i denne forordning.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-2",
+      "provision_ref": "a8",
+      "heading": "Innhold av tilsetningsstoffer i fôrvarer",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 3Omsetning av særlige typer fôrvarer"
+      ],
+      "text": "1. Uten av det berører vilkårene for bruk fastsatt i den relevante rettsakten som godkjenner det enkelte tilsetningsstoffet, skal fôrmidler og tilskuddsfôr ikke ha et innhold av tilsetningsstoffer som er 100 ganger høyere enn den relevante grenseverdien for fullfôr eller fem ganger høyere dersom det gjelder koksidiostatika og histomonostatika.2. Innholdet på 100 ganger mer enn den relevante grenseverdien for fullfôr nevnt i nr. 1, kan bare overskrides dersom sammensetningen av de berørte produktene oppfyller det særlige ernæringsformålet med hensyn til relevant bruksområde i henhold til artikkel 10 i denne forordning. Vilkårene for bruk av denne fôrvaren skal presiseres ytterligere i listen over bruksområder. Virksomheter som står under kontroll av en produsent av slike fôrvarer, som bruker tilsetningsstoffer nevnt i kapittel 2 i vedlegg IV til forordning (EF) nr. 183/2005, skal være godkjente i samsvar med nr. 1 bokstav b) i artikkel 10 i nevnte forordning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-3",
+      "provision_ref": "a9",
+      "heading": "Omsetning av fôrvarer beregnet på særlige ernæringsformål",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 3Omsetning av særlige typer fôrvarer"
+      ],
+      "text": "Fôrvarer med særlige ernæringsformål kan bare omsettes som dette dersom bruksområdet er oppført i listen over bruksområder som er fastsatt i samsvar med artikkel 10, og dersom de oppfyller de vesentlige ernæringsmessige egenskaper for de særlige ernæringsformålene som er oppført på denne listen.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-4",
+      "provision_ref": "a10",
+      "heading": "Liste over bruksområdene for fôrvarer med særlige ernæringsformål",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 3Omsetning av særlige typer fôrvarer"
+      ],
+      "text": "1. Kommisjonen kan oppdatere listen over bruksområder fastsatt i direktiv 2008/38/EF ved å tilføye et bruksområde, trekke tilbake et bruksområde eller ved å tilføye, oppheve eller endre vilkårene knyttet til et bestemt bruksområde.2. Framgangsmåten for å ajourføre listen over bruksområder kan innledes gjennom innlevering av en søknad til Kommisjonen fra en fysisk eller juridisk person med bosted i Fellesskapet, eller av en medlemsstat. En gyldig søknad skal omfatte en saksmappe som viser at den nøyaktige sammensetningen av fôrvaren oppfyller det særlige ernæringsformålet, og at den ikke har noen skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd.3. Kommisjonen skal omgående gjøre søknaden, herunder saksmappen, tilgjengelig for medlemsstatene.4. Dersom Kommisjonen, på grunnlag av tilgjengelige vitenskapelige og teknologiske opplysninger, har grunn til å tro at bruken av den aktuelle fôrvaren ikke oppfyller det særlige ernæringsformålet eller har skadevirkninger på dyrs og menneskers helse, på miljøet eller på dyrs velferd, skal Kommisjonen, innen tre måneder etter å ha mottatt en gyldig søknad, anmode om en uttalelse fra Den europeiske myndighet for næringsmiddeltrygghet (heretter kalt «myndigheten»). Myndigheten skal avgi sin uttalelse innen seks måneder etter at anmodningen er mottatt. Denne fristen skal forlenges dersom myndigheten ønsker utfyllende opplysninger fra søkeren.5. Innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen vedta en forordning som ajourfører listen over bruksområder dersom vilkårene som er fastsatt i nr. 2, er oppfylt.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 6.6. Som unntak fra nr. 5, innen seks måneder etter at en gyldig søknad er mottatt, eller dersom det er relevant, etter å ha mottatt myndighetens uttalelse, skal Kommisjonen avslutte framgangsmåten og beslutte å ikke gå videre med ajourføringen, på noe stadium av ajourføringen, dersom den anser at en slik ajourføring ikke er berettiget. Kommisjonen skal gjøre dette etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3.I slike tilfeller skal Kommisjonen når det er relevant informere søkeren og medlemsstatene direkte, og i sitt brev opplyse om årsakene til at den ikke anser at en ajourføring er berettiget.7. Kommisjonen skal, etter framgangsmåten med forskriftskomité fastsatt i artikkel 28 nr. 3, vedta gjennomføringstiltak angående utarbeiding og framlegging av søknaden.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1",
+      "provision_ref": "a11",
+      "heading": "Prinsipper for merking og presentasjon",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. Merkingen og presentasjonen av fôrvarer skal ikke villede brukeren, særlig ikke:med hensyn til fôrvarens bruksområde eller egenskaper, især dets art, framstillings- eller produksjonsmetode, egenskaper, sammensetning, mengde, holdbarhet, dyreart eller -kategori som den er beregnet på,ved at fôrvaren tillegges virkninger eller egenskaper den ikke har eller ved å antyde at fôrvaren har særlige egenskaper når alle tilsvarende fôrvarer har de samme egenskapene, ellernår det gjelder om merkingen er gjort i samsvar med fellesskapsfortegnelsen og fellesskapsreglene nevnt i artikkel 24 og 25.2. Fôrmidler eller fôrblandinger som selges i løs vekt eller i uforseglede pakninger eller beholdere i samsvar med artikkel 23 nr. 2, skal ledsages av et dokument som inneholder alle obligatoriske merkingsopplysninger som kreves i henhold til denne forordning.3. Når fôrvarer tilbys for salg ved hjelp av fjernkommunikasjonsmidler som definert i artikkel 2 i europaparlaments- og rådsdirektiv 97/7/EF av 20. mai 1997 om forbrukervern ved fjernsalgsavtaler,1 skal de obligatoriske merkingsopplysningene som kreves gjennom denne forordning, bortsett fra opplyninger nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), framgå av det materialet som brukes til fjernsalg, eller det skal framkomme gjennom andre egnede måter før en fjernsalgsavtale inngås. Opplysningene nevnt i artikkel 15 bokstav b), d), e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav d), skal gis senest på det tidspunktet fôret leveres.4. Merkingsbestemmelser ut over dem som er oppført i dette kapittel, er fastsatt i vedlegg II.5. I tillegg IV til denne forordning er det fastsatt tillatte toleranser for avvik mellom de verdiene som er angitt i merkingen av sammensetningen av et fôrmiddel eller en fôrblanding, og verdiene som er analysert i offentlige kontroller i samsvar med forordning (EF) nr. 882/2004.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2",
+      "provision_ref": "a12",
+      "heading": "Ansvar",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. Personen som ansvarlig for merkingen, skal sikre at merkingsopplysningene finnes med og at de er korrekte.2. Personen som er ansvarlig for merkingen, skal være den driftsansvarlige for fôrforetak som først bringer fôrvaren i omsetning, eller når det er relevant, den driftsansvarlige for fôrforetak under hvis navn eller firma fôrvaren omsettes.3. I det omfang deres virksomhet påvirker merkingen i den virksomheten de kontrollerer, skal driftsansvarlige for fôrforetak sikre at opplysningene som gis ved hjelp av hvilket som helst middel, oppfyller kravene i denne forordning.4. Driftsansvarlige for fôrforetak som er ansvarlige for salgs- eller distribusjonsvirksomhet som ikke påvirker merkingen, skal opptre med aktsomhet for å bidra til å sikre overholdelse av merkingskravene, særlig ved å unngå å levere fôrvarer, på grunnlag av opplysninger som de besitter og som fagfolk, som de vet eller burde ha visst ikke oppfyller disse kravene.5. Driftsansvarlige for fôrforetak skal innenfor de virksomhetene som de leder, sikre at de obligatoriske merkingsopplysningene videreformidles gjennom hele næringskjeden, slik at opplysningene kan bli gitt til sluttbrukerne av fôrvarer i samsvar med denne forordningen.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-3",
+      "provision_ref": "a13",
+      "heading": "Påstander",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. Det kan i merkingen og presentasjonen av fôrmidler og fôrblandinger gjøres særlig oppmerksom på at fôret inneholder eller ikke inneholder et bestemt stoff, på en bestemt ernæringsmessig egenskap eller prosess eller på en særlig funksjon knyttet til et av disse elementene, forutsatt at følgende vilkår er oppfylt:påstanden er objektiv, kan bekreftes av vedkommende myndighet og kan forstås av brukeren av fôret, ogpersonen som er ansvarlig for merkingen, framlegger på anmodning fra vedkommende myndighet, vitenskapelig dokumentasjon på påstanden, enten ved å vise til offentlig tilgjengelige vitenskapelige bevis eller gjennom dokumentert selskapsforskning. Den vitenskapelige dokumentasjonen skal være tilgjengelig når fôret bringes i omsetning. Kjøperne skal ha rett til å gjøre vedkommende myndighet oppmerksom på at de er i tvil om at påstanden er sannferdig. Dersom det kan sluttes at påstanden ikke er tilstrekkelig dokumentert, skal merkingen i tilknytning til en slik påstand anses å være villedende som definert i artikkel 11. Dersom vedkommende myndighet er i tvil angående den vitenskapelige dokumentasjonen på den berørte påstanden, kan den framlegge spørsmålet for Kommisjonen. Kommisjonen kan vedta en beslutning, eventuelt etter å ha fått en uttalelse fra myndigheten, etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2.2. Uten å berøre nr. 1 er påstander om optimering av ernæringen og støtte eller vern av de fysiologiske forhold tillatt, med mindre de inneholder en påstand av typen nevnt i nr. 3 bokstav a).3. Merkingen eller presentasjonen av fôrmidler og fôrblandinger skal ikke hevde at:de forebygger, behandler eller helbreder en sykdom, unntatt koksidiostatika og histomonostatika som er godkjente i henhold til forordning (EF) nr. 1831/2003; dette nummer får imidlertid ikke anvendelse på påstander om ernæringsmessig ubalanse forutsatt at det ikke er noen patologiske symptomer knyttet til dette,den har er et bestemt ernæringsmessig formål, som fastsatt i listen over bruksområder som det vises til i artikkel 9, med mindre den oppfyller kravene som er oppført der.4. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, kan inngå i fellesskapsreglene nevnt i artikkel 25.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-4",
+      "provision_ref": "a14",
+      "heading": "Presentasjon av merkingsopplysninger",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. De obligatoriske merkingsopplysningene skal gjengis i sin helhet på et framtredende sted på emballasjen, beholderen, på en etikett som er festet på denne, eller på det ledsagende dokumentet fastsatt i artikkel 11 nr. 2, de skal være synlige, lett lesbare og ikke kunne slettes, på det offisielle språket eller minst ett av de offisielle språkene i medlemsstaten eller regionene der fôret bringes i omsetning.2. De obligatoriske merkingsopplysningene skal være lett gjenkjennelige og skal ikke skjules av annen informasjon. De skal vises med en farge, en skrifttype og en størrelse som ikke skjuler eller framhever noen del av opplysningene, med mindre slik variasjon skal gjøre oppmerksom på sikkerhetssetninger.3. Spesifikasjoner knyttet til kravene fastsatt i nr. 1 og 2, samt presentasjonen av den frivillige merkingen, kan inngå i fellesskapsreglene nevnt i artikkel 25.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-5",
+      "provision_ref": "a15",
+      "heading": "Generelle obligatoriske merkingskrav",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "Et fôrmiddel eller en fôrblanding skal ikke bringes i omsetning med mindre merkingen inneholder følgende opplysninger:type fôr: «fôrmiddel», «fullfôr» eller «tilskuddsfôr», etter hva som passer,for «fullfôr» kan betegnelsen «melkeerstatning som fullfôr» brukes, dersom det passer,for «tilskuddsfôr» kan følgende betegnelser brukes dersom det passer: «mineralfôr» eller «melkeerstatning som tilskuddsfôr»,for andre kjæledyr enn katter og hunder, kan «fullfôr» eller «tilskuddsfôr» erstattes med «fôrblanding»,navn eller firma og adressen til den driftsansvarlige for fôrforetak, som er ansvarlig for merkingen,virksomhetens godkjenningsnummer, dersom det er tilgjengelig, for den personen som er ansvarlig for merkingen, tildelt i samsvar med artikkel 13 i forordning (EF) nr. 1774/2002 for virksomheter som er godkjent i samsvar med artikkel 23 nr. 2 bokstav a), b) og c) i forordning (EF) nr. 1774/2002 eller artikkel 17 i forordning (EF) nr. 1774/2002 eller med artikkel 10 i forordning (EF) nr. 183/2005. Dersom en person som er ansvarlig for merkingen, har flere godkjenningsnummer, skal vedkommende bruke det nummeret som er tildelt i samsvar med forordning (EF) nr. 183/2005,partiets referansenummer,nettomengden uttrykt i målenheter for masse for faste produkter, og i målenheter for masse eller volum for flytende produkter,listen over tilsetningsstoffer i fôrvarer, med overskriften «tilsetningsstoffer» i samsvar med kapittel I i vedlegg VI eller VII, etter hva som er relevant, og uten å berøre merkingsbestemmelsene som er fastsatt i rettsakten som godkjenner det enkelte tilsetningsstoffet i fôrvarer, ogvanninnholdet i samsvar med nr. 6 i vedlegg I.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-6",
+      "provision_ref": "a16",
+      "heading": "Særlige obligatoriske merkingskrav for fôrmidler",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrmidler også omfatte:navnet på fôrmiddelet; navnet skal brukes i samsvar med artikkel 24 nr. 5, ogden obligatoriske angivelsen som tilsvarer en kategori som er oppført i listen i vedlegg V; den obligatoriske angivelsen kan erstattes av opplysningene fastsatt i fellesskapsfortegnelsen nevnt i artikkel 24 for hvert fôrmiddel i den angjeldende kategorien.2. I tillegg til kravene som er fastsatt i artikkel 1, skal merkingen av fôrmidler også omfatte følgende når fôrmidlene også inneholder tilsetningsstoffer:dyrearter eller dyrekategorier som fôrmidlene er beregnet på, når de aktuelle tilsetningsstoffene ikke er blitt godkjent for alle dyrearter eller er blitt godkjent med grenseverdi for enkelte arter,instruksjoner for korrekt bruk i samsvar med nr. 4 i vedlegg II, hvor det er fastsatt en grenseverdi for de aktuelle tilsetningsstoffene, ogholdbarhetsgrense for andre tilsetningsstoffer enn teknologiske tilsetningsstoffer.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-7",
+      "provision_ref": "a17",
+      "heading": "Særlige obligatoriske merkingskrav for fôrblandinger",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. I tillegg til kravene som er fastsatt i artikkel 15, skal merkingen av fôrblandinger også omfatte:dyrearter eller dyrekategorier som fôrblandingen er beregnet på,instruksjoner for korrekt bruk som angir formålet som fôret er beregnet på; slike instruksjoner skal i relevante tilfeller være i samsvar med nr. 4 i vedlegg II,i tilfeller når produsenten ikke er personen som er ansvarlig for merkingen, skal følgende angis:navn eller firma og adressen til produsenten, ellergodkjenningsnummeret til produsenten som nevnt i artikkel 15 bokstav c) eller et identifikasjonsnummer i samsvar med artikkel 9, 23 eller 24 i forordning (EF) nr. 183/2005; dersom et slikt nummer ikke er tilgjengelig, et identifikasjonsnummer tildelt på anmodning fra produsentene eller den driftsansvarlige for det importerende fôrforetaket, som skal være i samsvar med formatet fastsatt i kapittel II i vedlegg V til forordning (EF) nr. 183/2005,holdbarhetsgrensen skal angis på følgende måte:«brukes før ...» etterfulgt av datoen som angir en bestemt dag for fôrvarer som er lett bedervelige på grunn av nedbrytingsprosessen,«best før ...» etterfulgt av datoen som angir en bestemt måned for andre fôrvarer.Dersom produksjonsdatoen er angitt på etiketten, kan datoen som angir holdbarhetsgrensen angis sammen med teksten « ... (antall dager eller måneder) etter produksjonsdato»,en liste over fôrmidler som fôret er sammensatt av, med overskriften «sammensetning» og angivelse av navnet på hvert fôrmiddel i samsvar med artikkel 16 nr. 1 bokstav a), i fallende orden etter vekt beregnet ut fra vanninnhold i fôrblandingen; denne listen kan inneholde en angivelse av vektprosent, ogde obligatoriske angivelsene fastsatt i kapittel II i vedlegg VI eller VII, etter hva som er relevant.2. Når det gjelder listen fastsatt i nr. 1 bokstav e), skal følgende krav gjelde:navn og vektprosent for et fôrmiddel skal angis dersom forekomsten av fôrmiddel er framhevet på merkingen med ord, bilder eller grafikk,dersom vektprosentene for fôrmidlene i fôrblandingen til dyr bestemt til næringsmiddelproduksjon, ikke er angitt på merkingen, skal personen som er ansvarlig for merkingen, uten at det berører direktiv 2004/48/EF, på anmodning gjøre tilgjengelig for kjøperen opplysninger om den kvantitative sammensetningen, som skal ligge innenfor +/– 15 % av verdiene i henhold til fôrets sammensetning, ognår det gjelder fôrblandinger beregnet på dyr som ikke er bestemt til næringsmiddelproduksjon, kan angivelsen av det særlige navnet på fôrmiddelet erstattes med navnet på kategorien som fôrmidlene tilhører.3. I tilfelle eventuelle hastesaker i forbindelse med menneskers eller dyrs helse eller i forbindelse med miljøet, og med forbehold for direktiv 2004/48/EF, kan vedkommende myndighet gi kjøperen opplysninger som den har tilgang til i henhold til artikkel 5 nr. 2, forutsatt at den har avveid produsentenes og kjøpernes respektive legitime interesser, og kommet fram til at det er berettiget å utlevere slike opplysninger. Dersom det er relevant, skal vedkommende myndighet kreve at kjøperen undertegner en fortrolighetsklausul som forutsetning for å framlegge slike opplysninger.4. Som fastsatt i nr. 2 bokstav c) skal Kommisjonen opprette en liste over fôrmiddelkategorier som kan angis i stedet for de enkelte fôrmidlene på merkingen av fôr til dyr som ikke er bestemt til næringsmiddelproduksjon, unntatt pelsdyr.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-8",
+      "provision_ref": "a18",
+      "heading": "Ytterligere obligatoriske merkingskrav for fôrvarer med særlige ernæringsformål",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "I tillegg til de generelle obligatoriske merkingskravene fastsatt i artikkel 15, 16 og 17, etter hva som er relevant, skal merkingen av fôr med særlige ernæringsformål også omfatte:betegnelsen «spesielle ernæringsmessige behov», som skal brukes bare for fôrvarer med særlige ernæringsformål, ved siden av betegnelsen på fôrvaren som fastsatt i artikkel 15 bokstav a),opplysningene angitt for de enkelte bruksområdene i kolonne 1–6 i listen over bruksområder nevnt i artikkel 9, ogen angivelse av om det bør søkes råd fra en ernæringsekspert eller en veterinær før fôrmiddelet brukes eller før bruksperioden forlenges.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-9",
+      "provision_ref": "a19",
+      "heading": "Ytterligere obligatoriske merkingskrav for fôr til kjæledyr",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "På etiketten til fôr til kjæledyr skal det være angitt et avgiftsfritt telefonnummer eller annen passende kommunikasjonsmåte slik at kjøperen kan få ytterligere opplysninger ut over de obligatoriske opplysningene, om:tilsetningsstoffene som fôr til kjæledyr inneholder, ogde fôrmidlene som inngår her, og som er betegnet med kategori som angitt i artikkel 17 nr. 2 bokstav c).",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-10",
+      "provision_ref": "a20",
+      "heading": "Ytterligere obligatoriske merkingskrav for fôr som ikke oppfyller kravene",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. I tillegg til kravene fastsatt i artikkel 15, 16, 17 og 18, skal fôr som ikke oppfyller kravene i fellesskapslovgivningen fastsatt i vedlegg VIII, som forurensede fôrmidler, være forsynt med de merkingsopplysningene som er fastsatt i nevnte vedlegg.2. Kommisjonen kan endre vedlegg VIII for å bringe det i samsvar med den rettslige utviklingen mot nye standarder.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i dette direktiv ved å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-11",
+      "provision_ref": "a21",
+      "heading": "Unntak",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. Opplysningene nevnt i artikkel 15 bokstav c), d), e) og g), og artikkel 16 nr. 1 bokstav b) skal ikke være påkrevd dersom kjøperen, før hver transaksjon, skriftlig har gitt avkall på disse opplysningene. En transaksjon kan bestå av flere forsendelser.2. Når det gjelder emballert fôr kan opplysningene nevnt i artikkel 15 bokstav c), d) og e) og artikkel 16 nr. 2 bokstav c) eller artikkel 17 nr. 1 bokstav c), d) og e), angis på emballasjen, utenfor etiketten som nevnt i artikkel 14 nr. 1. I slike tilfeller skal det angis hvor disse opplysningene finnes.3. Uten at det berører vedlegg I til forordning (EF) nr. 183/2005 skal opplysningene nevnt i artikkel 15 bokstav c), d), e) og g) og artikkel 16 nr. 1 bokstav b) i denne forordning, ikke være obligatoriske for fôrmidler som ikke inneholder tilsetningsstoffer, unntatt konserveringsmidler eller tilsetningsstoffer for ensilasje, og som er produsert og levert av en driftsansvarlig for et næringsmiddelforetak i samsvar med artikkel 5 nr. 1 i forordning (EF) nr. 183/2005 til en bruker av fôrvarer som er involvert i primærproduksjon til bruk på egen driftsenhet.4. De obligatoriske angivelsene nevnt i artikkel 17 nr. 1 bokstav f), skal ikke være påkrevd for blandinger av hele korn, frø og frukt.5. Når det gjelder fôrblandinger sammensatt av høyst tre fôrmidler, skal opplysningene nevnt i artikkel 17 nr. 1 bokstav a) og b), ikke være påkrevd dersom det klart framgår av beskrivelsen hvilke fôrmidler som er brukt.6. For mengder som ikke overstiger 20 kg fôrmidler eller fôrblandinger beregnet på sluttbrukeren, og som selges i løs vekt, kan opplysningene nevnt i artikkel 15, 16 og 17, gjøres kjent for kjøperen gjennom egnet oppslag på utsalgsstedet. I slike tilfeller skal opplysningene nevnt i artikkel 15 bokstav a) og artikkel 16 nr. 1 eller artikkel 17 nr. 1 bokstav a) og b), etter hva som er relevant, gis til kjøperen senest på eller sammen med fakturaen.7. For mengder av fôr til kjæledyr som selges i pakninger med flere beholdere, kan de opplysningene som er nevnt i artikkel 15 bokstav b), c), f) og g) og artikkel 17 nr. 1 bokstav b), c), e) og f), gis bare på den ytre emballasjen i stedet for på hver beholder, forutsatt at hele den samlede vekten av pakningen ikke overstiger 10 kg.8. Som unntak fra bestemmelsene i denne forordning kan medlemsstatene anvende nasjonale bestemmelser for fôr til dyr som holdes for vitenskapelige formål eller som forsøksdyr, forutsatt at dette formålet er klart angitt på etiketten. Medlemsstatene skal gi melding til Kommisjonen om disse bestemmelsene omgående.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-12",
+      "provision_ref": "a22",
+      "heading": "Frivillig merking",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. I tillegg til de obligatoriske merkingskravene, kan merkingen av fôrmidler og fôrblandinger også omfatte frivillige merkingsopplysninger, forutsatt at de allmenne prinsippene fastsatt i denne forordning, overholdes.2. Ytterligere vilkår for frivilling merking kan inngå i fellesskapsreglene nevnt i artikkel 25.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-13",
+      "provision_ref": "a23",
+      "heading": "Emballering",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 4Merking, presentasjon og emballering"
+      ],
+      "text": "1. Fôrmidler og fôrblandinger skal utelukkende bringes i omsetning i forseglede pakninger eller beholdere. Pakninger eller beholdere skal forsegles på en slik måte at når pakningen eller beholderen åpnes, blir forseglingen ødelagt og kan ikke gjenbrukes.2. Som unntak fra nr. 1 kan følgende fôrvarer selges i løs vekt eller i uforseglede pakninger eller beholdere:fôrmidler,fôrblandinger som utelukkende er framstilt ved å blande hele korn, frø eller hel frukt,leveranser mellom produsenter av fôrblandinger,leveranser av fôrblandinger direkte fra produsenten til brukeren av fôrvarer,leveranser fra produsenter av fôrblandinger til emballeringsforetak,mengder av fôrblandinger som ikke overstiger 50 kg i vekt, som er beregnet på sluttbrukeren og som tas direkte fra en forseglet pakning eller beholder, ogblokker eller slikkesteiner.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-1",
+      "provision_ref": "a24",
+      "heading": "Fellesskapsfortegnelse over fôrmidler",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 5Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingspraksis"
+      ],
+      "text": "1. Fellesskapsfortegnelsen over fôrmidler (heretter kalt «fortegnelsen») skal opprettes som et verktøy for å forbedre merkingen av fôrmidler og fôrblandinger. Fortegnelsen skal tilrettelegge for utveksling av opplysninger om produktegenskaper og skal inneholde en ikke-uttømmende liste over fôrmidler. Den skal for hvert fôrmiddel som er oppført, minst inneholde følgende opplysninger:betegnelse,identifikasjonsnummer,en beskrivelse av fôrmiddelet, herunder opplysninger om produksjonsprosessen, dersom det er relevant,opplysninger som erstatter den obligatoriske angivelsen i henhold til artikkel 16 nr. 1 bokstav b), ogen ordliste med definisjoner over de forskjellige prosessene og tekniske uttrykkene som er brukt.2. Den første versjonen av fellesskapsfortegnelsen skal vedtas etter framgangsmåten med rådgivende komité som fastsatt i artikkel 28 nr. 2 innen 21. mars 2010, og oppføringene i fortegnelsen skal bestå av postene oppført i del B i vedlegget til direktiv 96/25/EF og kolonne 2–4 i vedlegget til direktiv 82/471/EØF. Ordlisten skal bestå av nr. IV i del A i vedlegget til direktiv 96/25/EF.3. Framgangsmåten fastsatt i artikkel 26 får anvendelse på endringer av fortegnelsen.4. Denne artikkel gjelder uten å berøre sikkerhetskravene fastsatt i artikkel 4.5. Den driftsansvarlige for fôrforetakets bruk av fortegnelsen skal være frivillig. Betegnelsen på et fôrmiddel oppført i fortegnelsen, kan imidlertid brukes bare under forutsetning av at alle relevante bestemmelser i fortegnelsen er oppfylt.6. Den personen som for første gang bringer et fôrmiddel som ikke er oppført i fortegnelsen, i omsetning, skal omgående underrette om bruken av det til representantene for de europeiske fôrvaresektorene nevnt i artikkel 26 nr. 1. Representantene for den europeiske fôrvaresektorene skal offentliggjøre et register over slike underretninger på Internett, og ajourføre registeret regelmessig.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-2",
+      "provision_ref": "a25",
+      "heading": "Fellesskapsregler for god merkingspraksis",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 5Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingspraksis"
+      ],
+      "text": "1. Kommisjonen skal oppmuntre til utarbeiding av to fellesskapsregelverk for god merkingspraksis (heretter kalt «reglene»), ett for fôr til kjæledyr og ett for fôrblandinger til dyr bestemt til næringsmiddelproduksjon, som kan omfatte et avsnitt om fôrblandinger til pelsdyr.2. Reglene har som mål å forbedre kvaliteten på merkingen. De skal særlig omfatte bestemmelser om presentasjon av merkingsopplysninger fastsatt i artikkel 14, om frivillig merking fastsatt i artikkel 22 og om bruk av påstandene fastsatt i artikkel 13.3. Framgangsmåten fastsatt i artikkel 26, får anvendelse på utarbeidingen av reglene og eventuelle endringer av dem.4. Den driftsansvarlige for fôrforetakets bruk av reglene skal være frivillig. Bruken av noen av reglene kan imidlertid være angitt på merkingen bare under forutsetning av at alle relevante bestemmelser i slike regler er oppfylt.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-3",
+      "provision_ref": "a26",
+      "heading": "Utarbeiding av reglene og endringer i fellesskapsfortegnelsen og fellesskapsreglene",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 5Fellesskapsfortegnelse over fôrmidler og fellesskapsregler for god merkingspraksis"
+      ],
+      "text": "1. Utkast til endringer av fellesskapsfortegnelsen og utkast til reglene samt eventuelle endringer av disse skal utarbeides og endres av alle relevante representanter for europeiske fôrvaresektorer:i samråd med andre berørte parter, som brukere av fôrvarer,i samarbeid med vedkommende myndigheter i medlemsstatene, og dersom det er relevant, med myndigheten,idet det tas hensyn til relevant erfaring fra uttalelser avgitt av myndigheten og den vitenskapelige og teknologiske utviklingen.2. Med forbehold om nr. 3 skal Kommisjonen vedta tiltak i henhold til denne artikkel etter framgangsmåten med rådgivende komité fastsatt i artikkel 28 nr. 2.3. Endringer i fellesskapsfortegnelsen som fastsetter grenseverdien for kjemiske urenheter som nevnt nr. 1 i vedlegg I, eller nivået av botanisk renhet som nevnt i nr. 2 i vedlegg I eller vanninnholdet som nevnt i nr. 6 i vedlegg I, eller opplysninger som erstatter den obligatoriske angivelsen nevnt i artikkel 16 nr. 1 bokstav b), skal vedtas. Slike tiltak, som har som formål å endre ikke-vesentlige elementer av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.4. Tiltak i henhold til denne artikkel skal vedtas bare forutsatt at følgende vilkår er oppfylt:de er blitt utarbeidet i samsvar med nr. 1,innholdet i dem er praktisk gjennomførbart i hele Fellesskapet, i de sektorene som de viser til, ogde er hensiktsmessige som middel til å nå målene i denne forordning.5. Fortegnelsen skal kunngjøres i L-serien i Den europeiske unions tidende. Titlene og henvisningene til reglene skal kunngjøres i C-serien i Den europeiske unions tidende.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-1",
+      "provision_ref": "a27",
+      "heading": "Gjennomføringstiltak",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "1. Kommisjonen kan endre vedleggene for å tilpasse dem til den vitenskapelige og teknologiske utviklingen.Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle det, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.2. Andre gjennomføringstiltak som er nødvendige for anvendelsen av denne forordning, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 3, med mindre annet uttrykkelig er angitt.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-2",
+      "provision_ref": "a28",
+      "heading": "Komitéframgangsmåte",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen som er nedsatt ved artikkel 58 i forordning (EF) nr. 178/2002 (heretter kalt «komiteen»).2. Når det vises til dette nummer, får artikkel 3 og 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.3. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning 1999/468/EF, skal være tre måneder.4. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og artikkel 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.5. Når det vises til dette nummer, får artikkel 5a nr. 1, 2, 4 og 6 og artikkel 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.6. Når det vises til dette nummer, får artikkel 5a nr. 1–4 og nr. 5 bokstav b) og artikkel 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Fristene fastsatt i artikkel 5a nr. 3 bokstav c) og nr. 4 bokstav b) og e) i beslutning 1999/468/EF, skal være henholdsvis to måneder, én måned og to måneder.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-3",
+      "provision_ref": "a29",
+      "heading": "Endring av forordning (EF) nr. 1831/2003",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "I artikkel 16 i forordning (EF) nr. 1831/2003 gjøres følgende endringer:",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-4",
+      "provision_ref": "a30",
+      "heading": "Oppheving",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "Artikkel 16 i direktiv 70/524/EØF og direktiv 79/373/EØF, 80/511/EØF, 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt vedtak 2004/217/EF oppheves med virkning fra 1. september 2010.\nHenvisninger til de opphevede direktivene og det opphevede vedtaket skal forstås som henvisninger til denne forordning og leses som angitt i sammenligningstabellen i vedlegg IX.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-5",
+      "provision_ref": "a31",
+      "heading": "Sanksjoner",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "Medlemsstatene skal fastsette sanksjoner til bruk ved overtredelse av bestemmelsene i denne forordning, og treffe alle nødvendige tiltak for å sikre at de får anvendelse. De fastsatte sanksjonene skal være virkningsfulle, stå i forhold til overtredelsen og virke avskrekkende.\nMedlemsstatene skal gi melding til Kommisjonen om disse bestemmelsene innen 1. september 2010, og om eventuelle senere endringer så snart som mulig.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-6",
+      "provision_ref": "a32",
+      "heading": "Overgangstiltak",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "1. Som unntak fra artikkel 33 annet ledd, kan fôrvarer som er omsatt eller merket i samsvar med direktiv 79/373/EØF, 82/471/EØF, 93/74/EØF og 96/25/EF innen 1. september 2010, likevel omsettes helt til lagrene er tømt.2. Som unntak fra artikkel 8 nr. 2 kan fôrvaretyper nevnt i denne artikkelen, som allerede er lovlig markedsført innen 1. september 2010, omsettes helt til det er truffet beslutning om søknad om ajourføring av listen over bruksområder nevnt i artikkel 10, forutsatt at en slik søknad er blitt innlevert før 1. september 2010.3. Som unntak fra nr. 1 i vedlegg I til denne forordning, kan fôrmidler omsettes og brukes helt til den særlige grenseverdien for kjemiske urenheter fra produksjonsprosessen og fra tekniske hjelpestoffer er fastsatt, forutsatt at de minst oppfyller vilkårene fastsatt i nr. 1 i del A avdeling II i vedlegget til direktiv 96/25/EF. Dette unntaket skal imidlertid opphøre å gjelde 1. september 2012.4. Det kan treffes tiltak for å lette overgangen til anvendelsen av denne forordning. Det kan særlig angis på hvilke vilkår fôrvarer kan merkes i samsvar med denne forordning før den datoen den tas i anvendelse. Disse tiltakene, som har som formål å endre ikke-vesentlige elementer i denne forordning ved blant annet å utfylle den, skal vedtas etter framgangsmåten med forskriftskomité med kontroll fastsatt i artikkel 28 nr. 4.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-7",
+      "provision_ref": "a33",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 767/2009",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 767/2009av 13. juli 2009om omsetning av og bruk av fôrvarer, endring av europaparlaments- og rådsforordning (EF) nr. 1831/2003 og oppheving av rådsdirektiv 79/373/EØF, kommisjonsdirektiv 80/511/EØF, rådsdirektiv 82/471/EØF, 83/228/EØF, 93/74/EØF, 93/113/EF og 96/25/EF samt kommisjonsbeslutning 2004/217/EF",
+        "Kapittel 6Alminnelige bestemmelser og sluttbestemmelser"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 1. september 2010.\nArtikkel 31 og 32 får imidlertid anvendelse fra ikrafttredelsesdatoen for denne forordning.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 13. juli 2009.\nFor EuropaparlamentetFor RådetH.-G. PÖTTERINGE. ERLANDSSONPresidentFormann",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 454/2010",
+        "KOMMISJONSFORORDNING (EU) nr. 454/2010av 26. mai 2010om overgangstiltak i henhold til europaparlaments- og rådsforordning (EF) nr. 767/2009 med hensyn til bestemmelsene om merking av fôrvarer"
+      ],
+      "text": "Som unntak fra artikkel 33 annet ledd i forordning (EF) nr. 767/2009 og uten at det berører rådsdirektiv 79/373/EØF,1 82/471/EØF,2 93/74/EØF3 og 96/25/EF,4 kan fôrvarer som er merket i samsvar med forordning (EF) nr. 767/2009, markedsføres fra og med den dato denne forordning trer i kraft.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 454/2010",
+        "KOMMISJONSFORORDNING (EU) nr. 454/2010av 26. mai 2010om overgangstiltak i henhold til europaparlaments- og rådsforordning (EF) nr. 767/2009 med hensyn til bestemmelsene om merking av fôrvarer"
+      ],
+      "text": "Som unntak fra artikkel 33 annet ledd i forordning (EF) nr. 767/2009 kan fôrvarer som er beregnet på kjæledyr og som er merket i samsvar med direktiv 79/373/EØF og artikkel 16 i rådsdirektiv 70/524/EØF,1 markedsføres til og med 31. august 2011. Deretter kan de forbli på markedet til lagrene er tømt.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 454/2010",
+        "KOMMISJONSFORORDNING (EU) nr. 454/2010av 26. mai 2010om overgangstiltak i henhold til europaparlaments- og rådsforordning (EF) nr. 767/2009 med hensyn til bestemmelsene om merking av fôrvarer"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 26. mai 2010.\nFor Kommisjonen José Manuel BARROSO President",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-3-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 68/2013",
+        "KOMMISJONSFORORDNING (EU) nr. 68/2013av 16. januar 2013om fortegnelsen over fôrmidler"
+      ],
+      "text": "Fortegnelsen over fôrmidler nevnt i artikkel 24 i forordning (EF) nr. 767/2009 opprettes som fastsatt i vedlegget til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-3-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 68/2013",
+        "KOMMISJONSFORORDNING (EU) nr. 68/2013av 16. januar 2013om fortegnelsen over fôrmidler"
+      ],
+      "text": "Forordning (EU) nr. 575/2011 oppheves.\nHenvisninger til den opphevede forordningen skal forstås som henvisninger til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-3-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 68/2013",
+        "KOMMISJONSFORORDNING (EU) nr. 68/2013av 16. januar 2013om fortegnelsen over fôrmidler"
+      ],
+      "text": "Fôrmidler som er merket i samsvar med forordning (EU) nr. 575/2011 før 19. august 2013, kan fortsatt bringes i omsetning og brukes til lagrene er tomme.",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-3-kapittel-1-paragraf-4",
+      "heading": "Artikkel 4",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 68/2013",
+        "KOMMISJONSFORORDNING (EU) nr. 68/2013av 16. januar 2013om fortegnelsen over fôrmidler"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 16. januar 2013.\nFor Kommisjonen José Manuel BARROSO President",
+      "xml_path": "article#kapittel-1-kapittel-3-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-4-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2020/354",
+        "Kommisjonsforordning (EU) 2020/354av 4. mars 2020om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv 2008/38/EF"
+      ],
+      "text": "Fôr med særlige ernæringsformål som definert i forordning (EF) nr. 767/2009, kan bare bringes i omsetning dersomde alminnelige bestemmelsene om fôr med særlige ernæringsformål fastsatt i del A i denne forordningen er overholdt, ogdets tiltenkte bruk er oppført i del B i vedlegget til denne forordningen, og bestemmelsene i den respektive posten er overholdt.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-4-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2020/354",
+        "Kommisjonsforordning (EU) 2020/354av 4. mars 2020om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv 2008/38/EF"
+      ],
+      "text": "Som unntak fra artikkel 1 kan fôr med særlige ernæringsformål som er i samsvar med bestemmelsene i direktiv 2008/38/EF, fortsatt bringes i omsetning, forutsatt at en søknad om en tiltenkt bruk oppført i det direktivet er inngitt til Kommisjonen i samsvar med artikkel 10 i forordning (EF) nr. 767/2009 før 25. mars 2021, og fram til Kommisjonen treffer beslutning om søknaden.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-4-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2020/354",
+        "Kommisjonsforordning (EU) 2020/354av 4. mars 2020om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv 2008/38/EF"
+      ],
+      "text": "Fôr med særlige ernæringsformål som er merket før 25. mars 2022 i samsvar med reglene som gjaldt før 25. mars 2020, kan fortsatt bringes i omsetning og brukes til de eksisterende lagrene er tømt.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-4",
+      "provision_ref": "a4#kapittel-1-kapittel-4-kapittel-1-paragraf-4",
+      "heading": "Artikkel 4",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2020/354",
+        "Kommisjonsforordning (EU) 2020/354av 4. mars 2020om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv 2008/38/EF"
+      ],
+      "text": "Direktiv 2008/38/EF oppheves.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-kapittel-1-paragraf-5",
+      "provision_ref": "a5#kapittel-1-kapittel-4-kapittel-1-paragraf-5",
+      "heading": "Artikkel 5",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) 2020/354",
+        "Kommisjonsforordning (EU) 2020/354av 4. mars 2020om utarbeiding av en liste over bruksområder for fôr med særlige ernæringsformål og om oppheving av direktiv 2008/38/EF"
+      ],
+      "text": "Denne forordningen trer i kraft den 20. dagen etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 25. desember 2020.\nDenne forordningen er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel 4. mars 2020.",
+      "xml_path": "article#kapittel-1-kapittel-4-kapittel-1-paragraf-5"
+    }
+  ]
+}

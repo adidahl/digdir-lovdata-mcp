@@ -1,0 +1,63 @@
+{
+  "id": "LOV-1940-03-15-3",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om vassdragene [vassdragsloven]",
+  "short_title": "Vassdragsloven – vdrl",
+  "department": "Energidepartementet",
+  "legal_area": "Energirett > Vannkraft Miljøvern, natur og friluftsliv > Naturmangfold/naturfredning",
+  "last_change_in_force": "2010-01-01",
+  "last_changed_by": "lov/2005-06-17-101 fra 2010-01-01",
+  "lovdata_refid": "lov/1940-03-15-3",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1940-03-15-3",
+  "raw_xml_sha256": "9c5b21324a850d4b7da36d114b1ee1a5d08e95e188ecc4b8e2aa6795cbdf018a",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "Første kapitel. Om eiendomsretten til vassdrag."
+      ],
+      "text": "Når elv eller bekk danner skillet mellom eiendommer, skal grensen gå etter djupålen i vassfaret, hvis ikke annet følger av særlig hjemmel.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "Første kapitel. Om eiendomsretten til vassdrag."
+      ],
+      "text": "Hvor eiendommer som ligger på hver sin side av en innsjø støter til hverandre under vatnet, skal grensen, hvis ikke annet følger av særlig hjemmel, gå slik at hvert sted på bunnen tilhører den landside som det nærmest er en fortsettelse av.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "Første kapitel. Om eiendomsretten til vassdrag."
+      ],
+      "text": "Mellom eiendommer på samme side av et vassdrag skal grensen, hvis ikke annet følger av særlig hjemmel, gå slik at hvert sted på bunnen tilhører den strand som det ved lav vass-stand ligger nærmest.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [
+        "Første kapitel. Om eiendomsretten til vassdrag."
+      ],
+      "text": "1. Enhver har rett til å kreve sin eiendoms grenser i vassdrag fastslått med bindende virkning og oppmerket. Forsåvidt angår grunn som ikke er undergitt eiendomsrett, kan kravet rettes mot eller reises av vedkommende departement.Departementet gir nærmere bestemmelser om kartfesting og merking, jf. lov om eigedomsregistrering.2. Mellom eiendommer som ligger på hver sin side av elv, bekk eller innsjø, fastsettes grensen ved skjønn.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [
+        "Første kapitel. Om eiendomsretten til vassdrag."
+      ],
+      "text": "Oppgrunning eller forandring av vatnets løp endrer ikke eiendomsgrensene. Vassdraget tilfaller eierne av den grunn som vatnet har tatt sitt nye løp over, og den nye djupål kommer ikke i betraktning.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    }
+  ]
+}

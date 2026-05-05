@@ -1,0 +1,88 @@
+{
+  "id": "FOR-2012-06-19-600",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunal håndheving av politivedtekter",
+  "short_title": "Forskrift om kommunal håndheving av politivedtekter",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2012-07-01",
+  "lovdata_refid": "forskrift/2012-06-19-600",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-06-19-600",
+  "raw_xml_sha256": "e9ef6bd1e35e75599ce9c71d67e746a8b25feee8f8644b58ac135831a75db649",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriften skal sikre ensartet og effektiv kommunal håndheving av vedtekter etter politiloven § 14 tredje ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften får anvendelse for kommuner som vedtar håndheving etter politiloven § 14 tredje ledd.\nVedtak om kommunal håndheving kan omfatte overtredelser av bestemmelser i vedtektene omå hindre tilgrising på steder som er alminnelig beferdet eller bestemt for alminnelig ferdsel,hus- eller grunneiers plikt til å holde det rent og ryddig på fortau eller tilsvarende område i umiddelbar tilknytning til eiendommen,hus- eller grunneiers plikt til å rydde for snø og strø når det er glatt,hus- eller grunneiers plikt til å sikre ferdsel uten hinder av gjenstander eller lignende på eller ut over fortau,hus- eller grunneiers plikt til å sikre ferdsel uten hinder av snø- og takras.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Adgang til å ilegge overtredelsesgebyr",
+      "path": [],
+      "text": "Kommunen kan ilegge overtredelsesgebyr for overtredelse av bestemmelsene i § 2. Overtredelsesgebyr skal ilegges av personell ansatt i kommunen eller av selskap som helt eller delvis eies av kommunen.\nOvertredelsesgebyr kan ilegges enkeltperson eller foretak, eier av hus eller grunn og den som fester, bruker, leier eller bestyrer hus eller grunn.\nOvertredelsesgebyr kan ilegges foretak selv om det ikke kan ilegges noen enkeltperson. Overtredelsesgebyr for overtredelse av bestemmelsene i § 2 bokstav b til d kan ilegges eier av hus eller grunn eller rettes til styret i sameie dersom overtrederen ikke er kjent.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Begrensninger i adgangen til å ilegge overtredelsesgebyr",
+      "path": [],
+      "text": "Overtredelsesgebyr skal ikke ilegges dersom overtredelsen skjer som følge av uforskyldte hindringer som den ansvarlige ikke med rimelighet kan overkomme.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Forbud mot dobbeltbehandling av overtredelser",
+      "path": [],
+      "text": "Det kan ikke ilegges overtredelsesgebyr for overtredelser som er behandlet av politiet. Politiet kan ikke behandle overtredelser som det er ilagt overtredelsesgebyr for.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overtredelsesgebyrets størrelse",
+      "path": [],
+      "text": "For overtredelse av bestemmelser som nevnt i § 2 bokstav a kan det ilegges overtredelsesgebyr fra kr 500 til kr 1000.\nFor overtredelse av bestemmelser som nevnt i § 2 bokstav b, c og d kan det ilegges overtredelsesgebyr fra kr 1000 til kr 2000.\nFor overtredelse av bestemmelser som nevnt i § 2 bokstav e kan det ilegges overtredelsesgebyr fra kr 1000 til kr 5000.\nVed avgjørelsen av hvor stort overtredelsesgebyr som skal ilegges, skal overtredelsens karakter, omfang, varighet og virkning tas i betraktning. For gjentatt eller alvorlig overtredelse kan overtredelsesgebyret forhøyes med 50 %.\nSom alvorlig overtredelse regnes overtredelser som medfører betydelig ulempe for publikum eller som kan medføre betydelig skade eller fare for liv og helse. Kommunen bør vurdere om alvorlige overtredelser i stedet skal anmeldes til politiet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ileggelse av overtredelsesgebyr",
+      "path": [],
+      "text": "Overtredelsesgebyr kan ilegges på stedet ved at blankett med gebyr og innbetalingskort leveres overtrederen eller dennes representant, eller det kan sendes i posten.\nNår overtredelsesgebyr ilegges på stedet kan overtrederen kreve at kommunens kontrollører legitimerer seg.\nEr gebyret ikke betalt innen tre uker etter utstedelsen, forhøyes det med 50 % selv om det er påklaget.\nOvertredelsesgebyret tilfaller kommunen. Vedtak om overtredelsesgebyr er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Klage",
+      "path": [],
+      "text": "Ilagt overtredelsesgebyr kan påklages innen tre uker etter ileggelsen. Reglene i forvaltningsloven § 29 til § 32 får anvendelse.\nKlagen sendes kommunen og behandles av klageinstans utpekt av kommunen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. juli 2012.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

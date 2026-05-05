@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2007-11-29-1332",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om rapporteringsplikt for foretak som driver inkassovirksomhet",
+  "short_title": "Forskrift om rapporteringsplikt, inkassoforetak",
+  "department": "Finansdepartementet",
+  "date_in_force": "2007-11-29",
+  "last_change_in_force": "2009-12-21",
+  "last_changed_by": "forskrift/2009-12-18-1726 fra 2009-12-21",
+  "lovdata_refid": "forskrift/2007-11-29-1332",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-11-29-1332",
+  "raw_xml_sha256": "d22f51bc2bf93e62746dae710eb201e7446598c1bf9ed58ec438a110e35248f7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Plikt til innsendelse",
+      "path": [],
+      "text": "Foretak som driver inkassovirksomhet i medhold av bevilling etter inkassoloven § 5, plikter hvert halvår å fylle ut og sende til Finanstilsynet opplysninger om inkassovirksomheten på eget rapporteringsskjema.\nFor foretak som sender inn skjema på elektronisk form via Altinn til Finanstilsynet gjelder følgende frister:1. september (1. halvår)1. mars (2. halvår).\nFor foretak som sender inn skjema på papir til Finanstilsynet gjelder følgende frister:15. august (1. halvår)15. februar (2. halvår).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Begrensninger i rapporteringsplikten",
+      "path": [],
+      "text": "Finanstilsynet kan i det enkelte tilfellet begrense rapporteringsplikten.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Forskrift 16. desember 2005 nr. 1515 om rapporteringsplikt for foretak som driver inkassovirksomhet oppheves fra samme dato.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

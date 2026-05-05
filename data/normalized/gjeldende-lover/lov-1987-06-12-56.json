@@ -1,0 +1,539 @@
+{
+  "id": "LOV-1987-06-12-56",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Sametinget og andre samiske rettsforhold (sameloven)",
+  "short_title": "Sameloven – samel",
+  "department": "Kommunal- og distriktsdepartementet",
+  "legal_area": "Samerett",
+  "date_in_force": "1989-02-24",
+  "last_change_in_force": "2024-08-01",
+  "last_changed_by": "lov/2023-06-09-30 fra 2024-08-01, lov/2023-06-16-62 fra 2024-05-01",
+  "lovdata_refid": "lov/1987-06-12-56",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1987-06-12-56",
+  "raw_xml_sha256": "60f03e3b4c2f0246d77c0cb8f1a53725a81a14fc100b389c63df323c415d6531",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Lovens formål. Forholdet til folkeretten",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "Lovens formål er å legge forholdene til rette for at den samiske folkegruppe i Norge kan sikre og utvikle sitt språk, sin kultur og sitt samfunnsliv.\nLoven gjelder med de begrensninger som følger av ILO-konvensjon nr. 169 om urfolk og stammefolk i selvstendige stater. Loven skal anvendes i samsvar med folkerettens regler om urfolk og minoriteter.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Sametinget.",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "Den samiske folkegruppe skal ha et eget landsomfattende sameting valgt av og blant samene.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Sametingets årsmelding.",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "Sametingets årsmelding sendes til Kongen.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Statens økonomiske ansvar.",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "De særlige utgifter som påføres fylkeskommuner og kommuner ved valg til Sametinget dekkes av staten.\nKongen gir forskrift om gjennomføring av første ledd.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Samiske språk",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "De samiske språkene og norsk er likeverdige språk. Sørsamisk, lulesamisk og nordsamisk skal være likestilte med norsk etter bestemmelsene i kapittel 3.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Det samiske flagget",
+      "path": [
+        "Kapittel 1. Allmenne bestemmelser."
+      ],
+      "text": "Det samiske flagget er flagget godkjent av den 13. nordiske samekonferansen 15. august 1986.\nSametinget kan ved forskrift gi nærmere bestemmelser om bruken av det samiske flagget.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Sametingets arbeidsområde og myndighet.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Sametingets arbeidsområde er alle saker som etter tingets oppfatning særlig berører den samiske folkegruppe.\nSametinget kan av eget tiltak reise og avgi uttalelse om alle saker innenfor sitt arbeidsområde. Det kan av eget tiltak også legge fram saker for offentlige myndigheter og private institusjoner m.v.\nSametinget kan delegeres myndighet til å forvalte de bevilgninger som bevilges til samiske formål over det årlige statsbudsjett. Departementet fastsetter reglement for Sametingets økonomiforvaltning. Sametinget kan gi forskrift om fordeling og bruk av tilskudd.\nSametinget har beslutningsmyndighet når dette følger av andre bestemmelser i loven eller fastsatt på annen måte.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Innhenting av uttalelse fra Sametinget.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Andre offentlige organer bør gi Sametinget anledning til å uttale seg før de treffer avgjørelse i saker på Sametingets arbeidsområde.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Valgmåte, valgtidspunkt og valgperiode.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Valg til Sametinget holdes som direkte valg.\nValget holdes som forholdsvalg når mer enn ett forslag til valgliste blir godkjent i en valgkrets. I andre tilfelle holdes valget som flertallsvalg.\nValget holdes på samme dag som stortingsvalg. I kommuner med mindre enn 30 manntallsførte er det kun adgang til å avlegge forhåndsstemme ved sametingsvalget.\nSametinget velges for et tidsrom av fire år. Valgperioden reknes fra første oktober i valgåret.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Valgkretser og mandatfordeling.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Ved valg til Sametinget velges medlemmer med varamedlemmer fra følgende valgkretser:Østre valgkrets/Nuortaguovllu válgabiire: kommunene Sør-Varanger, Nesseby, Vadsø, Vardø, Båtsfjord, Tana, Berlevåg, Lebesby og Gamvik i Finnmark fylkeÁvjovári valgkrets/Ávjovári válgabiire: kommunene Karasjok, Kautokeino og Porsanger i Finnmark fylkeNordre valgkrets/Davveguovllu válgabiire: kommunene Nordkapp, Måsøy, Hammerfest, Alta, Hasvik og Loppa i Finnmark fylke og kommunene Skjervøy, Kvænangen og Nordreisa i Troms fylkeGáisi valgkrets/Gáiseguovllu válgabiire: kommunene Kåfjord, Storfjord, Lyngen, Karlsøy, Tromsø, Balsfjord, Målselv, Bardu, Senja og Sørreisa i Troms fylkeVesthavet valgkrets/Viestarmera válggabijrra/Viesttarmeara válgabiire: kommunene Dyrøy, Salangen, Lavangen, Gratangen, Tjeldsund, Ibestad, Harstad og Kvæfjord i Troms fylke og kommunene fra og med Saltdal, Beiarn og Meløy og nordover i Nordland fylkeSørsamisk valgkrets/Åarjel-Saepmie veeljemegievlie: kommunene fra og med Rana og Rødøy og sørover i Nordland fylke, Trøndelag fylke, kommunene Surnadal og Sunndal i Møre og Romsdal fylke og kommunene Engerdal, Rendalen, Os, Tolga, Tynset og Folldal i Innlandet fylkeSør-Norge valgkrets/Lulli-Norgga válgabiire: de kommunene i Møre og Romsdal og Innlandet fylker som ikke tilhører valgkrets 6, samt fylkene Vestland, Rogaland, Agder, Telemark, Buskerud, Vestfold, Akershus, Østfold og Oslo.\nDet skal velges 39 representanter til Sametinget. Valgkretsene tildeles først to mandater hver. Deretter fordeles de øvrige 25 mandatene forholdsmessig mellom valgkretsene på grunnlag av antall manntallsførte etter fordelingsmåten fastsatt i valgloven § 11-3 tredje og fjerde ledd. Sør-Norge valgkrets skal likevel ikke tildeles flere mandater enn valgkretsen ville fått dersom alle 39 mandater var fordelt forholdsmessig mellom valgkretsene.\nKongen gir forskrift med utfyllende bestemmelser om mandatfordelingen og kandidatkåring.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Stemmerett.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Stemmerett ved valg til Sametinget har alle som har stemmerett ved kommunestyrevalg i kretsen, og som på valgdagen står innført i Sametingets valgmanntall i kretsen (jf. § 2-6).",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Sametingets valgmanntall.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Alle som avgir erklæring om at de oppfatter seg selv som same, og som entenhar samisk som hjemmespråk, ellerhar eller har hatt forelder, besteforelder eller oldeforelder med samisk som hjemmespråk, ellerer barn av person som står eller har stått i Sametingets valgmanntall, kan kreve seg innført i Sametingets valgmanntall.\nBegjæring om innføring i Sametingets valgmanntall rettes til Sametinget.\nSametingets valgmanntall utarbeides av Sametinget på grunnlag av folkeregisteret, valgmanntallet ved siste sametingsvalg og de krav om innføring eller strykning som er kommet i løpet av valgperioden. Sametingets valgmanntall skal føres kommunevis.\nNår en person er innført i Sametingets valgmanntall, kan dette registreres i folkeregisteret. Denne registrering skal være tilgjengelig kun for den myndighet som har ansvaret for gjennomføring av valg til Sameting, eller etter samtykke fra Sametinget.\nSametingets valgmanntall kan føres ved hjelp av EDB.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Valgbarhet og forslagsrett.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Valgbar til Sametinget er alle som er innført i Sametingets valgmanntall i kretsen. De som skal velges, må dessuten være innført i folkeregisteret som bosatt i kretsen på valgdagen. Personale ved Sametingets administrasjon er likevel ikke valgbare.\nForslagsrett i valgkretsene har alle som er innført i Sametingets valgmanntall i kretsen. Et forslag til valgliste må være underskrevet av minst 30 samer med forslagsrett.\nEn gruppe, parti eller liknende sammenslutning kan søke Sametinget om å bli registrert med et bestemt partinavn. Begjæring om registrering skal være ledsaget av underskrifter fra minst 200 personer som har stemme- og forslagsrett ved valg til Sametinget. Vedtak om registrering kan ikke påklages. Kongen kan gi nærmere bestemmelser om vilkårene og framgangsmåten ved registrering.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-8",
+      "heading": "Plikt til å motta valg, fritaksgrunner og møteplikt.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Alle som har rett til å stille til valg til Sametinget, har plikt til å motta valget med mindre de blir fritatt etter reglene i andre ledd.\nRett til å kreve seg fritatt for valg har alle somhar fylt seksti år innen valgårets utløp, ellerhar gjort tjeneste som medlem av Sametinget de siste fire år, elleroverfor Sametingets valgnemnd godtgjør at de ikke vil kunne skjøtte sine plikter som medlem av Sametinget uten uforholdsmessig vanskelighet.\nPerson som er valgt som medlem av Sametinget eller organ nedsatt av Sametinget, plikter å delta i Sametingets eller respektive organs møter med mindre det foreligger gyldig forfall.\nArbeidstaker har krav på fri fra arbeid i det omfang det er nødvendig på grunn av pliktene i Sametinget eller i det organ vedkommende er oppnevnt medlem i.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 2-9",
+      "heading": "Fritak og uttreden i valgperioden.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Medlemmer av Sametinget som ikke kan skjøtte sine plikter i vervet uten uforholdsmessig vanskelighet, kan av Sametinget etter søknad fritas fra vervet for en bestemt tid eller for resten av valgperioden.\nMedlemmer som blir ansatt i Sametingets administrasjon, trer ut av Sametinget for resten av valgperioden.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 2-10",
+      "heading": "Valgmyndighet.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Sametinget er øverste valgmyndighet ved valg til Sametinget.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 2-11",
+      "heading": "Utfyllende bestemmelser om valget.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Kongen gir utfyllende bestemmelser om valg til Sametinget.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 2-12",
+      "heading": "Sametingets administrasjon, organisering og saksbehandling.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Sametinget skal ha en egen administrasjon. Personalet ved administrasjonen ansettes av Sametinget.\nSametingets ansatte personell skal være underlagt den lovgivning som gjelder for statens tjenestemenn så langt det passer.\nSametinget kan opprette de styrer, råd eller utvalg som Sametinget finner hensiktsmessig og, såfremt ikke annet fremgår, delegere myndighet til disse.\nBeslutningsmyndighet i henhold til §§ 2-9, 2-10 og 2-14 kan ikke delegeres.\nEnkeltvedtak fattet av styre, råd eller utvalg oppnevnt av Sametinget, kan i samsvar med forvaltningslovens bestemmelser påklages til Sametinget eller særskilt klagenemnd oppnevnt av Sametinget.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-14",
+      "provision_ref": "§ 2-13",
+      "heading": "Forhandlingsspråk.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Under møter i Sametinget har alle rett til å tale samisk eller norsk etter eget ønske.",
+      "xml_path": "article#kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-15",
+      "provision_ref": "§ 2-14",
+      "heading": "Forretningsorden.",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Sametinget gir bestemmelser om sammenkalling og arbeidsordningen i Sametinget.",
+      "xml_path": "article#kapittel-2-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-16",
+      "provision_ref": "§ 2-15",
+      "heading": "Pensjonsordning",
+      "path": [
+        "Kapittel 2. Sametinget."
+      ],
+      "text": "Medlemmer av Sametinget som utøver sitt verv på fulltid, har rett til pensjon etter en egen pensjonsordning. Kongen kan i forskrift bestemme at også andre medlemmer av Sametinget skal ha rett til pensjon.\nKongen gir nærmere forskrift om beregningen av pensjonsrettighetene og om gjennomføringen av pensjonsordningen.",
+      "xml_path": "article#kapittel-2-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "I dette kapitlet menes med:forvaltningsområdet for samiske språk: kommuner inndelt i kategoriene språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner, og fylkeskommuner, som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk,offentlig organ: ethvert organ for stat og kommune som har en tjenestekrets som helt eller delvis omfatter en av kommunene i forvaltningsområdet for samiske språk, og fylkeskommuner som Kongen i forskrift har fastsatt at skal inngå i forvaltningsområdet for samiske språk.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Oversettelse av regler. Kunngjøringer og skjema",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Lover og forskrifter av særlig interesse for hele eller deler av den samiske befolkning, skal oversettes til samiske språk av det departementet som har ansvaret for loven eller forskriften. Kommunene og fylkeskommunene har ansvaret for å oversette lokale forskrifter av særlig interesse for hele eller deler av den samiske befolkning til samiske språk.\nKunngjøringer fra offentlige organer som særlig retter seg mot hele eller deler av befolkningen i forvaltningsområdet for samiske språk, skal skje både på samisk og norsk. Ansvaret ligger hos det organet som offentliggjør kunngjøringen.\nPapirbaserte og digitale skjema til bruk overfor et offentlig organ i forvaltningsområdet for samiske språk skal foreligge både på samisk og norsk. Dette gjelder likevel ikke landsomfattende organer. Ansvaret ligger hos det organet som utarbeider skjemaet.\nDet offentlige organet skal vurdere hvilket eller hvilke språk det skal oversettes til. I vurderingen skal det tas hensyn til hvem informasjonen retter seg mot og hva informasjonen dreier seg om.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Rett til svar på samisk",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Den som henvender seg skriftlig på samisk til en språkutviklingskommune, språkvitaliseringskommune eller fylkeskommune i forvaltningsområdet for samiske språk, har rett til skriftlig svar på samisk. Det samme gjelder ved skriftlige henvendelser til et statlig organ som har en språkutviklingskommune eller en språkvitaliseringskommune i sin tjenestekrets.\nDen som henvender seg muntlig på samisk til en språkutviklingskommune, har rett til samtidig muntlig svar på samisk. Det samme gjelder ved muntlige henvendelser på samisk til en fylkeskommunal tannklinikk eller til et lokalt statlig organ, som har tjenestekrets i en språkutviklingskommune. Retten gjelder likevel ikke ved muntlige henvendelser til offentlig ansatte som utfører oppdrag utenfor organets kontor.\nDen som henvender seg muntlig på samisk til en språkvitaliseringskommune, har rett til muntlig svar på samisk. Det samme gjelder ved muntlige henvendelser på samisk til en fylkeskommunal tannklinikk eller til et lokalt statlig organ, som har tjenestekrets i en språkvitaliseringskommune. Retten gjelder likevel ikke ved muntlige henvendelser til offentlig ansatte som utfører oppdrag utenfor organets kontor.\nDen enkelte har rett til svar på samisk på det eller de samiske språkene som er i bruk og som har tradisjonell geografisk tilknytning til det offentlige organets tjenestekrets.\nRett til svar på samisk gjelder ikke overfor offentlige organer som er landsomfattende, med mindre annet følger av forskrift fastsatt av Kongen.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-3a",
+      "heading": "Informasjon om språkrettigheter",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Offentlige organer som er omfattet av bestemmelsene i §§ 3-3, 3-4, 3-4 a, 3-4 b og 3-5, skal aktivt informere om retten til å bruke samisk.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-4",
+      "heading": "Domstoler",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "For domstoler med embetskrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å inngi prosesskriv med bilag, skriftlige bevis eller andre skriftlige henvendelser på samisk. Skal domstolen formidle henvendelsen til en motpart, sørger den for oversettelse til norsk. Oversettelse kan unnlates dersom motparten samtykker.Enhver har rett til å henvende seg muntlig til domstolen på samisk dersom rettergangslovgivningen gir adgang til muntlig istedenfor skriftlig henvendelse. Har domstolen plikt til å nedtegne henvendelsen, kan den som fremmer henvendelsen, kreve at nedtegnelsen skjer på samisk. Et slikt krav bryter ingen frist. Nr. 1 andre og tredje punktum gjelder tilsvarende.Enhver har rett til å tale samisk i rettsmøter. Skal noen som ikke kan samisk delta i forhandlingene, brukes en tolk som retten har oppnevnt eller godkjent.Når en part begjærer det, kan rettens leder bestemme at forhandlingsspråket skal være samisk. Nr. 3 andre punktum gjelder tilsvarende.Er forhandlingsspråket samisk, kan rettens leder bestemme at også rettsboken skal føres på samisk. Domstolen sørger for oversettelse til norsk.Domstolen sørger for at rettsbøker som er skrevet på norsk, oversettes til samisk når en part krever det. Et slikt krav bryter ingen frist.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-4a",
+      "heading": "Husleietvistutvalget",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Reglene i § 3-4 første ledd nr. 1 og nr. 2 gjelder også i Husleietvistutvalget. Reglene i § 3-4 første ledd nr. 3 og nr. 4 gjelder så langt de passer for saker som er gjenstand for muntlig behandling eller mekling i Husleietvistutvalget. Husleietvistutvalget skal sørge for at vedtak eller forlik skrevet på norsk, oversettes til samisk når en part krever det. For kostnader til oversettelser gjelder rettsgebyrloven § 2 andre ledd tredje punktum.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 3-4b",
+      "heading": "Politi og påtalemyndighet",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "For politi og påtalemyndighet med tjenestekrets som helt eller delvis omfatter forvaltningsområdet for samiske språk, gjelder i tillegg følgende regler om bruk av samisk:Enhver har rett til å tale samisk i avhør på organets kontor.Enhver har rett til å bruke samisk ved muntlig anmeldelse og rettsmiddelerklæring.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 3-4c",
+      "heading": "Kriminalomsorgen",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "For kriminalomsorgens anstalter i Troms og Finnmark gjelder i tillegg følgende regler om bruk av samisk:Innsatte har rett til å bruke samisk ved muntlig rettsmiddelerklæring til fengselsmyndigheten.Innsatte har rett til å bruke samisk overfor hverandre og overfor sine pårørende.§ 3-5 gjelder tilsvarende for innsatte.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 3-5",
+      "heading": "Utvidet rett til bruk av samisk i helse- og omsorgsinstitusjoner",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Den som ønsker å bruke samisk for å ivareta egne interesser overfor offentlige helse- og omsorgsinstitusjoner og barnevernsinstitusjoner i språkutviklingskommuner og i språkvitaliseringskommuner, har rett til å bli betjent på samisk.\nRetten gjelder ikke overfor landsomfattende offentlige helse- og omsorgsinstitusjoner og barnevernsinstitusjoner, med mindre det følger av forskrift fastsatt av Kongen.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 3-6",
+      "heading": "Individuelle kirkelige tjenester",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Enhver har rett til individuelle kirkelige tjenester på samisk i Den norske kirkes menigheter i språkutviklingskommuner og språkvitaliseringskommuner.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-11",
+      "provision_ref": "§ 3-7",
+      "heading": "Rett til utdanningspermisjon",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Ansatte i offentlige organer har rett til permisjon med lønn for å skaffe seg kunnskap i samisk dersom organet har behov for slik kompetanse. Retten kan gjøres betinget av at den ansatte forplikter seg til å arbeide for organet en viss tid etter utdanningen.",
+      "xml_path": "article#kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-12",
+      "provision_ref": "§ 3-8",
+      "heading": "Rett til opplæring i samisk",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Enhver har rett til opplæring i samisk. Kongen kan gi nærmere regler om gjennomføringen av denne bestemmelsen.\nFor opplæring i og på samisk gjelder reglene i og i medhold av lov om grunnskoleopplæringa og den vidaregåande opplæringa (opplæringslova).",
+      "xml_path": "article#kapittel-3-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-13",
+      "provision_ref": "§ 3-9",
+      "heading": "Samisk i kommuneadministrasjonen og folkevalgte organer",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "I språkutviklingskommuner skal samisk være likestilt med norsk internt i den kommunale administrasjonen og i kommunestyret. Kommunestyret kan selv bestemme at samisk skal være likestilt med norsk i andre folkevalgte organer, med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.\nI øvrige kommuner kan kommunestyret selv bestemme at samisk skal være likestilt med norsk i hele eller deler av den interne kommunale administrasjonen, og i folkevalgte organer med unntak av direkte valgte kommunedelsutvalg og interkommunale folkevalgte organer.",
+      "xml_path": "article#kapittel-3-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-14",
+      "provision_ref": "§ 3-10",
+      "heading": "Samisk språk- og kulturtilbud",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Språkstimuleringskommuner skal sørge for et samisk språk- og kulturtilbud til barn, unge og eldre.",
+      "xml_path": "article#kapittel-3-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-15",
+      "provision_ref": "§ 3-11",
+      "heading": "Klage",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Dersom et offentlig organ ikke følger bestemmelsene i dette kapitlet, kan den som saken direkte gjelder, klage til det organet som er nærmest overordnet det organet klagen angår. Statsforvalteren er klageinstans når klagen angår kommunale eller fylkeskommunale organ.\nOgså landsomfattende samiske organisasjoner og landsomfattende offentlige organer med oppgaver av særlig betydning for hele eller deler av den samiske befolkningen, har klagerett i slike saker. Det samme gjelder i saker hvor ingen enkeltperson er særskilt berørt.",
+      "xml_path": "article#kapittel-3-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-16",
+      "provision_ref": "§ 3-12",
+      "heading": "Organisering av samisk språkarbeid",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Sametinget skal arbeide for vern og videre utvikling av samiske språk i Norge.\nSametinget tildeler midler til kommuner og fylkeskommuner for gjennomføringen av reglene i kapittelet her.",
+      "xml_path": "article#kapittel-3-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-17",
+      "provision_ref": "§ 3-13",
+      "heading": "Kommunal og fylkeskommunal planlegging",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Fylkeskommuner og kommuner i forvaltningsområdet for samiske språk skal drøfte utfordringer for samisk språk i regional planstrategi og kommunens planstrategi, jf. plan- og bygningsloven §§ 7-1 og 10-1. Overordnede mål for å styrke samisk språk skal fastsettes i regional plan etter plan- og bygningsloven § 8-1. Kommunen skal fastsette sine mål for å styrke samisk språk som en tematisk kommunedelplan eller i kommuneplanens samfunnsdel, jf. plan- og bygningsloven § 11-1 tredje ledd og § 11-2.",
+      "xml_path": "article#kapittel-3-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-18",
+      "provision_ref": "§ 3-14",
+      "heading": "Rekruttering av ansatte med samiskspråklig kompetanse",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Kommuner, fylkeskommuner og statlige offentlige organer som har behov for ansatte med samisk språkkunnskap for å kunne utføre sine oppgaver, kan etterspørre samisk språkkunnskap som en ønsket eller nødvendig kvalifikasjon når det lyses ut stillinger.",
+      "xml_path": "article#kapittel-3-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-19",
+      "provision_ref": "§ 3-15",
+      "heading": "Forskriftshjemler",
+      "path": [
+        "Kapittel 3. Samiske språk"
+      ],
+      "text": "Kongen gir forskrift om hvilke kommuner og fylkeskommuner som skal inngå i forvaltningsområdet for samiske språk, og hvilke kommuner som skal regnes som språkutviklingskommuner, språkvitaliseringskommuner og språkstimuleringskommuner.\nKongen kan gi forskrift om at bestemmelsene i dette kapittelet også skal gjelde helt eller delvis for andre statlige offentlige organer, fylkeskommunale enheter eller for privat rettssubjekt når det treffer enkeltvedtak eller utferdiger forskrift på vegne av stat, fylkeskommune eller kommune.",
+      "xml_path": "article#kapittel-3-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Saker som er gjenstand for konsultasjoner",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Bestemmelsene i kapitlet her gjelder for lovgivning, forskrifter og andre beslutninger eller tiltak som vil kunne påvirke samiske interesser direkte. Bestemmelsene gjelder ikke for saker om statsbudsjettet.\nBestemmelsene i kapitlet her gjelder ikke for saker av generell karakter som må antas å ville påvirke hele samfunnet på samme måte.\nI saker som er knyttet til naturgrunnlaget for samisk kultur, gjelder bestemmelsene i kapitlet her for tiltak og beslutninger som planlegges iverksatt i tradisjonelle samiske områder, eller som kan få virkning på samisk materiell kulturutøvelse i tradisjonelle samiske områder.\nBestemmelsene i kapitlet her gjelder ikke for Sametinget i saker hvor Sametinget har innsigelsesadgang etter plan- og bygningsloven § 5-4.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Rett til å bli konsultert",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "I saker nevnt i § 4-1, har Sametinget og andre representanter for berørte samiske interesser rett til å bli konsultert.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Plikt til å konsultere",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Plikten til å konsultere etter bestemmelsene i kapitlet her gjelder forregjeringen, departementer, direktorater og andre underliggende virksomheter,statsforetak og private rettssubjekter når de utøver myndighet på vegne av staten.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Konsultasjonsplikt for fylkeskommuner og kommuner",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Fylkeskommuner og kommuner har plikt til å konsultere representanter for berørte samiske interesser i saker om lokale forskrifter og andre beslutninger eller tiltak som vil kunne påvirke samiske interesser direkte.\nBestemmelsene i kapitlet her gjelder for øvrig så langt de passer.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Varsling om saker som kan bli gjenstand for konsultasjoner",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Den som har konsultasjonsplikt, skal varsle Sametinget og andre med konsultasjonsrett om saker som kan bli gjenstand for konsultasjoner, jf. § 4-1. Er varsling ikke gitt, kan Sametinget på eget initiativ anmode om konsultasjoner i slike saker.\nSametinget og andre med konsultasjonsrett skal innen rimelig tid svare på om de ønsker konsultasjoner i den aktuelle saken. Sametinget kan også gi sin vurdering av om andre enn Sametinget bør konsulteres i saken.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Innholdet i og formålet med konsultasjonene",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Konsultasjonene skal gjennomføres i god tro og med formål om å oppnå enighet. Det organet som har konsultasjonsplikt, skal gi full informasjon om relevante forhold på alle stadier i behandlingen av saken.\nKonsultasjonene skal begynne så tidlig at partene har reell mulighet til å oppnå enighet om beslutningen.\nKonsultasjonene skal ikke avsluttes så lenge partene antar at det er mulig å oppnå enighet om saken.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Protokoll",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Det skal føres protokoll fra konsultasjonene. I protokollen skal det redegjøres for hva saken gjelder, partenes vurderinger og standpunkter og konklusjonene i saken. Det skal tydelig framgå om det er oppnådd enighet.\nDen samiske partens vurderinger i saken skal følge saken fram til endelig beslutning.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-8",
+      "heading": "Forskrifter",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Kongen kan gi forskrift med nærmere bestemmelser om hvem som har rett og plikt til konsultasjoner, og om gjennomføringen av konsultasjoner for organer og rettssubjekter som nevnt i § 4-3.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-9",
+      "heading": "Virkning av brudd på konsultasjonsregler",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Brudd på reglene om konsultasjoner i kapitlet her kan gi grunnlag for ugyldighet i samsvar med alminnelige forvaltningsrettslige prinsipper.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 4-10",
+      "heading": "Forholdet til forvaltningsloven og annen lovgivning",
+      "path": [
+        "Kapittel 4 Konsultasjoner"
+      ],
+      "text": "Reglene om konsultasjoner i loven her gjelder ved siden av saksbehandlingsreglene i forvaltningsloven og regler om samiske interesser i andre lover, med de unntakene som følger av § 4-1 fjerde ledd.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Overgangsregler.",
+      "path": [
+        "Kapittel 5. Overgangsregler og ikrafttredelse."
+      ],
+      "text": "Sametinget er en videreføring av Norsk sameråd. Sametinget trer inn i alle funksjoner, rettigheter og plikter til Norsk sameråd.\nKongen gir regler om sammenkalling av og arbeidsordningen i Sametinget. Disse regler gjelder inntil Sametinget fastsetter forretningsorden i medhold av § 2-14.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Ikrafttredelse.",
+      "path": [
+        "Kapittel 5. Overgangsregler og ikrafttredelse."
+      ],
+      "text": "Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    }
+  ]
+}

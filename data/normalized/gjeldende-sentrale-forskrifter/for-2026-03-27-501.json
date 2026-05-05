@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2026-03-27-501",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler til lov 22. juni 2018 nr. 77 om endringer i lov 9. mars 1973 nr. 14 om vern mot tobakksskader",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2026-03-30",
+  "lovdata_refid": "forskrift/2026-03-27-501",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-27-501",
+  "raw_xml_sha256": "3a47fb6a74564944a6a215dd040535f6f7bbb65a00021a2f120f30286ac6b559",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Sigaretter og rulletobakk",
+      "path": [],
+      "text": "Loven §§ 16d til 16h får anvendelse fra 11. juli 2027 for sigaretter og rulletobakk. Sigaretter og rulletobakk som er produsert eller innført til Norge før denne datoen, kan likevel selges til forbruker frem til 11. juli 2028.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Andre tobakksvarer enn sigaretter og rulletobakk",
+      "path": [],
+      "text": "Loven §§ 16d til 16h får anvendelse fra 11. mars 2031 for andre tobakksvarer enn sigaretter og rulletobakk. Andre tobakksvarer enn sigaretter og rulletobakk som er produsert eller innført til Norge før denne datoen, kan likevel selges til forbruker frem til 11. mars 2033.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 30. mars 2026.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

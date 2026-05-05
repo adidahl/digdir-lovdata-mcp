@@ -1,0 +1,64 @@
+{
+  "id": "FOR-2001-07-13-833",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om ferskvannskreps.",
+  "short_title": "Forskrift om ferskvannskreps",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2001-08-01",
+  "lovdata_refid": "forskrift/2001-07-13-833",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-07-13-833",
+  "raw_xml_sha256": "07c57759c78ab74eafaca582b47bc99706c69c4f5fc3c244a70847dec4fa7a1c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Fredningstid",
+      "path": [],
+      "text": "Fra og med 15. september til og med 6. august kl. 18.00 er det forbudt å fange eller avlive ferskvannskreps og å bruke, sette ut eller la bli stående redskap som er innrettet til slik fangst.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Minstemål",
+      "path": [],
+      "text": "Ferskvannskreps som er kortere enn 9,5 cm fra pannehornets spiss til enden av halen, må ikke oppbevares, gis bort, selges, kjøpes, mottas eller avlives, men skal settes ut igjen i vannet straks den er tatt opp.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Fylkesmannen kan etter søknad gi dispensasjon fra denne forskriften til fangst av kreps til vitenskapelig formål.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Spesielle reguleringer",
+      "path": [],
+      "text": "Fylkesmannen kan innføre maskeviddebegrensninger, endringer i minstemål og innskrenke fisketiden i lokaliteter hvor dette er nødvendig for å ivareta bestandene av ferskvannskreps.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av forskriften er straffbart, jf. lov om laksefisk og innlandsfisk § 49.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. august 2001.\nSamtidig oppheves forskrift av 22. juli 1981 nr. 8788 om fredning og fangst av ferskvannskreps.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "LOV-1993-06-11-73",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om prisregulering ved import av fisk og fiskevarer m.v.",
+  "short_title": "Lov om prisregulering ved fiskeimport m.v.",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Fiskeri- og fangstrett og havbruk > Fiskeri Næringsrett > Inn- og utførsel",
+  "date_in_force": "1993-06-11",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/1993-06-11-73",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1993-06-11-73",
+  "raw_xml_sha256": "8f17b9840f8a704db78231be2b706e264fda2fe714cc6c0b0ebd252220b0b4ab",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I."
+      ],
+      "text": "Lovens formål er å motvirke markedsforstyrrelser på grunn av tilbud av fisk og fiskevarer fra utlandet til unormalt lave priser.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I."
+      ],
+      "text": "Tilbys fisk og fiskevarer fra utlandet til priser som ligger lavere enn minstepriser som er bestemt for tilsvarende varer ved innenlands omsetning på første hånd og det innføres betydelige mengder av denne varen, kan departementet ved forskrift fastsette minsteimportpris for vedkommende vare.\nMinsteimportprisen skal normalt tilsvare den minstepris som er bestemt for tilsvarende vare i medhold av lov av 14. desember 1951 nr. 31 om omsetning av råfisk.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I."
+      ],
+      "text": "Det er forbudt å innføre fisk og fiskevarer i strid med bestemmelser som er fastsatt i medhold av denne lov.\nDepartementet kan fastsette nærmere forskrifter til gjennomføring av og kontroll med denne lov og bestemmelser fastsatt i medhold av loven.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [
+        "I."
+      ],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne lov, straffes med bøter. På samme måte straffes forsøk.\n– – –",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    }
+  ]
+}

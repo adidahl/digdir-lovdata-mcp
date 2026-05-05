@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2021-03-15-856",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om trekningskretser for meddommere ved Haugaland og Sunnhordland tingrett",
+  "short_title": "Forskrift om trekningskretser for meddommere ved Haugaland og Sunnhordland tingrett",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2021-04-26",
+  "lovdata_refid": "forskrift/2021-03-15-856",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-03-15-856",
+  "raw_xml_sha256": "76723a0181c93420d71b174633f985044101835aadd7f3ccecc84b8a59371dfb",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Haugaland og Sunnhordland tingrett deles i to trekningskretser for meddommere. Kommunene som hører til tingretten fordeles slik mellom kretsene:",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften gjelder fra 26. april 2021.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

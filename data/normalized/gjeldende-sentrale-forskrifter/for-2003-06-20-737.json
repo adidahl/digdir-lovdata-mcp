@@ -1,0 +1,58 @@
+{
+  "id": "FOR-2003-06-20-737",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om nedsenking av garnredskap",
+  "short_title": "Forskrift om nedsenking av garnredskap",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2004-01-01",
+  "last_change_in_force": "2021-11-01",
+  "last_changed_by": "forskrift/2021-10-08-2958 fra 2021-11-01",
+  "lovdata_refid": "forskrift/2003-06-20-737",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-06-20-737",
+  "raw_xml_sha256": "30a81fb326648a5e6ffe90d57e0bfb610ec0bfd74dbddefa9154141fb23710c0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Påbud om nedsenking av garnredskap",
+      "path": [],
+      "text": "Garn med maskevidde større enn 32 millimeter som brukes til fangst av saltvannsfisk, skal i perioden fra og med 1. mars til og med 30. september senkes slik at hele fangstdelen står minst 3 meter under havoverflaten til enhver tid.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Utvidelse av nedsenkingspåbudet",
+      "path": [],
+      "text": "Statsforvalteren kan for hele fylket eller for avgrensede områder bestemme at nedsenkingspåbudet skal gjelde for garn uansett maskevidde.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak ved yrkesfiske",
+      "path": [],
+      "text": "Påbudet om nedsenking gjelder ikke for redskap som under utøving av yrkesfiske er satt ut for å fange annet enn laksefisk av fiskere som er oppført i fiskermanntallet, fra fartøy som er registrert i merkeregistret for norske fartøyer, jf. lov av 26. mars 1999 nr. 15 om retten til å delta i fiske og fangst (deltakerloven).",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i eller i medhold av denne forskrift er straffbart, jf. lov av 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. § 49.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2004. Fra samme tidspunkt oppheves forskrift av 28. april 1989 nr. 289 om nedsenking av garnredskap som er bestemt for fiske etter annen fisk enn anadrome laksefisk.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

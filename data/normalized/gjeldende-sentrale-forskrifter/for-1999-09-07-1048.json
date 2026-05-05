@@ -1,0 +1,30 @@
+{
+  "id": "FOR-1999-09-07-1048",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsbestemmelser for gjennomføring av lov av 18. februar 1999 nr. 7 om endringer i lov av 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner.",
+  "short_title": "Forskr. om overg.bestemm., militærnektersaker",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2000-01-01",
+  "lovdata_refid": "forskrift/1999-09-07-1048",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-09-07-1048",
+  "raw_xml_sha256": "a738078b34233958b4be1339e56b669d479b6a829774885d4b8dc9f4e6160136",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Søknader om fritaking for militærtjeneste av overbevisningsgrunner som framkommer før lovens ikrafttredelsesdato 1. januar 2000, behandles etter de regler som gjaldt før ovennevnte endringslov.\nSøknader som framkommer 1. januar 2000 eller senere behandles etter lov av 19. mars 1965 nr. 3 om fritaking for militærtjeneste av overbevisningsgrunner, slik den lyder etter endringslov av 18. februar 1999 nr. 7.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "En søknad anses framkommet når den er registrert innkommet hos vedtaksorganet eller forberedende myndighet.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

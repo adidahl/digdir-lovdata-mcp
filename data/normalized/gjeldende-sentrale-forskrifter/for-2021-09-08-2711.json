@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2021-09-08-2711",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av kommisjonsbeslutning (EU) 2018/1614 av 25. oktober 2018 om spesifikasjoner for kjøretøyregistrene angitt i artikkel 47 i direktiv (EU) 2016/797 og om endring og oppheving av kommisjonsbeslutning 2007/756/EF",
+  "short_title": "Forskrift om gjennomføring av kommisjonsbeslutning (EU) 2018/1614",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-01",
+  "last_change_in_force": "2022-05-06",
+  "last_changed_by": "forskrift/2022-05-06-792",
+  "lovdata_refid": "forskrift/2021-09-08-2711",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-08-2711",
+  "raw_xml_sha256": "0e5bba4e7c0c09c566ab0acc912fb966b4e04c9ef7f7b84a1bc93225fa523b8e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 37da kommisjonsbeslutning (EU) 2018/1614 av 25. oktober 2018 om spesifikasjoner for kjøretøyregistrene angitt i artikkel 47 i direktiv (EU) 2016/797 og om endring og oppheving av kommisjonsbeslutning 2007/756 EF, gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar beslutning (EU) 2018/1614 av 25. oktober 2018 inn i EØS-avtalen trer i kraft.1",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

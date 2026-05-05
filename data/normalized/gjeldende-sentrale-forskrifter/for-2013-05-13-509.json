@@ -1,0 +1,82 @@
+{
+  "id": "FOR-2013-05-13-509",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fruktjuice og lignende produkter (juiceforskriften)",
+  "short_title": "Juiceforskriften",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2013-10-28",
+  "last_change_in_force": "2016-03-16",
+  "last_changed_by": "forskrift/2016-03-16-259",
+  "lovdata_refid": "forskrift/2013-05-13-509",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2013-05-13-509",
+  "raw_xml_sha256": "7203cbc364180f30ced29f53c427b1056131809280638406a09baedff20d4fb7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde mv.",
+      "path": [],
+      "text": "Denne forskriften gjelder for produktene som er definert i vedlegg I og som omsettes innen EØS i samsvar med bestemmelsene i forskrift 22. desember 2008 nr. 1620 om allmenne prinsipper og krav i næringsmiddelregelverket (matlovsforskriften), jf. forordning (EF) nr. 178/2002.\nMed mindre noe annet fremgår av denne forskriften, er produktene som er definert i vedlegg I omfattet av det øvrige EØS-baserte regelverket som gjelder for næringsmidler.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav til behandlinger, stoffer og råvarer",
+      "path": [],
+      "text": "Til fremstilling av produktene som er definert i vedlegg I del I, kan det bare brukes behandlinger og stoffer som er listet opp i vedlegg I, del II, og råvarer som oppfyller vilkårene i vedlegg II. Dessuten må fruktnektar oppfylle vilkårene i vedlegg III.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til merking",
+      "path": [],
+      "text": "Forskrift 21. desember 1993 nr. 1385 om merking mv av næringsmidler (merkeforskriften) gjelder for produktene som er definert i vedlegg I på følgende betingelser:Varebetegnelsene i vedlegg I kan bare brukes på produktene som er definert der og skal ved omsetning brukes som varebetegnelse på produktene.Dersom et produkt er fremstilt av ett enkelt fruktslag, skal navnet på frukten angis i varebetegnelsen i stedet for ordet «frukt».Dersom et produkt er fremstilt av to eller flere fruktslag, skal varebetegnelsen bestå av en opplisting av de fruktslagene som er brukt i synkende størrelsesorden, beregnet etter mengden av fruktjuice eller fruktpuré, jf. ingredienslisten. Dette gjelder likevel ikke når det er brukt sitronjuice og eller limejuice i samsvar med de vilkårene som fremgår av vedlegg I, del II, punkt 2. Dersom et produkt er fremstilt av tre eller flere fruktslag, kan opplistingen av fruktslagene som er brukt erstattes med opplysningen «flere frukter» eller en tilsvarende opplysning eller med opplysning om antallet fruktslag som er brukt.Ved tilsetning av de strengt nødvendige ingrediensene for å tilbakeføre produktene som er definert i vedlegg I, del I til opprinnelig tilstand, kreves det ikke at disse ingrediensene angis i ingredienslisten. Tilsetning av ekstra fruktkjøtt eller celler til fruktjuice, jf. vedlegg II, skal angis i merkingen.For blandinger av fruktjuice og fruktjuice fremstilt fra konsentrat og for fruktnektar som helt eller delvis er fremstilt fra ett eller flere konsentrerte produkter, skal merkingen inneholde angivelsen «fra konsentrat» eller «delvis fra konsentrat». Denne opplysningen skal stå i umiddelbar nærhet til varebetegnelsen, være iøynefallende og skrives med klart synlige bokstaver.Fruktnektar skal merkes med minsteinnholdet av fruktjuice, fruktpuré eller en blanding av disse bestanddelene ved bruk av angivelsen: «fruktinnhold: minst ... %». Denne opplysningen skal gis i det samme synsfeltet som varebetegnelsen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til merking av konsentrert fruktjuice som ikke er bestemt til den endelige forbruker",
+      "path": [],
+      "text": "I merkingen av konsentrert fruktjuice som nevnt i vedlegg I, del I, punkt 2, som ikke er bestemt til den endelige forbruker, skal det opplyses om det er tilsatt sitronsaft, limesaft eller surhetsregulerende midler som er tillatt etter forskrift 6. juni 2011 nr. 668 om tilsetningsstoffer til næringsmidler, jf. forordning (EF) nr. 1333/2008, og i så fall hvor mye. Opplysningen skal gis på ett av følgende steder:på emballasjen,på en etikett på emballasjen elleri et følgedokument.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særskilte tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse, overgangsbestemmelser og oppheving av andre forskrifter",
+      "path": [],
+      "text": "Forskriften trer i kraft straks, men skal først gjelde fra 28. oktober 2013.\nFrem til 28. oktober 2016 kan produktene som er angitt i vedlegg I del I punktene 1–4 og som er produsert og merket i samsvar med denne forskriften, merkes med opplysningen «fra 28. oktober 2015 inneholder ingen fruktjuicer tilsatt sukker». Opplysningen skal i så fall gis i det samme synsfeltet i merkingen som varebetegnelsen.\nForskrift 2. september 2003 nr. 1116 om fruktjuice og lignende produkter oppheves 28. oktober 2013.\nProdukter som er satt i omsetning eller merket i samsvar med bestemmelsene i forskrift 2. september 2003 nr. 1116 om fruktjuice og lignende produkter før 28. oktober 2013, kan omsettes frem til 28. april 2015.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "FOR-2005-12-16-1555",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om familiebarnehager",
+  "short_title": "Forskrift om familiebarnehager",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2006-01-01",
+  "last_change_in_force": "2021-06-01",
+  "last_changed_by": "forskrift/2021-05-18-1550 fra 2021-06-01",
+  "lovdata_refid": "forskrift/2005-12-16-1555",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-12-16-1555",
+  "raw_xml_sha256": "7130f7f9e6a1ead395df6a94a0d83fe8a0c2af509d38b405e842433a3a2d18e7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forskriftens formål og virkeområde",
+      "path": [],
+      "text": "Forskriftens formål er å gi særskilte regler for godkjenning av familiebarnehager og for norm for pedagogisk bemanning i familiebarnehagene. En familiebarnehage er en barnehageform der barna får et tilbud i private hjem. Assistentene i familiebarnehagen skal motta veiledning av en barnehagelærer. Ut over de særskilte regler som gis i denne forskriften, gjelder de bestemmelser som er fastsatt i eller med hjemmel i barnehageloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Godkjenning av organiseringen",
+      "path": [],
+      "text": "Kommunen skal foreta en kontroll av at familiebarnehagen tilfredsstiller krav i eller i medhold av barnehageloven og godkjenne den sammenslutning/ordningen som samlet sett utgjør familiebarnehagen.\nFamiliebarnehagen skal som hovedregel være et fellesskap mellom minst to hjem, eller mellom minst ett hjem og en vanlig barnehage. I særlige tilfeller kan kommunen godkjenne enkeltstående hjem som én familiebarnehage.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Godkjenning av hjemmene",
+      "path": [],
+      "text": "Virksomheten skal fortrinnsvis foregå i bebodde hjem. Ved godkjenning av det enkelte hjem og eventuelt baselokale skal det vurderes om hjemmet og lokalet egner seg for familiebarnehagedrift.\nKommunen kan i særlige tilfeller godkjenne ubebodde lokaler som ett hjem i en familiebarnehage. Ved slik godkjenning skal lokalenes hjemlige kvaliteter vektlegges.\nDet kan ikke gis godkjenning til doble grupper i ubebodde lokaler.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Antall barn",
+      "path": [],
+      "text": "Et hjem kan godkjennes for maksimalt fem barn over tre år som er til stede samtidig. Et hjem som er egnet for det kan godkjennes for dobbel gruppe med maksimalt ti barn over tre år som er til stede samtidig.\nEr flertallet av barna under tre år, må antallet reduseres.\nDet kan settes begrensning ved antall barn i et hjem på grunnlag av hjemmets egnethet.\nDet skal som hovedregel være minst to barn i et familiebarnehagehjem. Hjemmets egne barn under opplæringspliktig alder, som deltar i ordningen, teller med. I en familiebarnehagegruppe må minst halvparten av barna være andre enn hjemmets egne.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Pedagogisk veiledning",
+      "path": [],
+      "text": "I familiebarnehager skal det gis pedagogisk veiledning til assistenten i det enkelte hjem i barnehagens åpningstid. Den pedagogiske veiledningen skal gis av utdannet barnehagelærer. Likeverdig med barnehagelærerutdanning er annen treårig pedagogisk utdanning på høgskolenivå med videreutdanning i barnehagepedagogikk.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Bemanningsnorm",
+      "path": [],
+      "text": "I en familiebarnehage kan det være maksimalt 30 barn per barnehagelærer som gir pedagogisk veiledning.\nÉn assistent kan ha ansvaret for inntil fem barn der flertallet av barna er over tre år. Er flertallet under tre år, må antallet reduseres.\nBemanningen må være forsvarlig i forhold til barnas alder og forutsetninger.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6a",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Eier av familiebarnehage kan søke om midlertidig dispensasjon fra utdanningskravet etter reglene i forskrift om pedagogisk bemanning og dispensasjon i barnehager.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Klage",
+      "path": [],
+      "text": "Kommunens vedtak om godkjenning kan påklages til statsforvalteren.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2006. Fra samme tidspunkt oppheves forskrift 1. desember 1995 nr. 942 om familiebarnehager, fastsatt med hjemmel i lov 5. mai 1995 nr. 19 om barnehager (barnehageloven) § 14.",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

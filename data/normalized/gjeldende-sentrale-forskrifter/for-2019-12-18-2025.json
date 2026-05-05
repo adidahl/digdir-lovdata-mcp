@@ -1,0 +1,118 @@
+{
+  "id": "FOR-2019-12-18-2025",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om adgang til lån og innskudd i Norges Bank",
+  "short_title": "Forskrift om adgang til lån og innskudd i Norges Bank",
+  "department": "Finansdepartementet",
+  "date_in_force": "2020-01-01",
+  "last_change_in_force": "2021-02-04",
+  "last_changed_by": "forskrift/2021-02-04-493",
+  "lovdata_refid": "forskrift/2019-12-18-2025",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-12-18-2025",
+  "raw_xml_sha256": "cc47f4246ad47313cd26bf962d5da735d6fa922de33a3c061f0585394b79ddd8",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "I. Virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gjelder adgangen til konto og til lån og innskudd i Norges Bank.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "I. Virkeområde og definisjoner"
+      ],
+      "text": "I forskriften her betyr",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Adgang til Norges Banks fasiliteter",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "(1) For å få adgang til Norges Banks fasiliteter må motparten ha konto i Norges Bank i henhold til de til enhver tid gjeldende vilkår for kontohold i Norges Bank.(2) Pengepolitiske motparter har adgang til konto i Norges Bank og til samtlige av Norges Banks fasiliteter.(3) Andre motparter enn pengepolitiske motparter kan få adgang til konto i Norges Bank og til Norges Banks stående fasiliteter, eller deler av disse, på de vilkår Norges Bank bestemmer. I vurderingen legges det særlig vekt på i hvilken grad motparten deltar aktivt i betalingsformidlingen eller om motpartens kontohold vil bidra til finansiell stabilitet eller på annen måte fremme sentralbankvirksomhetens formål.(4) Ved søknad om status som pengepolitisk motpart eller om adgang til Norges Banks fasiliteter benyttes søknadsskjema fastsatt av Norges Bank.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 4",
+      "heading": "Norges Banks stående fasiliteter",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "(1) Intradaginnskudd og intradaglån er ikke rentebærende.(2) Norges Bank fastsetter rentesatsen for døgninnskudd og døgnlån. Renten på døgninnskudd kan fastsettes med ulike satser på de vilkår og etter de prosedyrer som Norges Bank fastsetter.(3) Renten på døgninnskudd og døgnlån beregnes daglig etterskuddsvis, på grunnlag av kalenderdager med 365 rentedager per år.(4) Renten for døgnlån belastes første oppgjørsdag etter at lånet er tatt opp. Dersom den første dagen og eventuelt påfølgende dager i en måned ikke er oppgjørsdag(er), vil renten for denne/disse dagen(e) belastes den andre oppgjørsdagen i den nye måneden.(5) Renten for døgninnskudd godskrives første oppgjørsdag etter innskuddet. Dersom den første dagen og eventuelt påfølgende dager i en måned ikke er oppgjørsdag(er), vil renten for denne/disse dagen(e) utbetales den andre oppgjørsdagen i den nye måneden.(6) Intradaglån og døgnlån gis mot sikkerheter etter reglene i § 6. Lånerammen tilsvarer verdien av pantsatte aktiva fratrukket den avkortning som Norges Bank fastsetter.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 5",
+      "heading": "F-lån og F-innskudd",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "(1) Norges Bank fastsetter de nærmere vilkårene for F-lån og F-innskudd. Innfrielse av F-lån og F-innskudd kan ikke skje før forfallsdag.(2) F-lån ytes mot sikkerhet etter reglene i § 6. Sikkerhetene skal foreligge ved oppgjør.(3) Renten på F-lån betales samme oppgjørsdag som F-lånet forfaller for tilbakebetaling.(4) Renten på F-innskudd godskrives samme oppgjørsdag som F-innskuddet forfaller for utbetaling.(5) Norges Bank bestemmer for hver utleggelse om et F-lån eller F-innskudd skal legges ut til en rente som er fastsatt på forhånd, eller ved ordinær eller hollandsk auksjon.(6) Avgitte bud er bindende. Norges Bank kan avvise ethvert bud.(7) Ved auksjon skjer tildeling av F-lån eller F-innskudd etter det eller de budene som sammen med alle bedre bud utgjør det beløp som ønskes tildelt eller inndratt.(8) Ved ordinær auksjon betales eller mottas den rente hver enkelt budgiver har budt.(9) Ved hollandsk auksjon skal alle budgivere betale eller motta samme rente. Ved F-lån er dette den laveste aksepterte rente. Ved F-innskudd er dette den høyeste aksepterte rente.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 6",
+      "heading": "Sikkerhet for lån",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "(1) Det skal stilles betryggende sikkerhet for lån gitt av Norges Bank.(2) Norges Bank kan godkjenne følgende aktiva som sikkerhet for lån:obligasjoner og sertifikater,eierandeler i verdipapirfond registrert i norsk verdipapirregister,F-innskudd i Norges Bank,innskudd i annen sentralbank.(3) Norges Bank kan i særlige tilfeller godta andre aktiva som sikkerhet.(4) Norges Bank fastsetter nærmere regler om aktiva som skal godkjennes som sikkerhet for lån, blant annet krav til:pålydende valuta,minimum utestående volum,kredittvurdering,børsnotering eller notering på annen godkjent markedsplass,registrering i godkjent verdipapirregister, ogtid til forfall eller uttrekk.(5) Norges Bank kan stille krav om at en motpart øker sin sikkerhetsstillelse dersom størrelsen på motpartens lån og påløpte renter overstiger låneverdien av pantet. Norges Bank kan også benytte motpartens innskudd i Norges Bank som sikkerhet. Innskudd som benyttes som sikkerhet godskrives rente etter § 4. Dersom låneverdien av sikkerhetsstillelsen er lavere enn låneopptaket ved slutten av oppgjørsdagen, belastes motparten et gebyr, jf. § 8.(6) Norges Bank kan fastsette nærmere regler for verdifastsettelse og avkortning av pantsatte aktiva.(7) Norges Bank kan endre kravene til godkjente aktiva som sikkerhet for lån. Dette gjelder også for sikkerhet for lån som løper.(8) Oversikt over aktiva som Norges Bank har godkjent som sikkerhet, og reglene for verdifastsettelse og avkortning, skal gjøres tilgjengelige på Norges Banks internettsider. Det samme gjelder krav som Norges Bank har fastsatt i medhold av fjerde ledd i denne bestemmelsen.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 7",
+      "heading": "Oppsigelse, begrensning, endring eller suspensjon av adgangen til Norges Banks fasiliteter",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "Norges Bank kan si opp, begrense, endre eller suspendere adgangen til Norges Banks fasiliteter hvis:denne forskrift eller andre vilkår for Norges Banks fasiliteter er overtrådt;motpartens økonomiske situasjon tilsier det;en pengepolitisk motpart ikke lenger tilfredsstiller kravene til å være pengepolitisk motpart; ellervilkårene for tillatelsen ikke lenger er oppfylt eller motpartens virksomhet ikke lenger i samme grad fremmer sentralbankvirksomhetens formål.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 8",
+      "heading": "Priser og gebyrer",
+      "path": [
+        "II. Norges Banks fasiliteter"
+      ],
+      "text": "(1) Norges Bank fastsetter årlig priser for kontohold i Norges Bank.(2) Norges Bank kan ilegge gebyrer for overtredelser av bestemmelser i denne forskriften og Norges Banks vilkår for kontohold.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Overgangsregler",
+      "path": [
+        "III. Andre bestemmelser"
+      ],
+      "text": "(1) Foretak som ved ikrafttredelse av denne forskriften har adgang til Norges Banks fasiliteter behøver ikke på nytt søke Norges Bank om adgang til tilsvarende fasiliteter etter § 3 fjerde ledd, og regnes som motparter etter forskriften.(2) Norges Bank kan etter ikrafttredelse av denne forskrift beslutte endringer i eksisterende motparters tilgang til fasiliteter etter de krav som følger av § 3.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "III. Andre bestemmelser"
+      ],
+      "text": "(1) Denne forskriften trer i kraft 1. januar 2020.(2) Forskrift 25. februar 2009 nr. 240 om bankers adgang til lån og innskudd i Norges Bank mv. oppheves fra samme tidspunkt.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

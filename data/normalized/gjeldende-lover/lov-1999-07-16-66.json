@@ -1,0 +1,259 @@
+{
+  "id": "LOV-1999-07-16-66",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Schengen informasjonssystem (SIS) [SIS-loven]",
+  "short_title": "SIS-loven – SISl",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "EU/EØS-rett > Schengen Forvaltnings- og kommunalrett > Politi Stats-, statsforfatnings- og statsborgerrett > Fremmedrett",
+  "date_in_force": "2001-01-01",
+  "last_change_in_force": "2025-10-12",
+  "last_changed_by": "lov/2024-06-21-47 fra 2025-10-12",
+  "lovdata_refid": "lov/1999-07-16-66",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1999-07-16-66",
+  "raw_xml_sha256": "772c7e845c64320ecc11c81364bb27f0fccb5bd6e390e5546d4ee99c5bf3c7b6",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gjennomføring av forordninger om Schengen informasjonssystem (SIS)",
+      "path": [
+        "Kapittel 1 Generelle bestemmelser"
+      ],
+      "text": "Følgende forordninger gjelder som lov:Forordning (EU) 2018/1862 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) innenfor politisamarbeid og strafferettslig samarbeid (politisamarbeidsforordningen), som endret ved forordning (EU) 2019/818, forordning (EU) 2021/1133 og forordning (EU) 2021/1150Forordning (EU) 2018/1861 om opprettelse, drift og bruk av Schengen-informasjonssystem (SIS) på området inn- og utreisekontroll (grensekontrollforordningen), som endret ved forordning (EU) 2019/817, forordning (EU) 2021/1134 og forordning (EU) 2021/1152Forordning (EU) 2018/1860 om bruk av Schengen-informasjonssystem i forbindelse med retur av tredjestatsborgere med ulovlig opphold (returforordningen), som endret ved forordning (EU) 2021/1134 og forordning (EU) 2021/1152.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "SIS og SIRENE",
+      "path": [
+        "Kapittel 1 Generelle bestemmelser"
+      ],
+      "text": "SIS er et informasjonssystem knyttet til Schengen-samarbeidet.\nSIRENE-kontoret er det nasjonale kontaktpunktet for utveksling av supplerende opplysninger, som Kripos har ansvaret for.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Geografisk virkeområde",
+      "path": [
+        "Kapittel 1 Generelle bestemmelser"
+      ],
+      "text": "Loven gjelder ikke for Svalbard.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Behandlingsansvar",
+      "path": [
+        "Kapittel 2 Behandlingsansvar, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Kripos er behandlingsansvarlig for behandling av opplysninger etter politisamarbeidsforordningen og grensekontrollforordningen.\nUtlendingsdirektoratet er behandlingsansvarlig for behandling av opplysninger etter returforordningen.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 2 Behandlingsansvar, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Reglene om informasjonssikkerhet i politiregisterloven § 15 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om informasjonssikkerhet i personvernforordningen kapittel IV.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Internkontroll",
+      "path": [
+        "Kapittel 2 Behandlingsansvar, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Reglene om internkontroll i politiregisterloven § 16 gjelder for behandling av opplysninger etter politisamarbeidsforordningen.\nFor behandling av opplysninger etter grensekontrollforordningen og returforordningen gjelder reglene om internkontroll i personvernforordningen kapittel IV.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Opplysninger som kan behandles",
+      "path": [
+        "Kapittel 3 Behandling av opplysninger"
+      ],
+      "text": "Det kan behandles opplysninger om personer som nevnt i:politisamarbeidsforordningen artikkel 20grensekontrollforordningen artikkel 20returforordningen artikkel 4.\nOm gjenstander kan det behandles opplysninger som nevnt i politisamarbeidsforordningen artikkel 38 eller annet betalingsmiddel som nevnt i artikkel 36 nr. 1.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Vilkår for å behandle opplysninger om personer og gjenstander",
+      "path": [
+        "Kapittel 3 Behandling av opplysninger"
+      ],
+      "text": "Behandling av opplysninger om personer skal skje på de vilkår som fremgår av:politisamarbeidsforordningen artikkel 26, 32, 34, 36 og 40grensekontrollforordningen artikkel 24, 25 og 26returforordningen artikkel 3.\nDet kan behandles opplysninger om gjenstander som ettersøkes for beslag eller som bevis i en straffesak, jf. politisamarbeidsforordningen artikkel 38, eller på vilkår som nevnt i artikkel 26 nr. 5, artikkel 32 nr. 8, artikkel 34 nr. 2 eller artikkel 36.\nRegistreringen av opplysninger i SIS må være besluttet av kompetent myndighet.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 9",
+      "heading": "Kobling mellom meldinger",
+      "path": [
+        "Kapittel 3 Behandling av opplysninger"
+      ],
+      "text": "Det kan opprettes koblinger mellom meldinger på vilkår som nevnt i:politisamarbeidsforordningen artikkel 63grensekontrollforordningen artikkel 48returforordningen artikkel 19.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 10",
+      "heading": "Behandling av opplysninger til andre formål",
+      "path": [
+        "Kapittel 3 Behandling av opplysninger"
+      ],
+      "text": "Opplysningene som behandles i SIS, kan ikke behandles for andre formål enn de som er fastsatt for den enkelte behandling, med mindre det er adgang til dette i samsvar med:politisamarbeidsforordningen artikkel 56 nr. 5grensekontrollforordningen artikkel 41 nr. 5returforordningen artikkel 19.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 11",
+      "heading": "Utveksling av opplysninger som ikke formidles via SIS (supplerende opplysninger)",
+      "path": [
+        "Kapittel 3 Behandling av opplysninger"
+      ],
+      "text": "Opplysninger som ikke formidles via SIS (supplerende opplysninger), skal utveksles via SIRENE-kontoret. Supplerende opplysninger skal bare brukes for det formålet opplysningene er gitt for, med mindre det er innhentet forutgående samtykke fra den innmeldende staten som nevnt i:politisamarbeidsforordningen artikkel 8 nr. 2grensekontrollforordningen artikkel 8 nr. 2returforordningen artikkel 19.\nFor behandlingen av supplerende opplysninger etter politisamarbeidsforordningen gjelder politiregisterloven. For behandlingen av supplerende opplysninger etter grensekontrollforordningen og returforordningen gjelder personopplysningsloven, med mindre det er fastsatt i eller i medhold av politiregisterloven at opplysningene som skal utveksles, reguleres av politiregisterloven.\nSupplerende opplysninger skal slettes i samsvar med:politisamarbeidsforordningen artikkel 64grensekontrollforordningen artikkel 49returforordningen artikkel 19.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Tilgang til SIS",
+      "path": [
+        "Kapittel 4 Tilgang, utlevering og taushetsplikt"
+      ],
+      "text": "Følgende myndigheter skal ha tilgang (adgang til direkte søk) til SIS:politi- og tollmyndighet samt Kystvakten når de utøver grensekontroll og annen kontrollpåtale- og politimyndighetutlendingsmyndighet, for formål som nevnt i politisamarbeidsforordningen artikkel 44 nr. 1 bokstav d og nr. 2, grensekontrollforordningen artikkel 34 nr. 1 bokstav d og f og nr. 2 og returforordningen artikkel 19myndighet med ansvar for registrering av kjøretøyer, til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 45myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv., til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 46myndighet med ansvar for å utstede løyve for skytevåpen til formål og opplysninger som nevnt i politisamarbeidsforordningen artikkel 47.\nTilgang til registeret skal kun gis til personer som har fått særskilt bemyndigelse. Brukerne kan bare søke etter opplysninger som er nødvendige for å ivareta deres oppgaver.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Utlevering av opplysninger fra SIS",
+      "path": [
+        "Kapittel 4 Tilgang, utlevering og taushetsplikt"
+      ],
+      "text": "Opplysninger om personer og gjenstander kan etter begjæring utleveres fra registeret til:politi- og tollmyndighet samt Kystvakten når de utøver grensekontrollpoliti- og tollmyndighet når den foretar annen kontroll enn grensekontroll, samt Kystvakten når den utøver oppgaver som ellers er tillagt politi- og tollmyndighetpåtale- og politimyndighetutlendingsmyndighet i saker som nevnt i § 12 første ledd nr. 3veimyndighet i saker som nevnt i § 12 første ledd nr. 4myndighet med ansvar for å utstede registreringsbevis eller sikre trafikkstyring for båter og luftfartøyer mv. i saker som nevnt i § 12 første ledd nr. 5myndighet med ansvar for å utstede løyve for skytevåpen i saker som nevnt i § 12 første ledd nr. 6myndigheter som kan ha oppgaver i tilknytning til politisamarbeidsforordningen artikkel 32departementet og Politidirektoratet i forbindelse med utøvelse av overordnet myndighet.\nDet kan bare utleveres opplysninger som er nødvendige for å ivareta mottakerens oppgaver.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4 Tilgang, utlevering og taushetsplikt"
+      ],
+      "text": "Enhver som under utøvelse av tjeneste eller arbeid får adgang eller kjennskap til opplysninger fra SIS, plikter å hindre at uvedkommende får kjennskap til disse. Taushetsplikten gjelder også etter at vedkommende har avsluttet tjenesten eller arbeidet.\nForvaltningsloven §§ 13 til 13 d og 13 g gjelder ikke.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Innsyn",
+      "path": [
+        "Kapittel 5 Innsyn, retting og sletting"
+      ],
+      "text": "Rett til innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, reguleres av politiregisterloven § 49.\nRett til innsyn i opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, reguleres av grensekontrollforordningen artikkel 53.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Sletting av opplysninger om personer og gjenstander",
+      "path": [
+        "Kapittel 5 Innsyn, retting og sletting"
+      ],
+      "text": "Opplysninger som er registrert i medhold av politisamarbeidsforordningen, skal slettes etter fristene i forordningen artikkel 53, 54, og 55.\nOpplysninger som er registrert i medhold av grensekontrollforordningen, skal slettes etter fristene i forordningen artikkel 39 og 40.\nOpplysninger som er registrert i medhold av returforordningen, skal slettes etter fristene i forordningen artikkel 6, 8 til 12 og 14.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Retting og sletting av uriktige opplysninger mv.",
+      "path": [
+        "Kapittel 5 Innsyn, retting og sletting"
+      ],
+      "text": "For retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av politisamarbeidsforordningen, gjelder politiregisterloven §§ 51 og 53.\nFor retting og sletting av uriktige eller mangelfulle opplysninger som er registrert i medhold av grensekontrollforordningen og returforordningen, gjelder personvernforordningen artikkel 16 og 17. Den behandlingsansvarlige skal så vidt mulig sørge for at feilen ikke får betydning for den registrerte.\nDersom registrerte opplysninger som nevnt i første og annet ledd er lagt inn av en annen stat, skal den behandlingsansvarlige uten opphold underrette denne staten med anmodning om å rette, supplere eller slette opplysningene.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 18",
+      "heading": "Saksbehandlingsregler ved begjæring om innsyn, retting og sletting",
+      "path": [
+        "Kapittel 5 Innsyn, retting og sletting"
+      ],
+      "text": "Begjæring om innsyn, retting eller sletting fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men avgjøres av den behandlingsansvarlige. Dersom meldingen det begjæres innsyn i, er lagt inn av en annen stat, plikter den behandlingsansvarlige å gi denne staten anledning til å uttale seg før innsyn gis.\nDen registrerte kan pålegges å legge frem en skriftlig og undertegnet begjæring.\nBegjæringer om innsyn, retting eller sletting skal besvares skriftlig uten ugrunnet opphold og senest innen 30 dager fra den dagen henvendelsen kom inn. Dersom det er uforholdsmessig vanskelig å svare på henvendelsen innen 30 dager, kan gjennomføringen utsettes i inntil to måneder. Det skal i så fall gis et foreløpig svar med angivelse av sannsynlig tidspunkt for når svar kan gis.\nDersom begjæring om innsyn i opplysninger som er registrert i medhold av politisamarbeidsforordningen, ikke tas til følge, gjelder politiregisterloven § 54 tredje ledd tilsvarende. Begjæring om retting og sletting i slike opplysninger skal bare behandles dersom den registrerte tidligere har fått innsyn i eller underretning om den registreringen begjæringen gjelder.\nDen registrerte skal informeres om sine rettigheter etter § 21 samt adgangen til å bringe saken inn for en domstol.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 19",
+      "heading": "Erstatning",
+      "path": [
+        "Kapittel 6 Erstatning"
+      ],
+      "text": "En person har krav på erstatning for skade som er påført som følge av at opplysninger er registrert eller brukt i strid med reglene for behandling av opplysninger i SIS. Dette gjelder uten hensyn til om det er utvist skyld av den behandlingsansvarlige eller dennes databehandler eller av noen annen som har truffet beslutning eller lagt inn melding om registrering.\nErstatningen skal svare til det økonomiske tap som den registrerte er påført ved den ulovlige registreringen eller bruken av opplysningene. Erstatningen kan også omfatte erstatning for krenkelse eller annen skade av ikke-økonomisk art (oppreisning) i den utstrekning dette finnes rimelig.\nKrav om erstatning fremsettes for den behandlingsansvarlige eller den myndighet som har besluttet registrering, men behandles av den behandlingsansvarlige. Krav om erstatning må fremsettes senest ett år etter at den skadelidte er blitt kjent med registreringen. Når krav fremsettes etter at den skadelidte har vært siktet i en straffesak, gjelder likevel behandlingsreglene i straffeprosessloven kapittel 31. Straffeprosessloven § 444, § 445 og § 446 gjelder ikke for krav om erstatning etter bestemmelsen her.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 20",
+      "heading": "Klageadgang",
+      "path": [
+        "Kapittel 6 Erstatning"
+      ],
+      "text": "Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter politisamarbeidsforordningen eller grensekontrollforordningen, kan påklages til Politidirektoratet av den registrerte eller eieren av en registrert gjenstand. Avgjørelser om erstatning som knytter seg til behandling av opplysninger etter returforordningen, kan påklages til departementet av den registrerte.\nForvaltningsloven kapittel VI gjelder tilsvarende så langt det passer.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Datatilsynets tilsyn og kontroll mv.",
+      "path": [
+        "Kapittel 7 Tilsyn"
+      ],
+      "text": "For behandling av personopplysninger etter politisamarbeidsforordningen gjelder politiregisterloven §§ 58 første punktum, 59, 60 og 61 om Datatilsynets tilsyn og kontroll mv.\nDatatilsynets tilsyn og kontroll med behandling av personopplysninger etter grensekontrollforordningen og returforordningen reguleres av personvernforordningen kapittel VI til VIII og personopplysningsloven kapittel 6 og 7.\nDersom opplysningene er lagt inn av en annen stat, skal kontrollen foretas i samråd med denne statens kontrollorgan. Saksbehandlingsreglene i § 18 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Særregler om meldinger lagt inn av en annen stat",
+      "path": [
+        "Kapittel 7 Tilsyn"
+      ],
+      "text": "Dersom Datatilsynets pålegg gjelder en melding som er lagt inn av en annen stat, skal den behandlingsansvarlige oversende avgjørelsen til denne staten med anmodning om fullbyrdelse.\nDen behandlingsansvarlige skal fullbyrde endelige avgjørelser truffet av andre staters myndigheter som gjelder meldinger lagt inn av norske myndigheter.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 23",
+      "heading": "Forskrifter",
+      "path": [
+        "Kapittel 8 Forskrifter"
+      ],
+      "text": "Departementet kan gi forskrift til utfylling og gjennomføring av denne loven, herunder om behandlingsansvaret etter § 4.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 24",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 9 Sluttbestemmelser"
+      ],
+      "text": "Loven trer i kraft fra den tid1 Kongen bestemmer.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    }
+  ]
+}

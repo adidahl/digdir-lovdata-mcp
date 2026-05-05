@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2011-12-20-1463",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fangst av ål",
+  "short_title": "Forskrift om fangst av ål",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2012-01-01",
+  "lovdata_refid": "forskrift/2011-12-20-1463",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-20-1463",
+  "raw_xml_sha256": "dd43fdbda93cea236d7388a43ab583f6a187846bee0ad11eca683344d38271da",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Generelt forbud",
+      "path": [],
+      "text": "Det er forbudt å fange, oppbevare og lande ål. Forbudet gjelder også fritidsfiske.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Overvåkingsfiske",
+      "path": [],
+      "text": "Fiskeridirektoratet kan iverksette et overvåkningsfiske og fastsette nærmere bestemmelser som er nødvendige for å oppnå en rasjonell og hensiktsmessig utøvelse eller gjennomføring av et slikt fiske.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskriften, straffes i henhold til lov 6. juni 2008 nr. 37 om forvaltning av viltlevande marine ressursar § 61, § 64 og § 65. På samme måte straffes medvirkning og forsøk.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

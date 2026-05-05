@@ -1,0 +1,71 @@
+{
+  "id": "FOR-2025-12-10-2852",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gebyrer for utstedelse av radiooperatørsertifikat og lisenser til skipsradio",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-12-10-2852",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-12-10-2852",
+  "raw_xml_sha256": "66fc3bb63ce57e8942cfd03b0a7703b45264b4a4855178c965f41fba679a2680",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder gebyrer for utstedelse av radiooperatørsertifikater og lisenser til skipsradio.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Generelt om gebyrer",
+      "path": [],
+      "text": "Sjøfartsdirektoratet, eller den som på oppdrag fra Sjøfartsdirektoratet utsteder radiooperatørsertifikat eller lisens til skipsradio, skal utstede gebyr.\nGebyr for behandling av søknad om radiooperatørsertifikat eller lisens til skipsradio betales til Sjøfartsdirektoratet, med mindre annet er særskilt fastsatt.\nGebyr skal betales av den som søker om radiooperatørsertifikat eller lisens til skipsradio. Gebyret skal være innbetalt før sertifikatet eller lisensen mottas eller blir elektronisk tilgjengelig.\nDersom søknad om radiooperatørsertifikat eller lisens til skipsradio ikke blir innvilget, vil forhåndsbetalt gebyr ikke bli tilbakebetalt.\nGebyrene etter denne forskriften er gjenstand for årlig indeksregulering.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gebyrsatser for utstedelse av sertifikater",
+      "path": [],
+      "text": "Gebyr for søknad om:SertifikattypePris NOKROC/GOC-sertifikat1059Utstedelse av SRC/LRC-sertifikat706Påtegning – ROC/GOC1059Fornyelse – ROC/GOC1059",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Gebyrsatser for utstedelse av lisenser",
+      "path": [],
+      "text": "Årlig gebyr for lisens til skipsradio:LisenstypePris NOKGrunnlisens VHF og AIS200Utvidet lisens (A1, A2, A3 og A4)500\nDen som er registrert som innehaver av lisens 1. januar er ansvarlig for betaling av gebyr.\nGebyret for en lisens er det samme uavhengig av når på året det søkes om lisens til skipsradio. Gebyr tilbakebetales ikke om radiolisensen avsluttes i løpet av året. Lisens må sies opp før 31. desember for å unngå gebyr for det neste året.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Uteblitt betaling",
+      "path": [],
+      "text": "Uteblitt betaling av årlig gebyr er grunnlag for vedtak om tilbaketrekking av lisens.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Forsinkelsesrenter",
+      "path": [],
+      "text": "Ved betaling etter forfallsdato, beregnes forsinkelsesrenter etter lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2026.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

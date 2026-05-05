@@ -1,0 +1,63 @@
+{
+  "id": "FOR-2024-12-19-3276",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Digitalt dødsbo",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2025-01-01",
+  "lovdata_refid": "forskrift/2024-12-19-3276",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-12-19-3276",
+  "raw_xml_sha256": "1683109b4b587e8881acae073f87e563056533657b27db5a558470720a77de6a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Tilgang til Digitalt dødsbo",
+      "path": [],
+      "text": "Arvinger som er gitt formuesfullmakt etter arveloven § 92 eller skifteattest etter arveloven § 118, kan, etter en vurdering av tingretten, få tilgang til Digitalt dødsbo. Tingretten skal på bakgrunn av vurderingen etter første punktum ha oversikt over hvilke bo som er egnet for digitalt skifte. Tilgang etter første punktum gjelder tilsvarende for personer som er gitt fullmakt til å skifte boet (skiftefullmakt) fra arving.\nDigitaliseringsdirektoratet oppretter et digitalt dødsbo når tingretten har vurdert boet som egnet etter § 1 første ledd første punktum. Digitaliseringsdirektoratet innhenter opplysninger på vegne av, og etter initiativ fra, arving.\nAvgiver av opplysninger til et digitalt dødsbo, herunder finansforetak, skattemyndigheten mv., skal legge til grunn at arvinger som får tilgang til Digitalt dødsbo har enten formuesfullmakt, skifteattest eller skiftefullmakt.\nDigitaliseringsdirektoratet skal etablere, forvalte og kunne dele opplysninger fra en oversikt over personer som tildeles en av følgende digitale rettigheter knyttet til skifte av dødsbo:digital representasjon av formuesfullmaktdigital representasjon av skifteattestfullmakt til å skifte boet (skiftefullmakt).",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Behandlingsansvar",
+      "path": [],
+      "text": "Digitaliseringsdirektoratet er behandlingsansvarlig for personopplysninger i Digitalt dødsbo.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Behandling av opplysninger",
+      "path": [],
+      "text": "Når det er nødvendig for å utføre oppgaver i forbindelse med Digitalt dødsbo, kan Digitaliseringsdirektoratet uten hinder av taushetsplikt behandle følgende opplysninger:navn, adresse, telefonnummer, e-postadresse, reservasjon mot elektronisk kommunikasjon og sivilstatusfødselsnummer eller d-nummerfamilierelasjonopplysninger fra skatteoppgjør og skattemeldingopplysninger om usikret gjeldeierskap og rettigheter til bolig og eiendommer, inkludert landbrukseiendommerinformasjon om ektepakteierskap til kjøretøyinformasjon om forsikringer og forsikringspoliserformues- og gjeldsforhold, herunder kundeforhold i bank, saldo, og kontoinformasjontilgodehavende hos Norsk Tippingandre relasjoner.\nAdgangen til å behandle opplysninger angitt i første ledd gjelder også opplysninger om arvelater som samtidig utgjør personopplysninger om en levende person, herunder personopplysninger som nevnt i personvernforordningen artiklene 9 og 10.\nDigitaliseringsdirektoratet kan også behandle opplysningene i første ledd i forbindelse med bruk av oversikten over tildelte rolle med rettigheter, jf. § 1 fjerde ledd bokstavene a til c.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Opphevelse av taushetsplikt",
+      "path": [],
+      "text": "Så langt det er nødvendig for å utføre oppgaver som følger av arvelovens tredje del, kan offentlige og private virksomheter, domstolene og forvaltningsorganer uten hinder av taushetsplikt dele opplysninger i forbindelse med gjennomføring av digitalt skifte av dødsbo.\nDigitaliseringsdirektoratet og tingretten kan uten hinder av taushetsplikt utveksle opplysninger som er nødvendig for å gjennomføre oppgaver knyttet til Digitalt dødsbo.\nFinansforetak kan uten hinder av taushetsplikten etter finansforetaksloven §§ 9-6 og 16-2, dele opplysninger som arvinger har krav på etter arvelovens tredje del med arvinger via Digitalt dødsbo.\nDigitaliseringsdirektoratet skal, uten hinder av taushetsplikt, ha tilgang til opplysninger i Folkeregisteret som er nødvendig for å utføre oppgavene etter denne forskriften.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Lagringstid",
+      "path": [],
+      "text": "Opplysningene som behandles i Digitalt dødsbo kan lagres i fire år fra dødsfallet, med mindre annet følger av arkivloven.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. januar 2025.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

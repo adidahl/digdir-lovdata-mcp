@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2026-03-06-352",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om lov om militær politimyndighets anvendelse for Jan Mayen",
+  "department": "Forsvarsdepartementet",
+  "date_in_force": "2026-03-06",
+  "lovdata_refid": "forskrift/2026-03-06-352",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-03-06-352",
+  "raw_xml_sha256": "13d453b1e94632808a8c5f6c5b9bbd7d29af59fc2b84825685c4220ead8a836e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelse av lov om militær politimyndighet på Jan Mayen",
+      "path": [],
+      "text": "Militærpolitiloven, samt forskrifter gitt i medhold av loven, gis anvendelse på Jan Mayen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

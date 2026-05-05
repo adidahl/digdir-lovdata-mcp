@@ -1,0 +1,307 @@
+{
+  "id": "LOV-2025-06-20-44",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Norgespris og strømstønad til husholdninger",
+  "short_title": "Lov om Norgespris og strømstønad til husholdninger",
+  "department": "Energidepartementet",
+  "legal_area": "Energirett > Elektrisitetsproduksjon og -forsyning Pensjons- og trygderett > Utenfor folketrygdloven",
+  "date_in_force": "2025-08-29",
+  "lovdata_refid": "lov/2025-06-20-44",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2025-06-20-44",
+  "raw_xml_sha256": "f4abee98071648f5a111f27bc187e7b077567aef821375af0342b16b8490d01d",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens formål",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Formålet med loven er å etablere ordninger for økonomisk stønad og forutsigbare strøm- og fjernvarmepriser til husholdnings- og fritidsboligforbruk. Loven viderefører strømstønad for husholdningskunder og etablerer strømstønad for husholdningskunder som bruker fjernvarme, samt ordning for sikring av strøm- og fjernvarmepris for husholdnings- og fritidsboligkunder.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Loven gjelder på norsk landterritorium.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forvaltning av ordningene – strøm",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre stønadssatser, forestå overføring av stønad og prissikringsbeløp til og fra nettselskapene og føre tilsyn med ordningene for strøm.\nNettselskapene skal beregne stønadsbeløp for nettkunder med rett til stønad etter at stønadssatsene er fastsatt av Reguleringsmyndigheten for energi, og betale ut stønaden.\nNettselskapene skal beregne prissikringsbeløp for nettkunder som deltar i ordning for sikring av strømpris, og kreve inn eller betale ut netto prissikringsbeløp. Med prissikringsbeløp menes differansen mellom spotprisen per time i budområdet og referanseprisen, multiplisert med nettkundens avregnede forbruk.\nKraftleverandører som utfører gjennomfakturering av nettkunder, skal sikre at stønadsbeløp og netto prissikringsbeløp som er fastsatt av nettselskapet, tilfaller nettkunden ved fakturering.\nDepartementet kan i forskrift gi nærmere bestemmelser om forvaltning av ordningene for strøm, herunder om behandling av personopplysninger.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forvaltning av ordningene – fjernvarme",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Norges vassdrags- og energidirektorat skal beregne og offentliggjøre stønadssatser og føre tilsyn med ordningene for fjernvarme.\nDepartementet kan utpeke en aktør som skal forestå overføring av stønad og prissikringsbeløp til og fra fjernvarmeselskapet.\nFjernvarmeselskapet skal beregne stønadsbeløp og betale ut stønad til fjernvarmekunder med rett til stønad etter at stønadssatsene er fastsatt av Norges vassdrags- og energidirektorat.\nFjernvarmeselskapet skal beregne prissikringsbeløp for fjernvarmekunder som deltar i ordning for sikring av fjernvarmepris, og kreve inn eller betale ut prissikringsbeløp. Med prissikringsbeløp for fjernvarme menes differansen mellom månedlig gjennomsnitts elspotpris i budområdet og referanseprisen, multiplisert med fjernvarmekundens avregnede forbruk.\nFjernvarmeselskapet skal sikre at stønadsbeløp eller prissikringsbeløp tilfaller fjernvarmekunden ved fakturering.\nDepartementet kan i forskrift gi nærmere bestemmelser om forvaltning av ordningene for fjernvarme, herunder om behandling av personopplysninger.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Rett til strømstønad",
+      "path": [
+        "Kapittel 2 Strømstønad"
+      ],
+      "text": "Nettkunder som har husholdningsforbruk, har rett til strømstønad etter ordningen.\nDepartementet kan gi forskrift med nærmere bestemmelser om hvem som har rett til strømstønad, og om utvidelse av ordningen til nettkunder som driver landbruksvirksomhet.\nVed uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten for energi avgjør saken ved enkeltvedtak. Departementet kan gi forskrift om klage til Energiklagenemnda.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Beregning av strømstønad",
+      "path": [
+        "Kapittel 2 Strømstønad"
+      ],
+      "text": "Reguleringsmyndigheten for energi skal beregne og offentliggjøre stønadssatser.\nNettselskapene skal beregne stønadssatser for hver enkelt nettkunde fortløpende og automatisk. Stønadssatsene beregnes time for time etter elspotpris i budområdet hvor nettkunden er tilknyttet, fratrukket terskelverdi, som deretter skal multipliseres med stønadsgraden. Beregningen skal ta hensyn til merverdiavgift.\nNettselskapet skal i forbindelse med fakturering beregne stønad for hver enkelt nettkunde med rett til stønad på grunnlag av stønadssatser og timesforbruk.\nDepartementet fastsetter stønadsgrad og terskelverdi i forskrift.\nDepartementet kan gi nærmere forskrift om beregning av stønad, herunder om fastsettelse og anvendelse av forbrukstak og om beregning av stønad for nettkunder uten timesmåling. Departementet kan i forskrift fastsette en nedre grense for når det utbetales strømstønad.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Utbetaling av strømstønad",
+      "path": [
+        "Kapittel 2 Strømstønad"
+      ],
+      "text": "Stønaden skal komme til fradrag i fakturert nettleie fra nettselskapet. Dersom nettleien faktureres separat og stønaden overstiger nettleien, skal det overskytende beløpet utbetales til nettkunden senest ved fakturaforfall.\nVed gjennomfakturering skal kraftleverandøren sørge for at utbetaling til nettkunden skjer gjennom fradrag på faktura. Dersom stønadsbeløpet overstiger nettleien, skal nettselskapet overføre det overskytende beløpet til kraftleverandøren.\nInformasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra kraftleverandøren som utfører gjennomfakturering, eller nettselskapet. Det skal gis informasjon til nettkunden om at stønadssatser time for time offentliggjøres av Reguleringsmyndigheten for energi.\nFor nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første og tredje ledd tilsvarende.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Ordning for sikring av strømpris",
+      "path": [
+        "Kapittel 3 Ordning for sikring av strømpris (Norgespris)"
+      ],
+      "text": "På forespørsel fra nettkunden skal nettselskapet tilby deltagelse i ordning for sikring av strømpris. Nettkunder som har husholdnings- eller fritidsboligforbruk, kan delta i ordningen. Nettkundens målepunkt bindes ut prisperioden hvis nettkunden velger å inngå avtale om sikring av strømpris. Nettkunden taper rett til strømstønad i samme tidsrom som nettkunden deltar i ordning for sikring av strømpris.\nNettselskapet skal beregne prissikringsbeløp per time for nettkunde nevnt i første ledd, basert på målt strømforbruk og referansepris, på følgende måte:I forbrukstimer med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.I forbrukstimer med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.\nElspotpris skal være timespris i budområdet kunden tilhører. Nettselskapet skal kreve inn eller betale ut netto prissikringsbeløp per måned. Beregningen skal gjøres etterskuddsvis for hver måned eller dersom nettkunden sier opp nettavtalen.\nDepartementet fastsetter referansepris i forskrift. Fastsettelsen av referansepris i det enkelte år skal ta utgangspunkt i prisbildet for strøm fremover. Prisfastsettelsen skal samtidig ivareta at formålet med ordningen er å sikre forutsigbare og stabile strømpriser med utgangspunkt i den reelle historiske kraftprisutviklingen. Fastsatt referansepris i ordningen har 12 måneders varighet med mindre annet fremgår av forskrift.\nVed uenighet mellom nettselskap og nettkunde om rett til å bli omfattet av ordningen kan nettkunden bringe saken inn for avgjørelse hos Reguleringsmyndigheten for energi. Reguleringsmyndigheten for energi avgjør saken ved enkeltvedtak. Departementet kan gi forskrift om klage til Energiklagenemnda.\nDepartementet kan gi forskrift om ordningen, herunder om hvem som er omfattet, fakturering, bindingstid, avbestilling, utbetaling og forbrukstak samt administrering av ordningen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Gjennomføring av ordning for sikring av strømpris",
+      "path": [
+        "Kapittel 3 Ordning for sikring av strømpris (Norgespris)"
+      ],
+      "text": "Nettkunden må samtykke i deltakelse i ordningen for sikring av strømpris etter § 8.\nNettselskapene skal beregne prissikringsbeløp for nettkunder som deltar i ordning for sikring av strømpris, og kreve inn eller betale ut netto prissikringsbeløp etter § 8. Netto utbetalt prissikringsbeløp fra nettselskapet til nettkundene skal refunderes fra Reguleringsmyndigheten for energi. Netto skyldig prissikringsbeløp fra nettkundene til nettselskapet skal overføres til Reguleringsmyndigheten for energi. Ved mislighold av skyldig prissikringsbeløp kan nettselskapet forfølge kravet overfor nettkunden.\nVed oppstart av nye nettanlegg eller ved anleggsovertagelse kan beregningen etter § 8 gjøres for kortere tidsrom enn én måned.\nFor nettselskap med leveringsplikt etter energiloven § 3-3 gjelder første og andre ledd tilsvarende.\nDepartementet kan gi forskrift om nettselskapenes administrasjon av ordningen.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Valg av teknisk løsning ved gjennomføring av ordning for sikring av strømpris",
+      "path": [
+        "Kapittel 3 Ordning for sikring av strømpris (Norgespris)"
+      ],
+      "text": "Reguleringsmyndigheten for energi kan bestemme hvilken teknisk løsning som nettselskapene og avregningsansvarlig skal benytte for gjennomføring av ordning for sikring av strømpris.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Forholdet til annet regelverk",
+      "path": [
+        "Kapittel 3 Ordning for sikring av strømpris (Norgespris)"
+      ],
+      "text": "Avtale om sikring av strømpris er ikke et forbrukerkjøp etter forbrukerkjøpsloven.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Rett til strømstønad for fjernvarmekunder",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Fjernvarmekunder som har husholdningsforbruk og er kunder av fjernvarmeanlegg med konsesjon etter energiloven § 5-1, har rett til strømstønad etter ordningen.\nDepartementet kan gi forskrift med nærmere bestemmelser om hvem som har rett til stønad.\nVed uenighet mellom fjernvarmeselskapet og fjernvarmekunden om rett til å bli omfattet av ordningen kan fjernvarmekunden bringe saken inn for avgjørelse hos Norges vassdrags- og energidirektorat. Norges vassdrags- og energidirektorat avgjør saken ved enkeltvedtak. Vedtaket kan påklages til departementet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Beregning av strømstønad for fjernvarmekunder",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Norges vassdrags- og energidirektorat skal beregne og offentliggjøre gjennomsnittlig månedlig elspotpris for hvert budområde (stønadsgrunnlag). Prisen skal beregnes som et aritmetisk gjennomsnitt av alle timepriser.\nNorges vassdrags- og energidirektorat skal beregne og offentliggjøre stønadssatser hver måned. Stønadssatsene beregnes månedlig som stønadsgrunnlag fratrukket terskelverdi, multiplisert med stønadsgraden.\nFjernvarmeselskapet skal i forbindelse med fakturering beregne stønad for hver enkelt fjernvarmekunde med rett til stønad på grunnlag av stønadssatser og målt månedlig fjernvarmeforbruk. Beregningen skal ta hensyn til merverdiavgift.\nDepartementet kan gi nærmere forskrift om beregning av stønad, herunder om fastsettelse og anvendelse av forbrukstak og krav til måling. Departementet kan i forskrift fastsette en nedre grense for når det utbetales strømstønad.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Utbetaling av strømstønad",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Strømstønad skal utbetales månedlig. Stønaden skal komme til fradrag i faktura fra fjernvarmeselskapet.\nInformasjon om forbruk og stønadsbeløp skal fremgå av fakturaen fra fjernvarmeselskapet. Det skal gis informasjon til fjernvarmekunden om at stønadssatser offentliggjøres av Norges vassdrags- og energidirektorat.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Ordning for sikring av fjernvarmepris",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "På forespørsel fra fjernvarmekunden skal fjernvarmeselskapet tilby kunder av fjernvarmeanlegg med konsesjon etter energiloven § 5-1 og som har husholdnings- eller fritidsboligforbruk, deltagelse i ordning for sikring av fjernvarmepris. Energimåleren til fjernvarmekunden bindes ut prisperioden hvis fjernvarmekunden velger å inngå avtale om sikring av fjernvarmepris. Med energimåler menes måler som står i punktet der fjernvarmeselskapet beregner kundens fjernvarmeforbruk som danner grunnlag for fakturering. Fjernvarmekunden taper rett til strømstønad for fjernvarme i samme tidsrom som fjernvarmekunden deltar i ordning for sikring av fjernvarmepris.\nFjernvarmeselskapet skal beregne prissikringsbeløp per måned for fjernvarmekunde nevnt i første ledd, basert på målt fjernvarmeforbruk og referansepris, på følgende måte:I forbruksmåned med elspotpris over referansepris skal kunden få et tilskudd tilsvarende elspotpris fratrukket referansepris. Beregningen skal ta hensyn til merverdiavgift.I forbruksmåned med elspotpris under referansepris skal kunden betale et beløp tilsvarende referansepris fratrukket elspotpris. Beregningen skal ta hensyn til merverdiavgift.\nElspotpris skal være gjennomsnittlig månedspris i budområdet kunden tilhører.\nFjernvarmeselskapet skal kreve inn eller betale ut prissikringsbeløp per måned. Beregningen skal gjøres etterskuddsvis for hver måned eller dersom fjernvarmekunden sier opp fjernvarmeavtalen.\nVed uenighet mellom fjernvarmekunde og fjernvarmeselskap om rett til å bli omfattet av ordningen kan fjernvarmekunden bringe saken inn for avgjørelse hos Norges vassdrags- og energidirektorat. Norges vassdrags- og energidirektorat avgjør saken ved enkeltvedtak. Vedtaket kan påklages til departementet.\nDepartementet kan gi forskrift om ordningen, herunder om hvem som er omfattet, fakturering, måling, bindingstid, utbetaling og forbrukstak samt administrering av ordningen.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Gjennomføring av ordning for sikring av fjernvarmepris",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Fjernvarmekunden må samtykke for å delta i ordningen for sikring av fjernvarmepris etter § 15.\nFjernvarmeselskapet skal beregne prissikringsbeløp for fjernvarmekunder som deltar i ordning for sikring av fjernvarmepris, og kreve inn eller betale ut prissikringsbeløp etter § 15. Prissikringsbeløpet skal komme som tillegg eller fradrag i faktura fra fjernvarmeselskapet. Utbetalt prissikringsbeløp fra fjernvarmeselskap til fjernvarmekunde skal refunderes fra den aktøren departementet utpeker. Skyldig prissikringsbeløp fra fjernvarmekunde til fjernvarmeselskap skal overføres til den aktøren departementet utpeker.\nFjernvarmeselskapet skal rapportere kundeinformasjon, månedlig forbruk og prissikringsbeløp til den aktøren departementet utpeker.\nDepartementet kan gi forskrift om fjernvarmeselskapenes administrasjon av ordningen.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Valg av teknisk løsning ved gjennomføring av ordning for sikring av fjernvarmepris",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Den aktøren departementet utpeker, kan bestemme hvilken teknisk løsning som fjernvarmeselskapene skal benytte for gjennomføring av ordning for sikring av fjernvarmepris.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 18",
+      "heading": "Krav til måling og fakturering",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Fjernvarmeselskapet skal måle og fakturere fjernvarmekundene på månedlig basis.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 19",
+      "heading": "Husholdningskunder av fjernvarmeanlegg uten konsesjon (nærvarme)",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Departementet kan gi forskrift med nærmere bestemmelser om utforming av rettigheter og plikter for fjernvarmeanlegg uten konsesjon og kunder av slike anlegg som har husholdningsforbruk.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 20",
+      "heading": "Forholdet til annet regelverk",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Avtale om sikring av fjernvarmepris er ikke et forbrukerkjøp etter forbrukerkjøpsloven.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 21",
+      "heading": "Krav til regnskapsmessig skille",
+      "path": [
+        "Kapittel 4 Ordning for sikring av fjernvarmepris (Norgespris) og strømstønad for fjernvarme"
+      ],
+      "text": "Fjernvarmeselskapene plikter å føre egne prosjektregnskap og separate kontoer for administrasjonen av ordning for sikring av fjernvarmepris og strømstønadsordningen. Fjernvarmeselskapene skal årlig fremlegge bekreftelse fra revisor på at det er ført separate prosjektregnskap, og at det er benyttet separate kontoer.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Hensyn til kraftsituasjonen",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Departementet kan gi forskrift om opphør og justering av ordningene av hensyn til kraftsituasjonen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 23",
+      "heading": "Rapportering, kontroll og tilsyn",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Nettselskapene skal hver måned, uten ugrunnet opphold, oversende til Reguleringsmyndigheten for energi en oversikt over utbetalinger av stønad for begge ordningene og innbetalinger fra nettkundene etter § 9. Fjernvarmeselskapene skal hver måned, uten ugrunnet opphold, oversende til den aktøren departementet utpeker, en oversikt over utbetalinger av stønad for begge ordningene og innbetalinger fra fjernvarmekundene etter § 15.\nReguleringsmyndigheten for energi kan gi de pålegg som er nødvendige for gjennomføringen av bestemmelser gitt i eller i medhold av denne loven i tilknytning til strøm. Tilsvarende kan Norges vassdrags- og energidirektorat gi pålegg som er nødvendige for gjennomføringen av bestemmelser gitt i eller i medhold av denne loven i tilknytning til fjernvarme.\nReguleringsmyndigheten for energi fører tilsyn med begge ordningene for strøm. Norges vassdrags- og energidirektorat fører tilsyn med begge ordningene for fjernvarme.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 24",
+      "heading": "Innhenting av opplysninger",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Reguleringsmyndigheten for energi kan pålegge nettselskaper, kraftleverandører og Elhub AS, uten hinder av taushetsplikt, å gi opplysninger som er nødvendige for fastsetting av stønad eller prissikringsbeløp etter denne loven og kontrollen av denne.\nNorges vassdrags- og energidirektorat kan pålegge fjernvarmeselskaper, uten hinder av taushetsplikt, å gi opplysninger som er nødvendige for fastsetting av stønad eller prissikringsbeløp etter denne loven eller kontrollen av denne. På samme vilkår som i første punktum kan den aktøren departementet utpeker, pålegge fjernvarmeselskaper å gi opplysninger for kontroll av stønad eller prissikringsbeløp. Uten hinder av taushetsplikt skal den aktøren departementet utpeker, på forespørsel dele innhentende opplysninger med Norges vassdrags- og energidirektorat.\nBoligselskaper er pliktig til å gi den informasjonen som er nødvendig for gjennomføring av ordningene. Departementet kan fastsette boligselskapers informasjonsplikt i forskrift.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 25",
+      "heading": "Tilbakebetaling av uriktig utbetalt stønad eller prissikringsbeløp",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Dersom det i tilknytning til strøm er utbetalt uriktig stønad eller beregnet uriktig prissikringsbeløp til en nettkunde, kan Reguleringsmyndigheten for energi fatte vedtak med krav om tilbakebetaling av det uriktige beløpet. Departementet kan gi forskrift om klage til Energiklagenemnda.\nNorges vassdrags- og energidirektorat kan på samme vilkår som i første ledd fatte vedtak med krav om tilbakebetaling av det uriktig utbetalte beløpet for fjernvarme. Vedtaket kan påklages til departementet.\nKrav om tilbakebetaling kan frafalles helt eller delvis av Reguleringsmyndigheten for energi og Norges vassdrags- og energidirektorat innenfor deres ansvarsområder.\nKrav om tilbakebetaling etter første og andre ledd forfaller til betaling tre uker etter at kravet er sendt til skyldneren.\nDepartementet kan gi forskrift om tilbakebetaling av uriktig utbetalt stønad eller prissikringsbeløp, herunder om tilbakebetaling til nettselskapet eller fjernvarmeselskapet uten at det er fattet vedtak etter første ledd.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 26",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Ved overtredelse av denne loven eller bestemmelser eller pålegg gitt i medhold av loven kan Reguleringsmyndigheten for energi fastsette en tvangsmulkt etter reglene i forvaltningsloven § 51 for overtredelser av bestemmelser som omhandler sikring av strømpris og strømstønad.\nVed overtredelse av denne loven eller bestemmelser eller pålegg gitt i medhold av loven kan Norges vassdrags- og energidirektorat fastsette tvangsmulkt etter reglene i forvaltningsloven § 51 for overtredelser av bestemmelser som omhandler sikring av fjernvarmepris og strømstønad for fjernvarme.\nTvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter fristen som er fastsatt for retting av forholdet.\nTvangsmulkt er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 27",
+      "heading": "Forskrifter",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Departementet kan gi forskrift til utfylling av denne loven.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 28",
+      "heading": "Varighet",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Regler gitt i eller i medhold av loven har varighet til 31. desember 2029.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 29",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 5 Øvrige bestemmelser"
+      ],
+      "text": "Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tid oppheves midlertidig lov 22. desember 2021 nr. 170 om stønad til husholdninger som følge av ekstraordinære strømutgifter. Kongen kan sette i kraft de enkelte bestemmelsene til forskjellig tid.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    }
+  ]
+}

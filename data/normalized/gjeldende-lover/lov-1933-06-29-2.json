@@ -1,0 +1,33 @@
+{
+  "id": "LOV-1933-06-29-2",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om flagging på kommunenes offentlige bygninger",
+  "short_title": "Lov om flagging på kommunale bygninger",
+  "department": "Kommunal- og distriktsdepartementet",
+  "legal_area": "Forvaltnings- og kommunalrett > Kommuner og fylkeskommuner",
+  "date_in_force": "1933-06-29",
+  "last_change_in_force": "2021-06-04",
+  "last_changed_by": "lov/2021-06-04-56",
+  "lovdata_refid": "lov/1933-06-29-2",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1933-06-29-2",
+  "raw_xml_sha256": "0f9bad14da52b4428daa809a7897305d2007f18bec03232291e8ebe1ef6e1d49",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "På eller fra kommunenes offentlige bygninger, eiendommer og kommunale institusjoner må kun brukes flagg som nevnt i lov 10. desember 1898 nr. 1 om Norges Flag § 1 (uten splitt og tunge), det samiske flagget eller kommune- eller fylkesflagg. Som offentlige bygninger og kommunale institusjoner regnes bygninger med tilhørende grunn som kommunen råder over som eier, leier eller lignende og som hovedsakelig brukes i forbindelse med kommunens offentlige oppgaver eller av kommunale institusjoner. Forbudet i første punktum gjelder ikke i forbindelse med arrangement, markering eller merkedag av allmenn interesse. Det samme gjelder frittstående kommunale flaggstenger på torg, bruer, plasser eller lignende som ikke framstår som en integrert del av et kommunalt bygningskompleks eller et bygningskompleks som for den vesentligste del benyttes av kommunale institusjoner.\nDog kan Kongen utferdige bestemmelser om adgang til i særlige tilfelle å benytte et fremmed lands flagg ved siden av det norske.\nOvertredelse av denne lov straffes med bøter eller fengsel i inntil 3 måneder.\nLoven gjelder på Svalbard, og gis tilsvarende anvendelse for Longyearbyen lokalstyre som for kommunene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne lov trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

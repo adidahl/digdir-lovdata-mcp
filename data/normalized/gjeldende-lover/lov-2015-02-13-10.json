@@ -1,0 +1,38 @@
+{
+  "id": "LOV-2015-02-13-10",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om utvalget for evaluering av EOS-utvalget",
+  "short_title": "Lov om utvalget for evaluering av EOS-utvalget",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Forsvaret Stats-, statsforfatnings- og statsborgerrett > Stortinget Forvaltnings- og kommunalrett > Politi",
+  "date_in_force": "2015-02-13",
+  "lovdata_refid": "lov/2015-02-13-10",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2015-02-13-10",
+  "raw_xml_sha256": "226846b972071c899142e1ed526e783907d1915ddcbbc399c6bf4771abeefd32",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Utvalget som 27. mars 2014 ble oppnevnt av Stortingets presidentskap for å evaluere EOS-utvalgets virksomhet og rammebetingelser/regelverk, har rett til å innhente opplysninger uten hinder av taushetsplikten i lov 3. februar 1995 nr. 7 om kontroll med etterretnings-, overvåkings- og sikkerhetstjeneste § 9 første ledd.1",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Medlemmene av evalueringsutvalget og enhver som utfører tjeneste eller arbeid for utvalget, har taushetsplikt. Taushetsplikten er ikke til hinder for at utvalget avgir en ugradert evalueringsrapport til Stortinget.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Loven trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

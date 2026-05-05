@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2015-12-07-1416",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utforming av grensemerker i saker for jordskiftedomstolene",
+  "short_title": "Forskrift om utforming av grensemerker i jordskiftesaker",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2016-01-01",
+  "lovdata_refid": "forskrift/2015-12-07-1416",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-12-07-1416",
+  "raw_xml_sha256": "bfd6dfd9e0178cc44bdf58313ffd0a56a6ebb586581558495da6091c1b7bce3f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Grensemerker satt opp av jordskiftedomstolene skal ha samme fysiske mål og krav til materiale som grensemerker satt opp med hjemmel i § 41 i matrikkelforskriften 26. juni 2009 nr. 864 jf. «spesifikasjon for grensemerker etter matrikkelloven» fastsatt av Statens Kartverk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Tekst på grensemerker type 1:Side 1: OFF.GODKJ. GRENSEMERKE JF. JSL. LEVR.NR.Side 2: JORDSKIFTEDOMSTOLEN.\nTekst på grensemerker type 2:Ytre sirkel: OFF.GODKJ. GRENSEMERKE JF. JSL. LEVR.NR.Indre sirkel: JORDSKIFTEDOMSTOLEN.\nTeksten skal være plassert slik som vist på vedlegg 1 og 2 til denne forskrift. Teksten skal ha samme pregedybde og størrelse som fastsatt av Statens Kartverk for grensemerker i medhold av matrikkelloven 17. juni 2005 nr. 101.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften gjelder ikke merking av vernegrenser etter naturmangfoldloven 19. juni 2009 nr. 100 eller tilsvarende lover når vernegrensen ikke er sammenfallende med eiendomsgrensen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Grensemerker bestilt og levert jordskiftedomstolene før 1. januar 2016 kan benyttes til eksisterende lager er tomt.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. januar 2016.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

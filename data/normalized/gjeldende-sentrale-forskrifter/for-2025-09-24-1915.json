@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2025-09-24-1915",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om at ører med reinmerke skal følge skinnet ved slakt",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2025-09-24",
+  "lovdata_refid": "forskrift/2025-09-24-1915",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-09-24-1915",
+  "raw_xml_sha256": "eb4dffbd86f51dd742cfa20c84f3bd63933eede151b1198643e2446ce5b8f827",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Ører skal følge skinnet ved slakt",
+      "path": [],
+      "text": "Ører på reinsdyr med reinmerke skal ikke skilles fra skinnet ved slakt, med mindre slik skilling er tillatt etter annet regelverk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Sanksjoner",
+      "path": [],
+      "text": "Brudd på § 1 i denne forskrift kan sanksjoneres etter reindriftsloven kapittel 11.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "FOR-2022-12-20-2384",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utslippskrav til kjøretøy ved offentlig anskaffelse til veitransport",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2023-01-01",
+  "last_change_in_force": "2023-12-19",
+  "last_changed_by": "forskrift/2023-12-19-2159",
+  "lovdata_refid": "forskrift/2022-12-20-2384",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-12-20-2384",
+  "raw_xml_sha256": "e0ced89d7adb6a19eb33cb98713b1de3aa635acad3cbe46a139e8ddea3a3148b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å sikre at offentlig anskaffelse av kjøretøy bidrar til å fremme og stimulere markedet for nullutslippsløsninger i veitransporten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder kontrakter for alle anskaffelser av kjøretøy til veitransport. Dette omfatter blant annet kjøp, avbetalingskjøp, leasing og leie av kjøretøy både ved inngåelse eller fornyelse av rammeavtale og ved avrop på eksisterende rammeavtale.\nForskriften gjelder anskaffelser som foretas av:offentlig oppdragsgiver omfattet av forskrift 12. august 2016 nr. 974 om offentlige anskaffelser (anskaffelsesforskriften) og forskrift 12. august 2016 nr. 975 om innkjøpsregler i forsyningssektorene (forsyningsforskriften).operatør med løyve for persontransport etter lov 21. juni 2002 nr. 45 om yrkestransport med motorvogn og fartøy (yrkestransportlova), eller med løyvefritak etter samme lov, som skal oppfylle offentlig tjenesteplikt i henhold til forskrift 17. desember 2010 nr. 1673 om gjennomføring i norsk rett av EØS-avtalen vedlegg XIII nr. 4a (forordning (EF) nr. 1370/2007) om offentlig persontransport med jernbane og på vei og om oppheving av rådsforordning (EØF) nr. 1191/69 og nr. 1107/70.underleverandør til operatør nevnt i bokstav b.\nForskriften gjelder ikke kontrakter ved anskaffelse av:kjøretøy som er produsert og konstruert for bruk hovedsakelig på bygge- og anleggsplasser, steinbrudd, havneanlegg og flyplasser.kjøretøy som er produsert og konstruert for bruk av Forsvaret, Sivilforsvaret, tolletaten, brannvesen og politi.spesialtilpasset kjøretøy til personer med nedsatt funksjonsevne iht. NAVs regler om slik ytelse.spesialkjøretøy i gruppe M1, jf. forskrift 28. juni 2022 nr. 1233 om godkjenning av bil og tilhenger til bil (bilforskriften), slik de er angitt i forordning (EU) 2018/858 vedlegg II del III, som for eksempel pansret kjøretøy, ambulanse, kjøretøy tilpasset rullestol og mobilkran (kjøretøy gruppe N3).kjøretøy til løyvepliktig drosjetransport.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Miljøkrav",
+      "path": [],
+      "text": "Offentlig oppdragsgiver, operatør og deres underleverandører som nevnt i § 2 annet ledd skal stille følgende miljøkrav ved anskaffelse av:Personbil (M1): 0 g CO2/kmVarebil (N1-I, N1-II og N1-III): 0 g CO2/kmBuss (M2 og M3): Euro VIBuss (M3 klasse I): 0 g CO2/kmBuss (M3 klasse II) og minibuss (M2) med ståplasser: 0 g CO2/kmLastebil (N2 og N3): Euro VI.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Unntak fra miljøkrav",
+      "path": [],
+      "text": "Offentlig oppdragsgiver og operatør og deres underleverandører kan fravike miljøkrav i § 3 dersom:primærbehovet for anskaffelsen ikke kan dekkes ved kjøretøy som definert i § 3tilstrekkelig ladeinfrastruktur ikke er tilgjengeligbuss som bruker biogassbehovet skal dekkes ved anskaffelse av brukt kjøretøy og markedet ikke kan tilby brukt kjøretøy som oppfyller kravene i § 3virksomheten er bundet av en rammeavtale inngått før forskriftens ikrafttredelse som hindrer dem i å anskaffe kjøretøy som oppfyller kravene i § 3.\nAnskaffelse av kjøretøy som ikke kan oppfylle miljøkrav i § 3, skal uansett ha lavest mulig CO2 utslipp og muligheten for bruk av biogass kan vurderes.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Rapporteringsplikt når det gjøres unntak fra miljøkrav iht. § 4 bokstav a–e",
+      "path": [],
+      "text": "Virksomheter som fraviker miljøkrav for personbil, varebil, og buss etter § 4, skal rapportere til Direktoratet for forvaltning og økonomistyring. Dette gjøres uten ugrunnet opphold etter at anskaffelsen er foretatt.\nRapporteringen skal inneholde begrunnelse for unntak som nevnt i § 4 bokstav a–e. Rapporteringen gjøres elektronisk på fastsatt skjema (www.anskaffelser.no/nullutslippsforskrift).",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften gjelder fra 1. januar 2023 med unntak av § 3 bokstav d som gjelder fra 1. januar 2024 og § 3 bokstav e som gjelder fra 1. januar 2025.\nFra samme dato oppheves forskrift 21. desember 2021 nr. 3840 om energi- og miljøkrav ved anskaffelse av kjøretøy til veitransport.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Overgangsbestemmelse",
+      "path": [],
+      "text": "Forskriften gjelder for anskaffelse som kunngjøres etter forskriftens ikrafttredelse. Forskriften gjelder også ved avrop på eksisterende rammeavtale eller konkurranse gjennomført i dynamisk innkjøpsordning etter forskriftens ikrafttredelse.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

@@ -1,0 +1,170 @@
+{
+  "id": "FOR-2012-09-10-866",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om klassifisering og sikring av anlegg i elektroniske kommunikasjonsnett (klassifiseringsforskrifta)",
+  "short_title": "Klassifiseringsforskrifta",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3423 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2012-09-10-866",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-09-10-866",
+  "raw_xml_sha256": "b2a98bf3a21bcb29cfed54bef1cc5b6f6a9804ae0a1ad2f103318edc27b7bb4c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskrifta sitt formål er å sikre nettutstyr i anlegg mot uønskt ytre fysisk påverknad for at tilbydar skal kunne tilby elektronisk kommunikasjonsnett- og teneste med forsvarleg sikkerheit for brukarane i fred, krise og krig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskrifta gjeld nettilbydarar.\nNasjonal kommunikasjonsmyndigheit kan treffe vedtak om at andre som omfattast av lov 13. desember 2024 nr. 76 om elektronisk kommunikasjon (ekomlova) også skal omfattast av forskrifta.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjonar",
+      "path": [],
+      "text": "I denne forskrifta meinast med:nettilbydar: tilbydar av elektroniske kommunikasjonsnett som nyttast til offentleg elektronisk kommunikasjonsteneste.nettutstyr: utstyr som nyttast til elektronisk kommunikasjon og som inngår som ein integrert del av elektroniske kommunikasjonsnett.anlegg: fysisk konstruksjon som huser nettutstyr, og som utgjer ein naturleg heilskap, som til dømes eit fjell-/bunkeranlegg, ei bygning, ein avgrensa del av ei bygning, eller ei mast.to-faktor autentisering: autentisering av personell ved hjelp av to av faktorane «noko personen har», «noko personen veit» og «noko personen er».EMP/HPM-våpen: våpen basert på elektromagnetisk puls (EMP) eller høgfrekvent radiostråling (HPM).hjelpeteknisk utstyr: straumforsyningsutstyr, reservestraumforsyning og kjøleutstyr som er fast installert i anlegg, eller tilrettelagt for å bli installert i anlegg, for drift av nettutstyr.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Klassifisering",
+      "path": [],
+      "text": "Nettilbydar skal klassifisere alle anlegg ut i frå kor viktig eiget nettutstyr i anlegget vurderast å vere for offentlege elektroniske kommunikasjonstenester. Anlegga skal klassifiserast i fire klassar:Klasse AAnlegg som omfattast av lov 1. juni 2018 nr. 24 om nasjonal sikkerhet (sikkerhetsloven).Klasse BAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på landsdelsnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse CAnlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester på fylkesnivå eller større, eller for eit tilsvarande omfang av brukarar.Klasse DAnlegg som ikkje er omfatta av klassane A, B eller C.\nMed anlegg som er særs viktig for offentlege elektroniske kommunikasjonstenester meinast mellom anna anlegg med nettutstyr som er kritisk for:samtrafikk med elektroniske kommunikasjonsnett i utlandet,samtrafikk med nasjonale/regionale elektroniske kommunikasjonsnett,sentral dirigering og styring av elektronisk kommunikasjon,sentrale oppslags-, registrerings- eller databasetenester,kringkasting, ellerdrift og overvaking av utstyr nemnt i punkt 1.–5.\nNettilbydar skal revidere klassifiseringa minst årleg.\nI særlege tilfelle kan Nasjonal kommunikasjonsmyndigheit gjennom vedtak gjere om nettilbydar si klassifisering av anlegg.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Generelle krav til sikring",
+      "path": [],
+      "text": "Nettilbydar skal på forsvarleg måte sikre nettutstyr i anlegg mot uønskt ytre fysisk påverknad. Omfanget av sikringstiltak skal vere basert på ei dokumentert heilskapleg risiko- og sårbarheitsvurdering.\nSikringstiltak på og i anlegg skal minst oppfylle krava gitt i § 6 – § 12.\nNasjonal kommunikasjonsmyndigheit kan pålegge at nettilbydar gjennomfører tiltak som går utover krava i § 6 – § 12 dersom det er nødvendig for å oppfylle kravet til forsvarleg sikring, jf. første ledd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Skalsikring",
+      "path": [],
+      "text": "Nettilbydar skal gjennom forsvarleg skalsikring av anlegg hindre at uvedkommande kan ta seg fram til eller påføre skade på nettutstyr.\nAnlegg i klasse A, B og C skal ha skalsikring tilpassa anlegget sin klasse basert på relevante og forsvarlege normer eller standardar.\nFor anlegg i klasse A, B og C skal nettilbydar ha dokumenterte krav til etablering av skalsikring og dokumenterte rutinar for vedlikehald av skalsikringa.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Tilgangskontroll og innbrotsalarm",
+      "path": [],
+      "text": "Nettilbydar skal gjennom forsvarleg tilgangskontroll på anlegg sørgje for at personelltilgang til nettutstyr styrast av tenestlege behov.\nAnlegg i klasse A, B og C skal ha tilgangskontrollsystem tilpassa anlegget sin klasse og omfang av personelltilgang, og som er basert på relevante og forsvarlege normer eller standardar. Tilgangskontrollsystemet skal minst vere basert på to-faktor autentisering.\nAnlegg i klasse A, B og C skal ha innbrotsalarmsystem tilpassa anlegget sin klasse og omfang av skalsikring, basert på relevante og forsvarlege normer eller standardar. I innbrotsalarmsystemet skal det inngå responsapparat med moglegheit for utrykking.\nFor anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte drifts- og vedlikehaldsrutinar for tilgangskontroll- og innbrotsalarmsystema som inkluderer rutinar for å handtere systemsvikt og straumbrot.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Brannsikring",
+      "path": [],
+      "text": "Nettilbydar skal gjennom forsvarleg brannsikring på anlegg hindre skade på nettutstyr som følgje av brann.\nAnlegg i klasse A, B og C skal ha brannvarslings- og brannslukkingssystem tilpassa anlegget sin klasse, fysiske utforming og omgjevnad, basert på relevante og forsvarlege normer eller standardar.\nFor anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte drifts- og vedlikehaldsrutinar for brannvarslings- og brannslukkingssystemet som inkluderer rutinar for å handtere systemsvikt og straumbrot.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Sikring mot EMP/HPM-våpen",
+      "path": [],
+      "text": "Nettilbydar skal oppretthalde eksisterande sikring av nettutstyr mot EMP/HPM-våpen i anlegg i klasse A, B og C. Reduksjon av sikringsnivå kan godkjennast av Nasjonal kommunikasjonsmyndigheit.\nFør etablering av nytt anlegg, eller ombygging av eksisterande anlegg, i klasse A eller B, skal nettilbydar legge fram for Nasjonal kommunikasjonsmyndigheit ei kvalifisert vurdering av aktuelle sikringstiltak mot EMP/HPM-våpen.\nNasjonal kommunikasjonsmyndigheit kan pålegge nettilbydar å sikre nettutstyr mot EMP/HPM-våpen.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Hjelpeteknisk utstyr",
+      "path": [],
+      "text": "Nettilbydar skal sørgje for forsvarleg driftssikkerheit til hjelpeteknisk utstyr.\nAnlegg i klasse A og B skal ha tilgang til tilstrekkeleg hjelpeteknisk utstyr i reserve for å oppretthalde drift av nettutstyr ved svikt i det hjelpetekniske utstyret.\nAnlegg i klasse A og B skal ha reservestraumforsyning som utan avbrot kan forsyne nettutstyr med tilstrekkeleg straum i minst tre døgn. Anlegg i klasse C skal ha reservestraumforsyning som utan avbrot kan forsyne nettutstyr med tilstrekkeleg straum i minst to døgn.\nFor anlegg i klasse A, B, og C skal nettilbydar ha dokumenterte og forsvarlege drifts- og vedlikehaldsrutinar for hjelpeteknisk utstyr, som inkluderer rutinar for å handtere systemsvikt og eventuell transport av drivstoff og mobilt utstyr.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Lokalisering",
+      "path": [],
+      "text": "Nettilbydar skal ved etablering av anlegg lokalisere anlegget slik at risikoen for skade på nettutstyr frå omgjevnadane blir minst mogleg.\nFor anlegg i klasse A og B, og ved etablering av nytt anlegg i klasse A eller B, skal nettilbydar også innhente relevant dokumentasjon om risikoen for skade på nettutstyr frå omgjevnadane, som inkluderer risiko- og sårbarheitsvurderingar gjennomført av lokale beredskapsmyndigheiter.\nDer anlegg i klasse A og B likevel er, eller vil bli, etablert i omgjevnadar som medfører høg risiko for skade på nettutstyr skal nettilbydar sikre anlegget særskilt mot den identifiserte risikoen.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Samlokalisering",
+      "path": [],
+      "text": "Dersom det på anlegg i klasse A, B eller C er samlokalisering, skal nettilbydar gjennomføre ei dokumentert og forsvarleg vurdering av om eiget nettutstyr i anlegget skal sikrast særskilt mot ytre fysisk påverknad frå andre samlokaliseringsaktørar. Vurderinga kan ta omsyn til sikringstiltaka elles på anlegget.\nNettilbydar skal sikre eiget nettutstyr i samsvar med vurderinga i første ledd.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Eksterne aktørar",
+      "path": [],
+      "text": "Der andre aktørar på vegne av nettilbydar utfører tiltak etter § 5 – § 12 på anlegg i klasse A, B eller C, er nettilbydar ansvarleg for at det ligg føre skriftlege avtalar som sikrar utføringa av desse tiltaka. Slike avtalar skal ikkje vere til hinder for at nettilbydar eller Nasjonal kommunikasjonsmyndigheit kan føre tilsyn med utføringa av tiltaka.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Rapportering",
+      "path": [],
+      "text": "Nettilbydar skal rapportere til Nasjonal kommunikasjonsmyndigheit oversyn over anlegga i klassane A, B og C, inkludert vurderinga som ligg til grunn for klassifiseringa. Rapportering skal skje ved den første klassifiseringa og deretter når Nasjonal kommunikasjonsmyndigheit krev det. Nasjonal kommunikasjonsmyndigheit kan fastsette retningslinjer for rapporteringa.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Tilsyn, pålegg og sanksjonar",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndigheit fører tilsyn med føresegnene i denne forskrifta, jf. ekomlova § 15-1.\nNasjonal kommunikasjonsmyndigheit kan gi pålegg om retting av forhold for å sikre samsvar med krav fastsett i denne forskrifta, jf. ekomlova § 15-5.\nBrot på krava i denne forskrifta kan føre til tvangsmulkt, jf. ekomlova § 15-11, brotsgebyr, jf. ekomlova § 15-12 første ledd bokstav b. eller straff, jf. ekomlova § 15-14.",
+      "xml_path": "article#paragraf-15"
+    },
+    {
+      "section_id": "paragraf-16",
+      "provision_ref": "§ 16",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Nasjonal kommunikasjonsmyndigheit kan i særlege tilfelle gjere unntak frå forskrifta eller frå føresegner i denne forskrifta.",
+      "xml_path": "article#paragraf-16"
+    },
+    {
+      "section_id": "paragraf-17",
+      "provision_ref": "§ 17",
+      "heading": "Klageinstans",
+      "path": [],
+      "text": "Klage over enkeltvedtak fatta av Nasjonal kommunikasjonsmyndigheit i medhald av denne forskrifta avgjerast av departementet, jf. ekomlova §§ 16-6 syvende ledd og 16-7.",
+      "xml_path": "article#paragraf-17"
+    },
+    {
+      "section_id": "paragraf-18",
+      "provision_ref": "§ 18",
+      "heading": "Ikraftsetjing",
+      "path": [],
+      "text": "Forskrifta trer i kraft 1. januar 2013.",
+      "xml_path": "article#paragraf-18"
+    },
+    {
+      "section_id": "paragraf-19",
+      "provision_ref": "§ 19",
+      "heading": "Fristar for gjennomføring",
+      "path": [],
+      "text": "Klassifisering, jf. § 4, og rapportering, jf. § 14, skal vere gjennomført seinast 1. april 2013.\nTiltak etter § 5 – § 13 skal vere gjennomført seinast 1. juli 2014.\nNasjonal kommunikasjonsmyndigheit kan gi utsetjing med å oppfylle krava i denne forskrifta.",
+      "xml_path": "article#paragraf-19"
+    }
+  ]
+}

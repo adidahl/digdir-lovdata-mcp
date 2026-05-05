@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2000-12-07-1233",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om ventelisteregistrering",
+  "short_title": "Forskrift om ventelisteregistrering",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2001-01-01",
+  "last_change_in_force": "2024-06-01",
+  "last_changed_by": "forskrift/2024-05-23-813 fra 2024-06-01",
+  "lovdata_refid": "forskrift/2000-12-07-1233",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-12-07-1233",
+  "raw_xml_sha256": "b89e12039e3b72a7878781cd07f661b3d0845cb654a58e78a14b97d8c04e334d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskrift gjelderSomatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som et regionalt helseforetak har inngått avtale om tjenesteyting med i henhold til spesialisthelsetjenesteloven § 2-1a tredje ledd.Somatiske og psykiatriske sykehus og poliklinikker og distriktspsykiatriske sentra som eies av et regionalt helseforetak.Institusjoner som tilbyr tverrfaglig spesialisert behandling for rusmiddelavhengighet og som eies av, eller som har inngått avtale som nevnt i nr. 1 med, et regionalt helseforetak.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjon av venteliste",
+      "path": [],
+      "text": "Med venteliste menes i denne forskriften digitalt register med ordnede opplysninger om pasienter som venter på oppstart av helsehjelpen, jf. § 5.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ventelisteregistrering",
+      "path": [],
+      "text": "Institusjon som faller inn under § 1, skal føre venteliste over pasienter med rett til nødvendig helsehjelp etter pasient- og brukerrettighetsloven § 2-2 andre ledd. Dersom den aktuelle helsehjelpen ytes på flere, geografisk atskilte, behandlingssteder i institusjonen, skal det føres venteliste for hvert behandlingssted.\nTidsfristen for når helsehjelpen senest skal være påbegynt etter pasient- og brukerrettighetsloven § 2-2a andre ledd skal fremgå av ventelisten. Videre skal det fremgå om det søkes om innleggelse, dagbehandling eller poliklinisk behandling.\nPasienter som trenger øyeblikkelig hjelp, jf. pasient- og brukerrettighetsloven § 2-2 første ledd, skal ikke registreres på venteliste.\nHenvisninger registreres på mottaksdato. Mottaksdato er den dag henvisningen er mottatt av institusjonen. Dersom henvisningen er sendt fra en annen institusjon, registreres også en ansiennitetsdato. Ansiennitetsdato er mottaksdato ved den første institusjonen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Oppdatering av ventelistene",
+      "path": [],
+      "text": "Institusjonen skal til enhver tid holde ventelistene oppdatert. Ventetiden slutter den dato helsehjelpen påbegynnes. Pasienter som ikke lenger er aktuelle for den planlagte helsehjelpen, skal heller ikke regnes som ventende lenger.\nDe pasientene som har vært registrert på venteliste i seks måneder bør kontaktes med forespørsel om henvisningen fortsatt er aktuell.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Rapportering til departementet",
+      "path": [],
+      "text": "De regionale helseforetakene skal sørge for elektronisk rapportering av ventelistedata til departementet hvert tertial. For institusjoner som yter tverrfaglig spesialisert behandling for rusmiddelavhengighet, skal rapportering skje elektronisk.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2001. Fra samme tidspunkt oppheves forskrift av 27. juni 1997 nr. 654 om ventetidsgaranti.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

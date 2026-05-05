@@ -1,0 +1,125 @@
+{
+  "id": "FOR-2026-02-04-165",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til vekter og automatiske veiesystemer til bruk ved landing av fisk",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2028-01-01",
+  "lovdata_refid": "forskrift/2026-02-04-165",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2026-02-04-165",
+  "raw_xml_sha256": "798c3c00853153f08bbb176feee4ef26fd6253cd05ba1c9e533d7622e4a11b10",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Denne forskriften fastsetter krav til vekter og automatiske veiesystemer som brukes ved landing av fisk.\nKrav om at mottager av fisk skal ha et automatisk veiesystem følger av forskrift 6. mai 2014 nr. 607 om landings- og sluttseddel (landingsforskriften).\nDersom det er gitt dispensasjon etter § 6a i landingsforskriften, gjelder ikke kravene i §§ 5 til 7 i denne forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Med automatisk veiesystem menes et system som består av en eller flere vekter samt andre komponenter som er nødvendige for å sikre at all fisk som landes blir veid, og at nødvendige data lagres og overføres automatisk.\nMed automatisk menes at prosessen skjer uten inngripen fra en operatør.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Hvem som er ansvarlig",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Bruker av et automatisk veiesystem er ansvarlig for at kravene i kap. 2 i denne forskriften etterleves. Bruker er videre ansvarlig for at teknisk dokumentasjon som er nødvendig for å kunne vurdere at kravene er oppfylt, er tilgjengelig.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til selgere av måleredskaper",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Den som gjør en vekt til bruk ved landing av fisk tilgjengelig på markedet, skal informere Justervesenet om hvem som er kjøper, samt om vekttype, brukssted og bruksformål.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Lagring og overføring av data",
+      "path": [
+        "Kapittel 2. Krav til automatiske veiesystem"
+      ],
+      "text": "Veiesystemet skal sørge for automatisk lagring og overføring av veiedata, samt automatisk lagring av data om hendelser i veiesystemet som kan virke inn på veieresultatet.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Feilhåndtering",
+      "path": [
+        "Kapittel 2. Krav til automatiske veiesystem"
+      ],
+      "text": "Veiesystemet skal ha funksjoner for å lagre og overføre informasjon om feil som oppstår ved bruk av vekten. Veiesystemet må i tillegg ha en integrert funksjon for å kunne melde inn, rette opp og sende inn ny versjon ved feil og mangler i overførte data. Allerede registrerte data skal ikke kunne endres.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Datakvalitet, dataintegritet og tilgjengelighet",
+      "path": [
+        "Kapittel 2. Krav til automatiske veiesystem"
+      ],
+      "text": "Veiesystemet skal sikre høy datakvalitet og dataintegritet. Komponenter og programvare i veiesystemet som har avgjørende betydning for å lagre veiedata og hendelser i veiesystemet, skal være konstruert slik at de er sikret mot manipulering og utilsiktet feilbruk. De anvendte sikkerhetstiltakene skal gjøre det mulig å påvise om inngrep har funnet sted. Alle hendelser og informasjon om gjennomførte veiinger skal lagres sammen med et sikkert tidsstempel.\nLagrede veiedata og data om hendelser i vekten skal sikres slik at dataene ikke går tapt.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "Krav til vekter i veiesystemet",
+      "path": [
+        "Kapittel 2. Krav til automatiske veiesystem"
+      ],
+      "text": "Vekt som brukes ved landing av fisk skal ha hovedvisningsenhet plassert slik at det er fysisk mulig å følge med på denne, herunder at veid kvantum mv. skal kunne avleses og betjenes fortløpende og direkte, samtidig som aktivitet på eller rundt vekten kan følges med på.\nVeid kvantum landet fisk skal kunne avleses fortløpende. Bruker skal etter andre menyvalg umiddelbart sette vekten tilbake til avlesningsmodus.\nVektene skal være utstyrt med sikringsmekanismer som angitt i typeprøvingsdokumentet. Der det benyttes fysiske plomber skal disse ha et unikt identitetsmerke.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "Tilleggskrav til automatiske vekter",
+      "path": [
+        "Kapittel 2. Krav til automatiske veiesystem"
+      ],
+      "text": "En automatisk vekt skal ha minst én sekundær visningsenhet (slavedisplay) som gjentar visningen av veieresultatet fra hovedvisningsenheten. Sekundær visningsenhet skal ikke ha funksjoner som kan påvirke veieresultatet. Sekundær visningsenhet skal ha lik oppløsning som hovedvisningsenheten.\nEn automatisk vekt skal ha mer enn ett telleverk, hvor det ene skal være en totalteller som løper kontinuerlig og som ikke kan nullstilles.\nEn automatisk vekt skal ha funksjoner som avdekker registrerbare feil. Dersom slike feil avdekkes, skal tilførsel av fisk til vekten stoppe automatisk.\nTransportbåndvekter skal nullstilles ved oppstart og minst hvert 30. minutt. Dersom dette ikke gjøres, skal tilførsel av fisk til vekten stoppe automatisk.\nTransportbåndvekter og summerende beholdervekter skal ha tvangskjøringsbryter.\nTvangskjøringsbryter og styresystem som er tilknyttet en automatisk vekt skal være sikret slik at måleresultatet ikke kan påvirkes uten at dette etterlater seg varige spor. Der det benyttes fysiske plomber skal disse ha unikt identitetsmerke.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Overtredelsesgebyr",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av denne forskriften kan medføre pålegg om overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften gjelder fra 1. januar 2028.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    }
+  ]
+}

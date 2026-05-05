@@ -1,0 +1,258 @@
+{
+  "id": "FOR-2006-03-31-378",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om offentlige undersøkelser av jernbaneulykker og alvorlige jernbanehendelser m.m. (jernbaneundersøkelsesforskriften).",
+  "short_title": "Jernbaneundersøkelsesforskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2006-04-30",
+  "last_change_in_force": "2022-06-01",
+  "last_changed_by": "forskrift/2021-09-03-2675 fra 2022-06-01",
+  "lovdata_refid": "forskrift/2006-03-31-378",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-03-31-378",
+  "raw_xml_sha256": "5691e03eb04b275dba28281c9c24939364be2aa23a37a34e4e3e12fd05f16d1c",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder jernbaneulykker og alvorlige jernbanehendelser med jernbane som omfattes av jernbaneloven.\nKabelbane anses ikke som jernbane etter jernbaneundersøkelsesloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Myndighetene",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Følgende instanser er tillagt myndighet/oppgaver i henhold til denne forskriften:Statens havarikommisjon er undersøkelsesmyndighet.Statens jernbanetilsyn er tilsynsmyndigheten.Samferdselsdepartementet er departementet.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "I denne forskriften menes med:Undersøkelse: Framgangsmåte etter en jernbaneulykke eller alvorlig jernbanehendelse med henblikk på å forebygge slike ulykker eller hendelser, og som omfatter innsamling og analyse av opplysninger, utarbeidelse av konklusjoner, herunder bestemmelse av årsaker, samt formulering av eventuelle sikkerhetstilrådinger.Årsaker: Handlinger, unnlatelser, hendelser eller omstendigheter, eller en kombinasjon av disse, som fører til jernbaneulykken eller jernbanehendelsen.Byrået: Den europeiske unions jernbanebyrå.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Begrepet jernbaneulykke og alvorlig jernbanehendelse",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "I begrepet jernbaneulykke etter jernbaneundersøkelsesloven § 5 inngår definisjonene i direktiv 2004/49/EF artikkel 3 bokstavene k og l.\nI begrepet alvorlig jernbanehendelse etter jernbaneundersøkelsesloven § 5 inngår også tekniske feil i de strukturelle delsystemene eller i samtrafikkomponenter i de transeuropeiske jernbanesystemene for høyhastighetstog og konvensjonelle tog.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Undersøkelsesmyndighetens oppgave og formål",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Undersøkelsesmyndighetens oppgave er å undersøke jernbaneulykker og alvorlige jernbanehendelser, med formål å forbedre jernbanesikkerheten og forebygge jernbaneulykker.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Undersøkelsesplikt og undersøkelsens omfang",
+      "path": [
+        "Kapittel I. Innledende bestemmelser"
+      ],
+      "text": "Undersøkelsesmyndigheten skal undersøke jernbaneulykker og alvorlige jernbanehendelser.\nUndersøkelsesmyndigheten fastsetter selv omfanget av undersøkelsene og framgangsmåten som skal følges ved gjennomføringen av slike undersøkelser. Ved vurderingen skal det bl.a. tas hensyn til prinsippene og målene som er gitt i jernbaneundersøkelsesloven og i denne forskrift, og hvilken lærdom undersøkelsen forventes å gi med tanke på å forbedre sikkerheten.\nI beslutningen om det skal gjennomføres en fullstendig undersøkelse skal undersøkelsesmyndigheten bl.a. ta hensyn til:hvor alvorlig jernbaneulykken eller jernbanehendelsen er,om jernbaneulykken eller jernbanehendelsen inngår i en serie av ulykker eller hendelser av betydning for jernbanesystemet som helhet,jernbaneulykkens eller jernbanehendelsens innvirkning på jernbanesikkerheten i EØS-området,anmodninger fra infrastrukturforvaltninger, jernbaneforetak, øvrige jernbanevirksomheter, samt tilsyns- og sikkerhetsmyndigheter eller EØS-stater.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Varsling av jernbaneulykke og alvorlig jernbanehendelse til undersøkelsesmyndigheten",
+      "path": [
+        "Kapittel II. Varsling og igangsetting av undersøkelse av jernbaneulykker og alvorlige jernbanehendelser"
+      ],
+      "text": "Undersøkelsesmyndigheten mottar varsel om jernbaneulykke og alvorlig jernbanehendelse i henhold til varslings- og rapporteringsforskriften. Undersøkelsesmyndigheten varsler tilsynsmyndigheten.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 8",
+      "heading": "Igangsetting av undersøkelser",
+      "path": [
+        "Kapittel II. Varsling og igangsetting av undersøkelse av jernbaneulykker og alvorlige jernbanehendelser"
+      ],
+      "text": "Når varsel om jernbaneulykke eller alvorlig jernbanehendelse er mottatt av undersøkelsesmyndigheten, skal den treffe de tiltak som er nødvendige for å starte undersøkelsen umiddelbart og ikke senere enn én uke etter at den har mottatt varselet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Rettigheter for dem saken angår",
+      "path": [
+        "Kapittel III. Underretning og varsel til parter og myndigheter mv."
+      ],
+      "text": "Undersøkelsesmyndigheten fastsetter nærmere hvordan underretning om undersøkelse etter jernbaneundersøkelsesloven § 16 skal gjennomføres. Berørte nevnt i jernbaneundersøkelsesloven § 16 skal gjøres kjent med sine rettigheter og at de kan anmode om å få utkast til rapport til uttalelse i henhold til jernbaneundersøkelsesloven § 20.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Varsling til tilsynsmyndigheten",
+      "path": [
+        "Kapittel III. Underretning og varsel til parter og myndigheter mv."
+      ],
+      "text": "Undersøkelsesmyndigheten varsler tilsynsmyndigheten når den igangsetter undersøkelse av jernbaneulykker eller alvorlige jernbanehendelser.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "(Underretning til byrået)",
+      "path": [
+        "Kapittel III. Underretning og varsel til parter og myndigheter mv."
+      ],
+      "text": "Innen en uke etter at det er truffet beslutning om å innlede en undersøkelse, skal undersøkelsesmyndigheten underrette byrået om dette. Underretningen skal angi dag, tidspunkt og sted for jernbaneulykken eller jernbanehendelsen samt dens art og konsekvenser med hensyn til drepte, skadede og materielle skader.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 12",
+      "heading": "Undersøkelsesrapport",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Når undersøkelsesmyndigheten har undersøkt en jernbaneulykke eller alvorlig jernbanehendelse, skal den utarbeide en rapport som redegjør for hendelsesforløpet og inneholder undersøkelsesmyndighetens uttalelse om årsaksforholdene. Rapporten skal opplyse om formålet med undersøkelsen, jf. § 5, og inneholde så langt det er formålstjenelig sikkerhetstilrådinger i henhold til jernbaneundersøkelsesloven § 19 første ledd.\nRapporten skal ha en hensiktsmessig form i forhold til jernbaneulykken eller jernbanehendelsens art og alvorlighetsgrad, og for betydningen av resultatene av undersøkelsen. Forordning (EU) 2020/572 av 24. april 2020 om rapporteringsstrukturen som skal følges for undersøkelsesrapporter om jernbaneulykker og -hendelser gjelder som forskrift med de tilpasninger som fremgår av EØS-avtalen vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.\nRapporten skal ikke inneholde referanser til enkeltpersoners navn eller adresse.\nByrået og berørte nevnt i jernbaneundersøkelsesloven § 16 skal gis anledning til å fremlegge relevant teknisk informasjon med sikte på å forbedre kvaliteten på undersøkelsesrapporten.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 13",
+      "heading": "Sikkerhetstilrådinger",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "En sikkerhetstilrådning utarbeidet av undersøkelsesmyndigheten skal ikke i noe tilfelle utgjøre en formodning om skyld eller ansvar for en jernbaneulykke eller alvorlig jernbanehendelse.\nSikkerhetstilrådinger skal rettes til tilsynsmyndigheten og, dersom det er nødvendig på grunn av tilrådingens art, til byrået, til andre organer eller myndigheter i Norge eller til andre EØS-stater.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 14",
+      "heading": "Behandling av utkast til undersøkelsesrapport som er unntatt fra offentlighet",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Før undersøkelsesmyndigheten sluttbehandler rapporten, skal et utkast til rapport forelegges for de berørte nevnt i jernbaneundersøkelsesloven § 16 første ledd med en rimelig frist til å gi uttalelse, med mindre særlige forhold tilsier at dette ikke gjøres. Videre skal tilsynsmyndigheten forelegges utkastet til rapport, med rimelig frist til å uttale seg. Retten etter første punktum gjelder bare de delene av utkastet til rapport som vedkommende på grunn av sin tilknytning til saken eller undersøkelsen har særlige forutsetninger for å uttale seg om.\nUndersøkelsesmyndighetens utkast til rapport er ikke offentlig, jf. jernbaneundersøkelsesloven § 21.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 15",
+      "heading": "Offentliggjøring av rapport",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Undersøkelsesmyndigheten skal offentliggjøre den endelige rapporten så raskt som mulig og vanligvis ikke senere enn 12 måneder etter at jernbaneulykken eller den alvorlige jernbanehendelsen fant sted. Rapporten, med eventuelle sikkerhetstilrådinger, skal oversendes berørte parter, herunder berørte parter og organer i andre EØS-stater.\nDersom rapporten ikke er ferdig innen 12 måneder, skal undersøkelsesmyndigheten som minimum på hver årsdag for ulykken avgi en foreløpig rapport som angir utviklingen av undersøkelsen og de sikkerhetsspørsmål som er aktuelle i forbindelse med saken. Undersøkelsesmyndigheten avgjør selv i hvilken form den ønsker å avgi en slik foreløpig rapport, og hvordan den skal publiseres.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 16",
+      "heading": "Oppfølging av rapporter og sikkerhetstilrådinger",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Undersøkelsesmyndigheten sender rapportene til departementet, som treffer de nødvendige tiltak for å sikre at det tas behørig hensyn til sikkerhetstilrådingene.\nTilsynsmyndigheten skal vurdere rapportene med tanke på å identifisere og iverksette tiltak som kan bedre jernbanesikkerheten. Tilsynsmyndigheten kan gi pålegg om oppfølging av sikkerhetstilrådingene til den som driver jernbanevirksomhet etter jernbaneloven.\nByrået, tilsynsmyndigheten og andre myndigheter eller organer eller eventuelt andre EØS-stater som sikkerhetstilrådingene er rettet til, skal minst to ganger i året gi tilbakemelding til undersøkelsesmyndigheten om vedtatte og planlagte tiltak som følge av tilrådingene. Departementet kan gi tilsynsmyndigheten i oppgave å koordinere slike tilbakemeldinger. Tilbakemeldingene sendes via departementet som sender disse til undersøkelsesmyndigheten.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 17",
+      "heading": "Årlige rapporter",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Undersøkelsesmyndighetene skal hvert år innen 30. september offentliggjøre en rapport som redegjør for de undersøkelser som er gjennomført året før, inkludert sikkerhetstilrådinger og tiltak som er truffet i samsvar med tidligere sikkerhetstilrådinger.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 18",
+      "heading": "Oversendelse av rapporter til byrået",
+      "path": [
+        "Kapittel IV. Rapporter"
+      ],
+      "text": "Undersøkelsesmyndigheten skal sende byrået en kopi av den endelige rapporten nevnt i § 15 og av den årlige rapporten nevnt i § 17.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 19",
+      "heading": "Gjennomføring av undersøkelser i EØS-området – bistand mv.",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Dersom det ikke er mulig å fastslå hvilken EØS-stat en jernbaneulykke eller en alvorlig jernbanehendelse er oppstått i, eller dersom den inntraff på eller nær grensen mellom Norge og Sverige, avgjør de aktuelle undersøkelsesmyndigheter sammen hvem av dem som skal gjennomføre undersøkelsen, eller de kan beslutte å gjennomføre den i fellesskap. I det første tilfellet skal den andre undersøkelsesmyndigheten få mulighet til å delta i undersøkelsen og få tilgang til alle resultatene av denne.\nNår et jernbaneforetak som er etablert og lisensiert, eller når et kjøretøy som er registrert eller vedlikeholdes, i en annen EØS-stat er involvert i en jernbaneulykke eller alvorlig jernbanehendelse i Norge, skal undersøkelsesmyndigheten fra den aktuelle EØS-staten inviteres til å delta i undersøkelsen.\nUndersøkelsesorganer fra inviterte EØS-stater skal gis slik myndighet som er nødvendig for at de skal kunne bistå en annen EØS-stats undersøkelsesorgan ved innsamlingen av bevis til når de blir bedt om det, samt gis tilgang til de opplysningene og bevisene som er nødvendig for at de kan delta effektivt i undersøkelsen, med behørig respekt for den nasjonale lovgivningen som vedrører rettergangen.\nUndersøkelsesmyndigheten kan gjennomføre undersøkelser i samarbeid med tilsvarende myndigheter i andre EØS-stater, også i andre tilfeller enn de som er nevnt i første og annet ledd.\nNår undersøkelsesmyndigheten er ansvarlig for undersøkelsen, skal den sørge for at de nødvendige midler stilles til rådighet, herunder den driftsmessige og tekniske sakkunnskap som er nødvendig for gjennomføringen av undersøkelsen.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 20",
+      "heading": "Bruk av eksperter og annen fagkunnskap",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Undersøkelsesmyndigheten kan i forbindelse med undersøkelser anmode om opplysninger og bistand fra andre offentlige myndigheter, samt benytte nødvendig sakkyndig bistand i forbindelse med utredningen av den enkelte sak.\nUndersøkelsesmyndigheten kan også anmode undersøkelsesmyndigheter fra andre EØS-stater eller byrået om bistand med fagkunnskap eller med gjennomføringen av tekniske undersøkelser, analyser og vurderinger.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 21",
+      "heading": "Utveksling av fagkunnskap mv.",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Undersøkelsesmyndigheten skal aktivt utveksle synspunkter og erfaringer med tilsvarende undersøkelsesmyndigheter i andre EØS-stater med henblikk på å utarbeide felles undersøkelsesmetoder og felles prinsipper for oppfølging av sikkerhetstilrådinger og med henblikk på å tilpasse seg den tekniske og vitenskapelige utviklingen.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 22",
+      "heading": "Saksbehandlingsregler",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Forvaltningslovens regler, herunder habilitetsreglene i kapittel II, gjelder for undersøkelsesmyndighetens virksomhet, i den grad det ikke er gjort unntak i jernbaneundersøkelsesloven.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 23",
+      "heading": "Andre oppgaver",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Departementet kan etter samråd med undersøkelsesmyndigheten, gi undersøkelsesmyndigheten spesielle oppgaver som har jernbanesikkerhetsmessig målsetting.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 24",
+      "heading": "Ikrafttredelse mv.",
+      "path": [
+        "Kapittel VI. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskriften trer i kraft 30. april 2006. Fra samme tidspunkt oppheves forskrift 29. januar 2002 nr. 122 om offentlige undersøkelser av jernbaneulykker og alvorlige jernbanehendelser.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    }
+  ]
+}

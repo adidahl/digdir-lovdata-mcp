@@ -1,0 +1,50 @@
+{
+  "id": "FOR-1958-01-31-9412",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning og innbetaling av avgift på omsetning av fisk til pensjonstrygden for fiskere",
+  "short_title": "Forskrift om omsetningsavgift for fisk",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1958-01-01",
+  "last_change_in_force": "2023-01-01",
+  "last_changed_by": "forskrift/2022-12-20-2298 fra 2023-01-01",
+  "lovdata_refid": "forskrift/1958-01-31-9412",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1958-01-31-9412",
+  "raw_xml_sha256": "63fb57d1dad5a872523e8af3925105d738f1d5d3f5a21222bab4f579c8169f22",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Beregning",
+      "path": [],
+      "text": "Avgiften på omsetning av fisk (herunder sild, brisling og skalldyr) til pensjonstrygden for fiskere skal beregnes av omsetningsbeløpet på førstehånd ved de salgsorganisasjoner som er godkjent i medhold av lov om førstehandsomsetning av viltlevande marine ressursar (fiskesalslagslova) § 4.\nMed omsetningsbeløpet på førstehånd menes det beløp som utbetales fiskerne for fangsten, dvs. eksklusive avgifter som betales til organisasjonene i medhold av fiskesalslagslova og utgifter i forbindelse med tilvirkningen av fangsten, emballasje mv., når tilvirkningen foretas av fiskerne eller vedkommende salgsorganisasjon samt førings- og omlastingsutgifter som belastes fiskerne.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Avgiftens størrelse",
+      "path": [],
+      "text": "Avgiften er 0,4 prosent.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Innbetaling",
+      "path": [],
+      "text": "Avgiften skal innbetales uoppkrevet til Garantikassen for fiskere, senest 1 – en måned etter regnskapsårets utgang for vedkommende organisasjon. Ved innbetaling av beløpet skal det gis oppgave som er bekreftet av organisasjonens revisor over det samlede omsetningsbeløp for den periode avgiftsbeløpet gjelder.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Disse regler gis virkning fra 1. januar 1958.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

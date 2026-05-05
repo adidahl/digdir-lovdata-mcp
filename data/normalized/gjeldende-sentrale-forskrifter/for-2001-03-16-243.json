@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2001-03-16-243",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utvidelse av oppdrettslovens virkeområde.",
+  "short_title": "Forskrift om utvidelse av oppdrettsloven",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2001-03-16",
+  "lovdata_refid": "forskrift/2001-03-16-243",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-03-16-243",
+  "raw_xml_sha256": "73df364cd3093e1d4576a85d4dd9051b857d33c2b8d468a52608ccdcd06d0c23",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Lov av 14. juni 1985 nr. 68 om oppdrett av fisk, skalldyr m.v. omfatter også pigghuder.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

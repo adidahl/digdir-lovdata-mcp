@@ -1,0 +1,425 @@
+{
+  "id": "FOR-2016-04-13-373",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om omsetning og dokumentasjon av heiser og sikkerhetskomponenter for heiser",
+  "short_title": "Forskrift om omsetning og dokumentasjon av heiser mv.",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2016-04-13",
+  "lovdata_refid": "forskrift/2016-04-13-373",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2016-04-13-373",
+  "raw_xml_sha256": "987ea166e76f7534df55a42e98cfec265851d148e28a2813d06e881a7b4f3647",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften skal sikre at heiser og sikkerhetskomponenter for heiser som settes i drift for første gang er i forsvarlig stand for å på den måten forebygge skade på liv, helse og materielle verdier.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I. Alminnelige bestemmelser"
+      ],
+      "text": "Denne forskriften gjelder for heiser som permanent betjener bygninger og anlegg, og som er beregnet på transport avpersonerpersoner og varerbare varer dersom heisstolen er tilgjengelig, dvs. at en person uten vanskeligheter kan komme seg på den, og utstyrt med betjeningsinnretning som er plassert på heisstolen eller kan nås av en person på heisstolen.\nForskriften får også anvendelse på sikkerhetskomponenter for heiser som er angitt i vedlegg III for bruk i heiser som angitt i første ledd.\nDenne forskriften får ikke anvendelse påløfteinnretninger med en hastighet som ikke overskrider 0,15 m/sbyggeplassheisertaubaner, herunder kabelbanerheiser som er spesialkonstruert og -bygd for militære formål eller politiformålløfteinnretninger fra hvilke det kan utføres arbeidheiser i gruvesjakterløfteinnretninger beregnet på å løfte de opptredende under kunstneriske opptredenerløfteinnretninger installert i transportmidlerløfteinnretninger i tilknytning til maskiner, som utelukkende er beregnet på å gi adgang til arbeidsstasjonene, herunder vedlikeholds- og kontrollpunkter på maskinen,tannhjulsdrevne togrulletrapper og rullende fortau.\nDersom farer forbundet med heiser eller sikkerhetskomponenter nevnt i denne forskrift helt eller delvis er omfattet av et særlig EØS-harmoniseringsregelverk, får denne forskriften ikke anvendelse.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I. Alminnelige bestemmelser"
+      ],
+      "text": "I denne forskrift menes med:heis: en løfteinnretning som betjener fastlagte nivåer ved hjelp av en heisstol som beveger seg langs stive føringsskinner og heller mer enn 15 grader i forhold til et vannrett plan, eller en løfteinnretning som beveger seg langs en fastlagt bane, også når den ikke beveger seg langs stive føringsskinnerheisstol: en del av heisen som bærer personer og/eller varer som skal løftes eller senkestypeheis: en representativ heis hvis tekniske dokumentasjon viser på hvilken måte de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I vil bli oppfylt for heiser som er i samsvar med typeheisen definert ved hjelp av objektive parametere, og som bruker identiske sikkerhetskomponentergjøre tilgjengelig på markedet: enhver levering av en sikkerhetskomponent for distribusjon eller bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratisbringe i omsetning:gjøre en sikkerhetskomponent tilgjengelig for første gang, ellerlevering av en heis for bruk innenfor EØS i forbindelse med kommersiell virksomhet, mot betaling eller gratis,installatør: den fysiske eller juridiske person som har ansvaret for konstruksjonen, produksjonen, installasjonen og omsetningen av heisenprodusent: en fysisk eller juridisk person som produserer en sikkerhetskomponent eller får en sikkerhetskomponent konstruert eller produsert, og som markedsfører den under sitt navn eller varemerkerepresentant: enhver fysisk eller juridisk person etablert innenfor EØS som har fått skriftlig fullmakt fra en installatør eller produsent til å handle på dennes vegne i forbindelse med nærmere angitte oppgaverimportør: enhver fysisk eller juridisk person som er etablert i EØS og som bringer en sikkerhetskomponent fra en tredjestat i omsetning innenfor EØSdistributør: enhver fysisk eller juridisk person i omsetningskjeden, bortsett fra produsenten eller importøren, som gjør sikkerhetskomponenter tilgjengelig på markedetmarkedsdeltakere: installatøren, produsenten, representanten, importøren og distributørenteknisk spesifikasjon: et dokument der de tekniske kravene til en heis eller en sikkerhetskomponent er beskrevetharmonisert standard: en harmonisert standard som definert i artikkel 2 nr. 1 bokstav c) i forordning (EU) nr. 1025/2012akkreditering: en akkreditering som definert i artikkel 2 nr. 10 i forordning (EF) nr. 765/2008nasjonalt akkrediteringsorgan: et nasjonalt akkrediteringsorgan som definert i artikkel 2 nr. 11 i forordning (EF) nr. 765/2008samsvarsvurdering: en prosess som viser om de grunnleggende helse- og sikkerhetskravene i denne forskriften med hensyn til en heis eller en sikkerhetskomponent er oppfyltteknisk kontrollorgan: et organ som utfører samsvarsvurderingsvirksomhet, herunder kalibrering, prøving, sertifisering og inspeksjontilbakekalling: når det gjelder heiser, alle tiltak som tar sikte på å demontere en heis og disponere den på en sikker måte, og når det gjelder sikkerhetskomponenter, alle tiltak som tar sikte på å levere tilbake en sikkerhetskomponent som allerede er gjort tilgjengelig for installatøren eller sluttbrukerentilbaketrekking: alle tiltak som tar sikte på å hindre at en sikkerhetskomponent i omsetningskjeden blir gjort tilgjengelig på markedetEØS-harmoniseringsregelverk: alt EØS-regelverk som harmoniserer vilkårene for markedsføring av produkterCE-merking: merking der installatøren eller produsenten angir at heisen eller sikkerhetskomponenten er i samsvar med gjeldende krav fastsatt i EØS-harmoniseringsregelverk om påføring av slik merking.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Omsetning, tilgjengeliggjøring på markedet og ibruktaking og grunnleggende helse- og sikkerhetskrav",
+      "path": [
+        "Kapittel I. Alminnelige bestemmelser"
+      ],
+      "text": "Heiser som er i samsvar med denne forskriften skal fritt kunne omsettes og tas i bruk. Sikkerhetskomponenter som er i samsvar med denne forskriften skal fritt kunne gjøres tilgjengelig på markedet.\nHeiser eller sikkerhetskomponenter som ikke er i samsvar med denne forskriften kan fremvises på messer, utstillinger eller demonstrasjoner, forutsatt at et synlig skilt klart angir at de ikke er i samsvar med denne forskrift og ikke kan bringes i omsetning eller gjøres tilgjengelig på markedet før slikt samsvar er oppnådd. Under demonstrasjoner skal det treffes forsvarlige sikkerhetstiltak slik at personer er forsvarlig vernet.\nHeisene omfattet av denne forskriften, kan bringes i omsetning og tas i bruk bare dersom de er i samsvar med denne forskriften når de er forsvarlig installert og vedlikeholdt og brukt til det formål de er beregnet på.\nSikkerhetskomponenter omfattet av denne forskriften, kan gjøres tilgjengelig på markedet og tas i bruk bare dersom de er i samsvar med denne forskrift når de er forsvarlig installert og vedlikeholdt og brukt til det formål de er beregnet på.\nHeiser som omfattes av denne forskriften, skal oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.\nSikkerhetskomponentene omfattet av denne forskrift skal oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I og sikre at heisene de er montert i, oppfyller nevnte grunnleggende krav.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Installatørenes forpliktelser knyttet til tekniske krav, merking og dokumentasjon",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del I. Krav til heiser"
+      ],
+      "text": "Når installatørene bringer en heis i omsetning, skal de sikre at den er konstruert, produsert, installert og prøvd i samsvar med de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.\nInstallatørene skal utarbeide den tekniske dokumentasjonen og gjennomføre den relevante framgangsmåten for samsvarsvurdering nevnt i § 16 eller sørge for at den gjennomføres. Når det ved denne framgangsmåten påvises at heisen er i samsvar med gjeldende grunnleggende helse- og sikkerhetskrav, skal installatøren utarbeide en EU-samsvarserklæring, sikre at den følger med heisen, og påføre CE-merkingen.\nInstallatørene skal oppbevare den tekniske dokumentasjonen, EU-samsvarserklæringen og eventuelt beslutning om godkjenning av kvalitetssystemer i ti år etter at heisen ble brakt i omsetning.\nInstallatørene skal gjøre undersøkelser når det anses hensiktsmessig med hensyn til den risiko som er forbundet med en heis og for å verne forbrukernes helse og sikkerhet. I slike tilfeller skal installatøren om nødvendig føre et register over klager og heiser som ikke oppfyller kravene.\nInstallatørene skal sikre at heisene er påført et type-, parti- eller serienummer eller et annet element som gjør det mulig å identifisere dem.\nInstallatørene skal angi sitt navn, firma og registrert varemerke og kontaktadresse på heisen. Adressen skal angi ett enkelt sted der installatøren kan kontaktes. Kontaktopplysningene skal skrives på norsk.\nInstallatørene skal påse at heisen ledsages av instruksjonen nevnt i vedlegg III nr. 6.2, på norsk. Instruksjonen og eventuell merking skal være tydelig, forståelig og lesbar.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "Installatørens plikter ved manglende samsvar",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del I. Krav til heiser"
+      ],
+      "text": "Installatører som anser eller har grunn til å tro at en heis som de har brakt i omsetning, ikke er i samsvar med denne forskriften, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe denne heisen i samsvar med denne forskriften. Dersom heisen utgjør en risiko, skal installatørene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de EØS-stater der de har brakt heisen i omsetning, og gi nærmere opplysninger særlig om heisens manglende samsvar og eventuelle korrigerende tiltak som er truffet.\nInstallatørene skal, etter en begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at heisen er i samsvar med denne forskriften, på papir eller i elektronisk form og på norsk. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med heiser som de har brakt i omsetning.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "Representant for installatør",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del I. Krav til heiser"
+      ],
+      "text": "En installatør kan ved en skriftlig fullmakt utpeke en representant.\nForpliktelsene fastsatt i § 5 første ledd og forpliktelsen til å utarbeide teknisk dokumentasjon som nevnt i § 5 annet ledd, skal ikke utgjøre noen del av representantens fullmakt.\nEn representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra installatøren. På grunnlag av fullmakten skal representanten minst kunneoppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at heisen ble brakt i omsetningetter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at heisen er i samsvar med regelverketpå anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med heisen som omfattes av representantens fullmakt.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Produsentenes forpliktelser",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "Når produsentene bringer sikkerhetskomponenter i omsetning, skal de sikre at de er konstruert og produsert i samsvar med § 4 siste ledd.\nProdusentene skal utarbeide den tekniske dokumentasjonen og gjennomføre den relevante framgangsmåten for samsvarsvurdering nevnt i § 15 eller sørge for at den gjennomføres. Når det ved denne framgangsmåten påvises at en sikkerhetskomponent er i samsvar med gjeldende grunnleggende helse- og sikkerhetskrav, skal produsenten utarbeide en EU-samsvarserklæring, sikre at den følger med sikkerhetskomponenten, og påføre CE-merkingen.\nProdusentene skal oppbevare den tekniske dokumentasjonen, EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning i ti år etter at sikkerhetskomponenten ble brakt i omsetning.\nProdusentene skal påse at det finnes framgangsmåter for å sikre fortsatt samsvar med denne forskriften ved serieproduksjon. Det skal tas behørig hensyn til endringer i produktutforming eller egenskaper og endringer i de harmoniserte standarder eller andre tekniske spesifikasjoner det vises til i samsvarserklæringen for en sikkerhetskomponent. Når det anses som hensiktsmessig med hensyn til den risiko som er forbundet med sikkerhetskomponenter, skal produsentene, for å verne forbrukernes helse og sikkerhet, ta stikkprøver av sikkerhetskomponenter som er gjort tilgjengelig på markedet, undersøke og om nødvendig føre et register over klager, over sikkerhetskomponenter som ikke oppfyller kravene, og over tilbakekallinger av sikkerhetskomponenter, og skal holde distributørene og installatørene underrettet om all slik overvåking.\nProdusentene skal påse at sikkerhetskomponenter som de har brakt i omsetning, er påført et type-, parti- eller serienummer eller et annet element som gjør det mulig å identifisere dem, eller dersom komponentens størrelse eller art ikke tillater dette, at de nødvendige opplysninger gis på etiketten nevnt i § 19 første ledd.\nProdusentene skal angi navn, firma eller registrert varemerke og kontaktadresse på sikkerhetskomponenten eller dersom dette ikke er mulig, på etiketten nevnt i § 19 første ledd. Adressen skal angi ett enkelt sted der produsenten kan kontaktes. Kontaktopplysningene skal skrives på norsk.\nProdusentene skal påse at sikkerhetskomponenten ledsages av instruksjonen og sikkerhetsopplysningene nevnt i vedlegg I nr. 6.1 som er på norsk. Instruksjonen og eventuell merking skal være tydelig, forståelig og leselig.\nProdusenter som anser eller har grunn til å tro at en sikkerhetskomponent som de har brakt i omsetning, ikke er i samsvar med denne forskriften, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe sikkerhetskomponenten i samsvar med denne forskriften eller om nødvendig tilbakekalle den. Dersom sikkerhetskomponenten utgjør en risiko, skal produsentene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de EØS-stater der de har gjort sikkerhetskomponenten tilgjengelig på markedet, og gi nærmere opplysninger særlig om komponentens manglende samsvar og eventuelle korrigerende tiltak som er truffet.\nProdusentene skal, etter en begrunnet anmodning fra en vedkommende nasjonale myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at sikkerhetskomponenten er i samsvar med denne forskriften, på papir eller i elektronisk form og på norsk. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenter som de har brakt i omsetning.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Representant for produsent",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "En produsent kan ved en skriftlig fullmakt utpeke en representant. Forpliktelsene fastsatt i § 8 første ledd og forpliktelsen til å utarbeide teknisk dokumentasjon som nevnt i § 8 annet ledd, skal ikke utgjøre noen del av representantens fullmakt.\nEn representant skal utføre de oppgaver som er angitt i fullmakten den har fått fra produsenten. På grunnlag av fullmakten skal representanten minst kunneoppbevare EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning av produsentens eller installatørens kvalitetssystem og den tekniske dokumentasjonen og kunne stille dette til rådighet for nasjonale markedstilsynsmyndigheter i ti år etter at sikkerhetskomponenten ble brakt i omsetningetter begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at sikkerhetskomponenten er i samsvar med regelverketpå anmodning fra vedkommende nasjonale myndigheter, samarbeide med dem om alle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenten som omfattes av representantens fullmakt.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Importørenes forpliktelser",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "Importørene skal bringe i omsetning bare sikkerhetskomponenter som oppfyller kravene.\nFør en sikkerhetskomponent blir brakt i omsetning, skal importørene påse at produsenten har gjennomført den relevante framgangsmåten for samsvarsvurdering nevnt i § 15. De skal påse at produsenten har utarbeidet den tekniske dokumentasjonen, at sikkerhetskomponenten er påført CE-merkingen og ledsages av EU-samsvarserklæringen og de nødvendige dokumenter, og at produsenten har oppfylt kravene fastsatt i § 8 femte og sjette ledd. Dersom en importør anser eller har grunn til å tro at en sikkerhetskomponent ikke er i samsvar med § 4 siste ledd, skal denne ikke bringe sikkerhetskomponenten i omsetning før slikt samsvar er oppnådd. Dersom sikkerhetskomponenten utgjør en risiko, skal importøren dessuten underrette produsenten og markedstilsynsmyndighetene om dette.\nImportørene skal angi navn, firma eller registrert varemerke og kontaktadresse på sikkerhetskomponenten eller, dersom dette ikke er mulig, på emballasjen eller i et dokument som følger med sikkerhetskomponenten. Kontaktopplysningene skal skrives på norsk.\nImportørene skal påse at sikkerhetskomponenten ledsages av instruksjonen nevnt i vedlegg I nr. 6.1 som er på norsk.\nImportørene skal så lenge de har ansvar for en sikkerhetskomponent, sikre at lagrings- eller transportvilkårene ikke påvirker komponentens samsvar med de grunnleggende helse- og sikkerhetskravene nevnt i § 4 siste ledd.\nNår det anses som hensiktsmessig med hensyn til den risiko som er forbundet med sikkerhetskomponenter, skal importørene, for å verne forbrukernes helse og sikkerhet, ta stikkprøver av sikkerhetskomponenter som er gjort tilgjengelig på markedet, undersøke og om nødvendig føre et register over klager, over sikkerhetskomponenter som ikke oppfyller kravene, og over tilbakekallinger av sikkerhetskomponenter, og skal holde distributørene og installatørene underrettet om all slik overvåking.\nImportører som anser eller har grunn til å tro at en sikkerhetskomponent som de har brakt i omsetning, ikke er i samsvar med denne forskrift, skal umiddelbart treffe de nødvendige korrigerende tiltak for å bringe sikkerhetskomponenten i samsvar med denne forskrift eller om nødvendig tilbakekalle den eller trekke den tilbake fra markedet. Dersom sikkerhetskomponenten utgjør en risiko, skal importørene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de EØS-stater der de har gjort sikkerhetskomponenten tilgjengelig på markedet, og gi nærmere opplysninger særlig om komponentens manglende samsvar og eventuelle korrigerende tiltak som er truffet.\nImportørene skal oppbevare en kopi av EU-samsvarserklæringen og eventuelt beslutningen(e) om godkjenning i ti år etter at sikkerhetskomponenten ble brakt i omsetning, og kunne stille dette til rådighet for markedstilsynsmyndighetene og påse at den tekniske dokumentasjon på anmodning kan gjøres tilgjengelig for nevnte myndigheter.\nImportørene skal, etter en begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne alle de opplysninger og den dokumentasjon som er nødvendig for å vise at en sikkerhetskomponent er i samsvar med kravene, på papir eller i elektronisk form og på norsk. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenter som de har brakt i omsetning.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Distributørenes forpliktelser",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "Når distributørene gjør en sikkerhetskomponent tilgjengelig på markedet, skal de utvise behørig aktsomhet med hensyn til kravene i denne forskrift.\nFør distributørene gjør en sikkerhetskomponent tilgjengelig på markedet, skal de kontrollere at sikkerhetskomponenten er påført CE-merking, at den ledsages av EU-samsvarserklæringen, av de nødvendige dokumentene og instruksjonen nevnt i vedlegg I nr. 6.1, som er på norsk, samt at produsenten og importøren har oppfylt kravene fastsatt i henholdsvis § 8 femte og sjette ledd og § 10 tredje ledd. Dersom en distributør anser eller har grunn til å tro at en sikkerhetskomponent ikke er i samsvar med § 4 siste ledd, skal denne ikke gjøre sikkerhetskomponenten tilgjengelig på markedet før slikt samsvar er oppnådd. Dersom sikkerhetskomponenten utgjør en risiko, skal distributøren dessuten underrette produsenten eller importøren samt markedstilsynsmyndighetene om dette.\nDistributørene skal så lenge de har ansvar for en sikkerhetskomponent, sikre at lagrings- eller transportvilkårene ikke påvirker komponentens samsvar med de grunnleggende kravene til helse og sikkerhet nevnt i § 4 siste ledd.\nDistributører som anser eller har grunn til å tro at en sikkerhetskomponent som de har gjort tilgjengelig på markedet, ikke er i samsvar med denne forskrift, skal se til at de nødvendige korrigerende tiltak blir truffet for å bringe sikkerhetskomponenten i samsvar med denne forskrift eller om nødvendig trekke den tilbake eller tilbakekalle den. Dersom sikkerhetskomponenten utgjør en risiko, skal distributørene dessuten umiddelbart underrette vedkommende nasjonale myndigheter i de EØS-stater der de har gjort sikkerhetskomponenten tilgjengelig på markedet, og gi nærmere opplysninger særlig om komponentens manglende samsvar og eventuelle korrigerende tiltak som er truffet.\nDistributørene skal, etter en begrunnet anmodning fra en vedkommende nasjonal myndighet, gi denne, på papir eller i elektronisk form, alle de opplysninger og den dokumentasjon som er nødvendig for å vise at en sikkerhetskomponent er i samsvar med kravene. De skal på anmodning fra nevnte myndighet samarbeide med denne om eventuelle tiltak som er truffet for å fjerne risikoene forbundet med sikkerhetskomponenter som de har gjort tilgjengelig på markedet.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Tilfeller der produsentenes forpliktelser får anvendelse på importører og distributører",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "En importør eller distributør skal i denne forskrift anses som produsent og skal være underlagt produsentens forpliktelser i henhold til § 8, når den bringer en sikkerhetskomponent i omsetning under eget navn eller varemerke eller endrer en sikkerhetskomponent som allerede er brakt i omsetning, på en slik måte at det kan påvirke komponentens samsvar med kravene i denne forskrift.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Identifikasjon av markedsdeltakere",
+      "path": [
+        "Kapittel II. Markedsdeltakere og tekniske krav til heiser og sikkerhetskomponenter",
+        "Del II. Krav til sikkerhetskomponenter"
+      ],
+      "text": "Markedsdeltakerne skal på anmodning fra markedstilsynsmyndighetene navngi følgende markedsdeltakere:alle markedsdeltakere som har levert en sikkerhetskomponent til demalle markedsdeltakere som de har levert en sikkerhetskomponent til.\nMarkedsdeltakerne skal kunne framlegge opplysningene nevnt i første ledd i ti år etter at de har fått en sikkerhetskomponent levert, og i ti år etter at de har levert en sikkerhetskomponent.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Samsvarsformodning",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "Heiser og sikkerhetskomponenter som er i samsvar med harmoniserte standarder eller deler av slike som det er offentliggjort henvisninger til i Den europeiske unions tidende, skal antas å oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I som omfattes av disse standardene eller deler av dem.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Framgangsmåter for samsvarsvurdering av sikkerhetskomponenter",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "Sikkerhetskomponenter skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:modellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, og typesamsvaret for sikkerhetskomponenten skal sikres med stikkprøvekontroll som fastsatt i vedlegg IXmodellen av sikkerhetskomponenten skal underkastes EU-typeprøvingen fastsatt i vedlegg IV del A, med typesamsvar basert på kvalitetssikring av produkter i samsvar med vedlegg VIsamsvar basert på fullstendig kvalitetssikring som fastsatt i vedlegg VII.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Framgangsmåter for samsvarsvurdering av heiser",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "Heiser skal være gjenstand for en av følgende framgangsmåter for samsvarsvurdering:dersom de er konstruert og produsert i samsvar med en typeheis som har vært gjenstand for EU-typeprøving i henhold til vedlegg IV del B:sluttkontroll av heiser som fastsatt i vedlegg Vtypesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg Xtypesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XIIdersom de er konstruert og produsert i henhold til et kvalitetssystem som er godkjent i samsvar med vedlegg XI:sluttkontroll av heiser som fastsatt i vedlegg Vtypesamsvar for heiser basert på kvalitetssikring av produkter som fastsatt i vedlegg Xtypesamsvar for heiser basert på kvalitetssikring av produksjonen som fastsatt i vedlegg XIIsamsvar for heiser basert på verifisering av enkelteksemplarer som fastsatt i vedlegg VIIIsamsvar for heiser basert på fullstendig kvalitetssikring pluss konstruksjonskontroll som fastsatt i vedlegg XI.\nI tilfellene nevnt i første ledd bokstav a) og b) skal den som er ansvarlig for konstruksjon og produksjon av heisen, dersom den ikke også er ansvarlig for installasjon og prøving av heisen, gi sistnevnte alle nødvendige dokumenter og opplysninger slik at sistnevnte kan sikre korrekt og sikker installasjon og prøving av heisen.\nAlle tillatte variasjoner mellom typeheisen og heiser som er produsert på grunnlag av typeheisen, skal være klart angitt (med høyeste og laveste verdi) i den tekniske dokumentasjonen.\nDet er tillatt ved hjelp av beregning og/eller på grunnlag av konstruksjonstegninger å påvise likheten mellom de ulike utførelsene innenfor en produksjonsserie med hensyn til å oppfylle de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "EU-samsvarserklæring",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "EU-samsvarserklæringen skal fastslå at det er påvist at de grunnleggende helse- og sikkerhetskravene i vedlegg I er oppfylt.\nEU-samsvarserklæringen skal være i henhold til malen fastsatt i vedlegg II, skal inneholde elementene angitt i de relevante vedlegg V–XII og skal ajourføres løpende. Den skal oversettes til norsk.\nDersom en heis eller en sikkerhetskomponent omfattes av mer enn én EØS-rettsakt som krever en EU-samsvarserklæring, skal det utarbeides en enkelt EU-samsvarserklæring med hensyn til alle slike EØS-rettsakter. Erklæringen skal angi hvilke EØS-rettsakter den gjelder, herunder henvisninger til hvor de er kunngjort.\nVed å utarbeide EU-samsvarserklæringen påtar produsenten seg ansvar for at sikkerhetskomponenten oppfyller kravene i denne forskrift, og installatøren påtar seg ansvar for at heisen oppfyller kravene i denne forskrift.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 18",
+      "heading": "Allmenne prinsipper for CE-merking",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "CE-merkingen skal være underlagt de allmenne prinsippene i artikkel 30 i forordning (EF) nr. 765/2008.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 19",
+      "heading": "Regler og vilkår for påføring av CE-merking og annen merking",
+      "path": [
+        "Kapittel III. Samsvarsvurdering og CE-merking"
+      ],
+      "text": "CE-merkingen skal påføres hver heisstol og hver sikkerhetskomponent slik at den er synlig, lett leselig og ikke kan fjernes, eller dersom dette ikke er mulig, på en etikett som er festet på sikkerhetskomponenten.\nCE-merkingen skal påføres før heisen eller sikkerhetskomponentene bringes i omsetning.\nCE-merkingen på heiser skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:sluttkontroll som nevnt i vedlegg Vverifisering av enkelteksemplarer som nevnt i vedlegg VIIIkvalitetssikring som nevnt i vedlegg X, XI eller XII.\nCE-merkingen på sikkerhetskomponenter skal etterfølges av identifikasjonsnummeret til det tekniske kontrollorganet som deltar i en av følgende framgangsmåter for samsvarsvurdering:kvalitetssikring av produkter som nevnt i vedlegg VIfullstendig kvalitetssikring som nevnt i vedlegg VIItypesamsvar for sikkerhetskomponenter med stikkprøvekontroll som nevnt i vedlegg IX.\nDet tekniske kontrollorganets identifikasjonsnummer skal påføres av organet selv eller av produsenten eller dennes representant eller installatøren eller dennes representant, etter organets anvisning. CE-merkingen og det tekniske kontrollorganets identifikasjonsnummer kan etterfølges av et annet merke som angir en særlig risiko eller bruk.\nEØS-statene skal basere seg på eksisterende ordninger for å sikre korrekt anvendelse av reglene for CE-merking, og treffe egnede tiltak i tilfelle urettmessig bruk av merkingen.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 20",
+      "heading": "Utpeking av tekniske kontrollorganer",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Tekniske kontrollorgan skal utpekes av Direktoratet for byggkvalitet etter reglene i lov 16. juni 1994 nr. 20 om tekniske kontrollorgan som har til oppgåve å gjennomføre samsvarsvurderingar.\nSom grunnlag for utpekingen etter første ledd skal organet være akkreditert av et nasjonalt akkrediteringsorgan. Et organ som ikke er akkreditert kan i særskilte tilfeller likevel utpekes, forutsatt at direktoratet kan dokumentere at organet oppfyller relevante krav.\nDet berørte organ kan utføre virksomhet som tekniske kontrollorgan bare dersom Kommisjonen eller de andre EØS-statene ikke har reist innvendinger mot dette innen to uker etter en utpeking basert på et akkrediteringsbevis, eller innen to måneder for en utpeking som ikke er basert på slik akkreditering. Det er bare et slikt organ som skal anses som et tekniske kontrollorgan i henhold til denne forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 21",
+      "heading": "Søknad om utpeking",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Et teknisk kontrollorgan skal legge fram en søknad om utpeking for utpekingsmyndigheten i den EØS-stat der det er opprettet.\nSøknaden om utpeking skal ledsages av en beskrivelse av den samsvarsvurderingsvirksomhet, den eller de framgangsmåter for samsvarsvurdering og de heisene eller sikkerhetskomponentene som organet hevder å være kompetent for, samt eventuelt et akkrediteringsbevis utstedt av et nasjonalt akkrediteringsorgan som bekrefter at det tekniske kontrollorganet oppfyller kravene fastsatt i § 22.\nDersom det berørte tekniske kontrollorganet ikke kan legge fram et akkrediteringsbevis, skal det gi utpekingsmyndigheten all den dokumentasjon som er nødvendig for å kontrollere, bekrefte og regelmessig føre tilsyn med at organet oppfyller kravene fastsatt i § 22.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 22",
+      "heading": "Krav til tekniske kontrollorganer",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Med sikte på utpeking skal et teknisk kontrollorgan oppfylle kravene fastsatt i 2–11 ledd.\nEt teknisk kontrollorgan skal opprettes i henhold til gjeldende norsk lovgivning og være en juridisk person.\nEt teknisk kontrollorgan skal være en tredjepart som er uavhengig av organisasjonen og heisene eller sikkerhetskomponentene det vurderer. Et organ som tilhører en næringslivs- eller yrkesorganisasjon som representerer foretak som deltar i konstruksjon, produksjon, levering, montering, bruk eller vedlikehold av heiser eller sikkerhetskomponenter som organet vurderer, kan anses å være et slikt organ, forutsatt at det er påvist at organet er uavhengig og at det ikke foreligger interessekonflikter.\nEt teknisk kontrollorgan, dets øverste ledelse og personell som har ansvar for å utføre samsvarsvurderinger, skal ikke være konstruktør, produsent, leverandør, installatør, kjøper, eier, bruker eller vedlikeholder av heiser eller sikkerhetskomponenter de vurderer, og heller ikke være representant for noen av disse partene. Dette skal ikke utelukke bruk av vurderte heiser eller sikkerhetskomponenter som er nødvendige for det tekniske kontrollorganets virksomhet eller bruk av slike heiser eller sikkerhetskomponenter for personlige formål. Dette utelukker ikke muligheten for at produsenten eller installatøren og organet kan utveksle tekniske opplysninger. Et teknisk kontrollorgan, dets øverste ledelse og personell som har ansvar for å utføre samsvarsvurderingene, skal ikke være direkte involvert i utforming, produksjon eller konstruksjon, markedsføring, installasjon, bruk eller vedlikehold av slike heiser eller sikkerhetskomponenter, og heller ikke representere parter som deltar i slik virksomhet. De skal ikke delta i noen form for virksomhet som kan påvirke deres uavhengige vurdering eller integritet i forbindelse med den samsvarsvurderingsvirksomhet de er utpekt for. Dette skal særlig gjelde rådgivningstjenester. De teknisk kontrollorganene skal sikre at deres datterforetaks eller underleverandørers virksomhet ikke påvirker fortroligheten, objektiviteten eller upartiskheten i organenes samsvarsvurderingsvirksomhet.\nDe tekniske kontrollorganene og deres personell skal utføre samsvarsvurderingsvirksomheten med den største faglige integritet og ha de nødvendige tekniske kvalifikasjoner på det aktuelle området, og de skal ikke være utsatt for noen form for press eller påvirkning, særlig av økonomisk art, som kan påvirke deres skjønn eller resultatene av deres samsvarsvurderingsvirksomhet, særlig ikke fra personer eller grupper av personer som berøres av resultatene av denne virksomheten.\nEt teknisk kontrollorgan skal kunne utføre alle samsvarsvurderingsoppgaver som det er tillagt i henhold til vedlegg IV–XII, og som det er utpekt for, uansett om disse oppgaver utføres av det tekniske kontrollorganet selv eller på dets vegne og ansvar. Et teknisk kontrollorgan skal til enhver tid og for hver framgangsmåte for samsvarsvurdering og hver type eller kategori av heiser eller sikkerhetskomponenter som det er utpekt for, ha til rådighetnødvendig personell med teknisk kunnskap og tilstrekkelig og relevant erfaring til å utføre samsvarsvurderingennødvendige beskrivelser av framgangsmåter for samsvarsvurdering som sikrer åpenhet og mulighet til å gjenta disse framgangsmåtene. Organet skal ha egnede retningslinjer og framgangsmåter for å skille mellom oppgaver det utfører som utpekt organ, og annen virksomhetnødvendige framgangsmåter for utførelse av virksomheten, som tar behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, kompleksiteten ved det aktuelle produktets teknologi samt produksjonsprosessens masse- eller seriepreg.\nEt teknisk kontrollorgan skal ha de nødvendige midler til på en egnet måte å kunne utføre de tekniske og administrative oppgaver som er forbundet med samsvarsvurderingsvirksomheten, og skal ha tilgang til alt nødvendig utstyr og alle nødvendige anlegg.\nPersonell med ansvar for å utføre samsvarsvurderinger skal hasolid teknisk og yrkesrettet opplæring som omfatter all samsvarsvurderingsvirksomhet som det tekniske kontrollorganet er utpekt fortilfredsstillende kunnskap om de krav som gjelder for vurderingene de utfører, og nødvendige fullmakter til å utføre slike vurderingertilfredsstillende kunnskap om og forståelse av de grunnleggende helse- og sikkerhetskravene fastsatt i vedlegg I, gjeldende harmoniserte standarder og relevante bestemmelser i EØS'harmoniseringsregelverk og i nasjonal lovgivningkompetanse til å utarbeide sertifikater, dokumenter og rapporter som viser at vurderingene er utført.\nDet skal sikres at det tekniske kontrollorganet, dets øverste ledelse og personell med ansvar for å utføre samsvarsvurderinger er upartiske. Godtgjøringen til et teknisk kontrollorgans øverste ledelse og til personell med ansvar for å utføre samsvarsvurderingene skal ikke være avhengig av antallet utførte vurderinger eller av resultatet av slike vurderinger.\nDet tekniske kontrollorganene skal tegne ansvarsforsikring.\nDet tekniske kontrollorganets personell skal være underlagt taushetsplikt med hensyn til alle opplysninger de innhenter når de utfører sine oppgaver i henhold til vedlegg IV–XII eller enhver internrettslig bestemmelse som gir det virkning, unntatt overfor vedkommende myndigheter i den EØS-stat der det utfører sin virksomhet. Eiendomsretten skal vernes.\nDe tekniske kontrollorganene skal delta i eller sikre at deres personell med ansvar for å utføre samsvarsvurderinger blir underrettet om relevant standardiseringsvirksomhet og virksomheten til samordningsgruppen for tekniske kontrollorganer for heiser opprettet i henhold til relevante deler av Unionens harmoniseringsregelverk. De tekniske kontrollorganene skal anvende de forvaltningsvedtak og dokumenter som denne gruppens arbeid munner ut i, som generelle retningslinjer.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 23",
+      "heading": "Tekniske kontrollorganers datterforetak og underleverandører",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Dersom et teknisk kontrollorgan overdrar bestemte oppgaver i forbindelse med samsvarsvurderingen til en underleverandør eller et datterforetak, skal det sikre at underleverandøren eller datterforetaket oppfyller kravene i § 22 og underrette utpekingsmyndigheten om dette.\nTekniske kontrollorganer skal påta seg det fulle ansvar for de oppgaver som blir utført av underleverandører eller datterforetak, uansett hvor disse er etablert.\nOppgaver kan overdras til en underleverandør eller et datterforetak bare dersom kunden har gitt sitt samtykke.\nTekniske kontrollorganer skal kunne stille til rådighet for utpekingsmyndigheten de relevante dokumenter om vurderingen av underleverandørens eller datterforetakets kvalifikasjoner og de oppgaver de har utført i henhold til vedlegg IV–XII.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 24",
+      "heading": "Endringer av utpeking",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Dersom et teknisk kontrollorgan ikke lenger oppfyller kravene i § 22, eller det ikke oppfyller sine forpliktelser, skal utpekingsmyndigheten enten begrense, midlertidig oppheve eller trekke tilbake utpekingen, avhengig av hvor alvorlig den manglende oppfyllelsen av disse kravene eller forpliktelsene er.\nVed begrensing, midlertidig oppheving eller tilbaketrekking av en utpeking eller dersom det tekniske kontrollorganet har sluttet sin virksomhet, har utpekingsmyndigheten adgang til å treffe egnede tiltak for å sikre at organets arkiver enten blir behandlet av et annet teknisk kontrollorgan eller blir holdt tilgjengelig for de ansvarlige utpekingsmyndigheter og markedstilsynsmyndigheter på deres anmodning.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 25",
+      "heading": "Innvendinger vedrørende tekniske kontrollorganers kompetanse",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Kommisjonen har anledning til å undersøke alle saker der den er i tvil om eller er blitt gjort oppmerksom på at det foreligger tvil om hvorvidt et teknisk kontrollorgan er kompetent eller fortsatt oppfyller de krav og det ansvar det er underlagt.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 26",
+      "heading": "Tekniske kontrollorganers driftsmessige forpliktelser",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Tekniske kontrollorganer skal utføre samsvarsvurderinger etter framgangsmåten for samsvarsvurdering fastsatt i § 15 og § 16.\nSamsvarsvurderingene skal utføres på en måte som står i forhold til målet, slik at markedsdeltakerne ikke pålegges unødvendige byrder. Tekniske kontrollorganer skal utføre sin virksomhet slik at det tas behørig hensyn til foretakets størrelse, i hvilken sektor det driver sin virksomhet, dets struktur, kompleksiteten ved heisens eller sikkerhetskomponentens teknologi samt produksjonsprosessens masse- eller seriepreg. I den forbindelse skal de likevel overholde den grad av strenghet og det vernenivå som kreves for at heisene eller sikkerhetskomponentene skal være i samsvar med denne forskrift.\nDersom et teknisk kontrollorgan finner at en installatør eller produsent ikke har oppfylt de grunnleggende helse- og sikkerhetskravene i denne forskrift eller tilsvarende harmoniserte standarder eller andre tekniske spesifikasjoner, skal det kreve at installatøren eller produsenten treffer egnede korrigerende tiltak, og ikke utstede et samsvarssertifikat.\nDersom et teknisk kontrollorgan i forbindelse med kontroll av samsvar etter utstedelsen av et sertifikat eller en beslutning om godkjenning av kvalitetssystem, alt etter som, finner at en heis eller en sikkerhetskomponent ikke lenger er i samsvar med kravene, skal det kreve at installatøren eller produsenten treffer hensiktsmessige korrigerende tiltak, og om nødvendig midlertidig oppheve eller trekke tilbake sertifikatet eller beslutningen om godkjenning.\nDersom det ikke treffes korrigerende tiltak, eller dersom de ikke har den ønskede virkning, skal det tekniske kontrollorgan begrense, midlertidig oppheve eller trekke tilbake eventuelle sertifikater eller beslutning(er) om godkjenning, alt etter hva som er relevant.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 27",
+      "heading": "Tekniske kontrollorganers informasjonsplikt",
+      "path": [
+        "Kapittel IV. Tekniske kontrollorgan"
+      ],
+      "text": "Tekniske kontrollorgan skal underrette utpekingsmyndigheten omalle tilfeller av avslag, begrensning, midlertidig oppheving eller tilbaketrekking av et sertifikat eller en beslutning om godkjenning av kvalitetssystemalle omstendigheter som påvirker omfanget av eller vilkårene for utpekingalle anmodninger de har mottatt fra markedstilsynsmyndighetene vedrørende opplysninger om samsvarsvurderingsvirksomhetpå anmodning, samsvarsvurderingsvirksomhet som er utført innenfor rammen av organets utpeking, og enhver annen virksomhet som er utført, herunder virksomhet og underleveranser over landegrensene.\nTekniske kontrollorganer skal gi de andre organene som er utpekt i henhold til denne forskrift og som utfører tilsvarende former for samsvarsvurdering som omfatter de samme typene heiser eller sikkerhetskomponenter, alle relevante opplysninger om spørsmål knyttet til negative og, på anmodning, positive resultater av samsvarsvurderinger.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 28",
+      "heading": "Markedstilsynsmyndighet",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Direktoratet for byggkvalitet er markedstilsynsmyndighet for heiser.\nKommunal- og moderniseringsdepartementet er klageinstans for vedtak som fattes av markedstilsynsmyndigheten.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 29",
+      "heading": "Tilsyn med heiser og sikkerhetskomponenter",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Markedstilsynsmyndighet kan kreve tilsendt produktdokumentasjon og annen informasjon som er tilgjengelig ved omsetning, markedsføring, distribusjon eller bruk av heiser eller sikkerhetskomponenter, herunder dokumentasjon for attestering av samsvar eller vurdering og verifikasjon av egenskaper, og test- og beregningsgrunnlag som er brukt ved utarbeidelse av produktdokumentasjonen.\nMarkedstilsynsmyndighet skal gis adgang til produkt, rom, areal eller annet område som anses nødvendig for å kunne utføre vurdering av heisen eller sikkerhetskomponenten.\nVed begrunnet mistanke om at det omsettes, markedsføres, distribueres eller brukes en heis eller sikkerhetskomponent som ikke har tilfredsstillende produktdokumentasjon, herunder ufullstendig eller uriktig dokumentasjon eller hvor heisen kan medføre fare for sikkerhet, helse eller miljø, skal bygningsmyndighet og annen offentlig myndighet som behandler tiltak etter sektorlovgivning som omfattes av plan- og bygningsloven § 29-7, melde forholdet til markedstilsynsmyndigheten.\nDersom produsent eller dennes representant trekker en heis eller sikkerhetskomponent som ikke har tilfredsstillende produktdokumentasjon, herunder ufullstendig eller uriktig dokumentasjon eller hvor heisen kan medføre fare for sikkerhet, helse og miljø, tilbake fra markedet, skal det sendes melding til markedstilsynsmyndigheten.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 30",
+      "heading": "Tilsyn med EØS-markedet og kontroll av heiser eller sikkerhetskomponenter som innføres på EØS-markedet",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Artikkel 15 nr. 3 og artikkel 16–29 i forordning (EF) nr. 765/2008 får anvendelse på heiser og sikkerhetskomponenter.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 31",
+      "heading": "Framgangsmåte for håndtering av heiser som utgjør en risiko",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Dersom markedstilsynsmyndighetene har tilstrekkelige grunner til å anta at en heis som omfattes av denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal de utføre en vurdering av den berørte heisen som omfatter alle relevante krav fastsatt i denne forskrift. De berørte markedsdeltakere skal samarbeide med markedstilsynsmyndighetene for dette formål etter behov.\nDersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i første ledd finner at en heis ikke oppfyller kravene i denne forskrift, skal de omgående kreve at installatøren treffer alle egnede korrigerende tiltak for å bringe heisen i samsvar med disse kravene innen en rimelig frist som de fastsetter ut fra risikoens art.\nMarkedstilsynsmyndighetene skal underrette det relevante tekniske kontrollorgan om dette. Artikkel 21 i forordning (EF) nr. 765/2008 får anvendelse på tiltakene nevnt i annet ledd.\nMarkedsdeltakeren skal sikre at alle egnede korrigerende tiltak treffes med hensyn til alle berørte heiser som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.\nDersom installatøren ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetenetreffe alle egnede midlertidige tiltak for å forby eller begrense omsetningen av den berørte heisen på deres nasjonale marked eller bruken av den, ellertilbakekalle heisen.\nDersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begrenset til deres nasjonale territorium, skal de underrette Kommisjonen og de andre EØS-statene om resultatene av vurderingen og om de tiltak de har pålagt markedsdeltakerne å treffe.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 32",
+      "heading": "Framgangsmåte for håndtering av sikkerhetskomponenter som utgjør en risiko",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Dersom markedstilsynsmyndighetene har tilstrekkelige grunner til å anta at en sikkerhetskomponent som omfattes av denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal de utføre en vurdering av den berørte sikkerhetskomponenten som omfatter alle relevante krav fastsatt i denne forskrift. De berørte markedsdeltakere skal samarbeide med markedstilsynsmyndighetene for dette formål etter behov.\nDersom markedstilsynsmyndighetene i forbindelse med vurderingen nevnt i første ledd finner at en sikkerhetskomponent ikke oppfyller kravene i denne forskrift, skal de omgående kreve at den berørte markedsdeltaker treffer alle egnede korrigerende tiltak for åbringe sikkerhetskomponenten i samsvar med disse kravenetrekker sikkerhetskomponenten tilbake fra markedet ellertilbakekaller sikkerhetskomponenteninnen en rimelig frist som de fastsetter ut fra risikoens art.\nMarkedstilsynsmyndighetene skal underrette det relevante tekniske kontrollorgan om dette. Artikkel 21 i forordning (EF) nr. 765/2008 får anvendelse på tiltakene nevnt i annet ledd.\nMarkedsdeltakeren skal sikre at alle egnede korrigerende tiltak treffes med hensyn til alle berørte sikkerhetskomponenter som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.\nDersom den berørte markedsdeltaker ikke treffer fyllestgjørende korrigerende tiltak innen fristen nevnt i annet ledd, skal markedstilsynsmyndighetene treffe alle egnede midlertidige tiltak for åforby eller begrense tilgjengeliggjøring av sikkerhetskomponenten på deres nasjonale markedtrekke sikkerhetskomponenten tilbake fra dette markedet ellertilbakekalle sikkerhetskomponenten.\nDersom markedstilsynsmyndighetene anser at det manglende samsvaret ikke er begrenset til deres nasjonale territorium, skal de underrette Kommisjonen og de andre EØS-statene om resultatene av vurderingen og om de tiltak de har pålagt markedsdeltakerne å treffe.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 33",
+      "heading": "Heiser eller sikkerhetskomponenter som oppfyller kravene, men som utgjør en risiko",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Dersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til § 31 første ledd kommer til at en heis, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at installatøren treffer alle egnede tiltak for åsikre at den berørte heisen ikke lenger utgjør noen risikotilbakekaller heisen ellerbegrenser eller forbyr bruken av heiseninnen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.\nDersom markedstilsynsmyndigheten etter å ha utført en vurdering i henhold til § 32 første ledd kommer til at en sikkerhetskomponent, selv om den er i samsvar med denne forskrift, utgjør en risiko for menneskers helse eller sikkerhet eller eventuelt for sikkerheten for eiendom, skal markedstilsynsmyndigheten kreve at den berørte markedsdeltaker treffer alle egnede tiltak for åsikre at den berørte sikkerhetskomponent ikke lenger utgjør noen risiko når den bringes i omsetning,trekker sikkerhetskomponenten tilbake fra markedet ellertilbakekaller sikkerhetskomponenteninnen et rimelig tidsrom, som markedstilsynsmyndigheten fastsetter ut fra risikoens art.\nMarkedsdeltakeren skal sikre at korrigerende tiltak treffes med hensyn til alle berørte heiser eller sikkerhetskomponenter som denne har brakt i omsetning eller gjort tilgjengelig på EØS-markedet.\nMarkedstilsynsmyndigheten skal umiddelbart underrette Kommisjonen og de øvrige EØS-statene om dette.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 34",
+      "heading": "Formelt manglende samsvar",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Markedstilsynsmyndigheten skal pålegge den berørte markedsdeltaker å bringe det manglende samsvaret til opphør dersom markedstilsynsmyndigheten fastslår et av følgende tilfeller:CE-merkingen er påført i strid med artikkel 30 i forordning (EF) nr. 765/2008 eller § 19 i denne forskriftCE-merkingen er ikke påførtidentifikasjonsnummeret til det tekniske kontrollorgan er påført i strid med § 19 eller er ikke påført selv om dette i henhold til § 19 skulle ha vært gjortdet er ikke utarbeidet noen EU-samsvarserklæringEU-samsvarserklæringen er ikke utarbeidet på riktig måteden tekniske dokumentasjonen nevnt i vedlegg IV del A og B og i vedlegg VII, VIII og XI er enten ikke tilgjengelig eller er ikke fullstendignavn, firma eller registrert varemerke eller adressen til installatøren, produsenten eller importøren er ikke angitt i samsvar med § 5 sjette ledd, § 8 sjette ledd eller § 10 tredje leddopplysningene som gjør det mulig å identifisere heisen eller sikkerhetskomponenten, er ikke angitt i samsvar med § 5 femte ledd eller § 8 femte leddheisen eller sikkerhetskomponenten er ikke ledsaget av dokumentene nevnt i § 5 syvende ledd eller § 8 syvende ledd, eller dokumentene er ikke i samsvar med gjeldende krav.\nDersom det manglende samsvaret nevnt i første ledd vedvarer for en heis, skal markedstilsynsmyndigheten treffe alle egnede tiltak for åbegrense eller forby bruken av heisen ellertilbakekalle heisen.\nDersom det manglende samsvaret nevnt i første ledd vedvarer for en sikkerhetskomponent, skal markedstilsynsmyndighetenbegrense eller forby tilgjengeliggjøringen på markedet av sikkerhetskomponenten ellerpåse at sikkerhetskomponenten blir tilbakekalt eller trukket tilbake fra markedet.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 35",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Markedstilsynsmyndigheten kan ilegge tvangsmulkt etter plan- og bygningsloven § 29-7b dersom pålegg etter denne forskriften ikke etterkommes innen en særskilt angitt frist.\nTvangsmulkten fastsettes samtidig med pålegg om retting og løper fra fristoverskridelsen for retting. Der tvangsmulkt ikke fastsettes samtidig med pålegg, skal det gis eget forhåndsvarsel om tvangsmulkt.\nDet kan fastsettes at tvangsmulkten løper så lenge det ulovlige forhold varer, som et engangsbeløp eller som en kombinasjon av løpende mulkt og engangsbeløp. Tvangsmulkten ilegges den ansvarlige for overtredelsen, og tilfaller staten.\nTvangsmulkten er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 36",
+      "heading": "Overtredelsesgebyr. Gebyrenes størrelse",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Markedstilsynsmyndigheten kan ilegge overtredelsesgebyr etter plan- og bygningsloven § 29-7c inntil angitte beløpsgrenser for forsettlige eller uaktsomme overtredelser av denne forskriften.\nMarkedstilsynsmyndigheten kan ilegge overtredelsesgebyr inntil kr 50 000 for mindre avvik og inntil kr 100 000 for vesentlige avvik.\nHøyere overtredelsesgebyr enn nevnt i annet ledd kan ilegges ved alvorlige overtredelser. Ved vurderingen skal det særlig legges vekt på forhold som nevnt i § 37. Overtredelsesgebyr kan uansett ikke overstige kr 200 000 for samme handling enten den medfører én eller flere overtredelser.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 37",
+      "heading": "Utmåling av overtredelsesgebyr",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Ved vurdering av overtredelsesgebyrets størrelse kan markedstilsynsmyndigheten legge vekt på:hvor alvorlig overtredelsen erom eventuelt pålegg gitt med hjemmel i denne forskriften er fulgtom overtrederen gjentatte ganger har vært ansvarlig for forhold som kan medføre overtredelsesgebyrom overtredelsen bidrar til økonomisk gevinstom overtredelsen er gjort i vinnings hensiktom overtredelsesgebyret vil virke urimelig ut fra overtrederens økonomiske situasjon.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 38",
+      "heading": "Gebyr",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Markedstilsynsmyndighetene kan kreve at den som produserer eller importerer et produkt etter denne forskrift helt eller delvis skal dekke kostnadene for testing og inspeksjon som anses som nødvendige for å vurdere et produkts egenskaper og virkninger. Kostnadene er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-12",
+      "provision_ref": "§ 39",
+      "heading": "Overgangsbestemmelse",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Heiser som omfattes av direktiv 95/16/EØF og er i samsvar med nevnte direktiv, og som bringes i omsetning før 20. april 2016 kan fortsatt settes i drift.\nSikkerhetskomponenter som omfattes av direktiv 95/16/EØF og er i samsvar med nevnte direktiv, og som bringes i omsetning før 20. april 2016 kan fortsatt gjøres tilgjengelig på markedet.\nSertifikater utstedt og vedtak gjort av tekniske kontrollorgan i samsvar med direktiv 95/16/EF skal være gyldige i henhold til denne forskrift.",
+      "xml_path": "article#kapittel-5-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-13",
+      "provision_ref": "§ 40",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel V. Administrative bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 20. april 2016, med unntak av kap. IV om tekniske kontrollorgan som trer i kraft straks.\nFra 20. april 2016 endres forskrift 17. desember 2013 nr. 1579 om omsetning og dokumentasjon av produkter til byggverk og forskrift 26. mars 2010 nr. 489 om tekniske krav til byggverk (Byggteknisk forskrift) slik: ---",
+      "xml_path": "article#kapittel-5-paragraf-13"
+    }
+  ]
+}

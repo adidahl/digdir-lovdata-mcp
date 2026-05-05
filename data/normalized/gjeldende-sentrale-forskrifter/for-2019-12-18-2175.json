@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2019-12-18-2175",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering",
+  "short_title": "Forskrift om klagebehandling av vedtak fattet av Norsk akkreditering",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2019-12-18",
+  "last_change_in_force": "2020-09-08",
+  "last_changed_by": "forskrift/2020-09-08-1754",
+  "lovdata_refid": "forskrift/2019-12-18-2175",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-12-18-2175",
+  "raw_xml_sha256": "811ce45730141f38cfba48032c88e25cf5a200bfe393014f567e2de18a588629",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anmodning om fornyet vurdering",
+      "path": [],
+      "text": "En virksomhet som er eller søker om å bli akkreditert av Norsk akkreditering, og som er uenig i vedtak om akkreditering, suspensjon av akkreditering, tilbaketrekking av akkreditering, utvidelse av akkrediteringsomfang eller reduksjon av akkrediteringsomfang kan kreve at saken vurderes på nytt.\nAnmodning om fornyet vurdering skal sendes Norsk akkreditering innen tre uker fra det tidspunkt underretning om vedtaket er kommet frem til vedkommende part. Dersom vedtaket ikke endres etter fornyet behandling i Norsk akkreditering, oversendes saken og tilhørende dokumentasjon til et klageutvalg. Utvalget skal vurdere saken, og gir sin anbefaling til Norsk akkreditering, som avgjør om vedtaket skal endres eller opprettholdes. Klageutvalget kan vurdere alle sider av saken.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Klageutvalget",
+      "path": [],
+      "text": "Klageutvalget skal minimum bestå av leder, nestleder og et ytterligere medlem som alle oppnevnes av Norsk akkreditering for tre år av gangen. Et medlem kan oppnevnes på nytt etter utløpet av treårsperioden. Utvalgets medlemmer oppnevnes blant medlemmene i Norsk akkrediterings forum for regulerende myndigheter. Medlemmene skal inneha den kompetansen som er nødvendig for en forsvarlig saksbehandling. Utvalgets medlemmer kan ikke være ansatt i Norsk akkreditering.\nUtvalgets medlemmer har taushetsplikt etter reglene i forvaltningsloven § 13 til § 13e. Reglene om habilitet i forvaltningsloven § 6 til § 10 gjelder for utvalgets medlemmer så langt de passer.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

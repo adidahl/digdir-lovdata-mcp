@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2005-01-28-60",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om satser for visse tilskuddsordninger for bearbeidede jordbruksvarer",
+  "short_title": "Forskrift om satser for tilskuddsordninger",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2005-02-01",
+  "last_change_in_force": "2010-01-01",
+  "last_changed_by": "forskrift/2009-06-10-636 fra 2010-01-01",
+  "lovdata_refid": "forskrift/2005-01-28-60",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-01-28-60",
+  "raw_xml_sha256": "4b0d9eec34e33d94f044c78c204e190adfca110d21c7d3b101ad21bb612e9722",
+  "sections": [
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Tilskuddsatser for XRK-ordningen",
+      "path": [],
+      "text": "Satsene for tilskudd etter forskrift 21. desember 2004 nr. 1747 om tilskudd til enkelte bearbeidede kjøttvarer ved leveranser til spesialmarkeder (XRK-ordningen) skal være:Råvarenr.RåvarenavnSats (kr/kg)70000Svin indrefilet48,1970050Svin ytrefilet48,1970100Svin flatbiff43,3170200Skinke m/knoke23,4570250Skinke u/ben m/svor28,1470350Svinekam u/ben31,7770450Svinenakke u/ben38,7470500Picnicråstoff32,0970510Ribberull32,0970550Sideflesk u/ben sort 138,9470600Westfalerråstoff53,8170630Purkekjøttsortering 6 %46,5370640Purkekjøttsortering 23 %17,7670700Svinekjøttsortering 6 %48,1970750Svinekjøttsortering 23 %18,3470800Svin småflesk u/svor14,2070850Svinespekk u/svor17,6870900Svinelever3,4171000Storfe indrefilet75,6571050Storfe ytrefilet75,6571100Storfe flatbiff75,6571150Storfe rundbiff75,6571200Storfe mørbrad u/ben75,6571250Storfe bankekjøtt75,6571300Okserullsortering 4 %75,6571350Storfekjøttsortering 5 %75,6571400Storfekjøttsortering 14 %52,4071500Storfekjøttsortering 21 %45,0871850Storfe kam u/ben75,6571900Storfe høyrygg u/ben52,4071950Storfe bogstek52,4072300Kalvekjøttsortering 8 %44,1373000Fårekjøttsortering 25 %29,8573100Fårelår m/knoke u/mørbrad47,2873150Fårelår u/ben70,9273200Lammelår m/isben47,0773250Lammelår u/ben65,9073400Lammerullsortering87,0573500Lam pinnekjøttråstoff u/nakke40,7573600Lam pinnekjøttråstoff m/nakke40,75",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Maksimumsgrenser for tilskuddsberettiget innhold av kjøttråvarer i XRK-ordningen",
+      "path": [],
+      "text": "Det gis ikke tilskudd under XRK-ordningen for råvareinnhold som overstiger følgende maksimumsgrenser:TollposisjonType vareMaksimalt råvareinnhold inkludert svinn02.10Hel vare med bein155%02.10Hel vare uten bein167%16.01Spekeprodukter155%16.01Andre produkter110%16.02Alle produkter135%",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. februar 2005.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

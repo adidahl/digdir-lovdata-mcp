@@ -1,0 +1,39 @@
+{
+  "id": "LOV-1958-03-28-4",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om ansvar og garanti for statens oppkrevere og regnskapsførere m.v.",
+  "short_title": "Lov om statens oppkrevere m.v.",
+  "department": "Finansdepartementet",
+  "legal_area": "Arbeidsrett > Offentlige tjenestemenn",
+  "last_change_in_force": "2004-07-01",
+  "last_changed_by": "lov/2004-05-07-21 fra 2004-07-01",
+  "lovdata_refid": "lov/1958-03-28-4",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1958-03-28-4",
+  "raw_xml_sha256": "c97788e1a59430d79d6b13ed5521addff89f30ab396dd7c7900c39be32144555",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Enhver embets- eller tjenestemann som innkrever eller mottar penger for staten, eller som for øvrig står staten til regnskap for innbetaling, utbetaling, oppbevaring eller forvaltning av penger eller verdipapirer, er overfor staten ansvarlig for tap som skyldes at han ikke har opptrådt forsvarlig.\nKongen kan nedsette et pådratt erstatningsansvar eller la det falle bort, dersom det finnes rimelig under omsyn til den utviste skyld, skadens størrelse og tilhøva ellers.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Kongen kan gi regler om at alle eller enkelte av statens oppkrevere, kasserere eller regnskapsførere skal stille en nærmere fastsatt sikkerhet for sitt ansvar overfor staten.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Bestemmelsen i § 1, annet ledd, skal også gjelde for ansvar som er oppstått før lovens ikrafttreden.\nFra lovens ikrafttreden oppheves følgende bestemmelser for så vidt de ennå er i kraft: – – –",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

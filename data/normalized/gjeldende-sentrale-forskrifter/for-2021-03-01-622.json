@@ -1,0 +1,97 @@
+{
+  "id": "FOR-2021-03-01-622",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om menerstatning ved pasientskader",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2021-03-15",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-09-25-1922 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2021-03-01-622",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-03-01-622",
+  "raw_xml_sha256": "58b9455b4cc5ee37cb8ea598d6507817b21198e488f7a6e259161d7d9bfe604e",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften gjelder ved utmåling av menerstatning etter pasientskadeloven.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "I forskriften her menes medmedisinsk invaliditet: den fysiske og/eller psykiske funksjonsnedsettelsen som en skade eller sykdom vanligvis gir.skadevirkningstidspunktet: tidspunktet da pasienten opplevde de første symptomene på nedsatt helsetilstand.oppgjørstidspunktet: tidspunktet da Norsk pasientskadeerstatning (NPE) eller Pasientskadenemnda (PSN) treffer vedtak om størrelsen på menerstatningen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår for menerstatning ved pasientskader",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Dersom en pasientskade er varig og betydelig, har erstatningssøkeren rett til menerstatning. En varig pasientskade er en skade som mest sannsynlig vil vare i minst ti år. En betydelig pasientskade er en skade som gir medisinsk invaliditet på minst 15 prosent.\nI særlige tilfeller kan det gis menerstatning selv om vilkårene i første ledd ikke er oppfylt, jf. § 6.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fastsetting av medisinsk invaliditet",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Graden av medisinsk invaliditet skal fastsettes med grunnlag i invaliditetstabellen i del II og III i forskriften her. For skader som ikke er beskrevet i tabellen, skal invaliditetsgraden fastsettes på grunnlag av en skjønnsmessig sammenligning med de skadefølgene det er mest naturlig å sammenligne med. Det skal angis hvilket, eller hvilke, punkter i invaliditetstabellen det sammenlignes med.\nDen medisinske invaliditeten som pasientskaden gir, skal som hovedregel fastsettes uavhengig av andre skader eller sykdommer (separasjonsprinsippet). Invaliditetsgraden skal fastsettes uten hensyn til erstatningssøkerens fritidsinteresser eller evne til inntektsgivende arbeid.\nDen samlede invaliditetsgraden kan ikke bli høyere enn 100 prosent. Når erstatningssøkeren har fått flere pasientskader ved samme hendelse eller ulike hendelser, skal invaliditetsgraden fastsettes samlet. Én skade teller fullt ut, mens invaliditetsgraden for de øvrige skadene reduseres forholdsmessig (reduksjonsmetoden).\nDersom en pasientskade forverrer en tidligere skade eller sykdom i samme kroppsdel eller samme organ, skal invaliditeten fastsettes til differansen mellom den nye totale invaliditetsgraden og den invaliditetsgraden som følger av den tidligere skaden eller sykdommen. Det samme gjelder for skader på parvise organer.\nDersom erstatningssøkeren fra før har en skade som gir 100 prosent medisinsk invaliditet, skal invaliditetsgraden som skyldes pasientskaden, fastsettes skjønnsmessig. Det skal legges vekt på i hvilken grad den funksjonen som pasientskaden rammer allerede er redusert eller tapt.\nStørrelsen på den varige medisinske invaliditeten fastsettes når erstatningssøkeren har gjennomgått hensiktsmessig medisinsk behandling og rehabilitering og tilstanden har stabilisert seg.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utmåling av menerstatning",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Menerstatningen skal som hovedregel utmåles uavhengig av andre skader eller sykdommer (separasjonsprinsippet).\nDersom en pasientskade forverrer en tidligere skade eller sykdom i samme kroppsdel eller samme organ, skal menerstatningen for den nye pasientskaden utgjøre differansen mellom menerstatning etter den samlede invaliditetsgraden og menerstatning etter invaliditetsgraden for den tidligere skaden (differanseprinsippet) med mindre utmåling etter separasjonsprinsippet gir en høyere erstatning. Det samme gjelder for skader på parvise organer.\nDen årlige menerstatningen fastsettes på grunnlag av folketrygdens grunnbeløp (G) på oppgjørstidspunktet.\nÅrlig menerstatning beregnes slik:GruppeFastsatt invaliditetsgrad i prosentÅrlig menerstatning regnet i prosentandel av G0Lavere enn 15Ingen erstatning115–249,33225–3416335–4424445–5433,33555–6444665–7456775–8469,33885–100849Betydelig større skadefølger enn ved invaliditetsgrad på 100 (overinvaliditet)100\nMenerstatningen ytes for perioden fra skadevirkningstidspunktet til statistisk forventet levealder.\nMenerstatningen skal som hovedregel utbetales som et engangsbeløp, jf. skadeserstatningsloven § 3-9. Engangsbeløpet utgjør den årlige menerstatningen ganget med antall statistisk gjenværende leveår fratrukket forventet renteinntekt av beløpet.\nDersom erstatningssøkeren tidligere har fått utbetalt menerstatning for en pasientskade, skal menerstatningen for den nye pasientskaden utgjøre differansen mellom menerstatning etter den samlede invaliditetsgraden for pasientskadene og menerstatning etter invaliditetsgraden for den tidligere skaden (differanseprinsippet).",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Utmåling av menerstatning i særlige tilfeller",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Dersom individuelle forhold gjør at en pasientskade er vesentlig mer belastende for erstatningssøkeren enn for andre med samme type skade, skal det i særlige tilfeller gis erstatning ut fra én gruppe høyere enn den medisinske invaliditeten tilsier etter tabellen i § 5. Et slikt tilfelle kan være der erstatningssøkeren på forhånd har en tilstand eller skade som i særlig stor grad forsterker virkningene av pasientskaden.\nDersom skaden er særlig stor, kan en noe kortere skadeperiode enn ti år unntaksvis gi grunnlag for en tidsbegrenset menerstatning.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Dødsfall",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Dersom pasienten dør før et erstatningskrav er meldt til Norsk pasientskadeerstatning (NPE), utbetales det ikke menerstatning, jf. skadeserstatningsloven § 3-10 første ledd.\nDersom det er meldt et erstatningskrav til NPE, men pasienten dør før menerstatningen er utbetalt, skal menerstatningen fastsettes til summen av årlig menerstatning fra skadevirkningstidspunktet frem til dødsfallet.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Del I. Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 15. mars 2021. Forskriften gjelder for pasientskadesaker som er meldt til Norsk pasientskadeerstatning etter 15. mars 2021.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    }
+  ]
+}

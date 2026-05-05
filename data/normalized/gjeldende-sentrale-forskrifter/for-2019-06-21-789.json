@@ -1,0 +1,218 @@
+{
+  "id": "FOR-2019-06-21-789",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om medisinske kvalitetsregistre",
+  "short_title": "Forskrift om medisinske kvalitetsregistre",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2019-09-01",
+  "last_change_in_force": "2021-07-01",
+  "last_changed_by": "forskrift/2021-06-18-2023 fra 2021-07-01",
+  "lovdata_refid": "forskrift/2019-06-21-789",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-06-21-789",
+  "raw_xml_sha256": "0994f00da68ba93442e1fbb47ed4689332a932e2eaacdb6e1ef771bbcdbdbf82",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Forskriften skal sikre at innsamling og annen behandlingen av helseopplysninger i medisinske kvalitetsregistre foretas på en etisk forsvarlig måte, ivaretar den enkeltes personvern og er til individets og samfunnets beste.\nForskriften skal legge til rette for at medisinske kvalitetsregistre gjennom statistikker, analyser og forskning danner grunnlag for kvalitetsforbedring av helse- og omsorgstjenesten.\nHelseopplysninger som er samlet inn kan også brukes til planlegging, styring og beredskap i helse- og omsorgstjenesten og i helse- og omsorgsforvaltningen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Saklig virkeområde",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder innsamling og annen behandling av helseopplysninger i medisinske kvalitetsregistre.\nEt medisinsk kvalitetsregister er et helseregister hvor det løpende dokumenteres resultater fra helsehjelp for en avgrenset pasientgruppe med utgangspunkt i individuelle behandlingsforløp.\nForskriften gjelder ikke behandling av helseopplysninger etter pasientjournalloven § 6 andre ledd eller medisinske kvalitetsregistre etter helseregisterloven § 11.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Forbud mot kommersiell utnyttelse",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Kommersiell utnyttelse av de registrerte og helseopplysninger som sådan er forbudt.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Personvernforordningen, personopplysningsloven og helseregisterloven",
+      "path": [
+        "Kapittel 1 Innledende bestemmelser"
+      ],
+      "text": "Personopplysningsloven, personvernforordningen (jf. personopplysningsloven § 1) og helseregisterloven gjelder for behandling av helseopplysninger i medisinske kvalitetsregistre. Behandlingsgrunnlaget for de medisinske kvalitetsregistrene som forskriften omfatter er personvernforordningen artikkel 6 nr. 1 bokstav e og denne forskriften.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Opplysningstyper som kan registreres",
+      "path": [
+        "Kapittel 2 Opplysninger i medisinske kvalitetsregistre"
+      ],
+      "text": "Når det er nødvendig for kvalitetsregisterets formål, kan følgende opplysninger registreres:direkte personidentifiserende kjennetegnfødselsnummer eller annen personidentifikatordemografiske og sosioøkonomiske opplysningerfødselsdatokjønnfødekommune/fødelanddødsdatobostedsivilstandandre relevante demografiske og sosioøkonomiske opplysningeradministrative opplysninger om tjenestenetjenesteyter/organisasjontidsangivelse for varighet og kontakt med tjenestensamhandling innad i tjenestenom utskriving og oppfølgning innad og mellom tjenestenivåhelse- og omsorgsfaglige opplysningerhelsetilstanddiagnoserutredningbehandlingsprosedyrer og behandlingstiltak, eksempelvisoperasjon som operasjonskode, -type, -dato, -klokkeslett og -varighetbruk av utstyrlegemiddelbrukrehabiliteringstiltak mv.risikofaktorer for sykdom og funksjonssvikthelseopplysninger framkommet ved analyser av humant biologisk materiale tilknyttet registeretbehandlingsresultater og eventuelle bivirkninger, seneffekter og komplikasjonerpasient- og pårørenderapporterte opplysningerdødsårsak, hendelsessted og situasjoner.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Bruk av standardiserte variabler og nasjonale fellesløsninger",
+      "path": [
+        "Kapittel 2 Opplysninger i medisinske kvalitetsregistre"
+      ],
+      "text": "Den dataansvarlige skal legge til rette for bruk av standardiserte variabler, slik at sammenstilling med opplysninger fra andre registre er mulig. Dette skal gjøres ved åbruke Folkeregisterets standarder ved registrering av relevante opplysningerbenytte andre standardiserte variabler hvor det er relevant.\nDen dataansvarlige skal ta i bruk nasjonale fellesløsninger for utsendelse av informasjon, reservasjon og innsyn der dette finnes og er relevant.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Innmelding av opplysninger",
+      "path": [
+        "Kapittel 2 Opplysninger i medisinske kvalitetsregistre"
+      ],
+      "text": "Virksomheter og helsepersonell som tilbyr eller yter tjenester som omfattes av apotekloven, folkehelseloven, helse- og omsorgstjenesteloven, legemiddelloven, smittevernloven, spesialisthelsetjenesteloven eller tannhelsetjenesteloven kan melde inn relevante og nødvendige helseopplysninger til medisinske kvalitetsregistre som omfattes av forskriften.\nVirksomheter og helsepersonell som nevnt i første ledd, skal melde inn relevante og nødvendige helseopplysninger til medisinske kvalitetsregistre med nasjonal status. Nasjonal status tildeles av Helsedirektoratet.\nOpplysningene kan meldes inn uten hinder av taushetsplikten når registreringen ikke har grunnlag i samtykke, jf. § 3-2. I andre tilfeller må innmeldingen være omfattet av den registrertes samtykke.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Samtykke",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Det kreves samtykke fra den registrerte for å behandle opplysninger i medisinske kvalitetsregistre, hvis ikke opplysningene kan behandles uten samtykke etter § 3-2. For at samtykket skal være gyldig, må deltakeren ha fått informasjon i samsvar med personvernforordningen artikkel 13 og 14 og denne forskriften § 3-5.\nHvem som har samtykkekompetanse følger av helseregisterloven § 15.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Vilkår for å behandle opplysninger uten den registrertes samtykke",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Helseopplysninger kan samles inn og behandles uten den registrertes samtykke dersom følgende vilkår er oppfylt:krav om samtykke medfører at pasientgruppen og helsehjelpen ikke blir godt nok representert til at kvalitetsregisteret kan oppnå sitt formål,den registrerte har rett til å motsette seg at opplysningene behandles,den dataansvarlige har rådført seg med personvernombudet, ogden dataansvarlige for kvalitetsregisteret er et regionalt helseforetak, helseforetak, kommune, fylkeskommune eller privat ideell virksomhet med driftsavtale med et regionalt helseforetak.\nDen dataansvarlige skal dokumentere at vilkårene i første ledd er oppfylte og på hvilken måte den registrerte sin rett til informasjon skal oppfylles, jf. § 3-5. Dokumentasjonen skal være offentlig tilgjengelig.\nHvem som har kompetanse til å motsette seg behandling av helseopplysninger følger av hvem som har samtykkekompetanse etter helseregisterloven § 15.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Virkning av å trekke samtykke tilbake eller å motsette seg behandling",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Dersom den registrerte trekker samtykket tilbake eller motsetter seg behandling, må behandlingen av opplysningene opphøre. Den registrerte kan kreve at helseopplysningene slettes innen 30 dager. Adgangen til å kreve sletting gjelder ikke dersom opplysningene er anonymisert eller allerede inngår i utførte analyser.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Krav om dokumentasjon",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Før behandling av helseopplysninger tar til skal den dataansvarligefastsette ett eller flere formål for det medisinske kvalitetsregisteret, som skal være innenfor formålene i § 1-1fastsette kriterier for hvilke pasientgrupper og/eller behandlingsform som skal inkluderes i kvalitetsregisteretfastsette hvilke opplysninger, som vil bli samlet inn og behandlet, og at opplysningene er nødvendige for å oppnå kvalitetsregisterets formåldokumentere hvilke virksomheter som skal melde inn opplysningervurdere hvordan personvernkonsekvenser kan minimeresdokumentere opprettelsen av et fagråd hvor fagmiljøet og pasientgruppen er representerte, jf. § 3-6gi informasjon til de registrerte i samsvar med § 3-5. Dersom opplysningene samles inn uten samtykke etter § 3-2, skal informasjonen gis så snart som mulig.innhente samtykke fra de registrerte i samsvar med § 3-1, med mindre opplysningene kan behandles uten samtykke etter § 3-2fastsette plan for hvordan andelen registrerte i kvalitetsregisteret skal bli høy nok til å representere pasientgruppenfastsette prosedyrer for tilgjengeliggjøring av helseopplysningerdokumentere at det ikke finnes overlappende registrefastsette hvordan kravene til taushetsplikt, informasjonssikkerhet, internkontroll, kvalitetskontroll mv. etter personvernforordningen, helseregisterloven og denne forskriften, skal ivaretas.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Informasjon til de registrerte",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Den dataansvarlige skal sørge for at de registrerte får den informasjonen som er nødvendig for at de skal få innsikt i hva samtykket og retten til å motsette seg innebærer. Informasjonen som gis skal være i samsvar med personvernforordningen artikkel 13 og 14.\nDe registrerte skal minst få informasjon omhvilket kvalitetsregister innsamlingen av helseopplysningene gjelderkvalitetsregisterets formålhvor opplysningene hentes frahvem som er dataansvarlighvilke opplysninger som vil bli behandlethvor lenge helseopplysningene skal lagresom hvordan videre informasjon vil bli gittom helseopplysninger skal tilgjengeliggjøres, eventuelt hvilke vilkår dataansvarlig stiller for tilgjengeliggjøringenom opplysningene kan sammenstilles med andre registre og hvilke registre de kan sammenstilles medhvordan den registrerte kan motsette seg behandling av opplysningene eller trekke tilbake samtykkeden registrertes rett til innsyn, retting, sletting, sperring mv. etter helseregisterloven §§ 24 flg.,at den registrerte kan henvende seg til Datatilsynet eller Statens Helsetilsyn dersom helseopplysningene ikke behandles i samsvar med forskriften eller annet relevant regelverk.\nInformasjonen skal gis før samtykke innhentes eller så snart som mulig for opplysninger som samles inn uten samtykke etter § 3-2.\nNår foreldre eller andre med foreldreansvar har samtykket på vegne av en registrert og den registrerte blir 16 år, skal den registrerte få informasjon om behandlingen av helseopplysningene i kvalitetsregisteret, samtykket og retten til å trekke samtykket tilbake eller motsette seg behandling.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 3-6",
+      "heading": "Fagråd",
+      "path": [
+        "Kapittel 3 Samtykke, informasjon, dokumentasjon mv."
+      ],
+      "text": "Fagrådet skal avgi uttalelse før det fattes beslutninger av betydning for registerets innhold og organisering.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 4 Utlevering og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Helseopplysninger i medisinske kvalitetsregistre skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder i tillegg helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Plikt til å utarbeide og offentliggjøre statistikk",
+      "path": [
+        "Kapittel 4 Utlevering og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Den dataansvarlige skal utarbeide og løpende offentliggjøre relevant statistikk basert på opplysninger som er behandlet i samsvar med § 4-1.\nUtarbeidet statistikk skal være anonym.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Tilbakerapportering",
+      "path": [
+        "Kapittel 4 Utlevering og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Den dataansvarlige skal legge til rette for at virksomheter som melder inn helseopplysninger får tilgang til oppdaterte og relevante opplysninger for å kunne kvalitetsforbedre sine helse- og omsorgstjenester.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-8",
+      "heading": "Kvalitetskontroll i registeret",
+      "path": [
+        "Kapittel 4 Utlevering og annen behandling av helseopplysninger i registeret"
+      ],
+      "text": "Den dataansvarlige skal kvalitetskontrollere helseopplysningene som behandles i registeret. Som ledd i kvalitetskontrollen kan den dataansvarlige gjennomføre rutinemessige sammenstillinger med tilsvarende opplysninger i lovbestemte registre etter helseregisterloven § 11 og Folkeregisteret. Som ledd i kvalitetskontrollen kan helseopplysningene også sammenholdes med opplysninger i originalkilden (pasientjournal mv.). Dette skal skje hos virksomheten som har meldt inn opplysningene, gjennom elektronisk tilgang eller på annen måte. Opplysninger som gjøres tilgjengelige skal være tilstrekkelige og relevante for den kvalitetskontrollen som skal gjennomføres.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 5 Informasjonssikkerhet"
+      ],
+      "text": "Den dataansvarlige og databehandlere som den dataansvarlige har inngått avtale med, skal gjennomføre tekniske og organisatoriske tiltak for å oppnå et sikkerhetsnivå som er egnet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Kryptering og tilgang til opplysninger",
+      "path": [
+        "Kapittel 5 Informasjonssikkerhet"
+      ],
+      "text": "Fødselsnummer og andre direkte personidentifiserende kjennetegn skal separeres og lagres kryptert og adskilt fra andre registeropplysninger.\nBare autorisert personell som utfører tjenester eller arbeid mot registeret og arbeider under den dataansvarlige eller databehandlers instruksjonsmyndighet, kan gis tilgang til identifiserende opplysninger i registeret. Tilgangen kan ikke være mer omfattende enn det som er nødvendig for vedkommende sitt arbeid.\nBare spesielt autoriserte personer som har behov for det i arbeidet, skal ha tilgang til ukrypterte helseopplysninger med direkte personidentifiserende kjennetegn (fødselsnumre eller annen personidentifikasjon).",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6 Ikrafttreden"
+      ],
+      "text": "Forskriften gjelder fra den tid departementet bestemmer.1 Departementet kan sette i kraft ulike deler av forskriften til ulike tider.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    }
+  ]
+}

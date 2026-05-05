@@ -1,0 +1,43 @@
+{
+  "id": "FOR-1994-06-21-644",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om Lovdatas lov- og forskriftsdatabaser.",
+  "short_title": "Forskrift om Lovdatas lovdatabaser mv",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1994-06-21",
+  "lovdata_refid": "forskrift/1994-06-21-644",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1994-06-21-644",
+  "raw_xml_sha256": "a34747fffd2a210ad0c601db08340c0940de66cade9a141bf3defca5f781e78f",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Justisdepartementet gis adgang til å inngå avtale med stiftelsen Lovdata om utnyttelse av Lovdatas databaser for lover og forskrifter.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Databaser som omhandles i en slik avtale, er unntatt fra kreditorbeslag når ikke annet er fastsatt i avtalen. En database som på dette grunnlag er unntatt fra kreditorbeslag, kan ikke overdras eller pantsettes uten departementets samtykke.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [
+        "I"
+      ],
+      "text": "Dersom stiftelsen Lovdata blir oppløst, eller slutter å tilby rettslige informasjonstjenester, skal staten ha rett til å overta de databaser der lov- og forskriftsmateriale inngår som en vesentlig del.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    }
+  ]
+}

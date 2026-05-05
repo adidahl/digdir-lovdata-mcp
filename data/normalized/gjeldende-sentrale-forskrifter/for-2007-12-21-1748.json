@@ -1,0 +1,106 @@
+{
+  "id": "FOR-2007-12-21-1748",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til kalibrering av måletanker som brukes til beregning av økonomisk oppgjør",
+  "short_title": "Forskrift om krav til kalibrering, måletanker",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2008-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-01-1989 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2007-12-21-1748",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-12-21-1748",
+  "raw_xml_sha256": "4ee5f13c06fbb89396732f58169de70032df1642c1b2689ff2ff9e86b2f159d4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften setter krav til kalibrering av måletanker inntil 20 000 kubikkmeter som benyttes til bestemmelse av mengde ved økonomisk oppgjør i Norge og kalibrering av lengdemål som brukes til å måle nivået på væsken i måletanken (nivåmåleutstyr).\nForskriften gjelder når det er fastsatt krav til kalibrering av måletanker i forskrift 20. desember 2007 nr. 1723 om målenheter og måling § 3-1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "Måletank: Tank som benyttes som måleredskap for å fastsette volum av et medium.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Tilsyn av måletanker og lengdemål",
+      "path": [],
+      "text": "Justervesenet fører nødvendig tilsyn med at krav fastsatt i forskriften overholdes.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til kalibrering av måletanker",
+      "path": [],
+      "text": "Måletanker skal ha dokumentasjon på kalibrering utstedt i henhold til kravene i forskriften her, før de tas i bruk som grunnlag for beregning av økonomisk oppgjør.\nKalibrering av måletanker skal utføres av organ med tilstrekkelig kompetanse, som viser resultatene av kalibreringsoperasjonene i en måleprotokoll med vedlagte tegninger og tabeller.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til når måletanken skal kalibreres",
+      "path": [],
+      "text": "Måletanken skal kalibreres i henhold til kravene i forskriften her, hvert tiende år eller når måletanken av andre grunner inspiseres eller er gjenstand for service. Kalibrering skal uansett foretas innen maksimalt tretten år etter forrige kalibrering. Krav til når måletanken skal kalibreres gjelder ikke dersom bruker har internkontroll som sikrer krav til måletanken.\nMåletanker som er reparert på en slik måte at det kan påvirke måleresultatet, skal kalibreres på nytt før de tas i bruk som grunnlag for beregning av økonomisk oppgjør. Det samme gjelder måletanker som er blitt utsatt for behandling som medfører risiko for at måletanken ikke lenger har de egenskaper som dokumentert ved kalibrering.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Krav til nøyaktighet under bruk",
+      "path": [],
+      "text": "Usikkerheten i bestemmelsen av måletankens innhold under bruk skal, uttrykt i volum, maksimalt tilsvare 0,5 prosent av tankens kapasitet.\nJustervesenet kan i særlige tilfeller akseptere høyere måleusikkerhet i målesystemet.\nJustervesenet kan kreve fremlagt dokumentasjon på alle komponenter av målesystemet og kreve at brukerne av måletanken dokumenterer usikkerheten ved hjelp av beregninger basert på anerkjente metoder hvor dette anses nødvendig.\nMålesystemet skal være robust og egnet for tiltenkt bruksformål.\nMåleresultatet kan kun brukes som grunnlag for beregning av økonomisk oppgjør dersom den utmålte mengde væske medfører en endring i tanken som er mer enn 500 millimeter.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Krav til innhold i måleprotokollen",
+      "path": [],
+      "text": "Måleprotokollen skal inneholde en volumtabell for hver måletank eller gruppe av like måletanker. Tabellen skal være inndelt i centimeter eller desimeter, ha en angivelse av den totale referansehøyde H samt eventuelt en interpolasjonstabell inndelt i millimeter. På toppen av tabellen skal det angis om den gjelder for «innage» (måling fra dip-plate til væskeflate) eller «ullage» (måling fra knivegg til væskeflate).",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Krav til konstruksjon av måletanker og røropplegg",
+      "path": [],
+      "text": "Konstruksjonen og arrangementet av måletankene og tilkoblede rør skal være slik at de under normale driftsforhold uten vanskelighet kan tømmes eller fylles fullstendig uten at det formes luftlommer som kan medføre målefeil.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Krav til kalibrering av lengdemål",
+      "path": [],
+      "text": "Lengdemål som brukes til å måle nivået på væsken i måletanken (nivåmåleutstyr) skal ha dokumentasjon på kalibrering utstedt i henhold til kravene i forskriften her før det tas i bruk som grunnlag for beregning av økonomisk oppgjør.\nLengdemålet skal kalibreres hvert tredje år eller når måletanken av andre grunner inspiseres eller er gjenstand for service. Kalibrering skal uansett foretas innen maksimalt seks år. Lengdemålet skal være samsvarsvurdert og tilpasset formålet.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Overtredelse av bestemmelsene i denne forskriften kan medføre pålegg av overtredelsesgebyr utmålt etter bestemmelsene i forskrift om målenheter og måling kapittel 7.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Ikrafttredelse og opphevelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2008.\nFra samme tidspunkt oppheves forskrift 28. september 2006 nr. 1103 om krav til kalibrering av skipstanker som brukes til beregning av økonomisk oppgjør.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

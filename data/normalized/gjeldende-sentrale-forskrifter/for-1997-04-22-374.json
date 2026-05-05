@@ -1,0 +1,50 @@
+{
+  "id": "FOR-1997-04-22-374",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pensjonsordninger for kommunalt eller fylkeskommunalt ansatte",
+  "short_title": "Forskrift om pensjon for kommuneansatte",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-05-01",
+  "last_change_in_force": "2014-01-01",
+  "last_changed_by": "forskrift/2013-09-18-1094 fra 2014-01-01",
+  "lovdata_refid": "forskrift/1997-04-22-374",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-04-22-374",
+  "raw_xml_sha256": "3a81c70076ee6e8cd51852f9c8d3c49777a57177dd42652b11283e3807a4208c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Pensjoner/aldersgrenser",
+      "path": [],
+      "text": "De kommunale og fylkeskommunale pensjonsordninger må ikke gi høyere ytelser enn etter lov 28. juli 1949 nr. 26 om Statens pensjonskasse.\nAldersgrensen må ikke være lavere enn fastsatt for tilsvarende stillinger i henhold til lov 21. desember 1956 nr. 1 om aldersgrenser for offentlige tjenestemenn m.fl.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Omfang",
+      "path": [],
+      "text": "Pensjonsordningen skal omfatte alle arbeidstakere som er obligatorisk medlem i folketrygden, jf. lov 28. februar 1997 nr. 19 om folketrygd. Ordningen kan også omfatte de folkevalgte i kommuner og fylkeskommuner som er obligatorisk medlem i folketrygden. De nærmere vilkårene for medlemskap i pensjonsordningen fastsettes i regelverket for ordningen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Utfyllende bestemmelser",
+      "path": [],
+      "text": "Når særlige grunner taler for det, kan departementet – eller Finanstilsynet i den utstrekning departementet har gitt fullmakt til det – dispensere fra bestemmelsene i forskriften.\nFinanstilsynet kan gi nærmere regler til utfylling og gjennomføring av forskriften.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997. Fra samme tidspunkt oppheves forskrifter av 25. april 1975 nr. 1 om kommunale og fylkeskommunale pensjonsordninger.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

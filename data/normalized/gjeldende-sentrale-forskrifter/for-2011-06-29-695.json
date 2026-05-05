@@ -1,0 +1,194 @@
+{
+  "id": "FOR-2011-06-29-695",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kontroll av kjøkkenartikler i plast importert fra Kina og Hongkong",
+  "short_title": "Forskrift om kjøkkenartikler fra Kina og Hongkong",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2011-07-01",
+  "last_change_in_force": "2025-11-25",
+  "last_changed_by": "forskrift/2025-11-25-2355",
+  "lovdata_refid": "forskrift/2011-06-29-695",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-06-29-695",
+  "raw_xml_sha256": "5b66a014a2f7169e1d47f35080805dbccbf5b549376fcf996eb5c1e0d45016b0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften omfatter import av kjøkkenartikler i polyamid eller melamin plast, produsert i eller eksportert fra Kina og Hongkong, som faller inn under tolltariffnummeret 39.24.1002.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forordning (EU) nr. 284/2011",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kapittel I del 7.1 nr. 13 og vedlegg II kapittel XII nr. 54zzzc (forordning (EU) nr. 284/2011) om særlige betingelser og prosedyrer for import av kjøkkenredskaper i plast av polyamid og melamin med opprinnelse i eller sendt fra Kina eller Hong Kong gjelder som forskrift med de tilpasninger som følger av vedlegg I og II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Utpekte importsteder",
+      "path": [],
+      "text": "Mattilsynets grensekontrollstasjoner ved Oslo lufthavn, Oslo havn, Borg havn, Larvik havn og Haugesund havn utpekes som importsteder i henhold til forordning (EU) nr. 284/2011 artikkel 5.\nImportør eller dennes representant skal fremstille forsendelsen for kontroll ved et av disse importstedene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forhåndsmelding av import",
+      "path": [],
+      "text": "Ved import av produkter omfattet av denne forskriften skal importør eller dennes representant benytte innførselsdokumentet CHED-D som sendes tilsynsmyndigheten på importstedet gjennom TRACES.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige enkeltvedtak, jf. matloven § 23, for å oppnå etterlevelse av bestemmelser gitt i eller i medhold av denne forskriften. Mattilsynet kan også fatte enkeltvedtak i henhold til matloven § 24 til § 26.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Overtredelse av bestemmelser gitt i denne forskriften eller enkeltvedtak gitt i medhold av forskriften, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. juli 2011.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1",
+      "heading": "Genstand",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "I denne forordning fastsættes der særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina (i det følgende benævnt «Kina») og Det Særlige Administrative Område Hongkong i Folkerepublikken Kina (i det følgende benævnt «Hongkong»).",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2",
+      "heading": "Definitioner",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "I denne forordning forstås ved:«plastkøkkenredskaber»: plastmaterialer som beskrevet i artikel 1, stk. 1 og 2, i direktiv 2002/72/EF og henhørende under KN-kode ex 3924 10 00«sending»: et antal plastkøkkenredskaber af polyamid eller melamin, som er omfattet af det eller de samme dokumenter, og som befordres med samme transportmiddel og kommer fra samme tredjeland«kompetente myndigheder»: medlemsstaternes kompetente myndigheder, som udpeges i overensstemmelse med artikel 4 i forordning (EF) nr. 882/2004«første indgangssted»: det sted, hvor en sending føres ind i Unionen«dokumentkontrol»: kontrol af de dokumenter, der er omhandlet i artikel 3 i denne forordning«identitetskontrol»: besigtigelse for at sikre, at de dokumenter, der ledsager sendingen, er i overensstemmelse med sendingens indhold«fysisk kontrol»: udtagning af prøver til analyse og laboratorietest og enhver anden kontrol, der er nødvendig for at undersøge om kravene vedrørende afgivelse af PPA og formaldehyd i direktiv 2002/72/EF er overholdt.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3",
+      "heading": "Importbetingelser",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "1. Plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Kina eller Hongkong må kun importeres til medlemsstaterne, hvis importøren for hver enkelt sending forelægger en behørigt udfyldt erklæring for den kompetente myndighed om, at den opfylder de krav vedrørende afgivelse af primære aromatiske aminer og formaldehyd, der er fastsat i henholdsvis del A i bilag V og i afsnit A i bilag II til direktiv 2002/7 2/EF.2. En model af den i stk. 1 omhandlede erklæring er fastsat i bilaget til denne forordning. Denne erklæring affattes på det eller et af de officielle sprog i den medlemsstat, hvor sendingen importeres til.3. Den i stk. 1 omhandlede erklæring ledsages af en laboratorierapport, som indeholder:for så vidt angår køkkenredskaber af polyamid, analyseresultater, der viser, at de ikke afgiver primære aromatiske aminer i detekterbare mængder til fødevarer eller fødevaresimulatorer. Detektionsgrænsen gælder for summen af primære aromatiske aminer. For så vidt angår analysen, fastsættes detektionsgrænsen for primære aromatiske aminer til 0, 01 mg/kg fødevarer eller fødevaresimulatorerfor så vidt angår køkkenredskaber af melamin, analyseresultater, der viser, at de ikke afgiver formaldehyd til fødevarer eller fødevaresimulatorer i en mængde, der overstiger 15 mg/kg fødevarer.4. Den kompetente myndighed angiver i den erklæring, der er fastsat i bilaget til denne forordning, om varerne kan godkendes til overgang til fri omsætning eller ej, afhængigt af om de opfylder de vilkår og betingelser, der er fastsat i direktiv 2002/72/EF, jf. stk. 1.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-4",
+      "provision_ref": "a4",
+      "heading": "Forhåndsmeddelelse om sendinger",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "Importørerne eller deres repræsentanter giver mindst to arbejdsdage i forvejen den kompetente myndighed på det første indgangssted meddelelse om forventet dato og tidspunkt for den fysiske ankomst af sendingerne med oprindelse i eller afsendt fra Kina eller Hongkong.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-5",
+      "provision_ref": "a5",
+      "heading": "Meddelelse om det første indgangssted",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "Hvis medlemsstaterne beslutter at udpege særlige første indgangssteder for sendinger med oprindelse i eller afsendt fra Kina eller Hongkong, offentliggør de på internettet en ajourført liste over disse steder og meddeler Kommissionen internetadressen.\nDer skal på Kommissionens websted til orientering være links til de nationale lister over særlige første indgangssteder.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-6",
+      "provision_ref": "a6",
+      "heading": "Kontrol på det første indgangssted",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "1. Den kompetente myndighed på det første indgangssted gennemfører:dokumentkontrol af alle sendinger inden for to arbejdsdage efter deres ankomstidentitetskontrol og fysisk kontrol, herunder laboratorieanalyser af 10 % af sendingerne på en sådan måde, at importørerne eller deres repræsentanter ikke kan forudsige, om en bestemt sending vil blive underkastet en sådan kontrol; resultaterne af den fysiske kontrol skal være tilgængelige så hurtigt som teknisk muligt.2. Hvis der ved de i stk. 1, litra b), omhandlede laboratorieundersøgelser konstateres manglende overholdelse, underretter de kompetente myndigheder straks Kommissionen om resultaterne via det hurtige varslingssystem for fødevarer og foder, som er indført ved artikel 50 i forordning (EF) nr. 178/2002.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-7",
+      "provision_ref": "a7",
+      "heading": "Videre transport",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "Den kompetente myndighed på det første indgangssted kan give tilladelse til videre transport af sendinger med oprindelse i eller afsendt fra Kina eller Hongkong, før resultaterne af den kontrol, der er omhandlet i artikel 6, stk. 1, litra b), foreligger.\nHvis den kompetente myndighed udsteder den i stk. 1 omhandlede tilladelse, meddeler den den kompetente myndighed på bestemmelsesstedet dette og forelægger en kopi af den i bilaget fastsatte erklæring i behørigt udfyldt stand, jf. artikel 3, og resultaterne af den kontrol, der er omhandlet i artikel 6, stk. 1, litra b), så snart disse foreligger.\nMedlemsstaterne sikrer, at der træffes passende foranstaltninger for at sikre, at sendingerne forbliver under de kompetente myndigheders konstante kontrol og på ingen måde kan ændres, indtil resultaterne af den kontrol, der er omhandlet i artikel 6, stk. 1, litra b), foreligger.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-8",
+      "provision_ref": "a8",
+      "heading": "Overgang til fri omsætning",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "Plastkøkkenredskaber af polyamid og melamin med oprindelse i Kina eller Hongkong overgår først til fri omsætning, når den i bilaget fastsatte erklæring i behørigt udfyldt stand er blevet forelagt toldmyndighederne, jf. artikel 3.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-9",
+      "provision_ref": "a9",
+      "heading": "Rapportering til Kommissionen",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "1. Når de kompetente myndigheder gennemfører den kontrol, der er omhandlet i artikel 6, stk. 1, skal de registrere følgende oplysninger:oplysninger om hver enkelt kontrolleret sending, herunder:størrelsen angivet som antal artikleroprindelseslandantal sendinger, hvoraf der blev udtaget prøver med henblik på analyseresultaterne af den i artikel 6 nævnte kontrol.2. Medlemsstaterne forelægger Kommissionen en rapport med de oplysninger, der er omhandlet i stk. 1, inden udgangen af den måned, der følger efter hvert kvartal.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-paragraf-10",
+      "provision_ref": "a10",
+      "heading": "Ikrafttræden",
+      "path": [
+        "Forordninger",
+        "Forordning (EU) nr. 284/2011 (dansk versjon)",
+        "KOMMISSIONENS FORORDNING (EU) Nr. 284/2011af 22. marts 2011om fastsættelse af særlige betingelser og nærmere procedurer for import af plastkøkkenredskaber af polyamid og melamin med oprindelse i eller afsendt fra Folkerepublikken Kina og Det Særlige Administrative Område Hongkong, Kina"
+      ],
+      "text": "Denne forordning træder i kraft på tyvendedagen efter offentliggørelsen i Den Europæiske Unions Tidende.\nDenne forordning anvendes fra den 1. juli 2011.\nDenne forordning er bindende i alle enkeltheder og gælder umiddelbart i medlemsstaterne i overensstemmelse med traktaterne.\nUdfærdiget i Bruxelles, den 22. marts 2011.På Kommissionens vegneJosé Manuel BARROSOFormand",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-paragraf-10"
+    }
+  ]
+}

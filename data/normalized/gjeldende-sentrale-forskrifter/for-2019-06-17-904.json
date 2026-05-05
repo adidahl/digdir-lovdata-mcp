@@ -1,0 +1,236 @@
+{
+  "id": "FOR-2019-06-17-904",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kontrollutvalg og revisjon",
+  "short_title": "Forskrift om kontrollutvalg og revisjon",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "Fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023",
+  "lovdata_refid": "forskrift/2019-06-17-904",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-06-17-904",
+  "raw_xml_sha256": "29c07a09e8963dcda5a5c70b31921724b1ed72e5c26603e3805e3e2658402047",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Rammer for kontrollutvalgets myndighet",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Kontrollutvalget kan ikke overprøve politiske prioriteringer som er foretatt av kommunens eller fylkeskommunens folkevalgte organer eller andre kommunale organer.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kontrollutvalgets rolle i fastsettelsen av budsjettet for kontrollarbeidet",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Kontrollutvalget skal utarbeide forslag til budsjett for kontrollarbeidet i kommunen eller fylkeskommunen. Forslaget skal følge innstillingen til årsbudsjettet etter kommuneloven § 14-3 tredje ledd til kommunestyret eller fylkestinget.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Kontrollutvalgets oppgaver ved regnskapsrevisjon",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Kontrollutvalget skal holde seg løpende orientert om revisjonsarbeidet og påse atkommunens eller fylkeskommunens årsregnskaper blir revidert på en betryggende måteregnskapsrevisjonen utføres i samsvar med lov, forskrift og kontrollutvalgets instrukser og avtaler med revisorregnskapsrevisjonen blir utført av revisorer som oppfyller kravene i kapittel 2 og 3.\nKontrollutvalget skal uttale seg til kommunestyret eller fylkestinget om årsregnskapene og årsberetningene før formannskapet eller fylkesutvalget innstiller til vedtak.\nKontrollutvalget skal påse at regnskapsrevisorens påpekinger etter kommuneloven § 24-7 til § 24-9 blir rettet eller fulgt opp. Hvis påpekingene ikke blir rettet eller fulgt opp, skal kontrollutvalget rapportere det til kommunestyret eller fylkestinget.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Kontrollutvalgets rapportering om forvaltningsrevisjoner og eierskapskontroller",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Kontrollutvalget skal rapportere til kommunestyret eller fylkestinget om gjennomførte forvaltningsrevisjoner og eierskapskontroller og resultatet av dem.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Kontrollutvalgets oppfølging av kommunestyrets eller fylkestingets vedtak om revisjoner og eierskapskontroller",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Kontrollutvalget skal påse at kommunestyrets eller fylkestingets vedtak om regnskapsrevisjoner, forvaltningsrevisjoner og eierskapskontroller blir fulgt opp og skal rapportere til kommunestyret eller fylkestinget om vedtaket er fulgt opp.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Innkallinger til møte i kontrollutvalget",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Innkallinger til møte i kontrollutvalget skal sendes til utvalgets medlemmer, ordfører eller fylkesordfører og kommunens eller fylkeskommunens oppdragsansvarlige revisorer.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Sekretariatets oppgaver",
+      "path": [
+        "Kapittel 1. Kontrollutvalgets og sekretariatets oppgaver mv."
+      ],
+      "text": "Sekretariatet skal forberede sakene for kontrollutvalget og skal påse at de sakene som behandles av kontrollutvalget, er forsvarlig utredet. Sekretariatet skal også påse at kontrollutvalgets vedtak blir iverksatt.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Ansettelse, suspensjon, oppsigelse og avskjedigelse av revisor",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Når kommunen eller fylkeskommunen har egen revisjon, er det kommunestyret eller fylkestinget selv som ansetter, suspenderer, sier opp og avskjediger revisjonens leder. Kontrollutvalget innstiller i slike saker. Revisjonens leder ansetter, suspenderer, sier opp og avskjediger revisjonens øvrige ansatte.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 9",
+      "heading": "Revisjonsplikt, valg av regnskapsrevisor og kvalifikasjonskrav",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Plikten til å utføre regnskapsrevisjon gjelder for alle kommunens eller fylkeskommunens årsregnskaper etter kommuneloven § 14-6 første ledd.\nKommunestyret og fylkestinget velger hvem som skal være regnskapsrevisor for hver av kommunens eller fylkeskommunens årsregnskaper og årsberetninger.\nDen oppdragsansvarlige for regnskapsrevisjon etter kommuneloven skal ha en bachelor- eller mastergrad i regnskap og revisjon i samsvar med Finanstilsynets krav til registrert og statsautorisert revisor gitt med hjemmel i revisorloven, og i tillegg ha tre års praksis fra regnskapsrevisjon. En person som var oppdragsansvarlig revisor i en kommune eller fylkeskommune 1. juli 2004, kan likevel fortsette som oppdragsansvarlig i den samme kommunen eller fylkeskommunen, selv om personen ikke oppfyller kravet i første punktum.\nRepresentantskapet skal velge regnskapsrevisor når et interkommunalt politisk råd eller et kommunalt oppgavefellesskap etter kommuneloven § 14-8 første ledd utarbeider eget årsregnskap og egen årsberetning, og det ikke er fastsatt noe annet i samarbeidsavtalen.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 10",
+      "heading": "Utpeking av oppdragsansvarlig regnskapsrevisor, oppdragsansvarlig forvaltningsrevisor og oppdragsansvarlig revisor for eierskapskontroll",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Det skal utpekes en oppdragsansvarlig revisor for hvert regnskapsrevisjonsoppdrag, hvert forvaltningsrevisjonsoppdrag og hvert oppdrag om eierskapskontroll.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 11",
+      "heading": "Krav ved bytte av regnskapsrevisor",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Før en revisor tar på seg ansvaret for regnskapsrevisjon etter kommuneloven, skal revisoren be om en uttalelse fra den reviderte virksomhetens forrige revisor om det foreligger forhold som tilsier at en ny revisor ikke bør ta på seg oppdraget. Den forrige revisoren skal uten ugrunnet opphold opplyse skriftlig til den nye revisoren om begrunnelsen for sin fratreden.\nHvis en revisor sier fra seg et oppdrag og fraråder en annen revisor å ta på seg oppdraget, skal revisor dokumentere begrunnelsen for å fratre og for rådet. Også den nye revisoren skal dokumentere sin begrunnelse for å ta på seg oppdraget i strid med den forrige revisorens råd.\nHvis det kan ha betydning for den framtidige revisjonen, skal den forrige regnskapsrevisoren uten hinder av taushetsplikten gi opplysninger og dokumentasjon om revisjonsoppdraget til den nye revisoren.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 12",
+      "heading": "Regnskapsrevisors rett til å si fra seg et oppdrag",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Når en kommune eller fylkeskommune deltar i et interkommunalt revisjonssamarbeid, eller har inngått avtale med en annen regnskapsrevisor, har regnskapsrevisoren rett til å si fra seg oppdraget hvisrevisoren har avdekket og påpekt vesentlige brudd på lov eller forskrift som den reviderte virksomheten er underlagt, og virksomheten ikke iverksetter tiltak som er nødvendige for å rette opp forholdenerevisoren ikke gis mulighet til å oppfylle sine plikter etter lov eller forskriftdet foreligger andre særlige grunner.\nRevisor skal gi kontrollutvalget og den revisjonspliktige rimelig forhåndsvarsel før vedkommende sier fra seg oppdraget som revisor.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 13",
+      "heading": "Overføring av revisjonsoppdrag ved sammenslutning eller omorganisering av revisors virksomhet",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Hvis flere revisjonsselskaper slår seg sammen, viderefører det nye selskapet de revisjonsoppdragene som selskapene hadde før sammenslutningen. Det samme gjelder ved selskapsrettslig omorganisering av et revisjonsselskap, og når en personlig drevet revisjonsvirksomhet tas opp i et revisjonsselskap.\nOverføring av revisjonsoppdrag etter første ledd begrenser ikke oppdragsgiverens adgang til å bytte revisor.\nEt selskap eller en person som nevnt i første ledd skal uten ugrunnet opphold gi skriftlig melding til oppdragsgiveren om sammenslutning, omorganisering eller opptak.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 14",
+      "heading": "Uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Revisor skal sende et utkast til forvaltningsrevisjonsrapport til uttalelse til kommunedirektøren, kommunerådet eller fylkesrådet.\nRevisor skal sende et utkast til forvaltningsrevisjonsrapport til uttalelse til det kommunale eller det fylkeskommunale foretaket, aksjeselskapet eller interkommunale selskapet som er gjenstand for forvaltningsrevisjon.\nRevisor skal sende et utkast til rapport om eierskapskontroll til uttalelse til selskapet som er omfattet av eierskapskontrollen og til den som utøver kommunens eller fylkeskommunens eierfunksjon.\nUttalelsen skal i sin helhet fremgå av rapporten.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 15",
+      "heading": "Krav til revisjonskriterier",
+      "path": [
+        "Kapittel 2. Krav ved egen revisjon, valg og bytte av revisor og uttalelsesrett ved forvaltningsrevisjon og eierskapskontroll"
+      ],
+      "text": "Revisor skal etablere revisjonskriterier for det enkelte revisjonsprosjektet.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 16",
+      "heading": "Krav til revisors uavhengighet",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Revisor kan ikke utføre revisjon eller annen kontroll for kommunen eller fylkeskommunen hvis det foreligger særegne forhold som er egnet til å svekke tilliten til revisorens uavhengighet og objektivitet.\nAnsettelse som revisor i kommunen eller fylkeskommunen eller i en interkommunal samarbeidsordning medfører ikke i seg selv at revisoren mangler nødvendig uavhengighet og objektivitet.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 17",
+      "heading": "Grenser for revisors tilknytning til den reviderte virksomheten",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Revisor kan ikke utføre revisjon eller annen kontroll for kommunen eller fylkeskommunen hvis revisoren eller revisorens nærstående har en slik tilknytning til den reviderte eller kontrollerte virksomheten eller virksomhetens ansatte eller tillitsmenn at den er egnet til å svekke revisorens uavhengighet og objektivitet.\nNærstående etter første ledd errevisorens ektefelle eller samboer og deres søskenrevisorens slektninger i rett oppstigende eller nedstigende linje og deres ektefeller eller samboererevisorens søsken og deres ektefeller eller samboereslektninger i rett oppstigende eller nedstigende linje til revisorens ektefelle eller samboer.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 18",
+      "heading": "Grenser for hvilke stillinger, verv og tjenester som revisor kan ha",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Revisor kan ikkeha andre stillinger i kommunen eller fylkeskommunenha andre stillinger i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier avvære medlem av styrende organer i en virksomhet som kommunen eller fylkeskommunen deltar i eller er eier av. Dette gjelder ikke hvis virksomheten utfører revisjon og er organisert som et interkommunalt selskap, samvirkeforetak eller aksjeselskapdelta i eller ha funksjoner i en annen virksomhet, hvis det kan føre til at revisorens interesser kommer i konflikt med interessene til kommunen eller fylkeskommunen, eller på annen måte er egnet til å svekke tilliten til revisorenutføre rådgivningstjenester eller andre tjenester for kommunen eller fylkeskommunen, hvis dette er egnet til å svekke revisorens uavhengighet og objektivitetyte tjenester som hører inn under den reviderte virksomhetens egne ledelses- og kontrolloppgaveropptre som fullmektig for den reviderte virksomheten, unntatt ved bistand i skattesaker etter domstolsloven § 218.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 19",
+      "heading": "Krav til egenvurdering av uavhengighet",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Den som utfører revisjon eller annen kontroll for en kommune eller fylkeskommune, skal løpende vurdere sin uavhengighet.\nOppdragsansvarlig revisor skal hvert år, og ellers ved behov, gi en skriftlig egenvurdering av sin uavhengighet til kontrollutvalget.\nEn skriftlig egenvurdering om revisjonens uavhengighet skal følge alle tilbud om revisjon.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 20",
+      "heading": "Unntak fra taushetsplikten for revisor og revisors medarbeidere",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Revisors taushetsplikt etter kommuneloven § 24-2 femte ledd gjelder også for revisors medarbeidere.\nHvis det i forbindelse med et revisjonsoppdrag eller annen kontroll framkommer forhold som gir grunn til mistanke om at det er begått en straffbar handling, kan revisor og revisors medarbeidere underrette politiet uten hinder av taushetsplikten. Hvis det er åpnet etterforskning i en straffesak, kan revisor og revisors medarbeidere uten hinder av taushetsplikten avgi forklaring og framlegge dokumentasjon til politiet om revisjonsoppdrag eller annen kontroll.\nHvis det er nødvendig for at skatteetaten skal kunne utføre sine kontrolloppgaver, kan revisor og revisors medarbeidere uten hinder av taushetsplikten gi opplysninger til skatteetaten om en persons forbindelse med kommunen eller fylkeskommunen.\nTaushetsplikten er ikke til hinder for at kontrollører som er engasjert av bransjeorganisasjoner, kan kontrollere hvordan revisjonen er utført.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 21",
+      "heading": "Krav til dokumentasjon av revisors virksomhet",
+      "path": [
+        "Kapittel 3. Krav til revisor og revisors medarbeidere"
+      ],
+      "text": "Revisor skal dokumentere hvordan revisjonen er gjennomført og resultatet av revisjonen. Dokumentasjonen skal kunne underbygge og gi grunnlag for å etterprøve revisors konklusjoner. Forhold som tilsier at det kan foreligge misligheter eller feil, skal dokumenteres særskilt med angivelse av hva revisor har foretatt seg.\nVed rådgivning og andre tjenester for den reviderte virksomheten skal revisor dokumentere oppdragets art, omfang og en eventuell anbefaling.\nRevisor skal oppbevare dokumentasjonen på en ordnet og betryggende måte i minst 10 år.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 22",
+      "heading": "Ikrafttredelse og opphevelse av andre forskrifter",
+      "path": [
+        "Kapittel 4. Ikrafttredelse og opphevelser"
+      ],
+      "text": "Forskriften trer i kraft fra og med det konstituerende møtet i det enkelte kommunestyret og fylkestinget ved oppstart av valgperioden 2019–2023.1\nFra samme tidspunkt oppheves forskrift 15. juni 2004 nr. 905 om kontrollutvalg i kommuner og fylkeskommuner og forskrift 15. juni 2004 nr. 904 om revisjon i kommuner og fylkeskommuner mv.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    }
+  ]
+}

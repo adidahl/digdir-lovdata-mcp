@@ -1,0 +1,33 @@
+{
+  "id": "FOR-2024-12-20-3325",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om standarder for bærekraftsrapportering",
+  "department": "Finansdepartementet",
+  "date_in_force": "2024-12-20",
+  "last_change_in_force": "2025-11-13",
+  "last_changed_by": "forskrift/2025-11-13-2371",
+  "lovdata_refid": "forskrift/2024-12-20-3325",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-12-20-3325",
+  "raw_xml_sha256": "d7de5991f7b579c018c8297f1b52cfbc646b53731ffe17c5e7b249cee9a01e5a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Standarder for bærekraftsrapportering for store foretak og morforetak i store konsern",
+      "path": [],
+      "text": "Regnskapspliktige som er store foretak eller morforetak i store konsern, og som etter regnskapsloven § 2-3 skal innta bærekraftsrapportering i årsberetningen, skal utarbeide bærekraftsrapporteringen etter regnskapsloven § 2-4 og § 2-5 i samsvar med vedlegg I og II til denne forskriften.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

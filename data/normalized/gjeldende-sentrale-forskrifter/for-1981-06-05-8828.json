@@ -1,0 +1,24 @@
+{
+  "id": "FOR-1981-06-05-8828",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om oppkreving av eksportavgift.",
+  "short_title": "Forskrift om oppkreving av eksportavgift",
+  "department": "Utenriksdepartementet",
+  "date_in_force": "1981-06-05",
+  "lovdata_refid": "forskrift/1981-06-05-8828",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1981-06-05-8828",
+  "raw_xml_sha256": "8aba820a2168ecc3338b0129712b36ad730cc9b20bc90879f151250861a12edd",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Forskrift om oppkreving av eksportavgift.",
+      "path": [],
+      "text": "I medhold av lov 23. mars 1956 nr. 3 om avgift på eksport til fremme av Norges eksportinteresser, § 1 tredje ledd fastsettes at varer som sendes fra Norge for lagring i utlandet eller som utføres i kommisjon/konsignasjon skal svare eksportavgift selv om en endelig salgskontrakt ikke foreligger.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

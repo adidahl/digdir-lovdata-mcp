@@ -1,0 +1,107 @@
+{
+  "id": "LOV-2018-06-15-44",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om gjennomføring av EUs forordning om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked (lov om elektroniske tillitstjenester)",
+  "short_title": "Lov om elektroniske tillitstjenester",
+  "department": "Digitaliserings- og forvaltningsdepartementet",
+  "legal_area": "IKT- og medierett > Elektronisk handel. E-signatur IKT- og medierett > Personopplysninger IKT- og medierett > Telekommunikasjon",
+  "date_in_force": "2018-06-15",
+  "last_change_in_force": "2024-06-21",
+  "last_changed_by": "lov/2024-06-21-39",
+  "lovdata_refid": "lov/2018-06-15-44",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2018-06-15-44",
+  "raw_xml_sha256": "1146b1318bc2067bfb0cf4bd1e8c0b0ec98c74bbfd4ab4f427155dbb93d8bb44",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "eID og elektroniske tillitstjenester i EØS",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XI Elektronisk kommunikasjon, audiovisuelle tjenester og informasjonssamfunnstjenester (forordning (EU) nr. 910/2014) om elektronisk identifikasjon og tillitstjenester for elektroniske transaksjoner i det indre marked gjelder som lov med de tilpasninger som følger av vedlegg XI, protokoll 1 til avtalen og avtalen for øvrig.\nKongen kan gi forskrift om myndighetssamarbeid, etablering av et felles tillitsmerke, fastsettelse av sikkerhetsnivåer, etablering av rammeverk for sikring av notifiserte nasjonale eID-løsningers interoperabilitet, tillitslister, om akkreditering av samsvarsvurderingsorganer, utforming av samsvarsrevisjonsrapport og regler for gjennomføring av samsvarsrevisjoner, om krav til og sertifisering av kvalifiserte elektroniske signatur- og seglfremstillingssystemer, om kvalifiserte valideringstjenester for elektronisk signatur og elektronisk segl, om referanseformater m.m. for avansert elektronisk signatur og avansert elektronisk segl i offentlig sektor og om fastsettelse av minstekrav til erstatningsansvaret for eID-er som skal brukes i offentlig sektor.\nKongen fastsetter hvilket organ som skal være meldingsmyndighet overfor Europakommisjonen.\nKongen fastsetter hvilket organ som skal opprette, ajourføre og offentliggjøre en tillitsliste.\nKongen fastsetter hvilket organ som skal godkjenne kvalifiserte elektroniske signaturfremstillingssystemer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 1a",
+      "heading": "Innhenting av opplysninger fra Folkeregisteret",
+      "path": [],
+      "text": "Utstedere av elektroniske identitetsbevis kan uten hinder av taushetsplikt innhente opplysninger fra Folkeregisteret når det er nødvendig for å utføre oppgaver etter denne loven.\nDepartementet gir forskrift om hvilke opplysninger som kan innhentes.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 2",
+      "heading": "Etablering av frivillige sertifiseringsordninger, godkjenningsordninger eller selvdeklarasjonsordninger",
+      "path": [],
+      "text": "I de tilfellene der det ikke allerede er et krav om det etter § 1, kan departementet for å høyne nivået for og øke tilliten til bruk av elektroniske tillitstjenester gi forskrift om frivillige sertifiserings-, godkjennings- eller selvdeklarasjonsordninger, herunder hvilke krav som stilles for slike frivillige ordninger.\nDepartementet fastsetter hvilket organ som skal godkjenne og føre tilsyn med de frivillige ordningene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 3",
+      "heading": "Tilsyn",
+      "path": [],
+      "text": "Kongen fastsetter hvilket organ som skal føre tilsyn med at bestemmelsene gitt i eller i medhold av loven, blir oppfylt.\nSom ledd i tilsynsvirksomheten kan tilsynsorganet gjennomføre kontroll hos virksomhetene, kreve de opplysninger og dokumenter som er nødvendige for å utføre tilsynet, og fastsette en tidsfrist for å sende dem inn.\nDen som blir kontrollert, plikter å gi tilsynsorganet uhindret adgang til virksomheten, lokaler, utstyr og dokumentasjon og til å gi opplysninger og ellers medvirke til gjennomføringen av kontrollen.\nTilsynsorganet kan gi påbud om at forhold som er i strid med bestemmelser gitt i eller i medhold av denne loven, skal opphøre, og kan stille vilkår som må oppfylles for at virksomheten skal være i samsvar med loven.\nKongen kan gi forskrift om tilsynets virksomhet.\nKongen kan i forskrift bestemme at tjenestetilbydere som er registreringspliktige etter § 1, skal betale avgift. Avgiftene må ikke overstige kostnadene ved tilsynets virksomhet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 4",
+      "heading": "Tvangsmulkt",
+      "path": [],
+      "text": "For å sikre at bestemmelser gitt i eller i medhold av denne loven overholdes kan tilsynsorganet bestemme at en kvalifisert tjenestetilbyder skal betale en daglig løpende mulkt til staten inntil lovstridig virksomhet er opphørt eller pålegg og vilkår gitt med hjemmel i loven er etterkommet. Adgangen til å ilegge tvangsmulkt gjelder tilsvarende for tilsynsmyndigheten for frivillige ordninger regulert i forskrift gitt med hjemmel i § 2.\nMulkten løper ikke før klagefristen er ute. Påklages vedtaket om tvangsmulkt, løper ingen tvangsmulkt før klagesaken er avgjort, med mindre klageorganet bestemmer noe annet.\nTilsynet kan frafalle påløpt tvangsmulkt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 5",
+      "heading": "Straff",
+      "path": [],
+      "text": "Med bøter straffes den som forsettlig eller grovt uaktsomtopptrer som utsteder av kvalifisert tillitstjeneste uten å være registrert som dette etter lovenunnlater å gi opplysninger etter § 3,gir uriktige eller villedende opplysninger til tilsynet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 6",
+      "heading": "Klageadgang",
+      "path": [],
+      "text": "Tilsynets avgjørelser etter bestemmelser gitt i eller i medhold av denne loven, kan påklages til det organ Kongen utpeker.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 7",
+      "heading": "Avgift",
+      "path": [],
+      "text": "Kongen kan gi forskrift om at tjenestetilbydere som er registreringspliktig etter loven eller etter forskrift gitt med hjemmel i § 2, skal betale avgift. Avgiften må ikke overstige kostnadene ved tilsynets virksomhet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 8",
+      "heading": "Anvendelse på Svalbard og Jan Mayen",
+      "path": [],
+      "text": "Kongen kan gi forskrift om lovens anvendelse på Svalbard og Jan Mayen og fastsette særlige regler under hensyn til de stedlige forhold.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 9",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven gjelder fra den tid1 Kongen bestemmer. Fra samme tidspunkt oppheves lov 15. juni 2001 nr. 81 om elektronisk signatur.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 10",
+      "heading": "Overgangsregler",
+      "path": [],
+      "text": "Forskrifter og enkeltvedtak gitt i medhold av lov 15. juni 2001 nr. 81 om elektronisk signatur, gjelder inntil de blir opphevet. Det samme gjelder utpeking av tilsynsmyndighet og klageorgan samt eventuelle idømte erstatningskrav med hjemmel i samme lov.",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

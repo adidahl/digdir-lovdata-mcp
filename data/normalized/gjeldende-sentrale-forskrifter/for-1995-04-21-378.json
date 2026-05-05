@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1995-04-21-378",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om område med forbud mot oppankring og fiske på Nornefeltet.",
+  "short_title": "Forskrift om forbud mot fiske mv på Nornefeltet",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1996-04-01",
+  "last_change_in_force": "1996-05-29",
+  "last_changed_by": "forskrift/1996-05-29-523",
+  "lovdata_refid": "forskrift/1995-04-21-378",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1995-04-21-378",
+  "raw_xml_sha256": "e4c0ddaf82014b0b344d2922be3da83590084d5a41622c3dd873cc000b67017c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften får anvendelse på to grupper av brønnrammer på Nornefeltet, samt langs traséene for feltinterne rørledninger og kabler. Det nordlige området omfatter en sirkel med radius på 550 meter rundt to brønnrammer og en rørledningskorridor med bredde 1050 meter inn mot sikkerhetssonen. Det sørlige området omfatter en sirkel med radius på 600 meter rundt tre brønnrammer og en rørledningskorridor med bredde 1250 meter. Områdene har følgende koordinater:",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innenfor de områder som er angitt i § 1 forbys all ugrunnet oppankring, samt fiske med bunnredskaper som bunntrål og snurrevad.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 66, jf forskrift om sikkerhetssoner mv § 15.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forskriften trer i kraft fra den tid departementet bestemmer.1",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

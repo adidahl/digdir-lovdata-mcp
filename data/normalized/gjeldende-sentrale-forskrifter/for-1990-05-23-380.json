@@ -1,0 +1,39 @@
+{
+  "id": "FOR-1990-05-23-380",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot variabel reklame langs offentlig veg.",
+  "short_title": "Forskrift om forbud mot variabel vegreklame",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "1990-05-23",
+  "lovdata_refid": "forskrift/1990-05-23-380",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1990-05-23-380",
+  "raw_xml_sha256": "c20a35a9905ac64131e8c0804839621827f682927311f7601b891c1fb1c12639",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Langs offentlig veg er det forbudt – med unntak som fremgår av § 2 – å sette opp variable reklameskilt eller lignende innretning hvor budskapet eller bildet endres eller skiftes mer enn en gang i døgnet. Forbudet gjelder uansett om vekslingen skjer mekanisk, elektronisk, optisk eller på annen måte.\nForbudet gjelder uten begrensning i avstand fra veg, dersom budskapet er rettet mot trafikantene eller kan oppfattes på denne måte.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forbud mot variabel reklame i tettbygd strøk.",
+      "path": [],
+      "text": "I tettbygd strøk langs veger med fartsgrense 50 km/t eller lavere, gjelder forbud som nevnt i § 1 bare ved signalregulerte kryss og ved rundkjøringer. Etter søknad kan vedkommende vegmyndighet gi dispensasjon fra forbudet i denne paragraf.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttreden og overgangsregler.",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.\nForskriften gjelder også variable reklameskilt og lignende innretninger oppsatt før forskriften er satt i kraft.\nInnen ett år fra forskriften er trådt i kraft eller fartsgrensen på vedkommende sted er hevet til over 50 km/t, skal slik reklame, som hittil har vært lovlig, være fjernet/rettet. Vegmyndigheten kan kreve tidligere fjerning/retting.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

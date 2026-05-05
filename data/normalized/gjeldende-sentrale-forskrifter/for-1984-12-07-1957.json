@@ -1,0 +1,51 @@
+{
+  "id": "FOR-1984-12-07-1957",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om justering av årlige erstatninger fastsatt i medhold av oreigningsloven.",
+  "short_title": "Forsk. om årlig erstatning etter oreigningsl.",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "1985-01-01",
+  "lovdata_refid": "forskrift/1984-12-07-1957",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1984-12-07-1957",
+  "raw_xml_sha256": "9264c6e6cf419aeb60dde13b67646604b6a9bf1a959fb83e2662106e994be54c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Årlige erstatningsbeløp skal justeres automatisk hvert 5. år.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Justeringen skal skje ved å samholde gjennomsnittet for Statistisk sentralbyrås konsumprisindeks for siste kalenderår av forløpne tidsperiode (beregningsåret) med tilsvarende indekstall for det kalenderår da erstatningen forfalt første gang. Senere justeringer skjer med basis i siste beregningsår.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "For årlige erstatninger som forfalt første gang før 1. januar 1980 og ikke er justert etter dette, foretas en engangsjustering av det årlige erstatningsbeløpet regnet fra det kalenderåret da erstatningen forfalt første gang, og fram til 1985. Disse justeringene skal gjennomføres med virkning fra og med det regulære forfall i 1985.\nVed engangsjusteringen etter første ledd skal man samholde gjennomsnittet for Statistisk sentralbyrås konsumprisindeks for 1984 med tilsvarende indekstall (før 1960 levekostnadsindeksen) for det kalenderår da erstatningen forfalt første gang. Etter engangsjusteringen skal erstatningen justeres i samsvar med §§ 1 og 2.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Forfall etter §§ 1 til 3 er det tidspunkt da vedkommende erstatning er rettskraftig fastsatt. Har tiltredelse skjedd før dette tidspunkt, regnes forfall første gang fra tiltredelsen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Forskriftene her trer i kraft 1. januar 1985. Fra samme tid oppheves forskrifter om justering av årlige erstatninger gitt ved kgl.res. 2. mai 1980.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

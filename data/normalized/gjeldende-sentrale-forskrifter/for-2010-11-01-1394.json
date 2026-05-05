@@ -1,0 +1,90 @@
+{
+  "id": "FOR-2010-11-01-1394",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall",
+  "short_title": "Forskrift om radioaktiv forurensning og avfall",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2011-01-01",
+  "last_change_in_force": "2025-12-05",
+  "last_changed_by": "forskrift/2025-12-05-2428",
+  "lovdata_refid": "forskrift/2010-11-01-1394",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-11-01-1394",
+  "raw_xml_sha256": "9c05ac550e5413eab2f7ae4318d9f0e3b3d095f425ef798ef280614d21937730",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Saklig virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder forurensningslovens anvendelse på stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet.\nForskriften gjelder også radioaktivt avfall jf. § 2.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskriften menes medradioaktivt stoff: stoff som sender ut alfa-, beta- eller gammastråling,radioaktiv forurensning: stråling fra radioaktive stoffer som er eller kan være til skade eller ulempe for miljøet. Dette omfatter også stråling fra naturlig forekommende radioaktive stoffer når menneskelig aktivitet fører til økt stråleeksponering av mennesker eller miljø,radioaktivt avfall: løsøregjenstander eller stoffer som regnes som avfall etter forurensingsloven § 27 første ledd, og inneholder eller er forurenset med radioaktive stoffer med spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg I bokstav a,deponeringspliktig radioaktivt avfall: radioaktivt avfall med større eller lik verdier for total aktivitet og spesifikk aktivitet enn angitt i vedlegg I bokstav b.\nDirektoratet for strålevern og atomsikkerhet bestemmer i tvilstilfeller hva som anses som radioaktivt avfall, herunder deponeringspliktig radioaktivt avfall.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Forurensningslovens anvendelse på radioaktiv forurensning og radioaktivt avfall",
+      "path": [],
+      "text": "Forurensningsloven gjelder for radioaktiv forurensning og radioaktivt avfall med unntak av §§ 21 til 26, § 30, § 32a, §§ 34 til 37 og §§ 43 til 47.\nForskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 16, §§ 18B-2, 18B-3 og kapittel 19 og forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) § 36-1, § 36-2, §§ 36-5 til 36-9, §§ 36-17 til 36-19, kapittel 39, kapittel 41 og § 41A-1a, §§ 41A-3 og 41A-4 gjelder for radioaktiv forurensning og radioaktivt avfall.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tillatelse til radioaktiv forurensning",
+      "path": [],
+      "text": "Direktoratet for strålevern og atomsikkerhet kan gi tillatelse etter forurensningsloven § 11 til virksomhet som medfører eller kan medføre radioaktiv forurensning, og fastsette nærmere vilkår etter forurensningsloven § 16 for å motvirke at radioaktiv forurensning fører til skader eller ulemper.\nVirksomhet som medfører eller kan medføre tilførsel av radioaktive stoffer med total aktivitet eller spesifikk aktivitet som er større eller lik verdiene angitt i vedlegg II, skal i relasjon til forurensningsloven § 8 siste ledd alltid anses å medføre nevneverdige skader eller ulemper og kan ikke finne sted uten tillatelse etter forurensningsloven § 11.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Håndtering av radioaktivt avfall",
+      "path": [],
+      "text": "Radioaktivt avfall skal håndteres i samsvar med forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) kapittel 16.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Departementet, eller den departementet bemyndiger, kan i særskilte tilfeller gjøre unntak fra bestemmelsene i denne forskriften.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2011.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Overgangsbestemmelser for krav om tillatelse",
+      "path": [],
+      "text": "Virksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften, skal søke Direktoratet for strålevern og atomsikkerhet om tillatelse så snart som mulig og senest innen 1. januar 2013.\nVedtak og godkjenninger gitt i medhold av forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V gjelder til de er erstattet av tillatelse etter forurensningsloven, men er ikke i noe tilfelle gyldige etter 1. januar 2014.\nVirksomhet som krever tillatelse etter forurensningsloven § 11 jf. § 4 i denne forskriften og som er igangsatt før forskriften trer i kraft, men som ikke har hatt godkjenning etter forskrift 21. november 2003 nr. 1326 om strålevern og bruk av stråling § 5 bokstavene o, p eller q og kapittel V, kan fortsette til de får tillatelse, men ikke i noe tilfelle etter 1. januar 2014.\nDirektoratet for strålevern og atomsikkerhet kan gi pålegg om at virksomhet som nevnt i første ledd likevel må søke om tillatelse innen en kortere frist og bestemme at virksomheten er ulovlig etter en fastsatt dato, dersom pålegget ikke etterkommes.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Samtidige endringer i andre forskrifter",
+      "path": [],
+      "text": "I forskrift 1. juni 2004 nr. 930 om gjenvinning og behandling av avfall (avfallsforskriften) gjøres følgende endringer: ---I forskrift 1. juni 2004 nr. 931 om begrensning av forurensning (forurensningsforskriften) gjøres følgende endringer: --",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

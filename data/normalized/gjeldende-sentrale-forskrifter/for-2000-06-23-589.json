@@ -1,0 +1,88 @@
+{
+  "id": "FOR-2000-06-23-589",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner og om innberetning til Helsedirektoratet om sterilisering.",
+  "short_title": "Forskrift om sterilisering av kvinner mv.",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2000-06-23",
+  "last_change_in_force": "2021-11-01",
+  "last_changed_by": "forskrift/2021-10-08-2958 fra 2021-11-01",
+  "lovdata_refid": "forskrift/2000-06-23-589",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2000-06-23-589",
+  "raw_xml_sha256": "9edc8aac4698cbe9aeeb20f5edf628a51c488e205857faa91ba21da1c3f805d8",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner"
+      ],
+      "text": "Bestemmelsene i kapittel 1 skal sikre at sterilisering av kvinner utenfor private og offentlige sykehus, foregår i virksomheter hvor det anses forsvarlig.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner"
+      ],
+      "text": "Bestemmelsene i kapittel 1 gjelder sterilisering av kvinner ved laparoskopisk teknikk i virksomheter utenfor sykehus.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Statsforvalterens godkjenning",
+      "path": [
+        "Kapittel 1. Godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner"
+      ],
+      "text": "Statsforvalteren kan godkjenne at sterilisering av kvinner foretas i kirurgiske poliklinikker eller i annen ambulant spesialistpraksis utenfor sykehus hvor det anses forsvarlig. For at godkjenning skal kunne gis, må følgende krav være oppfylt:inngrepene skal utføres av leger som er spesialister i kvinnesykdommer og fødselshjelp eller spesialister i generell kirurgi, med dokumentert trening innen laparaskopi.virksomheten skal ha rutiner som sikrer mulighet for blodtyping og for gjennomføring av blodtransfusjon ved akutt komplikasjon.spesialist i anestesiologi skal ha ansvaret for overvåkning av pasienten under og etter steriliseringsinngrepet.virksomheten må ha tilfredsstillende rutiner for kontakt med kirurgisk ekspertise for rask håndtering av akutte komplikasjoner.\nGodkjenningen kan tilbakekalles dersom virksomheten ikke drives i henhold til lov og forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 1. Godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner"
+      ],
+      "text": "Helsedirektoratet kan gi dispensasjon fra kravene i § 3.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "Innberetning om inngrepene",
+      "path": [
+        "Kapittel 2. Innberetning til Helsedirektoratet om sterilisering"
+      ],
+      "text": "Lege og sykehus som foretar inngrep etter lov 3. juni 1977 nr. 57 om sterilisering skal innberette om inngrepene slik Helsedirektoratet fastsetter.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5a",
+      "heading": "Innberetning fra steriliseringsnemndene",
+      "path": [
+        "Kapittel 2. Innberetning til Helsedirektoratet om sterilisering"
+      ],
+      "text": "Steriliseringsnemndene skal sende innberetning om behandlede søknader i nemnda på skjema som Helsedirektoratet til enhver tid har fastsatt. Innberetningen skal sendes Steriliseringsrådet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 3. Ikrafttredelse"
+      ],
+      "text": "Forskriften trer i kraft straks.\nFra samme tidspunkt oppheves:Forskrifter av 28. oktober 1977 nr. 3 om innberetning til departementet ang sterilisering.Forskrift av 9. januar 1998 nr. 21 om godkjenning av virksomheter utenfor sykehus for sterilisering av kvinner.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    }
+  ]
+}

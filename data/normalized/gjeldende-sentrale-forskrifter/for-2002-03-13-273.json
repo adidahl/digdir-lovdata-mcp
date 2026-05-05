@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2002-03-13-273",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om de grunnleggende parametrene for det transeuropeiske jernbanesystem for høyhastighetstog",
+  "short_title": "Forskrift om parametrene for høyhastighetstog",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2002-03-13",
+  "lovdata_refid": "forskrift/2002-03-13-273",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2002-03-13-273",
+  "raw_xml_sha256": "a66cfae3e999149638366d0f8f1966b4c7a6e09d8e1dc01f4425e9eb1054bd12",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Vedlegg I til denne forskrift inneholder definisjoner og spesifikasjoner som gjelder for de grunnleggende parametrene for delsystemet styring, kontroll og signal i det transeuropeiske jernbanesystem for høyhastighetstog, de såkalte ERTMS-spesifikasjoner i vedlegg II nr. 2 til forskrift av 8. april 1999 nr. 424 om samtrafikkevnen i det transeuropeiske jernbanesystem for høyhastighetstog.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Vedlegg II til denne forskriften inneholder definisjoner og kjennetegn som bør overholdes for de grunnleggende parametrer for det transeuropeiske jernbanesystem for høyhastighetstog i vedlegg II nr. 2 til forskrift av 8. april 1999 nr. 424 om samtrafikkevnen i det transeuropeiske jernbanesystem for høyhastighetstog.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Samtidig oppheves forskrift av 5. oktober 2001 nr. 1144 om de grunnleggende parametrene for delsystemet styring, kontroll og signal i det transeuropeiske jernbanesystem for høyhastighetstog (ERTMS-spesifikasjoner).",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

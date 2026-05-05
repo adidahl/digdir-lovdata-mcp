@@ -1,0 +1,44 @@
+{
+  "id": "FOR-1978-04-14-12",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter om forbud mot oppankring og mot fiske med visse redskaper i Ekofisk-området",
+  "short_title": "Forskrift om fiskeforbud mv ved Ekofisk",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1978-04-14",
+  "lovdata_refid": "forskrift/1978-04-14-12",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1978-04-14-12",
+  "raw_xml_sha256": "b9efb62423b9d2a0beaffc3a3d252b53086a2ad8956dd8c3693b50d3e3a01df6",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Disse forskrifter er fastsatt med hjemmel i lov av 21. juni 1963 om utforskning og utnyttelse av undersjøiske naturforekomster § 3 og lov av 17. desember 1976 om Norges økonomiske sone § 4, og får anvendelse i området innenfor rette linjer trukket gjennom koordinatene for følgende installasjoner på Ekofiskfeltet:1. A-plattformenN 56°31′15″O 03°13′22″2. B-plattformenN 56°33′55″O 03°12′15″3. Lastebøye SBM IIN 56°33′36″O 03°15′25″4. Lastebøye SBM IN 56°32′06″O 03°15′34″samt i en 500 meters sone rundt nevnte område.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innenfor det området som er nevnt i § 1 forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade installasjoner på eller over havbunnen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Overtredelse av disse forskrifter straffes med bøter, jfr. straffeloven § 339 nr. 2, såfremt ikke strengere straffebestemmelser kommer til anvendelse på forholdet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft straks.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

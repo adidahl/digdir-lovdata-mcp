@@ -1,0 +1,56 @@
+{
+  "id": "FOR-1997-03-11-209",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning av tilleggspensjon ved yrkesskade.",
+  "short_title": "Forskrift om tilleggspensjon ved yrkesskade",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-05-01",
+  "lovdata_refid": "forskrift/1997-03-11-209",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-03-11-209",
+  "raw_xml_sha256": "8a69d2fda7d421af91fd39d59ff324a18441838d369f6353a582993ef0ddc552",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Personkrets",
+      "path": [],
+      "text": "Denne forskriften gjelder bare for personer som er født før 1975.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kravet til full opptjeningstid",
+      "path": [],
+      "text": "Ved yrkesskade er full opptjeningstid for tilleggspensjonen 40 poengår dersom pensjonisten er født i 1940 eller senere. Dersom pensjonisten er født før 1940 er full opptjeningstid 40 poengår minus ett poengår for hvert år vedkommende er født før 1940.\nNår pensjonen blir beregnet, skal det legges til grunn at pensjonisten har full opptjeningstid.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Pensjonsprosenten",
+      "path": [],
+      "text": "For årene fra og med det året pensjonisten fylte 17 år til og med 1991, skal tilleggspensjonen beregnes med en pensjonsprosent på 45, se folketrygdloven § 3-8 tredje ledd. Antallet år kan ikke overstige 25.\nTilleggspensjonen skal beregnes med en pensjonsprosent på 42 for det antallet år som svarer til differansen mellom full opptjeningstid etter § 2, og det antallet år som legges til grunn etter første ledd i paragrafen her.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Fastsetting av poengtall når antatt årlig inntekt overstiger seks ganger grunnbeløpet",
+      "path": [],
+      "text": "Når den antatte årlige arbeidsinntekten på skadetidspunktet er større enn seks ganger grunnbeløpet, skal det på grunnlag av denne inntekten fastsettes et poengtall for hvert år fra og med det året vedkommende fylte 17 år til og med det året han eller hun fyller 66 år. Det skal likevel ikke fastsettes poengtall for årene før 1967.\nPoengtallene som nevnt i første ledd beregnes på følgende måte:For år etter 1991 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom seks og tolv ganger grunnbeløpet skal bare en tredel tas med, se folketrygdloven § 3-13.For år før 1992 skal poengtallet beregnes ved at den del av den antatte årlige arbeidsinntekten som overstiger grunnbeløpet, divideres med grunnbeløpet. Det ses bort fra inntekt over tolv ganger grunnbeløpet. Av inntekt mellom åtte og tolv ganger grunnbeløpet skal bare en tredel tas med.\nDet poengtallet som etter folketrygdloven § 3-30 første ledd bokstav c skal legges til grunn ved beregningen av tilleggspensjonen, skal være gjennomsnittet av de 20 høyeste poengtallene som er fastsatt etter andre ledd.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997 og gis virkning for tilfeller med skadetidspunkt etter 1991.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

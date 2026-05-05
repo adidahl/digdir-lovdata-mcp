@@ -1,0 +1,188 @@
+{
+  "id": "FOR-1993-12-23-1251",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om pensjonsberegning, om tilståelse og beregning av barnetillegg og barnepensjon og om gjennomføringa av folketrygdlovens bestemmelser om inntektsprøving i tilfelle som omfattes av EØS-avtalen.",
+  "short_title": "Forskrift om pensjonsberegning, EØS",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1994-01-01",
+  "last_change_in_force": "1998-01-16",
+  "last_changed_by": "forskrift/1998-01-16-37",
+  "lovdata_refid": "forskrift/1993-12-23-1251",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-12-23-1251",
+  "raw_xml_sha256": "c2520c6d95b3453d73a8f899e5f173c03d68d90c95b8ff44e063741fccf94bdf",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "EØS-land",
+      "path": [
+        "I. Forskriftens omfang"
+      ],
+      "text": "Med EØS-land menes i forskriften her land som EØS-avtalen gjelder for.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hvilke tilfelle som reguleres",
+      "path": [
+        "I. Forskriftens omfang"
+      ],
+      "text": "Forskriften her gjelder ved beregning av alderspensjon, etterlattepensjon, uførepensjon og attføringspenger etter reglene i EØS-avtalen om koordinering av pensjonsytelser i tilfelle hvor en person har pensjonsopptjening i minst to EØS-land.\nVidere gjelder forskriften for inntektsprøving etter bestemmelsene i folketrygdloven §§ 7-8A, jfr §§ 7-7, 7-8, 8-7, 8-8 og 5-5, 7-10 og 10-5 nr. 3, jfr §§ 7-10 og 8-6, i tilfelle hvor de nevnte regler i EØS-avtalen får anvendelse. Det er et vilkår at pensjonisten har rett til en ytelse tilsvarende folketrygdens alderspensjon, uførepensjon, etterlattepensjon eller attføringspenger fra minst ett annet EØS-land, og at denne ytelsen – eller deler av denne ytelsen – skal settes ned fordi vedkommende har arbeidsinntekt, annen pensjonsinntekt eller andre former for inntekt.\nForskriften gir også regler for tilståelse og beregning av barnetillegg eller barnepensjon etter folketrygdloven i tilfelle som omfattes av EØS-avtalen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "I. Forskriftens omfang"
+      ],
+      "text": "I forhold til beregning av grunnpensjon etter folketrygdloven og særtillegg etter særtilleggsloven gjelder følgende definisjoner:Med opptjeningstid menes alle perioder som medfører opptjening av rett til pensjon etter folketrygdloven eller etter lovgivinga i det land der de er tilbakelagt, men begrenset til tidsrom etter fylte 16 år.Med forholdstallet menes den brøk som framkommer når en persons samlede trygdetid i Norge fastsatt etter bestemmelsene i folketrygdloven § 7-2 anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom trygdetiden i Norge utgjør mer enn 40 år, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.I forhold til beregning av tilleggspensjon gjelder følgende definisjoner:Med opptjeningstid menes år da det er opptjent pensjonspoeng i folketrygden og videre perioder i andre EØS-land da vedkommende har vært yrkesaktiv og omfattet av vedkommende lands trygdeordning. Som opptjeningstid regnes bare tidsrom etter fylte 16 år.Med forholdstallet menes den brøk som framkommer når antall år da det er godskrevet pensjonspoeng etter folketrygdloven anvendes som teller og vedkommendes samlede opptjeningstid i EØS-land (inkludert Norge) anvendes som nevner. For uføre og etterlatte skal ikke medregnes antatt framtidig opptjeningstid fra uføretidsspunktet eller tidspunktet for dødsfallet og fram til pensjonsalderen. Dersom antall år med pensjonspoeng utgjør mer enn 40, anvendes 40 som teller i brøken. Tilsvarende anvendes 40 som nevner når samlet opptjeningstid i EØS-land overstiger 40 år.Med pensjon menes i forskriften her alderspensjon, etterlattepensjon, uførepensjon og attføringspenger etter folketrygdloven uten eventuelle forsørgingstillegg. Uttrykket omfatter videre tilsvarende ytelser fra andre EØS-land med eventuelle forsørgingstillegg.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Det teoretiske beløp.",
+      "path": [
+        "II. Beregning av pensjon fra folketrygden etter koordineringsreglene i EØS-avtalen."
+      ],
+      "text": "En pensjons teoretiske beløp beregnes fullt ut etter de vanlige bestemmelsene i folketrygdloven og særtilleggsloven, men slik at tilbakelagt opptjeningstid i andre EØS-land regnes som opptjeningstid i Norge. Grunnpensjon og tilleggspensjon fastsettes hver for seg, jfr § 3 nr. 1 og 2.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Det faktiske beløp",
+      "path": [
+        "II. Beregning av pensjon fra folketrygden etter koordineringsreglene i EØS-avtalen."
+      ],
+      "text": "En pensjons faktiske beløp fastsettes ved at grunnpensjon og tilleggspensjon etter § 4 ganges med de respektive forholdstall, jfr § 3 nr. 1 og 2. For særtillegg etter særtilleggsloven brukes forholdstallet for grunnpensjon.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Ektefelletillegget",
+      "path": [
+        "III. Inntektsprøving av ektefelletillegg – folketrygdloven § 7-8 A."
+      ],
+      "text": "Inntektsprøving etter folketrygdloven § 7-8A skjer mot ektefelletillegg fastsatt etter reglene i folketrygdloven.\nFor pensjonist som ikke fyller vilkårene i folketrygdloven § 8-1 nr 1 første ledd bokstav b eller nr. 3 om forutgående medlemskap i folketrygden, skal ektefelletillegg utgjøre 50 prosent av grunnpensjon fastsatt etter bestemmelsene i § 5. Det samme gjelder når pensjonisten ikke fyller vilkåret i folketrygdloven §§ 7-2 eller 8-4 om minst 3 års trygdetid.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Fribeløpet",
+      "path": [
+        "III. Inntektsprøving av ektefelletillegg – folketrygdloven § 7-8 A."
+      ],
+      "text": "Fribeløpet skal svare til fribeløpet etter folketrygdloven § 7-8A uten reduksjon for eventuell manglende opptjeningstid, men ganget med forholdstallet for grunnpensjon.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Inntektsgrunnlaget",
+      "path": [
+        "III. Inntektsprøving av ektefelletillegg – folketrygdloven § 7-8 A."
+      ],
+      "text": "Inntektsgrunnlaget fastsettes etter bestemmelsene i folketrygdloven § 7-8A, men med følgende særregler:Grunnpensjon, tilleggspensjon og/eller særtillegg inngår i inntektsgrunnlaget med de beløp som framkommer når disse pensjonsdeler fastsettes etter bestemmelsene i § 5.Øvrige inntekter som skal tas med, inngår i inntektsgrunnlaget med et beløp svarende til summen av slike inntekter ganget med forholdstallet for grunnpensjon.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 9",
+      "heading": "Tilståelse av barnetillegg",
+      "path": [
+        "IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner."
+      ],
+      "text": "Barnetillegg etter folketrygdloven §§ 7-8 og 8-8, jfr § 5-5, ytesdersom pensjonisten er bosatt i riketdersom pensjonisten er bosatt i et annet EØS-land uten å ha rett til pensjon der, og pensjonisten har vært penjonstrygdet etter folketrygdloven (jfr § 1-5 i loven) i lengre tid enn han eller hun har vært omfattet av trygdelovgivninga i noe annet EØS-land. Dersom trygdeperiodene er like lange, skal Norge yte barnetillegget dersom vedkommende sist var medlem av folketrygden.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 10",
+      "heading": "Beregning av barnetillegg",
+      "path": [
+        "IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner."
+      ],
+      "text": "Barnetillegg etter § 9 skal før eventuell inntektsprøving etter folketrygdloven § 7-8A utgjøre en så stor del av fullt barnetillegg etter loven som svarer til den andel av full grunnpensjon som kan ytes når grunnpensjonen beregnes etter bestemmelsene i § 4.\nVed inntektsprøving av barnetillegget gjelder bestemmelsene i folketrygdloven § 7-8A.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 11",
+      "heading": "Differanse-barnetillegg",
+      "path": [
+        "IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner."
+      ],
+      "text": "Selv om vilkårene i § 9 ikke er oppfylt, skal barnetillegg til pensjon fra folketrygden likevel ytes dersom barnetillegg fra folketrygden fastsatt etter bestemmelsene i § 10 ville blitt høyere enn det barnetillegg som ytes fra et annet EØS-land. Barnetillegg fra folketrygden gis da med det overskytende beløp.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 12",
+      "heading": "Barnepensjon",
+      "path": [
+        "IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner."
+      ],
+      "text": "Bestemmelsene i §§ 9, § 10 første ledd og 11 gjelder tilsvarende for rett til barnepensjon, men slik at spørsmålet i § 9 bokstav b om trygdetilknytningas lengde m v vurderes i forhold til avdød far eller mor. Det er en forutsetning at vilkåret i folketrygdloven § 10-11 nr. 1 første ledd bokstav b er oppfylt, eventuelt ved sammenlegging med opptjeningsperioder i annet EØS-land, eller at vilkårene i paragrafens nr. 3 er oppfylt.\nSelv om vilkårene i første ledd ikke er oppfylt, skal det gis barnepensjon dersom avdød mor eller far hadde barnetillegg til pensjon fra folketrygden.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 13",
+      "heading": "Stans av barnetillegg/barnepensjon",
+      "path": [
+        "IV. Særlig om tilståelse og beregning av barnetillegg og barnepensjoner."
+      ],
+      "text": "Retten til barnetillegg eller barnepensjon etter §§ 9 til 12 stilles i bero dersom det i kraft av yrkesaktivitet kan kreves tilsvarende ytelser etter lovgivningen i annet EØS-land.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Pensjonen",
+      "path": [
+        "V. Prøving mot arbeidsinntekt – folketrygdloven §§ 7-10 og 10-5 nr. 3"
+      ],
+      "text": "Ved prøving mot arbeidsinntekt etter folketrygdloven §§ 7-10 eller 10-5 nr. 3 skjer prøvingamot pensjon fastsatt etter de vanlige bestemmelser i folketrygdloven og særtilleggsloven dersom pensjonisten fyller alle vilkår for pensjon etter folketrygdlovenmot pensjon fastsatt etter bestemmelsene i § 5 dersom pensjonisten ikke fyller vilkåret i § 7-2, jfr §§ 10-5 nr. 2 og 8-4, om minst 3 års trygdetid eller vilkåret i § 10-1 nr. 1 første ledd bokstav b eller nr. 3 om forutgående medlemskap i folketrygden.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Fribeløpet",
+      "path": [
+        "V. Prøving mot arbeidsinntekt – folketrygdloven §§ 7-10 og 10-5 nr. 3"
+      ],
+      "text": "Ved prøvinga skal fribeløpet for arbeidsinntekt etter §§ 7-10 og 10-5 nr. 3 utgjøre fullt fribeløp ganget med forholdstallet for grunnpensjon.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Inntektsgrunnlaget",
+      "path": [
+        "V. Prøving mot arbeidsinntekt – folketrygdloven §§ 7-10 og 10-5 nr. 3"
+      ],
+      "text": "Ved prøvinga skal inntektsgrunnlaget være inntektsgrunnlaget etter bestemmelsene i folketrygdloven henholdsvis § 7-10 og § 10-5 nr. 3 ganget med forholdstallet for grunnpensjon.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 17",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "VI. Ikrafttredelse"
+      ],
+      "text": "Forskriften her trer i kraft fra samme tid som EØS-avtalen og gis virkning for pensjon for tidsrom etter nevnte tidspunkt.\nLøpende ytelser omregnes etter bestemmelsene i forskriften dersom vedkommende setter fram krav om dette. Løpende ytelser kan også omregnes dersom saken av andre grunner tas opp for ny fastsetting av ytelsen. Ved omregning som nevnt i første og annet punktum skal det ikke foretas ny prøving mot folketrygdlovens regler om fastsetting og anvendelse av trygdetid.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    }
+  ]
+}

@@ -1,0 +1,238 @@
+{
+  "id": "FOR-2005-09-02-1010",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om innsamling og behandling av opplysninger i Forsvarets helseregister",
+  "short_title": "Forskrift om Forsvarets helseregister",
+  "department": "Forsvarsdepartementet",
+  "date_in_force": "2006-04-24",
+  "last_change_in_force": "2021-11-19",
+  "last_changed_by": "forskrift/2021-11-19-3235",
+  "lovdata_refid": "forskrift/2005-09-02-1010",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-09-02-1010",
+  "raw_xml_sha256": "0bd47871b6ce7b55095f2105f86837001d0f9e8fb02fe1ec707b06cf3a64a662",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Etablering av Forsvarets helseregister",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Denne forskriften etablerer et personidentifiserbart register (Forsvarets helseregister). Forskriften gir bestemmelser om innsamling, lagring, behandling og utlevering av opplysninger i registeret.\nInnsamling og behandling av opplysninger i Forsvarets helseregister kan skje manuelt og ved hjelp av elektroniske hjelpemidler.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Med Forsvarets personell menes de som har tjenesteplikt og sivilt tilsatte i Forsvaret, jf. forsvarsloven § 2.\nMed Helsepersonell i Forsvarets tjeneste menes helsepersonell som utfører oppdrag på Forsvarets vegne.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Forsvarets helseregisters innhold",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forsvarets helseregister kan inneholde personidentifiserende person-, tjeneste- og helsedata om Forsvarets personell. Forsvarets helseregister kan også inneholde informasjon om fysiske og sosiale miljøforhold.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Registerets formål",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Gjennom sammenstilling av tjenestedata, helsedata og miljødata er Forsvarets helseregisters formål å:føre tilsyn med helsen og helseutviklingen til personell i Forsvaret for å kartlegge helserisiko knyttet til ulike tjenester,fremme og gi grunnlag for forskning og statistikk som kan lede til kunnskap om helsen til forsvarets personell,bidra til forbedring og utvikling av den militære helsetjeneste,bidra til at yrkesrelaterte skader og plager avdekkes slik at rammede kan oppnå kompensasjon etter alminnelig erstatningsrettslige regler.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Forbud mot bruk",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Opplysningene i Forsvarets helseregister kan bare anvendes til formål som nevnt i § 1-4.\nForsvarets helseregister kan ikke utlevere tjenestedata som er gradert i henhold til sikkerhetslovens bestemmelser. Opplysninger om enkeltindivider som er fremkommet ved behandling av data etter forskriften, kan ikke brukes i forsikringsøyemed selv om den registrerte selv har anmodet om eller samtykker til det.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Dataansvarlig",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forsvarsdepartementet er dataansvarlig for Forsvarets helseregister.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-7",
+      "heading": "Databehandler",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forsvarets sanitet er databehandler.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-8",
+      "heading": "Opplysninger i Forsvarets helseregister",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Forsvarets helseregister kan, uten samtykke fra den registrerte, inneholde følgende opplysninger om Forsvarets personell, i den utstrekning det er nødvendig for å nå formålet med registeret:personopplysninger:navn og fødselsnummer,adresse og bostedskommune,sivilstand,inntekt,utdanningsnivå,administrative opplysninger:tittel/grad,tid og sted for militær klassifisering,tjenestested, avdeling og tidsrom,tjenestens art,spesielle forhold knyttet til tjenesten,institusjon/virksomhet/avdeling der helsehjelpen tilbys og ytes,institusjonsopphold, innleggelsesdato, utskrivingsdato, eventuelt poliklinikk,institusjon hvor undersøkelsen er gjort,helseopplysninger:om årsak til at helsetjenesten i Forsvaret er oppsøkt, tidspunkt og tidsforløp for symptomer,resultat av relevante medisinske undersøkelser,medikamentforeskrivinger,hoveddiagnose og bidiagnose,behandling,vaksinasjonsstatus,blodtype,hørselsundersøkelser,skjermbildeundersøkelser,klassifiseringsdata/skikkethet ved sesjon, innrykk og dimisjon,årsak til at skade/sykdom oppsto,smitteforhold, smitteoppsporing og varsling,dødsårsak, obduksjon og dødsdato,opplysninger om arbeidsplass:eksponeringsfaktorer,miljøfaktorer.\nEtter samtykke fra den enkelte, jf. helseregisterloven § 2 bokstav e, kan opplysninger som vedkommende selv oppgir i spørreskjema eller ved intervju registreres i Forsvarets helseregister.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-9",
+      "heading": "Koding og klassifisering av opplysningene i Forsvarets helseregister, krav til dokumentasjon",
+      "path": [
+        "Kapittel 1. Generelle bestemmelser"
+      ],
+      "text": "Den dataansvarlige for Forsvarets helseregister skal ved enhver registrering i registeret kunne dokumentere hvilke klassifikasjoner eller kodeverk som er benyttet.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Helsepersonells alminnelige dokumentasjons- og meldeplikt",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til Forsvarets helseregister"
+      ],
+      "text": "Helsepersonell i Forsvarets tjeneste, skal uten hinder av taushetsplikt melde opplysninger som nevnt i § 1-8, første ledd nr. 1 til 4 til Forsvarets helseregister. Meldeplikten etter denne bestemmelsen gjelder kun så langt helsepersonellet plikter å føre journal i Forsvarets journalsystem.\nMeldeplikt som nevnt i første ledd, anses oppfylt ved registrering av pasientopplysningene i Forsvarets egne elektroniske journalsystemer.\nDataansvarlig for journalsystem som nevnt i andre ledd, har ansvar for at pliktene etter denne bestemmelsen oppfylles.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Innhenting av opplysninger fra Dødsårsaksregisteret",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til Forsvarets helseregister"
+      ],
+      "text": "Forsvarets helseregister kan innhente opplysninger om dødsårsak, obduksjon og dødsdato fra Dødsårsaksregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Overføringsform og innsending",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til Forsvarets helseregister"
+      ],
+      "text": "Dataansvarlig har ansvaret for at overføring av opplysninger fra Forsvarets journalsystemer til Forsvarets helseregister, skjer i en form som sikrer forskriftens krav til tilfredsstillende informasjonssikkerhet.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Ansvar for kvalitetskontroll",
+      "path": [
+        "Kapittel 2. Melding av helseopplysninger til Forsvarets helseregister"
+      ],
+      "text": "Den dataansvarlige for Forsvarets helseregister skal sørge for at opplysninger som blir samlet inn og behandlet er korrekte, relevante og nødvendige for bruk til formål som nevnt i § 1-4.\nDersom innrapporterte opplysninger er ufullstendige eller på annen måte mangelfulle, skal dataansvarlig for den opprinnelige kilde varsles.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Tilgjengeliggjøring og annen behandling av helseopplysninger",
+      "path": [
+        "Kapittel 3. Behandling av personopplysninger i Forsvarets helseregister"
+      ],
+      "text": "Helseopplysninger i Forsvarets helseregister skal behandles i samsvar med personvernforordningen, personopplysningsloven og de alminnelige vilkårene i helseregisterloven § 6 og reglene om taushetsplikt i helseregisterloven § 17, jf. helsepersonelloven § 21 flg.\nVed tilgjengeliggjøring og sammenstilling av opplysninger i registeret gjelder helseregisterloven § 19 til § 19h.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Tilgang til Forsvarets helseregister",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Bare særskilt autoriserte representanter for databehandler, har tilgang til personidentifiserende opplysninger i Forsvarets helseregister. Autorisasjon tillegges dataansvarlig.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Enhver som behandler personopplysninger etter denne forskriften har taushetsplikt etter forvaltningsloven § 13 til § 13e og helsepersonelloven.\nTaushetsplikten etter første ledd gjelder også den registrertes fødested, fødselsdato, personnummer, statsborgerforhold, sivilstand, yrke, bopel og arbeidssted.\nOpplysninger til andre forvaltningsorganer etter forvaltningsloven § 13b nr. 5 og 6 kan bare gis når det er nødvendig for å bidra til løsning av oppgaver etter forskriften her, eller for å forebygge vesentlig fare for liv eller alvorlig skade for noens helse.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Den dataansvarlige og databehandler skal gjennom planlagte og systematiske tiltak sørge for tilfredsstillende informasjonssikkerhet med hensyn til risikoen, jf. personvernforordningen artikkel 32 og helseregisterloven § 21.\nFor behandling av informasjon som er skjermingsverdig av hensyn til rikets sikkerhet, gjelder bestemmelsene i sikkerhetsloven med forskrifter.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Plikt til å sørge for internkontroll",
+      "path": [
+        "Kapittel 4. Taushetsplikt, informasjonssikkerhet og internkontroll"
+      ],
+      "text": "Den dataansvarlige skal gjennomføre tekniske og organisatoriske tiltak for å sikre og påvise at behandling av opplysninger utføres i samsvar med personvernforordningen, personopplysingsloven og helseregisterloven, jf. helseregisterloven § 22.\nDatabehandlere som behandler opplysninger på vegne av den dataansvarlige, skal behandle opplysninger i samsvar med rutiner dataansvarlig har oppstilt.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Den registrertes rett til informasjon og innsyn",
+      "path": [
+        "Kapittel 5. Den registrertes rett til informasjon og innsyn"
+      ],
+      "text": "Registrerte har rett til informasjon om Forsvarets helseregister og innsyn i behandling av helseopplysninger om seg selv i samsvar med personvernforordningen artikkel 13 til 15, jf. helseregisterloven § 24.\nRetten til informasjon og innsyn som nevnt i første ledd, reguleres av sikkerhetsloven kapittel 5 så langt det gjelder gradert informasjon.\nBegjæringer om innsyn etter første ledd skal besvares i tråd med de tidsfrister som er angitt i personvernforordningen artikkel 12 nr. 3.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Bevaring av personopplysninger",
+      "path": [
+        "Kapittel 6. Bevaring av personopplysninger i Forsvarets helseregister"
+      ],
+      "text": "Opplysninger i Forsvarets helseregister skal oppbevares i ubegrenset tid, med mindre annet følger av denne forskriften, helseregisterloven § 25 eller sikkerhetslovens kapittel 5.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft fra den tid departementet bestemmer1.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Endringer i andre forskrifter",
+      "path": [
+        "Kapittel 8. Avsluttende bestemmelser"
+      ],
+      "text": "Fra forskriftens ikrafttredelse gjøres følgende endringer i andre forskrifter: – – –",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "FOR-1963-05-31-1",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Resolusjon om norsk statshøyhet over visse undersjøiske områder.",
+  "short_title": "Resolusjon om visse undersjøiske områder",
+  "department": "Energidepartementet",
+  "lovdata_refid": "forskrift/1963-05-31-1",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1963-05-31-1",
+  "raw_xml_sha256": "519bf6f27932966d4fec11cd44cfc66030e2438898f1f1c71954d53d18823343",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Resolusjon om norsk statshøyhet over visse undersjøiske områder.",
+      "path": [],
+      "text": "Havbunnen og undergrunnen i de undersjøiske områder utenfor kysten av Kongeriket Norge er undergitt norsk statshøyhet for så vidt angår utnyttelse og utforsking av naturforekomster, så langt havets dybde tillater utnyttelse av naturforekomstene, uten hensyn til de ellers gjeldende sjøgrenser, likevel ikke ut over midtlinjen i forhold til andre stater.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

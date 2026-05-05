@@ -1,0 +1,26 @@
+{
+  "id": "LOV-1812-02-25",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Cancelli-Promemoria",
+  "short_title": "Prom. ang. Territorial Grænse",
+  "department": "Utenriksdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Grenser",
+  "last_change_in_force": "2004-01-01",
+  "last_changed_by": "lov/2003-06-27-57 fra 2004-01-01",
+  "lovdata_refid": "lov/1812-02-25",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1812-02-25",
+  "raw_xml_sha256": "1e91a99caab2336bad1427e9a8e82278119c32e90b22a79a517d3deff7885ef3",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Cancelli-Promemoria",
+      "path": [],
+      "text": "Cancelli-Promemoria, ang. at Kongen under 22 dennes har behaget at resolvere: «Vi ville have fastsat som Regel i alle de Tilfælde, hvor Spørgsmaal er om Bestemmelse av Vor Territorial-Høiheds Grændse udi Søen, at denne skal regnes indtil den sædvanlige Sø-Mils Afstand fra den yderste Ø eller Holme fra Landet, som ikke overskylles af Søen».",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

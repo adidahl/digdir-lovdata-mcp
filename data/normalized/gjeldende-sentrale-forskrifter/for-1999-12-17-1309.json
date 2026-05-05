@@ -1,0 +1,42 @@
+{
+  "id": "FOR-1999-12-17-1309",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot førers bruk av håndholdt mobiltelefon under kjøring med motorvogn.",
+  "short_title": "Forskrift om bruk av mobiltelefon i bil",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2000-03-15",
+  "last_change_in_force": "2013-06-25",
+  "last_changed_by": "forskrift/2013-06-25-763",
+  "lovdata_refid": "forskrift/1999-12-17-1309",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1999-12-17-1309",
+  "raw_xml_sha256": "2c17a9d1bd2ad82bb10f6d410a352989f8cf257810ecbc8de6cbb7ba2dfec754",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I denne forskrift forstås med:Mobiltelefon: radioutstyr for kommunikasjon over offentlig nett.Bruk av mobiltelefon: enhver betjening av mobiltelefonens funksjoner.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Førers bruk av mobiltelefon under kjøring med motorvogn",
+      "path": [],
+      "text": "Fører av en motorvogn må ikke bruke mobiltelefon under kjøring.\nFører kan likevel bruke mobiltelefonen til å starte opp, gjennomføre og avslutte en samtale når mobiltelefonen under kjøringen er håndfri eller er plassert i en holder.\nHolderen skal være forsvarlig fastmontert i umiddelbar nærhet av rattet og så nært førers ordinære synsfelt under kjøring som praktisk mulig, med mindre holderen er en integrert del av kjøretøyets orginalinnredning.\nNår mobiltelefonen brukes håndfritt, kan den også benyttes til å styre og avspille lydfiler.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. mars 2000.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

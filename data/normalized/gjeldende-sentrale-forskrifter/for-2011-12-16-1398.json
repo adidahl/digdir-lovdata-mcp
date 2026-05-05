@@ -1,0 +1,408 @@
+{
+  "id": "FOR-2011-12-16-1398",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elsertifikater",
+  "short_title": "Forskrift om elsertifikater",
+  "department": "Energidepartementet",
+  "date_in_force": "2012-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-02-2408 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2011-12-16-1398",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-16-1398",
+  "raw_xml_sha256": "d738e6db50ad2e3abdf90296e876aaac8743694a03c92f2b0b67b0e9d9cf5611",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften skal bidra til økt produksjon av elektrisk energi fra fornybare energikilder.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Forskriften med tilhørende vedlegg gjelder på norsk territorium.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "I forskriften her forstås med:elsertifikat: et bevis utstedt av staten for at det er produsert en megawattime (MWh) fornybar elektrisk energi i henhold til lov om elsertifikater og denne forskriften.elsertifikatberettiget: innehaveren av et produksjonsanlegg som har rett til elsertifikater dersom vilkårene i kapittel 2 i lov om elsertifikater og denne forskriften er oppfylt.elsertifikatplikt: plikt til per 1. april hvert år å inneha et visst antall sertifikater for annullering i henhold til lov om elsertifikater og denne forskriften.fornybarandel: den delen av innmatet energi i et anlegg som er fornybar energi og dermed grunnlag for tildeling av elsertifikater.produksjonsanlegg: en innretning for produksjon av elektrisk energi.registeransvarlig: den enhet som er utpekt som ansvarlig for å utstede elsertifikater, samt utvikle og drive et elektronisk register for elsertifikater.tildelingsfaktor: den delen av et anleggs totale produksjon av elektrisk energi som kvalifiserer for rett til elsertifikater.avregningsansvarlig: den som i henhold til energiloven § 4-3 er utpekt som avregningsansvarlig.netto produksjon: med netto produksjon menes brutto produksjon i et kraftverk, referert til generatorklemme eller tilsvarende, minus forbruk i eventuelt hjelpeutstyr i forbindelse med produksjon av elektrisk energi, tap i hovedtransformatoren relatert til produksjonen i kraftverket og energi fra eventuell hjelpegenerator.\nUttrykk som ikke er definert i denne forskriften skal forstås på samme måte som i lov om elsertifikater.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Elsertifikatenes funksjonstid",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Elsertifikater kan utstedes for produksjon som skjer til og med 31. desember 2035. Siste annullering av elsertifikater skjer 1. april 2036.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utenlandske elsertifikater",
+      "path": [
+        "Kapittel 1. Innledende bestemmelser"
+      ],
+      "text": "Elsertifikater utstedt i henhold til svensk lov om elsertifikater kan brukes til oppfyllelse av sertifikatplikten i Norge.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Søknad om godkjenning",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Skriftlig søknad om godkjenning av produksjonsanlegg som kvalifiserer for rett til elsertifikater, skal sendes Norges vassdrags- og energidirektorat (NVE) på den måten NVE bestemmer.\nSøknaden skal inneholde de opplysninger som fremgår av denne forskriften, herunder dens vedlegg.\nFrist for å søke om godkjenning av produksjonsanlegg som kvalifiserer for rett til elsertifikater er 1. april 2016 for produksjonsanlegg satt i drift før 1. januar 2012. For alle andre produksjonsanlegg er fristen 1. april 2022.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Vedtak om godkjenning",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "NVE fatter vedtak om godkjenning av produksjonsanlegg for elsertifikatordningen.\nNVE fastsetter om hele eller bare deler av produksjonen godkjennes under ordningen. Dette reflekteres i at vedtaket fastsetter en tildelingsfaktor fra 0 til 1.\nNVE fastsetter tidspunktet for byggestart for det enkelte produksjonsanlegg. NVE kan i tvilstilfeller avgjøre hvilket tidspunkt som skal anses som byggestart.\nNVE kan sette krav til fortløpende rapportering av fornybarandel.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Fornybare energikilder",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Elsertifikater utstedes for produksjon av elektrisk energi basert på fornybare energikilder. NVE kan i tvilstilfeller avgjøre hva som er fornybare energikilder.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 9",
+      "heading": "Krav til produksjonsanlegget",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Anlegg for produksjon av elektrisk energi basert på fornybare kilder må:ha hatt byggestart etter 7. september 2009,være et vannkraftverk som hadde byggestart etter 1. januar 2004, ellervarig øke sin energiproduksjon med byggestart etter 7. september 2009.\nProduksjonsanlegget må i tillegg:være i samsvar med gjeldende konsesjon, konsesjonsvilkår eller forutsetninger for fritak for konsesjonsplikt,settes i drift innen 31. desember 2021, ogha betalt tilbake eventuell statlig investeringsstøtte, med renter som fastsatt av NVE, innen 30. april 2012.\nI produksjonsanlegg som kvalifiserer for rett til elsertifikater vil det utelukkende tildeles elsertifikater for den delen av produksjonsanlegget som har blitt satt i drift innen 31. desember 2021.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 10",
+      "heading": "Krav til dokumentasjon av byggestart",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Søknad om godkjenning etter § 6 skal inneholde dokumentasjon av byggestart ved fremleggelse av minst én av følgende:melding til Arbeidstilsynet om oppstart av anleggsarbeid,godkjent detaljplan fra NVE,kontrakt for leveranse av maskin- og elektroutstyr, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden, ellerkontrakt for hele eller deler av anleggsarbeidet, som til sammen tilsvarer minst 20 prosent av den totale byggekostnaden.\nFor produksjonsanlegg inntil 1 MW kan det alternativt fremlegges dokumentasjon fra nettselskap på når anlegget ble satt i drift, som grunnlag for å fastsette tidspunktet for byggestart.\nDokumentasjonskravene i første og annet ledd gjelder ikke for produksjonsanlegg som bygges i henhold til konsesjon eller fritak for konsesjonsplikt som er gitt etter 1. januar 2012 av NVE, Energidepartementet eller Kongen i statsråd.\nNVE kan på forespørsel kreve fremlagt ytterligere dokumentasjon, herunder dokumentasjon som nevnt i første og annet ledd som ikke er fremlagt i søknaden.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 11",
+      "heading": "Særlige krav for godkjenning av varig økning av produksjonsevnen",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Varig økning i produksjonsevne som følge av investeringer i eksisterende produksjonsanlegg gir rett til elsertifikater. Det samme gjelder ved opprustinger, utvidelser og nye produksjonsanlegg til erstatning for eksisterende anlegg.\nI vedtaket om godkjenning fastsetter NVE en tildelingsfaktor som representerer økningen i produksjonsevne. Der økningen beregnes ut fra et hydrologisk grunnlag bestemmes dette grunnlaget av NVE.\nUtbedring på grunn av elde og slitasje anses som vedlikehold og gir ikke rett til elsertifikater.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 12",
+      "heading": "Elsertifikatperiode",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Elsertifikatperioden gjelder i femten år fra vedtak om godkjenning etter § 7 eller fra det tidspunkt som er fastsatt av NVE i vedtaket, men uansett begrenset til 31. desember 2035.\nFor produksjonsanlegg som ble satt i drift før 1. januar 2012 skal elsertifikatperioden forkortes tilsvarende perioden fra idriftsettelse til 1. januar 2012.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 13",
+      "heading": "Driftsavbrudd",
+      "path": [
+        "Kapittel 2. Godkjenning av produksjonsanlegg"
+      ],
+      "text": "Dersom et produksjonsanlegg er forhindret fra å levere elektrisk energi på grunn av uforutsett driftsavbrudd eller hendinger knyttet til overføring eller distribusjon av elektrisk energi, og produksjonsanlegget dermed blir forhindret fra å motta elsertifikater over en periode lenger enn 30 døgn, kan NVE etter søknad forlenge elsertifikatperioden tilsvarende perioden den elsertifikatberettigede ikke har mottatt elsertifikater. Elsertifikater kan likevel ikke utstedes for produksjon som skjer etter 31. desember 2035.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 14",
+      "heading": "Rapportering ved utstedelse av elsertifikater",
+      "path": [
+        "Kapittel 3. Måling og rapportering"
+      ],
+      "text": "Elsertifikatberettigede får utstedt elsertifikater på grunnlag av avregningsdata som sendes inn til den avregningsansvarlige etter forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester. Det må installeres måler for hvert enkelt godkjente produksjonsanlegg for at det skal kunne utstedes sertifikater.\nAvregningsansvarlig skal videresende nødvendige data til registeransvarlig.\nElsertifikatberettigede som ønsker å få utstedt elsertifikater på grunnlag av netto produksjon fra målere i nett som ikke omfattes av forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester, må selv for egen regning sørge for innrapportering av måledata. Innrapporteringen må foretas av en profesjonell og uavhengig tredjepart som plikter å påse at kravene til målesystem etter § 15 er oppfylt, og sørger for at måledata for produksjon reduseres på bakgrunn av beregnet korreksjonsfaktor før innrapportering til registeransvarlig. Måledata skal oversendes i henhold til Ediel.\nNettselskapet skal sende kopi av korreksjonsoppgjør som følge av feil i rapporterte måleverdier for elsertifikatberettigede til registeransvarlig.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 15",
+      "heading": "Bestemmelser om målesystem",
+      "path": [
+        "Kapittel 3. Måling og rapportering"
+      ],
+      "text": "Det skal være timesmåling for hvert enkelt produksjonsanlegg for at det skal kunne utstedes elsertifikater.\nVed validering, estimering og korreksjon av måledata som ligger til grunn for utstedelse av elsertifikater skal profesjonell og uavhengig tredjepart som foretar innrapporteringer etter § 14 tredje ledd følge de samme kravene som stilles til et nettselskap etter forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester § 3-10.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 16",
+      "heading": "Bestemmelser om måledata og korreksjonsfaktor",
+      "path": [
+        "Kapittel 3. Måling og rapportering"
+      ],
+      "text": "Elsertifikater utstedes på grunnlag av måledata for netto produksjon. Registeransvarlig skal trekke fra energi brukt til pumping av vann til magasiner.\nFor produksjonsanlegg som ikke er omfattet av forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester skal måledata som sendes til registeransvarlig være basert på netto produksjon. Dersom måling er etablert for brutto produksjon kan det for produksjonsanlegg som ikke er omfattet av forskrift 11. mars 1999 nr. 301 om måling, avregning og samordnet opptreden ved kraftomsetning og fakturering av nettjenester fremlegges, ved søknaden, en beregning av korreksjonsfaktor som tar hensyn til forbruket i anleggets hjelpesystemer og tap i anleggets transformatorer. Beregningen skal foretas av en profesjonell og uavhengig tredjepart. Ved brutto målinger av produksjon der det ikke foreligger en beregning av korreksjonsfaktor skal det trekkes fra 2 prosent før innsending av måledata til registeransvarlig.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 17",
+      "heading": "Rapportering av beregningsrelevant mengde elektrisk energi",
+      "path": [
+        "Kapittel 3. Måling og rapportering"
+      ],
+      "text": "Nettselskapet skal innen midten av hvert kvartal sende melding til registeransvarlig om beregningsrelevant mengde elektrisk energi for hver enkelt elsertifikatpliktig i sitt nettområde. Meldingen skal for hver elsertifikatpliktig inneholde aggregert beregningsrelevant mengde for foregående kalenderår, samt aggregert beregningsrelevant mengde til og med utgangen av foregående kvartal for inneværende år. Meldingen skal oversendes ved hjelp av Ediel-melding i henhold til norsk Ediel-standard.\nElsertifikatpliktige i nett som ikke omfattes av forskrift 11. mars 1999 nr. 301 må selv innen midten av påfølgende kvartal registrere beregningsrelevant mengde elektrisk energi i foregående kvartal i elsertifikatregisteret. Den elsertifikatpliktige skal kunne dokumentere at oppgitt beregningsrelevant mengde er korrekt.\nNettselskapet skal opplyse elsertifikatpliktige i sitt nett om hvilke målepunkter det leveres eller er uttak av beregningsrelevant mengde elektrisk energi. For målepunkter hvor kun deler av forbruket er beregningsrelevant, skal nettselskapet opplyse om hvilken andel som er beregningsrelevant. Meldingen skal snarest mulig oversendes ved hjelp av Ediel-melding i henhold til norsk Ediel-standard.\nRegisteransvarlig skal løpende registrere beregningsrelevant mengde elektrisk energi rapportert fra nettselskapene i elsertifikatregisteret for den enkelte elsertifikatpliktige.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Elsertifikatpliktige",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Elsertifikatpliktige er:enhver som leverer elektrisk energi til sluttbruker,enhver som forbruker elektrisk energi som er egenprodusert, ogenhver som kjøper elektrisk energi til eget forbruk på den nordiske kraftbørsen eller gjennom bilateral avtale.\nI tilfeller hvor kjøperen er elsertifikatpliktig etter bokstav c) er ikke selgeren elsertifikatpliktig.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Beregningsrelevant mengde elektrisk energi",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Elsertifikatpliktens omfang tilsvarer den elsertifikatpliktiges beregningsrelevante mengde elektrisk energi i det enkelte år, multiplisert med elsertifikatkvoten (forholdstallet) som er fastsatt for det samme året etter § 19a.\nSom beregningsrelevant mengde elektrisk energi anses leveranser som nevnt i Stortingets vedtak om forbruksavgift på elektrisk kraft § 1 slik det lyder for budsjetterminen 2011. Kjøp av elektrisk energi for å dekke nettap er ikke beregningsrelevant.\nEtter søknad fatter NVE vedtak om at industrielt kraftforbruk hos aktører som driver kraftintensiv industriell virksomhet som faller innenfor Norsk standard for næringsgruppering (SN2007) 17.1, 19.2, 20.1, 24.1 eller 24.4, og som ikke er fritatt etter annet ledd, ikke anses som beregningsrelevant. Aktørene må i tillegg melde fra til nettselskapene hvor de har målepunkter der forbruket ikke er beregningsrelevant.\nAktører har frist til innen utgangen av 31. desember for å søke om unntak fra elsertifikatplikten for inneværende år. For aktører som gis unntak for industrielt kraftforbruk med hjemmel i § 19 tredje ledd vil vedtak om unntak gjelde hele året.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 19a",
+      "heading": "Årlige elsertifikatkvoter",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Den årlige elsertifikatkvoten for den elsertifikatpliktige er et forholdstall oppgitt i følgende tabell:Beregningsår for elsertifikatkvotenElsertifikatkvoten20240,18320250,19020260,17220270,14720280,12520290,10120300,08320310,06620320,04920330,03320340,01620350,008",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 20",
+      "heading": "Melding om elsertifikatplikt",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Den elsertifikatpliktige skal sende melding til NVE på den måten NVE bestemmer innen to uker etter at elsertifikatplikt har inntrådt.\nNVE kan etter forutgående varsel fatte vedtak om registrering av aktører som ikke har meldt seg som elsertifikatpliktige.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 21",
+      "heading": "Deklarasjon for oppfyllelse av elsertifikatplikt",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Den elsertifikatpliktige skal innen 1. mars hvert år kontrollere beregningsrelevant mengde elektrisk energi for siste kalenderår, samt eventuell korrigering for kalenderåret før, i elsertifikatregisteret. Dersom den elsertifikatpliktige mener at feil beregningsrelevant mengde elektrisk energi er registrert i elsertifikatregisteret, skal denne fremlegge dokumentasjon til registeransvarlig på at beregningsrelevant mengde elektrisk energi avviker fra volumet oppgitt i elsertifikatregisteret.\nDen elsertifikatpliktige skal innen 1. mars hvert år angi antall elsertifikater som skal annulleres på egen konto i elsertifikatregisteret.\nVed uenighet mellom registeransvarlig og den elsertifikatpliktige om beregningsrelevant mengde elektrisk energi, kan den elsertifikatpliktige innen 15. mai kreve at NVE fatter vedtak som avgjør om elektrisk energi anses beregningsrelevant.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 22",
+      "heading": "Korrigering av beregningsrelevant mengde elektrisk energi",
+      "path": [
+        "Kapittel 4. Elsertifikatplikt, deklarasjon, informasjon til sluttbrukere mv."
+      ],
+      "text": "Dersom nettselskapet etter 1. mars korrigerer den elsertifikatpliktiges beregningsrelevante mengde elektrisk energi for det foregående kalenderåret, skal den registeransvarlige justere for dette i elsertifikatplikten ved neste års annullering. Det skal ikke korrigeres for endringer i beregningsrelevant mengde lenger tid tilbake enn året før det året det annulleres for.\nVed justering etter første ledd skal elsertifikatplikten beregnes på nytt basert på den elsertifikatkvoten som gjaldt det året korreksjonen gjelder. Differansen mellom den opprinnelige elsertifikatplikten og den nye trekkes fra eller legges til elsertifikatplikten for siste kalenderår.\nDersom den elsertifikatpliktige får medhold i klage etter § 21 hvor klagen gjelder innrapportert beregningsrelevant mengde elektrisk energi for siste kalenderår, må den elsertifikatpliktige selv kontrollere at nettselskapet inkluderer korrigeringen i den videre rapporteringen til registeransvarlig.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 24",
+      "heading": "Elsertifikatregisteret",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "Registeransvarlig skal opprette et elsertifikatregister og opprette elsertifikatkonto for elsertifikatpliktige og elsertifikatberettigede eller andre etter skriftlig søknad.\nElsertifikatpliktige skal ha egen elsertifikatkonto.\nEn kontohaver kan ha flere konti med tilhørende underkonti i elsertifikatregisteret.\nKontohaveren kan ved fullmakt overlate disponeringen av kontoen til andre.\nRegisteransvarlig skal innhente og registrere opplysninger, herunder:når konto ble opprettetnødvendige opplysninger om kontohaver, som kan omfatte organisasjonsnummer, for- og etternavn, fødselsdato og fødested på personen som skal disponere kontoen, adresse, land, telefonnummer og stilling i virksomhetenkontoens elsertifikatbeholdningbevegelser i kontoenelsertifikatets omsetningspris og dato for kontraktsinngåelseheftelser som hviler på elsertifikatbeholdningennår elsertifikatet ble utstedtnår elsertifikatet ble annullerteventuelle fullmakter og nødvendige opplysninger om disse, som kan omfatte navn på fullmaktsgiver, organisasjonsnummer, eventuelt for- og etternavn på fullmektig, fødselsdato og fødested på fullmektig, adresse, land, telefonnummer og stilling i virksomheten.\nRegisteransvarlig er ansvarlig for driften av elsertifikatregisteret og for registrering ved utstedelse og annullering av elsertifikater.\nRegisteransvarlig skal ha hensiktsmessige ordninger for å overvåke at registreringen i elsertifikatregisteret er korrekt, og melde fra til NVE dersom det foreligger grunn til å tro at uriktige eller villedende opplysninger er registrert i elsertifikatregisteret.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 25",
+      "heading": "Utstedelse av elsertifikater",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "Registeransvarlig skal utstede ett elsertifikat til den elsertifikatberettigede for hver megawattime elektrisk energi produsert i godkjent produksjonsanlegg. Hvert elsertifikat skal ha et identifiseringsnummer og dato for utstedelsen.\nAnlegg som er godkjent for elsertifikater tildeles elsertifikater lik produktet av innrapporterte produksjonsdata justert etter § 16, tildelingsfaktor og fornybarandel.\nEt elsertifikat utstedes til den elsertifikatberettigede ved at elsertifikatet registreres på vedkommendes elsertifikatkonto. Registreringen skal foretas uten ugrunnet opphold.\nEtter fullmakt fra elsertifikatberettiget kan elsertifikater utstedes til en annens elsertifikatkonto.\nEn elsertifikatberettiget som mener å ha fått utstedt et uriktig antall elsertifikater, kan kreve at NVE fatter vedtak om hvor mange elsertifikater den elsertifikatberettigede har krav på. Kravet skal fremsettes overfor registeransvarlig, som oversender saken til NVE for vedtak sammen med den registeransvarliges kommentarer til kravet.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 26",
+      "heading": "Omsetning av elsertifikater",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "Selgeren av elsertifikater skal registrere antall elsertifikater som overdras fra selger til kjøper, omsetningspris og dato for kontraktsinngåelse i elsertifikatregisteret ved overdragelse fra selger til kjøper. Omsetningsprisen er den prisen som selger og kjøper har avtalt.\nSelger, kjøper og andre som har konto i elsertifikatregisteret skal på forespørsel oppgi kontraktsdokumentasjon, annen informasjon knyttet til transaksjoner i elsertifikatregisteret og om partene til registeransvarlig og NVE.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 27",
+      "heading": "Annullering av elsertifikater",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "Registeransvarlig skal hvert kvartal beregne elsertifikatpliktens omfang per elsertifikatpliktig basert på elsertifikatkvote og beregningsrelevant mengde elektrisk energi og angi dette på den elsertifikatpliktiges konto.\nRegisteransvarlig skal 1. april annullere det antall elsertifikater som den elsertifikatpliktige har angitt for annullering. Dersom det ikke er angitt hvor mange elsertifikater som skal annulleres, skal registeransvarlig annullere det antallet som er tilstrekkelig for oppfyllelse av sertifikatplikten.\nDen elsertifikatpliktige må kontrollere at antall annullerte sertifikater på den elsertifikatpliktiges konto er korrekt, og ved feil melde fra til registeransvarlig innen 15. april.\nRegisteransvarlig skal innen 15. mai rapportere til NVE antall annullerte sertifikater samt data for beregningsrelevant mengde elektrisk energi.\nVed uenighet mellom registeransvarlig og den elsertifikatpliktige om korrekt antall annullerte elsertifikater, kan den elsertifikatpliktige innen 15. mai kreve at NVE fatter vedtak i saken.\nDen elsertifikatpliktige plikter innen utgangen av 31. mars å inneha på sin konto det antall elsertifikater som skal annulleres.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 28",
+      "heading": "Informasjon og rapportering til NVE",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "NVE skal ha direkte tilgang til elsertifikatregisteret. NVE kan kreve at det skal utarbeides en funksjon for standardrapporter, og tilgang til denne funksjonen.\nRegisteransvarlig skal utarbeide kvartalsvise rapporter til NVE med opplysninger om blant annet:elsertifikatpliktiges beregningsrelevante kraftleveranser eller forbruk, samt anskaffelser av elsertifikater,antall utstedte sertifikater totalt og per anlegg med angivelse av tidspunkt for utstedelse,antall omsatte sertifikater, ogregistrerte priser.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 29",
+      "heading": "Prisinformasjon mv.",
+      "path": [
+        "Kapittel 5. Elsertifikatregister, utstedelse, omsetning og annullering mv."
+      ],
+      "text": "Registeransvarlig skal fortløpende offentliggjøre informasjon om overdragelse av elsertifikater i elsertifikatmarkedet, herunder tidspunkt for overdragelse, tidspunkt for kontraktsinngåelse, antall overdratte elsertifikater, samt pris på elsertifikatene.\nRegisteransvarlig skal daglig offentliggjøre volumveid gjennomsnittspris på overdratte elsertifikater i elsertifikatmarkedet siste 12 måneder, samt antall elsertifikater som er utstedt i løpet av samme periode.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 30",
+      "heading": "Kontroll",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "NVE fører kontroll med at bestemmelser gitt i eller i medhold av lov om elsertifikater overholdes.\nEnhver som omfattes av denne forskriften skal medvirke til gjennomføring av kontroll. Dette omfatter blant annet å fremskaffe opplysninger og dokumentasjon som er nødvendig for å gjennomføre kontroll.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 31",
+      "heading": "Opplysningsplikt og utlevering av opplysninger",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Elsertifikatberettiget har opplysningsplikt overfor NVE, og skal av eget tiltak snarest mulig informere om bl.a. følgende:ombygging av produksjonsanlegg som medfører endring i installert effekt,opphør av timesmåling av produksjon,forandringer som påvirker produksjonsanleggets produksjon av elektrisk energi, sammenliknet med hva som er angitt i søknaden om godkjenning jf. § 6,andre vesentlige endringer i produksjonsanlegget som er godkjent jf. § 7,opplysninger om ny innehaver av godkjent produksjonsanlegg, herunder den nye innehaverens navn, firma og person- eller organisasjonsnummer,adresseendringer, nye kontaktpersoner eller telefonnummer.\nDersom elektrisitetsproduksjonen legges ned, skal elsertifikatberettiget av eget tiltak informere NVE innen 14 virkedager.\nFor vurdering av den balanseansvarliges soliditet, skal registeransvarlig på anmodning gi avregningsansvarlig opplysninger om beregningsrelevant leveranse eller forbruk, samt anskaffelse av elsertifikater. Dette gjelder hver enkelt elsertifikatpliktig som også er balanseansvarlig.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 32",
+      "heading": "Pålegg",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "NVE kan gi de pålegg som er nødvendige for å sikre at bestemmelser eller vedtak fastsatt i eller i medhold av lov om elsertifikater eller denne forskriften blir overholdt.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 33",
+      "heading": "Tvangsmulkt",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "NVE kan fatte vedtak om tvangsmulkt for å sikre at en plikt som følger av eller i medhold av lov om elsertifikater eller denne forskriften blir oppfylt. Tvangsmulkten kan fastsettes som en løpende mulkt eller som et engangsbeløp. Tvangsmulkten tilfaller statskassen og er tvangsgrunnlag for utlegg. NVE kan helt eller delvis frafalle påløpt tvangsmulkt.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 34",
+      "heading": "Tilbaketrekking av godkjenning",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Dersom godkjenning som elsertifikatberettiget er gitt på grunnlag av uriktige eller villedende opplysninger, eller dersom produksjonsanlegget av andre årsaker ikke lenger oppfyller kravene til godkjenning, kan godkjenningen trekkes tilbake av NVE.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 35",
+      "heading": "Gebyr til NVE",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Gebyr for dekning av NVEs kostnader til saksbehandling og tilsyn, kreves inn fra elsertifikatberettigede.\nSatsene skal settes slik at de samlede gebyrer over tid ikke overstiger de faktiske utgifter NVE har for saksbehandling og tilsyn etter lov om elsertifikater og denne forskriften.\nGebyret er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 36",
+      "heading": "Gebyr til registeransvarlig",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Enhver som benytter seg av ordningen med elsertifikater etter denne forskriften, kan av registeransvarlig avkreves gebyr for dekning av den registeransvarliges kostnader knyttet til ordningen. De samlede gebyrer skal tilsvare de faktiske kostnader registeransvarlig har ved effektiv utvikling og drift av registeret i ordningens levetid. Gebyrstrukturen til registeransvarlig skal godkjennes av NVE.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 37",
+      "heading": "Avgift for manglende annullering av elsertifikater",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "NVE kan ilegge den elsertifikatpliktige en avgift for hvert elsertifikat som mangler for å oppfylle elsertifikatplikten.\nI tilfeller hvor NVE fatter vedtak etter § 27, og den elsertifikatpliktige har annullert for få sertifikater, skal den elsertifikatpliktige gis mulighet til å annullere det nødvendige antallet elsertifikater, dersom disse pr. 1. april var tilgjengelige på en konto tilhørende den elsertifikatpliktige.\nAvgift per elsertifikat settes til 150 prosent av volumveid gjennomsnittspris registrert i elsertifikatregistrene i Sverige og Norge i perioden 1. april i foregående kalenderår til 31. mars inneværende kalenderår. Avgiftens størrelse skal offentliggjøres av NVE innen 1. juni.\nEndelig vedtak om ileggelse av avgift er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 38",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "NVE kan i særlige tilfeller dispensere fra denne forskriften og vilkår satt i medhold av denne forskriften.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 39",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 6. Avsluttende bestemmelser"
+      ],
+      "text": "Forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    }
+  ]
+}

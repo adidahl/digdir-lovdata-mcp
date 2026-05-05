@@ -1,0 +1,79 @@
+{
+  "id": "FOR-2023-08-17-1330",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av personopplysninger på det boligsosiale feltet",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2023-08-17",
+  "lovdata_refid": "forskrift/2023-08-17-1330",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-08-17-1330",
+  "raw_xml_sha256": "e872cd26bab2fea72ace9a133d5edcf348ce23cf9955d7070402ce605e9250fd",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å gi nærmere regler for kommunens og statsforvalterens behandling av personopplysninger når de utfører oppgavene etter lov om kommunenes ansvar på det boligsosiale feltet § 5–§ 7.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forholdet til personopplysningsloven",
+      "path": [],
+      "text": "Personopplysningslovens regler om behandling av opplysninger, herunder tilgang, oppbevaring, informasjonsplikt og sletting, gjelder for opplysninger som behandles etter reglene i lov om kommunenes ansvar på det boligsosiale feltet og forskriften her.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Behandlingsansvarlig",
+      "path": [],
+      "text": "Kommunen er ansvarlig for behandling av personopplysninger ved utføring av sine oppgaver etter lov om kommunenes ansvar på det boligsosiale feltet og denne forskriften.\nStatsforvalteren er ansvarlig for behandling av personopplysninger ved behandling av klager etter lov om kommunenes ansvar på det boligsosiale feltet § 7.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Formålet med behandlingen av personopplysninger",
+      "path": [],
+      "text": "Kommunen kan behandle personopplysninger for spesifikke, uttrykkelig angitte og berettigede formål, herundervurdere om en person er vanskeligstilt på boligmarkedetgi individuelt tilpasset bistand til vanskeligstilte på boligmarkedetha oversikt over behovet for både ordinære og tilpassede boliger for vanskeligstilte på boligmarkedet.\nStatsforvalteren kan behandle opplysninger for formålene angitt i første ledd a og b ved behandling av klager etter lov om kommunenes ansvar på det boligsosiale feltet § 7.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Personopplysninger som kan behandles",
+      "path": [],
+      "text": "Når det er nødvendig for å utføre oppgaver som nevnt i lov om kommunenes ansvar på det boligsosiale feltet, kan kommunen og statsforvalteren behandle personopplysninger om følgende forhold:navn, adresse, telefonnummer, e-postadresse, reservasjonsstatus for digital post, kontonummer, målform, fødselsnummer, d-nummer og sivilstatusnavn og fødselsnummer eller d-nummer på medlemmer av husstandeneventuell verge og den rettslige handleevnen til den som ber om bistand i økonomiske forholdinntekt, formue, skatteberegning og gjeld, inkludert opplysninger om offentlige ytelser og stønaderandre økonomiske forhold, for eksempel kredittvurderinger, betalingsanmerkninger og underholdsbidragarbeidsforholdoppholdsrett og oppholdstillatelse, herunder oppholdsgrunnlag, varighet på oppholdsretten og oppholdstillatelsen og om det er søkt om fornyet oppholdstillatelse eller varig oppholdsrettbolig og boforholdsosiale og helsemessige forholdutdanningskole- og barnehageplassmorsmål og foretrukket tolkespråkstraffedommer og lovovertredelser.\nPersonopplysninger angitt i første ledd bokstav d, kan kommunen uten hinder av taushetsplikt innhente fra skattemyndighetene på grunnlag av innrapporterte inntektsopplysninger og skatteoppgjøret.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Opplysninger om andre enn den som ber om bistand",
+      "path": [],
+      "text": "Adgangen til å behandle opplysninger angitt i § 5 gjelder også nødvendige opplysninger omektefelle eller samboer til den som ber om bistandbarn, inkludert barn med delt bosted eller samværsrett, samt fosterbarn til den som ber om bistand, eller barn av ektefelle eller samboerforeldre, forsørgere, fosterforeldre eller personer med foreldreansvar for den som ber om bistandandre husstandsmedlemmer med betydning for den boligsosiale situasjonen til den som ber om bistand.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Viderebehandling for utvikling og testing",
+      "path": [],
+      "text": "Kommunen kan viderebehandle personopplysninger som nevnt i § 5 når dette er nødvendig for å utvikle og teste IT-systemer som kommunen bruker for å utføre oppgaver etter lov om kommunenes ansvar på det boligsosiale feltet, og det er umulig eller uforholdsmessig vanskelig å oppnå formålet ved å bruke anonyme eller fiktive opplysninger.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2017-04-05-450",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilbaketrekking av betalingsmidler",
+  "short_title": "Forskrift om tilbaketrekking av betalingsmidler",
+  "department": "Finansdepartementet",
+  "date_in_force": "2017-05-30",
+  "lovdata_refid": "forskrift/2017-04-05-450",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-04-05-450",
+  "raw_xml_sha256": "1962f77f5cdcb2ba2762e7daa380b641093946f54562ba038b4cee37e7e449cf",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "100- og 200-kroneseddelen av utgave VII settes ut av omløp og opphører å være tvungent betalingsmiddel 30. mai 2018.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 30. mai 2017.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

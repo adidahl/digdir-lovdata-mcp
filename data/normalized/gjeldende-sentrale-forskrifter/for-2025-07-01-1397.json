@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2025-07-01-1397",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gebyr når kommunene utøver namskompetanse etter tvangsfullbyrdelsesloven kapittel 2 avsnitt II",
+  "department": "Finansdepartementet",
+  "date_in_force": "2026-01-01",
+  "lovdata_refid": "forskrift/2025-07-01-1397",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-07-01-1397",
+  "raw_xml_sha256": "94901ac18f6442b2b5593a328482e3e8256a766493a9d45e98077c57d3a26f3e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gebyr ved utlegg",
+      "path": [],
+      "text": "Når kommunen sender varsel etter tvangsfullbyrdelsesloven § 2-15 andre ledd første punktum, kan den kreve at skyldneren betaler et gebyr på inntil 0,345 ganger rettsgebyret. Det betales ikke gebyr ved gjentatt varsel etter tvangsfullbyrdelsesloven § 2-15 andre ledd andre punktum.\nKommunen kan kreve at skyldneren betaler et gebyr på inntil 0,345 ganger rettsgebyret når den treffer beslutning om utleggspant eller utleggstrekk etter tvangsfullbyrdelsesloven § 2-15 første ledd, eller underretter skyldneren etter tvangsfullbyrdelsesloven § 2-15 andre ledd tredje punktum om at kommunen avslutter saken uten å beslutte utlegg. Ved unnlatt varsel etter tvangsfullbyrdelsesloven § 7-6 jf. § 2-15 andre ledd første punktum, kan kommunen etter første punktum kreve et gebyr på inntil 0,69 ganger rettsgebyret.\nDersom utlegget kjennes ugyldig eller tvangsgrunnlaget oppheves, bortfaller skyldnerens plikt til å betale gebyret.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelses- og overgangsregler",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2026.\nFor tilfeller som fortsatt behandles etter de bestemmelsene om utlegg som gjelder før innkrevingsloven med endringer i andre lover trer i kraft, kan kommunene kreve gebyr i samsvar med tidligere praksis.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

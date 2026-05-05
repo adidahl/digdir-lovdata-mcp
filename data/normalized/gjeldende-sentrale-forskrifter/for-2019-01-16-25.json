@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2019-01-16-25",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av rusmiddeltesting og forbud mot å tjenestegjøre i ruspåvirket tilstand for flyteknisk personell, personell i flysikringstjenesten og i bakketjenesten",
+  "short_title": "Forskrift om gjennomføring av rusmiddeltesting og forbud mot å tjenestegjøre i ruspåvirket tilstand for flyteknisk personell, personell i flysikringstjenesten og i bakketjenesten",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2019-01-31",
+  "lovdata_refid": "forskrift/2019-01-16-25",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-01-16-25",
+  "raw_xml_sha256": "db141626e685cd924a8d3b43f4c12969f15a0a955ade35fbaf38d810dcb37a6f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Luftfartspersonell som er omfattet av luftfartsloven § 6-11, § 6-12 og § 6-13",
+      "path": [],
+      "text": "Luftfartsloven § 6-11, § 6-12 og § 6-13 gjelder tilsvarende for personell som har oppgaver av betydning for sikkerheteni en konstruksjonsorganisasjon som er sertifisert med hjemmel i sertifiseringsforskriften 4. mars 2013 nr. 252 og forordning (EU) nr. 748/2012, herunder personell som konstruerer luftfartøy, produkter, deler og utstyr til luftfartøy,i en produksjonsorganisasjon som er sertifisert med hjemmel i sertifiseringsforskriften 4. mars 2013 nr. 252 og forordning (EU) nr. 748/2012, herunder personell som har ansvar for å fremstille og produsere produkter, deler og utstyr til luftfartøy,i en vedlikeholdsorganisasjon som er sertifisert med hjemmel i vedlikeholdsforskriften 7. mai 2015 nr. 488 og forordning (EU) nr. 1321/2014, herunder personell som planlegger, utfører eller godkjenner vedlikehold, reparasjon og endringsarbeider på luftfartøy, utstyr eller deler til luftfartøy,når det gjelder vedlikehold av flymateriell som brukes i ikke-ervervsmessig luftfart,ved enheter av lufttrafikktjenesten, herunder personell som utfører flygekontrolltjeneste, flygeinformasjonstjeneste, kunngjøringstjeneste, alarmtjeneste eller rådgivningstjeneste, eller som assisterer nevnte personell ved utførelse av slike tjenester, og personell ved meldekontor,i flynavigasjonstjenesten, herunder personell som utfører installasjon, idriftsettelse, vedlikehold eller drift av anlegg for kommunikasjon, navigasjon og overvåking,hos en yter av flyværtjenester, herunder personell som utfører observasjon, værvarsling, overvåking og formidling av meteorologiske produkter til luftfarten,ved luftfartsstasjoner, herunder personell i den faste eller mobile sambandstjenesten for luftfarten som utfører radiosambandstjeneste med luftfartøy,i bakketjeneste på landingsplasser, herunder personell i plasstjenesten, elektrotjenesten, brann- og redningstjenesten, personell som utfører lufthavnrelaterte tjenester og personell som har oppgaver som skal forebygge anslag mot sikkerheten i luftfarten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gjennomføring av rusmiddeltesting",
+      "path": [],
+      "text": "Rusmiddeltesting etter luftfartsloven § 6-13 skal gjennomføres på den mest lempelige måten, for å unngå at tiltaket blir uforholdsmessig tyngende for den som testes, passasjerene og det aktuelle foretaket.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 31. januar 2019.\nFra samme tidspunkt oppheves forskrift 17. desember 2001 nr. 1462 om pliktmessig avhold fra nytelse av alkohol eller annet berusende eller bedøvende middel for personell i luftfartens flysikringstjeneste.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

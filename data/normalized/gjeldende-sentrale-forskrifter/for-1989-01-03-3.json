@@ -1,0 +1,41 @@
+{
+  "id": "FOR-1989-01-03-3",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om samordning av pensjons- og trygdeytelser når en av pensjonene beregnes som en folketrygdberegnet AFP mellom 65 og 67 år",
+  "short_title": "Forskrift om samordning pensjons- og trygdeytelser ved AFP",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1989-01-03",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1989-01-03-3",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1989-01-03-3",
+  "raw_xml_sha256": "fb6f988b21465aeee978aac9689e759e689a498ce91882a881d44109cf362c8c",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Samordning av to eller flere tjenestepensjoner",
+      "path": [],
+      "text": "Ved beregning av pensjonsmaksimum etter samordningsloven § 7 skal den høyeste av pensjonene fastsatt etter garantireglene for AFP i perioden mellom fylte 65 år og 67 år (folketrygdberegnet AFP) og pensjon for full tjenestetid etter pensjonsgrunnlaget, anses som pensjon for full tjenestetid.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Samordning av tjenestepensjon og personskadetrygd",
+      "path": [],
+      "text": "I begrepet den høyeste av pensjonene i samordningsloven § 16 nr. 2, inngår også pensjon fastsatt etter garantiregelen for AFP i perioden mellom fylte 65 år og 67 år (folketrygdberegnet AFP).\nVed beregning av pensjonsmaksimum etter samordningsloven § 16 nr. 3 skal den høyeste av pensjon fastsatt etter garantiregelen og pensjon for full tjenestetid etter pensjonsgrunnlaget, anses som pensjon regnet etter full tjenestetid.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

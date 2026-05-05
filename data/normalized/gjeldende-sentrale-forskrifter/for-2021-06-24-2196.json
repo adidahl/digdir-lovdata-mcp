@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2021-06-24-2196",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tvangsmulkt etter OTP-loven",
+  "short_title": "Forskrift om tvangsmulkt etter OTP-loven",
+  "department": "Finansdepartementet",
+  "date_in_force": "2021-07-01",
+  "lovdata_refid": "forskrift/2021-06-24-2196",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-06-24-2196",
+  "raw_xml_sha256": "1a2b530282efcf1b240f77bd3d8cbcc4a49e599c73f5544163a0161e501fe626",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Utmåling av tvangsmulkt",
+      "path": [],
+      "text": "Tvangsmulkt for manglende oppfyllelse av plikten til å ha pensjonsordning i samsvar med loven utgjør 250 kroner per dag per ansatt.\nDersom forholdet ikke er rettet innen fristen i pålegget, løper tvangsmulkt fra den dagen som fastsettes i vedtak om tvangsmulkt og frem til det er dokumentert at forholdet er rettet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2021.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

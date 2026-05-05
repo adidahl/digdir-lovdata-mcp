@@ -1,0 +1,63 @@
+{
+  "id": "FOR-2023-12-19-2180",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om melding om reindrift",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2023-12-19",
+  "lovdata_refid": "forskrift/2023-12-19-2180",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-12-19-2180",
+  "raw_xml_sha256": "686a7beb6d96f9e9a9eacbaacea76c5089acb17a4cc635e9f4ead76d6a55c8fe",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med denne forskrift er å innhente oversikt over hvem som utøver reindrift og informasjon til å utvikle en økologisk, økonomisk og kulturelt bærekraftig reindrift.\nMeldingen skal gi oversikt over næringsutøvelsen i reindriftsåret ved å opplyse om reintall, avgang og tilgang av rein, og andre opplysninger som har betydning for reindriften. Opplysningene er et viktig grunnlag for ressurskontrollen, forvalting av reindriftsloven og andre ordninger for reindriften.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Meldingsplikt",
+      "path": [],
+      "text": "Leder av siidaandel plikter årlig å gi melding innen 31. mai om reindriften i siidaandelen siste reindriftsår.\nReindriftsåret løper fra 1. april til 31 mars.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Innholdet i reindriftsmeldingen",
+      "path": [],
+      "text": "Opplysninger om reindriften i siidaandelen skal spesifiseres slik dette blir krevd i skjema for Melding om reindrift.\nReindriftsmyndighetene kan utstede reindriftsmeldinger med forhåndsutfylt informasjon som har betydning for ordninger etter reindriftsloven og reindriftsavtalen.\nOpplysninger i meldingen, gitt av leder av siidaandel, er undergitt taushetsplikt, jf. reindriftsloven § 18 tredje ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Særskilte krav til siidaandelenes reindriftsmelding",
+      "path": [],
+      "text": "Personer som har eget reinmerke, og som i samsvar med reindriftsloven § 10 annet ledd er en del av siidaandelen, skal føres opp på meldingen. I meldingen skal det oppgis navn og fødsels-/personnummer på alle oppførte medlemmer av siidaandelen. Leder uten reinmerke skal også oppføres på meldingen.\nSamme person skal ikke føres opp på mer enn en melding. Det kan gjøres unntak fra dette ved inngåelse av ekteskap i løpet av driftsåret. Slik oppføring skal registreres særskilt av statsforvalteren. Umyndige barn der foreldre lever adskilt og som har rein i siidaandel både hos fars og mors slekt, kan føres opp i begge siidaandelers melding.\nReintallet skal fordeles på oppførte medlemmer. Reintallet til leders ektefelle, som ikke selv er innehaver, og umyndige barn kan føres sammen med reintallet til innehaver.\nReineiere skal til enhver tid være registrert med sine rein i en siidaandel. Overføring av personer med rein fra en siidaandel til en annen siidaandel skal anmerkes spesielt på begge siidaandelers meldinger. Overføringen skal registreres som antall rein i avgang på den ene andelen og tilsvarende antall rein i tilgang på den andre andelen. Personer og rein kan ikke fjernes fra en siidaandels melding uten at reinen slaktes eller at reinen overføres til en annen siidaandels melding.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Unnlatelse av å gi melding og uriktige opplysninger i meldingen",
+      "path": [],
+      "text": "Dersom leder av siidaandel unnlater å levere melding om reindrift innen den fastsatte fristen, kan statsforvalteren treffe vedtak om sanksjoner, jf. reindriftslovens kapittel 11. Det samme gjelder når det er åpenbare feil eller mangler ved de opplysninger som gis.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse og opphevelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks. Samtidig oppheves forskrift 28. mars 2008 nr. 309 om melding om reindrift.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

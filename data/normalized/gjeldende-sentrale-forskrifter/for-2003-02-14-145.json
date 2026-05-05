@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2003-02-14-145",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om rentesatser etter dekningsloven § 6-2 og § 9-7.",
+  "short_title": "Forskrift om rentesatser etter dekningsloven",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2003-02-14",
+  "lovdata_refid": "forskrift/2003-02-14-145",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-02-14-145",
+  "raw_xml_sha256": "9a8e4a36e991d0560e2dc960eda1e58da5c6f6d5de0ac4169dde00a24dc256b0",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Mellomrenten etter dekningsloven § 6-2 annet ledd er 10%.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Rentesatsen etter dekningsloven § 9-7 første ledd nr. 1 bokstav a skal være lik den til enhver tid gjeldende forsinkelsesrenten i forbrukerforhold slik denne er fastsatt i medhold av lov av 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Fra samme tid oppheves vedtak av 12. juli 1985 nr. 1435 om ikrafttredelse av konkursloven og dekningsloven og om delegering av myndighet del IV.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

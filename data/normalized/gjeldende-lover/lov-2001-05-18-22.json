@@ -1,0 +1,38 @@
+{
+  "id": "LOV-2001-05-18-22",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om garantistillelse fra Statoil ASA ved emisjon og salg av statens aksjer",
+  "short_title": "Lov om garanti fra Statoil ASA ved aksjesalg",
+  "department": "Energidepartementet",
+  "legal_area": "Energirett > Petroleumsvirksomhet Selskaper, fond og foreninger > Aksjeselskaper og allmennaksjeselskaper Selskaper, fond og foreninger > Selskaper. Statsforetak",
+  "date_in_force": "2001-05-18",
+  "lovdata_refid": "lov/2001-05-18-22",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2001-05-18-22",
+  "raw_xml_sha256": "db3957dd8846a3f9e069c3c06dd0df3612dc1f67dfbc7e98fde9e753f7344fff",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Ved emisjon (kapitalforhøyelse) eller salg av statens aksjer i Statoil ASA kan selskapet med samtykke av Kongen stille nødvendige garantier i forbindelse med emisjonen eller salget, herunder avgi skadesløserklæring for krav som følge av uriktige, villedende eller mangelfulle opplysninger i de prospekter som benyttes ved fremsettelse av tilbudet om å tegne eller kjøpe aksjer i selskapet. Slike garantier skal fastsette en beløpsmessig grense for selskapets ansvar, på hvilket tidspunkt garantien bortfaller og angi andre bestemmelser om omfanget av selskapets ansvar.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Krav etter garantier avgitt i medhold av § 1 kan gjøres gjeldende mot Statoil ASA uten hinder av ellers gjeldende selskaps- og verdipapirrettslige prinsipper og regler.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Loven trer i kraft fra den tid Kongen bestemmer.1",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

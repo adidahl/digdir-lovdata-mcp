@@ -1,0 +1,56 @@
+{
+  "id": "FOR-1997-03-25-273",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning av kapitalverdier av trygdeytelser.",
+  "short_title": "Forskrift om beregning av kapitalverdier",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-05-01",
+  "lovdata_refid": "forskrift/1997-03-25-273",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-03-25-273",
+  "raw_xml_sha256": "1aed583390cd2bcec3b655cb613d066f9d9c69ae840ecea33b84e7bf01c5cfb2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften gjelder ved beregning av kapitalverdier av livsvarige terminytelser.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Grunnlagsrente",
+      "path": [],
+      "text": "Det nyttes en grunnlagsrente på 6 prosent pro anno.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Dødelighetserfaringer",
+      "path": [],
+      "text": "Ved kapitalisering av terminytelser til menn og til enker nyttes dødelighetserfaringene fra Rikstrygdeverkets undersøkelser for perioden 1956 – 1960.Ved kapitalisering av andre terminytelser til kvinner enn enkepensjon nyttes dødelighetserfaringene for det norske folk, kvinner, for perioden 1956 – 1960.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Gjengiftefrekvenser",
+      "path": [],
+      "text": "Ved kapitalisering av enkepensjoner nyttes det en gjengiftefrekvens på 3 prosent til og med 34 år, synkende med 1 promille pr. år til og med alder 40 og deretter med 2 promille pr. år til og med alder 49. Det regnes ikke med gjengiftefrekvens fra og med alder 50.Ved kapitalisering av enkemannspensjoner multipliseres kapitalfaktorer for terminytelser til menn med forholdet mellom kapitalfaktorer for enkepensjon til enke i samme alder beregnet med og uten gjengiftefrekvenser.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

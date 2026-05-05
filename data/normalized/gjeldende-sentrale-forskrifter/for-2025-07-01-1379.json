@@ -1,0 +1,55 @@
+{
+  "id": "FOR-2025-07-01-1379",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om ikke-samarbeidsvillige jurisdiksjoner for skatteformål",
+  "department": "Finansdepartementet",
+  "date_in_force": "2025-08-01",
+  "lovdata_refid": "forskrift/2025-07-01-1379",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-07-01-1379",
+  "raw_xml_sha256": "ae4d5d61f98e0d3759df5315ae1fcc2e0293d50163ffe30a6158f407d8f7a5d2",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å oppfylle EØS-rettslige forpliktelser ved å fastsette en liste over ikke-samarbeidsvillige jurisdiksjoner som tar størst mulig hensyn til EUs liste over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Revisjon av forskriften",
+      "path": [],
+      "text": "Departementet skal, ved eventuelle endringer i EUs liste over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål, vurdere endringene og gjøre tilsvarende endringer i §§ 3 eller 4. Ved vurderingen av om stater oppført på EUs liste skal føres opp på listene i §§ 3 eller 4, skal departementet ta i betraktning i hvilken grad Norge inngår i forpliktende internasjonalt samarbeid med statene.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Stater oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål",
+      "path": [],
+      "text": "Følgende stater er oppført i vedlegg I over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Amerikansk SamoaAnguillaFijiGuamPalauPanamaRusslandSamoaTrinidad og TobagoDe amerikanske JomfruøyeneVanuatu.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Stater oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål",
+      "path": [],
+      "text": "Følgende stater er oppført i vedlegg II over ikke-samarbeidsvillige jurisdiksjoner for skattemessige formål:Antigua og BarbudaBelizeDe britiske JomfruøyeneBruneiEswatiniSeychelleneTyrkiaVietnam.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. august 2025.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

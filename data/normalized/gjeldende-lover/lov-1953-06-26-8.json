@@ -1,0 +1,115 @@
+{
+  "id": "LOV-1953-06-26-8",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om oppfinnelser av betydning for rikets forsvar",
+  "short_title": "Lov om forsvarsviktige oppfinnelser",
+  "department": "Forsvarsdepartementet",
+  "legal_area": "Immaterialrett > Industrielt rettsvern Immaterialrett > Patent Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "1956-01-01",
+  "last_change_in_force": "2024-07-01",
+  "last_changed_by": "lov/2023-11-24-84 fra 2024-07-01",
+  "lovdata_refid": "lov/1953-06-26-8",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1953-06-26-8",
+  "raw_xml_sha256": "ab6ff94fe4d16de86f7dd60b22470aaf66e9179cfa414ad655e588574a638458",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens virkefelt.",
+      "path": [],
+      "text": "Denne lov gjelder oppfinnelser av betydning for rikets forsvar når oppfinnelsen er gjort her i riket, eller det er søkt om patent på den her, eller når noen som er bosatt her eier oppfinnelsen helt eller delvis eller har utnyttelsesrett i den.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hemmeligholdelse av forsvarsviktig oppfinnelse.",
+      "path": [],
+      "text": "Oppfinnelse som gjelder krigsmateriell eller som for øvrig har direkte betydning for rikets forsvar må ikke gjøres kjent for andre enn de i § 3 nevnte myndigheter dersom oppfinnelsen ikke allerede er alminnelig kjent. Oppfinner eller rettighetshaver må ikke på annen måte enn nevnt i § 3 foreta seg noe i hensikt å utnytte oppfinnelsen, eller noe som kan vanskeliggjøre forføyninger i henhold til § 6. Kongen fastsetter hva som i forhold til denne bestemmelse skal anses for krigsmateriell, og hvilke oppfinnelser som skal anses for å ha direkte betydning for rikets forsvar.\nForbudet opphører å gjelde for en oppfinnelse når Kongen bestemmer det, men ikke senere enn 4 måneder etter at saken har vært forelagt for myndighetene i samsvar med reglene i § 3, jfr. dog tredje ledd. Dersom det på grunn av særlige forhold anses nødvendig, kan Kongen før fristen utløper forlenge den med inntil 3 måneder. Rettighetshaveren skal straks varsles om slik forlengelse.\nEr det truffet forføyning etter § 6 eller beslutning om hemmeligholdelse etter § 7, må oppfinnelsen ikke gjøres kjent så lenge Kongen ikke bestemmer noe annet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Foreleggelse for myndighetene.",
+      "path": [],
+      "text": "Vil noen utnytte en oppfinnelse som nevnt i § 2, må vedkommende inngi fullstendig skriftlig fremstilling av oppfinnelsen til departementet, eller på vanlig måte inngi patentsøknad til Patentstyret dersom vedkommende ønsker industrielt rettsvern for oppfinnelsen.\nDepartementet kan gi tillatelse til at en rettighetshaver, uten hinder av bestemmelsene i § 2, første ledd, henvender seg til andre for utarbeidelse av fremstilling eller patentsøknad eller for uteksperimentering eller prøving av oppfinnelsen. Departementet kan gi bemyndigelse til at oppfinnelsen blir uteksperimentert eller prøvet etter tiltak av andre enn rettighetshaveren når dette finnes ønskelig av hensyn til rikets forsvar.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Opplysningsplikt.",
+      "path": [],
+      "text": "Såfremt Kongen antar at en oppfinnelse er av betydning for rikets forsvar, kan han kreve fullstendige opplysninger om den av enhver som sitter inne med slike opplysninger.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Patentstyrets medvirkning",
+      "path": [],
+      "text": "Patentstyret skal holde inngitte patentsøknader tilgjengelige for den som av Kongen likeoverfor Patentstyret er bemyndiget til ettersyn, og gjøre vedkommende oppmerksom på patentsøknader som anses å være av betydning for rikets forsvar.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ekspropriasjon m.v.",
+      "path": [],
+      "text": "Oppfinnelser som Kongen antar har betydning for rikets forsvar, kan etter bestemmelse av Kongen kreves avstått til det offentlige eller andre, når dette anses ønskelig for at oppfinnelsen kan komme forsvaret mest mulig til nytte. Det samme gjelder rett til å utnytte slik oppfinnelse for nærmere bestemt tid.\nI samme øyemed kan Kongen forby rettighetshaveren å råde over oppfinnelse som nevnt i første ledd på nærmere bestemt måte her i riket eller i utlandet, eller pålegge ham nærmere bestemte plikter i forbindelse med utnyttelsen. Forbud eller påbud etter dette ledd gjelder for den tid Kongen bestemmer.\nForføyninger etter denne paragraf kan treffes også etter utløpet av den i § 2, annet ledd, nevnte frist. Avgjørelse om at det ikke vil bli truffet forføyninger, kan når som helst omgjøres.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Hemmelig patent mv",
+      "path": [],
+      "text": "Kongen kan bestemme at patentsøknad på oppfinnelse som går inn under denne lov, skal holdes hemmelig og at patentet i tilfelle skal meddeles som hemmelig. Hemmelige patenter innføres ikke i patentregisteret. De innføres i stedet i et eget register som ikke er tilgjengelig for allmennheten. Patentloven §§ 19 til 25 gjelder ikke. Så lenge patentsøknaden eller patentet holdes hemmelig, betales ikke årsavgift etter patentloven §§ 8 og 40. Kongen kan innen utløpet av patenttiden bestemme at oppfinnelsen skal holdes hemmelig også en nærmere fastsatt tid etter at patentet er trådt ut av kraft.\nKongen kan oppheve bestemmelse truffet i henhold til første ledd. Patentsøknaden, eller patentet, skal deretter behandles etter patentloven på vanlig måte i den utstrekning det ikke allerede er gjort. Søknadens dokumenter blir tilgjengelige for enhver i overensstemmelse med patentloven § 22. Det som her er fastsatt, gjelder også når hemmelig patent er trådt ut av kraft uten at fortsatt hemmeligholdelse er bestemt. Årsavgift, svarende til vedkommende avgiftsår, betales fra og med avgiftsåret etter det avgiftsår hvori melding om opphevelsen innkommer til Patentstyret. Årsavgifter forfaller ikke i noe tilfelle før to måneder etter at Patentstyret har gitt søkeren eller patenthaveren underretning om at hemmeligholdet er opphevet. Reglene om meddelelsesavgiftens størrelse og betaling fastsettes av Kongen.\nKongen kan under forutsetning av gjensidighet treffe overenskomst med fremmed stat om at patentsøknader på oppfinnelser som er av betydning for vedkommende stats forsvar og som inngis i Norge av noen bosatt i den fremmede stat, på anmodning i hvert tilfelle fra kompetent myndighet i denne stat skal holdes hemmelig, og at patent i tilfelle meddeles som hemmelig patent.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Adgang til lukket rettsmøte.",
+      "path": [],
+      "text": "I saker angående oppfinnelser som går inn under denne lov, kan retten bestemme at saken skal behandles for lukkede dører.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Erstatning.",
+      "path": [],
+      "text": "For forføyninger i henhold til § 6 betales erstatning som i mangel av minnelig overenskomst fastsettes ved skjønn. Skjønnet holdes av Oslo tingrett. Erstatningen kan fastsettes til en årlig avgift eller til en sum engang for alle. Skjønnet bestemmer hvor mange år avgift i tilfelle skal betales. Forføyningene kan iverksettes før erstatning er fastsatt eller betalt. Staten innestår for at erstatningen blir betalt selv om avståing kreves til andre.\nErstatningen fastsettes ved skjønn også i den utstrekning rettighetshaveren etter alminnelige rettsgrunnsetninger måtte ha krav på erstatning for andre forføyninger etter denne lov.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Straff.",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtreder denne lovs § 2, første eller tredje ledd, eller unnlater å gi opplysninger som kreves etter § 4, eller gir ufullstendige eller uriktige opplysninger, eller som overtrer bestemmelser utferdiget med hjemmel i § 6, annet ledd, eller § 7, første ledd, straffes med bøter eller fengsel inntil 1 år hvis ikke forholdet rammes av et strengere straffebud. Medvirkning straffes ikke.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Gjennomføringsforskrifter.",
+      "path": [],
+      "text": "Kongen kan gi nærmere forskrifter til gjennomføring av denne lov.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Ikrafttredelses- og overgangsbestemmelser.",
+      "path": [],
+      "text": "Denne lov trer i kraft fra den dag1 Kongen bestemmer.\n– – –",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

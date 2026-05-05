@@ -1,0 +1,72 @@
+{
+  "id": "FOR-2005-06-24-687",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om ferdselsbegrensning i Nyrøysaområdet på Bouvetøya.",
+  "short_title": "Forskrift om ferdselsbegrensning på Bouvetøya",
+  "department": "Klima- og miljødepartementet",
+  "date_in_force": "2005-06-24",
+  "lovdata_refid": "forskrift/2005-06-24-687",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-06-24-687",
+  "raw_xml_sha256": "af4289c6d7451b823b7c3a355d8614f642dcb61cde09189a704c98ae1748b411",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å sikre at utviklingen av sel- og sjøfuglbestandene i Nyrøysaområdet på Bouvetøyas nordvestkyst til en så liten grad som mulig påvirkes av menneskelig aktivitet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for Nyrøysaområdet på Bouvetøyas nordvestkyst. Området omfatter Westwindstranda og Nyrøysaplatået (avgrenset ved WGS84 54° 24′ 13″ S i nord og 54° 25′ 8″ S i sør.) Nyrøysaområdet er vist på kart som inngår som vedlegg til forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ferdselsbegrensninger",
+      "path": [],
+      "text": "I perioden 1. november til 15. mars skal ferdsel og opphold i Nyrøysaområdet kun skje i forbindelse med miljøovervåkingsvirksomhet godkjent av Norsk Polarinstitutt.\nI perioden 1. november til 1. mai skal luftfartøy holde en vertikal og horisontal avstand på 500 meter til Nyrøysaområdet dersom det ikke er gitt spesiell tillatelse til overflygning/landing. Dersom det gis tillatelse til overflygning/landing skal overflygningshøyde, innflygningsrute og landingssted spesifiseres i tillatelsen for å hindre unødig forstyrrelse på sel- og sjøfuglkoloniene.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Norsk Polarinstitutt kan gi dispensasjon i forbindelse med forskningsaktivitet som ikke kan gjennomføres andre steder, og som ikke kommer i konflikt med slik virksomhet som nevnt i § 3 første ledd.\nDersom det ikke strider mot forskriftens formål, kan Norsk Polarinstitutt gi dispensasjon for generelt opphold i den sørlige delen av Nyrøysaområdet (avgrenset i nord av linjen trukket mellom WGS84 54° 24′ 43″ S, 3° 17′ 13″ Ø, 54° 24′ 35″ S, 3° 17′ 16″ Ø og 54° 24′ 28″ S, 3° 17′ 31″ Ø).",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Bestemmelsene i § 3 er ikke til hinder for ferdsel som er nødvendig i forbindelse med ambulanse-, politi-, rednings- eller oppsynsvirksomhet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Sanksjoner",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i eller i medhold av denne forskrift, straffes med bøter.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

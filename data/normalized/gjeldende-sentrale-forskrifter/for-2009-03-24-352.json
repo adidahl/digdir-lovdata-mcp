@@ -1,0 +1,24 @@
+{
+  "id": "FOR-2009-03-24-352",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Vedtak om fastsettelse av alternativ instrumentidentifikator",
+  "short_title": "Vedtak om fastsettelse av AII",
+  "department": "Finansdepartementet",
+  "date_in_force": "2009-03-24",
+  "lovdata_refid": "forskrift/2009-03-24-352",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-03-24-352",
+  "raw_xml_sha256": "53bed3da16a482f8c1ed19f85539d0096dfe4e3af666c40ce9a1f466a648d1d2",
+  "sections": [
+    {
+      "section_id": "dokument",
+      "provision_ref": "document",
+      "heading": "Vedtak om fastsettelse av alternativ instrumentidentifikator",
+      "path": [],
+      "text": "Med alternativ instrumentidentifikator etter forskrift til verdipapirhandelloven § 10-39 (b) menes:AII Exchange CodeAII Exchange Product CodeAII Derivative TypeAII Put/Call IdentifierAII Expiry/Delivery/Prompt DateAII Strike Price.",
+      "xml_path": "main#dokument"
+    }
+  ]
+}

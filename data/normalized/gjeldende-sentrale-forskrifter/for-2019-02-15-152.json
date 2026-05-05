@@ -1,0 +1,138 @@
+{
+  "id": "FOR-2019-02-15-152",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om systemer for betalingstjenester",
+  "short_title": "Forskrift om systemer for betalingstjenester",
+  "department": "Finansdepartementet",
+  "date_in_force": "2019-04-01",
+  "last_change_in_force": "2023-07-25",
+  "last_changed_by": "forskrift/2023-07-05-1245 fra 2023-07-25",
+  "lovdata_refid": "forskrift/2019-02-15-152",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2019-02-15-152",
+  "raw_xml_sha256": "dd6d8c3b111defd75daa4b0dadc59ed84f36266d90b2508f2049350da2ac4c1b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for banker, kredittinstitusjoner, e-pengeforetak, betalingsforetak, opplysningsfullmektiger og filialer av slike foretak med hovedsete i annen EØS-stat jf. finansforetaksloven § 2-3. Forskriften gjelder likevel ikke for betalingsforetak med begrenset tillatelse, jf. finansforetaksloven § 2-10 fjerde ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Risikovurdering og etterlevelse av regelverk",
+      "path": [],
+      "text": "Betalingstjenestetilbydere skal gjennomføre risiko- og sårbarhetsvurderinger før en ny betalingstjeneste lanseres og ved hendelser eller endringer av betydning for sikkerhetsnivået.\nBetalingstjenestetilbydere skal ha systemer og kontrollmekanismer for operasjonell og sikkerhetsmessig risiko knyttet til ytelsen av betalingstjenester, samt effektive fremgangsmåter for å håndtere hendelser, inkludert alvorlige operasjonelle hendelser og sikkerhetshendelser. Systemene skal sikre etterlevelse av regelverk, avtaler og interne rutiner. Datatrafikk i elektroniske betalingstjenester skal overvåkes for å sikre tilstrekkelig sikkerhetsnivå og kunne avdekke og hindre uautorisert bruk av tjenesten.\nBetalingstjenestetilbydere skal minst årlig gi Finanstilsynet en samlet vurdering av operasjonell risiko og sikkerhetsrisiko knyttet til tilbyderens betalingstjenester, samt om tilbyderens tiltak er tilstrekkelige.\nBetalingstjenestetilbydere skal minst årlig rapportere statistikk om svindel knyttet til betalingstjenestene til Finanstilsynet, på den måten Finanstilsynet angir.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Underretning om hendelser",
+      "path": [],
+      "text": "Dersom hendelse som angitt i forskrift 21. mai 2003 nr. 630 om bruk av informasjons- og kommunikasjonsteknologi (IKT) § 9 tredje ledd påvirker eller kan påvirke betalingstjenestebrukernes økonomiske interesser, skal betalingstjenestetilbyderen uten ugrunnet opphold underrette brukerne om hendelsen. Meldingen skal omtale tiltak brukeren kan iverksette.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til sikker ytelse av betalingstjenester",
+      "path": [],
+      "text": "Betalingstjenestetilbydere skal på bakgrunn av risiko- og sårbarhetsvurderingen etablere tiltak for å sikre nødvendig konfidensialitet, integritet og tilgjengelighet for tjenestene. Gjeldende nasjonale standarder og internasjonalt anerkjente standarder skal følges.\nBetalingstjenestetilbyderen er ansvarlig for at tjenesten i sin helhet (ende til ende) er beskyttet gjennom logiske og fysiske sikringstiltak.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til sterk kundeautentisering",
+      "path": [],
+      "text": "En betalingstjenestetilbyder skal anvende sterk kundeautentisering når brukerenlogger seg inn på sin betalingskonto via nettet,initierer en elektronisk betalingstransaksjon, ellergjennomfører handling som kan innebære risiko for svindel eller annet misbruk.\nFor transaksjoner som nevnt i første ledd bokstav b skal betalingstjenestetilbyderen ved elektroniske fjernbetalingstransaksjoner anvende sterk kundeautentisering som kobler transaksjonen til et spesifikt beløp og en spesifikk betalingsmottaker.\nMed «sterk kundeautentisering» menes en løsning basert på bruk av to eller flere elementer, som er uavhengig av hverandre slik at kompromitteringen av ett element likevel ikke vil påvirke de andre elementene.\nBetalingstjenestetilbyderen skal innføre egnede tiltak for å beskytte brukerens personlige sikkerhetsinformasjon. Videre skal foretaket sikre at kunden på en hensiktsmessig måte kan beskytte sine autentiseringskjennetegn, og foretaket skal etablere løsninger som gjør at kunden kan sperre videre bruk av autentiseringskjennetegn.\nKontotilbyder skal gi betalingstjenestetilbydere som tilbyr avtale om betalingsfullmakt og kontoinformasjonstjeneste adgang til å benytte seg av autentiseringsprosedyrene kontotilbyder har gjort tilgjengelig for brukeren.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Betalingsfullmakttjenester",
+      "path": [],
+      "text": "I forbindelse med betalingsfullmakttjenesten skal betalingsfullmektigenikke på noe tidspunkt ha rådighet over betalerens midlerikke endre betalingsmottaker, beløp eller noe annet kjennetegn ved transaksjonenlegitimere seg overfor brukerens kontotilbyder, når de iverksetter en betalingkommunisere på sikker måte med kontotilbyder, betaleren og betalingsmottakerensikre at betalingstjenestebrukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanalerikke benytte, ha tilgang til eller lagre opplysninger for andre formål enn utføring av betalingsfullmakttjenesten i samsvar med betalerens uttrykkelige anmodningikke lagre sensitive betalingsopplysninger om betalerenikke be betalingstjenestebrukeren om opplysninger som ikke er nødvendige for å utføre betalingsfullmakttjenestensikre at eventuelle andre opplysninger om betalingstjenestebrukeren som er innhentet om betaleren i forbindelse med betalingstjenesten, bare gis til betalingsmottakeren og bare med betalerens uttrykkelige samtykke.\nBetalingsfullmektigen skal gjøre betalingstransaksjonens referanse tilgjengelig for kontotilbyderen ved iverksetting av en betalingsordre.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Kontoinformasjonstjenester",
+      "path": [],
+      "text": "I forbindelse med kontoinformasjonstjenesten skal opplysningsfullmektigenlegitimere seg overfor brukerens kontotilbyder for hver kommunikasjonsøktkommunisere på sikker måte med kontotilbyder og brukerensikre at brukerens personlige sikkerhetsinformasjon (autentiseringskjennetegn) ikke er tilgjengelig for andre enn brukeren og utstederen av den personlige sikkerhetsinformasjonen, og at sikkerhetsinformasjonen overføres gjennom sikre og effektive kanalerkun ha tilgang til opplysninger fra angitte betalingskontoer og tilknyttede betalingstransaksjonerikke be om sensitive betalingsopplysninger knyttet til betalingskontoenikke bruke, ha tilgang til eller lagre opplysninger for andre formål enn for å utføre kontoinformasjonstjenesten i samsvar med brukerens anmodning.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Kontotilbyderens plikter",
+      "path": [],
+      "text": "I samsvar med reglene i finansavtaleloven § 4-16, skal utføring av avtale om betalingsfullmakt eller kontoinformasjonstjeneste ikke gjøres betinget på vilkår om at det foreligger en avtale mellom kontotilbyderen og betalingsfullmektigen eller opplysningsfullmektigen om utføring av tjenesten.\nKontotilbyderen skal gi fullmaktforetaket nødvendig tilgang til brukerens egne internettbaserte betalingskontoer, med mindre det foreligger objektivt begrunnede og dokumenterte forhold som gir grunn til å tro at nødvendig autorisasjon for utføring av avtale om betalingsfullmakt eller kontoinformasjonstjeneste mangler. Kontotilbyder skal umiddelbart underrette Finanstilsynet dersom det har nektet betalings- eller opplysningsfullmektig tilgang. Underretningen skal angi begrunnelsen for at tilgangen ble nektet.\nKontotilbyder skal ikke forskjellsbehandle mellom en betalingsordre som gis av betaler gjennom tilbyder som tilbyr avtale om betalingsfullmakt og betalingsordre som gis direkte fra betaler, særlig med hensyn til tidspunkt, prioritet og gebyrer, med mindre det foreligger saklig grunn.\nKontotilbyder skal ikke forskjellsbehandle forespørsler om informasjon som gis gjennom en betalingstjenestetilbyder som tilbyr avtale om kontoinformasjonstjeneste, med mindre det foreligger saklig grunn.\nKontotilbyderen skal umiddelbart etter mottak av betalingsordren fra betalingstjenestetilbyder som tilbyr avtale om betalingsfullmakt gjøre all relevant informasjon om initieringen og gjennomføringen av betalingstransaksjonen tilgjengelig for fullmektigen.\nKontotilbyder skal kommunisere på sikker måte med betalingstjenestetilbydere som tilbyr avtale om betalingsfullmakt og kontoinformasjonstjeneste.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Kortbaserte betalingstransaksjoner",
+      "path": [],
+      "text": "Kontotilbyder skal ved henvendelse fra en betalingstjenestetilbyder som har utstedt et kortbasert betalingsinstrument umiddelbart angi om transaksjonen knyttet til instrumentet har dekning i betalingskontoen, når denne er tilgjengelig på internett. Dette gjelder bare dersom betalingstjenestebrukeren har gitt sitt samtykke til at kontotilbyderen på anmodning fra en annen betalingstjenestetilbyder, som utsteder kortbaserte betalingsinstrumenter, kan bekrefte at det er dekning på betalingskontoen for et bestemt beløp som den kortbaserte betalingstransaksjonen gjelder.\nKontotilbyders svar på om transaksjonen har dekning i kontoen skal være et bekreftende «ja» eller avkreftende «nei». Forespørselen skal ikke gi grunnlag for å reservere midler på betalerens betalingskonto.\nPå forespørsel fra betalingstjenestebrukeren skal kontotilbyderen alltid gi betalingstjenestebrukeren opplysninger om identiteten til betalingstjenestetilbyder som har anmodet om slik dekningsbekreftelse og svaret som ble gitt av kontotilbyderen.\nBetalingstjenestetilbyderen skal legitimere seg overfor kontotilbyder før hver anmodning om bekreftelse, og kommunisere på sikker måte med kontotilbyder.\nBestemmelsene i denne paragrafen gjelder ikke kortbaserte betalingsinstrumenter som er e-penger.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Aksept av kortbaserte e-penger utstedt utenfor EØS",
+      "path": [],
+      "text": "Innløsere som er rapporteringspliktige etter hvitvaskingsloven § 4, skal bare akseptere betalingstransaksjoner iverksatt med e-pengeinstrumenter utstedt utenfor EU/EØS-området når disse er utstedt på minst like strenge vilkår som etter hvitvaskingsforskriften § 4-2 første ledd bokstav b og annet ledd.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Tilgang til brukerens sikkerhetsinformasjon",
+      "path": [],
+      "text": "Betalingstjenestetilbydere skal sikre at brukerens personlige sikkerhetsinformasjon til elektronisk identifikasjon og signatur ikke er tilgjengelig for andre enn brukeren og utstederen, når identifikasjonen eller signaturen gir tilgang til elektroniske tjenester fra offentlig sektor og som omfattes av regler som svarer til Europaparlaments- og Rådsforordning (EU) nr. 910/2014.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Tekniske reguleringsstandarder for sterk kundeautentisering og kommunikasjonsstandarder",
+      "path": [],
+      "text": "EØS-avtalen vedlegg IX nr. 16eb (delegert kommisjonsforordning (EU) 2018/389 om tekniske reguleringsstandarder for sterk kundeautentisering og felles og sikre åpne kommunikasjonsstandarder, som endret ved delegert kommisjonsforordning (EU) 2022/2360) gjelder som forskrift med de tilpasninger som følger av vedlegg IX, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Frist for gjennomføring av endringsbestemmelser om sterk kundeautentisering",
+      "path": [],
+      "text": "Betalingstjenestetilbydere skal gjennomføre endringer i henhold til delegert kommisjonsforordning (EU) 2022/2360 innen 1. november 2023.\nOvergangsbestemmelsene i delegert kommisjonsforordning (EU) 2022/2360 art. 2 nr. 1 gjelder for anvendt unntak før 1. november 2023.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Kompetanse til å endre forskriften",
+      "path": [],
+      "text": "Finanstilsynet kan gjøre endringer i denne forskriften for å gjennomføre EØS-forpliktelser i henhold til delegeringsvedtak 29. mars 2022 nr. 484 § 2.",
+      "xml_path": "article#paragraf-14"
+    },
+    {
+      "section_id": "paragraf-15",
+      "provision_ref": "§ 15",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. april 2019. Fra samme tidspunkt oppheves forskrift 17. desember 2015 nr. 1731 om systemer for betalingstjenester.",
+      "xml_path": "article#paragraf-15"
+    }
+  ]
+}

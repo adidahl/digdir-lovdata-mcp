@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2012-12-20-1424",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fastsettelse av nedsatte tollavgiftssatser ved import av industrielt bearbeidede landbruksvarer",
+  "short_title": "RÅK-importforskriften",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2013-01-01",
+  "last_change_in_force": "2025-12-17",
+  "last_changed_by": "forskrift/2025-12-17-2646",
+  "lovdata_refid": "forskrift/2012-12-20-1424",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-12-20-1424",
+  "raw_xml_sha256": "24330ddc2742525afe1ec8e35c3d1e6a2e652035ebc408f82bbc32452a239774",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften regulerer fastsettingen av nedsatt tollavgiftssats for bearbeidede landbruksvarer omfattet av vedlegg 1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Fastsettelse av nedsatt tollavgiftssats",
+      "path": [],
+      "text": "For ferdigvarer omfattet av vedlegg 1 anvendes tollavgiftssatsen som fremgår der, med mindre det anvises at tollavgiftssatsen for varen skal fastsettes etter matrise- eller deklarasjonsberegning.\nVed matriseberegning, merket MX i vedlegg 1, fastsettes tollavgiftssatsen basert på fastelementet i vedlegg 1 og deretter tillagt et variabelt element beregnet på grunnlag av ferdigvarens innhold av representantvarene helmelkspulver, skummetmelkpulver, smør, potetstivelse og annen stivelse, hvetemel, storfekjøttsortering (14 %), ost (naturell), heleggpulver og bringebær og satser gitt i vedlegg 2. For å finne andel av representantvarene i ferdigvaren benyttes matrisene i vedlegg 3. For varer der råvareinnholdet avviker fra de varene som inngår i vedlegg 3, benyttes omregningsfaktorer som fremgår av vedlegg 4.\nVed deklarasjonsberegning, merket D i vedlegg 1, fastsettes tollavgiftssatsen basert på fastelementet i vedlegg 1 og deretter tillagt et variabelt element beregnet på grunnlag av ferdigvarens prosentvise innhold av råvarene gitt i vedlegg 2 multiplisert med tilhørende satser.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Tillatelse til nedsatt tollavgiftssats",
+      "path": [],
+      "text": "Tillatelse til nedsatt tollavgiftssats etter § 2 annet og tredje ledd gis etter søknad og etter de tollavgiftssatser som følger av tollavgiftsloven § 2-2 første ledd første punktum.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Omgjøring av utstedte tillatelser til nedsatt tollavgiftssats",
+      "path": [],
+      "text": "Dersom det skjer endringer i tollavgiftsnivået som følge av internasjonale avtaler eller av Stortingets øvrige tollvedtak, og dette får betydning for allerede utstedte tillatelser til nedsatt tollavgiftssats, kan Landbruksdirektoratet omgjøre tollavgiftssatsen i disse tillatelsene.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Opplysningsplikt og kontroll",
+      "path": [],
+      "text": "Landbruksdirektoratet fører tilsyn med at vilkårene for tillatelse til nedsatt tollavgiftssats er oppfylt.\nImportører som søker om, eller har fått innvilget tillatelse til nedsatt tollavgiftssats etter denne forskriften, plikter å gi alle opplysninger som Landbruksdirektoratet trenger for å kunne forvalte ordningen, herunder regnskap, korrespondanse, vareprøver og annen dokumentasjon. Landbruksdirektoratet kan kreve at opplysningene bekreftes av revisor.\nLandbruksdirektoratet kan foreta stedlig kontroll.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilbaketrekking av tillatelse til nedsatt tollavgiftssats mv.",
+      "path": [],
+      "text": "Ved brudd på bestemmelsene i denne forskriften eller vilkår fastsatt med hjemmel i forskriften, kan Landbruksdirektoratet trekke tilbake tillatelse til nedsatt tollavgiftssats og/eller nekte innrømmelse av ny tillatelse i inntil ett år.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Anvendelseserklæring",
+      "path": [],
+      "text": "For ferdigvarer som gis tillatelse til nedsatt tollavgiftssats i medhold av denne forskrift, kan Landbruksdirektoratet kreve at importøren avgir en erklæring om varens anvendelse før tillatelse til nedsatt tollavgiftssats innrømmes. Anvendelseserklæringen skal følge varen dersom varen selges videre. Ved et slikt videresalg forpliktes kjøper i henhold til anvendelseserklæringen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Forvaltningsmyndighet",
+      "path": [],
+      "text": "Landbruksdirektoratet administrerer ordningen.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Klage",
+      "path": [],
+      "text": "Enkeltvedtak fattet i medhold av denne forskriften kan påklages til Landbruks- og matdepartementet etter lov 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse og endringer i andre forskrifter",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 1. januar 2013. Forskrift 21. desember 2001 nr. 1647 om fastsettelse av nedsatte tollsatser ved import av industrielt bearbeidede jordbruksvarer oppheves fra samme dato.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

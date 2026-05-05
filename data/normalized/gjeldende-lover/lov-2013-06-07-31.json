@@ -1,0 +1,75 @@
+{
+  "id": "LOV-2013-06-07-31",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Kulturrådet (kulturrådsloven)",
+  "short_title": "Kulturrådsloven",
+  "department": "Kultur- og likestillingsdepartementet",
+  "legal_area": "Kultur, idrett og underholdning > Film Kultur, idrett og underholdning > Kunst Kultur, idrett og underholdning > Musikk og teater",
+  "date_in_force": "2013-06-07",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "lov/2023-06-16-63 fra 2024-01-01",
+  "lovdata_refid": "lov/2013-06-07-31",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2013-06-07-31",
+  "raw_xml_sha256": "77bb6789dc00095f93079dbf81b1c57658ea517e2e2b080acdd33af59a061741",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Kulturrådet har som formål å stimulere samtidens mangfoldige kunst- og kulturuttrykk og å bidra til at kunst og kultur skapes, bevares, dokumenteres og gjøres tilgjengelig for flest mulig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Organisering og oppgaver",
+      "path": [],
+      "text": "Kulturrådet er et statlig forvaltningsorgan som har hele landet som virkeområde.\nKulturrådet skal forvalte Norsk kulturfond og andre statlige tilskudd som er lagt til rådet, og være et rådgivende organ for staten i kulturspørsmål.\nKulturrådet kan nedsette utvalg til forberedelse av saker. Det kan delegere avgjørelsesmyndighet til utvalg, rådets leder og sekretariatet.\nKulturrådet skal ha ti medlemmer og numeriske varamedlemmer etter behov. Kulturrådets medlemmer, inkludert lederen, og varamedlemmer oppnevnes av Kongen etter tilråding fra departementet, og de kan gjenoppnevnes én gang. Medlemmene skal oppnevnes på grunnlag av kunst- og kulturfaglig kompetanse.\nHalvparten av Kulturrådets medlemmer skal oppnevnes hvert annet år. Oppnevningene skal skje hvert valgår med virkning fra 1. januar året etter, og de skal gjelde for fire år. Departementet kan fravike bestemmelsene i første og andre punktum dersom det er nødvendig for å sikre at Kulturrådet er fulltallig og kan utføre oppgavene sine.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Instruksjonsmyndighet",
+      "path": [],
+      "text": "Kulturrådet er faglig uavhengig i sitt arbeid og kan ikke instrueres når det gjelder enkeltvedtak om fordeling av tilskudd.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Klage",
+      "path": [],
+      "text": "Departementet kan ikke overprøve vedtak fattet av Kulturrådet når det gjelder det kunst- og kulturfaglige skjønnet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Omgjøringsmyndighet",
+      "path": [],
+      "text": "Departementet kan ikke på grunnlag av et annet kunst- og kulturfaglig skjønn omgjøre vedtak om tilskudd fattet av Kulturrådet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Forskriftshjemmel",
+      "path": [],
+      "text": "Departementet kan gi forskrift om tilskuddsordninger.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Loven gjelder fra den tid Kongen bestemmer.1",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

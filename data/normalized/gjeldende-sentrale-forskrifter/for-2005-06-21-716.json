@@ -1,0 +1,40 @@
+{
+  "id": "FOR-2005-06-21-716",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om satser for beiteavgift.",
+  "short_title": "Forskrift om satser for beiteavgift",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2005-07-15",
+  "lovdata_refid": "forskrift/2005-06-21-716",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2005-06-21-716",
+  "raw_xml_sha256": "28e032378ab3640477020e8bf395de46400589d595b786960dee6e0ea1a3e333",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Satser for beiteavgift",
+      "path": [],
+      "text": "Beiteavgiften er nkr 5,65 pr. rein uten hensyn til varigheten av oppholdet i Norge, samt nkr 2,20 for hver dag reinen har oppholdt seg i Norge. Er oppholdet ikke brakt til opphør innen 14 dager etter at melding etter § 37 annet ledd i lov 9. juni 1972 nr. 31 om svensk reinbeiting i Norge og norsk reinbeiting i Sverige er mottatt, er avgiften fra og med den femtende dag etter mottakelsen av meldingen nkr 4,25 pr. dag.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Indeksregulering",
+      "path": [],
+      "text": "Avgiftssatsene kan indeksreguleres i samsvar med det som var bestemt i § 52 fjerde ledd i konvensjon av 9. februar 1972 nr. 1 mellom Norge og Sverige om reinbeite.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttreden",
+      "path": [],
+      "text": "Forskriften trer i kraft 15. juli 2005.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

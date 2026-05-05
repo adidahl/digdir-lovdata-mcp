@@ -1,0 +1,71 @@
+{
+  "id": "FOR-2025-03-14-531",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om saksbehandlingsgebyr for Statens jernbanetilsyn",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2025-07-01",
+  "lovdata_refid": "forskrift/2025-03-14-531",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2025-03-14-531",
+  "raw_xml_sha256": "b35a84794b0618747e933ef5bd46023bbe9baa05dc557106adec07a43fdb8f73",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å fastsette gebyrer som skal dekke Statens jernbanetilsyns kostnader til saksbehandling av søknader om tillatelse til å bringe kjøretøy i omsetning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder gebyrer for dekning av Statens jernbanetilsyns kostnader ved behandling av søknader etter samtrafikkforskriften når Statens jernbanetilsyn er myndighet etter forskrift om sikkerhet og tekniske forhold ved jernbanen.\nForskriften gjelder ikke dekning av byråets kostnader for behandling av søknader når byrået er myndighet etter forskrift om sikkerhet og tekniske forhold ved jernbanen § 6.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Nærmere om hva som skal dekkes av gebyrer",
+      "path": [],
+      "text": "Kostnadene med saksbehandlingen omfatter tid til forberedelse, dokumentgjennomgang, besiktelse, rapportering og utsendelse av nødvendige dokumenter m.m.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Prinsipper for søknadsgebyrer og tidspunkt for fakturering",
+      "path": [],
+      "text": "Søkeren plikter å betale gebyr for behandling av søknaden på kr 1 510 per time frem til saken er avsluttet. Statens jernbanetilsyn sender faktura til søkeren når behandlingen av saken er avsluttet.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Estimat for gebyr",
+      "path": [],
+      "text": "Statens jernbanetilsyn skal etter anmodning fra søker utstede et uforpliktende estimat for gebyr for søknaden, og søker skal varsles dersom kostnadene overstiger estimatet med mer enn 15 %. Ressursbruk til å gi et slikt estimat skal ikke inngå i beregningsgrunnlaget for gebyret.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Innkreving og forfallsdato",
+      "path": [],
+      "text": "Statens jernbanetilsyn skal kreve inn gebyr etter denne forskriften.\nForfallsdato er 30 dager etter at søkeren mottok gebyrkravet.\nGebyrkravet er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2025.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

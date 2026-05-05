@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2014-12-19-1815",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilskudd for levering av husdyrgjødsel til biogassanlegg",
+  "short_title": "Forskrift om tilskudd for husdyrgjødsel til biogassanlegg",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "2015-01-01",
+  "last_change_in_force": "2026-03-12",
+  "last_changed_by": "forskrift/2026-03-12-408",
+  "lovdata_refid": "forskrift/2014-12-19-1815",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-12-19-1815",
+  "raw_xml_sha256": "15d209cba8e24e8c05510886dbe0d600480f4dbfa81beca54ab236364f34e0ce",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med ordningen er å redusere utslipp av klimagasser fra husdyrgjødsel, gjennom å støtte jordbruksforetak som leverer husdyrgjødsel til biogassanlegg.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for alle typer husdyrgjødsel som leveres til biogassanlegg lokalisert i Norge.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Vilkår",
+      "path": [],
+      "text": "Tilskudd etter denne forskriften kan gis til foretak som har husdyr og leverer husdyrgjødsel til biogassanlegg såfremt foretaket oppfyller grunnvilkår etter forskrift 19. desember 2014 nr. 1817 om produksjonstilskudd og avløsertilskudd i jordbruket, og kan dokumentere at anlegget som mottar og behandler gjødselen produserer biogass.\nForetaket må følge krav om gjødslingsplan etter § 26 i forskrift 29. januar 2025 nr. 115 om lagring og bruk av gjødsel mv. (gjødselbrukforskriften).",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregning av tilskudd",
+      "path": [],
+      "text": "Tilskudd gis med maksimalt 833 kroner per tonn levert husdyrgjødsel. Tilskuddssatsen avtar med minkende andel tørrstoff i gjødselen ved at maksimalsatsen multipliseres med (2x-x2), der x er andelen tørrstoff i gjødselen og angis som et tall mellom 0 og 1. For gjødsel med kun tørrstoff er x lik 1, som gir (2x-x2) = 1 og 833 kroner i tilskudd per tonn husdyrgjødsel.\nDer foretaket benytter eget biogassanlegg, kan tilskudd utmåles direkte ut fra foretakets dyretall såfremt all husdyrgjødsel benyttes i anlegget. Satsen for de ulike dyreslagene er:DyreslagTilskudd (kroner)Melkeku13040Ammeku11583Ungdyr av storfe11000Avlsgris1563Slaktegris2631000 Verpehøns og slaktekyllingmødre116 9931000 Livkylling321241000 Slaktekylling38501000 Slaktekalkun310 6211000 And32124Sau > 1 år1311Mjølkegeit1311Hest11296\nDersom det omsøkte volum per år overstiger det beløp som er avsatt til ordningen, reduseres tilskuddssatsen relativt slik at forbruket tilpasses bevilgningen.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Søknad og utbetaling",
+      "path": [],
+      "text": "Foretak som søker tilskudd skal benytte søknadsskjema fastsatt av Landbruksdirektoratet. Søknad om tilskudd må være levert innen 20. februar året etter at leveringen av husdyrgjødselen har funnet sted.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Administrasjon, dispensasjon og klage",
+      "path": [],
+      "text": "Vedtak om tilskudd fattes av Landbruksdirektoratet.\nLandbruksdirektoratet kan i særlige tilfeller dispensere fra reglene i § 3 og § 5.\nVedtak fattet av Landbruksdirektoratet kan påklages til Landbruks- og matdepartementet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Opplysningsplikt og kontroll",
+      "path": [],
+      "text": "Søkere av tilskudd plikter å gi alle opplysninger som Landbruksdirektoratet finner nødvendig for å kunne forvalte ordningen.\nLandbruksdirektoratet fører tilsyn med at utbetalinger av tilskudd er riktig og har adgang til all bokføring, korrespondanse og opptegnelser som vedkommer tilskuddet. Landbruksdirektoratet kan foreta stedlig kontroll hos foretaket.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Avkorting",
+      "path": [],
+      "text": "Hele eller deler av tilskuddet kan avkortes dersom foretaket uaktsomt eller forsettlig har gitt feil eller mangelfulle opplysninger i søknad, rapportering eller på annen måte, som har eller ville dannet grunnlag for en urettmessig utbetaling av tilskuddet. Tilskuddet kan også avkortes ved brudd på annet regelverk for jordbruksvirksomhet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Tilbakebetaling og renter mv.",
+      "path": [],
+      "text": "Dersom foretaket som følge av manglende oppfyllelse av vilkår i denne forskriften eller av andre grunner har mottatt en utbetaling som ikke er berettiget, kan det feilutbetalte beløpet kreves tilbakebetalt fra mottakeren eller motregnes i senere tilskuddsutbetaling. Tilsvarende gjelder differansen mellom utbetalt beløp og redusert tilskudd som følge av vedtak om avkorting etter § 8.\nFor tilbakebetalingskrav kan det kreves renter når kravet ikke innfris ved forfall. Ved grov uaktsomhet eller forsett kan renter kreves fra tidspunktet for utbetalingen av det urettmessige tilskuddet. Størrelsen på renten følger rentesatsen fastsatt med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m.\nKrav fra offentlig myndighet som utspringer av foretakets jordbruksvirksomhet kan motregnes i senere tilskuddsutbetalinger til foretaket.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft fra 1. januar 2015.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

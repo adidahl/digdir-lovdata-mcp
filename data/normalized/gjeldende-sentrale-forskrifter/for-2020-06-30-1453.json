@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2020-06-30-1453",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift til utfylling og gjennomføring av lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)",
+  "short_title": "Forskrift til lov om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard)",
+  "department": "Finansdepartementet",
+  "date_in_force": "2020-06-30",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-06-13-1005 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2020-06-30-1453",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-06-30-1453",
+  "raw_xml_sha256": "fede702857bae18394e278a597a0a71c3c5b59e7dce4e787ea767746085f1260",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Endring av grunnlaget for tilskudd",
+      "path": [
+        "I"
+      ],
+      "text": "Tilskuddsmyndigheten og skattemyndighetene kan etter varsel til arbeidsgiver fatte et felles vedtak om endring i grunnlaget for tilskuddet og grunnlaget for arbeidsgiveravgift.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 9-1",
+      "heading": "Kravsmyndighet mv.",
+      "path": [
+        "I"
+      ],
+      "text": "Krav på tilbakebetaling av uriktig utbetalt tilskudd etter § 9-3 og administrative sanksjoner betales til og innkreves av Innkrevingsmyndigheten.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 9-2",
+      "heading": "Forfall for utbetaling av tilskudd",
+      "path": [
+        "I"
+      ],
+      "text": "Utbetaling av tilskudd skal skje snarest og senest tre uker etter at det er fattet vedtak om utbetaling av tilskudd. Utbetaling skal skje ved overføring av beløpet til tilskuddsmottakers bankkonto.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 9-3",
+      "heading": "Tilbakebetaling av uriktig utbetalt tilskudd",
+      "path": [
+        "I"
+      ],
+      "text": "Dersom det er utbetalt tilskudd i strid med bestemmelsene i lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) eller forskrift gitt med hjemmel i denne lov, skal det uriktig utbetalte beløp tilbakebetales.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 9-4",
+      "heading": "Forfall for krav om tilbakebetaling og administrativ sanksjon",
+      "path": [
+        "I"
+      ],
+      "text": "(1) Krav om tilbakebetaling etter § 9-3 forfaller til betaling tre uker etter at melding om vedtak om tilbakebetaling er sendt til skyldner.(2) Før utbetaling av tilskudd skjer etter § 9-1, kan krav på tilbakebetaling likevel motregnes i utbetalingsbeløpet selv om tilbakebetalingskravet ikke er forfalt etter første ledd.(3) Administrative sanksjoner ilagt etter lov 23. juni 2020 nr. 110 om midlertidig kompensasjonsordning for arbeidsgivere med nullsats for beregning av arbeidsgiveravgift (Sone V og Svalbard) § 7 forfaller til betaling tre uker etter at fristen for å klage over vedtaket om fastsetting av kravet er ute, eller ved klage, tre uker etter at klagen er avgjort. Dersom det innvilges utsatt iverksetting av krav etter skatteforvaltningsloven § 14-10 annet ledd, forfaller kravet til betaling tre uker etter utløpet av søksmålsfristen eller ved søksmål, tre uker etter at endelig rettsavgjørelse foreligger.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 9-5",
+      "heading": "Beløpsgrense for utbetaling og tilbakebetaling av tilskudd",
+      "path": [
+        "I"
+      ],
+      "text": "Tilskudd og tilbakebetalingskrav som alene utgjør under 100 kroner, utbetales eller tilbakebetales ikke.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 9-6",
+      "heading": "Forsinkelsesrenter ved for sen betaling",
+      "path": [
+        "I"
+      ],
+      "text": "(1) For tilbakebetalingskrav og administrative sanksjoner som ikke er betalt i innen forfall etter § 9-4, betales forsinkelsesrente.(2) Rentesatsen tilsvarer den til enhver tid gjeldende rentesats fastsatt i forskrift med hjemmel i lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. (forsinkelsesrenteloven) § 3 første ledd første punktum. Rentene beregnes fra forfall etter § 9-4 og inntil betaling skjer. Forsinkelsesrenteloven § 2 annet ledd gjelder tilsvarende.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 9-7",
+      "heading": "Rentegodtgjørelse ved forsinket utbetaling av tilskudd",
+      "path": [
+        "I"
+      ],
+      "text": "Utbetales tilskudd senere enn den frist som er fastsatt i § 9-2, skal det ytes rentegodtgjørelse fra forfallstidspunktet og frem til utbetalingen skjer. For øvrig gjelder § 9-6 annet ledd tilsvarende.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2006-06-30-743",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om at visse vedtak kan ankes direkte inn for Trygderetten.",
+  "short_title": "Forskrift om direkte anke til Trygderetten",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2006-07-01",
+  "last_change_in_force": "2009-01-01",
+  "last_changed_by": "forskrift/2008-12-19-1522 fra 2009-01-01",
+  "lovdata_refid": "forskrift/2006-06-30-743",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2006-06-30-743",
+  "raw_xml_sha256": "2eadf016076d2101326b717143f4068b85504fbb69218f52ba2f9ceb1b74cf33",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Vedtak som skal ankes direkte inn for Trygderetten",
+      "path": [],
+      "text": "Arbeids- og velferdsdirektoratet kan bestemme at vedtak fattet av visse organer i Arbeids- og velferdsetaten på bestemte saksområder ikke skal kunne påklages etter folketrygdloven § 21-12 første ledd. Slike vedtak skal ankes direkte inn for Trygderetten.\nHelsedirektoratet kan bestemme at vedtak fattet etter kapittel 5 av visse organer underlagt Helsedirektoratet på bestemte saksområder ikke skal kunne påklages etter folketrygdloven § 21-12 første ledd. Slike vedtak skal ankes direkte inn for Trygderetten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Overgangsregler",
+      "path": [],
+      "text": "Bestemmelser om særskilt avgjørelsesmyndighet som er gitt av Rikstrygdeverket i medhold av tidligere § 20-2 i folketrygdloven gjelder inntil de blir endret eller opphevet av Arbeids- og velferdsdirektoratet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. juli 2006.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

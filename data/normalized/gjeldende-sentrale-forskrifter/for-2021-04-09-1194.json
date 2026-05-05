@@ -1,0 +1,36 @@
+{
+  "id": "FOR-2021-04-09-1194",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av kommisjonsforordning (EU) 2020/420 av 16. mars 2020 om endring av den tyske språkversjonen av forordning (EU) 2016/919 om den tekniske spesifikasjonen for samtrafikkevne for delsystemet «styring, kontroll og signal» i Den europeiske unions jernbanesystem",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2021-04-09",
+  "lovdata_refid": "forskrift/2021-04-09-1194",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-04-09-1194",
+  "raw_xml_sha256": "33ea6795142882b30d0e90f87c221811238585901a6554c0de0efe0b5fbf8e39",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Kommisjonsforordning (EU) 2020/420 av 16. mars 2020 om endring av den tyske språkversjonen av forordning (EU) 2016/919 om den tekniske spesifikasjonen for samtrafikkevne for delsystemet «styring, kontroll og signal» i Den europeiske unions jernbanesystem, gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "I forskrift 10. mai 2017 nr. 600 om gjennomføring av TSI-styring, kontroll og signal på jernbanenettet (TSI CCS) gjøres følgende endring:",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

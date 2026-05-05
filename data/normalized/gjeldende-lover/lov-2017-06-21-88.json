@@ -1,0 +1,81 @@
+{
+  "id": "LOV-2017-06-21-88",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om informasjon om bestemt angitte områder, skjermingsverdige objekter og bunnforhold",
+  "short_title": "Lov om informasjon (skjermingsverdige objekter og bunnforhold mv)",
+  "department": "Forsvarsdepartementet",
+  "legal_area": "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "2017-10-01",
+  "lovdata_refid": "lov/2017-06-21-88",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2017-06-21-88",
+  "raw_xml_sha256": "7de1dbcb5cf03caf99319016698a39802610b7b8198353cae99ace2e4f16ff7e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Lovens formål",
+      "path": [],
+      "text": "Loven skal legge til rette for å kunne motvirke trusler mot rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser ved å beskytte og utøve kontroll over informasjon som omfattes av denne lov.\nDet skal legges til rette for opptak, bruk og spredning av informasjon innenfor de begrensningene hensynet til rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser setter.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Lovens stedlige virkeområde",
+      "path": [],
+      "text": "Loven gjelder i Norge og innenfor norsk territorialfarvann.\nKongen kan gi forskrift om lovens anvendelse på Svalbard, Jan Mayen og bilandene, og kan fastsette særlige regler under hensyn til de stedlige forhold.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opptak og bruk av informasjon om bestemt angitte områder og skjermingsverdige objekter",
+      "path": [],
+      "text": "Det er forbudt å gjøre opptak av eller på annen måte bruke informasjon som gjelder bestemt angitte områder, dersom det i noen grad kan ha skadefølger for rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende. Forbudet gjelder også for aktivitet som pågår i eller ved slike områder.\nDet er forbudt å gjøre opptak av eller på annen måte bruke informasjon som gjelder bestemt angitte skjermingsverdige objekter. Det samme gjelder aktivitet som pågår i eller ved slike objekter.\nDen som råder over områder eller objekter som nevnt i første og andre ledd, kan gi tillatelse til å gjøre opptak av eller på annen måte bruke informasjon om områdene eller objektene.\nDepartementet gir forskrift med nærmere bestemmelser om opptak og bruk av informasjon om bestemt angitte områder og skjermingsverdige objekter, herunder nærmere prosedyrer for innmelding av objekter og områder som rammes av forbudet i første og andre ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Opptak og bruk av informasjon om bestemt angitte bunnforhold",
+      "path": [],
+      "text": "Det er forbudt å gjøre opptak av eller på annen måte bruke informasjon om bestemt angitte bunnforhold innenfor territorialfarvannet dersom det i noen grad kan ha skadefølger for rikets selvstendighet og sikkerhet og andre vitale nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nDepartementet kan gi tillatelse til å gjøre opptak av eller på annen måte bruke informasjon som nevnt i første ledd.\nDepartementet gir forskrift om opptak og bruk av informasjon om bestemt angitte bunnforhold, herunder hvilken informasjon som rammes av forbudet i første ledd.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Taushetsplikt om og utlevering av innsamlet informasjon om bunnforhold",
+      "path": [],
+      "text": "Departementet kan i det enkelte tilfelle bestemme at informasjon om bunnforhold som er sikkerhetsgradert etter sikkerhetsloven, kan avgraderes og underlegges taushetsplikt.\nDepartementet kan bestemme at informasjon underlagt taushetsplikt etter første ledd, kan utleveres. Det kan stilles vilkår for utlevering, herunder om hva informasjonen kan brukes til, hvem som kan få tilgang til informasjonen, hvordan informasjonen skal behandles og at informasjonen skal slettes eller leveres tilbake etter endt bruk.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer §§ 3 og 4 straffes med bot eller fengsel i inntil 1 år, med mindre forholdet rammes av et straffebud med høyere strafferamme. Det samme gjelder bestemmelser gitt i medhold av §§ 3 og 4.\nBrudd på taushetsplikt etter § 5 første ledd, eller vilkår etter § 5 andre ledd andre punktum, straffes på samme måte.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Forskrifter gitt i medhold av midlertidig lov 7. august 2015 nr. 83 om beskyttelse av og kontroll med geografisk informasjon av hensyn til rikets sikkerhet gjelder frem til de blir endret eller opphevet i medhold av denne lov.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Lovens ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft 1. oktober 2017.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

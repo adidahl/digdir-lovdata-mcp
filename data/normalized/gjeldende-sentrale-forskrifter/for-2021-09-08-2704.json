@@ -1,0 +1,39 @@
+{
+  "id": "FOR-2021-09-08-2704",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om gjennomføring av forordning (EU) 2017/6 om gjennomføringsplanen for det europeiske systemet for styring av jernbanetrafikk (ERTMS)",
+  "short_title": "Forskrift om gjennomføring av forordning (EU) 2017/6",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2022-06-01",
+  "last_change_in_force": "2022-05-06",
+  "last_changed_by": "forskrift/2022-05-06-801",
+  "lovdata_refid": "forskrift/2021-09-08-2704",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-09-08-2704",
+  "raw_xml_sha256": "82cfe3c6a3851378207bbe57b96650b8d863cfc9c4a5433e6150c4ae11f52c4a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "EØS-avtalen vedlegg XIII nr. 37ib forordning (EU) 2017/6 av 5. januar 2017 om den europeiske gjennomføringsplanen for det europeiske systemet for styring av jernbanetrafikk gjelder som forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Bane NOR SF er infrastrukturforvalter for jernbane i denne forskriften.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskriften trer i kraft samtidig som at beslutningen i EØS-komiteen som tar forordning (EU) 2017/6 av 5. januar 2017 inn i EØS-avtalen trer i kraft.1",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

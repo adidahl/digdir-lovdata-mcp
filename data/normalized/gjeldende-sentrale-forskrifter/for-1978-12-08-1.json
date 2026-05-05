@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1978-12-08-1",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrifter etter lov om skattefrie fondsavsetninger – avsetninger til miljøverntiltak.",
+  "short_title": "Forskrift om fondsavsetninger, 1978",
+  "department": "Finansdepartementet",
+  "date_in_force": "1979-01-01",
+  "last_change_in_force": "1980-12-19",
+  "last_changed_by": "forskrift/1980-12-19-4",
+  "lovdata_refid": "forskrift/1978-12-08-1",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1978-12-08-1",
+  "raw_xml_sha256": "275e5e65de274659bee915541c13e7d8bb982dad739c9b0f3e6a9b2592cdfadf",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "I medhold av § 1 annet ledd i lov om skattefrie fondsavsetninger av 14. desember 1962 nr. 1 suspenderes adgangen til å foreta skattefrie fondsavsetninger etter kapittel 1 for inntektsåret 1978 eller avvikende regnskapsår som utløper i 1978.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Suspensjonen etter § 1 skal dog ikke gjelde avsetninger som etter samtykke benyttes til investering i miljøverntiltak som nevnt i lovens § 3 fjerde, femte, sjette og syvende ledd.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Skattyteren må stille sikkerhet for skatter med et beløp som svarer til 50 pst. av avsetningen. Sikkerheten skal stilles i form av bankinnskudd, som ikke kan disponeres uten samtykke av vedkommende ligningssjef. En ubetinget og ikke tidsbegrenset bank- eller forsikringsgaranti kan tre i stedet for bankinnskudd.\nDokumentasjon av bankinnskudd eller den stilte garanti skal for personlige skattytere sendes til ligningskontoret i bostedskommunen, og for skattepliktige selskaper til den kommune hvor hovedkontoret ligger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Avsetningen kan nyttes til investering foretatt etter 1. januar 1979 og innen utgangen av 1983. Departementet kan i særlige tilfelle forlenge denne fristen.\nBlir avsetningen ikke nyttet til investering som nevnt i § 2 til den tid som er bestemt i foregående ledd, skal beløpet i sin helhet skattlegges ved etterligning for inntektsåret 1978. Av dette skattebeløpet skal det svares rente med 10 pst. pr. år, regnet fra 1. januar 1980. Dog skal rentesatsen fra 1. januar 1982 være 14 pst. pr. år.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

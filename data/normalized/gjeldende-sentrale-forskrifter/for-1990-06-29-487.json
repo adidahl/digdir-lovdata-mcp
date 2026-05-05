@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1990-06-29-487",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot oppankring og fiske med visse redskaper rundt brønnrammer med manifold for vanninjeksjon på Draugen-feltet.",
+  "short_title": "Forskrift om fiskeforbud mv ved Draugen",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1993-05-10",
+  "last_change_in_force": "1993-05-05",
+  "last_changed_by": "forskrift/1993-05-05-335",
+  "lovdata_refid": "forskrift/1990-06-29-487",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1990-06-29-487",
+  "raw_xml_sha256": "ce5ee9f72955941f45e842cb0178e9038059a066a64d4fce55733db983ceb665",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Forskriften får anvendelse i et område rundt/over to vanninjeksonsmanifold på Draugen-feltet, angitt som en sirkel med radius 500 meter målt fra innretningenes senter.\nInnretningenes posisjon er:",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Innenfor området som angitt i § 1, forbys all ugrunnet oppankring, samt fiske med trål, ringnot, snurrevad og annet redskap som er egnet til å skade innretningene på eller over havbunnen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift straffes etter lov 22. mars 1985 nr. 11 om petroleumsvirksomhet § 66, jf. forskrift om sikkerhetssoner mv. § 15.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Denne forskrift trer i kraft fra det tidspunkt departementet1 bestemmer.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

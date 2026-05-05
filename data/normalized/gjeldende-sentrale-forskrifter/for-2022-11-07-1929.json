@@ -1,0 +1,618 @@
+{
+  "id": "FOR-2022-11-07-1929",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tillatelse til akvakultur for laks, ørret og regnbueørret (laksetildelingsforskriften)",
+  "short_title": "Laksetildelingsforskriften",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2022-11-07",
+  "last_change_in_force": "2026-01-14",
+  "last_changed_by": "forskrift/2026-01-14-58",
+  "lovdata_refid": "forskrift/2022-11-07-1929",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-11-07-1929",
+  "raw_xml_sha256": "d6ae1eb9614f07a8fad7945ba8d67576f0cfc754a0296e94633acd071b81e7b6",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften skal bidra til at akvakultur av laks, ørret og regnbueørret blir lønnsomt og konkurransekraftig innenfor rammene av en bærekraftig utvikling, og bidra til verdiskaping langs kysten.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Saklig og stedlig virkeområde",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gjelder norsk landterritorium og territorialfarvann, på kontinentalsokkelen og i Norges økonomiske sone.\nForskriften gjelder tildeling, endring og opphør av tillatelse til akvakultur av laks, ørret og regnbueørret.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Legaldefinisjoner",
+      "path": [
+        "Kapittel 1. Formål, virkeområde og definisjoner"
+      ],
+      "text": "I forskriften her menes med:Akvakultur: produksjon av akvatiske organismer. Som produksjon regnes ethvert tiltak for å påvirke levende akvatiske organismers vekt, størrelse, antall, egenskaper eller kvalitet.Akvakulturtillatelse: tillatelse gitt i medhold av akvakulturloven, som ved registrering i akvakulturregisteret gir rett til bestemt type produksjon av bestemt art, i bestemt omfang, på en eller flere bestemte lokaliteter. Tillatelsen består av tilsagn og vedtak om klarering av lokalitet.Biomasse: den til enhver tid stående mengde av levende fisk (målt i kilogram eller tonn).Lokalitet: geografisk avgrenset område på land eller i vann som akvakulturtillatelse er gitt for eller søkt gitt for.Matfisk: fisk som produseres med sikte på slakting til konsum, og som ikke omfattes av bokstav f og g.Settefisk: rogn og fisk som produseres med sikte på flytting til andre lokaliteter eller annen type produksjon. Fisk som er planlagt flyttet i medhold av godkjent driftsplan etter forskrift om drift av akvakulturanlegg § 40 anses ikke som settefisk.Stamfisk: fisk som skal strykes eller reproduseres på annen måte.Rensefisk: fisk som er ment for eller brukes til å redusere antall parasitter på fisk i akvakulturanlegg.Tilsagn: vedtak om tildeling av produksjonskapasitet til akvakultur.Klarering av lokalitet: vedtak om tillatelse til bruk av et geografisk område til akvakultur avsagt etter nødvendige tillatelser og godkjennelser og en helhetlig vurdering gjort av tildelingsmyndigheten.Lokalitet til havs: geografisk avgrenset område i sjø utenfor produksjonsområdene.Utlysningsområder: geografisk avgrensede områder som åpnes for konkurranse om tildeling av områdetilsagn for havbruk til havs.Områdetilsagn: vedtak om rett og plikt til å utarbeide områdeplan for et utlysningsområde.Områdeplan: plan for etablering, utbygging, drift og avvikling av havbruk til havs innenfor areal tildelt ved områdetilsagn, inkludert en konsekvensutredningsdel.Prosjektspesifikk konsekvensutredning: konsekvensutredning av etablering, utbygging, drift og avvikling i utlysningsområdet, inkludert de aktuelle lokalitetene til havs.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Krav om akvakulturtillatelse",
+      "path": [
+        "Kapittel 2. Generelle bestemmelser om akvakulturtillatelser"
+      ],
+      "text": "Ingen kan drive akvakultur uten å være innehaver av akvakulturtillatelse som er registrert i akvakulturregisteret.\nUtenfor én nautisk mil utenfor grunnlinjene kan Fiskeridirektoratet etter søknad gi tillatelse etter denne forskriften.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Rensefisk",
+      "path": [
+        "Kapittel 2. Generelle bestemmelser om akvakulturtillatelser"
+      ],
+      "text": "Akvakulturtillatelse tildelt etter denne forskriften omfatter bruk av rensefisk i akvakulturanlegg.\nFørste ledd gjelder ikke for akvakulturtillatelser på lokaliteter til havs.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Søknadsbehandling",
+      "path": [
+        "Kapittel 3. Akvakulturtillatelser for matfisk i sjø"
+      ],
+      "text": "Søknad om akvakulturtillatelse for matfisk i sjø utfylles på skjema fastsatt av Fiskeridirektoratet. Søknaden sendes til og behandles av fylkeskommunen i fylket hvor det søkes om tillatelse eller lokalitetsklarering.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Tildeling og fordeling av tillatelser",
+      "path": [
+        "Kapittel 3. Akvakulturtillatelser for matfisk i sjø"
+      ],
+      "text": "Departementet vedtar når akvakulturtillatelser for matfisk i sjø skal tildeles, og den geografiske fordelingen av disse.\nDepartementet kan fastsette nærmere betingelser og vilkår for tildeling av tillatelser.\nRett til drift inntrer først når akvakulturtillatelse er utstedt etter at minst én lokalitet er klarert og tillatelsen er registrert i akvakulturregisteret.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Tillatt biomasse per akvakulturtillatelse for matfisk på lokaliteter i sjø",
+      "path": [
+        "Kapittel 3. Akvakulturtillatelser for matfisk i sjø"
+      ],
+      "text": "Akvakulturtillatelse for matfisk i sjø skal avgrenses kapasitetsmessig i maksimalt tillatt biomasse som kan stå i sjøen i medhold av tillatelsen, jf. forskrift 17. juni 2008 nr. 822 om drift av akvakulturanlegg (akvakulturdriftsforskriften) § 47. Første punktum gjør ikke inngrep i reglene for biomassefleksibilitet etter akvakulturdriftsforskriften § 47 til § 49.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Vederlag",
+      "path": [
+        "Kapittel 3. Akvakulturtillatelser for matfisk i sjø"
+      ],
+      "text": "Vederlag for tillatelse fastsettes i forskrift for den enkelte runde for tildeling eller vekst.\nVederlaget skal betales innen nærmere fastsatt frist. Tilsagn om tillatelse på selskapsnivå bortfaller dersom vederlaget ikke er betalt innen fristen.\nDersom tilsagn om tillatelse på selskapsnivå oppheves i forbindelse med klage eller etter forvaltningens eget tiltak, refunderes søkers vederlag. Vederlaget refunderes ikke ved eventuell senere inndragning på grunn av forhold som nevnt i lov 17. juni 2005 nr. 79 om akvakultur (akvakulturloven) § 9. Det samme gjelder andre forhold som gjør at tillatelsen taper sin verdi.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Tildeling av tillatelser til havs",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Departementet vedtar når akvakulturtillatelser for matfisk i områder til havs skal tildeles innenfor områder bestemt av Kongen i statsråd.\nDepartementet kan fastsette nærmere betingelser og vilkår for tildeling av tillatelser i eller i medhold av forskrift.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Etablering av områder",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Kongen i statsråd vedtar hvilke områder som kan konsekvensutredes etter § 4-3 for etablering av havbruk til havs.\nNår offentlig overordnet konsekvensutredning av et havområde som nevnt i første ledd er gjennomført etter § 4-3 avgjør Kongen i statsråd om, og i tilfelle hvilke deler av, området som kan utlyses etter § 4-5.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Offentlig overordnet konsekvensutredning av havområder",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Før det kan besluttes at et område kan lyses ut etter § 4-2 annet ledd, skal det gjennomføres en offentlig overordnet konsekvensutredning av området. Departementet er ansvarlig for utarbeidelse av program for konsekvensutredningen og at vurderingen gjennomføres i henhold til programmet.\nProgrammet skal være gjenstand for offentlig høring før det endelig fastsettes av departementet.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Inndeling av utlysningsområder",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Et område som det er besluttet at skal utlyses etter § 4-2 annet ledd, kan deles inn i flere utlysningsområder av departementet.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Utlysning og kompetansekrav for deltakelse i konkurranse om områdetilsagn",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Departementet lyser ut områder som nevnt i § 4-4 i egen områdetildelingsforskrift.\nFor deltakelse i konkurranse om tildeling av utlysningsområder vil det som minimum bli stilt krav om at aktøren har:kompetanse om biologi, særlig med vekt på fiskehelse, fiskevelferd og smittespredningteknisk og akvakulturfaglig kompetanse, med særlig vekt på planlegging og drift i åpne sjøområder og rømmingssikringkompetanse og kapasitet innen helse, miljø og sikkerhet for å ivareta arbeidsmiljø og et høyt nivå av sikkerhetkompetanse om risikostyring og tilstrekkelige styringssystemerkompetanse om havmiljø og miljøeffekter av industri til havsfinansiell styrkeerfaring med prosjektstyring fra større prosjekter som petroleum, havenergi, eksponert havbruk eller tilsvarende.\nAktøren må legge en realistisk plan for hvilken kompetanse som er nødvendig i de ulike fasene av prosjektet.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Konkurranse for tildeling av områdetilsagn",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Reglene for konkurranse om tildeling av områdetilsagn fastsettes i en egen områdetildelingsforskrift. Deltakelse i konkurransen forutsetter at aktøren oppfyller kravene i § 4-5.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Tildeling av områdetilsagn",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Departementet kan gi områdetilsagn med rett og plikt til å utarbeide en helhetlig plan for utvikling av havbruk til havs (områdeplan). Det kan kun gis ett områdetilsagn per utlysningsområde.\nOmrådetilsagn gir ikke rett til å etablere virksomhet i utlysningsområdet.\nOmrådetilsagnet kan ikke overdras og bortfaller når det ikke er sendt søknad om tildeling og klarering etter § 4-10 innen to år. Departementet kan forlenge fristen med ett år av gangen etter søknad.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-8",
+      "heading": "Krav om områdeplan",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Innehaver av et områdetilsagn etter § 4-7 skal utarbeide en plan for etablering, utbygging, drift og avvikling av havbruk til havs i området. Formålet med planen skal være størst mulig samfunnsmessig verdiskaping innenfor bærekraftige rammer.\nEn prosjektspesifikk konsekvensutredning av hele det tildelte området skal ligge til grunn for utarbeidelse av områdeplanen, i tråd med § 4-9 i denne forskriften.\nOmrådeplanen skal utarbeides i tråd med anerkjent metodikk for utvikling av større industriprosjekter fra sammenlignbare industrier, fortrinnsvis havindustrier.\nSøknad om godkjenning av områdeplan sendes til Fiskeridirektoratet. Fiskeridirektoratet skal sende søknad om godkjenning av områdeplan med prosjektspesifikk konsekvensutredning på høring til sektormyndighetene som fatter vedtak i saker om havbruk til havs, andre berørte myndigheter, parter og interesseorganisasjoner og legge dokumentene ut til offentlig ettersyn på internett. Det skal fastsettes en rimelig frist for innspill som ikke kan være kortere enn 6 uker.\nSektormyndighetene som fatter vedtak i saker om havbruk til havs skal vurdere planen og sende en innstilling til Fiskeridirektoratet. Fiskeridirektoratet skal utarbeide en egen innstilling, der det redegjøres for hvordan høringsinnspillene er ivaretatt og oversender denne, sammen med sektormyndighetenes innstillinger, samlet til departementet. Nærings- og fiskeridepartementet vedtar om, og på hvilke vilkår, planen kan godkjennes. Dersom departementets vedtak om godkjenning av områdeplan ikke følger sektormyndighetenes innstillinger, skal dette begrunnes i vedtaket.\nSøknad om tildeling av produksjonskapasitet og klarering av lokalitet i det tildelte området etter §§ 4-10 og 4-11 i denne forskriften skal være i tråd med godkjent områdeplan. Søknader om klarering av lokaliteter skal legges inn som milepæler i planen.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-9",
+      "heading": "Prosjektspesifikk konsekvensutredning",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Innehaver av områdetilsagn skal utarbeide en prosjektspesifikk konsekvensutredning, i tråd med kravene i forskrift om konsekvensutredninger. Den prosjektspesifikke konsekvensutredningen skal dekke hele utlysningsområdet, og skal oppfylle kravene til utredning som er nødvendig for godkjenning av områdeplan etter § 4-8, og tildeling av tillatelse til produksjon på lokalitet etter § 4-11, inkludert for tillatelsene nevnt i § 4-11 nr. 5.\nInnehaver av områdetilsagn skal sende forslag til program for prosjektspesifikk konsekvensutredning til Fiskeridirektoratet.\nFiskeridirektoratet sender forslaget på høring til berørte myndigheter og interesseorganisasjoner. Det skal fastsettes en rimelig frist for innspill som ikke kan være kortere enn 6 uker. Fiskeridirektoratet skal oppsummere innspillene og skriver en innstilling til departementet. Innstillingen skal inneholde en redegjørelse for hvordan innspillene er vurdert og ivaretatt. Alle innspill skal legges ved innstillingen.\nDepartementet fastsetter program for prosjektspesifikk konsekvensutredning.\nProsjektspesifikk konsekvensutredning gjennomføres etter forskrift om konsekvensutredninger, i tråd med fastsatt program og for tiltakshavers regning.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 4-10",
+      "heading": "Søknad om tillatelse til produksjon på lokalitet",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Når områdeplanen er godkjent, kan innehaver av områdeplanen søke om tillatelse til produksjon på bestemt lokalitet i samsvar med den godkjente områdeplanen.\nSøknaden sendes til Fiskeridirektoratet som koordinerende myndighet.\nFiskeridirektoratet sender søknaden med områdeplanen og konsekvensutredning på høring til berørte myndigheter og interesseorganisasjoner, og gjør dokumentene tilgjengelig for offentlig ettersyn på internett. Det skal fastsettes en rimelig frist for høringsinnspill, som ikke kan være kortere enn 6 uker fra søknaden er offentliggjort.\nSøknaden skal behandles av de relevante sektormyndighetene. Endelig vedtak fattes av Fiskeridirektoratet dersom de nødvendige sektorvedtakene foreligger.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-11",
+      "provision_ref": "§ 4-11",
+      "heading": "Tildeling av tillatelse til produksjon på lokalitet",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Fiskeridirektoratet kan gi tillatelse til akvakultur av matfisk til havs på en bestemt lokalitet.\nTillatelse kan kun gis dersomtiltakshaver er gitt et områdetilsagn etter § 4-7,tiltakshaver har fått godkjent områdeplan etter § 4-8det er miljømessig forsvarlig,det er foretatt en avveining av arealinteresser, ogdet er gitt tillatelser som kreves etterLov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv.,Lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall (forurensningsloven),Lov 21. juni 2019 nr. 70 om havner og farvann (havne og farvannsloven),Lov 19. juni 2009 nr. 97 om dyrevelferd.\nDet kan kun tildeles én tillatelse per lokalitet.",
+      "xml_path": "article#kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-12",
+      "provision_ref": "§ 4-12",
+      "heading": "Tillatelsens innhold",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Tillatelsen skal avgrenses i maksimalt tillatt biomasse.\nTillatelsen skal knyttes til én bestemt lokalitet og ett bestemt akvakulturanlegg.",
+      "xml_path": "article#kapittel-4-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-13",
+      "provision_ref": "§ 4-13",
+      "heading": "Innehavers rådighet over tillatelsen og anlegget tillatelsen er knyttet til",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "En akvakulturtillatelse for matfisk på en lokalitet til havs kan bare benyttes på lokaliteten og anlegget som den er knyttet til etter § 4-11, jf. § 4-13.\nOverdragelse av tillatelsen må godkjennes av departementet. Det samme gjelder annen direkte eller indirekte interesseoverføring eller deltakelse i tillatelsen, herunder overdragelse av aksjeposter og andre eierandeler, som kan gi bestemmende innflytelse over innehaveren av tillatelsen. Overdragelse som nevnt i første og andre punktum skal godkjennes så langt departementet har rimelig grunn til å tro at virksomheten i medhold av tillatelsen fortsatt kan drives etter de til enhver tid gjeldende vesentligste vilkår og forutsetninger som ligger til grunn for tillatelsen.\nFiskeridirektoratet kan etter søknad gi tillatelse til flytting av produksjonskapasitet fra akvakulturtillatelser som reguleres av produksjonsområdeforskriften til akvakulturtillatelser for matfisk til havs. For hvert tonn tillatt produksjonskapasitet som flyttes fra produksjonsområdetillatelse, utvides den aktuelle havtillatelsen med to tonn. Utvidelse av havtillatelsen forutsetter at § 4-11 er oppfylt, med unntak av første ledd nr. 1 om forhåndstilsagn.\nKapasiteten kan ikke flyttes tilbake til produksjonsområdene.\nAkvakulturtillatelser for matfisk på lokaliteter til havs kan ikke inngå i felles biomassetak, samlokalisering eller samdrift med andre akvakulturtillatelser.",
+      "xml_path": "article#kapittel-4-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-14",
+      "provision_ref": "§ 4-14",
+      "heading": "Endring av akvakulturanlegg",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Endringer på akvakulturanlegget skal meldes til Fiskeridirektoratet.\nVed større endringer på akvakulturanlegget, kan Fiskeridirektoratet kreve søknad om ny akvakulturtillatelse for matfisk a på lokaliteter til havs. I vurderingen av om endringene er søknadspliktig etter første punktum, skal det bl.a. legges vekt på om endringen kan ha slike virkninger for miljø, dyrevelferd og HMS, at vesentlige forutsetninger som ligger til grunn for tildelingsvedtaket etter § 4-11, er endret. Det skal særlig legges vekt på i hvilken utstrekning virkninger som nevnt i annet punktum er vurdert i den prosjektspesifikke konsekvensvurderingen etter § 4-9. Utskifting av hele anlegg med nytt regnes alltid som større endring etter første punktum.\nFattes vedtak om ny tillatelse etter annet ledd, bortfaller tillatelsen som det endrede eller utskiftede anlegget var knyttet til etter § 4-13 annet ledd. Tillatelsen bortfaller ogsåved større endringer som Fiskeridirektoratet ikke har vurdert etter andre ledd som følge av manglende melding etter første ledd,ved brudd på § 4-14 om innehavers rådighet over tillatelsen og akvakulturanlegget, ognår tillatelsens tidsavgrensning er utløpt etter § 4-17 første punktum.\nFiskeridirektoratet skal i vedtaket etter andre ledd gi tillatelse med samme innhold som tillatelsen som falt bort etter tredje ledd første punktum, så langtbestemmelsene i § 4-7 til § 4-11 er oppfylt, med unntak av § 4-11 første ledd nr. 1 om forhåndstilsagnbestemmelser i eller i medhold av akvakulturloven § 9 som gjelder for akvakultur av matfisk til havs ikke tilsier at søknaden skal eller bør få et annet utfall, ogFiskeridirektoratet ikke ellers finner at anleggsendringen gjør det nødvendig å endre innholdet.",
+      "xml_path": "article#kapittel-4-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-15",
+      "provision_ref": "§ 4-15",
+      "heading": "Tidsbegrensning",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Akvakulturtillatelser for matfisk på lokaliteter til havs gis for inntil 25 år fra tidspunktet for tildelingsvedtaket etter § 4-11. Fiskeridirektoratet kan gi ny tillatelse på samme lokalitet eller ny lokalitet innenfor et område hvor søker innehar godkjent områdeplan.\nOverdragelse av tillatelse etter § 4-13 andre ledd medfører ikke endring av tidsbegrensningen.",
+      "xml_path": "article#kapittel-4-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-16",
+      "provision_ref": "§ 4-16",
+      "heading": "Vederlag for tildeling av tillatelse",
+      "path": [
+        "Kapittel 4. Akvakulturtillatelser for matfisk på lokaliteter til havs"
+      ],
+      "text": "Det kan kreves vederlag til statskassen for nye tillatelse, fornyelse av tillatelse eller økning i produksjonskapasiteten på eksisterende akvakulturtillatelser for matfisk på lokaliteter til havs. Vederlaget fastsettes i den enkelte tildelingsforskrift.",
+      "xml_path": "article#kapittel-4-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Søknadsbehandling",
+      "path": [
+        "Kapittel 5. Akvakulturtillatelser for matfisk i ferskvann"
+      ],
+      "text": "Søknad om akvakulturtillatelse for matfisk i ferskvann sendes og behandles som nevnt i § 3-1.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Tildeling og fordeling av tillatelser",
+      "path": [
+        "Kapittel 5. Akvakulturtillatelser for matfisk i ferskvann"
+      ],
+      "text": "Fiskeridirektoratet kan fastsette begrensninger av antall tillatelser i et vassdrag eller foreta en fordeling mellom søkere innenfor en biomassegrense som er fastsatt som maksimum for et vassdrag.\nTillatelser tildelt etter dette kapitlet kan ikke flyttes til lokalitet i sjø.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Tillatt biomasse per akvakulturtillatelse",
+      "path": [
+        "Kapittel 5. Akvakulturtillatelser for matfisk i ferskvann"
+      ],
+      "text": "Akvakulturtillatelse for matfisk i ferskvann avgrenses til en biomasse på inntil 325 tonn.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Særlige formål",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Akvakultur av matfisk til forskning skal bidra til å utvikle kunnskap som kommer akvakulturnæringen til gode, blant annet om driftsformer, teknologi, biologi, ernæring, fiskehelse og fiskevelferd.\nAkvakultur av matfisk til utvikling skal bidra til å utvikle teknologi som kommer akvakulturnæringen til gode.\nAkvakultur av matfisk til fiskepark skal brukes som rekreasjons- og fritidstilbud for publikum.\nAkvakultur i slaktemerd skal brukes til kortvarig oppbevaring ved slakteriet av slakteklar matfisk.\nAkvakultur av matfisk til undervisning skal bidra til at undervisningsinstitusjonene skal kunne tilby attraktiv, realistisk og kvalitativ god undervisning i praktisk akvakultur og akvakulturregelverk og derigjennom bidra til rekruttering av personell med relevant kompetanse til akvakulturnæringen.\nAkvakultur av matfisk til visningsformål skal bidra til å styrke kunnskapen om akvakultur hos publikum.\nAkvakultur av stamfisk skal bidra til produksjon av rogn og melke av sykdomsfri fisk med høy avlsverdi eller fra spesielle stammer.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Midlertidig stopp i muligheten til å søke om tillatelse til visningsformål og fiskepark",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "§ 6-4 gjelder med følgende begrensninger:Fra og med 1. juli 2021 kan det ikke søkes om nye tillatelser til akvakultur av matfisk til visningsformål og fiskepark. Søknader som er kommet inn til Fiskeridirektoratet før stansen ble iverksatt 8. mars 2021 kl. 10:00 skal behandles i tråd med forskriftens bestemmelser.Dersom det innvilges fornyelse av tillatelser til visningsformål, kan dette ikke gis for mer enn 5 år fra tillatelsesdokument er utstedt.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Søknadsbehandling",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Søknad om akvakulturtillatelse for særlige formål i sjø og ferskvann utfylles på skjema fastsatt av Fiskeridirektoratet, og sendes til og behandles av Fiskeridirektoratet, med unntak av tillatelse til fiskepark som sendes til og behandles av fylkeskommunen.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Generelle vilkår for tildeling og fornyelse",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Fiskeridirektoratet kan gi akvakulturtillatelse til særlige formål etter en faglig vurdering. Tillatelsens varighet fastsettes etter en konkret behovsvurdering. Tillatelse gis midlertidig for inntil 10 år av gangen med unntak av tillatelse til fiskepark som gis for inntil 5 år av gangen og stamfisk-, forsknings- og utviklingstillatelser som gis for inntil 15 år av gangen.\nTillatelse for utvikling som nevnt i § 6-6 kan forlenges etter søknad til Fiskeridirektoratet.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til forskning",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Søker skal dokumentere hvordan virksomheten vil ivareta den faglige kompetansen som er nødvendig for å oppfylle formålene i § 1-1 og § 6-1, herunder kompetansekrav i akvakulturdriftsforskriften § 6.\nVed vurdering av varighet av tillatelsen, skal tidsperspektivet for forsøksaktiviteten tillegges vekt.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til utvikling",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Søker kan få tildelt tillatelse til akvakultur av matfisk til prosjekter som kan bidra til å utvikle teknologi og som innebærer betydelig innovasjon og betydelige investeringer. Formålet er å legge til rette for at ny kunnskap, eksisterende kunnskap fra forskning eller praktisk erfaring kan brukes til å utvikle teknologi som kan bidra til å løse en eller flere av miljø- og arealutfordringene som akvakulturnæringen står overfor, blant annet ved konstruksjon av prototyper og testanlegg, industriell design, utstyrsinstallasjon og fullskala prøveproduksjon.\nUtviklingsarbeidet skal skille seg vesentlig fra tidligere kunnskap og teknologi på akvakulturområdet som er i alminnelig kommersiell bruk og kan ikke bare være en naturlig videreføring av det som er benyttet tidligere.\nSøker skal dokumentere hvordan virksomheten vil ivareta den faglige kompetansen som er nødvendig for å oppfylle formålene i § 1-1 og § 6-6, herunder kompetansekrav gitt i akvakulturdriftsforskriften § 6. Prosjektet må inneha relevant faglig kompetanse for å gjennomføre prosjektet.\nUtviklingsprosjektet skal dokumenteres på en metodisk forsvarlig måte. Kunnskapen skal deles slik at den kommer hele næringen til gode.\nVed tildeling av tillatelse skal det fastsettes, etter dialog med søker, hvordan innehaver av tillatelsen skal rapportere til Fiskeridirektoratet om fremdriften i utviklingsprosjektet. Det skal fastsettes målkriterier for når prosjektet anses gjennomført.\nDet skal fastsettes en varighet for tillatelsen. Ved vurdering av varighet av tillatelsen, skal tidsperspektivet for utviklingsaktiviteten tillegges vekt.\nFiskeridirektoratet kan ut fra behovet som den enkelte søknad reiser innhente råd og vurderinger fra kompetente rådgivere med egnet spesialkompetanse.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "Konvertering av utviklingstillatelse",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Fiskeridirektoratet kan etter søknad gi tillatelse til at en utviklingstillatelse kan konverteres til en ordinær tillatelse til akvakultur av matfisk i sjø. Søknaden kan kun innvilges dersom målkriteriene som er fastsatt for prosjektet er oppfylt. Søknad om konvertering må være Fiskeridirektoratet i hende senest 6 måneder før utviklingstillatelsen går ut. Fiskeridirektoratet kan gi oppreisning for fristoverskridelse.\nVed tildeling av ordinær tillatelse til akvakultur av matfisk i sjø, skal det betales vederlag til statskassen på kroner 10 millioner. Vederlaget skal justeres i tråd med konsumprisindeksen fra 19. november 2015 og frem til konverteringstidspunktet. Betaling må skje innen 90 dager (inkludert helligdager) etter endelig forvaltningsvedtak om tilsagn om kommersiell tillatelse. Dersom vederlaget ikke betales innen fristen, faller tilsagnet bort. Fiskeridirektoratet kan i særlige tilfeller gi oppreisning for fristoverskridelse.\nDen ordinære tillatelsen til akvakultur av matfisk i sjø kan ikke tas i bruk før vederlaget er betalt.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 6-8",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til fiskepark",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Det stilles krav om at akvakulturvirksomheten skal tilrettelegges for publikum.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 6-9",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til slaktemerd",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Tillatelse kan kun gis til godkjent slakteri for oppbevaring av slakteklar fisk. Det stilles krav om at oppbevaring skjer i umiddelbar nærhet til angjeldende slakteri.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 6-10",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til undervisning",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Tillatelse kan gis til utdanningsinstitusjon på universitet- eller høyskolenivå, til fylkeskommune for bruk i videregående skole eller til privat skole som har eller planlegger et undervisningstilbud hvor akvakultur inngår.\nTillatelse kan bare gis videregående skole eller privat skole som vil tilby elever et undervisningsopplegg som er godkjent av departementet, og som fører fram til et tilbud om fagbrev ved skolen.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 6-11",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til visning",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Det stilles krav om at akvakulturvirksomheten skal være særlig egnet for formidling, og tilrettelegges for publikum, herunder vektlegges egnethet av omsøkt lokalitet.\nI vurderingen av om tillatelse skal gis, kan det blant annet legges vekt på avstanden til andre akvakulturvirksomheter med visningsformål og om akvakulturvirksomheten vil ligge i nærheten av andre større turistmål.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-12",
+      "provision_ref": "§ 6-12",
+      "heading": "Særskilte tildelingsvilkår for tillatelse til akvakultur av stamfisk",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Søker skal begrunne behovet både for maksimal tillatt biomasse og ev. antall tillatelser det søkes om. Ved søknad om flere tillatelser skal fiskerimyndighetene vurdere om tillatelsene kan spres geografisk for å sikre stabile rognleveranser.\nTillatelse til akvakultur av stamfisk i sjøvann må også omfatte egnet og klarert landlokalitet.",
+      "xml_path": "article#kapittel-6-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-13",
+      "provision_ref": "§ 6-13",
+      "heading": "Faglige råd ved behandling av søknad om tillatelse til særlige formål",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Et rådgivende utvalg foretar en vurdering av søknader om tillatelse til forskning, som sendes Fiskeridirektoratet. Fiskeridirektoratets rådgivende utvalg for forskningstillatelse skal bestå av tre representanter fra fagmiljøer innen forskning, biologi og næringsinteresser.\nEt rådgivende utvalg foretar en vurdering av søknader om tillatelse til stamfisk, som sendes Fiskeridirektoratet. Fiskeridirektoratets rådgivende utvalg for stamfisktillatelser skal bestå av 5 representanter fra fagmiljøer innen biologi, genetikk, næringsinteresser og økonomi.\nUtvalgene gir også en faglig tilrådning ved søknad om forlengelse av tillatelse.\nUtvalgene oppnevnes av Fiskeridirektoratet.\nVed behandling av søknad om tildeling eller forlengelse av tillatelse til visning kan det innhentes en faglig tilrådning fra relevant avdeling i fylkeskommunen.\nVed behandling av søknad eller forlengelse av undervisningstillatelse ved universitetet og høgskole, eller fra fylkeskommunale eller private videregående skoler, kan Fiskeridirektoratets rådgivende utvalg for forskningstillatelser rådspørres.",
+      "xml_path": "article#kapittel-6-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-14",
+      "provision_ref": "§ 6-14",
+      "heading": "Maksimal tillatt biomasse per tillatelse til særlige formål",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Maksimal tillatt biomasse per tillatelse fastsettes etter en konkret vurdering, hvor det blant annet skal tas hensyn til søkers behov. Maksimal tillatt biomasse per tillatelse skal ikke overstige 780 tonn, med unntak av tillatelse til fiskepark, som ikke skal overstige 2 tonn.\nVed avgrensning av tillatelse til forskning skal det blant annet tas hensyn til hva som er nødvendig ut fra en vitenskapelig vurdering.\nVed avgrensningen av tillatelse til undervisning skal det blant annet tas hensyn til det planlagte driftsopplegget.\nVed avgrensning av tillatelse til visning skal det blant annet tas hensyn til omfanget av visningsvirksomheten og hvor tilgjengelig akvakulturvirksomheten er.\nVed avgrensning av tillatelse til stamfisk skal det blant annet tas hensyn til hva slags avlskonsept og avlsmål det legges opp til og om tillatelsen skal nyttes til oppformering av stamfisk eller den skal bruke til systematisk avlsarbeid.\nVed avgrensning av tillatelse til utvikling, skal det blant annet tas hensyn til hva som er nødvendig for å kunne gjennomføre prosjektet.\nVed avgrensning av tillatelse til akvakultur av matfisk til særlige formål skal det ikke tas hensyn til innehavers behov for økonomisk utbytte som følge av salg av ordinær matfisk. Første punktum gjelder ikke for tillatelser til utvikling etter § 6-6.",
+      "xml_path": "article#kapittel-6-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-15",
+      "provision_ref": "§ 6-15",
+      "heading": "Søksmålsfrist",
+      "path": [
+        "Kapittel 6. Akvakulturtillatelser til særlige formål i sjø og ferskvann"
+      ],
+      "text": "Departementet kan sette som vilkår at søksmål om forvaltningsvedtak om utviklingstillatelse etter denne forskriften er gyldig eller krav om erstatning som følge av vedtaket, skal tas ut innen seks måneder fra det tidspunkt melding om fastsettelse av frist kom frem til vedkommende part. Det kan gis oppfriskning for oversittelse av fristen etter reglene i tvisteloven § 16-12 til § 16-14.",
+      "xml_path": "article#kapittel-6-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Søknadsbehandling",
+      "path": [
+        "Kapittel 7. Akvakulturtillatelser på land"
+      ],
+      "text": "Søknad om akvakulturtillatelse som nevnt i § 7-2 første ledd nr. 1 og 2 utfylles på skjema fastsatt av Fiskeridirektoratet. Søknaden sendes til og behandles av fylkeskommunen i fylket hvor det søkes om tillatelse. Søknad om akvakulturtillatelse som nevnt i § 7-2 første ledd nr. 3 utfylles på skjema fastsatt av Fiskeridirektoratet, og sendes til og behandles av Fiskeridirektoratet som nevnt § i 6-3.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Tildeling av akvakulturtillatelse på land",
+      "path": [
+        "Kapittel 7. Akvakulturtillatelser på land"
+      ],
+      "text": "Det kan kun gis tillatelse til akvakultur på land dersom anlegget ligger på fast grunn eller utfylte masser på område som normalt ikke er dekket av vannpå en bestemt lokalitet, ogenten tilakvakultur av settefisk,akvakultur av matfisk, ellerakvakultur av stamfisk.\nTillatelsen avgrenses i maksimalt tillatt biomasse på samme måte som etter § 3-3. Ved utvidelse av tillatelsens biomasseavgrensning, må innehaver søke om ny lokalitetsklarering etter kapittel 8.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Krav om klarering av lokalitet for akvakultur",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "En lokalitet kan ikke benyttes til akvakultur uten klarering av den. Lokalitetsklarering skal knyttes til en eller flere bestemte tillatelser eller tilsagn om tillatelse.\nUtvidelse av produksjonskapasitet på lokaliteten eller endring av areal krever nytt vedtak om klarering.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Søknadsbehandling",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Søknad om klarering av lokalitet sendes og behandles som nevnt i § 3-1. Etter fylkeskommunen har sendt søknad om klarering av lokalitet til den kommunen det søkes om lokalisering i, skal søker etter anvisning fra kommunen sørge for at søknaden gjøres offentlig, og at dette kunngjøres i Norsk Lysingsblad og i to aviser som er vanlig lest på stedet.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Generelle vilkår for klarering av lokalitet",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Lokalitet for akvakultur kan klareres dersomdet er miljømessig forsvarlig;det er foretatt en avveining av arealinteresser med særlig vekt påsøkers behov for areal til planlagt akvakultur,alternativ bruk av området til annen akvakultur,annen bruk av området, ogverneinteresser som ikke omfattes av bokstav d, herunder vedtak om vern etter lov 29. mai 1981 nr. 38 om viltet;det er gitt tillatelse som kreves etterlov 19. desember 2003 nr. 124 om matproduksjon og mattrygghet mv.,lov 13. mars 1981 nr. 6 om vern mot forurensinger og om avfall,lov 21. juni 2019 nr. 70 om havner og farvann,lov 24. november 2000 nr. 82 om vassdrag og grunnvann oglov 19. juni 2009 nr. 97 om dyrevelferd; ogdet ikke er i strid medvedtatte arealplaner etter plan- og bygningsloven,vedtatte vernetiltak etter kapittel V i lov 19. juni 2009 nr. 100 om forvaltning av naturens mangfold, ellervedtatte vernetiltak etter lov 9. juni 1978 nr. 50 om kulturminner.\nFylkeskommunens vedtak om klarering av lokalitet i sjø og ferskvann skal minst omfatte akvakulturanlegget, areal i overflaten, vannsøylen og arealet på bunn. Vedtaket skal også omfatte fortøyningspunkter og flåte med tilknytningspunkter mellom flåte og produksjonsenhetene er det er aktuelt.\nForvaltningsmyndigheter for fiskeri-, vilt-, naturvern- og friluftsinteresser skal gis adgang til uttalelse før lokalitet klareres etter første ledd.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Særlige krav til lokalitet for settefisk",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Det kan kun klareres lokalitet for settefisk på land.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Forbud mot overføring av tillatelser fra land til sjø",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Akvakulturtillatelser på land kan ikke flyttes til eller benyttes i sjø.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Særlige krav til lokalitet for stamfisk",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Klarering av lokalitet for stamfisk skal ikke gis dersom det er annen akvakultur på lokaliteten.\nFiskeridirektoratet kan i særlige tilfeller dispensere fra denne bestemmelsen.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-7",
+      "provision_ref": "§ 8-7",
+      "heading": "Krav til tilknytning til produksjonsområde",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Klarering av lokalitet i et annet produksjonsområde enn der akvakulturtillatelsen er hjemmehørende, tillates ikke.\nFiskeridirektoratet kan etter søknad dispensere fra forbudet i første ledd dersom samme innehaver av akvakulturtillatelse eller ulike innehavere innen samme konsern, jf. regnskapsloven § 1-3, har lokaliteter på begge sider av en produksjonsområdegrense på en slik måte at forbudet vil slå særlig urimelig ut.\nDersom søknaden etter andre ledd gjelder ulike innehavere av akvakulturtillatelse innen samme konsern, må søker dokumentere at de inngår i samme konsern. Både innehavere som allerede har akvakulturtillatelser tilknyttet den omsøkte lokaliteten og innehavere som flytter tillatelsen dit, må underskrive søknaden. Dispensasjon faller bort dersom de ulike innehaverne ikke lenger er i samme konsern i dispensasjonstiden. Innehaverne plikter å melde fra om dette.\nSøknad etter annet ledd og melding etter tredje ledd sendes til og behandles av Fiskeridirektoratet.\nDenne bestemmelsen gjelder ikke akvakulturtillatelse for særlige formål.",
+      "xml_path": "article#kapittel-8-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-8",
+      "provision_ref": "§ 8-8",
+      "heading": "Antall tillatte lokaliteter per akvakulturtillatelse",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Det kan knyttes maksimalt fire lokaliteter til en akvakulturtillatelse til visning og én lokalitet til akvakulturtillatelse til slaktemerd og akvakulturtillatelse til fiskepark.\nVed søknad om ny klarering av lokalitet for tillatelser til særlige formål skal Fiskeridirektoratet forelegges søknaden for å ta stilling til om ny klarering er i samsvar med tilsagnet om produksjonskapasitet på selskapsnivå som er gitt etter reglene i kapittel 6.",
+      "xml_path": "article#kapittel-8-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-9",
+      "provision_ref": "§ 8-9",
+      "heading": "Minstekrav til søknad om klarering av lokalitet i sjø",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Søknad om klarering av lokalitet i sjø skal inneholde en eller flere rapporter fra en forundersøkelse som er utført i løpet av de siste tre år før søknadsdato.\nForundersøkelsen skal gjennomføres i henhold til NS 9410:2016 Miljøovervåking av bunnpåvirkning fra marine akvakulturanlegg eller tilsvarende internasjonal standard eller anerkjent norm, og skal minimum omfatte:utarbeidelse av kartdokumentasjonpartikkelanalyse for å beskrive bunnsubstratetstrømmålingerhydrografimålinger i hele vannsøylen på den dypeste stasjon i overgangssonen og i eventuelle dypområder med risiko for oksygenmangel utenfor overgangssonenundersøkelse av kjemiske og sensoriske parametere etter metodikken for B-undersøkelsebunndyrsundersøkelser etter metodikken for C-undersøkelse på minst tre stasjoneranalyse av sedimentprøver fra minst to av stasjonene som nevnt i bokstav f for å avklare om og i hvilken grad sedimentene inneholder stoffer som det er grunn til å tro vil bli sluppet ut på lokaliteten og som enten er nevnt i forskrift 15. desember 2006 nr. 1446 om rammer for vannforvaltning vedlegg VIII C eller D nr. 2 eller er identifisert som vannregionspesifikke i veileder 02:2018 Klassifisering av miljøtilstand i vann.\nUndersøkelser som nevnt i andre ledd bokstav a, b, d og f skal i tillegg gjennomføres på en referansestasjon minimum 1 km fra omsøkt.\nDer undersøkelser etter andre ledd bokstav b, e, f og g vanskelig lar seg gjennomføre grunnet stein- eller fjellbunn, kan fylkeskommunen i samråd med statsforvalteren og Fiskeridirektoratet kreve alternative undersøkelser.\nForundersøkelsen skal utføres av organer som kan dokumentere relevant faglig kompetanse og er uavhengig oppdragsgiver. Bunndyrsundersøkelser etter andre ledd bokstav f og tredje ledd og analyse av sedimentprøver etter andre ledd bokstav g skal utføres av organer som er akkreditert for oppgaven.\nRapporten eller rapportene som nevnt i første ledd skal inneholdeen sammenfatning av resultateneen begrunnet vurdering eller modellering av grensene for anleggssone og overgangssone og forslag til plassering av prøvestasjoner for miljøovervåking, inkludert en referansestasjon, ogalle originaldata.\nTidligere utført forundersøkelse eller miljøovervåking kan danne tilstrekkelig kunnskapsgrunnlag ved søknad om klarering av lokalitet.\nDersom forundersøkelsen ikke inneholder tilstrekkelige opplysninger kan fylkeskommunen, etter samråd med statsforvalteren og Fiskeridirektoratet, kreve ytterligere opplysninger eller undersøkelser.\nEtter samtykke fra statsforvalteren og Fiskeridirektoratet kan fylkeskommunen i særlige tilfeller dispensere fra kravene i denne bestemmelsen.",
+      "xml_path": "article#kapittel-8-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-10",
+      "provision_ref": "§ 8-9a",
+      "heading": "Minstekrav til søknad for lokaliteter på land og i ferskvann",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Søknad om klarering av lokalitet skal inneholde opplysninger om strømmålinger på lokaliteten.\nFylkeskommunen kan, i samråd med statsforvalteren, stille krav om at søknad om klarering av lokalitet i ferskvann skal inneholde miljøundersøkelser.",
+      "xml_path": "article#kapittel-8-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-11",
+      "provision_ref": "§ 8-10",
+      "heading": "Melding ved lokalisering av flere tillatelser på samme lokalitet",
+      "path": [
+        "Kapittel 8. Generelle regler om klarering av lokalitet for akvakultur"
+      ],
+      "text": "Ved lokalisering av flere tillatelser til akvakultur av matfisk som innehas av samme person og som ikke innebærer utvidelse av klarert biomasse på lokaliteten og lokalitetsstørrelse, skal det sendes melding til fylkeskommunen. Søknad om endring av driftsplan skal etter akvakulturdriftsforskriften § 40 skal sendes til Fiskeridirektoratet sammen med kopi av meldingen. Det er ikke tillatt å sette ut fisk på lokaliteten knyttet til den nye tillatelsen før innehaver av tillatelsen har mottatt endret tillatelse i tråd med meldingen og godkjenning av driftsplan.\nFørste ledd gjelder også for ulike innehavere av tillatelser innen samme konsern. Innehaverne må legge fram dokumentasjon på at de inngår i samme konsern på meldingstidspunktet. Både innehavere som allerede har tillatelser tilknyttet den aktuelle lokalitet og nye innehavere må underskrive meldingen.\nFylkeskommunen plikter å utstede endret tillatelse så snart som mulig, fortrinnsvis innen en uke regnet fra melding etter første ledd er mottatt, dersom dette ikke er i strid med andre tildelingsbestemmelser. Driftsplanen skal snarest mulig vurderes av Fiskeridirektoratet og Mattilsynet, jf. akvakulturdriftsforskriften § 40.\nDet kan ikke gis melding om lokalisering for tillatelse til akvakultur til særlige formål.\nBestemmelsen her gjelder ikke akvakulturtillatelser på land.",
+      "xml_path": "article#kapittel-8-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Tilbaketrekking av akvakulturtillatelse, tilsagn om produksjon på selskapsnivå eller lokalitet ved passivitet",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Fiskeridirektoratet kan trekke tilbake en akvakulturtillatelse eller lokalitetsklarering dersom det innen to år for akvakulturtillatelse eller tre år for lokalitetsklarering etter tilsagn om produksjon på selskapsnivå eller vedtak om akvakulturtillatelse ikke er etablert virksomhet med mer enn en tredjedel av maksimalt tillatt biomasse i vedtaket. Tilsvarende gjelder dersom det senere ikke er drevet virksomhet med mer enn en tredjedel av maksimalt tillatt biomasse over en periode på to år for akvakulturtillatelse eller tre år for lokalitetsklarering, så langt oppholdet ikke skyldes myndighetspålagt brakklegging. Akvakulturtillatelse eller lokalitetsklarering kan i alle tilfeller trekkes tilbake dersom det i henhold til godkjent driftsplan ikke skal drives virksomhet i medhold av den etter brakkleggingsperioden.\nFylkeskommunen kan alltid trekke tilbake lokalitetsklaring etter samtykke fra innehaveren.\nTilsagn om tillatelse til produksjon på selskapsnivå kan trekkes tilbake dersom innehaveren ikke har sendt inn søknad eller melding etter kapittel 8 om klarering av lokalitet for akvakultur innen seks måneder fra tilsagnsvedtaket.\nOverføring av akvakulturtillatelse, tilsagn om tillatelse eller klarering av lokalitet til ny innehaver etter akvakulturloven § 19, medfører ikke fristavbrudd etter denne paragrafen.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Gebyr",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "For behandling av søknader etter denne forskriften skal det betales gebyr så langt det følger av forskrift 21. desember 2001 nr. 1597 om gebyr og avgift i forbindelse med akvakultur.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "Straff og administrative sanksjoner",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Overtredelse av forskriften her og vedtak i medhold av den kan straffes etter akvakulturloven § 31 og medføre administrative sanksjoner etter loven § 27–§ 30.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 9-4",
+      "heading": "Ikrafttredelse og opphevelse av andre forskrifter",
+      "path": [
+        "Kapittel 9. Avsluttende bestemmelser"
+      ],
+      "text": "Denne forskrift trer i kraft 7. november 2022.\nFra samme tid oppheves forskrift 22. desember 2004 nr. 1798 om tillatelse til akvakultur for laks, ørret og regnbueørret (laksetildelingsforskriften).",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    }
+  ]
+}

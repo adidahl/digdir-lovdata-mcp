@@ -1,0 +1,98 @@
+{
+  "id": "FOR-2014-09-01-1139",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kompensasjon for utgifter til renter til investeringer for istandsetting av kirker og kirkeinventar fra Husbanken",
+  "short_title": "Forskrift om rentekompensasjon for kirker",
+  "department": "Kultur- og likestillingsdepartementet",
+  "date_in_force": "2014-09-01",
+  "last_change_in_force": "2017-01-01",
+  "last_changed_by": "forskrift/2016-12-08-1527 fra 2017-01-01",
+  "lovdata_refid": "forskrift/2014-09-01-1139",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-09-01-1139",
+  "raw_xml_sha256": "be58d7e711660db93ecf0cc674b7d65ea6ad7db331cbacd3b5fd48f6eb2b002e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Rentekompensasjon skal stimulere til sikring og bevaring av kirkene, kirkenes utsmykning og inventar.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Hvilke kirker omfattes av ordningen",
+      "path": [],
+      "text": "Rentekompensasjonsordningen gjelder menighetskirker i Den norske kirke, slik disse er definert etter kirkeloven § 17. Døvekirker i Den norske kirke omfattes av ordningen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Hvem kan få rentekompensasjon",
+      "path": [],
+      "text": "Rentekompensasjon utbetales kun til kommuner.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Hva det kan gis rentekompensasjon til",
+      "path": [],
+      "text": "Rentekompensasjon gis til bygningsmessige investeringer til sikring og bevaring av kirkene, samt kirkenes utsmykking og inventar. Fredede eller verneverdige kirker skal ha høy prioritet.\nRentekompensasjon kan ikke gis til ordinært vedlikehold.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Størrelsen på rentekompensasjonen",
+      "path": [],
+      "text": "Beregningsgrunnlaget for rentekompensasjonen er de påløpte kostnadene til prosjektet, inklusiv moms, som Husbanken godkjenner ved søknad om utbetaling.\nDet beregnes kompensasjon fra den dato som Husbanken godkjenner søknad om utbetaling. Etter utløpet av den avdragsfrie perioden reduseres beregningsgrunnlaget etterskuddsvis med 1/15 per år.\nDet vises til forskrift om rente- og avdragsvilkår for lån i Husbanken.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Søknad og saksgang",
+      "path": [],
+      "text": "Søknad om godkjenning og søknad om utbetaling sendes Husbanken.\nHusbanken utbetaler tilskudd innenfor de økonomiske rammer som er stilt til disposisjon.\nSøknader fremmes av kirkeeier eller kommune på vegne av kirkeeier. Når kommunen søker, skal søknadene bekreftes av kirkeeier. Når kirkeeier søker, skal søknadene bekreftes av kommunen.\nDer andre enn kommunen har dekket utgiftene til prosjektet eller tiltaket, skal midlene kanaliseres videre fra kommunen til det organ som har dekket utgiftene.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Nærmere retningslinjer",
+      "path": [],
+      "text": "Husbanken gir nærmere retningslinjer for gjennomføringen av kompensasjonsordningen.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Prioritering",
+      "path": [],
+      "text": "Departementet kan fastsette regler om prioritering.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Sanksjoner ved mislighold",
+      "path": [],
+      "text": "Dersom forutsetninger for rentekompensasjonen ikke er overholdt, kan staten redusere eller stanse utbetalingen, eventuelt kreve rentekompensasjonen tilbakebetalt.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. september 2014.\nFra samme tid oppheves forskrift 3. april 2009 nr. 422 om kompensasjon for utgifter til renter til investeringer for istandsetting av kirker og kirkeinventar fra Husbanken.",
+      "xml_path": "article#paragraf-10"
+    }
+  ]
+}

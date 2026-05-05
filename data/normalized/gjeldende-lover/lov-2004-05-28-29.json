@@ -1,0 +1,107 @@
+{
+  "id": "LOV-2004-05-28-29",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge (valutaregisterloven)",
+  "short_title": "Valutaregisterloven – valregl",
+  "department": "Finansdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Banker Bank, finans og regnskapsrett > Valuta Forvaltnings- og kommunalrett > Statistikk. Registrering Internasjonal rett > Internasjonale organisasjoner",
+  "date_in_force": "2005-01-01",
+  "last_change_in_force": "2021-04-16",
+  "last_changed_by": "lov/2021-04-16-18",
+  "lovdata_refid": "lov/2004-05-28-29",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2004-05-28-29",
+  "raw_xml_sha256": "5ed6b2074e4a881be014650e92fd0548d6d3eefe8b449b2471d77186b8c4e73b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med loven er å forebygge og bekjempe kriminalitet og å bidra til riktig skatte- og avgiftsbetaling, ved at kontroll- og etterforskningsorganene får tilgang til opplysninger om valutavekslinger og fysisk eller elektronisk overføringer av betalingsmidler inn og ut av Norge.\nOpplysningene i registeret skal også kunne brukes til ivaretakelse av Norges Banks oppgaver etter sentralbankloven, Finanstilsynets oppgaver etter finanstilsynsloven og i forbindelse med kontroll av gjennomføring av internasjonale sanksjoner etter sanksjonsloven.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Begreper",
+      "path": [],
+      "text": "I denne lov forstås med:Betalingsmidler:Norske og utenlandske pengesedler, mynter, veksler, sjekker og andre anvisninger eller akkreditiver som gir rett til betaling i norske eller utenlandske pengesedler og mynter.Valutaveksling:Kjøp og salg av utenlandske betalingsmidler.Behandlingsansvarlig:Den enhet som er gitt i ansvar å samle inn opplysninger samt vedlikeholde og drifte registeret.Norge:Det norske fastland og alt område innenfor territorialgrensen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Register over valutaveksling og overføring av betalingsmidler inn og ut av Norge",
+      "path": [],
+      "text": "Det skal føres et sentralt elektronisk register over opplysninger om valutaveksling og overføring av betalingsmidler inn og ut av Norge.\nDepartementet kan gi forskrifter om registerets organisasjon og om føringen av registeret.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Rapporteringspliktige",
+      "path": [],
+      "text": "Foretak som kan drive valutavirksomhet etter lov 10. april 2015 nr. 17 om finansforetak og finanskonsern (finansforetaksloven) skal rapportere til registeret om valutaveksling og om overføring av betalingsmidler inn og ut av Norge.\nToll- og avgiftsetaten skal rapportere til registeret deklareringspliktig inn- og utførsel av betalingsmidler.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Rapporteringsplikten",
+      "path": [],
+      "text": "Rapport om valutaveksling og om overføring av betalingsmidler inn og ut av Norge skal leveres elektronisk og inneholde opplysninger som identifiserer person eller foretak som mottar og sender, eller fører betalingsmidler inn eller ut av Norge, samt opplysninger om transaksjonen og betalingsmiddelet.\nDepartementet kan gi forskrifter om rapporteringspliktens innhold, herunder fastsette særskilte beløpsgrenser for rapportering.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Tilgang til opplysningene i registeret",
+      "path": [],
+      "text": "Politiet, skatteetaten, toll- og avgiftsetaten, Arbeids- og velferdsdirektoratet og Finanstilsynet skal ha elektronisk tilgang til opplysningene i registeret. Søk i registeret skal kun skje ut fra disse etatenes behov for opplysninger i forbindelse med forebygging og bekjempelse av kriminalitet, kontrollvirksomhet og tilsyn.\nNorges Bank og Utenriksdepartementet skal ha tilgang til opplysningene i registeret, jf. § 1 annet ledd. Bostyrer i konkursbo skal ha tilgang til opplysningene i registeret for å ivareta sine oppgaver etter konkursloven.\nDepartementet kan bestemme at andre skal ha tilgang til opplysninger fra registeret.\nDepartementet kan gi forskrifter om at bare nærmere definerte brukergrupper i etatene nevnt i første ledd skal ha elektronisk tilgang til opplysningene i registeret.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Plikt til å slette opplysninger",
+      "path": [],
+      "text": "Opplysninger i registeret skal slettes senest fem år etter utløpet av registreringsåret.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Sanksjoner",
+      "path": [],
+      "text": "Finanstilsynet kan gi rapporteringspliktige pålegg om at forhold i strid med denne loven eller forskrift gitt i medhold av loven skal opphøre. Finanstilsynet kan sette en frist for at forholdene bringes i samsvar med pålegget.\nFinanstilsynet kan ilegge den som ikke etterkommer pålegg etter første ledd tvangsmulkt til staten i form av engangsmulkt eller løpende mulkt. Pålegg om mulkt er tvangsgrunnlag for utlegg.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Departementet kan i forskrift fastsette regler til utfylling og gjennomføring av bestemmelsene i loven. Departementet kan i forskrif også fastsette unntak fra enkelte eller flere av bestemmelsene i loven.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Ikrafttredelse og overgangsbestemmelser",
+      "path": [],
+      "text": "Loven trer i kraft fra det tidspunkt Kongen bestemmer.1\nOpplysninger fra Kontrolloppgaven fra kortselskapene, BRAVO-registeret og register over inn- og utførsel av sedler og mynt innhentet med hjemmel i lov 14. juli 1950 nr. 10 om valutaregulering, kan overføres til registeret som opprettes med hjemmel i denne lov.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Endringer i andre lover",
+      "path": [],
+      "text": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#paragraf-11"
+    }
+  ]
+}

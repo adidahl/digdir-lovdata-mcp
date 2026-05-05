@@ -1,0 +1,131 @@
+{
+  "id": "LOV-2017-04-28-23",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om organisering av forskningsetisk arbeid (forskningsetikkloven)",
+  "short_title": "Forskningsetikkloven",
+  "department": "Kunnskapsdepartementet",
+  "legal_area": "Skoler, universiteter og forskning > Forskning Skoler, universiteter og forskning > Helseforskning",
+  "date_in_force": "2017-05-01",
+  "last_change_in_force": "2024-08-01",
+  "last_changed_by": "lov/2024-03-08-9 fra 2024-08-01",
+  "lovdata_refid": "lov/2017-04-28-23",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2017-04-28-23",
+  "raw_xml_sha256": "cf3b491097d637f82258ab50c906a055fa905c23a5b7d6cc1cb10696219ea312",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Loven skal bidra til at forskning i offentlig og privat regi skjer i henhold til anerkjente forskningsetiske normer.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Loven gjelder forskere og forskning i Norge. På Svalbard og Jan Mayen gjelder loven dersom forskningen drives av forskere ansatt av norsk arbeidsgiver eller dersom en vesentlig del av midlene kommer fra Norge.\nGranskingsutvalget kan videre uttale seg om forskning i utlandet dersom forskningen drives av forsker ansatt av norsk arbeidsgiver eller dersom en vesentlig del av midlene kommer fra Norge.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Uavhengighet",
+      "path": [],
+      "text": "Komiteer og utvalg oppnevnt med hjemmel i denne loven skal være faglig uavhengige.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Forskeres aktsomhetsplikt",
+      "path": [],
+      "text": "Forskere skal opptre med aktsomhet for å sikre at all forskning skjer i henhold til anerkjente forskningsetiske normer. Dette gjelder også under forberedelser til forskning, rapportering av forskning og andre forskningsrelaterte aktiviteter.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til forskningsinstitusjoner",
+      "path": [],
+      "text": "Forskningsinstitusjoner er offentlige eller private institusjoner som har forskning som en av sine hovedoppgaver.\nForskningsinstitusjoner skal sikre at forskningen ved institusjonen skjer i henhold til anerkjente forskningsetiske normer. Institusjonen har ansvaret for:nødvendig opplæring av studenter, doktorgradskandidater og ansatte i anerkjente forskningsetiske normer ogat alle som utfører eller deltar i forskningen, er kjent med anerkjente forskningsetiske normer.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Behandling av uredelighetssaker ved forskningsinstitusjoner",
+      "path": [],
+      "text": "Forskningsinstitusjoner har ansvar for å behandle saker om mulige brudd på anerkjente forskningsetiske normer. Forvaltningsloven kapittel IV og V gjelder for disse sakene.\nForskningsinstitusjoner skal ha et redelighetsutvalg. Utvalget skal ha nødvendig kompetanse i forskning, forskningsetikk og jus. Utvalget skal ha minst ett medlem som ikke er ansatt ved institusjonen.\nForskningsinstitusjoner skal fastsette retningslinjer for behandling av saker om mulige brudd på anerkjente forskningsetiske normer. Retningslinjene skal også angi når det som ledd i behandlingen av slike saker skal innhentes en uttalelse fra redelighetsutvalget.\nForskningsinstitusjoner skal rapportere saker om mulige alvorlige brudd på anerkjente forskningsetiske normer til Granskingsutvalget.\nUttalelser som konkluderer med at en forsker har opptrådt vitenskapelig uredelig, kan påklages av forskeren til Granskingsutvalget, jf. § 7 annet ledd. Forvaltningsloven kapittel VI gjelder med de begrensninger som følger av denne loven.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Granskingsutvalget",
+      "path": [],
+      "text": "Departementet oppnevner et nasjonalt utvalg for gransking av uredelighet i forskning. Granskingsutvalget skal ha nødvendig kompetanse i forskning og forskningsetikk. Lederen skal ha juridisk embetseksamen eller mastergrad i rettsvitenskap.\nGranskingsutvalget er klageinstans for uttalelser hvor det konkluderes med at en forsker har opptrådt vitenskapelig uredelig. Utvalget kan også behandle saker om mulige brudd på anerkjente forskningsetiske normer på eget initiativ. Forvaltningsloven kapittel IV og V gjelder for disse sakene. Granskingsutvalgets uttalelser er endelige og kan ikke påklages videre.\nGranskingsutvalget skal veilede forskningsinstitusjoner om behandling av saker om mulige brudd på anerkjente forskningsetiske normer.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Uttalelser i uredelighetssaker",
+      "path": [],
+      "text": "I uttalelser fra forskningsinstitusjoner etter § 5, redelighetsutvalg etter § 6 annet ledd og Granskingsutvalget etter § 7 i saker om mulige brudd på anerkjente forskningsetiske normer skal det alltid tas stilling til:om forskeren har opptrådt vitenskapelig uredelig eller ikke,om det foreligger systemfeil ved institusjonen ogom det vitenskapelige arbeidet bør korrigeres eller trekkes tilbake.\nMed vitenskapelig uredelighet menes forfalskning, fabrikkering, plagiering og andre alvorlige brudd på anerkjente forskningsetiske normer som er begått forsettlig eller grovt uaktsomt i planlegging, gjennomføring eller rapportering av forskning.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Nasjonale forskningsetiske komiteer",
+      "path": [],
+      "text": "Departementet oppnevner nasjonale forskningsetiske komiteer som til sammen dekker alle fagområder, og bestemmer hver komités ansvarsområde. Medlemmene oppnevnes av departementet etter forslag fra relevante organer. Hver komité skal ha kompetanse i relevante forskningsdisipliner, etikk og jus, og skal ha minst én lekrepresentant.\nKomiteene skal være rådgivende organer innen forskningsetikk.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Regionale komiteer for medisinsk og helsefaglig forskningsetikk",
+      "path": [],
+      "text": "Departementet oppnevner regionale komiteer for medisinsk og helsefaglig forskningsetikk. Hver komité skal ha kompetanse i relevante forskningsdisipliner, etikk og jus, og skal ha minst én lekrepresentant.\nKomiteenes ansvarsområder følger av helseforskningsloven og annen lovgivning som legger oppgaver til komiteene.\nDen nasjonale forskningsetiske komité for medisin og helsefag er klageinstans for komiteenes vedtak, også for vedtak etter offentleglova. Den nasjonale komiteens avgjørelse er endelig og kan ikke påklages videre.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Unntak fra offentlighet",
+      "path": [],
+      "text": "Offentleglova § 24 annet ledd gjelder for saker om mulige brudd på anerkjente forskningsetiske normer etter denne loven.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Forskrifter",
+      "path": [],
+      "text": "Departementet kan gi forskrift med nærmere regler om oppnevning av og saksbehandling i komiteer og utvalg etter loven.",
+      "xml_path": "article#paragraf-12"
+    },
+    {
+      "section_id": "paragraf-13",
+      "provision_ref": "§ 13",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft på det tidspunktet Kongen bestemmer.1\nFra samme tid oppheves lov 30. juni 2006 nr. 56 om behandling av etikk og redelighet i forskning.",
+      "xml_path": "article#paragraf-13"
+    },
+    {
+      "section_id": "paragraf-14",
+      "provision_ref": "§ 14",
+      "heading": "Endringer i andre lover",
+      "path": [],
+      "text": "Fra den tid loven trer i kraft gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#paragraf-14"
+    }
+  ]
+}

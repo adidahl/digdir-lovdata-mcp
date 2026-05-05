@@ -1,0 +1,548 @@
+{
+  "id": "FOR-2001-12-04-1450",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om maritime elektriske anlegg",
+  "short_title": "Forskrift om maritime elektriske anlegg",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2002-01-01",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-18-2278 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2001-12-04-1450",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-12-04-1450",
+  "raw_xml_sha256": "669bc1f874d94dace3ae19896f21470765b453f4daa6c4a1f342496b49b01ff5",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel I – Innledende bestemmelser"
+      ],
+      "text": "Formålet med forskriften er å oppnå forsvarlig elsikkerhetsnivå i maritime elektriske anlegg og ved bruk av elektrisk utstyr tilkoblet slike anlegg.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel I – Innledende bestemmelser"
+      ],
+      "text": "Forskriften gjelder for prosjektering, utførelse, drift, endring og vedlikehold av maritime elektriske anlegg på norske skip, flyttbare innretninger, sjøredskaper og fritidsfartøy. Forskriften gjelder også for elektrisk utstyr som er tilkoblet maritime elektriske anlegg.\nForskriften gjelder ikke for:Elektronisk radio-, telekommunikasjons- og informasjonsutstyr ogskip- eller sjøredskaper til militært bruk.\nFor skip som kommer inn under bestemmelsene i SOLAS (International Convention for the Safety of Life at Sea) gjelder konvensjonens bestemmelser uavkortet.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel I – Innledende bestemmelser"
+      ],
+      "text": "Område hvor en eksplosiv atmosfære er eller kan være tilstede i slike mengder at det kreves spesielle foranstaltninger i forbindelse med blant annet konstruksjon, installasjon og bruk av elektrisk utstyr eller andre tennkilder.\nÅ ha overordnet faglig ledelse, og å påse at elektriske anlegg planlegges, utføres og opereres på en slik måte at bestemmelser i forskrifter vedrørende meldinger og samtykker, teknisk utførelse, kvalifikasjoner og sikkerhetsprosedyrer er ivaretatt.\nÅ ha overordnet faglig ledelse med ansvar for at elektriske anlegg blir utført i henhold til gjeldende forskrifter, herunder at det benyttes utstyr som tilfredsstiller gjeldende bestemmelser om dokumentasjon og at det benyttes kvalifisert personell.\nÅ ha overordnet faglig ledelse, og å påse at vedlikehold planlegges og utføres slik at elektriske anlegg og elektrisk utstyr er i forskriftsmessig stand.\nEn sikkerhetsfunksjon som innebærer å bryte tilførselen til alle eller enkelte deler av anlegget ved at disse delene adskilles fra strømkilden(e).\nFartøy av enhver art og med enhver fremdriftsform, der skroglengden er mellom 2,5 meter og 24 meter og som omfattes av forskrift 20. desember 2004 nr. 1820 om produksjon og omsetning av fritidsfartøy mv.\nJord- og kortslutningssikker forlegging kan oppfylles ved:Enleder kabel uten metallkappe/armering/omfletting.Enleder isolerte ledninger montert på støtter av isolerende materiale. Gjennomføringer av isolerende materiale. Tilstrekkelig avstand mellom ledningene innbyrdes og til underlag, egne fester dog unntatt.Uisolerte ledere montert på isolatorer og med isolatorgjennomføringer. Tilstrekkelig avstand mellom lederne innbyrdes og til underlag, egne fester dog unntatt.Enleder uisolerte ledninger i isolerende rør med en ledning i hvert rør.\nProsjektering dekker alt fra detaljplanlegging, utarbeidelse av beskrivelse og tegninger av større elektriske maritime anlegg til enkel planlegging av en enkelt kurs.\nDen som utstyrer og driver et skip for egen regning.\nFlytende og flyttbare innretninger som plattformer, lektere, mudderapparater, flytekraner, flytedokker m.m.\nKlasse A: passasjerskip som går i annen innenriks fart enn fart som omfattes av klasse B, C og D.\nKlasse B: passasjerskip som går i innenriks fart der det ikke på noe tidspunkt er mer enn 20 sjømil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde.\nKlasse C: passasjerskip som går i innenriks fart i havområder der sannsynligheten for signifikant bølgehøyde på mer enn 2,5 m er mindre enn 10% i en ettårsperiode ved helårsdrift, eller i en bestemt begrenset periode av året ved drift utelukkende i en slik periode (for eksempel sommerdrift), der det ikke på noe tidspunkt er mer enn 15 sjømil fra nødhavn, og ikke mer enn 5 sjømil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde.\nKlasse D: passasjerskip som går i innenriks fart i havområder der sannsynligheten for signifikant bølgehøyde på mer enn 1,5 m er mindre enn 10% i en ettårsperiode ved helårsdrift, eller i en bestemt begrenset periode av året ved drift utelukkende i en slik periode (for eksempel sommerdrift), der det ikke på noe tidspunkt er mer enn 6 sjømil fra nødhavn, og ikke mer enn 3 sjømil fra kysten, der skipbrudne personer kan ilandsettes ved middels tidevannshøyde.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Hvem forskriften retter seg mot",
+      "path": [
+        "Kapittel II – Pliktsubjekt og sikkerhetskrav"
+      ],
+      "text": "Reder skal sørge for at anlegg som omfattes av denne forskriften til enhver tid tilfredsstiller sikkerhetskravene i forskriften. Ved bruk og tilkobling av elektrisk utstyr til anlegg skal det vises aktsomhet slik at det ikke oppstår fare for liv, helse eller materielle verdier.\nEnhver som prosjekterer, utfører, endrer eller foretar vedlikehold av anlegg, er ansvarlig for at arbeidet som foretas er i samsvar med forskriftens krav.\nFor eier av fritidsfartøy påhviler de samme plikter som for reder.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Oppfyllelse av sikkerhetskrav",
+      "path": [
+        "Kapittel II – Pliktsubjekt og sikkerhetskrav"
+      ],
+      "text": "Forskriften, supplert med tilhørende veiledning, vedlegg og normer, viser samlet det sikkerhetsnivået som skal legges til grunn. Ved valg av annen løsning, eller ved kombinasjon av deler av normer, skal det dokumenteres at tilsvarende sikkerhetsnivå oppnås.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 6",
+      "heading": "Kontroll. Erklæring om samsvar. Dokumentasjon",
+      "path": [
+        "Kapittel III -Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Før anlegg tas i bruk og etter hver endring, skal reder sørge for at det er kontrollert og prøvet for å sikre at det tilfredsstiller forskriftens sikkerhetskrav.\nEnhver som er ansvarlig for prosjektering, utførelse eller endring av anlegg skal utstede erklæring til reder om samsvar med sikkerhetskravene i denne forskrift.\nSom underlag for slik erklæring skal det være utarbeidet dokumentasjon som gjør det mulig å vurdere om anlegget er i samsvar med forskriftens krav.\nDokumentasjonen skal utformes i henhold til gjeldende IEC-normer, eller norske normer.\nDet må foreligge en oversikt over anvendte normer, eventuelt en detaljert beskrivelse av løsninger som er valgt for å oppfylle forskriftens krav når normer ikke er anvendt.\nDersom det er nødvendig å ta spesielle forholdsregler i anlegget for å oppfylle kravene om elektromagnetisk kompatibilitet, skal den som prosjekterer eller utfører anlegget utarbeide instruksjon for bruk og vedlikehold av disse tiltakene. Slik instruksjon skal være lett tilgjengelig om bord.\nReder skal sørge for at det forefinnes erklæring om samsvar om bord.\nErklæring om samsvar må minst inneholde følgende:Navn og adresse til den/de ansvarlige for prosjektering, utførelse eller endring av anlegget,identifikasjon av anlegget,betegnelse på normer anvendt helt eller delvis, eller andre tekniske spesifikasjoner som anlegget er basert på i tilfelle normer ikke er anvendt,forsikring om at anlegget oppfyller kravene til sikkerhet i denne forskriften,underskrift av den/de ansvarlige for prosjektering, utførelse eller endring av anlegget ogdato for erklæringen.\nFor elektriske anlegg i Ex-områder gjelder spesielle dokumentasjonskrav, jf. § 20.\nDenne paragrafen gjelder ikke fritidsfartøy.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 7",
+      "heading": "Oppbevaring av dokumentasjon",
+      "path": [
+        "Kapittel III -Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Reder må til enhver tid sørge for at erklæring om samsvar og dokumentasjon som er nødvendig for anleggets drift forefinnes om bord, jf. § 6. Annen dokumentasjon knyttet til utstedelse av erklæring om samsvar, må oppbevares av rederen.\nEnhver som i henhold til § 6 utsteder erklæring om samsvar skal oppbevare kopi av erklæringen i minst ti år regnet fra den dag erklæring om samsvar er utstedt.\nDenne paragrafen gjelder ikke for fritidsfartøy.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 8",
+      "heading": "Melding",
+      "path": [
+        "Kapittel III -Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Før utførelse og endring av maritime elektriske anlegg påbegynnes skal reder sørge for at det blir sendt melding om arbeidet til tilsynsmyndigheten. For mindre endringer kreves det ikke melding.\nMeldingen skal minst inneholdeopplysninger om hva meldingen omfatter,skipets/sjøredskapets byggenummer, eventuelt navn og kjenningssignal,reders navn og adresse,navn på prosjekterende og utførende virksomhet,grensesnitt mellom utførende ved eventuelle delte entrepriser ogantatt tidspunkt for ferdigstillelse.\nUnntatt fra melding er anlegg med nominell spenning ikke høyere enn 50 V vekselspenning og 120 V likespenning så fremt de ikke er plassert i eksplosjonsfarlige områder.\nDenne paragrafen gjelder ikke fritidsfartøy.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 9",
+      "heading": "Melding av ulykker/uhell",
+      "path": [
+        "Kapittel III -Dokumentasjon, informasjon og melding"
+      ],
+      "text": "Personskader eller materielle skader som er forårsaket av elektrisitet skal snarest mulig meldes til sentral tilsynsmyndighet.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 10",
+      "heading": "Planlegging og vurdering av risiko",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Maritime elektriske anlegg skal være slik at liv, helse og materielle verdier er beskyttet mot fare og skader ved normal bruk og slik at anlegget blir egnet til den forutsatte bruk.\nDet skal gjennomføres en risikoanalyse for å kartlegge risiki i og i tilknytning til det elektriske anlegget. Det skal tas hensyn til de resultater risikoanalysen frembringer i det elektriske anlegget.\nAnlegg og utstyr må tåle de dynamiske og statiske påkjenninger som kan påregnes.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 11",
+      "heading": "Tilgjengelighet og vedlikehold",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegget skal være slikat det er tilgjengelig for ettersyn, vedlikehold, reparasjon, betjening og prøving,at det er tilstrekkelig plass til å skifte ut og montere enkeltenheter ogat slikt arbeid kan foretas uten fare for den som utfører arbeidet.\nUtstyr som under drift krever tilsyn eller betjening skal være plassert tilgjengelig og på egnede steder som er godt belyst, og hvor kontroll og betjening under drift kan skje uten fare.\nAnleggsdeler som ikke lenger er i bruk, skal enten vedlikeholdes i samsvar med forskriften, fjernes eller sikres og tydelig merkes.\nFor store system der dette ikke er praktisk mulig anses imidlertid tydelig merking og sikring av systemet som tilstrekkelig.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 12",
+      "heading": "Fordelingssystem",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegget skal være slik at fordelingssystem som benyttes for hele eller deler av anlegget sammen med de sikkerhetstiltak som er påkrevd for de ulike fordelingssystemene, ikke medførerfarlig strømgjennomgang,for høye temperaturer som kan føre til forbrenning, brann, eksplosjonsfare eller andre skadelige virkninger,avbrudd som kan medføre fare for liv, helse eller materielle verdier,skadelig påvirkning på andre deler av anlegget eller utstyr i anlegget eller utstyr tilkoblet dette.\nFordelingssystemet skal være egnet for formålet.\nFor alle spenningssystemer tillates ikke skrog eller metallstruktur som returleder.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 13",
+      "heading": "Jordingssystem",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Jordingssystemet skal være tilpasset det fordelingssystemet som er valgt for hele eller deler av anlegget, slik at det ikke oppstår farlig strømgjennomgang eller for høye temperaturer som kan føre til forbrenning eller brann.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 14",
+      "heading": "Beskyttelse mot elektriske støt ved normal bruk",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "For å beskytte mot elektrisk støt ved normal bruk skal det være iverksatt tiltak for beskyttelse mot fare som kan oppstå ved direkte berøring av spenningssatte deler av anlegg og utstyr.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 15",
+      "heading": "Beskyttelse mot elektrisk støt ved feil",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "For å beskytte mot elektrisk støt ved feil skal det være iverksatt tiltak for beskyttelse mot fare som kan oppstå ved berøring av utsatte anleggsdeler som er blitt spenningssatte som følge av feil (indirekte berøring).",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 16",
+      "heading": "Beskyttelse mot skadelige termiske virkninger",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Elektriske anlegg og utstyr skal være slik at de ikke representerer noen fare for antennelse av brennbare materialer på grunn av for høy temperatur eller lysbue. Det skal ved normal drift heller ikke være noen fare for at mennesker eller befraktede dyr kan bli utsatt for forbrenning.\nTermiske apparater skal ha innretning som virker slik at apparatene kobles ut før farlige temperatur oppstår, med mindre apparatet er tillatt brukt uten slik innretning. Utkoblingsinnretningen skal ha friutløsning og manuell tilbakestilling. Når det i tillegg til overtemperaturvern er termostat, skal disse virke uavhengig av hverandre. Feil ved den ene eller dets tilledninger, skal ikke kunne sette den andre ut av funksjon.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 17",
+      "heading": "Beskyttelse mot overstrøm",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Liv, helse og materielle verdier skal være beskyttet mot skade på grunn av for høye temperaturer eller elektromekaniske påkjenninger som skyldes enhver form for påregnelige overstrømmer i strømførende ledere.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 18",
+      "heading": "Beskyttelse ved feilstrømmer",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Andre ledere enn strømførende ledere og enhver annen del beregnet på å føre en feilstrøm som følge av isolasjonssvikt eller feil, skal kunne føre denne feilstrømmen uten å skade anlegg og utstyr.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-10",
+      "provision_ref": "§ 19",
+      "heading": "Beskyttelse mot overspenning",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Liv, helse og materielle verdier skal være beskyttetmot skadelig virkning av isolasjonssvikt eller feil mellom strømkretser med ulike spenninger ogmot skade som skyldes andre uønskede høye spenninger.",
+      "xml_path": "article#kapittel-4-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-11",
+      "provision_ref": "§ 20",
+      "heading": "Beskyttelse mot antennelse i eksplosjonsfarlige områder",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegg innenfor eksplosjonsfarlige områder skal være slik at det ikke frembringer fare for antennelse i slike områder.\nDet skal til enhver tid foreligge oppdatert dokumentasjon med klassifisering av områder nevnt i første ledd, jf. § 7.",
+      "xml_path": "article#kapittel-4-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-12",
+      "provision_ref": "§ 21",
+      "heading": "Beskyttelse mot fare ved gjeninnkobling",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Liv, helse og materielle verdier skal være beskyttet mot farlige situasjoner som kan oppstå eller skade som skyldes gjeninnkobling etter helt eller delvis utfall av spenningen. Dersom gjeninnkobling av vern kan skape en farlig situasjon, skal ikke gjeninnkobling skje automatisk.",
+      "xml_path": "article#kapittel-4-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-13",
+      "provision_ref": "§ 22",
+      "heading": "Variasjoner i spenning og frekvens",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegg skal være slik at variasjoner i spenning og frekvens ikke er større enn det tilkoblet anlegg og utstyr er beregnet for.",
+      "xml_path": "article#kapittel-4-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-14",
+      "provision_ref": "§ 23",
+      "heading": "Ventilasjon for akkumulatorbatterier",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Det skal sørges for tilstrekkelig ventilasjon for å unngå oppsamling av gass som kan avgis fra batteriene.",
+      "xml_path": "article#kapittel-4-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-15",
+      "provision_ref": "§ 24",
+      "heading": "Beskyttelse mot ytre påvirkninger",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegget og det materiell og utstyr som inngår i dette skal være tilpasset de ytre påvirkninger som kan ventes.",
+      "xml_path": "article#kapittel-4-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-16",
+      "provision_ref": "§ 25",
+      "heading": "Nødutkobling",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "I anlegg hvor det er nødvendig med rask (manuell) utkobling for å unngå fare, skal det være installert utstyr for nødutkobling. Slikt utstyr skal være godt synlig og lett tilgjengelig, og skal kunne betjenes uten fare.\nArrangementene for nødstopp skal være slik anordnet at de ikke kobler fra andre forbrukere enn det som er nødvendig og skal sikres mot utilsiktet utkobling.",
+      "xml_path": "article#kapittel-4-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-17",
+      "provision_ref": "§ 26",
+      "heading": "Utstyr for frakobling",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Det skal være installert utstyr for frakobling av anlegget, kurser eller enkelte utstyrsenheter, slik at vedlikehold, prøving, feilsøking og reparasjon kan foretas uten fare.",
+      "xml_path": "article#kapittel-4-paragraf-17"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-18",
+      "provision_ref": "§ 27",
+      "heading": "Avbrudd i strømtilførsel",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegg der avbrudd i strømtilførselen kan medføre fare for liv, helse og materielle verdier skal planlegges og utføres slik at vedlikehold, utskiftning m.m. kan skje uten at fare oppstår.\nDersom uventet strømavbrudd vil kunne medføre fare for liv, helse og store materielle verdier skal det være nødstrømforsyning i tillegg til ordinær strømforsyning. I kretser som forsynes med nødstrøm skal det være selektivitet for vern.",
+      "xml_path": "article#kapittel-4-paragraf-18"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-19",
+      "provision_ref": "§ 28",
+      "heading": "Merking av kabler, vern og annet materiell",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Det skal i tillegg til merking fra fabrikant, i nødvendig grad foretas entydig merking slik at kabler, utstyr, vern og annet materiell kan identifiseres. Merking skal også foretas i den utstrekning det er nødvendig for å unngå fare.\nMerking om bord i skip og sjøredskaper i innenriks fart skal være med norsk tekst, mens merking om bord i skip og sjøredskaper i utenriks fart skal være med engelsk tekst.",
+      "xml_path": "article#kapittel-4-paragraf-19"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-20",
+      "provision_ref": "§ 29",
+      "heading": "Elektriske og elektromagnetiske forstyrrelser",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Anlegg skal være slik at de ikke frembringer elektriske og elektromagnetiske forstyrrelser som overstiger et nivå der utstyr eller anlegg av sikkerhetsmessig betydning ikke fungerer etter sin hensikt.\nAnlegg og utstyr som inngår i dette skal ha tilstrekkelig indre immunitet overfor ytre elektromagnetisk påvirkning slik at anlegget kan fungere sikkert og etter sin hensikt.",
+      "xml_path": "article#kapittel-4-paragraf-20"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-21",
+      "provision_ref": "§ 30",
+      "heading": "Mekaniske og brannsikkerhetsmessige egenskaper",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Det elektriske anlegget skal være slik utført at skipets/sjøredskapets mekaniske og brannsikkerhetsmessige egenskaper ikke blir svekket.",
+      "xml_path": "article#kapittel-4-paragraf-21"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-22",
+      "provision_ref": "§ 31",
+      "heading": "Tilkobling av utstyr",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Elektrisk utstyr som inngår i eller skal tilkobles et anlegg skal installeres, vedlikeholdes og brukes i henhold til fabrikantens anvisninger.",
+      "xml_path": "article#kapittel-4-paragraf-22"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-23",
+      "provision_ref": "§ 32",
+      "heading": "Egenskaper for elektrisk utstyr/materiell",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Alt elektrisk utstyr og materiell som inngår i eller skal tilkobles anlegg, skal ha slike egenskaper at det er tilpasset anleggets formål og funksjon.",
+      "xml_path": "article#kapittel-4-paragraf-23"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-24",
+      "provision_ref": "§ 33",
+      "heading": "Tilkobling med bevegelige ledninger",
+      "path": [
+        "Kapittel IV – Grunnleggende sikkerhetskrav ved prosjektering, utførelse, endring, drift og vedlikehold"
+      ],
+      "text": "Bevegelig ledning med jordleder skal ha jordingsplugg. Bevegelig ledning uten jordleder skal ha plugg uten jordingskontakt.\nBevegelig ledning for utstyr klasse II (dobbeltisolert utstyr) skal ikke ha jordleder, men kan ha jordingsplugg.\nBevegelig ledning skal være tilkoblet i det rom hvor tilhørende utstyr benyttes. Dette gjelder ikke utstyr beregnet for å flyttes under bruk eller kortvarig bruk.",
+      "xml_path": "article#kapittel-4-paragraf-24"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 34",
+      "heading": "Jording",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Ubeskyttede, permanente festede metalldeler i elektriske maskiner eller utstyr som ikke er forutsatt å være strømførende, men som kan bli strømførende når feil oppstår, skal være jordet, med mindre:de tilføres en spenning som ikke overstiger 55 V likestrøm eller 55 V vekselstrøm mellom lederne; autotransformatorer skal ikke brukes for denne alternative spenningen, ellerde tilføres en spenning som ikke overstiger 250 V via skilletransformatorer som bare forsyner en forbruker, ellerde er konstruert etter prinsippet om dobbeltisolasjon.\nBærbart elektrisk utstyr skal drives med sikker spenning. Ubeskyttede metalldeler av slikt utstyr som ikke er ment å være strømførende, men som kan bli strømførende når feil oppstår, skal være jordet. Tilsynsmyndigheten kan kreve ekstra tiltak for bærbare elektriske lamper, verktøy eller lignende apparater til bruk i lukkede eller svært fuktige rom der det kan foreligge spesiell risiko på grunn av ledningsevne.\nElektriske apparater skal være slik konstruert og installert at de ikke forårsaker skade når de brukes eller berøres på normal måte.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 35",
+      "heading": "Hoved og nødtavler",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Hoved- og nødtavler skal være slik arrangert at de gir tilstrekkelig lett adgang til utstyr og betjeningsanordninger uten fare for betjeningen. Tavlenes sider og bakvegg, og forsider der det er nødvendig, skal være beskyttet på passende måte. Ubeskyttede strømførende deler med spenninger til jord som overstiger den spenning tilsynsmyndigheten fastsetter, skal ikke være plassert på forsiden av slike tavler. Det skal være ikke-ledende materialer eller rister foran og bak tavlen der dette er nødvendig.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 36",
+      "heading": "Fordelingssystemer",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Fordelingssystem med tilbakeledning gjennom skrog skal ikke benyttes til drivkraft, oppvarming eller belysning på fartøyer med lengde på 75 m og derover.\nKravet utelukker ikke, på betingelser akseptert av tilsynsmyndigheten bruk av:katodisk beskyttelse ved påtrykt strømbegrensede og lokalt jordede systemer ellersystemer for overvåking av isolasjonstilstand forutsatt at sirkulerende strøm ikke overstiger 30 milliampér under de ugunstigste forhold.\nNår systemet for tilbakeledning gjennom skrog benyttes, skal alle avsluttende underkretser (alle kretser montert etter siste beskyttende innretning) være av toledertype, og det skal tas ekstra sikkerhetsforanstaltninger til tilsynsmyndighetens tilfredshet.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 37",
+      "heading": "Overvåking av isolasjonsnivået til jord",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Når det benyttes isolert fordelingssystem, enten primært eller sekundært, for drivkraft, oppvarming eller belysning, skal det være montert en innretning som kan overvåke isolasjonsnivået til jord.\nNår fordelingssystemet er i samsvar med første ledd, og det benyttes en spenning som overstiger 55 V likestrøm eller 55 V vekselstrøm mellom lederne, skal det være montert utstyr som kontinuerlig overvåker isolasjonsnivået til jord. Utstyret skal gi hørbar eller synlig indikasjon om unormalt lave isolasjonsverdier.\nKravene i første ledd kommer til anvendelse for fordelingssystemer som er begrenset i omfang, og med spenning som ikke overstiger 250 V likestrøm eller 250 V vekselstrøm mellom lederne, forutsatt at dette tilfredsstiller tilsynsmyndighetens krav.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 38",
+      "heading": "Kabler",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Bortsett fra spesielle tilfeller der tilsynsmyndigheten kan gi dispensasjon, skal all metallkledning og armering av kabler være elektrisk sammenhengende og jordet.\nAlle elektriske kabler skal minst være av brannhemmende type og skal være slik installert at deres opprinnelige brannhemmende egenskaper ikke forringes. Tilsynsmyndigheten kan tillate bruk av spesielle kabeltyper når dette er nødvendig til spesielle formål, blant annet radiofrekvenskabler, som ikke oppfyller ovennevnte krav.\nKabler og ledningsnett som benyttes til hoved- eller nødkraft, belysning, intern kommunikasjon eller signaler, skal så langt det er praktisk mulig legges utenom bysse, maskinrom av kategori A og andre områder med høy brannrisiko, vaskerom, rom for håndtering og foredling av fisk, samt andre rom med høyt innhold av fuktighet. Kabler som forbinder brannpumper til nødtavlen skal være av en type som er motstandsdyktig mot brann dersom de er lagt gjennom områder med høy brannrisiko. Så langt det lar seg gjøre, bør alle slike kabler legges slik at de ikke settes ut av funksjon av varme i skott forårsaket av brann i tilstøtende rom.\nNår kabler trekkes gjennom rom der det foreligger risiko for brann eller eksplosjon i tilfelle elektrisk feil, skal det tas særskilte forholdsregler mot slik risiko til tilsynsmyndighetens tilfredshet.\nKabler og ledninger skal være festet slik at gnissing og annen skade unngås.\nAvslutninger og koplinger skal være slik at kabelens opprinnelige elektriske, mekaniske og brannhemmende egenskaper beholdes, om nødvendig også kabelens motstandsdyktighet mot brann.\nKabler installert i kjøle- og fryserom skal være egnet for lave temperaturer og høy fuktighet.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-6",
+      "provision_ref": "§ 39",
+      "heading": "Vern",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Alle kretser skal være beskyttet mot kortslutning. Kretsene skal også være beskyttet mot overbelastning, med de unntak som framgår av regel IV/13 i direktiv 97/18/EF (om styreanordninger), eller som tilsynsmyndigheten i særlige tilfeller kan akseptere.\nOverbelastningsvernet for hver enkelt krets skal ha sin gradering eller aktuelle innstilling permanent angitt på det sted hvor innretningen befinner seg.",
+      "xml_path": "article#kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-7",
+      "provision_ref": "§ 40",
+      "heading": "Lysarmaturer",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Lysarmaturer skal være montert på en måte som hindrer temperaturstigninger som kan skade kabler og ledninger, og slik at omkringliggende materiale ikke blir overopphetet.",
+      "xml_path": "article#kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-8",
+      "provision_ref": "§ 41",
+      "heading": "Lyskurser",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Lys- eller kraftkurser som ender i rom der det foreligger risiko for brann eller eksplosjon, skal være utstyrt med skillebrytere utenfor rommet.",
+      "xml_path": "article#kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-9",
+      "provision_ref": "§ 42",
+      "heading": "Akkumulatorbatterier",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Rom for akkumulatorbatteri skal være bygget og ventilert til tilsynsmyndighetens tilfredshet.\nElektrisk og annet utstyr som kan utgjøre en kilde til antennelse av brennbare damper, skal ikke tillates i slike rom med de unntak som er gitt i § 43.\nAkkumulatorbatterier skal ikke plasseres i innredningen med mindre avgasser ikke kan utgjøre eksplosjonsfare, for eksempel ved at de er hermetisk lukket.",
+      "xml_path": "article#kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-10",
+      "provision_ref": "§ 43",
+      "heading": "Plassering av elektrisk utstyr",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "I rom der brennbare blandinger kan forventes oppsamlet, og i ethvert rom som fortrinnsvis er beregnet for plassering av akkumulatorbatteri, skal det ikke installeres elektrisk utstyr med mindre tilsynsmyndigheten er forvisset om at det er:av vesentlig betydning i driftssammenheng,av en type som ikke kan antenne den aktuelle blandingen,relevant i det aktuelle rommet, ogbehørig sertifisert for sikker bruk i de typer støv, damper og gasser som kan forventes å oppstå.",
+      "xml_path": "article#kapittel-5-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-11",
+      "provision_ref": "§ 44",
+      "heading": "Lynavledere",
+      "path": [
+        "Kapittel V – Tillegg for fiskefartøy med lengde på 15 meter og derover – Sikkerhetsforanstaltninger mot støt, brann og andre farer som skyldes elektrisitet"
+      ],
+      "text": "Lynavledere skal være montert på alle master eller toppmaster av tre. På fartøyer bygget av ikke-ledende materialer skal lynavlederne være forbundet via egnede ledere til en kopperplate festet til fartøyets skrog godt under vannlinjen.",
+      "xml_path": "article#kapittel-5-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 45",
+      "heading": "Sikkerhetstiltak mot støt, brann og andre farer som skyldes elektrisitet (R 45)",
+      "path": [
+        "Kapittel VI – Tillegg om sikkerhetsstandarder for passasjerskip"
+      ],
+      "text": "Nye skip i klasse B, C og D og eksisterende skip i klasse B:Udekkede metalldeler i elektriske maskiner eller utstyr som ikke er ment å være strømførende, men som kan bli strømførende som følge av feil, skal jordes, med mindre maskinene eller utstyret:har en tilførselsspenning som ikke overstiger 50 V likestrøm eller 50 V spenningsverdi mellom ledere; autotransformatorer skal ikke brukes for å oppnå denne spenningen, ellerfår tilførsel til en spenning som ikke overstiger 250 V ved sikkerhetsisolerende transformatorer som forsyner bare en forbruksinnretning, ellerer konstruert i samsvar med prinsippet om dobbelt isolasjon.Alle elektriske apparater skal være konstruert og installert slik at de ikke forårsaker skade ved berøring.Sidene, baksiden og om nødvendig forsiden av tavler skal være passende beskyttet. Udekkede strømførende deler med en spenning til jord som overstiger spenningen som angitt over, skal ikke være installert på forsiden av slike tavler. Der det er nødvendig, skal tavlen være utstyrt med isolerende matter eller gitter på forsiden og baksiden.I isolerte fordelingssystemer skal det være utstyr som kan overvåke isolasjonsnivået til jord og gi en akustisk eller optisk indikasjon på unormalt lave isolasjonsverdier.Alt metalltrekk og all metallarmering av kabler skal være elektrisk sammenhengende og jordet.Alle elektriske kabler og ledninger forlagt utenom utstyr, skal minst være av brannhemmende type og skal være installert slik at deres opprinnelige brannhemmende egenskaper ikke er redusert. Der det er nødvendig for bestemt bruk, kan flaggstatens administrasjon tillate bruk av spesielle typer kabler, f.eks. radiofrekvenskabler, som ikke tilfredsstiller forannevnte bestemmelser.Nye skip i klasse B, C og D:Kabler og ledninger for kraft, belysning og intern kommunikasjon og signaler som er av vesentlig betydning eller som er nødvendig i en nødsituasjon, skal så langt mulig legges utenom bysser, vaskerom, maskinrom i kategori A og deres kapper og andre områder med høy brannrisiko. På nye og eksisterende roro-passasjerskip skal kabler til nødalarm og høyttalersystemer installert på eller etter den dato (1. juli 1998) som er nevnt i artikkel 14 nr. 1 i direktiv 98/18/EF, godkjennes av flaggstatens administrasjon, under hensyn til rekommandasjoner utarbeidet av IMO. Kabler som forbinder brannpumper med nødtavler, skal være av en type som er motstandsdyktig mot brann der de er ført gjennom områder med høy brannrisiko. Der det er praktisk mulig skal alle slike kabler legges på en måte som utelukker at de gjøres ubrukbare som følge av oppvarming av skottene på grunn av brann i tilstøtende rom.Kabler og ledninger skal være installert og festet slik at skamfiling og annen skade unngås. Avslutninger og ledd i alle ledere skal være laget slik at kabelens opprinnelige elektriske, mekaniske, flammehemmende og, om nødvendig, flammebestandige egenskaper bevares.Nye skip i klasse B, C og D og eksisterende skip i klasse B:Hver enkelt strømkrets skal være beskyttet mot kortslutning og mot overbelastning, unntatt i tilfeller tillatt etter direktiv 98/18/EF, regel II-1/C/6 og II-1/C/7 (elektriske og elektrohydrauliske styremaskiner, jf. § 46).Nye skip i klasse B, C og D:Lysarmaturer skal være arrangert slik at temperaturstigninger som kan forårsake skade på kabler og ledninger, unngås, og slik at det forhindres at omgivende materiale blir overopphetet.Akkumulatorbatterier skal ha passende kasser, og rom som hovedsakelig brukes til oppbevaring av dem, skal være forsvarlig konstruert og effektivt ventilert.Elektrisk eller annet utstyr som kan utgjøre en tennkilde for brennbare damper, skal ikke tillates i disse rommene.Fordelingssystemer skal være arrangert slik at brann i en hvilken som helst vertikal hovedsone i henhold til direktiv 98/18/EF, regel II-2/A/2.9, ikke vil innvirke på virksomhet av vesentlig betydning for sikkerheten i noen annen slik sone. Dette kravet vil være oppfylt dersom hoved- og nødstilførselsledninger som føres gjennom en slik sone, er så godt atskilt både vertikalt og horisontalt som praktisk mulig.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 46",
+      "heading": "Tilleggskrav til elektrisk og elektrohydraulisk styremaskin (R 30)",
+      "path": [
+        "Kapittel VI – Tillegg om sikkerhetsstandarder for passasjerskip"
+      ],
+      "text": "Alarmene som kreves, skal være både akustiske og optiske og skal være plassert på et lett synlig sted i hovedmaskinrommet eller kontrollrommet der hovedmaskineriet normalt kontrolleres fra. Disse alarmene skal også oppfylle kravene i regel II-1/E/6 (vedr. Alarmsystem) i direktiv 98/18/EF når regelen får anvendelse.Når en reservestyremaskin som etter regel II-1/C/6.3.3 i direktiv 98/18/EF skal være maskindrevet, ikke drives med elektrisk kraft eller drives med en elektrisk motor som først og fremst er beregnet for annet utstyr, kan hovedstyremaskinen mates gjennom en strømkrets fra hovedtavlen. Når en slik elektrisk motor som først og fremst er beregnet på annet utstyr, er arrangert for å drive en slik reservestyremaskin, kan flaggstatens administrasjon frafalle kravene i pkt. .3 dersom den er tilfreds med vernearrangementet sammen med kravene i direktivets regel II-1/C/6.4.1 og .4.2 som får anvendelse på reservestyremaskinen.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 47",
+      "heading": "Beskyttelse av spesialrom (R 37)",
+      "path": [
+        "Kapittel VI – Tillegg om sikkerhetsstandarder for passasjerskip"
+      ],
+      "text": "Tilleggsbestemmelser som får anvendelse bare på spesiallasterom under skottet.Forhåndsregler mot antennelse av brannfarlige damper:1. Dersom det installeres elektrisk utstyr og ledninger, skal det være av en type som egner seg for bruk i eksplosjonsfarlige blandinger av bensin og luft. Annet utstyr som kan utgjøre en tennkilde for brannfarlige damper, skal ikke være tillatt.2. Elektrisk utstyr og ledninger som monteres i en avtrekksventilasjonskanal, skal være av en type som er godkjent for bruk i eksplosjonsfarlige blandinger av bensin og luft, og utløpet fra en slik avtrekkskanal skal være på et sikkert sted, under hensyn til andre mulige tennkilder.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 48",
+      "heading": "Tilsyn",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Reder skal etter nærmere bestemte retningslinjer sende begjæring om kontroll/tilsyn med nye og eksisterende anlegg til sentral tilsynsmyndighet eller den sentral tilsynsmyndighet bemyndiger.\nSentral tilsynsmyndighet eller den de bemyndiger fører tilsyn med etterlevelse av denne forskriften.\nSentral tilsynsmyndighet skal til enhver tid ha uhindret adgang til de anleggene som står under dets tilsyn og kan kreve de opplysningene som er nødvendig for utøvelsen av tilsynet, jf. lov av 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr § 5.\nFor det tilsyn som sentral tilsynsmyndighet utfører skal det betales en avgift til Staten etter forskrift fastsatt av Kongen.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 49",
+      "heading": "Vedtak",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Sentral tilsynsmyndighet eller den de bemyndiger gir de pålegg og treffer de enkeltvedtak ellers som er nødvendig for gjennomføringen av bestemmelsene gitt i eller i medhold av denne forskrift.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 50",
+      "heading": "Dispensasjon",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Sentral tilsynsmyndighet kan gi dispensasjon fra denne forskriften dersom særlige forhold tilsier det. Dispensasjonen skal som hovedregel gis skriftlig.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 51",
+      "heading": "Klageadgang",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Vedtak fattet i medhold av denne forskriften kan påklages i henhold til lov av 10. februar 1967 om behandlingsmåten i forvaltningssaker (forvaltningsloven).",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 52",
+      "heading": "Straffebestemmelse",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Overtredelse av forskriften eller vedtak fattet i medhold av denne straffes i henhold til lov av 24. mai 1929 nr. 4 om tilsyn med elektriske anlegg og elektrisk utstyr § 14.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 53",
+      "heading": "Ikrafttredelse. Opphevelse av andre forskrifter. Overgangsbestemmelser",
+      "path": [
+        "Kapittel VII – Tilsyn, klage, straff, mv."
+      ],
+      "text": "Denne forskrift trer i kraft 1. januar 2002.\nFra samme dato oppheves forskrifter for elektriske anlegg – maritime installasjoner av 1. mars 1990 nr. 125.\nMaritime elektriske anlegg kan likevel prosjekteres og utføres etter bestemmelsene i forskrifter for elektriske anlegg – maritime installasjoner av 1. mars 1990 nr. 125 fram til 1. januar 2003.\nElektriske anlegg utført etter forskrift for elektriske anlegg – maritime installasjoner av 1. mars 1990 nr. 125 kan vedlikeholdes etter bestemmelsene i denne.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    }
+  ]
+}

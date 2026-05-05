@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2015-11-13-1287",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunenes plikt til å sørge for øyeblikkelig hjelp døgntilbud",
+  "short_title": "Forskrift om øyeblikkelig hjelp døgntilbud",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2016-01-01",
+  "last_change_in_force": "2017-01-01",
+  "last_changed_by": "forskrift/2016-12-02-1421 fra 2017-01-01",
+  "lovdata_refid": "forskrift/2015-11-13-1287",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-11-13-1287",
+  "raw_xml_sha256": "67eaa28aaeec326ae0af48ad765de9e56d0c117536d592c1fe3a2ecec3426322",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Kommunens plikt til å sørge for øyeblikkelig hjelp døgntilbud",
+      "path": [],
+      "text": "Kommunen skal sørge for tilbud om døgnopphold for helse- og omsorgstjenester til pasienter og brukere med behov for øyeblikkelig hjelp.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Begrensninger i kommunens plikt til å sørge for øyeblikkelig hjelp døgntilbud",
+      "path": [],
+      "text": "Kommunens plikt etter § 1 gjelder kun for de pasienter og brukere som kommunen har mulighet til å utrede, behandle eller yte omsorg til.\nKommunens plikt etter § 1 gjelder pasienter og brukere med somatisk sykdom og sykdom innenfor psykisk helse- og rusområdet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften settes i kraft fra 1. januar 2016.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

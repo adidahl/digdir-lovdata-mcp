@@ -1,0 +1,48 @@
+{
+  "id": "FOR-2012-04-30-375",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til automatisk identifikasjonssystem (AIS) for utenlandske fiskefartøy som lander fangst i norsk havn eller opererer i norsk territorialfarvann",
+  "short_title": "Forskrift om AIS for utenlandske fiskefartøy",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2012-05-01",
+  "lovdata_refid": "forskrift/2012-04-30-375",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2012-04-30-375",
+  "raw_xml_sha256": "9dd3ad281b3b0a903c93132de3364a7985bfb4f0181c87f95027ff2f45a6e833",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Krav om AIS",
+      "path": [],
+      "text": "Utenlandske fiskefartøy med største lengde fra og med 15 meter som lander fangst i norsk havn, eller som fisker, fanger eller foredler levende ressurser i norsk territorialfarvann skal være utstyrt med automatisk identifikasjonssystem (AIS) klasse A som tilfredsstiller prestasjonsnormer godtatt av den internasjonale skipsfartsorganisasjon.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Bruk av AIS",
+      "path": [],
+      "text": "Det automatiske identifikasjonssystemet skal være i gang så lenge fartøyet er i norsk territorialfarvann. Systemet kan bare stenges av i særlige tilfeller hvor skipsfører finner det nødvendig av hensyn til sikkerheten for fartøyet.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Overgangsregler",
+      "path": [],
+      "text": "Forskriften kommer slik til anvendelse for fiskefartøy bygget før 30. april 2012 med største lengde fra og med:24 meter men mindre enn 45 meter fra 31. november 201218 meter men mindre enn 24 meter fra 31. mai 201315 meter men mindre enn 18 meter fra 31. mai 2014.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. mai 2012.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

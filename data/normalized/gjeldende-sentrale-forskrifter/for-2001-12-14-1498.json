@@ -1,0 +1,51 @@
+{
+  "id": "FOR-2001-12-14-1498",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om erstatning ved atomulykker.",
+  "short_title": "Forskrift om erstatning ved atomulykker",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2002-01-01",
+  "lovdata_refid": "forskrift/2001-12-14-1498",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2001-12-14-1498",
+  "raw_xml_sha256": "04e7619a3ede5a2b878f7c81b415bf342d9746751edb93e258573019ea131eb7",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "En stat som har ratifisert Wienkonvensjonen 21. mai 1963 om erstatningsansvar ved atomulykke og fellesprotokollen 21. september 1988 om anvendelse av Wienkonvensjonen og Pariskonvensjonen, likestilles med en konvensjonsstat i forhold til bestemmelsene i atomenergiloven kapittel III og forskriften her.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Hong Kong likestilles med en konvensjonsstat i forhold til bestemmelsene i atomenergiloven kapittel III og forskriften her.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Ved atomulykke som skjer i en ikke-konvensjonsstat, skal atomenergiloven kapittel III gjelde for atomskade som oppstår her i riket eller i annen konvensjonsstat, og innehaveren av et atomanlegg her i riket ellers er ansvarlig etter bestemmelsene i atomenergiloven kapittel III.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Sendes atomsubstans fra et atomanlegg her i riket til et atomanlegg i en stat som ikke er tilsluttet tilleggskonvensjonen, kan det avtales at mottakeren skal være ansvarlig for skade voldt ved en ulykke bare dersom ulykken utelukkende skjer i en stat som ikke er tilsluttet tilleggskonvensjonen.\nSendes atomsubstans fra atomanlegg i en stat som ikke er tilsluttet tilleggskonvensjonen til et atomanlegg her i riket, skal det avtales at innehaveren av anlegget her i riket skal være ansvarlig for skade forvoldt ved ulykker som ikke utelukkende finner sted i en stat som ikke har tiltrådt tilleggskonvensjonen.\nMed tilleggskonvensjonen forstås den konvensjon som er definert i atomenergiloven § 1 (k).",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2002.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

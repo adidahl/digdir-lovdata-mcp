@@ -1,0 +1,30 @@
+{
+  "id": "FOR-2020-03-20-374",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om arbeidsgivers lønnsplikt under permittering, jf. lov om lønnsplikt under permittering § 3b",
+  "short_title": "Forskrift om arbeidsgivers lønnsplikt under permittering",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2020-03-20",
+  "lovdata_refid": "forskrift/2020-03-20-374",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-03-20-374",
+  "raw_xml_sha256": "c3a26833d69821253a89f807c5812a838a4f415f3ead338a097abcf1eb252ecd",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Permitteringslønnsloven § 3b gjelder for nye permitteringer. For iverksatte permitteringer fryses det antallet avviklede lønnspliktdager som arbeidsgiver har utbetalt permitteringslønn for, fra og med 20. mars 2020.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 20. mars 2020.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "id": "FOR-2009-10-02-1285",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten",
+  "short_title": "Forskrift om elektronisk kommunikasjon med Arbeids- og velferdsetaten",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2010-01-01",
+  "last_change_in_force": "2015-04-01",
+  "last_changed_by": "forskrift/2015-03-20-312 fra 2015-04-01",
+  "lovdata_refid": "forskrift/2009-10-02-1285",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-10-02-1285",
+  "raw_xml_sha256": "4b3ab9060cb6d9fb3230b485043f7cdac1bc837a80a2d47ce7f784091c44fccc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å etablere og videreutvikle elektronisk kommunikasjon mellom leger og Arbeids- og velferdsetaten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder det til enhver tid gjeldende informasjonssett av «Vurdering av arbeidsmulighet/Sykmelding» og «Legeerklæring ved arbeidsuførhet» jf. folketrygdloven § 21-4 annet ledd.\nForskriften gjelder også elektronisk toveis-kommunikasjon i form av dialogmeldinger, som for eksempel forespørsel om pasient, innkalling til og svar på innkalling til dialogmøte og mottak av oppfølgingsplan fra arbeidsgiver.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Pålegg om elektronisk kommunikasjon med Arbeids- og velferdsetaten",
+      "path": [],
+      "text": "Leger skal sende inn opplysninger som nevnt i § 2 elektronisk over linje til Arbeids- og velferdsetaten.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Formkrav",
+      "path": [],
+      "text": "Arbeids- og velferdsdirektoratet kan fastsette nærmere bestemmelser om innsending av helseopplysninger og bruk av dialogmeldinger som nevnt i § 2, herunder på hvilken måte opplysningene skal sendes, samt definere hvilke nødvendige opplysninger som til enhver tid skal inngå i informasjonssettene «Vurdering av arbeidsmulighet/Sykmelding» og «Legeerklæring ved arbeidsuførhet».\nAktuelle dialogmeldinger som nevnt i § 2 utformes av Arbeids- og velferdsdirektoratet i henhold til gjeldende meldingsstandarder i Norsk Helsenett.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Unntak",
+      "path": [],
+      "text": "Når særlige grunner foreligger, kan Arbeids- og velferdsdirektoratet, eller det organ direktoratet bestemmer, etter søknad fra den enkelte lege, gjøre unntak fra kravet om elektronisk kommunikasjon.\nNærmere bestemmelser fastsettes av Arbeids- og velferdsdirektoratet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Manglende oppfyllelse av forskriften",
+      "path": [],
+      "text": "Innsending av opplysninger som nevnt i § 2 på annen måte enn elektronisk over linje medfører at Arbeids- og velferdsetaten ikke er pliktig til å utbetale honorar for disse.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft fra 1. januar 2010.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

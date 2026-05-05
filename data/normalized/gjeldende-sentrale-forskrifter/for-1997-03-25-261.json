@@ -1,0 +1,58 @@
+{
+  "id": "FOR-1997-03-25-261",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forsikring for tillegg til sykepenger for selvstendig næringsdrivende",
+  "short_title": "Forskrift om sykepengeforsikring, næringsdr.",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1997-05-01",
+  "last_change_in_force": "2019-01-01",
+  "last_changed_by": "forskrift/2018-06-20-936 fra 2019-01-01",
+  "lovdata_refid": "forskrift/1997-03-25-261",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-03-25-261",
+  "raw_xml_sha256": "e25a4f75931fb01f113a76496337b96f672c44246d50e09e7378c0463b2baba4",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Premie og premiegrunnlag",
+      "path": [],
+      "text": "Forsikringen gjelder fra den dagen Arbeids- og velferdsetaten mottar søknaden, dersom den selvstendig næringsdrivende betaler forsikringspremien innen 14 dager etter at vedkommende har fått melding om vedtaket.\nPremien fastsettes i prosent av forventet pensjonsgivende årsinntekt som selvstendig næringsdrivende, jf. folketrygdloven § 8-35 (premiegrunnlaget). Høyeste premiegrunnlag er seks ganger grunnbeløpet, jf. folketrygdloven § 810 andre ledd. Forsikringsåret løper fra 1. januar til 31. desember.\nPremien beregnes per kalenderuke. Med kalenderuke menes etter disse reglene 1/26 halvår. Premien betales forskuddsvis til Arbeids- og velferdsetaten for minst et halvt år om gangen.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Endring av premiegrunnlaget",
+      "path": [],
+      "text": "Arbeids- og velferdsetaten skal hvert år etter at skatteoppgjøret foreligger foreta en ny fastsetting av premiegrunnlaget. Endring av premiegrunnlaget skjer med virkning fra 1. januar.\nDersom det i løpet av et inntektsår godtgjøres at den selvstendig næringsdrivendes arbeidssituasjon eller virksomhet er varig endret, slik at den pensjonsgivende årsinntekten fastsatt etter bestemmelsene i folketrygdloven § 8-35 tredje ledd avviker fra det fastsatte premiegrunnlag, jf § 1, skal grunnlaget endres i samsvar med dette. Premien reguleres fra og med inneværende år.\nNår grunnbeløpet endres jf. folketrygdloven § 1-4, skal premiegrunnlaget endres fra og med neste forsikringshalvår. Dersom en selvstendig næringsdrivende blir sykmeldt mellom det tidspunktet grunnbeløpet blir endret og utløpet av forsikringshalvåret, skal forsikringspremien endres fra det tidspunktet grunnbeløpet blir endret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Premiesatser",
+      "path": [],
+      "text": "Premiesatsene fastsettes årlig av Arbeids- og velferdsdirektoratet og kunngjøres i melding til Arbeids- og velferdsetaten.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Premiefritak",
+      "path": [],
+      "text": "Premie betales ikke for de hele kalenderuker da en selvstendig næringsdrivendeikke har rett til tillegg for forsikringen, jf. folketrygdloven § 8-36 andre ledd.som nevnt i folketrygdloven § 8-36 første ledd bokstav a, er sykmeldt i mer enn i 16 dager,har mistet retten til sykepenger etter folketrygdloven § 8-54.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft den 1. mai 1997.",
+      "xml_path": "article#paragraf-5"
+    }
+  ]
+}

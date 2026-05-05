@@ -1,0 +1,60 @@
+{
+  "id": "FOR-2003-12-17-1783",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om vartpenger",
+  "short_title": "Forskrift om vartpenger",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2004-07-01",
+  "last_change_in_force": "2011-01-01",
+  "last_changed_by": "forskrift/2010-11-30-1495 fra 2011-01-01",
+  "lovdata_refid": "forskrift/2003-12-17-1783",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-12-17-1783",
+  "raw_xml_sha256": "86ed9d5929e5df99473e421f01378ca2c9ec20314ba27b4111332749b906ce98",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Vartpenger gis ikke til medlem med mindre enn fire års sammenhengende medlemskap i Pensjonskassen ved fratreden, eller når tilsettingsforholdet etter sin art er tidsbegrenset.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Vartpenger skal utgjøre inntil 66 prosent av stillingens pensjonsgrunnlag for personer som kunne ha oppnådd 30 års tjenestetid ved fortsatt sammenhengende tjeneste til stillingens aldersgrense. Det gjøres fradrag for ventelønn og lignende.\nHvis medlemmet ikke ville fått 30 års tjenestetid ved oppnådd aldersgrense, avkortes vartpengene forholdsmessig. Vartpengene skal likevel minst utgjøre et beløp som svarer til minstepensjon etter folketrygden, eventuelt med ektefelletillegg.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Vartpengene skal vurderes hvert år. For medlemmer som blir ledig etter fylte 50 år, kan vartpenger likevel fastsettes for inntil 3 år om gangen. Maksimal vartpengeperiode for medlemmet fastsettes ut fra alder på fratredelsestidspunktet etter følgende skala:før fylte 50 år: inntil 3 årfra 50 til 55 år: inntil 4 årfra fylte 55 år: inntil 12 år.\nVartpenger kan likevel ikke utbetales i lenger tid enn det antall år vedkommende har vært medlem i Pensjonskassen ved overgang til vartpenger.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Et medlem kan bare få vartpenger når det står tilmeldt Arbeids- og velferdsetaten som reell arbeidssøker. Vartpengene faller bort i et begrenset tidsrom dersom vartpengemottakeren ikke kan anses som reell arbeidssøker etter vilkårene i folketrygdloven § 4-5 første og andre ledd. I særlige tilfeller kan det kreves at vartpengemottakeren er villig til å ta arbeid som er lavere lønnet enn vartpengene.\nRetten til vartpenger faller bort iåtte uker første gang et forhold som nevnt i første ledd inntreffer,tolv uker dersom forhold som nevnt i første ledd har inntruffet to ganger innenfor de siste tolv måneder,seks måneder dersom forhold som nevnt i første ledd har inntruffet tre ganger innenfor de siste tolv måneder.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Hvis medlemmet får eller kan få annet arbeid eller inntekt fra næring, faller vartpengene bort når arbeids-/næringsinntekten utgjør mer enn 125 prosent av ordinære vartpenger. Vartpengene reduseres ellers slik at arbeids-/næringsinntekt og vartpenger til sammen tilsvarer 125 prosent av ordinære vartpenger. Vartpengene beregnes her som om medlemmet har 30 års medlemskap i Statens Pensjonskasse. Inntekt fra arbeid eller næring som medlemmet har hatt før fratreden fra stillingen, skal ikke ha konsekvenser for vartpengene.\nDersom tilsettingen er fast, bortfaller retten til vartpenger med endelig virkning. Vartpengene faller også bort fra det tidspunkt medlemmet kan få uførepensjon fra folketrygden eller Statens pensjonskasse, alderspensjon fra Statens pensjonskasse, avtalefestet pensjon etter lov om avtalefestet pensjon for medlemmer av Statens pensjonskasse eller avtalefestet pensjon etter AFP-tilskottsloven kapittel 4.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. juli 2004. Fra samme tidspunkt oppheves forskrift av 6. november 1984 nr. 2324.\nMedlem som mottar vartpenger når denne forskriften trer i kraft, omfattes av de tidligere reglene.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

@@ -1,0 +1,114 @@
+{
+  "id": "FOR-2015-02-05-89",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fellesansvar for utfisking mv. av rømt oppdrettsfisk",
+  "short_title": "Forskrift om utfisking mv. av rømt oppdrettsfisk",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2015-02-05",
+  "last_change_in_force": "2023-02-28",
+  "last_changed_by": "forskrift/2023-02-28-270",
+  "lovdata_refid": "forskrift/2015-02-05-89",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-02-05-89",
+  "raw_xml_sha256": "68f2424527c9e14a9981b82b2a1c15dbc4266edb7fdd04db343187ac898b9c94",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskrifta er å redusere risikoen for genetisk påverknad frå akvakultur på ville bestandar av laksefisk.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Samanslutninga",
+      "path": [],
+      "text": "Det skal etablerast ei samanslutning som skal planleggje og dekkje utgifter for gjennomføring av tiltak for å redusere førekomst av rømt oppdrettsfisk av artane laks, aure og regnbogeaure i elver der innslaget av rømt fisk er uakseptabelt.\nSamanslutninga skal vurdere planlegging av tiltak for å redusere førekomst av rømt oppdrettsfisk i elver der overvakinga, ved bruk av årsprosent eller gytefiskteljingar, syner at innslaget av rømt oppdrettsfisk er lik eller større enn 4 prosent. I elver der innslaget av rømt oppdrettsfisk er større enn 10 prosent skal tiltak planleggast.\nDeltakarar i samanslutninga er alle innehavarar av løyve til akvakultur med laks, aure og regnbogeaure. Deltakarane skal betale ei avgift til samanslutninga for å dekkje utgiftene etter § 3.\nSamanslutninga skal registrerast i Føretaksregisteret.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Det økonomiske ansvaret til samanslutninga",
+      "path": [],
+      "text": "Samanslutninga sitt ansvar for å dekkje utgifter trer i kraft frå det tidspunktet departementet bestemmer, og er avgrensa til dei økonomiske pliktene som følgjer av denne forskrifta.\nSamanslutninga sitt ansvar for å dekkje utgifter etter akvakulturloven § 13a er avgrensa til utgifter som følgjer av tiltak pålagde av styresmaktene etter denne forskrifta og dei tiltaka som samanslutninga sjølv vedtek å setje i verk. Denne forskrifta gir ikkje private partar rett til å få erstatta andre kostnader, inntektstap eller liknande enn dei som følgjer av vedtak gjort av samanslutninga.\nSamanslutninga skal dekkje utgifter til å gjennomføre planar om tiltak etter § 2 første ledd.\nSamanslutninga skal i rimeleg omfang dekkje utgifter som Fiskeridirektoratet har hatt for å fastslå kven som eig den rømte oppdrettsfisken.\nSamanslutninga skal dekkje utgifter Fiskeridirektoratet har til tiltak i dei høva ein ikkje med overvekt av sannsyn kan identifisere kjeldene til den rømte fisken. Dette gjeld i sjø og alle elver, uavhengig av kva for elver som blir dekt av styresmaktene sine overvakingsprogram.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Samanslutninga kan søkje Fiskeridirektoratet om dispensasjon frå krava i § 3 tredje ledd. Søknaden kan godtakast dersom økonomien og ressursane til samanslutninga tilseier det.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Avgift",
+      "path": [],
+      "text": "Styret i samanslutninga fastset avgifta i samsvar med at den samla avgifta skal svare til samanslutninga sine utgifter. Dersom innbetalt avgift er større enn utgiftene til samanslutninga eit einskild år, skal differansen setjast av til neste års drift.\nInnehavarar av løyve der all fisk som er på lokalitetar knytt til løyvet kan identifiserast som oppdrettsfisk og kan sporast tilbake til eigaren, skal ikkje betale avgift.\nInnehavarar av løyve der all fisk som er på lokalitetar knytt til løyvet har eigenskapar som gjer at han ikkje kan formeire seg, betaler redusert avgift. Avgifta utgjer 25 prosent av avgifta fastsett etter første ledd.\nSamanslutninga krev inn avgifta og fører kontroll med at avgifta blir betalt.\nAvgifter som blir betalt til samanslutninga skal plasserast på ein separat bankkonto.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Regress",
+      "path": [],
+      "text": "Dersom det ved undersøkingar, etterforsking eller andre tiltak blir dokumentert med sannsynsovervekt kven som er ansvarleg for den oppfiska rømte oppdrettsfisken, skal samanslutninga krevje regress for utgiftene som har kome til frå innehavaren av løyvet. Dette gjeld uavhengig av kva skuld den ansvarlege har.\nSamanslutninga kan også krevje regress hos innehavarar av akvakulturløyve som ikkje er pliktige til å betale avgift til samanslutninga.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Årsmøte",
+      "path": [],
+      "text": "Årsmøtet skal haldast kvart år innan 30. juni og skal kallast inn av styret med minst tre vekers skriftleg varsel.\nÅrsmøtet skalbehandle årsmelding og rekneskapvelje styre, styreleiar, nestleiar og revisor. Revisor skal vere statsautorisertbehandle andre saker som blir lagde fram.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Styret",
+      "path": [],
+      "text": "Styret har til saman fem representantar med personlege varamedlemmer. Styremedlemmene tenestegjer i to år. Val av medlemmer til styret skjer slik:tre representantar blir valde av og frå havbruksnæringato representantar blir peika ut av Nærings- og fiskeridepartementet.\nDet skal kallast inn til ekstraordinært årsmøte for å behandle spesielle saker når styret eller minst ein firedel av deltakarane krev det. Innkallinga skjer med minst ei vekes varsel.\nStyret skal årleg leggje fram for departementet ein rapport om verksemda til samanslutninga, medreknaseparat rekneskap for kontoen som også fortel korleis dei innkravde midlane og renter bokførte på kontoen er fordelteei kort framstilling av verksemda til samanslutningakorleis avgifta er utrekna og fastsette.\nRapporten skal vere offentleg tilgjengeleg.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Forretningsførar",
+      "path": [],
+      "text": "Styret fastset kven som skal vere forretningsførar for samanslutninga. Forretningsføraren har det daglege ansvaret for verksemda til samanslutninga.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Offentlegheit",
+      "path": [],
+      "text": "Offentleglova skal gjelde for samanslutninga.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Klageinstans",
+      "path": [],
+      "text": "Fiskeridirektoratet sin klagesakseining er klageinstans for forvaltningsavgjerder tekne av samanslutninga, med unntak av avgjerder etter § 3 femte ledd der Nærings- og fiskeridepartementet er klageinstans.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Ikraftsetjing",
+      "path": [],
+      "text": "Forskrifta trer i kraft straks.\nNærings- og fiskeridepartementet skal syte for at det vert kalla inn til eit første årsmøtet som skal velje styre, styreleiar, nestleiar og revisor.",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

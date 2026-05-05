@@ -1,0 +1,809 @@
+{
+  "id": "FOR-2022-12-15-2259",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om tilbakebetaling av utdanningslån",
+  "department": "Kunnskapsdepartementet",
+  "date_in_force": "2023-01-01",
+  "last_change_in_force": "2026-01-01",
+  "last_changed_by": "forskrift/2025-12-28-2898 fra 2026-01-01",
+  "lovdata_refid": "forskrift/2022-12-15-2259",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-12-15-2259",
+  "raw_xml_sha256": "6c8ee9627ce5c40f9ccd9c614769b001ad2d6071f563c340db573126671ca7eb",
+  "sections": [
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Verkeområde",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "Forskrifta gjeld tilbakebetaling av utdanningslån som er gitt etter utdanningsstøttelova og forskrift om utdanningsstøtte.\nForskrifta gir reglar omrenter og tilbakebetalingbetalingsutsetjing og sletting av rentersletting av gjeldmisleghalden gjeld som er permanent overført til Innkrevjingsmyndigheitatap av rettar.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Personleg gjeld og sletting av gjeld når låntakaren døyr",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "Utdanningsgjelda er personleg gjeld og kan ikkje bli overdratt til andre.\nDøyr låntakaren, blir gjelda sletta.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Opplysningsplikta til låntakaren",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 1. Innleiande føresegner"
+      ],
+      "text": "Låntakaren pliktar å gi rette og fullstendige opplysningar og skal melde frå dersom noko av det som er nemnt i søknaden, endrar seg.\nLåntakaren skal så snart som råd etter flytting melde adresseendring til Lånekassen eller til Folkeregisteret i Norge. Låntakarar som er busette i utlandet, skal melde adresseendring direkte til Lånekassen.",
+      "xml_path": "article#kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Kva tid det blir lagt renter til utdanningslånet",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Utdanningslånet er rentefritt under utdanninga. Det blir lagt til renter frå første dag etter at låntakaren ikkje lenger får lån eller stipend etter forskrifta om utdanningsstøtte.\nNår låntakaren får lån eller stipend til deltidsutdanning, blir det lagt renter til gjeld frå tidlegare utdanning.\nStipendbeløp som blir omgjort til lån etter behovsprøving etter forskrifta om utdanningsstøtte, får tillagt renter frå datoen for omgjeringa. Renter blir likevel ikkje lagde til før lånet blir sett renteberande etter første ledd.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Flytande og fast rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Lån i Lånekassen har flytande rente så sant låntakaren ikkje inngår avtale om å binde renta.\nAnnankvar månad tilbyr Lånekassen fast rente for periodar på 3, 5 eller 10 år.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Renter ved forseinka betaling",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Det blir rekna renter etter forseinkingsrentelova av det forfalne beløpet frå dagen etter betalingsfristen, og av heile lånet frå den datoen lånet er oppsagt på grunn av misleghald.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-4",
+      "provision_ref": "§ 7",
+      "heading": "Utrekning av rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Utgangspunktet for rentesatsane i Lånekassen er ei basisrente som er fastsett av Finanstilsynet i samsvar med forskrift til utfylling og gjennomføring mv. av skattelova av 26. mars 1999 nr. 14 § 5-12-5. Basisrenta blir fastsett med utgangspunkt i uttrekk av prisar på bustadlån frå Finansportalen gjennom ein observasjonsperiode. Basisrenta er lik gjennomsnittet av dei 5 lågaste prisane på bustadlån på kvart observasjonstidspunkt i observasjonsperioden. Observasjonsperiodane startar ved årsskiftet.\nFlytande basisrente blir fastsett på grunnlag av 2 månaders observasjon av tilbod om bustadlån med flytande rente. Ny flytande rente tek til å gjelde 2 månader etter avslutta observasjonsperiode.\nFast basisrente blir fastsett på grunnlag av 1 månads observasjon av tilbod om bustadlån med den same rentebindingstida som i avtalen om fast rente på utdanningslånet. Ny fast rente tek til å gjelde 1 månad etter avslutta observasjonsperiode.\nLånekassen fastset dei nominelle rentene på lånet til låntakaren. Desse blir rekna ut frå basisrenta minus 0,15 prosentpoeng. Formelen for å rekne ut den nominelle renta er slik: $$r_n = \\begin{bmatrix}(1 + r_e)\\frac{1}{n} - 1 \\end{bmatrix}n$$ Teiknforklaring:rnårleg nominell rente i prosentrebasisrenta minus 0,15 prosentpoeng (årleg effektiv rente i prosent før gebyr)ntolv, som er talet på betalingsterminar per år\nNår effektiv rente skal reknast ut, kjem i tillegg gebyr ved varsling og for sein betaling, og gebyr og kostnader ved innkrevjing, sjå kapittel 4.\nDei nominelle og effektive rentene blir oppgitte med 3 desimalar.\nRentebelastning skjer på etterskott med ei nominell perioderente som svarer til den årlege nominelle renta dividert på 365 eller 366 dagar.\nEtter kvart forfall blir det rekna renter av renter som ikkje er betalte. Det blir også rekna renter av renter som er lagde til gjelda i perioden frå lånet blir gjort renteberande og fram til første terminforfall, og i periodar med betalingsutsetjing.\nFor låntakarar som har lån frå før 1. juli 1985, blir det ikkje rekna renter av rentegjeld som er opparbeidd før 1. januar 1990.\nDet blir ikkje rekna renter av renter som er lagde til på grunn av forseinka betaling, sjå § 6.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-5",
+      "provision_ref": "§ 8",
+      "heading": "Avtale om fast rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Låntakaren kan søkje om fast rente på lånet for ein periode på 3, 5 eller 10 år. Det er ikkje høve til å binde renta på berre ein del av lånet.\nTabellen viser dei periodane låntakaren kan søkje om fast rente, og kva dato renta gjeld frå:SøknadsperiodeRenta gjeld frå10.–17. februar1. mars10.–17. april1. mai10.–17. juni1. juli10.–17. august1. september10.–17. oktober1. november10.–17. desember1. januar",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-6",
+      "provision_ref": "§ 9",
+      "heading": "Unntak frå retten til å inngå avtale om fast rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Desse låntakarane kan ikkje inngå avtale om fast rente:låntakarar under 18 årlåntakarar som har kortare nedbetalingstid enn avtaleperiodenlåntakarar som får lån eller stipend til fulltidsutdanninglåntakarar i deltidsutdanning som får lån eller stipend frå Lånekassen og har eit renteberande lån frå tidlegare utdanninglåntakarar med oppsagt lånlåntakarar i gjeldsordning.\nLåntakarar som har sagt opp avtalen om fast rente før bindingstida er gått ut, kan ikkje inngå ny avtale om fast rente før 2 månader etter oppseiinga.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-7",
+      "provision_ref": "§ 10",
+      "heading": "Berekning av rentetap eller rentegevinst",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Det blir rekna rentetap eller rentegevinst vedekstra innbetalingar, sjå § 11oppseiing av fastrenteavtalen, sjå § 12oppheving av fastrenteavtalen, sjå § 13.\nRentetap eller rentegevinst blir rekna etter reglane i forskrift 19. september 2022 nr. 1612 om finansavtaler (finansavtaleforskriften) § 2-1 andre ledd. På betalingstidspunktet reknar Lånekassen ut ei rente for resten av avtaletida. Denne renta er det vekta gjennomsnittet av renta på dei 2 tilboda om fastrentelån i Lånekassen som rekna i bindingstid ligg nærmast lånet til låntakaren, det eine med kortare og det andre med lengre bindingstid enn den resterande avtaletida. Dersom den ekstra innbetalinga blir gjord på ei tid då det finst tilbod om fast rente, skal renta på desse tilboda brukast. Dersom det ikkje finst noko tilbod om fast rente når den ekstra innbetalinga skjer, skal Lånekassen sine siste tilbod om fastrente brukast. Er det mindre enn 3 år att av nedbetalingstida, bruker Lånekassen den flytande renta på innbetalingstidspunktet og Lånekassen sitt siste tilbod om 3 års fastrente til å rekne ut ei gjennomsnittleg rente.\nDersom den vekta renta er lågare enn den renta låntakaren har avtalt, blir rentetapet lagt til gjelda til låntakaren.\nDersom den vekta renta er høgare enn den renta låntakaren har avtalt, blir rentegevinsten trekt frå gjelda til låntakaren.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-8",
+      "provision_ref": "§ 11",
+      "heading": "Ekstra innbetaling på lån med fast rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Ved ekstra innbetaling på lån med fast rente blir det rekna rentetap eller rentegevinst etter § 10 på den delen av innbetalinga som overstig terminbeløp, gebyr, kostnader og renter som er rekna etter forseinkingsrentelova.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-9",
+      "provision_ref": "§ 12",
+      "heading": "Oppseiing av avtale om fast rente",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Låntakaren kan seie opp avtalen om fast rente. Tabellen viser tidspunktet for overgang til flytande rente, ut frå når oppseiinga kom inn til Lånekassen:SøknadstidspunktRenta gjeld fråFør 17. februar1. marsFør 17. april1. maiFør 17. juni1. juliFør 17. august1. septemberFør 17. oktober1. novemberFør 17. desember1. januar\nDersom låntakaren seier opp avtalen om fast rente i avtaleperioden, blir det rekna rentetap eller rentegevinst etter § 10.\nDersom låntakaren seier opp fastrenteavtalen i bindingstida, kan ikkje renta bindast på nytt før det har gått 2 månader. I mellomtida er renta flytande.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-10",
+      "provision_ref": "§ 13",
+      "heading": "Oppheving av fastrenteavtale når det blir gitt lån eller stipend frå Lånekassen",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Avtalen om fast rente blir oppheva dersom låntakaren begynner i fulltids- eller deltidsutdanning i avtaleperioden og får lån eller stipend frå Lånekassen. Renta blir flytande den første dagen i månaden etter at avtalen er oppheva. Det blir rekna rentetap eller rentegevinst i samsvar med reglane i § 10.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-paragraf-11",
+      "provision_ref": "§ 14",
+      "heading": "Oppheving av fastrenteavtale ved permanent overføring til Innkrevjingsmyndigheita",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 2. Renter"
+      ],
+      "text": "Avtalen om fast rente blir oppheva dersom gjelda blir overført permanent til Innkrevjingsmyndigheita.\nDet blir ikkje rekna rentetap eller rentegevinst.",
+      "xml_path": "article#kapittel-1-kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-paragraf-1",
+      "provision_ref": "§ 15",
+      "heading": "Nedbetalingstid og terminbeløp",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 3. Nedbetaling og terminbeløp"
+      ],
+      "text": "Den lengste nedbetalingstida er 20 år frå lånet blir gjort renteberande siste gong. Når ein låntakar får utsett betalinga for ein periode, blir nedbetalingstida til vanleg gjord tilsvarande lengre. Den lengste nedbetalingstida er 30 år.\nUtdanningslånet skal betalast etter annuitetsprinsippet. Terminbeløpa blir fastsette på grunnlag av 20 års nedbetalingstid for lån over 318 000 kr. I særlege tilfelle kan Lånekassen fastsetje terminbeløpa på ein annan måte.\nLånet skal vere nedbetalt innan låntakaren fyller 70 år. For låntakarar over 50 år blir terminbeløpa auka slik at nedbetalingstida blir maksimalt 20 år.\nTerminbeløpet blir justert når rentesatsen blir endra.",
+      "xml_path": "article#kapittel-1-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-paragraf-2",
+      "provision_ref": "§ 16",
+      "heading": "Betalingsplan",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 3. Nedbetaling og terminbeløp"
+      ],
+      "text": "Lånekassen sender ut ein betalingsplan når lånet er gjort renteberande etter § 4.\nEin låntakar som har fått betalingsplan og deretter har fått lån eller stipend til ny utdanning, får ny betalingsplan for den samla gjelda.",
+      "xml_path": "article#kapittel-1-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-3-paragraf-3",
+      "provision_ref": "§ 17",
+      "heading": "Ekstra innbetaling",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 3. Nedbetaling og terminbeløp"
+      ],
+      "text": "Låntakarar som har flytande rente, kan innfri gjelda eller betale ned raskare og med større beløp enn det som er fastsett i betalingsplanen, utan ekstra kostnader.\nFor låntakarar som har fast rente etter § 8, vil ekstra innbetaling i avtaleperioden føre til at det blir rekna rentetap eller rentegevinst etter § 10 og § 11.\nEkstra innbetalingar kan berre refunderast i særlege tilfelle.",
+      "xml_path": "article#kapittel-1-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "Betaling av rekning",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 4. Rekning og gebyr"
+      ],
+      "text": "Utdanningsgjelda skal nedbetalast månadleg.\nLåntakaren får den første rekninga om lag 7 månader etter at lånet er gjort renteberande, sjå § 4.\nEin låntakar som får lån eller stipend til deltidsutdanning og allereie har ein betalingsplan for lån, skal betale etter denne planen. Når låntakaren ikkje lenger får lån eller stipend, får låntakaren ny betalingsplan for heile gjelda. Låntakaren får ikkje nokon betalingspause som nemnd i andre leddet.\nTerminbeløpet skal betalast sjølv om låntakaren ikkje har fått rekninga.",
+      "xml_path": "article#kapittel-1-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "Gebyr ved rekning på papir og ved purring",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 4. Rekning og gebyr"
+      ],
+      "text": "Det blir lagt til eit gebyr på 18 kr for låntakarar som får rekning på papir. Låntakarar som ikkje kan bruke elektronisk varsling på grunn av dokumentert synshemming, slepp dette gebyret.\nVed den første purringa blir det lagt til eit gebyr på 280 kr.\nVed den andre purringa blir eit gebyr på 490 kr lagt til det første gebyret. Den andre purringa er eit varsel om oppseiing av heile gjelda.",
+      "xml_path": "article#kapittel-1-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-4-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "Prioriteringsrekkefølgje ved innbetaling og kostnader ved betalinga",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 4. Rekning og gebyr"
+      ],
+      "text": "Ei innbetaling dekkjer, i denne rekkefølgja: eventuelle inkassokostnader, gebyr, renter og lån.\nLåntakaren skal dekkje kostnadene ved betaling av gjelda, til dømes gebyr ved betaling frå utlandet.",
+      "xml_path": "article#kapittel-1-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-1",
+      "provision_ref": "§ 21",
+      "heading": "Følgjer av å ikkje betale etter den andre purringa",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Dersom låntakaren ikkje betaler innan fristen i den andre purringa, gjer Lånekassen vedtak om oppseiing av lånet, slik at heile gjelda forfell til betaling. Innkrevjingsmyndigheita tek over innkrevjinga.\nDet blir rekna renter etter forseinkingsrentelova av hovudstolen og kapitaliserte renter frå oppseiingsdatoen.\nOppseiinga blir oppheva dersom låntakaren betaler eller får betalingsutsetjing for det forfalne beløpet. Når oppseiinga blir oppheva, trekkjer Lånekassen saka tilbake frå Innkrevjingsmyndigheita, og låntakaren får igjen rekningar frå Lånekassen. Forseinkingsrentene vil inngå i den ordinære nedbetalinga av gjelda i Lånekassen.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-2",
+      "provision_ref": "§ 22",
+      "heading": "Avtale om betaling av misleghalden gjeld",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Dersom låntakaren ikkje betaler heile det ubetalte terminbeløpet, kan Innkrevjingsmyndigheita og låntakaren inngå betalingsavtale for det forfalne beløpet.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-3",
+      "provision_ref": "§ 23",
+      "heading": "Tvangsinnkrevjing",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Krav om tilbakebetaling av utdanningsgjeld er tvangsgrunnlag for utlegg. Innkrevjingsmyndigheita krev inn gjelda etter innkrevjingslova.\nDersom dei forfalne terminbeløpa blir betalte, kan innkrevjinga bli stansa.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-4",
+      "provision_ref": "§ 24",
+      "heading": "Låntakarar som bur i utlandet",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Dersom låntakaren er busett i utlandet, kan Innkrevjingsmyndigheita krevje inn gjelda der låntakaren bur. Innkrevjingsmyndigheita kan bruke inkassobyrå, advokat eller rettsapparatet. Innkrevjinga kan bli stansa dersom dei forfalne terminbeløpa blir betalte, sjølv om saka er oversendt til inkassobyrå eller advokat.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-5",
+      "provision_ref": "§ 25",
+      "heading": "Gebyr og kostnader",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Låntakaren kan bli belasta gebyr og kostnader knytte til tilbakebetaling og innkrevjing av gjelda.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-6",
+      "provision_ref": "§ 26",
+      "heading": "Permanent overføring til Innkrevjingsmyndigheita",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Gjelda til låntakaren kan bli permanent overført til Innkrevjingsmyndigheita når ho har vore oppsagd i 3 år.\nEi permanent overføring av gjelda til Innkrevjingsmyndigheita fører til tap av rettar etter denne forskrifta og etter forskrifta om utdanningsstøtte.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-5-paragraf-7",
+      "provision_ref": "§ 27",
+      "heading": "Gjeld som ikkje blir permanent overført til Innkrevjingsmyndigheita",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 5. Misleghald av betalingsplikta"
+      ],
+      "text": "Gjelda blir ikkje permanent overført til Innkrevjingsmyndigheita dersom eitt av desse vilkåra er til stades:Låntakaren har ei frivillig eller tvungen betalingsordning.Låntakaren har betalt inn eit beløp tilsvarande minst 6 terminbeløp dei siste 12 månadene.Låntakaren sannsynleggjer at den noverande situasjonen gir rett til betalingsutsetjing, sletting av renter eller sletting av gjeld.Det finst særlege grunnar til ikkje å overføre gjelda.\nKrav om unntak skal vere grunngitt og sett fram innan den fristen som er oppgitt i varselet om permanent overføring av gjelda til Innkrevjingsmyndigheita. Krav om unntak som kjem etter at gjelda er permanent overført, blir ikkje behandla.",
+      "xml_path": "article#kapittel-1-kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-6-paragraf-2",
+      "provision_ref": "§ 29",
+      "heading": "Gjeldsordning etter gjeldsordningslova",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 6. Lån og stipend i periodar med gjeldsforhandling og gjeldsordning"
+      ],
+      "text": "Låntakarar med økonomiske vanskar kan søkje om gjeldsordning etter gjeldsordningslova. Søknaden skal rettast til Innkrevjingsmyndigheita.",
+      "xml_path": "article#kapittel-1-kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-6-paragraf-3",
+      "provision_ref": "§ 30",
+      "heading": "Lån eller stipend i periodar med gjeldsforhandling og gjeldsordning",
+      "path": [
+        "Del 1. Renter og tilbakebetaling",
+        "Kapittel 6. Lån og stipend i periodar med gjeldsforhandling og gjeldsordning"
+      ],
+      "text": "I gjeldsforhandlingsperioden og i gjeldsordningsperioden kan låntakaren som hovudregel ikkje få nytt lån eller stipend, med mindre dette er avtalt i ordninga. Misleghald kan føre til avslag på søknad om nytt lån eller stipend.",
+      "xml_path": "article#kapittel-1-kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "§ 33",
+      "heading": "Utsetjing med betalinga av terminbeløpet",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 7. Betalingsutsetjing"
+      ],
+      "text": "Utsetjing med betalinga av eit terminbeløp fører til at nedbetalingstida blir 1 månad lengre. Låntakaren kan få utsett betalinga av terminbeløpa opp til 36 gonger for kvart låneforhold, slik at nedbetalingstida blir opp til 3 år lengre. Eit låneforhold varer til lånet er innfridd.\nBetalingsutsetjing kan likevel ikkje gå ut over rammene for nedbetalingstid i kapittel 3.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "§ 34",
+      "heading": "Utsetjing med betalinga av terminbeløpa ved sletting av renter",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 7. Betalingsutsetjing"
+      ],
+      "text": "Ein låntakar som oppfyller krava til sletting av renter, har rett til utsetjing med betalinga av terminbeløpa i den same perioden.\nDersom det er sannsynleg at låntakaren vil få innvilga ein søknad om sletting av renter for ein periode, kan det bli gitt betalingsutsetjing for denne perioden. Dette gjeld sjølv om formues- og inntektsskatten for perioden ikkje er fastsett.\nBetalingsutsetjing kan likevel ikkje gå ut over rammene for nedbetalingstid i kapittel 3.",
+      "xml_path": "article#kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-1",
+      "provision_ref": "§ 35",
+      "heading": "Vilkår for sletting av renter",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Renter blir sletta for ei viss tid dersom låntakaren i den same perioden har inntekt under grensene i § 36 og § 37 og har oppfylt vilkår i § 38 eller § 39.\nFulltidsutdanning kan også gi rett til sletting av renter. Sjå § 40.\nRenter blir sletta på etterskott og for heile månader. Med månad er meint ein periode på 30 dagar.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-2",
+      "provision_ref": "§ 36",
+      "heading": "Krav til eiga inntekt",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Ein låntakar som har hatt ei brutto person- og kapitalinntekt per år som er under ei grense i tabellen nedanfor, kan få sletta rentene for så mange månader som er knytte til inntektsgrensa i tabellen, dersom minst eitt av vilkåra i § 38 eller § 39 var oppfylt desse månadene.Tal på månader med rett til sletting av renterBrutto person- og kapitalinntekt per år20232024202520261384 921 kr403 782 kr421 952 kr438 830 kr2378 566 kr397 116 kr414 986 kr431 585 kr3372 209 kr390 447 kr408 017 kr424 338 kr4365 850 kr383 777 kr401 047 kr417 089 kr5359 494 kr377 109 kr394 079 kr409 842 kr6353 135 kr370 439 kr387 109 kr402 593 kr7346 780 kr363 772 kr380 142 kr395 348 kr8340 423 kr357 104 kr373 174 kr388 101 kr9334 064 kr350 433 kr366 202 kr380 850 kr10327 707 kr343 765 kr359 234 kr373 603 kr11321 348 kr337 094 kr352 263 kr366 354 kr12314 993 kr330 428 kr345 297 kr359 109 kr\nInntektsgrensene i tabellen blir heva med eit fast beløp for kvart barn som låntakaren har forsørgd, til og med det året barnet fyller 16 år. For 2026 blir inntektsgrensa heva med 19 458 kr for kvart barn. For 2025 blir inntektsgrensa heva med 18 710 kr for kvart barn. For 2024 blir inntektsgrensa heva med 17 904 kr for kvart barn. For 2023 blir inntektsgrensa heva med 17 068 kr for kvart barn.\nAvkasting av formuen til barn av låntakaren dersom formuen blir forvalta av statsforvaltaren, blir ikkje rekna med.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-3",
+      "provision_ref": "§ 37",
+      "heading": "Krav til samla inntekt for låntakar og ektefelle, partnar eller sambuar",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Låntakarar som har fått eller adoptert barn, har hatt omsorgsarbeid, har sona i fengsel eller sikringsanstalt eller har vært i fulltidsarbeid med låg inntekt, kan ha rett til sletting av renter dersom dei i tillegg har hatt låg samla hushaldsinntekt. Den samla brutto person- og kapitalinntekta per år for låntakaren og ektefellen, partnaren eller sambuaren med felles barn skal ha vore under grensene i tabellen nedanfor.Samla brutto person- og kapitalinntekt per årTalet på barn20232024202520260630 103660 978690 722718 3511664 265696 814728 171757 2982698 427732 650765 620796 2453732 589768 486803 069835 1924 eller fleire766 751804 322840 518874 139\nInntektsgrensene i tabellen blir heva med eit fast beløp per år for kvart barn som låntakaren har forsørgd, til og med det året barnet fyller 16 år. For 2026 blir inntektsgrensa heva med 38 947 kr for kvart barn. For 2025 blir inntektsgrensa heva med 37 449 kr for kvart barn. For 2024 blir inntektsgrensa heva med 35 836 kr for kvart barn. For 2023 blir inntektsgrensa heva med 34 162 kr for kvart barn.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-4",
+      "provision_ref": "§ 38",
+      "heading": "Andre sosiale og økonomiske vilkår",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Ein låntakar som har hatt ei brutto person- og kapitalinntekt per år under grensene i § 36 medan låntakaren oppfylte eit av krava i bokstavane a–g, har rett til å få sletta renter for heile eller delar av den aktuelle perioden. For rett til å få sletta renter etter bokstav c, d, f eller g, skal samla hushaldsinntekt i tillegg ha vore under grensene i § 37.Sjukdom eller arbeidsløyseLåntakaren var sjuk, registrert arbeidslaus eller mottakar av arbeidsavklaringspengar. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.Førstegongsteneste og utdanning i ForsvaretLåntakaren avtente førstegongsteneste i Noreg eller eit anna EØS-land, eller var elev ved ein militær skole. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.Fødsel eller adopsjonLåntakaren fekk barn og hadde omsorga for barnet etter fødselen. Låntakaren får sletta renter i opp til 12 månader frå fødselen. Låntakarar som adopterte barn under 10 år, får sletta renter etter dei same reglane i opp til 12 månader frå adopsjonsdatoen.OmsorgsarbeidLåntakaren hadde over 3 månader i strekk omsorg for nokon i den nærmaste familien. Dette gjeld uføre, menneske med nedsett funksjonsevne og eldre med stort pleiebehov.Økonomisk stønad etter sosialtenestelovaLåntakaren hadde i over 3 månader i strekk ikkje anna inntekt enn økonomisk stønad etter sosialtenestelova § 18. I slike tilfelle kan renter bli sletta for opp til 36 månader til saman.Fulltidsarbeid med låg brutto inntektLåntakaren hadde i minst 12 månader i strekk fulltidsarbeid og samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr. Låntakaren kan få sletta renter for opp til 36 månader til saman. Frivillig ulønt arbeid gir ikkje rett til sletting av renter.SoningLåntakaren sona i fengsel eller sikringsanstalt i minst 12 månader i strekk og hadde samtidig låg gjennomsnittleg brutto månadsinntekt. Inntektsgrensa for 2026 er 21 306 kr, for 2025 20 487 kr, for 2024 19 605 kr og for 2023 18 689 kr.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-5",
+      "provision_ref": "§ 39",
+      "heading": "Vilkår som gjeld deltidsutdanning, tillitsverv, permisjon frå studiet eller deltaking i Erasmus+",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Låntakarar som har hatt ei brutto person- og kapitalinntekt per år som er under grensene i § 36, har rett til å få sletta renter for heile eller delar av den aktuelle perioden dersom låntakaren i periodenhar bestått deltidsutdanning og dokumenterer å ha hatt rett til lån eller stipend etter forskrift om utdanningsstøttesamtidig hadde tillitsverv på fulltid i ein landsomfattande elev- eller studentorganisasjon eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad. Låntakaren kan i så fall få sletta renter for opp til 12 månader til saman. Det er ein føresetnad at forholdet varte i minst 3 månader samanhengande.har hatt permisjon frå studiet for å forske og får studentstipend frå Forskingsrådetsamtidig deltok i programmet Erasmus+ i minst 3 månader i strekk.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-6",
+      "provision_ref": "§ 40",
+      "heading": "Fulltidsutdanning",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Ein låntakar som har bestått fulltidsutdanning og dokumenterer å ha hatt rett til lån eller stipend etter forskrift om utdanningsstøtte, har rett til å få sletta renter for så lang tid som det kunne ha blitt gitt lån eller stipend. Sletting av renter på dette grunnlaget blir ikkje behovsprøvd mot inntekt.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-7",
+      "provision_ref": "§ 41",
+      "heading": "Krav til dokumentasjon",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "Den som søkjer om sletting av renter, skal dokumentere både inntekta i den aktuelle perioden og at dei andre sosiale og økonomiske vilkåra var oppfylte. Lånekassen hentar opplysningar om brutto person- og kapitalinntekt i Noreg direkte frå Skatteetaten. Låntakaren skal sjølv sende inn dokumentasjon av brutto inntekt per månad, sjå § 38 bokstavane f og g.\nDersom låntakaren dokumenterer at ei trygde- eller pensjonsyting er opptent i ein tidlegare periode enn det året ho blei utbetalt og skattlagd, og krev ei vurdering av søknaden om sletting av renter på dette grunnlaget, skal trygde- eller pensjonsytinga fordelast på dei åra ytinga blei opptent. Den nye årsinntekta skal leggjast til grunn både for å avgjere ein ny søknad om sletting av renter og for ei ny prøving av eventuelle tidlegare vedtak om sletting av renter.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-kapittel-2-paragraf-8",
+      "provision_ref": "§ 42",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Del 2. Betalingsutsetjing og sletting av renter",
+        "Kapittel 8. Sletting av renter"
+      ],
+      "text": "I 2026 er det mogleg å søkje om sletting av renter for perioden frå og med 1. januar 2023. Krav om sletting av renter som gjeld forhold før 1. januar 2023, vil ikkje bli behandla. Det kan gjerast unntak frå søknadsfristen i særlege tilfelle.\nLåntakarar som tek utdanning, må søkje om sletting av renter seinast 3 år etter at utdanninga etter normert tid skulle ha vore ferdig.",
+      "xml_path": "article#kapittel-2-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-1",
+      "provision_ref": "§ 43",
+      "heading": "Sletting av gjeld for låntakarar i Finnmark og Nord-Troms",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakarar kan frå 1. januar 2026 få sletta inntil 60 000 kr per år av utdanningsgjelda ved avslutta utdanning dersom dei har vore busette og yrkesaktive i innsatssona i Finnmark og Nord-Troms i ein oppteningsperiode på 12 månader. Berre gjeld som er knytt til utdanning som er teken kan slettast. Gjeld som er urettmessig motteken skal ikkje slettast, jf. § 76 første ledd.\nInnsatssona tyder her Finnmark og kommunane Lyngen, Storfjord, Kåfjord, Skjervøy, Nordreisa, Kvænangen og Karlsøy i Nord-Troms.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-2",
+      "provision_ref": "§ 44",
+      "heading": "Vilkår for å få sletta gjeld som yrkesaktiv lege i utvalde kommunar",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakarar kan få sletta delar av utdanningsgjelda dersom dei har hatt arbeid som lege i ein oppteningsperiode på 12 månader i desse kommunane:Troms: Gratangen og IbestadNordland: Rødøy, Nesna, Bø, Øksnes, Evenes, Vega, Flakstad, Moskenes og AndøyTrøndelag: Leka, Røyrvik, Høylandet og LierneMøre og Romsdal: Aure.\nOrdninga gjeld òg låntakarar som har hatt arbeid som lege i dei tidlegare kommunane Torsken og Berg i Troms, Tysfjord i Nordland og Fosnes i Trøndelag.\nFrå 1. januar 2025 kan ikkje låntakarar begynne å tene opp rett til gjeldssletting etter føresegna.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-3",
+      "provision_ref": "§ 44a",
+      "heading": "Sletting av gjeld for låntakarar i utvalde distriktskommunar",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakarar kan få sletta inntil 25 000 kr per år av lånesummen ved avslutta utdanning dersom dei har vore busette i ein kommune i sone 5 og 6 i sentralitetsindeksen til SSB i ein oppteningsperiode på 12 månader. Låntakaren skal i tillegg ha vore yrkesaktive i same perioden. Berre gjeld som er knytt til utdanning som er teken kan slettast. Gjeld som er urettmessig motteken skal ikkje slettast, jf. § 76 første ledd.\nOppteningsperioden startar tidlegast frå og med 1. januar 2025.\nOpptening og sletting etter denne føresegna kan ikkje kombinerast med opptening og sletting av gjeld etter § 43, § 44 eller § 50.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-4",
+      "provision_ref": "§ 45",
+      "heading": "Gjeldsgrunnlag for sletting av gjeld",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Berre renteberande lån inngår i gjelda som kan bli sletta etter dette kapittelet.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-5",
+      "provision_ref": "§ 46",
+      "heading": "Vilkår for å bli rekna som yrkesaktiv",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Som yrkesaktiv i oppteningsperioden reknar ein den som gjennom oppteningsperiodenhadde arbeid tilsvarande minst 50 prosent av fulltidsarbeidhadde fulltidsarbeid i minst 6 månader og var registrert som arbeidssøkjar til fulltidsarbeid i resten av periodenhadde omsorg for barn født i 2016 eller seinare eller hadde særleg tyngjande omsorgsplikter i den nærmaste familienhadde studiepermisjon med lønn eller stipend tilsvarande minst 50 prosent av full stilling. Sletting av gjeld etter § 43 og § 50 føreset at lønna blei betalt av ein arbeidsgivar i Finnmark og Nord-Troms.var tilsett i transportsektoren, på skip, på oljeleitingsfartøy eller på faste installasjonar på kontinentalsokkelen og samtidig blei rekna som busett etter § 48arbeidde frå heimekontor uavhengig av den geografiske plasseringa av arbeidsgivar si verksemd.\nDen tida ein låntakar er sjukmeld, blir rekna med i oppteningsperioden.\nI særlege tilfelle kan låntakarar som i ei kort tid har hatt arbeid ein annan stad under opptening av rett til sletting av gjeld etter § 43 og § 50, bli rekna som yrkesaktive.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-6",
+      "provision_ref": "§ 47",
+      "heading": "Låntakarar som ikkje blir rekna som yrkesaktive",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakaren blir ikkje rekna som yrkesaktiv i den aktuelle perioden dersom låntakarenfekk eller kunne fått lån eller stipend frå Lånekassen til fulltidsutdanning, har vore i førstegongsteneste eller i utdanning ved ein militær skolefekk arbeidsavklaringspengar, med mindre låntakaren samtidig har oppfylt vilkår for yrkesaktivitet etter § 46.\nLåntakaren blir ikkje rekna som yrkesaktiv etter § 43 eller § 50 dersom låntakaren var meir enn 50 prosent yrkesaktiv utanfor Finnmark og Nord-Troms og samstundes hadde omsorg for barn født i 2016 eller seinare eller hadde særleg tyngjande omsorgsplikter i den nærmaste familien.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-7",
+      "provision_ref": "§ 48",
+      "heading": "Vilkår for å bli rekna som busett",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakaren blir rekna som busett i oppteningsperioden berre dersom låntakaren gjennom oppteningsperioden hadde både faktisk og folkeregistrert bustad i ein utvald kommune.\nLånekassen kan i særlege tilfelle slette gjeld dersom låntakaren ikkje hadde folkeregistrert adresse i ein utvald kommune i heile oppteningsperioden, men var faktisk busett på staden.\nDersom det skjer endringar i kva for kommunar som er omfatta av § 44a etter at låntakaren har byrja ein oppteningsperiode, kan låntakaren framleis reknast som busett fram til den påbyrja oppteningsperioden er over.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-8",
+      "provision_ref": "§ 49",
+      "heading": "Krav til oppteningsperioden",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Oppteningsperioden er 12 samanhengande månader. Sletting av gjeld skjer etter at oppteningsperioden er ute.\nOppteningsperioden startar den datoen låntakaren blir rekna som yrkesaktiv og som busett. For låntakarar som held fram med å arbeide etter den første oppteningsperioden og framleis blir rekna som busette, blir seinare oppteningsperiodar rekna frå dagen etter at den første oppteningsperioden er ute.\nDersom oppteningsperioden blir avbroten på grunn av førstegongsteneste eller utdanning, kan det gjerast unntak frå kravet om samanhengande oppteningsperiode. Ved avbrot på grunn av utdanning kan det gjerast unntak berre 1 gong og for opp til 1 år.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-9",
+      "provision_ref": "§ 50",
+      "heading": "Sletting av gjeld for lærarar i grunnskolen i Finnmark og Nord-Troms",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Kvalifiserte lærarar i grunnskolen som har vore yrkesaktive i grunnskolen i innsatssona i Finnmark og Nord-Troms, kan få sletta inntil 20 000 kr ekstra per år av lånesummen ved avslutta utdanning. Gjeld blir sletta utan omsyn til bustad.\nMed kvalifiserte lærarar i grunnskolen er meint dei som oppfyller kompetansekrava for tilsetting av undervisningspersonell i grunnskolen etter opplæringslova § 17-3 første ledd og tilhøyrande forskrift.\nLåntakaren skal ha vore yrkesaktiv i undervisningsstilling i grunnskolen i 12 samanhengande månader.\nReglane i kapittelet her gjeld så langt dei passar.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-10",
+      "provision_ref": "§ 51",
+      "heading": "Innbetalingar",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Låntakarar som får sletta gjeld etter § 43, skal ikkje betale avdrag på lånet etter den første oppteningsperioden. Har låntakaren betalt avdrag på lånet etter den første oppteningsperioden, refunderer Lånekassen beløpet berre dersom låntakaren set fram krav om refusjon innan 3 år etter at avdraget er betalt.\nAlle renter og gebyr skal betalast og blir ikkje sletta etter dette kapitlet.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-11",
+      "provision_ref": "§ 52",
+      "heading": "Sletting av gjeld ved misleghalden betalingsplikt",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Når det er sendt varsel om oppseiing av lånet, kan ein søknad om sletting av gjeld ikkje behandlast før det forfalne terminbeløpet er betalt, med mindre det kan gjevast betalingsutsetjing.\nForfalne terminbeløp som skulle ha vore betalte før den første oppteningsperioden er ute, blir ikkje sletta. Det blir gjort unntak dersom låntakaren har rett til betalingsutsetjing.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-1-paragraf-12",
+      "provision_ref": "§ 53",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 9. Sletting av gjeld for låntakarar i utvalde kommunar"
+      ],
+      "text": "Søknad om sletting av gjeld skal sendast inn etter kvar ny oppteningsperiode, med ny dokumentasjon. Søknaden skal vere motteken i Lånekassen seinast 3 månader etter at oppteningsperioden er ute.",
+      "xml_path": "article#kapittel-3-kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-1",
+      "provision_ref": "§ 54",
+      "heading": "Sletting av gjeld etter visse lærarutdanningar",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Låntakarar som har fullført visse lærarutdanningar, kan få sletta opp til 50 000 kr av gjelda. Det går fram av § 55, § 56, § 57 og § 58 kva utdanningar som er omfatta.\nGjeld blir ikkje sletta meir enn 1 gong for kvar lærarutdanning.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-2",
+      "provision_ref": "§ 55",
+      "heading": "Realfag",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:integrert masterprogram i lærarutdanning med spesialisering i realfagtoårig fagdidaktisk masterprogram for lærarar som tek spesialisering i realfagpraktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i biologi, fysikk, geofag, informasjonsteknologi, kjemi, matematikk eller teknologiske fag eller fullført sivilingeniørutdanningpraktisk-pedagogisk utdanning, etter fullført ingeniørutdanning.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-3",
+      "provision_ref": "§ 56",
+      "heading": "Framandspråk",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Ordninga omfattar låntakarar som har fullført ei av desse utdanningane:integrert masterprogram i lærarutdanning med spesialisering i framandspråktoårig fagdidaktisk masterprogram for lærarar som tek spesialisering i framandspråkpraktisk-pedagogisk utdanning, etter fullført mastergrad eller hovudfag i framandspråk.\nNordisk og norsk blir ikkje rekna som framandspråk etter denne ordninga.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-4",
+      "provision_ref": "§ 57",
+      "heading": "Kvensk eller samisk som ein del av utdanninga",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk som ein del av ei av desse utdanningane:samisk grunnskolelærarutdanningsamisk barnehagelærarutdanninggrunnskolelærarutdanninglektorutdanning.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-5",
+      "provision_ref": "§ 58",
+      "heading": "Kvensk eller samisk i tillegg til anna utdanning",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Ordninga omfattar låntakarar som har tatt minst 60 studiepoeng i kvensk eller eit samisk språk i tillegg til ei av desse utdanningane:praktisk-pedagogisk utdanningbarnehagelærarutdanninggrunnskolelærarutdanninglektorutdanninglærarutdanning i praktiske og estetiske fag.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-2-paragraf-6",
+      "provision_ref": "§ 59",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 10. Sletting av gjeld for låntakarar som har fullført visse lærarutdanningar"
+      ],
+      "text": "Søknad om sletting av gjeld skal vere kommen inn til Lånekassen seinast 6 månader etter at låntakaren har teke siste eksamen i den utdanninga som gir grunnlag for sletting av gjeld.\nLånekassen kan gjere unntak frå fristen dersom det er særlege grunnar til at søknadsfristen ikkje kan bli halden.",
+      "xml_path": "article#kapittel-3-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-1",
+      "provision_ref": "§ 60",
+      "heading": "Vilkår for å få sletta gjeld",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 11. Sletting av gjeld for låntakarar som har fullført grunnskolelærarutdanning eller lektorutdanning"
+      ],
+      "text": "Låntakarar kan få sletta delar av utdanningsgjelda dersom dei har fullført grunnskolelærarutdanning for trinn 1–7 eller for trinn 5–10, lærarutdanning i praktiske og estetiske fag for trinn 1–13 eller lektorutdanning for trinn 8–13 på normert tid. Låntakaren skal òg ha vore yrkesaktiv i ei undervisningsstilling i grunnskolen eller i den vidaregåande opplæringa i ei oppteningsperiode etter avslutta utdanning. Ordninga omfattar låntakarar som startar grunnskolelærarutdanning eller lektorutdanning frå og med 2017–2018.\nUtan omsyn til fullføring på normert tid omfattar ordninga òg låntakarar som har fullført grunnskolelærarutdanning for trinn 1–7 eller for trinn 5–10, lærarutdanning i praktiske og estetiske fag for trinn 1–13 eller lektorutdanning for trinn 8–13, og som i oppteningsperioden har arbeidd i grunnskolen eller i den vidaregåande opplæringa i Nordland, Troms eller Finnmark.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-2",
+      "provision_ref": "§ 61",
+      "heading": "Sletting av gjeld",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 11. Sletting av gjeld for låntakarar som har fullført grunnskolelærarutdanning eller lektorutdanning"
+      ],
+      "text": "Gjeld kan slettast med 106 000 kr for låntakarar som har fullført grunnskolelærarutdanning for trinn 1–7 eller lærarutdanning i praktiske og estetiske fag for trinn 1–13 på normert tid.\nGjeld kan slettast med 51 000 kr for låntakarar som har fullført grunnskolelærarutdanning for trinn 5–10 eller lektorutdanning for trinn 8-13 på normert tid.\nGjeld kan slettast med 55 000 kr for låntakarar som har fullført grunnskolelærarutdanning for trinn 1–7 eller for trinn 5–10, lærarutdanning i praktiske og estetiske fag for trinn 1–13 eller lektorutdanning for trinn 8–13, og som i oppteningsperioden har vore yrkesaktiv i ei undervisningsstilling i grunnskolen eller i den vidaregåande skolen i Nordland, Troms eller Finnmark.\nLåntakarar som har rett til sletting av gjeld etter første eller andre ledd kan òg ha rett til sletting av gjeld etter tredje ledd dersom vilkåra for dette er til stades.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-3",
+      "provision_ref": "§ 62",
+      "heading": "Unntak frå kravet om fullføring på normert tid",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 11. Sletting av gjeld for låntakarar som har fullført grunnskolelærarutdanning eller lektorutdanning"
+      ],
+      "text": "Låntakaren kan få sletta gjeld etter § 61 første eller andre ledd sjølv om utdanninga ikkje blei gjennomført på normert tid, dersom årsaka til at låntakaren brukte lengre tid varat låntakaren har nedsett funksjonsevne, og var funksjonshemma i studiesituasjonen fordi læringsmiljøet eller studiesituasjonen ved lærestaden ikkje var tilpassa låntakarens nedsette funksjonsevneat låntakaren har fått barn i utdanningsperiodenat låntakaren blei forseinka på grunn av sjukdomat låntakaren samtidig hadde tillitsverv på fulltid i minst 3 månader i strekk i ein landsomfattande studentorganisasjon, eller i tilknyting til ein utdanningsinstitusjon eller ein studentsamskipnad.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-4",
+      "provision_ref": "§ 63",
+      "heading": "Krav til oppteningsperioden",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 11. Sletting av gjeld for låntakarar som har fullført grunnskolelærarutdanning eller lektorutdanning"
+      ],
+      "text": "Låntakaren skal ha vore yrkesaktiv i ei undervisningsstilling på minst 50 prosent i grunnskolen eller i den vidaregåande opplæringa i minst 3 av dei 6 første åra etter avslutta utdanning.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-3-paragraf-5",
+      "provision_ref": "§ 64",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 11. Sletting av gjeld for låntakarar som har fullført grunnskolelærarutdanning eller lektorutdanning"
+      ],
+      "text": "Søknad om sletting av gjeld skal vere kommen inn til Lånekassen seinast 6 månader etter at oppteningsperioden er ute.",
+      "xml_path": "article#kapittel-3-kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-1",
+      "provision_ref": "§ 65",
+      "heading": "Vilkår for å få sletta gjeld",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 12. Sletting av gjeld for statsborgarar frå utviklingsland, landa på Vest-Balkan, land i Aust-Europa og Sentral-Asia (kvoteordninga)"
+      ],
+      "text": "Låntakarar som har vore tekne opp ved ein høgskule eller eit universitet i Noreg etter vilkåra for kvoteordninga, kan få sletta lånet dei har fått under ordninga når dei reiser tilbake til heimlandet for å busetje seg varig der.\nLåntakarar som ikkje er busette i heimlandet etter avslutta utdanning, kan likevel få sletta gjeld etter første ledd dersom humanitære grunnar som krig, alvorleg uro eller forfølging hindrar busetjing i heimlandet. Låntakaren skal vere busett i eit anna land som har vore omfatta av kvoteordninga.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-2",
+      "provision_ref": "§ 66",
+      "heading": "Tilbakevending til Noreg",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 12. Sletting av gjeld for statsborgarar frå utviklingsland, landa på Vest-Balkan, land i Aust-Europa og Sentral-Asia (kvoteordninga)"
+      ],
+      "text": "Dersom låntakaren vender tilbake til Noreg innan 10 år etter vedtak om sletting av gjeld etter kvoteordninga blei treft, blir vedtaket oppheva.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-4-paragraf-3",
+      "provision_ref": "§ 67",
+      "heading": "Søknadsfrist",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 12. Sletting av gjeld for statsborgarar frå utviklingsland, landa på Vest-Balkan, land i Aust-Europa og Sentral-Asia (kvoteordninga)"
+      ],
+      "text": "Låntakaren kan søke om sletting av gjelda når vilkåra i § 65 er oppfylte. Søknaden skal vere motteken i Lånekassen innan 31. desember 2025.",
+      "xml_path": "article#kapittel-3-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-5-paragraf-1",
+      "provision_ref": "§ 68",
+      "heading": "Rett til sletting av gjeld for låntakarar som får uføretrygd",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 13. Sletting av gjeld for låntakarar som er uføre"
+      ],
+      "text": "Ein låntakar som har minst 50 prosent varig nedsett inntektsevne og får uføretrygd eller ei tilsvarande yting frå ei utanlandsk trygdeordning, kan ha rett til å få sletta gjelda heilt eller delvis dersom brutto person- og kapitalinntekt i 2026 er 595 960 kr eller lågare.\nKravet til varig nedsett inntektsevne er berre 40 prosent dersom låntakaren fekk arbeidsavklaringspengar heilt fram til vedtaket om uføretrygd.\nLåntakaren har rett til å få sletta gjeld etter tabellen nedanfor.Tabell for 2026 over inntektsgrenser, ny gjeld og nytt terminbeløp etter sletting av gjeldBrutto person- og kapitalinntekt per årNy gjeldNytt terminbeløp0–413 313 kr0 kr0 kr413 314–458 838 kr83 531 kr892 kr458 839–502 941 kr97 413 kr1 070 kr502 942–549 481 kr111 498 kr1 262 kr549 482–595 960 kr125 381 kr1 438 kr\nInntektsgrensene i tabellen blir heva med 19 458 kr per år for kvart barn som låntakaren forsørgjer, til og med det året barnet fyller 16 år. Avkasting av formuen til barn av låntakaren dersom formuen blir forvalta av statsforvaltaren, blir ikkje rekna med.\nSøknaden om sletting av gjeld blir behandla etter vilkåra som gjeld i det året Lånekassen får søknaden. Dette gjeld også dersom vedtaket om uføretrygd er frå før søknadsåret.\nLånekassen hentar inn inntektsopplysningar frå Skatteetaten.",
+      "xml_path": "article#kapittel-3-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-kapittel-5-paragraf-2",
+      "provision_ref": "§ 69",
+      "heading": "Oppheving av vedtak om sletting av gjeld når låntakaren får lån eller stipend",
+      "path": [
+        "Del 3. Sletting av gjeld",
+        "Kapittel 13. Sletting av gjeld for låntakarar som er uføre"
+      ],
+      "text": "Dersom låntakaren får lån eller stipend etter forskrift om utdanningsstøtte, blir vedtaket om sletting av gjeld oppheva. Renter som er sletta, blir ikkje lagde til igjen. Er vedtaket om sletting av gjeld gjort for meir enn 10 år sidan, blir det ikkje oppheva.",
+      "xml_path": "article#kapittel-3-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-1",
+      "provision_ref": "§ 70",
+      "heading": "Betalingsvilkår",
+      "path": [
+        "Del 4. Gjeld som er permanent overført til Innkrevjingsmyndigheita",
+        "Kapittel 14. Gjeld som er permanent overført til Innkrevjingsmyndigheita"
+      ],
+      "text": "Krav om tilbakebetaling av utdanningsgjeld som er permanent overført til Innkrevjingsmyndigheita, får lagt til renter etter forseinkingsrentelova.\nEi innbetaling dekkjer, i denne rekkefølgja: inkassokostnader, gebyr, renter og lån.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-kapittel-1-paragraf-2",
+      "provision_ref": "§ 71",
+      "heading": "Myndigheitsutøvinga til Innkrevjingsmyndigheita",
+      "path": [
+        "Del 4. Gjeld som er permanent overført til Innkrevjingsmyndigheita",
+        "Kapittel 14. Gjeld som er permanent overført til Innkrevjingsmyndigheita"
+      ],
+      "text": "Innkrevjingsmyndigheita er kreditor for utdanningsgjeld som er permanent overført frå Lånekassen.\nKrav om tilbakebetaling av utdanningsgjeld er tvangsgrunnlag for utlegg. Innkrevjingsmyndigheita krev inn gjelda etter innkrevjingslova.",
+      "xml_path": "article#kapittel-4-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-1",
+      "provision_ref": "§ 76",
+      "heading": "Følgjer av brot på opplysningsplikta",
+      "path": [
+        "Del 5 Sluttføresegner",
+        "Kapittel 15. Tap av rettar"
+      ],
+      "text": "Dersom ein låntakar med vilje eller aktlaust har brote opplysningsplikta og såleis har fått eller prøvd å få utbetalt eller godskrive lån eller stipend som låntakaren ikkje har rett til, kan låntakaren misse retten til sletting av renter, betalingsutsetjing og sletting av gjeld. Lånekassen kan krevje beløpet tilbakebetalt og rekne renter frå det tidspunktet låntakaren fekk tildelt lån eller stipend. Heile gjelda kan seiast opp og krevjast inn.\nDersom ein låntakar med vilje eller aktlaust har brote opplysningsplikta og såleis har fått sletta renter eller gjeld som låntakaren ikkje har rett til, kan låntakaren misse retten til betalingsutsetjing og sletting av renter og gjeld.\nI vurderinga av misleghaldet skal hovudvekta leggjast på kor lenge misleghaldet har vart, og kor mykje urettkommen lån eller stipend eller sletting av renter eller gjeld låntakaren har fått.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-1-paragraf-2",
+      "provision_ref": "§ 77",
+      "heading": "Følgjer av misleghald av betalingsplikta",
+      "path": [
+        "Del 5 Sluttføresegner",
+        "Kapittel 15. Tap av rettar"
+      ],
+      "text": "Misleghald av betalingsplikta kan føre til avslag på søknad om lån eller stipend til ny utdanning etter forskrift om utdanningsstøtte, og avslag på søknad om betalingsutsetjing, sletting av renter og gjeld.",
+      "xml_path": "article#kapittel-5-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-kapittel-2-paragraf-1",
+      "provision_ref": "§ 78",
+      "heading": "Ikraftsetjing",
+      "path": [
+        "Del 5 Sluttføresegner",
+        "Kapittel 16. Ikraftsetjing"
+      ],
+      "text": "Forskrifta gjeld frå 1. januar 2023.",
+      "xml_path": "article#kapittel-5-kapittel-2-paragraf-1"
+    }
+  ]
+}

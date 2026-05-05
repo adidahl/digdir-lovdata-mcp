@@ -1,0 +1,31 @@
+{
+  "id": "FOR-2023-06-28-1157",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift til lov om beskyttelse av supplerende pensjonsrettigheter for arbeidstakere og selvstendig næringsdrivende som flytter innenfor EØS-området",
+  "department": "Finansdepartementet",
+  "date_in_force": "2023-10-01",
+  "last_change_in_force": "2023-10-01",
+  "last_changed_by": "forskrift/2023-09-29-1541 fra 2023-10-01",
+  "lovdata_refid": "forskrift/2023-06-28-1157",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2023-06-28-1157",
+  "raw_xml_sha256": "5579114b5ca19bb2b083dc335e0d33581929cc74ed74d50cdc9f8fd0796e0689",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Dersom arbeidstakers ansettelsesforhold opphører før arbeidstakeren har opparbeidet rett til pensjonsrettigheter i supplerende pensjonsordninger som nevnt i lov om pensjonsrettigheter innen EØS § 2 nr. 1 og nr. 3 til nr. 5, skal pensjonsleverandøren sørge for at det utstedes et bevis på opptjent pensjon etter ellers gjeldende regler som sikrer arbeidstakeren rett til innbetalinger som arbeidstakeren har gjort selv. Første punktum gjelder uavhengig av hvor lang tjenestetid arbeidstakeren har.\nBestemmelsen gjelder i den utstrekning medlemmet ikke får slike innskudd til pensjonsrettigheter med seg på annen måte.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. oktober 2023.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

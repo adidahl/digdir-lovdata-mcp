@@ -1,0 +1,552 @@
+{
+  "id": "FOR-2010-01-14-39",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fôrhygiene",
+  "short_title": "Forskrift om forhygiene",
+  "department": "Landbruks- og matdepartementetNærings- og fiskeridepartementet",
+  "date_in_force": "2010-03-01",
+  "last_change_in_force": "2016-03-14",
+  "last_changed_by": "forskrift/2016-03-14-240",
+  "lovdata_refid": "forskrift/2010-01-14-39",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-01-14-39",
+  "raw_xml_sha256": "515c85edeceb0ab6c34fe4e178783504c4fd2c4f58a17218d76e5327d5d5e115",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Gjennomføring av forordning (EF) nr. 183/2005",
+      "path": [],
+      "text": "EØS-avtalen vedlegg I kap. II (forordning (EF) nr. 183/2005 som endret ved forordning (EU) nr. 225/2012 og forordning (EU) 2015/1905) gjelder som forskrift med de tilpasninger som følger av vedlegg I kap. II, protokoll I til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Godkjenning av virksomheter som produserer eller markedsfører koksidiostatika og histomonostatika",
+      "path": [],
+      "text": "EØS-avtalens vedlegg I kap. II nr. 1zzzh (forordning (EF) nr. 141/2007) om godkjenningskrav i henhold til forordning (EF) nr. 183/2005 av fôrvirksomheter, som produserer eller markedsfører tilsetningsstoff til bruk i fôrvarer i kategorien koksidiostatika eller histomonostatika gjelder som forskrift med de tilpasninger som følger av vedlegg I kapittel II, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Unntak for små mengder landdyrfôr til lokale mottakere",
+      "path": [],
+      "text": "I henhold til forordning (EF) nr. 183/2005 artikkel 2 nr. 2 bokstav d) kommer ikke bestemmelsene i forordningen til anvendelse på levering av små mengder landdyrfôr fra primærprodusenter til lokale mottakere for bruk på disse driftsenhetene. Med små mengder menes en produksjon per år, som er på inntil 15 tonn. Med lokalt menes en avstand fra fôrvirksomheten til mottaker, som er på inntil 30 km.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Tilsyn og vedtak",
+      "path": [],
+      "text": "Mattilsynet fører tilsyn og kan fatte nødvendige vedtak for gjennomføring av bestemmelsene i denne forskriften.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskrift, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Straff",
+      "path": [],
+      "text": "Forsettlig eller uaktsom overtredelse av denne forskrift eller bestemmelser og vedtak gitt i medhold av denne, er straffbart i henhold til matloven § 28.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft etter nærmere kunngjøring.*",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1",
+      "heading": "Formål",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IFormål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forordning fastsettes det:alminnelige regler for fôrvarehygiene,vilkår og regler som garanterer fôrets sporbarhet,vilkår og regler for registrering og godkjenning av virksomheter.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IFormål, virkeområde og definisjoner"
+      ],
+      "text": "1. Denne forordning får anvendelse på:aktivitetene til de driftsansvarlige for fôrforetak i alle ledd, fra primærproduksjonen og til og med omsetning av fôrvarer,fôringen av dyr bestemt til næringsmiddelproduksjon,import og eksport av fôrvarer fra og til tredjestater.2. Denne forordning får ikke anvendelse på:privat produksjon av fôrvarer i husholdninger til:dyr bestemt til næringsmiddelproduksjon beregnet på konsum i private husholdninger,ogdyr som ikke er bestemt til næringsmiddelproduksjon,fôring av dyr bestemt til næringsmiddelproduksjon beregnet på konsum i private husholdninger eller aktivitetene nevnt i artikkel 1 nr. 2 bokstav c) i europaparlaments- og rådsforordning (EF) nr. 852/2004 av 29. april 2004 om næringsmiddelhygiene,1fôring av dyr som ikke er bestemt til næringsmiddelproduksjon,produsentens direkte levering av små mengder fôrvarer fra primærproduksjonen på lokalt plan til lokale driftsenheter, for bruk på disse driftsenhetene,detaljhandel med fôrvarer til kjæledyr.3. Medlemsstatene kan fastsette regler og retningslinjer for de aktivitetene som er nevnt i nr. 2. Disse nasjonale reglene og retningslinjene skal sikre at målene i denne forordning oppnås.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IFormål, virkeområde og definisjoner"
+      ],
+      "text": "I denne forordning får definisjonene i forordning (EF) nr. 178/2002 anvendelse, med forbehold om følgende særlige definisjoner:«fôrvarehygiene»: de tiltakene og vilkårene som er nødvendige for å bekjempe farer og sikre at en fôrvare egner seg til fôring av dyr med hensyn til dens bruksområde,«driftsansvarlig for et fôrforetak»: den fysiske eller juridiske personen som har ansvar for at kravene i denne forordning overholdes i det fôrforetaket vedkommende driver,«tilsetningsstoffer i fôrvarer»: stoffer eller mikroorganismer som er godkjent i henhold til europaparlaments- og rådsforordning (EF) nr. 1831/2003 av 22. september 2003 om tilsetningsstoffer i fôrvarer,2«virksomhet»: enhver enhet i et fôrforetak,«vedkommende myndighet»: den myndighet i en medlemsstat eller tredjestat som er utpekt til å utføre offentlige kontroller,«primærproduksjon av fôrvarer»: produksjon av landbruksprodukter, herunder særlig dyrking, innhøsting, melking, oppdrett av dyr (før slakting) og fiske, som utelukkende frambringer produkter som ikke gjennomgår noen annen behandling etter innhøstingen, innsamlingen eller fangsten, bortsett fra enkel fysisk behandling.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1",
+      "provision_ref": "a4",
+      "heading": "Alminnelige forpliktelser",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak skal sikre at alle ledd i produksjonen, bearbeidingen og distribusjonen som de har ansvar for, er i samsvar med Fellesskapets regelverk, nasjonal lovgivning som er forenlig med det, og god praksis. De skal særlig sikre at de oppfyller de relevante hygienekravene som er fastsatt i denne forordning.2. Når gårdbrukere fôrer dyr bestemt til næringsmiddelproduksjon, skal de treffe tiltak og innføre framgangsmåter som holder risikoen for biologisk, kjemisk og fysisk forurensing av fôrvarer, dyr og animalske produkter på et så lavt nivå som det med rimelighet er mulig å oppnå.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2",
+      "provision_ref": "a5",
+      "heading": "Særlige krav",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. For aktiviteter knyttet til primærproduksjon av fôrvarer og følgende tilknyttede aktiviteter:transport, lagring og håndtering av råvarer på produksjonsstedet,transport for å levere råvarer fra produksjonsstedet til en virksomhet,blanding av fôrvarer utelukkende for behovene i egen driftsenhet uten bruk av tilsetningsstoffer eller premikser av tilsetningsstoffer, med unntak av ensileringsmidler,skal driftsansvarlige for fôrforetak overholde bestemmelsene i vedlegg I når det er relevant for disse aktivitetene.2. For andre aktiviteter enn dem det vises til i nr. 1, herunder blanding av fôrvarer utelukkende for behovene i egen driftsenhet når det brukes tilsetningsstoffer eller premikser av tilsetningsstoffer, med unntak av ensileringsmidler, skal driftsansvarlige for fôrforetak overholde bestemmelsene i vedlegg II når det er relevant for disse aktivitetene.3. Driftsansvarlige for fôrforetak skal:oppfylle særlige mikrobiologiske kriterier,treffe tiltak eller innføre framgangsmåter som er nødvendige for å nå bestemte mål.Kriteriene og målene nevnt i bokstav a) og b), skal vedtas etter framgangsmåten fastsatt i artikkel 31 nr. 2.4. Driftsansvarlige for fôrforetak kan bruke retningslinjene fastsatt i kapittel III som hjelpemiddel til å overholde sine forpliktelser i henhold til denne forordning.5. Gårdbrukere skal overholde bestemmelsene i vedlegg III når de fôrer dyr bestemt til næringsmiddelproduksjon.6. Driftsansvarlige for fôrforetak og gårdbrukere skal anskaffe og bruke bare fôrvarer fra virksomheter som er registrert og/eller godkjent i henhold til denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3",
+      "provision_ref": "a6",
+      "heading": "System for fareanalyse og kritiske styringspunkter (HACCP)",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak som utfører andre aktiviteter enn dem som er nevnt i artikkel 5 nr. 1, skal innføre, gjennomføre og opprettholde én eller flere permanente skriftlige framgangsmåter som er basert på HACCP-prinsippene.2. Prinsippene nevnt i nr. 1, består av følgende:identifisere alle farer som må forebygges, fjernes eller reduseres til et akseptabelt nivå,identifisere de kritiske styringspunktene på det trinnet eller de trinnene der styring er viktig for å forebygge eller fjerne en fare eller redusere den til et akseptabelt nivå,fastsette kritiske grenser for kritiske styringspunkter som skiller det som kan aksepteres, fra det som ikke kan aksepteres, for å forebygge, fjerne eller redusere identifiserte farer,fastsette og gjennomføre effektive framgangsmåter for overvåkning av kritiske styringspunkter,fastsette korrigerende tiltak når overvåkningen viser at et kritisk styringspunkt ikke er under kontroll,fastsette framgangsmåter for å verifisere at tiltakene som er skissert i bokstav a)–e), er fullstendige og fungerer effektivt. Verifisering skal utføres regelmessig,utstede dokumenter og føre journaler som er tilpasset fôrforetakets art og størrelse, for å vise at tiltakene som er skissert i bokstav a)–f), anvendes effektivt.3. Når det gjøres endringer i produktet, prosessen eller et av trinnene i produksjonen, foredlingen, lagringen og distribusjonen, skal driftsansvarlige for fôrforetak gjennomgå framgangsmåten på nytt og foreta de nødvendige endringer i den.4. Som en del av systemet med framgangsmåter nevnt i nr. 1, kan driftsansvarlige for fôrforetak bruke retningslinjer for god praksis sammen med retningslinjene for anvendelse av HACCP-prinsippene, som er utarbeidet i samsvar med artikkel 20.5. Tiltak for å lette gjennomføringen av denne artikkel, herunder også for små foretak, kan vedtas etter framgangsmåten nevnt i artikkel 31 nr. 2.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-4",
+      "provision_ref": "a7",
+      "heading": "Dokumentasjon om HACCP-systemet",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak skal:framlegge for vedkommende myndighet bevis for at de overholder artikkel 6, på den måten vedkommende myndighet krever,sikre at alle dokumenter som beskriver framgangsmåtene som er utarbeidet i samsvar med denne artikkel, er ajourført til enhver tid.2. Vedkommende myndighet skal ta hensyn til fôrforetakets art og størrelse når den fastsetter kravene på den måten som er angitt i nr. 1 bokstav a).3. Nærmere regler for gjennomføringen av denne artikkel kan fastsettes etter framgangsmåten fastsatt i artikkel 31 nr. 2. Slike regler kan gjøre det lettere for visse driftsansvarlige i fôrforetak å gjennomføre HACCP-prinsippene utarbeidet i samsvar med kapittel III, med hensyn til å oppfylle kravene i artikkel 6 nr. 1.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-5",
+      "provision_ref": "a8",
+      "heading": "Finansielle garantier",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. For å legge til rette for et effektivt system med finansielle garantier for driftsansvarlige for fôrforetak skal Kommisjonen innen 8. februar 2006 framlegge for Europaparlamentet og Rådet en rapport om finansielle garantier i fôrvaresektoren. I tillegg til å undersøke de eksisterende nasjonale lovbestemmelsene, systemene og praksis med hensyn til erstatningsansvar i fôrvaresektoren og beslektede sektorer, skal rapporten eventuelt ledsages av forslag til regelverk for en slik praktisk gjennomførbar garantiordning på fellesskapsplan. Disse garantiene bør dekke de samlede kostnadene som driftsansvarlige kan holdes ansvarlige for som en direkte følge av tilbaketrekking fra markedet, behandling og/eller tilintetgjøring av fôrvarer, dyr og næringsmidler som er produsert av fôrvarer eller dyr.2. Driftsansvarlige for fôrforetak skal holdes ansvarlige for enhver overtredelse av relevant regelverk for fôrtrygghet, og driftsansvarlige som definert i artikkel 5 nr. 2 skal dokumentere at de omfattes av de finansielle garantiene som kreves i henhold til Fellesskapets lovgivningsmessige tiltak nevnt i nr. 1.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-6",
+      "provision_ref": "a9",
+      "heading": "Offentlig kontroll, underretning og registrering",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak skal samarbeide med vedkommende myndigheter i samsvar med gjeldende fellesskapsregelverk og nasjonal lovgivning som er forenlig med det.2. Driftsansvarlige for fôrforetak skal:med henblikk på registrering, underrette den relevante vedkommende myndighet, på den måten vedkommende myndighet krever, om alle virksomheter som de har ansvar for, og som utfører noen av leddene i produksjonen, bearbeidingen, lagringen, transporten eller distribusjonen av fôrvarer,gi vedkommende myndighet ajourførte opplysninger om alle virksomheter som de har ansvar for, som nevnt i bokstav a), særlig ved å underrette vedkommende myndighet om enhver vesentlig endring i aktivitetene og enhver nedleggelse av en eksisterende virksomhet.3. Vedkommende myndighet skal føre ett eller flere registre over virksomheter.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-7",
+      "provision_ref": "a10",
+      "heading": "Godkjenning av fôrforetakets virksomheter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Driftsansvarlige for fôrforetak skal sikre at virksomheter som de har ansvar for, og som omfattes av denne forordning, er godkjent av vedkommende myndighet når:slike virksomheter utfører én av følgende aktiviteter:produksjon og/eller omsetning av tilsetningsstoffer i fôrvarer som omfattes av forordning (EF) nr. 1831/2003, eller produkter som omfattes av direktiv 82/471/EØF, og som er nevnt i kapittel 1 i vedlegg IV til denne forordning,produksjon og/eller omsetning av premikser som er tilberedt med de tilsetningsstoffene i fôrvarer som er nevnt i kapittel 2 i vedlegg IV til denne forordning,produksjon for omsetning eller produksjon utelukkende for behovene i egen driftsenhet av fôrblandinger med tilsetningsstoffer eller premikser som inneholder tilsetningsstoffer, og som er nevnt i kapittel 3 i vedlegg IV til denne forordning,godkjenning kreves i henhold til nasjonal lovgivning i den medlemsstaten der virksomheten ligger,ellergodkjenning kreves i henhold til en forordning som er vedtatt etter framgangsmåten fastsatt i artikkel 31 nr. 2.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-8",
+      "provision_ref": "a11",
+      "heading": "Krav",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Driftsansvarlige for fôrforetak skal ikke utføre aktivitet uten å være:registrert som fastsatt i artikkel 9,ellergodkjent når det kreves i samsvar med artikkel 10.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-9",
+      "provision_ref": "a12",
+      "heading": "Opplysninger om nasjonale regler for godkjenning",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Alle medlemsstater som i henhold til artikkel 10 nr. 2 krever at visse virksomheter som ligger på deres territorium, godkjennes, skal underrette Kommisjonen og de andre medlemsstatene om relevant nasjonal lovgivning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-10",
+      "provision_ref": "a13",
+      "heading": "Godkjenning av virksomheter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Vedkommende myndighet skal godkjenne virksomheter bare når et besøk på stedet før noen aktivitet er satt i gang, har vist at virksomheten oppfyller de relevante kravene i denne forordning.2. Vedkommende myndighet kan gi betinget godkjenning dersom det ved besøk på stedet framgår at virksomheten oppfyller alle krav til infrastruktur og utstyr. Den skal gi full godkjenning bare dersom det ved et nytt besøk på stedet innen tre måneder etter at den betingede godkjenningen ble gitt, framgår at virksomheten oppfyller de øvrige kravene nevnt i nr. 1. Dersom det er gjort klare framskritt, men virksomheten fortsatt ikke oppfyller alle disse kravene, kan vedkommende myndighet forlenge den betingede godkjenningen. En betinget godkjenning skal imidlertid ikke gjelde i mer enn sammenlagt seks måneder.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-11",
+      "provision_ref": "a14",
+      "heading": "Midlertidig oppheving av registrering eller godkjenning",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Vedkommende myndighet skal oppheve registreringen eller godkjenningen av en virksomhet midlertidig for én eller flere eller alle aktiviteter dersom det er påvist at virksomheten ikke lenger oppfyller vilkårene som gjelder for disse aktivitetene.\nDenne opphevingen skal vare til virksomheten igjen oppfyller disse vilkårene. Dersom vilkårene ikke er oppfylt innen ett år, får artikkel 15 anvendelse.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-12",
+      "provision_ref": "a15",
+      "heading": "Tilbakekalling av registrering eller godkjenning",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Vedkommende myndighet skal tilbakekalle registreringen eller godkjenningen av en virksomhet for én eller flere av dens aktiviteter dersom:virksomheten innstiller én eller flere av sine aktiviteter,det er påvist at virksomheten ikke har oppfylt vilkårene som gjelder for dens aktiviteter, i et tidsrom på ett år,den finner alvorlige mangler eller må stanse produksjonen på en virksomhet gjentatte ganger, og den driftsansvarlige for fôrforetaket fortsatt ikke kan gi tilstrekkelige garantier for den framtidige produksjonen.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-13",
+      "provision_ref": "a16",
+      "heading": "Endringer av registreringen eller godkjenningen av en virksomhet",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "Vedkommende myndighet skal på anmodning endre registreringen eller godkjenningen av en virksomhet når virksomheten har vist at den har kapasitet til å utvikle aktiviteter som kommer i tillegg til eller erstatter dem som den først ble registrert eller godkjent for.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-14",
+      "provision_ref": "a17",
+      "heading": "Unntak fra kravet om besøk på stedet",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Medlemsstatene er fritatt fra forpliktelsen til å gjennomføre besøk på stedet, som omhandlet i artikkel 13, hos fôrforetak som utelukkende opptrer som forhandlere uten å oppbevare produktene i sitt anlegg.2. Slike fôrforetak skal oversende vedkommende myndighet en erklæring, i en form som vedkommende myndighet bestemmer, om at fôrvarene som de omsetter, oppfyller vilkårene i denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-15",
+      "provision_ref": "a18",
+      "heading": "Overgangstiltak",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. Virksomheter og mellommenn som er godkjent og/eller registrert i samsvar med direktiv 95/69/EF, kan fortsette med sine aktiviteter forutsatt at de innen 1. januar 2006 sender melding om dette til relevant vedkommende myndighet i det området der anleggene ligger.2. Virksomheter og mellommenn som verken krever registrering eller godkjenning i henhold til direktiv 95/69/EF, men som krever registrering i samsvar med denne forordning, kan fortsette med sine aktiviteter forutsatt at de innen 1. januar 2006 sender en søknad om registrering til relevant vedkommende myndighet i det området der anleggene ligger.3. Søkeren skal innen 1. januar 2008 erklære, i en form som vedkommende myndighet bestemmer, at vilkårene fastsatt i denne forordning, er oppfylt.4. Vedkommende myndigheter skal ta hensyn til de eksisterende systemene for innsamling av opplysninger og be melderen eller søkeren om å gi bare tilleggsopplysninger som garanterer at vilkårene i denne forordning overholdes. Vedkommende myndigheter kan særlig betrakte en melding i henhold til artikkel 6 i forordning (EF) nr. 852/2004 som en søknad i henhold til nr. 2.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-16",
+      "provision_ref": "a19",
+      "heading": "Liste over registrerte og godkjente virksomheter",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIForpliktelser"
+      ],
+      "text": "1. For hver aktivitet skal vedkommende myndighet føre opp virksomhetene den har registrert på én eller flere nasjonale lister i samsvar med artikkel 9.2. Virksomheter som er godkjent av vedkommende myndighet i samsvar med artikkel 13, skal føres opp på en nasjonal liste under et individuelt identifikasjonsnummer.3. Medlemsstatene skal ajourføre registrene over virksomheter på listene nevnt i nr. 1 og 2, i samsvar med beslutningene nevnt i artikkel 14, 15 og 16, om midlertidig oppheving, tilbakekalling eller endring av registrering eller godkjenning.4. Listen nevnt i nr. 2, skal opprettes i henhold til modellen i kapittel I i vedlegg V.5. Identifikasjonsnummeret nevnt i nr. 2, skal være i den form som er angitt i kapittel 2 i vedlegg V.6. Kommisjonen skal første gang i november 2007 og deretter senest 30. november hvert år utarbeide og offentliggjøre den delen av medlemsstatenes lister som omfatter virksomhetene nevnt i nr. 2. I den utarbeidede listen skal det tas hensyn til endringene som er gjort i løpet av året.7. Medlemsstatene skal offentliggjøre listene over virksomheter nevnt i nr. 1.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-2-paragraf-16"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-1",
+      "provision_ref": "a20",
+      "heading": "Utarbeiding, formidling og bruk av retningslinjer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIIRetningslinjer for god praksis"
+      ],
+      "text": "1. Medlemsstatene skal legge til rette for at det utarbeides fellesskapsretningslinjer for god praksis i fôrvaresektoren og for anvendelse av HACCP-prinsippene i samsvar med artikkel 22.Når det er nødvendig, skal medlemsstatene legge til rette for at det utarbeides nasjonale retningslinjer i samsvar med artikkel 21.2. Vedkommende myndigheter skal legge til rette for at både nasjonale retningslinjer og fellesskapsretningslinjer formidles og brukes.3. Driftsansvarlige for fôrforetak kan imidlertid bruke disse retningslinjene på frivillig grunnlag.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-2",
+      "provision_ref": "a21",
+      "heading": "Nasjonale retningslinjer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIIRetningslinjer for god praksis"
+      ],
+      "text": "1. Når det utarbeides nasjonale retningslinjer for god praksis, skal de utarbeides og formidles av fôrvaresektoren:i samråd med representanter for de partene hvis interesser blir vesentlig berørt, som vedkommende myndigheter og brukergrupper,med hensyn til relevante regler i Codex Alimentariusognår de gjelder primærproduksjon av fôrvarer, idet det tas hensyn til anbefalingene som er angitt i vedlegg I.2. Medlemsstatene skal vurdere de nasjonale retningslinjene for å sikre at:de er utarbeidet i samsvar med nr. 1,deres innhold er praktisk gjennomførbart i de sektorene de gjelder for,ogde som retningslinjer er egnet til å sikre at artikkel 4, 5 og 6 overholdes i de sektorene og/eller for de fôrvarene de gjelder for.3. Medlemsstatene skal oversende Kommisjonen de nasjonale retningslinjene.4. Kommisjonen skal opprette og føre et register over disse retningslinjene og gjøre det tilgjengelig for medlemsstatene.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-3",
+      "provision_ref": "a22",
+      "heading": "Fellesskapsretningslinjer",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IIIRetningslinjer for god praksis"
+      ],
+      "text": "1. Før det utarbeides fellesskapsretningslinjer for god hygienepraksis eller for anvendelse av HACCP-prinsippene, skal Kommisjonen rådspørre komiteen nevnt i artikkel 31 nr. 1. Formålet med denne rådspørringen skal være å vurdere behovet for slike retningslinjer, deres virkeområde og innhold.2. Når det utformes fellesskapsretningslinjer, skal Kommisjonen sikre at de blir utarbeidet og formidlet:av eller i samråd med aktuelle representanter for de europeiske fõrvaresektorene eller andre berørte parter, for eksempel forbrukergrupper,i samarbeid med de partene hvis interesser blir vesentlig berørt, herunder vedkommende myndigheter.3. Fellesskapsretningslinjene skal utarbeides og formidles med hensyn til:relevante regler i Codex Alimentariusognår retningslinjene gjelder primærproduksjon av fôrvarer, idet det tas hensyn til anbefalingene som er angitt i vedlegg I.4. Komiteen nevnt i artikkel 31 nr. 1, skal vurdere utkast til fellesskapsretningslinjer for å sikre at:de er utarbeidet i samsvar med nr. 2 og 3,deres innhold er praktisk gjennomførbart i de sektorene de gjelder for, i hele Fellesskapet,ogde som retningslinjer er egnet til å sikre at artikkel 4, 5 og 6 overholdes i de sektorene og/eller for de fôrvarene de gjelder for.5. Kommisjonen skal oppfordre komiteen nevnt i artikkel 31 nr. 1, til regelmessig å gjennomgå på nytt alle fellesskapsretningslinjer som er utarbeidet i henhold til denne artikkel, i samarbeid med organene nevnt i nr. 2 i denne artikkel. Formålet med denne gjennomgåelsen skal være å sikre at retningslinjene forblir praktisk gjennomførbare, og å ta hensyn til den teknologiske og vitenskapelige utvikling.6. Titler på og henvisninger til fellesskapsretningslinjene som er utformet i samsvar med denne artikkel, skal offentliggjøres i C-serien av Den europeiske unions tidende.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1",
+      "provision_ref": "a23",
+      "heading": "Import",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IVImport og eksport"
+      ],
+      "text": "1. Driftsansvarlige for fôrforetak som importerer fôrvarer fra tredjestater, skal sikre at import finner sted bare i samsvar med følgende vilkår:avsendertredjestaten er oppført på en liste som er utarbeidet i samsvar med artikkel 48 i forordning (EF) nr. 882/2004, over tredjestater som det er tillatt å importere fôrvarer fra,avsendervirksomheten er oppført på en liste som er utarbeidet og ajourført av tredjestaten i samsvar med artikkel 48 i forordning (EF) nr. 882/2004, over virksomheter som det er tillatt å importere fôrvarer fra,fôrvarene er produsert av avsendervirksomheten eller av en annen virksomhet som er oppført på listen nevnt i bokstav b) eller i Fellesskapet,ogfôrvarene oppfyller:kravene i denne forordning og i andre deler av Fellesskapets regelverk der det er fastsatt regler for fôrvarer,ellerde vilkår som Fellesskapet anerkjenner å være minst likeverdige,ellerdersom det foreligger en særlig avtale mellom Fellesskapet og eksportstaten, de kravene som den inneholder.2. En modell for et importsertifikat kan vedtas etter framgangsmåten nevnt i artikkel 31 nr. 2.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2",
+      "provision_ref": "a24",
+      "heading": "Midlertidige tiltak",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IVImport og eksport"
+      ],
+      "text": "Som unntak fra artikkel 33 og i påvente av at listene fastsatt i artikkel 23 nr. 1 bokstav a) og b), utarbeides, skal import fortsatt godkjennes på vilkårene fastsatt i artikkel 6 i direktiv 98/51/EF.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-3",
+      "provision_ref": "a25",
+      "heading": "Eksport",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel IVImport og eksport"
+      ],
+      "text": "Fôrvarer, herunder fôrvarer til dyr som ikke er bestemt til næringsmiddelproduksjon, som produseres i Fellesskapet for omsetning i tredjestater, skal oppfylle bestemmelsene i artikkel 12 i forordning (EF) nr. 178/2002.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-1",
+      "provision_ref": "a26",
+      "heading": "Gjennomføringstiltak",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Det kan fastsettes gjennomføringstiltak etter framgangsmåten fastsatt i artikkel 31 nr. 2.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-2",
+      "provision_ref": "a27",
+      "heading": "Endringer i vedlegg I, II, og III",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Vedlegg I, II og III kan endres etter framgangsmåten fastsatt i artikkel 31 nr. 2, samtidig som det tas hensyn til:utviklingen av regler for god praksis,erfaringene fra gjennomføringen av HACCP-baserte systemer i henhold til artikkel 6,den teknologiske utviklingen,vitenskapelige råd, særlig nye risikovurderinger,fastsettelse av mål for fôrtrygghet,ogutarbeiding av krav knyttet til særlige aktiviteter.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-3",
+      "provision_ref": "a28",
+      "heading": "Unntak fra vedlegg I, II, og III",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Av særlige grunner kan det gis unntak fra vedlegg I, II og III etter framgangsmåten fastsatt i artikkel 31 nr. 2, forutsatt at disse unntakene ikke er til hinder for å oppnå målene i denne forordning.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-4",
+      "provision_ref": "a29",
+      "heading": "Hurtigvarslingssystem",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Dersom en fôrvare, herunder fôrvarer til dyr som ikke er bestemt til næringsmiddelproduksjon, utgjør en alvorlig risiko for menneskers eller dyrs helse eller for miljøet, skal artikkel 50 i forordning (EF) nr. 178/2002 gjelde tilsvarende.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-5",
+      "provision_ref": "a30",
+      "heading": "Sanksjoner",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Medlemsstatene skal fastsette en sanksjonsordning som gjelder ved overtredelse av denne forordning og skal treffe de tiltak som er nødvendige for å sikre at slike sanksjoner iverksettes. Sanksjonene som fastsettes, skal være effektive, stå i forhold til overtredelsen og ha en avskrekkende virkning. Medlemsstatene skal underrette Kommisjonen om denne ordningen innen 8. februar 2007, og skal snarest mulig underrette den om alle senere endringer.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-6",
+      "provision_ref": "a31",
+      "heading": "Komitéframgangsmåte",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "1. Kommisjonen skal bistås av Den faste komité for næringsmiddelkjeden og dyrehelsen nedsatt ved forordning (EF) nr. 178/2002 (heretter kalt «komiteen»).2. Når det vises til dette nummer, får artikkel 5 og 7 i beslutning 1999/468/EF anvendelse, samtidig som det tas hensyn til bestemmelsene i beslutningens artikkel 8.Tidsrommet fastsatt i artikkel 5 nr. 6 i beslutning 1999/468/EF skal være tre måneder.3. Komiteen fastsetter sin forretningsorden.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-7",
+      "provision_ref": "a32",
+      "heading": "Samråd med Den europeiske myndighet for næringsmiddeltrygghet",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Kommisjonen skal rådspørre Den europeiske myndighet for næringsmiddeltrygghet i saker som hører inn under denne forordnings virkeområde, og som kan få betydelig innvirkning på folkehelsen, særlig før den foreslår kriterier, krav eller mål i samsvar med artikkel 5 nr. 3.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-8",
+      "provision_ref": "a33",
+      "heading": "Oppheving",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Følgende direktiver oppheves med virkning fra 1. januar 2006, uten at det berører medlemsstatenes forpliktelser med hensyn til frister for innarbeiding:rådsdirektiv 95/69/EF,kommisjonsdirektiv 98/51/EF.",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-9",
+      "provision_ref": "a34",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Forordninger",
+        "Konsolidert forordning (EF) nr. 183/2005",
+        "EUROPAPARLAMENTS- OG RÅDSFORORDNING (EF) nr. 183/2005av 12. januar 2005om fastsettelse av krav til fôrvarehygiene",
+        "Kapittel VSluttbestemmelser"
+      ],
+      "text": "Denne forordning trer i kraft den dag den kunngjøres i Den europeiske unions tidende.\nDen får anvendelse fra 1. januar 2006.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Strasbourg, 12. januar 2005.\nFor EuropaparlamentetFor RådetJ.P. BORRELL FONTELLESN. SCHMITPresidentFormann",
+      "xml_path": "article#kapittel-1-kapittel-1-kapittel-1-kapittel-5-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "provision_ref": "a1#kapittel-1-kapittel-2-kapittel-1-paragraf-1",
+      "heading": "Artikkel 1",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 141/2007",
+        "KOMMISJONSFORORDNING (EF) nr. 141/2007av 14. februar 2007om krav om godkjenning i samsvar med europaparlaments- og rådsforordning (EF) nr. 183/2005 for fôrforetak som framstiller eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika»"
+      ],
+      "text": "Driftsansvarlige for fôrforetak skal sikre at foretak som er under deres kontroll og som omfattes av forordning (EF) nr. 183/2005, godkjennes av vedkommende myndighet, dersom nevnte foretak framstiller og/eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika». Godkjenningen skal gjennomføres i samsvar med forordning (EF) nr. 183/2005.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "provision_ref": "a2#kapittel-1-kapittel-2-kapittel-1-paragraf-2",
+      "heading": "Artikkel 2",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 141/2007",
+        "KOMMISJONSFORORDNING (EF) nr. 141/2007av 14. februar 2007om krav om godkjenning i samsvar med europaparlaments- og rådsforordning (EF) nr. 183/2005 for fôrforetak som framstiller eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika»"
+      ],
+      "text": "Foretak som framstiller og/eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika», og som på ikrafttredelsesdatoen for denne forordning i henhold til nasjonal lovgivning ikke trenger godkjenning for denne kategorien av tilsetningsstoffer i fôrvarer, kan fortsette sin virksomhet inntil det er vedtatt en beslutning om søknaden om godkjenning, forutsatt at de inngir søknaden til vedkommende myndighet på foretakets etableringssted innen 7. juni 2007.",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "provision_ref": "a3#kapittel-1-kapittel-2-kapittel-1-paragraf-3",
+      "heading": "Artikkel 3",
+      "path": [
+        "Forordninger",
+        "Forordning (EF) nr. 141/2007",
+        "KOMMISJONSFORORDNING (EF) nr. 141/2007av 14. februar 2007om krav om godkjenning i samsvar med europaparlaments- og rådsforordning (EF) nr. 183/2005 for fôrforetak som framstiller eller markedsfører tilsetningsstoffer i fôrvarer i kategorien «koksidiostatika og histomonostatika»"
+      ],
+      "text": "Denne forordning trer i kraft den 20. dag etter at den er kunngjort i Den europeiske unions tidende.\nDen får anvendelse fra 7. april 2007.\nDenne forordning er bindende i alle deler og kommer direkte til anvendelse i alle medlemsstater.\nUtferdiget i Brussel, 14. februar 2007.\nFor Kommisjonen Markos KYPRIANOU Medlem av Kommisjonen",
+      "xml_path": "article#kapittel-1-kapittel-2-kapittel-1-paragraf-3"
+    }
+  ]
+}

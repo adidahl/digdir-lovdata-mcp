@@ -1,0 +1,31 @@
+{
+  "id": "LOV-2017-12-19-126",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Midlertidig lov om tillegg til merverdiavgiftsloven",
+  "short_title": "Midlertidig lov om tillegg til merverdiavgiftsloven",
+  "department": "Finansdepartementet",
+  "legal_area": "Skatte- og avgiftsrett > Merverdiavgift > Justering og tilbakeføring av inngående merverdiavgift",
+  "date_in_force": "2018-01-01",
+  "lovdata_refid": "lov/2017-12-19-126",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2017-12-19-126",
+  "raw_xml_sha256": "4e7bb7f6988b186c55b0a076f615fc0dc9e7394fb80da29346360c3a562f3dd1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Registrerte virksomheter som blir slettet fra Merverdiavgiftsregisteret fordi de fra 1. januar 2018 ikke lenger anses å drive skogbruk i næring, har ikke plikt til å justere inngående merverdiavgift etter merverdiavgiftsloven kapittel 9 for kapitalvarer som er anskaffet før dette tidspunktet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Loven trer i kraft 1. januar 2018 og opphører å gjelde 31. desember 2027.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

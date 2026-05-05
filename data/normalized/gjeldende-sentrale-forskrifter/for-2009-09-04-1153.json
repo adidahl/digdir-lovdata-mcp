@@ -1,0 +1,37 @@
+{
+  "id": "FOR-2009-09-04-1153",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsreglar ved iverksetjing av lov 19. juni 2009 nr. 76 om endring i tomtefestelova",
+  "short_title": "Forskrift om overgangsreglar til tomtefestelova",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2009-10-01",
+  "lovdata_refid": "forskrift/2009-09-04-1153",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-09-04-1153",
+  "raw_xml_sha256": "44945484835905082dae7c64b98d0b2684f5a123352b57bf87cb51a931e7f10e",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Lov 19. juni 2009 nr. 76 om endring i tomtefestelova § 37 skal gjelde der krav om innløysing vert fremja på grunnlag av at innløysingstida er inne eller festetida er ute 1. oktober 2010 eller seinare.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Ved krav om innløysing når festetida er ute for ei tomt som er festa bort for festaren si livstid, gjeld likevel endringa i § 37 der festaren døyr 1. oktober 2009 eller seinare.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Forskrifta gjeld frå 1. oktober 2009.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

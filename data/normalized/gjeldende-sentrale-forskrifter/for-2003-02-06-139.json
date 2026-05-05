@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2003-02-06-139",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om unntak fra registreringsplikt for ihendehaverobligasjoner.",
+  "short_title": "Unntak fra registrering av ihendehaveroblig.",
+  "department": "Finansdepartementet",
+  "date_in_force": "2003-02-06",
+  "last_change_in_force": "2007-11-01",
+  "last_changed_by": "forskrift/2007-06-29-876 fra 2007-11-01",
+  "lovdata_refid": "forskrift/2003-02-06-139",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2003-02-06-139",
+  "raw_xml_sha256": "7f18d1db48c4526da8f204346c24e25f2979790cbe44fcb67daece161f72a52f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Alle norske ihendehaverobligasjoner skal være innført i et verdipapirregister med unntak av ihendehaverobligasjoner utstedt av norske utstedere utenfor Norge pålydende norske kroner forbeholdt utlendinger. Registreringsplikten gjelder heller ikke ihendehaverobligasjoner utstedt av norske foretak utenfor Norge i fremmed valuta.\nFørste ledd er ikke til hinder for at verdipapirforetak med tillatelse etter lov 29. juni 2007 nr. 75 om verdipapirhandel § 9-1 yter investeringstjenester som nevnt i samme lov § 2-1 i forbindelse med slike lån unntatt fra registreringsplikten.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

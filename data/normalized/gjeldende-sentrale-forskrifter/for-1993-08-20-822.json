@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1993-08-20-822",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om stenging av område i Barentshavet for fiske med torsketrål og snurrevad.",
+  "short_title": "Forskrift om stenging av område i Barentshavet",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "1993-08-20",
+  "last_change_in_force": "1993-11-29",
+  "last_changed_by": "forskrift/1993-11-29-1070",
+  "lovdata_refid": "forskrift/1993-08-20-822",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-08-20-822",
+  "raw_xml_sha256": "390fbb28867f6531a6a9d2546dcfec7090a898ee78a8b6d88a2d3d5b2bfde8b1",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det er forbudt å fiske med torsketrål og snurrevad i et område i Barentshavet avgrenset av rette linjer mellom følgende posisjoner:N 73° 33' E 35° 40'N 73° 33' E 38° 00'N 72° 49' E 38° 24'\nFra posisjon nr. 3 langs yttergrensen av Norges økonomiske sone til posisjon nr. 1.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Denne forskrift trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

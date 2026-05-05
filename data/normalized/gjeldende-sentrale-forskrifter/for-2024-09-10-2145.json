@@ -1,0 +1,73 @@
+{
+  "id": "FOR-2024-09-10-2145",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om reserverte områder for fleksibel bruk av luftrommet",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2024-09-10",
+  "last_change_in_force": "2025-06-12",
+  "last_changed_by": "forskrift/2025-06-10-990 fra 2025-06-12",
+  "lovdata_refid": "forskrift/2024-09-10-2145",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-09-10-2145",
+  "raw_xml_sha256": "7ddc9f2067323906f4ff10c207933b84c7c655fe50d27aa361b05aafb29300a9",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å fastsette og regulere bruken av områder i luftrommet som midlertidig kan reserveres for særskilte luftromsbrukere i samsvar med prinsippene for fleksibel bruk av luftrommet og fastsatte prosedyrer (reserverte områder), jf. kommisjonsforordning (EF) nr. 2150/2005 artikkel 4, som gjennomført i forskrift 14. desember 2021 nr. 3530 om luftromsorganisering § 27.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Utstrekning og bruk av de reserverte områdene",
+      "path": [],
+      "text": "De reserverte områdenes horisontale utstrekning er begrenset av rette linjer mellom koordinater oppgitt i grader, minutter og sekunder i WGS84 som angitt i vedlegg 1 til forskriften.\nDe reserverte områdenes vertikale utstrekning går fra bakken eller vannet og opp til flygenivå 660.\nDe reserverte områdene skal bare aktiveres og brukes i samsvar med «Procedure on Use of AMC Manageable Areas, Edition 8.0, 12.06.2025» med tilhørende vedlegg 1 til 4.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Luftromsrestriksjoner",
+      "path": [],
+      "text": "All flyging i de reserverte områdene, innenfor norsk område, er forbudt for andre enn de særskilte luftromsbrukerne områdene er reservert for, når områdene er aktiverte. De særskilte luftromsbrukerne områdene er reservert for har likevel anledning til å gi andre tillatelse til å fly i de reserverte områdene. Slik tillatelse kan også gis av utpekt yter av flygekontrolltjenester.\nForbudet etter første ledd gjelder all luftfart inkludert ubemannet luftfartøy og modellfly, men ikke flyginger etter Avtalen om det åpne luftrom. Forbudet gjelder også i reserverte områder utenfor norsk område for norske luftfartøyer.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Utvidet bruk av de reserverte områdene",
+      "path": [],
+      "text": "Luftfartstilsynet kan etter særskilt søknad gi unntak fra begrensningene i § 2 tredje ledd, basert på en vurdering av innvirkningen på andre aktører i luftfarten.\nVed akutte eller uavklarte militære situasjoner kan Forsvaret fravike begrensningene i bruken av de reserverte områdene som angitt i § 2 tredje ledd, uten slik søknad som nevnt i første ledd. Forsvaret skal i slike tilfeller først ha orientert og konsultert aktuell yter av lufttrafikktjenester, og umiddelbart i etterkant ha gitt Luftfartstilsynet skriftlig varsel.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Publisering",
+      "path": [],
+      "text": "Den felles sivil-militære enheten for styring av luftrommet (AMC)1 er ansvarlig for at enhver planlagt bruk av reserverte områder etter denne forskriften blir publisert på NOTAM, og for at kontaktinformasjon for luftromsbrukere som kan be om særskilt adgang til områdene fremkommer av enten AIP Norge, NOTAM eller som bestemt av Luftfartstilsynet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Luftfartstilsynet kan gi pålegg om et overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6, for overtredelse av luftromsrestriksjonene i § 3, jf. § 2.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Fra samme tidspunkt oppheves forskrift 4. november 2021 nr. 3149 om opprettelse av reserverte områder for fleksibel bruk av luftrommet i Sør-Norge.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

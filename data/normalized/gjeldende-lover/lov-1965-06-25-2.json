@@ -1,0 +1,46 @@
+{
+  "id": "LOV-1965-06-25-2",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om adgang til regulering av penge- og kredittforholdene [kredittloven]",
+  "short_title": "Kredittloven – pkrregll",
+  "department": "Finansdepartementet",
+  "legal_area": "Bank, finans og regnskapsrett > Banker Bank, finans og regnskapsrett > Obligasjoner",
+  "date_in_force": "1965-07-01",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "lov/2019-03-15-6 fra 2020-01-01",
+  "lovdata_refid": "lov/1965-06-25-2",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1965-06-25-2",
+  "raw_xml_sha256": "23a05e1292f965297dfc5ba57192d61ba0f0996192340fcee9b40d81d09b4452",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 15",
+      "path": [
+        "Kapittel 5. Om renteregulering og emisjonskontroll."
+      ],
+      "text": "Kongen kan ved forskrift bestemme at lån mot utstedelse av ihendehaverobligasjoner eller obligasjoner registrert i en verdipapirsentral eller lån som ellers gis av flere långivere sammen, ikke skal kunne tas opp uten etter samtykke fra Kongen.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 16",
+      "path": [
+        "Kapittel 6. Om tilsyn, strafferenter og straffebestemmelser."
+      ],
+      "text": "Kongen gir bestemmelser om tilsyn med at de forskrifter som er gitt i medhold av loven overholdes.\nInstitusjonene som omfattes av loven plikter etter anmodning i det enkelte tilfelle eller etter generelle bestemmelser som gis om utøvingen av tilsynet å gi tilsynsmyndigheten de opplysninger som er nødvendige for kontrollen.\nTilsynsmyndigheten skal ha adgang til institusjonenes regnskaper.\nTilsynsmyndighetens tjenestemenn har taushetsplikt overfor uvedkommende om de opplysninger som de blir kjent med i sin virksomhet. Taushetsplikten skal likevel ikke være til hinder for utveksling av informasjon (samordning) som forutsatt i lov om Oppgaveregisteret.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 18",
+      "path": [
+        "Kapittel 6. Om tilsyn, strafferenter og straffebestemmelser."
+      ],
+      "text": "Den som forsettlig eller aktløst overtrer bestemmelser som er gitt i medhold av §§ 11 og 13-15, straffes med bøter.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    }
+  ]
+}

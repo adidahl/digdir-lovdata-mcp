@@ -1,0 +1,74 @@
+{
+  "id": "FOR-2007-06-29-742",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om genetisk masseundersøkelse av nyfødte",
+  "short_title": "Forskrift om genetisk masseundersøkelse",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2007-06-29",
+  "last_change_in_force": "2025-01-07",
+  "last_changed_by": "forskrift/2024-06-25-1223 fra 2025-01-07",
+  "lovdata_refid": "forskrift/2007-06-29-742",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2007-06-29-742",
+  "raw_xml_sha256": "c3887868e6c6e894f787e7532236c3bf9d049240d6c7b714010c1bf09189aa27",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å legge til rette for en faglig forsvarlig gjennomføring av genetisk masseundersøkelse av nyfødte for alvorlig arvelige sykdommer. Formålet er også å legge til rette for overvåking og kvalitetssikring av helsehjelpen som gis for disse sykdommene.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Genetisk masseundersøkelse av nyfødte",
+      "path": [],
+      "text": "Alle nyfødte skal tilbys undersøkelse for følgende sykdommer:Fenylketonuri (PKU)Medfødt hypotyreose (CH)Propionsyreemi (PA)Metylmalonsyreemi (MMA)Isolvaleriansyreemi (IVA)Holokarboksylase syntasedefekt (HCS/MCD)Biotinidasedefekt (BIOT)Beta-ketothiolasedefekt (BKT)Glutarsyreuri type 1 (GA1)Mellomkjedet acyl-CoA-dehydrogenasedefekt (MCAD)Langkjedet 3-hydroksyacyl-CoA-dehydrogenasedefekt (LCHAD)Trifunksjonelt proteindefekt (TFP)Meget langkjedet acyl-CoA-dehydrogenasedefekt (VLCAD)Karnitin-transporterdefekt (CTD)Karnitin-palmitoyltransferase I-defekt (CTP IA)Karnitin-palmitoyltransferase II-defekt (CTP II)Karnitin acylkarnitin-translokasedefekt (CACT)Glutarsyreuri type 2 (GA2)Maple Syrup Urine Defekt (MSUD)Homocystinuri/Hypermetioninemi (HCU/MET)Tyrosinemi type 1 (TYR I)Medfødt binyrebarkhyperplasi (CAH)Cystisk fibrose (CF)Alvorlig kombinert immunsvikt (SCID) og andre alvorlige T-celle defekter3-OH 3-metylglutaryl-CoA lyasedefekt (HMG)spinal muskelatrofi (SMA)metakromatisk leukodystrofi (MLD)remetyleringsdefekterdistale ureasyklusdefekterhemoglobinopatien sigdcellesykdommer.\nUndersøkelsene kan gjennomføres uten hensyn til bioteknologilovens krav om skriftlig samtykke, jf. § 5-4, genetisk veiledning før, under og etter undersøkelsen, jf. § 5-5 og godkjenning av virksomheten, jf. § 7-1.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Oppbevaring og bruk av blodprøvene",
+      "path": [],
+      "text": "Blodprøvene fra masseundersøkelsen lagres i en diagnostisk biobank, jf. behandlingsbiobankloven § 2 første ledd. Prøvene kan brukes til helsehjelp, kvalitetskontroll og metodeutvikling.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Behandling av helseopplysninger",
+      "path": [],
+      "text": "Etter samtykke kan det behandles helseopplysninger som er relevante og nødvendige for en faglig forsvarlig gjennomføring av masseundersøkelsen og opplysninger som er relevante og nødvendige for å overvåke og kontrollere kvaliteten på helsehjelpen som gis for sykdommene i masseundersøkelsen.\nFølgende opplysninger kan behandles:Kontaktopplysninger om mor:fødselsnummernavnadressetelefonnummerOpplysninger om barnet:tidspunkt for fødselgestasjonsalder (varighet av svangerskapet)kjønnfødselsvektfødestedfødselsnummerMedisinske opplysninger:tidspunkt for prøvetakingtilleggsopplysninger for flerfødsler/TPN/Transfundertrekvirentkodemedikamentbruk eller andre forhold som kan påvirke analysenenye prøveranalyseresultathelsehjelp ved positive og falske negative funn.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Dataansvarlig",
+      "path": [],
+      "text": "Oslo universitetssykehus HF er dataansvarlig for behandling av helseopplysninger etter denne forskriften.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Forholdet til pasient- og brukerrettighetsloven",
+      "path": [],
+      "text": "Pasient- og brukerrettighetsloven gjelder ved genetisk masseundersøkelse av nyfødte, blant annet kapittel 3 om rett til medvirkning og informasjon og kapittel 4 om samtykke til helsehjelp.\nFor behandlingen av helseopplysningene gjelder helseregisterloven § 15 om samtykkekompetanse.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

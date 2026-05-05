@@ -1,0 +1,31 @@
+{
+  "id": "LOV-2005-12-21-129",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om oppløsning av stamhuset Ekeberg",
+  "short_title": "Lov om oppløsning av stamhuset Ekeberg",
+  "department": "Nærings- og fiskeridepartementet",
+  "legal_area": "Familie-, person- og barnerett > Arv",
+  "date_in_force": "2006-01-01",
+  "lovdata_refid": "lov/2005-12-21-129",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2005-12-21-129",
+  "raw_xml_sha256": "576bd1a13e2c8adeea9a6c2e23af6fe8e756f12ed5148ffc9e2b22b8a037d0ed",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "De eiendeler som tilhører stamhuset Ekeberg, skal gå over til å bli stamhusbesitterens frie eiendom.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Loven gjelder fra den tid1 Kongen bestemmer.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

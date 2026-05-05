@@ -1,0 +1,83 @@
+{
+  "id": "LOV-2000-01-21-7",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om kornforvaltning m.v.",
+  "short_title": "Kornforvaltningsloven",
+  "department": "Landbruks- og matdepartementet",
+  "legal_area": "Landbruk, jakt og skogbruk > Landbruk. Dyrehold Næringsrett > Inn- og utførsel",
+  "date_in_force": "2000-07-01",
+  "last_change_in_force": "2015-10-01",
+  "last_changed_by": "lov/2015-06-19-65 fra 2015-10-01",
+  "lovdata_refid": "lov/2000-01-21-7",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2000-01-21-7",
+  "raw_xml_sha256": "ebc131b9ec0d5e8c68067cb83ffa7fe9a894fa02856a9bf2fae34b702ccc29ab",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Denne loven har til formål å sikre at omsetningen av korn, mel og kraftfôr skjer på en måte som ivaretar samfunnsmessige behov og bidrar til oppfyllelse av de mål og retningslinjer for slik omsetning som til enhver tid er vedtatt av Stortinget.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Prisutjevningsbeløp kraftfôr",
+      "path": [],
+      "text": "Kongen kan bestemme at det skal svares et prisutjevningsbeløp på omsetning og bruk av kraftfôr eller råvarer som kan anvendes til kraftfôr.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Utførselsavgift",
+      "path": [],
+      "text": "Kongen kan bestemme at det skal oppkreves en avgift ved utførsel av korn, mel og kraftfôr.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Opplysningsplikt",
+      "path": [],
+      "text": "Den som omsetter eller eksporterer varer som omfattes av denne lov, plikter å gi de opplysninger som finnes nødvendig for å gjennomføre de enkelte bestemmelser. Opplysningene skal gis til den myndighet som Kongen utpeker, og plikten omfatter også fremleggelse av forretningsbøker og lignende dokumenter.\nPersoner eller virksomheter som omfattes av første ledd plikter å gi de opplysninger som er nødvendige for å kunne fastslå hvilken sammensetning varene har, og skal om nødvendig stille prøver av varene til rådighet uten vederlag.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Gjennomføringsbestemmelser",
+      "path": [],
+      "text": "Kongen fastsetter størrelsen på prisutjevningsbeløp og avgift som kan innkreves i medhold av denne loven. Kongen kan videre fastsette at det skal betales renter av slike avgiftsbeløp som ikke betales i rett tid. Skyldig prisutjevningsbeløp og utførselsavgift er tvangsgrunnlag for utlegg.\nKongen kan gi nærmere forskrifter om gjennomføringen av denne loven, herunder om innkreving av prisutjevningsbeløp og eksportavgift, opplysningsplikt for de som eksporterer eller omsetter varer som omfattes av loven, og kontroll av disse varene.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Straff",
+      "path": [],
+      "text": "Den som forsettlig eller uaktsomt overtrer bestemmelser gitt i denne loven eller forskrifter gitt i medhold av loven, straffes med bøter, for så vidt forholdet ikke rammes av en strengere straffebestemmelse.\nPå samme måte straffes den som forsettlig eller uaktsomt gir uriktige eller ufullstendige opplysninger eller dokumentasjon.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Loven trer i kraft fra det tidspunkt1 Kongen bestemmer.\nFra samme tid oppheves lov 22. juni 1928 nr. 27 om landets kornforsyning.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Endringer i andre lover",
+      "path": [],
+      "text": "Fra den tid loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#paragraf-9"
+    }
+  ]
+}

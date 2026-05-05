@@ -1,0 +1,66 @@
+{
+  "id": "FOR-2014-10-10-1276",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om krav til bruk av elektronisk brikke i motorvogner over 3 500 kg",
+  "short_title": "Forskrift om elektronisk brikke i motorvogner",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2015-01-01",
+  "last_change_in_force": "2021-09-01",
+  "last_changed_by": "forskrift/2021-03-26-965 fra 2021-09-01",
+  "lovdata_refid": "forskrift/2014-10-10-1276",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2014-10-10-1276",
+  "raw_xml_sha256": "8a488ea9ce57638c552a422742ff5d022b208419395e4c18358da446edeb2ba8",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Krav til bruk av elektronisk brikke",
+      "path": [],
+      "text": "Motorvogner med tillatt totalvekt over 3 500 kg som er registrert på foretak, stat, fylkeskommune eller kommune, eller som på annen måte hovedsakelig benyttes i næringsvirksomhet, skal ved all kjøring på offentlig veg være utstyrt med elektronisk brikke. Med næringsvirksomhet menes en vedvarende virksomhet som er egnet til å gi nettoinntekt.\nPåbudet etter første ledd gjelder ikke traktorer og motorredskaper. Tilsvarende gjelder påbudet ikke kjøretøy som er tilknyttet NATOs militære hovedkvarter, utenlandske NATO-styrker og styrker som er med i Partnerskap for fred, og påbudet gjelder heller ikke kjøretøy tilpasset militært formål som er eid av forsvaret.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Krav til brikke og avtale",
+      "path": [],
+      "text": "Med brikke etter § 1 menes en godkjent innretning i norske trafikantbetalingssystemer, som avleses når motorvognen passerer en bomstasjon eller et annet betalingssnitt på veg. Brikken skal være godkjent for bruk i hele Norge og være tilknyttet norsk eller utenlandsk utsteder av brikken ved gyldig avtale.\nAvtalen og brikken skal være knyttet til den enkelte motorvogn, og motorvognen skal være knyttet til en gyldig avtale. Norsk utsteder av brikker kan fastsette generelle betingelser i avtalevilkårene om avtaleforholdet, avtaleperiode, endring av avtalen og oppsigelse og bestemmelser om brukerens ansvar knyttet til bruken av brikken, betaling av depositum for brikken og betalingsvilkår.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ansvar",
+      "path": [],
+      "text": "Eier av motorvognen etter § 1 er ansvarlig for at motorvognen er utstyrt med elektronisk brikke med gyldig avtale. Dersom fører av motorvognen ikke er den samme som registrert som eier, er føreren solidarisk ansvarlig.\nVed leasing regnes leasingtaker som eieren av motorvognen.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Montering",
+      "path": [],
+      "text": "Brikken skal være montert godt synlig i frontruten på motorvognen og være plassert i samsvar med monteringsinstruksen som følger med brikken.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Politiet, Tolletaten og Statens vegvesen kan ilegge overtredelsesgebyr på kr 8 000 for følgende overtredelser:unnlatt bruk av lesbar elektronisk brikke med en tilhørende gyldig avtale tilknyttet motorvognenbruk av brikke med avtale tilknyttet feil takstgruppe.\nOvertredelsesgebyret kan ilegges eieren, føreren eller leasingtaker etter ansvaret i § 3.\nVed gjentakelse kan det ilegges dobbelt overtredelsesgebyr. Med gjentakelse menes at det for samme kjøretøy tidligere er ilagt et overtredelsesgebyr for overtredelse av første ledd bokstav a eller b. Dobbelt overtredelsesgebyr ilegges bare dersom det har gått mindre enn 2 år etter at den tidligere sanksjonen ble endelig.\nBestemmelsene i forskrift 26. mars 2021 nr. 963 om gebyr for visse overtredelser av vegtrafikklovgivningen § 2, § 4, § 5, § 6 og § 7 gjelder så langt de passer. For gebyrer som ilegges av Tolletaten, utfører Tolletaten myndigheten og oppgavene lagt til politiet og Statens vegvesen etter disse bestemmelsene.\nOvertredelsesgebyr ilegges normalt ikke dersom overtredelsen fremstår som særlig graverende eller av andre særlige grunner bør følges opp ved vanlig straffeprosessuell forfølgning etter vegtrafikkloven § 31 første ledd eller andre straffebud etter straffeloven, og vilkårene for ileggelse av straff ellers er oppfylt.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2015.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2011-03-31-416",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hvilke kostnader som skal inn i et borettslags driftsbudsjett",
+  "short_title": "Forskrift om kostnader i et borettslags driftsbudsjett",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "2012-01-01",
+  "lovdata_refid": "forskrift/2011-03-31-416",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-03-31-416",
+  "raw_xml_sha256": "8f1f601b69bee7ebf2a9211c5801a7085389fca198a66fee28d89c0bb6963753",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Kostnader som skal inn i et borettslags driftsbudsjett",
+      "path": [],
+      "text": "Bygge- og finansieringsplanen til et borettslag skal inneholde et driftsbudsjett, jf. burettslagslova § 2-6 annet ledd. Driftsbudsjettet skal omfatte ett vanlig driftsår, og skal som et minimum inneholde opplysninger om:RentekostnaderAvdragVedlikehold og drift av bygningsmasse og tomtearealEnergi og strømForsikringer og eventuelle sikringsfondKommunale avgifter (eiendomsskatt, feieravgift, vann- og kloakkavgift, renovasjonsavgift m.m.)Felles kabel-tv, telefoni/internettLeie av teknisk anlegg eller installasjonerPersonalkostnader og honorar til tillitsvalgteHonorar til forretningsfører og revisorAvskrivninger på driftsmidler som kan aktiveres (traktor, andre anleggsmaskiner osv.)Andre driftskostnader og forvaltningstjenester, herunder eventuelt festeavgift, og eventuell årskontingent til boligbyggelaget, vaktmestertjenester, vekter, renhold, dugnad og lignende.\nHar borettslaget avdragsfrie lån med angitt avdragsfri periode, skal dette opplyses om i note til driftsbudsjettet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

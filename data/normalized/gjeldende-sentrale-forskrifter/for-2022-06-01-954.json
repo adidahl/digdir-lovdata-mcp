@@ -1,0 +1,96 @@
+{
+  "id": "FOR-2022-06-01-954",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om behandling av opplysninger om natur- og vannskader i Kunnskapsbanken (kunnskapsbankforskriften)",
+  "short_title": "Kunnskapsbankforskriften",
+  "department": "Justis- og beredskapsdepartementet",
+  "date_in_force": "2022-07-01",
+  "lovdata_refid": "forskrift/2022-06-01-954",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-06-01-954",
+  "raw_xml_sha256": "1f5dce6e7aef45432193fede39712e3faa69c6df47c4d1fb9f6318855a366b44",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Virkeområde og definisjoner"
+      ],
+      "text": "Forskriften gjelderbehandling av personopplysninger og andre opplysninger i Kunnskapsbanken,innhenting av personopplysninger og andre opplysninger fra forsikringsselskaper til bruk i Kunnskapsbanken,tilgjengeliggjøring av personopplysninger og andre opplysninger i Kunnskapsbanken.\nForskriften gjelder også for Svalbard.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Virkeområde og definisjoner"
+      ],
+      "text": "I denne forskriften menes medKunnskapsbanken: Direktoratet for samfunnssikkerhet og beredskap sitt datasystem for innhenting, sammenstilling og tilgjengeliggjøring av data om risiko og sårbarhet.API (Application Programming Interface): et verktøy som gjør det mulig å overføre opplysninger fra et datasystem til et annet.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 3",
+      "heading": "Behandling av personopplysninger i Kunnskapsbanken",
+      "path": [
+        "Kapittel 2. Behandling av opplysninger i Kunnskapsbanken"
+      ],
+      "text": "Direktoratet for samfunnssikkerhet og beredskap er behandlingsansvarlig for personopplysningene som behandles i Kunnskapsbanken.\nDirektoratet for samfunnssikkerhet og beredskap kan behandle personopplysninger i Kunnskapsbanken når det er nødvendig for å forebygge og redusere konsekvensene av uønskede hendelser, herunder for å understøtte kommunenes og Longyearbyen lokalstyres arbeid med risiko- og sårbarhetsanalyser etter sivilbeskyttelsesloven § 14.\nDirektoratet for samfunnssikkerhet og beredskap kan innhente personopplysninger fra forsikringsselskaper og Statens naturskadeordning, og sammenstille disse med andre opplysninger fra interne og eksterne datakilder. Direktoratet for samfunnssikkerhet og beredskap kan videre foreta vurderinger, analyser og på annen måte behandle personopplysningene i Kunnskapsbanken.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 4",
+      "heading": "Forsikringsselskaper som plikter å gi opplysninger til Kunnskapsbanken",
+      "path": [
+        "Kapittel 3. Innhenting av opplysninger fra forsikringsselskaper til Kunnskapsbanken"
+      ],
+      "text": "Reglene i dette kapittelet gjelder for forsikringsselskaper som er deltakere i Norsk Naturskadepool (NP) etter forskrift om instruks for Norsk Naturskadepool § 1, og som er gitt tillatelse til å drive skadeforsikring i Fastlands-Norge eller på Svalbard, eller gjennom filial etablert i Fastlands-Norge eller på Svalbard.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 5",
+      "heading": "Innhenting av opplysninger fra forsikringsselskaper",
+      "path": [
+        "Kapittel 3. Innhenting av opplysninger fra forsikringsselskaper til Kunnskapsbanken"
+      ],
+      "text": "Forsikringsselskaper skal utlevere personopplysninger og andre opplysninger om natur- og vannskader til Direktoratet for samfunnssikkerhet og beredskap. Plikten til å utlevere opplysninger om natur- og vannskader gjelder skader som rapporteres til Norsk Naturskadepool, øvrige værrelaterte vannskader, og avbruddstap knyttet til disse. Plikten til å utlevere opplysninger gjelder kun for forsikringsprodukter som det kreves naturskadepremie for.\nForsikringsselskapene skal utlevere opplysninger om natur- og vannskader til Direktoratet for samfunnssikkerhet og beredskap i samsvar med denne tabellen:Krav til opplysning:Krav til format:Beskrivelse av krav:1.Skadenummer eller annen entydig identifikator for skadenTekstUnik verdi for den enkelte skade2.Dato for skadenåååå.mm.dd3.Kommunenummer skadested (på skadetidspunktet)4 sifferFor eksempel 03014.Gateadresse skadested (på skadetidspunktet)TekstGatenavn og nummer (Veien 4B)5.Postnummer skadested (på skadetidspunktet)TekstFor eksempel 00106.Poststed skadested (på skadetidspunktet)TekstFor eksempel Oslo7.Lengdegrad skadestedTekstPosisjoner skal være angitt i desimale grader(DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 10.1234)8.Breddegrad skadestedTekstPosisjoner skal være angitt i desimale grader (DD), med minimum 4 desimaler. Det skal være geografiske koordinater, med WGS84 som datum. Punktum skal benyttes som desimalskilletegn (for eksempel 60.1234)9.Erstatningsbeløp – anslått erstatningHele tall i kronerAnslått skadekostnad fratrukket antatt egenandel10.ForsikringsproduktTekst. Felles kategorierDet skal oppgis én kategori for alle skader som rapporteres11.SkadetypeTekst. Felles kategorierDet skal oppgis én kategori for alle skader som rapporteres12.Årsak til skaden (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres13.Beskrivelse av skaden (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres14.Beskrivelse av skadestedet (Vannskader)Tekst. Felles kategorierDet skal oppgis én kategori for alle vannskader som rapporteres15.HendelsestypeTekst. Felles kategorierDet skal oppgis én kategori for alle naturskader og avbruddstap, boutgifter o.l. knyttet til naturskader som rapporteres",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 6",
+      "heading": "Forsikringsselskapenes databehandler",
+      "path": [
+        "Kapittel 3. Innhenting av opplysninger fra forsikringsselskaper til Kunnskapsbanken"
+      ],
+      "text": "Forsikringsselskapene skal utlevere opplysningene i § 5 til Direktoratet for samfunnssikkerhet og beredskap gjennom en felles databehandler.\nForsikringsselskapene skal gjøre databehandleren i stand til å utlevere opplysningene i § 5 til Direktoratet for samfunnssikkerhet og beredskap i tråd med kravene til format.\nForsikringsselskapene skal sørge for at databehandleren sammenstiller og gjør opplysningene i § 5 tilgjengelige for Direktoratet for samfunnssikkerhet og beredskap gjennom et felles API.\nForsikringsselskapene skal sørge for at opplysningene som utleveres til databehandleren i samsvar med § 5, er så oppdaterte som mulig, og at databehandleren gjør opplysningene tilgjengelige for Direktoratet for samfunnssikkerhet og beredskap gjennom det felles API-et minst én gang per måned.\nForsikringsselskapene skal sørge for en hensiktsmessig ordning for fordeling av kostnader knyttet til databehandlerens oppgaver.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 7",
+      "heading": "Offentlige organer som gis tilgang til opplysninger i Kunnskapsbanken",
+      "path": [
+        "Kapittel 4. Tilgang til opplysninger i Kunnskapsbanken"
+      ],
+      "text": "Følgende offentlige organer gis tilgang til og kan behandle personopplysninger i Kunnskapsbanken, når dette er nødvendig for å forebygge og redusere konsekvensene av natur- og vannskader, herunder for å understøtte arbeidet med risiko- og sårbarhetsanalyser etter sivilbeskyttelsesloven § 14:kommunene,Longyearbyen lokalstyre,statsforvalterne,Sysselmesteren på Svalbard,fylkeskommunene ogNorges vassdrags- og energidirektorat (NVE).",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 8",
+      "heading": "Ikraftsetting",
+      "path": [
+        "Kapittel 5. Ikraftsetting"
+      ],
+      "text": "Forskriften trer i kraft 1. juli 2022.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    }
+  ]
+}

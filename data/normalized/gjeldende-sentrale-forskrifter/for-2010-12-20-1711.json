@@ -1,0 +1,50 @@
+{
+  "id": "FOR-2010-12-20-1711",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om vilkår for rett til ytelser etter lov om Statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter folketrygdloven",
+  "short_title": "Forskrift om vilkår for rett til ytelser",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2011-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "forskrift/2024-12-20-3427 fra 2025-01-01",
+  "lovdata_refid": "forskrift/2010-12-20-1711",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2010-12-20-1711",
+  "raw_xml_sha256": "d364bcd8550946bf28dde8150d6d633400577adcec1a0108b4197a7a0396dd03",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Anvendelsesområde",
+      "path": [],
+      "text": "Denne forskriften kommer til anvendelse når det foreligger rett til alderspensjon som skal samordnes med pensjon fra folketrygden, uførepensjon, enke- og enkemannspensjon og barnepensjon fra tjenestepensjonsordningen. For alderspensjon kommer forskriften til anvendelse fra fylte 67 år, men likevel fra 62 år for oppsatt alderspensjon etter lov om Statens pensjonskasse § 26h eller tilsvarende oppsatt alderspensjon fra annen tjenestepensjonsordning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Forholdet til ytelser fra folketrygden",
+      "path": [],
+      "text": "For rett til pensjon som nevnt i § 1, er det et vilkår at medlemmet setter fram krav om de ytelsene som vedkommende har rett til etter folketrygdloven. Tjenestepensjonsordningen gir pålegg om å sette fram et slikt krav innen en bestemt frist. Fra fylte 67 år kan det bare ytes alderspensjon når vedkommende har alderspensjon fra folketrygden etter minst tilsvarende grad. For oppsatt alderspensjon etter lov om Statens pensjonskasse § 26h eller tilsvarende oppsatt alderspensjon fra annen tjenestepensjonsordning, må alderspensjonen fra folketrygden være tatt ut helt eller delvis senest samtidig med uttaket av oppsatt alderspensjon.\nNår tjenestepensjonsordningen har mottatt krav om pensjon, kan ordningen forutsette at det settes fram krav om ytelser fra folketrygden innen den fastsatte fristen og utbetale en redusert ytelse, se lov 6. juli 1957 nr. 26 om samordning av pensjons- og trygdeytelser § 1.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Refusjon fra folketrygden",
+      "path": [],
+      "text": "Tjenestepensjonsordningen kan kreve for mye utbetalt pensjon refundert fra folketrygden.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Denne forskriften trer i kraft 1. januar 2011. Fra samme tidspunkt oppheves forskrift 18. november 1996 nr. 1062 om vilkår for rett til ytelser etter lov om pensjonsordning for sykepleiere når det foreligger rett til ytelser etter lov om folketrygd og forskrift 18. november 1996 nr. 1084 om vilkår for rett til ytelser etter lov om statens pensjonskasse og etter enkelte andre lover når det foreligger rett til ytelser etter lov om folketrygd.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

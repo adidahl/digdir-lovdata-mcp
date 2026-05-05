@@ -1,0 +1,71 @@
+{
+  "id": "FOR-2022-03-15-422",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om prissammenlikning på drivstoff og elektrisitet på energistasjoner",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2023-01-01",
+  "lovdata_refid": "forskrift/2022-03-15-422",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2022-03-15-422",
+  "raw_xml_sha256": "b94ea19523925dc8cc520efcdf0d11a715f64850f8fee6a3543e25d4c479a8ed",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Formålet med forskriften er å gi forbrukerne indikativ prisinformasjon om energieffektiviteten for energikilder som benyttes til fremdrift av personbiler.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for alle næringsdrivende som er ansvarlig for drift av betjente energistasjoner med et samlet årlig salg av bensin og diesel over 2 mill. liter.\nEn betjent energistasjon er et salgssted for energikilder hvor forbrukerne har allmenn tilgang til et tilknyttet detaljhandelslokale.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Energikilder",
+      "path": [],
+      "text": "De skal gis prisinformasjon om følgende energikilderbensin, blyfri 95 oktandiesel, avgiftspliktigelektrisitet.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregning av energieffektivitet",
+      "path": [],
+      "text": "For hver energikilde skal det gis prisinformasjon uttrykt som NOK/100 km som gjennomsnitt for en representativ sammensetning av personbilmodeller, referansekjøretøy, i kompakt klassen og mellomklassen. Referansekjøretøyet i hvert segment skal beregnes ut fra de tre personbilmodellene med flest nyregistreringer foregående kalenderår.\nPrisen som skal oppgis beregnes etter en metode som fremgår av vedlegg I.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Utforming av informasjonen",
+      "path": [],
+      "text": "Informasjonen skal være lett synlig på stasjonen og utformes slik at prisinformasjonen ikke kan forstås som faktisk pumpe- eller ladepris på den aktuelle stasjonen. Av informasjonen skal det fremgå at prisen er en nasjonal gjennomsnittpris for å kunne sammenligne prisen på ulike energikilder.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Oppdatering",
+      "path": [],
+      "text": "Informasjonen om enhetspriser skal oppdateres hvert kvartal og gjøres kjent på energistasjonen senest ved utgangen av den andre måneden etter kvartalets utløp.\nOversikten over referansekjøretøy i hvert segment som skal benyttes til prissammenligningen skal oppdateres hvert kalenderår.\nAll nødvendig informasjon etter § 5 og § 6 kan lastes ned fra hjemmesiden til Statens vegvesen.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2023.",
+      "xml_path": "article#paragraf-7"
+    }
+  ]
+}

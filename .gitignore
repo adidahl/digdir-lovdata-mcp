@@ -1,0 +1,11 @@
+node_modules/
+dist/
+coverage/
+data/database.db
+data/database.db-*
+data/raw/
+data/extracted/
+data/normalized/manifest.previous.json
+data/normalized/lovtidend-avd1/
+*.log
+.env

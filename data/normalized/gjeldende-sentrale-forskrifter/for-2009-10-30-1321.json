@@ -1,0 +1,517 @@
+{
+  "id": "FOR-2009-10-30-1321",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om klinisk utprøving av legemidler til mennesker",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2009-10-30",
+  "last_change_in_force": "2024-01-01",
+  "last_changed_by": "forskrift/2023-12-21-2281 fra 2024-01-01",
+  "lovdata_refid": "forskrift/2009-10-30-1321",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2009-10-30-1321",
+  "raw_xml_sha256": "07fbefeeb2097e8f3b7fa234cfd49a3b98e52e0d0224e3a7ecaf72e75cffce8b",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Forskriften gjelder klinisk utprøving, herunder multisenterutprøving, av legemidler til mennesker. Forskriften gjelder utprøving både på pasienter og på friske personer.\nForskriften omfatter ikke utprøvende behandling på enkeltpasienter og ikke-intervensjonsstudier.\nDet skal ikke gjennomføres klinisk utprøving som medfører modifisering av forsøkspersonens kjønnscelleidentitet (germ line genetic identity).\nFor klinisk utprøving av legemidler til mennesker gjelder forskrift 18. desember 2009 nr. 1839 om legemidler (legemiddelforskriften) § 15-6a.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "God klinisk utprøvingspraksis og Helsinkideklarasjonen",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "All klinisk utprøving, herunder bioekvivalens- og biotilgjengelighetsstudier, skal planlegges, meldes og gjennomføres i overensstemmelse med reglene i forskriften og standarden for god klinisk utprøvingspraksis.\nKliniske utprøvinger skal skje i samsvar med Helsinkideklarasjonen om etiske prinsipper for medisinsk forskning med mennesker.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Grunnleggende krav",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Hensynet til forsøkspersonenes rettigheter, sikkerhet og velferd har forrang fremfor vitenskapelige og samfunnsmessige interesser.\nPersoner som medvirker i gjennomføringen av en klinisk utprøving, skal i form av utdanning, opplæring og erfaring være kvalifisert til å utføre sine oppgaver.\nKliniske utprøvinger skal være vitenskapelig basert og styrt av etiske prinsipper.\nNødvendige prosedyrer for å sikre kvaliteten av utprøvingen skal følges.\nTilgjengelige kliniske og prekliniske data om et utprøvingspreparat skal være tilstrekkelig omfattende til å berettige klinisk utprøving.\nAlle opplysninger fra et klinisk forsøk registreres, behandles og lagres slik at det legges til rette for korrekt innrapportering, fortolkning og etterprøving av opplysningene samt effektiv beskyttelse av personopplysninger.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 1-4",
+      "heading": "Vilkår for igangsetting av en klinisk utprøving",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Klinisk utprøving kan bare igangsettes dersomreglene i kapittel 2 om beskyttelse av forsøkspersonene er oppfyltdet foreligger en forhåndsgodkjenning fra etikkomiteen etter reglene i kapittel 3Direktoratet for medisinske produkter ikke har innsigelser etter reglene i kapittel 4.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 1-5",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "I forskriften menes medalvorlig uønsket medisinsk hendelse eller alvorlig bivirkning: skadelig og utilsiktet respons eller effekt, som i hvilken som helst dose resulterer i død, er livstruende, krever sykehusinnleggelse eller forlengelse av sykehusopphold, resulterer i vedvarende eller betydelig handikap eller uførhet, eller er en medfødt anomali eller fødselsskade;bivirkning: en uønsket medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, der årsakssammenheng mellom hendelsen og legemidlet som utprøves er sannsynlig eller mulig;Clinical research organisation (CRO): en person, eller en organisasjon (kommersiell, akademisk, eller andre) som er engasjert av sponsor til å gjennomføre en eller flere av sponsors utprøvingsrelaterte plikter og funksjoner;etikkomité: Den regionale komité for medisinsk og helsefaglig forskningsetikk. Etikkomiteen skal sikre at de personer som deltar i en klinisk utprøving får den beskyttelse de har krav på gjennom å vurdere protokoll, utprøvers kvalifikasjoner, utprøvingsstedets egnethet, og den fremgangsmåte og det materiale som benyttes for å informere forsøkspersonene før informert samtykke avgis;forsøksperson: en person som deltar i en klinisk utprøving og som enten mottar utprøvingspreparat, eller som deltar i en kontrollgruppe;god klinisk utprøvingspraksis (GCP): en standard for design, ledelse, utførelse, monitorering, auditering, registrering og rapportering av kliniske utprøvinger, og som sikrer at data og de rapporterte resultater er troverdige og nøyaktige, og at forsøkspersonenes rettigheter, integritet og konfidensialitet er beskyttet;hovedutprøver: utprøver som leder utprøvingen ved det enkelte utprøvingssted;ikke-intervensjonsstudie: en studie der ett eller flere legemidler rekvireres på vanlig måte i samsvar med betingelsene satt i markedsføringstillatelsen. Terapeutisk strategi for hver enkelt pasient bestemmes ikke på forhånd av en studieprotokoll, men faller inn under nåværende praksis, og rekvirering av legemidlene er klart atskilt fra avgjørelsen om å inkludere pasienten i studien. Det skal ikke være nødvendig med tilleggsprosedyrer for diagnostisering eller monitorering av pasienten, og epidemiologiske metoder skal brukes for å analysere de innsamlede data;informert samtykke: skriftlig, datert og underskrevet erklæring om å delta i en klinisk utprøving som gis av en person som er i stand til å samtykke. Erklæringen avgis frivillig etter at forsøkspersonen har mottatt fyllestgjørende informasjon om forsøkets art, betydning, rekkevidde og risiko. Er personen ikke i stand til å samtykke, gis samtykket av den som kan samtykke på vedkommendes vegne;inspeksjon: en handling fra en regulatorisk myndighet med gjennomgang av dokumenter, fasiliteter, journaler (nedtegnelser), ordninger for kvalitetssikring og hvilke som helst hjelpemiddel som myndighetene anser som relatert til utprøvingen, og som kan være lokalisert på utprøvingsstedet, hos sponsor, og/eller hos CRO, eller ved andre virksomheter som myndighetene finner grunn til å inspisere;investigator's brochure: en sammenfatning av de kliniske og prekliniske data vedrørende utprøvingspreparatet(ene) som er relevante for utprøving av preparatet(ene) i mennesker;klinisk utprøving: enhver systematisk studie av legemidler til mennesker i den hensikt å skaffe til veie eller etterprøve kunnskap om legemidlenes effekter eller påvirkning av fysiologisk funksjon, interaksjoner, bivirkninger, opptak, fordeling, metabolisme og utskillelse, eller for å studere deres terapeutiske verdi;legemiddel: stoffer, droger eller preparater mv. som definert i lov 4. desember 1992 nr. 132 om legemidler m.v. § 2;monitor: den person som skal påse at studien blir gjennomført, registrert og rapportert i overensstemmelse med protokollen, standard operasjonsprosedyrer, gjeldende retningslinjer for god klinisk utprøvingspraksis, norsk lovgivning for øvrig, samt påse at studien har den avtalte progresjon;multisenterutprøving: klinisk utprøving som foregår ved flere sentre samtidig og etter samme protokoll;nasjonal koordinerende utprøver: utprøver i Norge som koordinerer de norske sentrene som deltar i en multisenterutprøving;protokoll: et dokument som beskriver formål, design, metodologi, statistiske betraktninger og organisering av utprøvingen. Protokollen skal blant annet beskrive hvilke forsøkspersoner som kan eller ikke kan delta i den kliniske utprøvingen, og reglene for overvåkning og publisering;protokolltillegg: en skriftlig beskrivelse av en eller flere forandringer av, eller en formell oppklaring av protokollen;sponsor: en person, et firma, en institusjon eller organisasjon som er ansvarlig for iverksetting, ledelse og/eller finansiering av en klinisk studie;utprøver: lege eller tannlege som utfører klinisk utprøving;utprøvingspreparat: en farmasøytisk formulering av et aktivt virkestoff eller placebo, som blir utprøvd eller benyttet som en referanse i en klinisk utprøving. Som utprøvningspreparat regnes også legemiddel med markedsføringstillatelse dersom de blir brukt, formulert, eller pakket på en annen måte enn den godkjente formuleringen, eller brukt for en ikke godkjent indikasjon, eller for å skaffe til veie ytterligere informasjon om den markedsførte formuleringen;uventet bivirkning: en bivirkning der egenskapene og/eller alvorlighetsgraden ikke er i overensstemmelse med gjeldende produktinformasjon;uønsket medisinsk hendelse: en uheldig medisinsk hendelse hos en forsøksperson som har fått et legemiddel i en klinisk utprøving, og som ikke nødvendigvis har direkte sammenheng med denne behandlingen.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-6",
+      "provision_ref": "§ 1-6",
+      "heading": "Sponsor og utprøvers ansvar i henhold til annen lovgivning",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Reglene i forskriften endrer ikke ansvaret som sponsor og utprøver har i henhold til annen lovgivning.\nSponsor kan delegere sine oppgaver i forbindelse med en klinisk utprøving til en enkeltperson, virksomhet, institusjon eller organisasjon.\nSponsor er ansvarlig for å sikre at gjennomføringen av den kliniske utprøvingen og behandlingen av de data som genereres, skjer i overensstemmelse med bestemmelsene i denne forskrift.",
+      "xml_path": "article#kapittel-1-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-7",
+      "provision_ref": "§ 1-7",
+      "heading": "Sponsors tilholdssted",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Sponsor skal ha tilhold i EØS-området. Dette gjelder likevel ikke dersom sponsor er representert ved fullmektig med tilhold i EØS-området. Fullmektigen skal dokumentere sin fullmakt overfor Direktoratet for medisinske produkter.",
+      "xml_path": "article#kapittel-1-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-8",
+      "provision_ref": "§ 1-8",
+      "heading": "Utprøver og sponsor",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Utprøver og sponsor kan være én og samme person.",
+      "xml_path": "article#kapittel-1-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-9",
+      "provision_ref": "§ 1-9",
+      "heading": "Finansiering av utprøvingspreparatet",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Sponsor skal sørge for at utprøvingspreparatet med eventuelt tilhørende utstyr gjøres gratis tilgjengelig.",
+      "xml_path": "article#kapittel-1-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-10",
+      "provision_ref": "§ 1-10",
+      "heading": "Adgang til behandling av personopplysninger",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Sponsor er ansvarlig for at det foreligger nødvendig forhåndsgodkjenning fra etikkomiteen for behandling av helseopplysninger i samsvar med lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning § 33, jf. kapittel 3.",
+      "xml_path": "article#kapittel-1-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-11",
+      "provision_ref": "§ 1-11",
+      "heading": "Investigator's brochure",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Opplysningene i Investigator's brochure skal gis i en kortfattet, enkel, objektiv, avbalansert og ikke-reklamemessig form, slik at en potensiell utprøver kan foreta en nøytral vurdering av nytte-/risikoforholdet ved den kliniske utprøvingen.\nHar utprøvingspreparatet markedsføringstillatelse, kan godkjent preparatomtale (SPC) benyttes i stedet for Investigator's brochure.\nSponsor validerer og ajourfører Investigator's brochure minst en gang i året.",
+      "xml_path": "article#kapittel-1-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-12",
+      "provision_ref": "§ 1-12",
+      "heading": "Overdragelse av eiendomsrett til dokumentasjon",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Eiendomsretten til dokumenter og resultater fra en klinisk utprøving kan overdras. Slik overdragelse skal dokumenteres skriftlig, og kopi skal sendes Direktoratet for medisinske produkter. Den nye rettighetshaveren skal oppbevare og arkivere materialet i henhold til bestemmelsen i § 8-2.",
+      "xml_path": "article#kapittel-1-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-13",
+      "provision_ref": "§ 1-13",
+      "heading": "Ytterligere søknadsplikt for særskilte studier",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Klinisk utprøving som omfatter genterapi, bruk av genmodifiserte organismer som legemiddel eller prediktive, presymptomatiske eller bærerdiagnostiske undersøkelser, skal også godkjennes i henhold til lov 5. desember 2003 nr. 100 om humanmedisinsk bruk av bioteknologi m.m.\nKlinisk utprøving med legemiddel som består av eller inneholder genmodifiserte organismer, kan innebære en utsetting av organismen og skal på forhånd være godkjent etter lov 2. april 1993 nr. 38 om framstilling og bruk av genmodifiserte mekanismer m.m.\nKlinisk utprøving som medfører innsamling, oppbevaring, behandling, destruksjon, innførsel til Norge og utførsel fra Norge av humant biologisk materiale, skal ha tillatelse etter lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning.",
+      "xml_path": "article#kapittel-1-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-14",
+      "provision_ref": "§ 1-14",
+      "heading": "Tilvirkning og import av legemidler til klinisk utprøvning",
+      "path": [
+        "Kapittel 1 – Alminnelige bestemmelser"
+      ],
+      "text": "Tilvirkning og import av legemidler til klinisk utprøvning krever tillatelse fra Direktoratet for medisinske produkter.\nForskrift 18. desember 2009 nr. 1839 om legemidler § 15-6a gjelder for tilvirkning og import av legemidler til klinisk utprøving.",
+      "xml_path": "article#kapittel-1-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Vurdering av legemidlets nytte og risikoforhold",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "En klinisk utprøving kan bare igangsettes dersom:det kjente nytte- og risikoforholdet er veiet i forhold til den antatte gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienteretikkomiteen og Direktoratet for medisinske produkter finner at legemidlets forventede nytte kan berettige risikoen ved å gjennomføre forsøket, jf. kapittel 3 og kapittel 4.\nSponsor skal under forsøket fortløpende vurdere om kravene i første ledd er oppfylt.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Krav til informert samtykke",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "Før forsøket starter skal utprøver, eller den som leder informasjonsprosessen på utprøvers vegne, informere forsøkspersonen om formålet med utprøvingen, nytte og risiko knyttet til forsøkspersonens deltakelse, vilkår for gjennomføring av forsøket og om at forsøkspersonen når som helst kan trekke seg fra forsøket.\nDersom forsøkspersonen ikke kan avgi et informert samtykke, skal informasjonen som nevnt i første ledd gis til den som i henhold til § 2-8 og § 2-9 kan samtykke på forsøkspersonens vegne.\nFør forsøket starter, skal forsøkspersonen gi sitt samtykke til deltakelse i utprøvingen. Samtykket skal gis etter at informasjonen i første ledd er mottatt. Dersom skriftlig samtykke ikke kan gis, kan samtykket gis muntlig. Muntlig samtykke skal være attestert av uavhengig vitne.\nDersom forsøkspersonen ikke kan avgi et informert samtykke, skal samtykket som nevnt i forrige ledd gis av den som i henhold til § 2-8 og § 2-9 kan samtykke på forsøkspersonens vegne.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Tilbakekall av samtykke",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "Avgitt samtykke til å delta i en klinisk utprøving etter § 2-2 kan når som helst kalles tilbake. Pasientdata og biologisk materiale som er innsamlet frem til tilbakekallelse, vil inngå som studiedata, men ingen ytterligere data skal samles inn.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Forsikring av forsøkspersonene",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "Sponsor skal forsikre de forsøkspersoner som deltar i utprøvingen, på tilfredsstillende måte mot eventuelle skader som kan oppstå under utprøvingen, jf. lov 23. desember 1988 nr. 104 om produktansvar.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Vern av fysisk og mental integritet og personopplysninger",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "En klinisk utprøving kan bare igangsettes, dersom forsøkspersonens rett til fysisk og mental integritet samt retten til privatlivets fred respekteres og opplysninger vedrørende forsøkspersonen beskyttes i henhold til bestemmelsene i personvernforordningen og lov 15. juni 2018 nr. 38 om behandling av personopplysninger, jf. lov 20. juni 2008 nr. 44 om medisinsk og helsefaglig forskning § 2 andre ledd.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "Krav til behandlers kvalifikasjoner",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "Den ansvarlige for behandling og beslutninger om behandling av forsøkspersonene skal være en kvalifisert lege eller tannlege.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Krav til kontaktpunkt",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "Forsøkspersonen skal informeres om et kontaktpunkt der vedkommende kan få ytterligere informasjon.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 2-8",
+      "heading": "Klinisk utprøving på personer under 18 år",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "I tillegg til kravene som fremkommer i § 2-1 til § 2-7, forutsetter utprøving på personer under 18 år informert samtykke fra foreldre eller andre som har foreldreansvaret. Utprøving på personer mellom 16 og 18 år forutsetter også samtykke fra den mindreårige. I tillegg må følgende vilkår være oppfylt:den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med § 2-2samtykket antas å uttrykke den mindreåriges viljeden mindreårige har mottatt informasjon om utprøvingen, risikoen og fordelen avpasset i forhold til vedkommendes forståelsesevneutprøvingen kan forventes å gi pasientgruppen en direkte gevinstutprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykkeutprøvingen enten direkte vedrører en klinisk tilstand som den mindreårige befinner seg i, eller utprøvingen er av en slik art at den kun kan foretas på mindreårigerelevante retningslinjer fra det europeiske legemiddelkontor (EMEA) følgesutprøvingen er utformet slik at smerter, ubehag, frykt og enhver annen risiko minimeres i forhold til sykdommenprotokollen er godkjent av etikkomiteen, som har ekspertise i pediatri eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende pediatriforsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesser.\nOppfatningen til forsøkspersoner under 18 år skal telle med som en stadig viktigere bestemmende faktor, i takt med hans eller hennes alder og modenhet.\nAll bruk av belønninger overfor mindreårige forsøkspersoner er forbudt, unntatt kompensasjon i forbindelse med deltakelse i utprøvingen.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 2-9",
+      "heading": "Utprøving på personer uten samtykkekompetanse eller med redusert samtykkekompetanse",
+      "path": [
+        "Kapittel 2 – Beskyttelse av forsøkspersonene"
+      ],
+      "text": "I tillegg til kravene som fremkommer i § 2-1 til § 2-7, forutsetter utprøving på personer under vergemål som ikke har rettslig handleevne til å samtykke til deltakelse i klinisk utprøving, at vilkårene i lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter § 4-7 er oppfylt. Utprøvning på myndig person som ikke er i stand til å samtykke på grunn av mangelfulle mentale evner, sykdom eller andre årsaker, forutsetter at nærmeste pårørende etter lov 2. juli 1999 nr. 63 om pasient- og brukerrettigheter § 1-3 bokstav b samtykker. I tillegg må følgende vilkår være oppfylt:den som samtykker har fått skriftlig og muntlig informasjon om studien i samsvar med § 2-2samtykket antas å uttrykke forsøkspersonens vilje, og vedkommende heller ikke motsetter seg tiltaketforsøkspersonen har mottatt informasjon om utprøvingen, risiko og fordeler, avpasset i forhold til vedkommendes forståelsesevnedet er grunn til å anta at resultatene av utprøvingen er til direkte fordel for forsøkspersonens helseutprøvingen er avgjørende for å etterprøve data innhentet ved klinisk utprøving eller andre forsøksmetoder på personer som er i stand til å gi et informert samtykke, og den direkte vedrører en livstruende eller svekkende klinisk tilstand som forsøkspersonen befinner seg i, eller informasjonen ikke kan innhentes på grunnlag av samtykke avgitt i henhold til § 2-2utprøvingen medfører bare minimal risiko og byrde for forsøkspersonenforsøkspersonens interesser til enhver tid tillegges større vekt enn de vitenskapelige og samfunnsmessige interesserutprøvingen er utformet slik at smerter, ubehag, frykt, og enhver annen risiko minimeres i forhold til sykdommenprotokollen er godkjent av etikkomiteen, som har ekspertise i den aktuelle sykdom og den aktuelle pasientgruppe eller har innhentet råd om kliniske, etiske og psykososiale spørsmål vedrørende den aktuelle sykdom og den aktuelle pasientgruppe.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Søknad om klinisk utprøving til etikkomiteen",
+      "path": [
+        "Kapittel 3 – Etikkomiteen"
+      ],
+      "text": "Søknad om klinisk utprøvning sendes etikkomiteen. Før en klinisk utprøving igangsettes, må det foreligge en forhåndsgodkjenning fra etikkomiteen.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Etikkomiteens vurdering av søknaden",
+      "path": [
+        "Kapittel 3 – Etikkomiteen"
+      ],
+      "text": "Etikkomiteen skal ved behandlingen av søknaden spesielt vurdere følgende:den kliniske utprøvingens relevans og utformingom den antatte risiko og ulempe er avveiet i forhold til gevinsten for den enkelte forsøksperson og for andre nåværende og fremtidige pasienter, og om konklusjonen er berettigetprotokollutprøvers og det øvrige personalets egnethetinvestigator's brochureutprøvingsstedets egnethetrelevans og fullstendighet av samtykkeformularet og informasjonsprosessen i forbindelse med innhenting av informert samtykkebegrunnelse for forskning på personer som ikke er i stand til å gi et informert samtykkebestemmelsene om erstatning eller godtgjørelse dersom en forsøksperson lider skade eller dør som følge av et klinisk forsøkforsikringer eller godtgjørelser til dekning av utprøvers og sponsors ansvarstørrelsen av, og de nærmere regler for utbetaling av eventuelt honorar eller eventuell kompensasjon til utprøverne og forsøkspersonerrelevante klausuler i enhver påtenkt kontrakt mellom sponsor og utprøvingssted, oghvordan forsøkspersonene rekrutteres.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Saksbehandlingsfrister",
+      "path": [
+        "Kapittel 3 – Etikkomiteen"
+      ],
+      "text": "Etikkomiteen skal gi sin uttalelse til søker og til Direktoratet for medisinske produkter senest 60 dager etter at komplett søknad er mottatt.\nEtikkomiteen kan be søker om å supplere søknaden én gang. Tidsfristen suspenderes i slike tilfeller fra det tidspunktet etikkomiteen sender underretning til søker og frem til de etterspurte opplysningene er mottatt.\nGjelder søknaden klinisk utprøving av legemiddel til genterapi, somatisk celleterapi eller genmodifiserte organismer, kan fristen som nevnt i første ledd forlenges én gang med 30 dager. Er etikkomiteen i henhold til gjeldende regelverk pålagt å konsultere en ekspertgruppe, kan fristen for slikt legemiddel forlenges med ytterligere 90 dager.\nGjelder søknaden klinisk utprøving som involverer xenogen celleterapi, er det ingen maksimal behandlingstid for når uttalelsen skal gis.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Enkeltuttalelse ved multisenterundersøkelser",
+      "path": [
+        "Kapittel 3 – Etikkomiteen"
+      ],
+      "text": "Ved multisenterundersøkelser som geografisk sett dekkes av flere komiteer, skal det likevel bare gis én uttalelse fra én etikkomité.\nVed multisenterundersøkelser som omfatter klinisk utprøving i flere EØS-land, skal det gis en uttalelse fra én etikkomité i hvert land.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Forretningsorden og oppbevaring av dokumenter",
+      "path": [
+        "Kapittel 3 – Etikkomiteen"
+      ],
+      "text": "Hver enkelt etikkomité vedtar en forretningsorden som sikrer at oppgavene i § 3-1 til § 3-5 ivaretas.\nMed mindre andre regler stiller krav om lengre oppbevaring, skal etikkomiteen oppbevare dokumenter av vesentlig betydning for den enkelte kliniske utprøving i minimum tre år etter at forsøket er avsluttet.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Søknad om klinisk utprøving til Direktoratet for medisinske produkter",
+      "path": [
+        "Kapittel 4 – Direktoratet for medisinske produkter"
+      ],
+      "text": "Før en klinisk utprøving igangsettes i Norge, må det sendes søknad til Direktoratet for medisinske produkter.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Saksbehandlingsfrister",
+      "path": [
+        "Kapittel 4 – Direktoratet for medisinske produkter"
+      ],
+      "text": "Søknad om igangsettelse av klinisk utprøving skal behandles innen 60 dager etter fremleggelse av komplett søknad.\nGjelder søknaden klinisk utprøving som involverer genterapi, somatisk celleterapi eller genmodifiserte organismer, kan fristen som nevnt i første ledd forlenges én gang med 30 dager. Er Direktoratet for medisinske produkter i henhold til gjeldende regelverk pålagt å konsultere en ekspertgruppe, kan fristen for slikt legemiddel forlenges med ytterligere 90 dager.\nGjelder søknaden klinisk utprøving som involverer xenogen celleterapi, er det ingen maksimal behandlingstid for når søknaden skal være ferdigbehandlet.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Direktoratet for medisinske produkters avgjørelse",
+      "path": [
+        "Kapittel 4 – Direktoratet for medisinske produkter"
+      ],
+      "text": "Dersom Direktoratet for medisinske produkter ikke har innsigelser mot igangsetting av den kliniske utprøvingen, informeres søker om dette.\nDersom Direktoratet for medisinske produkter har innsigelser til søknaden, har søker rett til å supplere søknaden én gang. Dersom søknaden ikke suppleres, eller dersom Direktoratet for medisinske produkter til tross for endringen opprettholder innsigelsene, anses søknaden avslått og utprøvingen kan ikke iverksettes. Avslag på søknad om klinisk utprøvning skal begrunnes.\nDersom Direktoratet for medisinske produkter ikke har avgitt sin vurdering innen fristen som nevnt i § 4-2, kan utprøvingen starte, forutsatt at etikkomiteen har godkjent utprøvningen.\nEn klinisk utprøving kan ikke starte uten skriftlig tilbakemelding fra Direktoratet for medisinske produkter, dersom utprøvingen gjelder:et legemiddel uten markedsføringstillatelse som er omhandlet i del A i vedlegget til forordning (EØF) nr. 2309/93,et legemiddel der virkestoffet er et biologisk produkt som stammer fra dyr eller mennesker,et legemiddel som inneholder biologiske bestanddeler som stammer fra dyr eller mennesker, eller hvis fremstilling krever slike komponenter,et legemiddel til genterapi, somatisk celleterapi, herunder xenogen celleterapi, elleret legemiddel som inneholder genetisk modifiserte organismer.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Merking av utprøvingspreparatet",
+      "path": [
+        "Kapittel 4 – Direktoratet for medisinske produkter"
+      ],
+      "text": "Utprøvingspreparatet skal være merket.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Utlevering av legemidler",
+      "path": [
+        "Kapittel 4 – Direktoratet for medisinske produkter"
+      ],
+      "text": "Med mindre Direktoratet for medisinske produkter i forbindelse med søknaden om klinisk utprøving har bestemt noe annet, skal utprøvingspreparatet utleveres fra apotek eller det enkelte utprøvningssted.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Protokollendringer",
+      "path": [
+        "Kapittel 5 – Regler under utprøvingen"
+      ],
+      "text": "Sponsor kan endre protokollen etter at den kliniske utprøvingen er iverksatt.\nØnsker sponsor å foreta vesentlige endringer av protokollensom kan få innvirkning på forsøkspersonenes sikkerhet, ellersom kan medføre endringer av fortolkningen av den vitenskapelige dokumentasjon, ellersom er betydningsfulle,skal sponsor varsle Direktoratet for medisinske produkter og etikkomiteen. Sammen med varslet skal det gis en redegjørelse og en begrunnelse for endringene.\nEtikkomiteen skal innen 35 dager etter mottak av en komplett søknad godkjenne eller avslå søknaden i henhold til kriteriene som nevnt i § 3-3. Dersom komiteen avslår søknaden, kan sponsor ikke foreta endringene i protokollen.\nHar etikkomiteen godkjent søknaden, og Direktoratet for medisinske produkter ikke motsetter seg endringene innen 35 dager etter mottak av en komplett søknad, kan sponsor foreta endringene i protokollen.\nHar etikkomiteen godkjent søknaden, mens Direktoratet for medisinske produkter har motsatt seg endringene, kan sponsor endre protokollen dersom det tas hensyn til Direktoratet for medisinske produkters innsigelser. I motsatt fall skal sponsor trekke endringsforslaget tilbake.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Iverksettelse av sikkerhetstiltak",
+      "path": [
+        "Kapittel 5 – Regler under utprøvingen"
+      ],
+      "text": "Dersom det fremkommer nye forhold eller opplysninger vedrørende den kliniske utprøvingen eller legemidlet som vil kunne påvirke forsøkspersonens sikkerhet, skal sponsor og utprøver umiddelbart iverksette nødvendige sikkerhetstiltak for å hindre at forsøkspersonene påføres skade.\nSponsor skal umiddelbart informere etikkomiteen og Direktoratet for medisinske produkter om endringene og de tiltak som er iverksatt.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Stansing av klinisk utprøving",
+      "path": [
+        "Kapittel 5 – Regler under utprøvingen"
+      ],
+      "text": "Direktoratet for medisinske produkter kan stanse en igangsatt klinisk utprøving, dersomvilkårene for igangsetting ikke lenger anses oppfyltnye opplysninger skaper tvil om sikkerheten i utprøvingennye opplysninger skaper tvil om den vitenskapelige verdien av utprøvingen.\nFør Direktoratet for medisinske produkter fatter vedtak etter første ledd, skal sponsor eller utprøver gis en frist på en uke til å uttale seg i saken, dersom en slik utsettelse av avgjørelsen ikke innebærer en risiko.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Tilsynsmyndighet",
+      "path": [
+        "Kapittel 6 – Tilsyn og inspeksjon"
+      ],
+      "text": "Direktoratet for medisinske produkter fører tilsyn med at bestemmelsene i denne forskrift overholdes.\nStatens helsetilsyn fører tilsyn med helsetjenesten som ytes ved utprøvinger, jf. lov 15. desember 2017 nr. 107 om statlig tilsyn med helse- og omsorgstjenesten mv. (helsetilsynsloven). Direktoratet for medisinske produkter skal på anmodning fra Statens helsetilsyn opplyse om hvilke leger/tannleger som driver utprøving og om foretatte og planlagte inspeksjoner.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Inspeksjon",
+      "path": [
+        "Kapittel 6 – Tilsyn og inspeksjon"
+      ],
+      "text": "Direktoratet for medisinske produkter fører tilsyn med at kravet til god klinisk utprøvingspraksis overholdes i forbindelse med klinisk utprøving.\nDirektoratet for medisinske produkter kan som ledd i tilsynet foreta inspeksjon hos enhver som er eller har vært involvert i gjennomføringen av utprøvingen.\nInspeksjon kan foretasfør, under og etter gjennomføring av en klinisk utprøvingsom ledd i vurderingen av søknad om markedsføringstillatelse etter forskrift 18. desember 2009 nr. 1839 om legemidlersom oppfølging av en utstedt markedsføringstillatelse.\nInspeksjon kan foretas uten hinder av lovbestemt taushetsplikt, jf. lov 4. desember 1992 nr. 132 om legemidler m.v. § 28 annet ledd.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Inspeksjonsrapport",
+      "path": [
+        "Kapittel 6 – Tilsyn og inspeksjon"
+      ],
+      "text": "På grunnlag av tilsynet utarbeider Direktoratet for medisinske produkter en inspeksjonsrapport som gjøres tilgjengelig for sponsor. Den skal på forespørsel gjøres tilgjengelig for etikkomiteen, myndighetene i andre EØS-land og det europeiske legemiddelkontor (EMEA).",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "GCP-inspektør",
+      "path": [
+        "Kapittel 6 – Tilsyn og inspeksjon"
+      ],
+      "text": "Inspeksjon etter denne forskrift foretas av en eller flere GCP-inspektører. En inspektør skalha utdannelse på universitetsnivå eller ha tilsvarende erfaring innen medisin, farmasi, farmakologi, toksikologi eller andre relevante områderha kjennskap til prinsipper og prosedyrer knyttet til utvikling av legemidler og til klinisk utprøving av legemidlerha kjennskap til nasjonalt og internasjonalt regelverk vedrørende klinisk utprøving av legemidler samt reglene om utstedelse av markedsføringstillatelsevedlikeholde og utvikle sine faglige kvalifikasjonervære kjent med den taushetsplikt som gjelder i forhold til taushetsbelagte opplysninger vedkommende blir kjent med gjennom sitt arbeidha kjennskap til prosedyrer og systemer for registrering av kliniske dataha kjennskap til helsevesenets oppbygning og lovgivning i EØS-området og i relevant tredjelandvære utstyrt med legitimasjon som viser vedkommendes status som inspektør.\nDersom den enkelte inspektør ikke oppfyller samtlige krav i bestemmelsens første ledd, er det tilstrekkelig at inspektørene samlet sett under en inspeksjon oppfyller kravene.\nHver enkelt inspektør skal motta et dokument med instruksjoner og detaljerte opplysninger om oppgaver, ansvarsområder og krav til utdannelse. Dokumentet skal oppdateres jevnlig.\nEn inspektør skal undertegne en erklæring om habilitet. Denne erklæringen skal vurderes når det tas stilling til hvilke inspektører som skal foreta en bestemt inspeksjon.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Utprøvers meldeplikt ved uønskede medisinske hendelser",
+      "path": [
+        "Kapittel 7 – Meldeplikt om medisinske hendelser og bivirkninger"
+      ],
+      "text": "Utprøver skal umiddelbart rapportere til sponsor alle alvorlige uønskede medisinske hendelser som oppstår i forbindelse med utprøvingen. Dette gjelder likevel ikke dersom det i protokollen eller i investigator's brochure er angitt at den alvorlige uønskede medisinske hendelsen ikke er underlagt umiddelbar rapportering.\nDe umiddelbare rapportene skal følges opp med detaljerte skriftlige rapporter.\nI de umiddelbare og de oppfølgende rapportene skal forsøkspersonene identifiseres med et personlig kodenummer.\nUtprøver skal i samsvar med protokollens bestemmelser rapportere til sponsor de uønskede medisinske hendelser og unormale laboratorieverdier som i protokollen er vurdert som kritiske for vurderingen av legemidlets sikkerhet.\nVed rapporterte dødsfall har utprøver plikt til å oversende sponsor og etikkomiteen den informasjon disse etterspør.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Sponsors plikt til å oppbevare opplysninger om uønskede medisinske hendelser",
+      "path": [
+        "Kapittel 7 – Meldeplikt om medisinske hendelser og bivirkninger"
+      ],
+      "text": "Sponsor skal oppbevare detaljerte opplysninger over alle uønskede medisinske hendelser som er meddelt ham av utprøver. Opplysningene skal på forespørsel oversendes Direktoratet for medisinske produkter.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Sponsors meldeplikt ved uventede og alvorlige bivirkninger",
+      "path": [
+        "Kapittel 7 – Meldeplikt om medisinske hendelser og bivirkninger"
+      ],
+      "text": "Sponsor skal umiddelbart og senest syv dager etter at han fikk kjennskap til en uventet og alvorlig bivirkning som er dødelig eller livstruende, sende rapport til myndighetene i alle berørte EØS-land. Relevante opplysninger om det videre forløp skal deretter gis innen åtte dager.\nSponsor skal umiddelbart og senest 15 dager etter at han fikk kjennskap til en uventet og alvorlig bivirkning som ikke er dødelige eller livstruende, sende rapport til myndighetene i alle berørte EØS-land.\nSponsor skal informere alle utprøverne for det aktuelle utprøvingspreparatet om mistenkte bivirkninger som er alvorlige og uventede.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Årsrapport",
+      "path": [
+        "Kapittel 7 – Meldeplikt om medisinske hendelser og bivirkninger"
+      ],
+      "text": "Sponsor skal årlig sende myndighetene i de landene forsøket pågår,en liste over alle antatte alvorlige bivirkninger som er inntruffet i det aktuelle tidsrommet, ogen rapport om forsøkspersonenes sikkerhet.\nPlikten etter første ledd gjelder så lenge den kliniske utprøvingen pågår.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Dokumentasjonen for den kliniske utprøvingen",
+      "path": [
+        "Kapittel 8 – Dokumentasjon (Master File) og sluttrapport"
+      ],
+      "text": "Sponsor skal utarbeide og oppdatere dokumentasjonen for den kliniske utprøvingen.\nDokumentasjonen skal bestå av dokumenter av vesentlig betydning for gjennomføringen av den kliniske utprøvingen og som gir grunnlag for å evaluere kvaliteten av resultatene fra utprøvingen.\nDokumentasjonen skal inneholde opplysninger om hvorvidt utprøver og sponsor har overholdt reglene for god klinisk utprøvingspraksis og kravene som fremgår av bilag I til direktiv 2001/83/EF.\nDokumentasjonen skal danne grunnlag for det tilsyn som foretas av sponsors kvalitetssikringspersonell og av myndighetene.\nDokumentenes innhold skal være i overensstemmelse med innholdet i den enkelte fase i den kliniske utprøvingen.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Sponsors og utprøvers oppbevaring av dokumentasjon",
+      "path": [
+        "Kapittel 8 – Dokumentasjon (Master File) og sluttrapport"
+      ],
+      "text": "Sponsor og utprøver skal oppbevare dokumenter av vesentlige betydning for den kliniske utprøvingen i minst femten år etter at forsøket er avsluttet.\nDokumentene som nevnt i første ledd skal oppbevares lengre enn femten år, dersom dette følger av annet regelverk eller av avtale mellom sponsor og utprøver.\nArkiveringen av dokumentene skal skje på en slik måte at de på forespørsel umiddelbart kan stilles til rådighet for myndighetene.\nForsøkspersonenes journal skal oppbevares i den maksimumsperiode som tillates i henhold til norsk rett.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Ansvarlig person og tilgang til arkiv",
+      "path": [
+        "Kapittel 8 – Dokumentasjon (Master File) og sluttrapport"
+      ],
+      "text": "Sponsor skal utpeke personer i sin egen organisasjon som skal være ansvarlig for arkivering av dokumentene.\nKun navngitte personer med ansvar for arkivet skal ha tilgang til det.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Krav til medier for oppbevaring av dokumenter",
+      "path": [
+        "Kapittel 8 – Dokumentasjon (Master File) og sluttrapport"
+      ],
+      "text": "De medier som benyttes til arkivering av dokumenter, skal sikreat dokumentene forblir fullstendige og leselige i hele den perioden de skal oppbevaresat dokumentene på forespørsel kan stilles til rådighet for myndigheteneat enhver endring i dokumentene kan spores.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Sluttmelding og sluttrapport",
+      "path": [
+        "Kapittel 8 – Dokumentasjon (Master File) og sluttrapport"
+      ],
+      "text": "Innen 90 dager etter at den kliniske utprøvingen er avsluttet, plikter sponsor å melde fra til Direktoratet for medisinske produkter og etikkomiteen om at studien er avsluttet.\nDersom den kliniske utprøvingen må avbrytes, skal sponsor melde dette til Direktoratet for medisinske produkter og etikkomiteen innen 15 dager. Det skal gis en begrunnelse for hvorfor utprøvingen ble stanset.\nSenest ett år etter at utprøvningen er avsluttet, skal sponsor sende inn sluttrapport til Direktoratet for medisinske produkter. Denne fristen kan etter søknad forlenges av Direktoratet for medisinske produkter.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Ikrafttredelse mv.",
+      "path": [
+        "Kapittel 9 – Ikrafttredelse mv."
+      ],
+      "text": "Forskriften trer i kraft straks.\nFra samme tid oppheves forskrift 24. september 2003 nr. 1202 om klinisk utprøving av legemidler til mennesker.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    }
+  ]
+}

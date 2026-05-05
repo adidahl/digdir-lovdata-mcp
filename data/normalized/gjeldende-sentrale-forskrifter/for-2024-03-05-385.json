@@ -1,0 +1,79 @@
+{
+  "id": "FOR-2024-03-05-385",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om fordeling av tidsluker (slots) på lufthavner",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2024-03-05",
+  "lovdata_refid": "forskrift/2024-03-05-385",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2024-03-05-385",
+  "raw_xml_sha256": "756bc6c6f89c8d74b7318e855ce23cd2bffd2e5f8b9f937c7a2038537215dc4f",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Formål",
+      "path": [],
+      "text": "Forskriftens formål er å sikre effektiv og sikker bruk av kapasiteten på lufthavner og rettferdig fordeling av begrenset kapasitet mellom brukerne av lufthavner.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Gjennomføring av forordning (EØF) nr. 95/93",
+      "path": [],
+      "text": "EØS-avtalens vedlegg XIII nr. 64b (rådsforordning (EØF) nr. 95/93) om fastsettelse av felles regler for fordeling av tidsluker på lufthavner i EØS-området (slotsforordningen) som endret ved forordning (EF) nr. 793/2004, forordning (EU) 2020/459, forordning (EU) 2020/1477, forordning (EU) 2021/250, forordning (EU) 2021/1889, forordning (EU) 2022/255 og forordning (EU) 2022/2038 gjelder som norsk forskrift med de tilpasninger som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Svalbard",
+      "path": [],
+      "text": "Forskriften gjelder ikke for Svalbard.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Myndighet etter forskriften",
+      "path": [],
+      "text": "Luftfartstilsynet har myndighet til å håndheve forskriften og forvalte de oppgavene etter slotsforordningen som ikke er omfattet av § 5.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Slotskoordinator",
+      "path": [],
+      "text": "Rollen som ruteplantilrettelegger og koordinator etter slotsforordningen artikkel 4 ligger i Norge til Airport Coordinator Norway AS.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Ved overtredelse av forskriften kan overtredelsesgebyr ilegges etter luftfartsloven § 13a-5.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Endring av andre forskrifter",
+      "path": [],
+      "text": "Forskrift om gjennomføring og håndheving av EØS-avtalen på luftfartens område § 1 nr. 5 oppheves.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-8"
+    }
+  ]
+}

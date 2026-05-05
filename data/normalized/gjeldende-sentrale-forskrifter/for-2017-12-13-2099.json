@@ -1,0 +1,57 @@
+{
+  "id": "FOR-2017-12-13-2099",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om beregning av arbeidsavklaringspenger etter EØS-avtalen",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "2018-01-01",
+  "last_change_in_force": "2025-02-19",
+  "last_changed_by": "forskrift/2025-02-19-252",
+  "lovdata_refid": "forskrift/2017-12-13-2099",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2017-12-13-2099",
+  "raw_xml_sha256": "0fde28807e0a20c8f4d5708d4d5615aa7b5c63154e57a1c74e75f397203fe454",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Denne forskriften inneholder bestemmelser om beregning av arbeidsavklaringspenger for personer som omfattes av EØS-avtalen vedlegg VI nr. 1 og 2 (Europaparlaments- og rådsforordning (EF) nr. 883/2004 om koordinering av trygdeordninger og Europaparlaments- og rådsforordning (EF) nr. 987/2009 om regler for gjennomføring av forordning (EF) nr. 883/2004 – mfl.). Bestemmelsene gjelder tilsvarende i tilfeller hvor tilsvarende regler kommer til anvendelse etter særskilt avtale med annet land.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Arbeidsperioder i andre medlemsland",
+      "path": [],
+      "text": "Ved beregningen av inntektsavhengige ytelser skal det tas hensyn til arbeidsperioder i andre medlemsland i de tre siste kalenderårene forut for det året da arbeidsevnen ble nedsatt med minst halvparten (inntektsgrunnlagsårene). Det er et vilkår at vedkommende har hatt pensjonsgivende inntekt i Norge i disse årene eller i året da arbeidsevnen ble nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid.\nArbeidsperioder i andre medlemsland skal dokumenteres ved innhenting av opplysninger fra kompetent institusjon eller trygdeordning på relevant EØS-blankett.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Beregnet inntekt for arbeidsperioder i andre medlemsland",
+      "path": [],
+      "text": "Det skal beregnes en inntekt for arbeidsperioder i andre medlemsland i inntektsgrunnlagsårene. Den beregnede inntekten for den enkelte perioden fastsettes ved å gange periodens varighet med norsk inntektsnivå etter annet til fjerde ledd.\nDet inntektsnivået som skal legges til grunn ved beregningen etter første ledd, skal være gjennomsnittlig pensjonsgivende inntekt i Norge i inntektsgrunnlagsårene. Ved beregningen av gjennomsnittsinntekten ses det bort fra perioder da stønadsmottakeren ikke har vært medlem av folketrygden. Gjennomsnittsinntekten fastsettes som uke-, måneds- eller årsinntekt, alt ettersom de utenlandske arbeidsperiodene er angitt i uker, måneder eller år.\nDersom stønadsmottakeren ikke hadde pensjonsgivende inntekt i Norge i inntektsgrunnlagsårene, men hadde slik inntekt i året da arbeidsevnen ble nedsatt i en slik grad at vedkommende hindres i å beholde eller skaffe seg inntektsgivende arbeid, skal denne inntekten, omgjort til uke-, måneds- eller årsinntekt, legges til grunn som inntektsnivå ved beregningen etter første ledd. Bestemmelsene i annet ledd første og annet punktum gjelder tilsvarende.\nBestemmelsene i folketrygdloven § 11-19 annet ledd gjelder tilsvarende ved beregningene etter annet og tredje ledd.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Grunnlaget for inntektsavhengige ytelser",
+      "path": [],
+      "text": "I saker som omfattes av § 1 skal beregnet inntekt etter § 3 likestilles med pensjonsgivende inntekt i Norge ved anvendelsen av bestemmelsene i folketrygdloven § 11-19. Dersom det i ett eller flere av inntektsgrunnlagsårene foreligger både inntekt i Norge og beregnet inntekt etter § 3, skal disse inntektene summeres. Den inntekten som skal regnes med for hvert enkelt av de tre årene kan etter dette bare bestå av inntekt i Norge, bare beregnet inntekt etter § 3 eller en kombinasjon.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2018.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

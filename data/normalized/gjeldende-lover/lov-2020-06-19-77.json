@@ -1,0 +1,959 @@
+{
+  "id": "LOV-2020-06-19-77",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Etterretningstjenesten (etterretningstjenesteloven)",
+  "short_title": "Etterretningstjenesteloven",
+  "department": "Forsvarsdepartementet",
+  "legal_area": "IKT- og medierett > Personopplysninger IKT- og medierett > Telekommunikasjon Kultur, idrett og underholdning > Arkiv Stats-, statsforfatnings- og statsborgerrett > Forsvaret",
+  "date_in_force": "2021-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "lov/2024-12-13-76 fra 2025-01-01",
+  "lovdata_refid": "lov/2020-06-19-77",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2020-06-19-77",
+  "raw_xml_sha256": "4c08e74ed95524c00715e710a6cc7a68166bf139045b47f274097746d23c2933",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1-1",
+      "heading": "Formål",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Loven skalbidra til å trygge Norges suverenitet, territorielle integritet, demokratiske styreform og andre nasjonale sikkerhetsinteresser, herunder forebygge, avdekke og motvirke utenlandske trusler mot Norge og norske interesserbidra til å trygge tilliten til og sikre grunnlaget for kontroll med Etterretningstjenestens virksomhetsikre at Etterretningstjenestens virksomhet utøves i samsvar med menneskerettighetene og andre grunnleggende verdier i et demokratisk samfunn.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 1-2",
+      "heading": "Virkeområde",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Loven gjelder for Etterretningstjenesten og for andre enheter og personer underlagt sjefen for Etterretningstjenestens kommando eller instruksjonsmyndighet.\nLoven gjelder ikke innhenting og annen behandling av informasjon som utelukkende gjennomføres av Etterretningstjenesten som ledd i en internasjonal operasjon med folkerettslig mandat.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 1-3",
+      "heading": "Definisjoner",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "I denne loven menes med:personopplysning: enhver opplysning om en identifisert eller identifiserbar fysisk personbehandling av personopplysninger: enhver operasjon eller rekke av operasjoner som gjøres med personopplysninger, enten automatisert eller ikkeetterretningsformål: formål om å ivareta en eller flere av Etterretningstjenestens oppgaver etter kapittel 3etterretningsmål: objekt, person, virksomhet eller annet som informasjonsinnhentingen retter seg motmålsøking: systematisk arbeid for å identifisere nye etterretningsmålmålrettet innhenting: systematisk arbeid for å finne informasjon knyttet til identifiserte etterretningsmåloverskuddsinformasjon: informasjon som er uten interesse for etterretningsformålrådata: ubearbeidet eller automatisk bearbeidet informasjon i enhver form hvis etterretningsverdi ikke er vurdertbulk: informasjonssamlinger og datasett hvorav en vesentlig andel av informasjonen antas å være irrelevant for etterretningsformålutlevering: enhver formidling av opplysninger, både skriftlig og muntlig, til mottaker utenfor Etterretningstjenesten som ikke utfører tjeneste eller oppdrag for tjenesten.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 2-1",
+      "heading": "Nasjonal tjeneste",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Etterretningstjenesten er Norges nasjonale utenlandsetterretningstjeneste. Tjenesten er en del av Forsvaret og underlagt forsvarssjefens kommando.\nEtterretningstjenesten skal være under nasjonal kontroll. Det skal sikres nasjonal kontroll med hvilken informasjon som gjøres kjent for utenlandske samarbeidspartnere.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 2-2",
+      "heading": "Oppdragsstyring",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Departementet koordinerer og prioriterer myndighetenes etterretningsbehov, og fastsetter årlig et prioriteringsdokument for nasjonale etterretningsbehov.\nDepartementet bestemmer prosedyrer for prioritering av sivile etterretningsbehov som ikke dekkes av prioriteringsdokumentet. Forsvarssjefen bestemmer prosedyrer for prioritering av etterretningsbehov i Forsvaret som ikke dekkes av prioriteringsdokumentet.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 2-3",
+      "heading": "Departementets styring og kontroll",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Departementet ivaretar styring og kontroll med Etterretningstjenesten gjennom forsvarssjefen hvis ikke annet er fastsatt i denne loven. Økonomi- og virksomhetsstyring ivaretas gjennom Koordineringsutvalget for Etterretningstjenesten.\nDepartementet kan fastsette andre særlige ordninger og rapporteringsrutiner for ivaretakelse av styring og kontroll.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 2-4",
+      "heading": "Varsling og rapportering",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Etterretningstjenesten skal innenfor rammen av oppgavene etter kapittel 3varsle norske myndigheter om trusler og andre forhold som Etterretningstjenesten blir kjent med og som krever umiddelbar handling eller av andre årsaker er av tidskritisk natur, ograpportere til norske myndigheter om utenlandske forhold av betydning for Norge og norske interesser.\nEtterretningstjenesten skal varsle og rapportere til militære myndigheter i samsvar med forsvarssjefens bestemmelser og til sivile myndigheter i samsvar med departementets bestemmelser.\nEtter departementets bestemmelser kan Etterretningstjenesten varsle og rådgi personer og virksomheter om trusler innenfor rammen av oppgavene etter kapittel 3. Utlevering av sikkerhetsgradert informasjon kan skje uten hensyn til kravene om autorisasjon og sikkerhetsklarering i sikkerhetsloven § 8-1 når dette er strengt nødvendig og sikkerhetsmessig forsvarlig.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 2-5",
+      "heading": "Saker som skal forelegges departementet for beslutning",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Etterretningstjenesten skal forelegge følgende saker for departementet for beslutning:etablering av samarbeid og avtaler med utenlandske tjenester eller internasjonale organisasjoneriverksettelse av særskilte etterretningsoperasjoner som kan reise politiske problemstillingerandre særlig viktige saker.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 2-6",
+      "heading": "EOS-utvalgets og Riksrevisjonens kontroll",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Etterretningstjenesten er underlagt kontroll etter EOS-kontrolloven. I samsvar med § 7-11 fører EOS-utvalget løpende kontroll med tjenestens etterlevelse av bestemmelsene i kapittel 7.\nEtterretningstjenesten er underlagt revisjon og kontroll av Riksrevisjonen etter riksrevisjonsloven. Riksrevisjonen skal utpeke bestemte tjenestepersoner til å ivareta revisjon og kontroll av tjenesten. Utpekte tjenestepersoner skal være norske statsborgere og sikkerhetsklarert for STRENGT HEMMELIG. Riksrevisjonen skal være representert i Koordineringsutvalget for Etterretningstjenesten.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 2-7",
+      "heading": "Andre bestemmelser om tilsyn og kontroll",
+      "path": [
+        "Kapittel 2. Organisering, styring og kontroll"
+      ],
+      "text": "Bestemmelsene i personopplysningsloven kapittel 6 og 7 og personvernforordningen kapittel VI til VIII om tilsyn, klage og sanksjoner mv. gjelder ikke overfor Etterretningstjenesten.\nBestemmelsene i ekomloven kapittel 15 gjelder ikke i den utstrekning de vil gi myndigheten innsyn i Etterretningstjenestens virksomhet. Første punktum er ikke til hinder for at myndigheten fører tilsyn med hvordan tilbydere som omfattes av § 7-2, utøver tilretteleggingsplikten.\nDomstolene fører kontroll med tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon i samsvar med kapittel 8.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 3-1",
+      "heading": "Informasjonsinnhenting om utenlandske trusler",
+      "path": [
+        "Kapittel 3. Oppgaver"
+      ],
+      "text": "Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra til å avdekke og motvirketrusler mot Norges selvstendighet og sikkerhet, territorielle integritet og politiske og økonomiske handlefrihetalvorlige trusler mot samfunnssikkerheten i Norgealvorlige trusler mot norske interesser i utlandetfremmed etterretningsvirksomhetfremmede sabotasje- og påvirkningsoperasjonergrenseoverskridende terrorismespredning av masseødeleggelsesvåpen og utstyr og materiale for fremstilling av slike våpeninternasjonal våpenhandel som kan utgjøre en alvorlig sikkerhetstrusseleksport av sanksjonerte, listeførte eller sensitive varer og tjenester.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 3-2",
+      "heading": "Informasjonsinnhenting om andre utenlandske forhold",
+      "path": [
+        "Kapittel 3. Oppgaver"
+      ],
+      "text": "Etterretningstjenesten skal innhente og analysere informasjon om utenlandske forhold som kan bidra tilivaretakelse av prioriterte utenriks-, forsvars- eller sikkerhetspolitiske interesser knyttet til forhold og utviklingstrekk i andre stater og regionernasjonal beredskapsplanleggingepisode- og krisehåndteringplanlegging og gjennomføring av nasjonale eller internasjonale militære operasjoner.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 3-3",
+      "heading": "Okkupasjonsberedskap",
+      "path": [
+        "Kapittel 3. Oppgaver"
+      ],
+      "text": "Etterretningstjenesten skal ivareta nasjonal evne til å innhente og formidle informasjon til norske myndigheter dersom Norge helt eller delvis okkuperes.\nDepartementet skal holdes generelt orientert om organisering og planlegging av okkupasjonsberedskapen.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 3-4",
+      "heading": "Internasjonalt etterretningssamarbeid",
+      "path": [
+        "Kapittel 3. Oppgaver"
+      ],
+      "text": "Når det er i Norges interesse, kan Etterretningstjenesten innhente og analysere informasjon om utenlandske trusler og andre forhold som nevnt i dette kapittelet som antas å være av vesentlig betydning i bi- eller multilateralt etterretningssamarbeid som Etterretningstjenesten deltar i.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 3-5",
+      "heading": "Innhenting av evneinformasjon",
+      "path": [
+        "Kapittel 3. Oppgaver"
+      ],
+      "text": "Etterretningstjenesten kan innhente og analysere informasjon om forhold som utgjør nødvendige forutsetninger for å kunne gjennomføre innhenting etter dette kapittelet, for å kunnesørge for at innhenting ikke skjer i større utstrekning enn nødvendigivareta sikkerheten til Etterretningstjenestens personell og operasjonergjennomføre testing av teknisk utstyr og annen trenings- og øvingsaktivitetopprettholde og videreutvikle Etterretningstjenestens informasjonstilganger og metodiske, teknologiske og øvrige evne til å utføre pålagte oppgaver.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 4-1",
+      "heading": "Forbud mot innhenting i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten skal ikke benytte innhentingsmetoder etter kapittel 6 overfor personer i Norge.\nVed tvil om en person befinner seg i Norge eller utlandet, skal Etterretningstjenesten søke å avklare forholdet. For dette formålet skal det kun brukes informasjon fra norske myndigheter, utenlandske samarbeidspartnere, åpne kilder eller egen innhenting i utlandet.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 4-2",
+      "heading": "Fremmed statsaktivitet i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten kan uten hinder av § 4-1 benytte innhentingsmetoder etter kapittel 6 overfor utenlandske og statsløse personer i Norge som opptrer på vegne av en fremmed stat eller statslignende aktør.\nVed tvil om en person opptrer på vegne av en fremmed stat eller statslignende aktør, skal Etterretningstjenesten søke å avklare forholdet. For dette formålet skal det kun brukes informasjon fra norske myndigheter, utenlandske samarbeidspartnere, åpne kilder eller egen innhenting i utlandet.\nNår riket er i krig, krig truer eller rikets selvstendighet eller sikkerhet er i fare, kan Kongen bestemme at Etterretningstjenesten uten hinder av § 4-1 kan innhente enhver opplysning som har betydning for Forsvarets evne til å håndtere fiendtlig militær aktivitet.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-3",
+      "provision_ref": "§ 4-3",
+      "heading": "Samordning med Politiets sikkerhetstjeneste",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten skal be Politiets sikkerhetstjeneste om samtykke til innhenting etter § 4-2 første ledd om forhold som også faller inn under beskrivelsen av oppgavene til Politiets sikkerhetstjeneste i politiloven § 17 b første ledd. Ved annen innhenting etter § 4-2 første ledd skal Politiets sikkerhetstjeneste informeres.",
+      "xml_path": "article#kapittel-4-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-4",
+      "provision_ref": "§ 4-4",
+      "heading": "Åpne kilder som berører personer i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten kan uten hinder av § 4-1 innhente informasjon om utenlandske forhold fra åpne kilder etter § 6-2 selv om informasjonen er publisert av eller på annen måte berører personer i Norge.",
+      "xml_path": "article#kapittel-4-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-5",
+      "provision_ref": "§ 4-5",
+      "heading": "Kilderekruttering og kildeverifikasjon i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten kan uten hinder av § 4-1 innhente informasjon om personer i Norge for å finne, rekruttere og verifisere kilder.\nInformasjonen skal innhentes fra åpne kilder eller ved utlevering fra norske myndigheter. Hvis det foreligger tungtveiende sikkerhetsmessige grunner, kan det brukes metoder som nevnt i §§ 6-3 og 6-4.\nDet skal ikke innhentes mer informasjon enn strengt nødvendig. Opplysningene skal utelukkende brukes for å finne, rekruttere og verifisere kilder.",
+      "xml_path": "article#kapittel-4-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-6",
+      "provision_ref": "§ 4-6",
+      "heading": "Trening, øving og testing av utstyr i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten kan uten hinder av § 4-1 innhente informasjon om personer i Norge når det er strengt nødvendig for å trene, øve eller teste utstyr.\nInformasjonen skal utelukkende brukes til å trene, øve og teste utstyr, og skal ikke behandles sammen med annen informasjon. Med mindre den som informasjonen gjelder, samtykker til at den behandles videre, skal informasjonen slettes snarest mulig, og senest når treningen, øvingen eller testingen avsluttes. Arkivlova gjelder ikke for informasjon etter denne paragrafen.",
+      "xml_path": "article#kapittel-4-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-7",
+      "provision_ref": "§ 4-7",
+      "heading": "Aksessorisk informasjon om personer i Norge",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten kan benytte innhentingsmetoder etter kapittel 6 overfor personer i utlandet selv om informasjon om personer i Norge vil kunne følge med.\nEtterretningstjenesten kan innhente rådata i bulk selv om informasjon om personer i Norge vil kunne følge med.",
+      "xml_path": "article#kapittel-4-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-8",
+      "provision_ref": "§ 4-8",
+      "heading": "Forbud mot å innhente informasjon for politiformål",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten skal ikke innhente eller medvirke til å innhente informasjon for å utføre oppgaver som tilligger politiet eller andre rettshåndhevende myndigheter.\nFørste ledd er ikke til hinder for utveksling av informasjon etter kapittel 10 eller bistand til politiet i medhold av § 10-7, jf. politiloven § 27 a.",
+      "xml_path": "article#kapittel-4-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-9",
+      "provision_ref": "§ 4-9",
+      "heading": "Forbud mot industrispionasje",
+      "path": [
+        "Kapittel 4. Forbud mot innhenting i Norge og andre særskilte forbud"
+      ],
+      "text": "Etterretningstjenesten skal ikke innhente eller medvirke til å innhente, bearbeide eller utlevere informasjon for å gi selskaper eller andre kommersielle virksomheter eller sektorer konkurransemessige fortrinn.",
+      "xml_path": "article#kapittel-4-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 5-1",
+      "heading": "Grunnvilkår for målsøking",
+      "path": [
+        "Kapittel 5. Grunnvilkår for innhenting og utlevering av informasjon"
+      ],
+      "text": "Etterretningstjenesten kan iverksette målsøking når det er saklig grunn til å undersøke om innhenting kan frembringe informasjon som er relevant for etterretningsformål.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 5-2",
+      "heading": "Grunnvilkår for målrettet innhenting",
+      "path": [
+        "Kapittel 5. Grunnvilkår for innhenting og utlevering av informasjon"
+      ],
+      "text": "Etterretningstjenesten kan iverksette målrettet innhenting når konkrete holdepunkter gir grunn til å undersøke om innhenting kan frembringe informasjon som er relevant for etterretningsformål.\nMålrettet innhenting mot journalister som er omfattet av § 9-6 første ledd eller målrettet innhenting der det er stor sannsynlighet for at innhentingen vil frembringe kildeidentifiserende opplysninger som er omfattet av § 9-6 første ledd, kan bare iverksettes dersom det er strengt nødvendig at de hensyn som begrunner kildevernet, viker for nasjonale sikkerhetsinteresser.\nTillatelse til å iverksette målrettet innhenting etter andre ledd gis av retten ved kjennelse etter reglene i kapittel 8.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 5-3",
+      "heading": "Grunnvilkår for innhenting av og søk i rådata i bulk",
+      "path": [
+        "Kapittel 5. Grunnvilkår for innhenting og utlevering av informasjon"
+      ],
+      "text": "Etterretningstjenesten kan innhente rådata i bulk når det er nødvendig for å få tilgang til et relevant og tilstrekkelig informasjonsgrunnlag.\nSøk i rådata i bulk skal tilfredsstille grunnvilkårene for målsøking eller målrettet innhenting og logges for kontrollformål. Søket skal ikke gjennomføres dersom det vil være et uforholdsmessig inngrep overfor den enkelte.\nSøk i rådata med utgangspunkt i et søkebegrep tilknyttet en person som oppholder seg i Norge, kan bare gjennomføres dersom det er strengt nødvendig for å ivareta en oppgave som nevnt i § 3-1. Første punktum gjelder ikke dersom personen er en utenlandsk eller statsløs person som opptrer på vegne av en fremmed stat eller statslignende aktør.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 5-4",
+      "heading": "Forholdsmessighet",
+      "path": [
+        "Kapittel 5. Grunnvilkår for innhenting og utlevering av informasjon"
+      ],
+      "text": "Innhenting og utlevering av informasjon skal ikke gjennomføres dersom det vil være et uforholdsmessig inngrep overfor den enkelte. Ved vurderingen skal det tas hensyn til om mindre inngripende tiltak i tilstrekkelig grad kan ivareta formålet, inngrepets virkning for den som rammes, sakens betydning og forholdene ellers.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 6-1",
+      "heading": "Generelle vilkår",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan for etterretningsformål bruke metoder for innhenting av informasjon i samsvar med bestemmelsene i dette kapittelet når grunnvilkårene etter kapittel 5 er oppfylt, og innhentingen ikke strider mot loven for øvrig.\nMetodene kan brukes fordekt overfor personer som er gjenstand for eller på annen måte berøres av dem.\nBruken skal avsluttes dersom lovens vilkår ikke lenger er til stede.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 6-2",
+      "heading": "Åpne kilder",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan innhente åpent tilgjengelig informasjon. Informasjon er ikke åpent tilgjengelig dersom tilgang krever aktiv fordekt opptreden eller forsering av passord eller lignende beskyttelsesmekanismer.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 6-3",
+      "heading": "Menneskebasert innhenting",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan innhente informasjon gjennom systematisk samhandling med mennesker i det fysiske eller digitale rom. Tjenesten kan finne, verifisere, kultivere, rekruttere, trene og føre kilder i den hensikt å innhente ikke åpent tilgjengelig informasjon eller legge til rette for slik innhenting.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 6-4",
+      "heading": "Systematisk observasjon",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan foreta systematisk observasjon på offentlig sted hvor det er sannsynlig at etterretningsmål vil befinne seg. Det samme gjelder mot privat lukket sted dersom den som observerer, befinner seg utenfor. Det kan tas i bruk hjelpemidler for observasjon samt opptak og annen dokumentasjon.\nMed systematisk observasjon menes planlagte visuelle iakttakelser i det fysiske rom av en person eller gruppe av personer, eiendom, virksomhet, område eller andre etterretningsmål.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 6-5",
+      "heading": "Teknisk sporing",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan plassere teknisk peileutstyr i det fysiske rom på eller ved et etterretningsmål for å kartlegge målets posisjon og bevegelser.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-6",
+      "provision_ref": "§ 6-6",
+      "heading": "Gjennomsøking mv.",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan gjennomsøke bolig, rom eller annet oppbevaringssted for å finne informasjon eller gjenstander. Tjenesten kan tilegne seg etterretningsrelevante gjenstander som finnes under gjennomsøkingen. Gjennomsøking av sted som etter sin art ikke er tilgjengelig for alle, kan bare gjennomføres dersom det er strengt nødvendig.\nEtterretningstjenesten kan tilegne seg etterretningsrelevante gjenstander fra personer.",
+      "xml_path": "article#kapittel-6-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-7",
+      "provision_ref": "§ 6-7",
+      "heading": "Avlytting og bildeovervåkning",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan innhente lyd og bilde fra kamera eller mikrofon som plasseres på eller i nærheten av sted hvor det er rimelig å anta at et etterretningsmål vil oppholde seg. Innhentingen kan ikke gjennomføres på sted som etter sin art ikke er tilgjengelig for alle, med mindre det er strengt nødvendig.",
+      "xml_path": "article#kapittel-6-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-8",
+      "provision_ref": "§ 6-8",
+      "heading": "Annen teknisk innhenting",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan innhente informasjon ved bruk av tekniske sensorer eller andre tekniske metoder som ikke reguleres av §§ 6-5, 6-7, 6-9 eller 6-10, blant annet bildeovervåkning av enkeltpersoner fra rombaserte eller luftbårne sensorer.\nInnhentingen kan ikke gjennomføres på sted som etter sin art ikke er tilgjengelig for alle, med mindre det er strengt nødvendig.",
+      "xml_path": "article#kapittel-6-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-9",
+      "provision_ref": "§ 6-9",
+      "heading": "Midtpunktinnhenting",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan innhente elektronisk kommunikasjon i transitt og kartlegge kommunikasjonsinfrastruktur. Bestemmelser om tilrettelagt innhenting av elektronisk kommunikasjon som transporteres over den norske grensen, er gitt i kapittel 7 og 8.",
+      "xml_path": "article#kapittel-6-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-10",
+      "provision_ref": "§ 6-10",
+      "heading": "Endepunktinnhenting",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan observere og innhente ikke åpent tilgjengelig elektronisk informasjon i datasystemer eller lignende systemer eller tjenester som etterretningsmål besitter eller antas å ville benytte.\nDersom det er grunn til å tro at innhentingen vil omfatte informasjon som ikke er ment for kommunikasjon, skal den ikke gjennomføres med mindre det er strengt nødvendig.",
+      "xml_path": "article#kapittel-6-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-11",
+      "provision_ref": "§ 6-11",
+      "heading": "Forberedende tiltak",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Etterretningstjenesten kan treffe forberedende tiltak som er nødvendige for å bruke metoder etter dette kapittelet, blant annet forsere eller omgå faktiske og tekniske hindre, installere, gjennomsøke eller tilegne seg tekniske innretninger og programvare, og ta kontroll over, modifisere eller utplassere elektronisk eller annet teknisk utstyr.",
+      "xml_path": "article#kapittel-6-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-12",
+      "provision_ref": "§ 6-12",
+      "heading": "Beslutning om bruk av en innhentingsmetode",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Sjefen for Etterretningstjenesten kan treffe beslutning om bruk av metoder etter dette kapittelet, med mindre beslutningen ligger til departementet etter § 2-5.\nBeslutningen skal ikke gis for lengre tid enn nødvendig, og ikke for mer enn ett år av gangen. Dersom forutsetningene for beslutningen endres vesentlig, skal den snarest mulig vurderes på nytt.",
+      "xml_path": "article#kapittel-6-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-13",
+      "provision_ref": "§ 6-13",
+      "heading": "Krav til beslutningen",
+      "path": [
+        "Kapittel 6. Metoder for innhenting av informasjon som kan medføre inngrep overfor den enkelte"
+      ],
+      "text": "Beslutningen etter § 6-12 skal være skriftlig og angioppdraget som innhentingen knytter seg tilhva eller hvem innhentingen gjelderdet faktiske og rettslige grunnlaget for innhentingenbeslutningens varighet.\nI hastetilfeller kan beslutningen treffes muntlig. Den skal i så fall snarest mulig nedtegnes.",
+      "xml_path": "article#kapittel-6-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 7-1",
+      "heading": "Generelle vilkår og virkeområde",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten kan for etterretningsformål innhente elektronisk kommunikasjon som transporteres over den norske grensen når grunnvilkårene etter kapittel 5 er oppfylt, bestemmelsene i kapittel 7 og 8 følges, og innhenting ikke strider mot loven for øvrig.\nBestemmelsene i kapittel 7 og 8 kommer bare til anvendelse der det er nødvendig at tilbydere som nevnt i § 7-2 legger til rette for innhentingen.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 7-2",
+      "heading": "Tilretteleggingsplikt for ekomtilbydere",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etter pålegg gitt i medhold av § 7-3, skal tilbydere som omfattes av ekomloven § 1-5 og tilbydere av internettbaserte kommunikasjons- eller meldingstjenester som er tilgjengelige for allmennheten, speile og gjøre tilgjengelig for Etterretningstjenesten utvalgte kommunikasjonsstrømmer og på annen måte tilrettelegge for utvalg, filtrering, testing, innhenting, lagring og søk som beskrevet i dette kapittelet, blant annet ved ågi informasjon om signalmiljø, dataformater, tekniske innretninger og fremgangsmåtertillate at tjenesten installerer utstyr og etablerer tilstedeværelse for å drifte utstyr på steder som kontrolleres av tilbydermedvirke til teknisk drift og vedlikehold av etablerte løsningerbidra til at tjenesten kan gjennomføre testinnhenting og testanalyser av trafikk i nett og tjenestersørge for tilgang til kommunikasjon uten hinder av linkkryptering eller tilsvarende kryptering som tilbyder kontrollerermedvirke til sikkerhetsmessig forsvarlige løsninger.\nTilretteleggingen skal ikke forringe elektroniske kommunikasjonstjenester for brukerne. Merutgifter for tilbyder som følge av tilretteleggingen skal dekkes av staten.\nDepartementet kan gi forskrift om tilretteleggingsplikten etter første ledd og prinsipper for utregning av merutgifter etter andre ledd.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 7-3",
+      "heading": "Vilkår og beslutningskompetanse i saker om tilrettelegging",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Elektronisk kommunikasjon som transporteres over den norske grensen kan speiles som grunnlag for søk i lagrede metadata etter § 7-8 og målrettet innhenting og lagring av innholdsdata etter § 7-9, når det er nødvendig for å etablere et informasjonsgrunnlag for etterretningsformål. Tillatelse til å gi pålegg om slik speiling gis av retten ved kjennelse etter reglene i kapittel 8. Pålegget gis av sjefen for Etterretningstjenesten.\nElektronisk kommunikasjon som transporteres over den norske grensen kan også speiles for å gjennomføre tekniske analyser med det formål å avklare om det foreligger grunnlag for å fremme begjæring om rettens tillatelse til speiling etter første ledd. Den speilede kommunikasjonen kan utelukkende brukes til dette formålet. Beslutning om å pålegge slik speiling treffes av sjefen for Etterretningstjenesten. Beslutningen gjelder i 21 dager fra speilingen påbegynnes, men opphører dersom retten avsier kjennelse etter første ledd. For tekniske analyser etter første punktum gjelder reglene i § 7-5 andre, fjerde og femte ledd tilsvarende. Den speilede kommunikasjonen skal holdes adskilt fra andre data som lagres etter reglene i kapittel 7.\nSjefen for Etterretningstjenesten treffer andre beslutninger om å pålegge tilretteleggingsplikt enn de som omfattes av første og andre ledd. Beslutningen kan gjelde for inntil to år av gangen.\nTilbyderen skal så langt som mulig gis anledning til å uttale seg før beslutning etter andre og tredje ledd treffes. Tilbyderen kan påklage beslutningen til departementet. Fristen for å klage er tre uker fra beslutningen ble meddelt tilbyderen. Departementet kan på anmodning fra tilbyderen bestemme at beslutningen ikke skal iverksettes før klagen er avgjort.\nBeslutninger etter andre og tredje ledd skal meddeles EOS-utvalget og Nasjonal kommunikasjonsmyndighet. Nasjonal kommunikasjonsmyndighet har ved forespørsel rett til informasjon fra Etterretningstjenesten om tekniske og operasjonelle løsninger som tjener til å oppfylle tilretteleggingsplikten.\nDepartementet kan gi forskrift om beslutning om tilrettelegging etter andre og tredje ledd og klagebehandling etter fjerde ledd.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-4",
+      "provision_ref": "§ 7-4",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Den som er underlagt tilretteleggingsplikt etter § 7-2, plikter å bevare taushet om Etterretningstjenestens tilgang, tekniske og operasjonelle løsninger og andre forhold knyttet til tilretteleggingen. Taushetsplikten gjelder tilsvarende for enhver som utfører arbeid eller tjeneste for den som er underlagt tilretteleggingsplikt, eller som på annen måte bistår med tilrettelegging. Taushetsplikten gjelder også etter at vedkommende har avsluttet arbeidet eller tjenesten.\nTaushetsplikten er ikke til hinder for å gi opplysninger til EOS-utvalget eller Nasjonal kommunikasjonsmyndighet.",
+      "xml_path": "article#kapittel-7-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-5",
+      "provision_ref": "§ 7-5",
+      "heading": "Testinnhenting og testanalyser",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten kan gjennomføre testinnhenting og testanalyser av trafikk og nett som omfattes av dette kapittelet. Testinnhenting og testanalyser skal utelukkende brukes for å muliggjøre utvalg, filtrering, lagring, søk, reprosessering, forståelse av signalmiljø og gjenkjenning av tjenester og dataformater, samt annen teknisk understøttelse.\nTestinnhenting gjennomføres ved uttrekk av ufiltrert kommunikasjon fra én eller flere kommunikasjonsstrømmer. Ett uttrekk skal ikke overstige 30 sekunder. Det kan ikke gjøres mer enn ett uttrekk hver time.\nUttrekkene skal lagres i et korttidslager som skal holdes adskilt fra data som lagres etter §§ 7-7 og 7-9.\nUttrekkene skal ikke oppbevares lenger enn nødvendig, og de skal slettes senest etter 14 dager. Tekniske parametere og bearbeidede analyser av testdata som ikke kan knyttes til enkeltpersoner, kan oppbevares så lenge det er nødvendig for de formål som fremgår av første ledd andre punktum.\nTestinnhenting, testanalyser og annen teknisk understøttelse skal bare utføres av tekniske spesialister med særskilt opplæring og som ikke har etterretningsanalyse som oppgave. Det skal alltid være to spesialister til stede ved oppsett og analyse av uttrekk etter andre ledd.",
+      "xml_path": "article#kapittel-7-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-6",
+      "provision_ref": "§ 7-6",
+      "heading": "Utvalg og filtrering",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten skal gjennom utvalg og filtrering søke å hindre lagring etter § 7-7 av metadata om kommunikasjon mellom avsender og mottaker som begge befinner seg i Norge, hvis ikke en av dem omfattes av § 4-2 første ledd.",
+      "xml_path": "article#kapittel-7-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-7",
+      "provision_ref": "§ 7-7",
+      "heading": "Innhenting og lagring av metadata i bulk",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etter utvalg og filtrering i samsvar med § 7-6 kan Etterretningstjenesten innhente og lagre metadata i bulk om elektronisk kommunikasjon som transporteres over den norske grensen. Med metadata menes data som beskriver annen data eller som inneholder ekstra informasjon knyttet til data, blant annet data som beskriver formatet på innholdet, hvem som er avsender og mottaker, eller kommunikasjonens størrelse, posisjon, tidspunkt eller varighet.\nFor å hindre lagring av innholdsdata skal Etterretningstjenesten opprette og vedlikeholde en liste over hvilke typer metadata som kan lagres. Listen skal være tilgjengelig for EOS-utvalget og Nasjonal kommunikasjonsmyndighet.\nLagrede metadata skal slettes senest etter 18 måneder.\nFor teknisk analyse, feilsøking og oppdatering av lagrede metadata i den hensikt å muliggjøre søk gjelder § 7-5 femte ledd første punktum tilsvarende.",
+      "xml_path": "article#kapittel-7-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-8",
+      "provision_ref": "§ 7-8",
+      "heading": "Søk i lagrede metadata",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten kan innenfor rammen av rettens kjennelse etter kapittel 8 foreta søk i metadata lagret i samsvar med § 7-7. Søkene skal baseres på søkebegreper.\nSøk i lagrede metadata kan bare utføres av personell i Etterretningstjenesten som er vurdert som skikket til det og som utpekes av sjefen for tjenesten. Personellet må ha gjennomgått særskilt opplæring. Den enkelte skal bare kunne utføre søk i henhold til søkeprivilegier som er tilpasset vedkommendes oppdragsportefølje.",
+      "xml_path": "article#kapittel-7-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-9",
+      "provision_ref": "§ 7-9",
+      "heading": "Målrettet innhenting og lagring av innholdsdata",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten kan innenfor rammen av rettens kjennelse etter kapittel 8 målrettet innhente og lagre innholdsdata med tilhørende metadata fra elektronisk kommunikasjon som transporteres over den norske grensen. Innholdsdata er data som ikke er metadata.",
+      "xml_path": "article#kapittel-7-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-10",
+      "provision_ref": "§ 7-10",
+      "heading": "Internkontroll og aktivitetslogger",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten skal iverksette systematiske tiltak for å sikre at virksomhet etter dette kapittelet gjennomføres i samsvar med loven.\nAlle søk skal kunne kontrolleres i ettertid gjennom aktivitetslogger. Loggene skal oppbevares i 10 år, og skal være tilgjengelige for EOS-utvalgets kontroll til enhver tid.",
+      "xml_path": "article#kapittel-7-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-11",
+      "provision_ref": "§ 7-11",
+      "heading": "Løpende kontroll",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "EOS-utvalget skal føre løpende kontroll med Etterretningstjenestens etterlevelse av bestemmelsene i dette kapittelet, blant annet med at søk bare gjennomføres i tråd med rettens kjennelser og at korttidslageret og testdata utelukkende brukes til teknisk understøttelse.\nEOS-utvalget skal ha uhindret tilgang til all informasjon, interne retningslinjer og prosedyrer, lokaler, utstyr, programvare, filteroppdateringer, aktivitetslogger og annet som benyttes ved virksomhet etter dette kapittelet.\nEtterretningstjenesten skal tilrettelegge for kontrollen gjennom tekniske løsninger.",
+      "xml_path": "article#kapittel-7-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-12",
+      "provision_ref": "§ 7-12",
+      "heading": "Begjæring om stansing og sletting",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Hvis EOS-utvalget mener at virksomhet etter dette kapittelet gjennomføres i strid med loven, kan utvalget fremme begjæring for Oslo tingrett med krav om at ulovlig virksomhet opphører, og at ulovlig innhentet informasjon slettes. Før begjæringen fremmes, skal Etterretningstjenesten gjøres kjent med utvalgets syn og gis mulighet til å rette seg etter det.\nReglene i kapittel 8 gjelder tilsvarende så langt de passer.",
+      "xml_path": "article#kapittel-7-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-13",
+      "provision_ref": "§ 7-13",
+      "heading": "Forbud mot utlevering av overskuddsinformasjon",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten skal ikke utlevere overskuddsinformasjon fra innhenting etter dette kapittelet. Slik informasjon utløser ikke avvergings- eller opplysningsplikter etter annen lov.\nOverskuddsinformasjon som nevnt i første ledd kan likevel utleveres i den utstrekning det er nødvendig for å forhindre alvorlig fare for noens liv, helse eller frihet eller at noen blir uriktig tiltalt eller domfelt for en straffbar handling. EOS-utvalget skal varsles om utleveringen.\nInformasjon som ikke er overskuddsinformasjon, kan utleveres dersom vilkårene i kapittel 10 er oppfylt.",
+      "xml_path": "article#kapittel-7-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-14",
+      "provision_ref": "§ 7-14",
+      "heading": "Bevisforbud i straffesaker",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Informasjon fremkommet gjennom innhenting etter dette kapittelet kan ikke brukes som grunnlag for ileggelse av straff eller andre strafferettslige reaksjoner. Første punktum gjelder ikke i saker om overtredelse av straffeloven § 131.",
+      "xml_path": "article#kapittel-7-paragraf-14"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-15",
+      "provision_ref": "§ 7-15",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 7. Tilrettelagt innhenting av grenseoverskridende elektronisk kommunikasjon"
+      ],
+      "text": "Etterretningstjenesten plikter å hindre at uvedkommende får tilgang til informasjon som lagres og behandles etter bestemmelsene i dette kapittelet. Tjenesten skal gjennomføre sikkerhetstiltak etter §§ 9-9 og 11-5 for å sikre at informasjonen bare er tilgjengelig for de som har lovlig tilgang til den.",
+      "xml_path": "article#kapittel-7-paragraf-15"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 8-1",
+      "heading": "Kjennelse om tillatelse til tilrettelagt innhenting mv.",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Retten kan ved kjennelse gi Etterretningstjenesten tillatelse til ågi pålegg om å speile elektronisk kommunikasjon som transporteres over den norske grensen etter § 7-3 første leddiverksette søk i lagrede metadata etter § 7-8iverksette målrettet innhenting og lagring av innholdsdata etter § 7-9iverksette målrettet innhenting etter § 5-2 andre leddbehandle opplysninger som omfattes av § 9-6 første ledd.\nDet kan oppstilles vilkår i kjennelsen. Kjennelsen skal begrunnes. Retten kan omgjøre kjennelsen.\nRettens avgjørelse skal treffes så raskt som mulig. Den som avgjørelsen retter seg mot eller ellers rammer, skal ikke gis adgang til å uttale seg og meddeles ikke kjennelsen.\nKjennelsen skal meddeles Etterretningstjenesten. Tjenesten skal gjøre kjennelsen og begjæringen tilgjengelig for EOS-utvalget.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 8-2",
+      "heading": "Krav til begjæringen",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Begjæring om tillatelse etter § 8-1 fremmes for Oslo tingrett av sjefen for Etterretningstjenesten eller den som sjefen gir fullmakt. Begjæringen skal være skriftlig og angi det faktiske og rettslige grunnlaget for tiltaket og hvor lenge tillatelsen bør vare, jf. § 8-6.\nBegjæring om tillatelse til speiling av elektronisk kommunikasjon som transporteres over den norske grensen etter § 7-3 første ledd skal angi hvilke kommunikasjonsstrømmer og tilbydere som omfattes. Begjæringen skal også angi resultatet av eventuelle tekniske analyser etter § 7-3 andre ledd og andre relevante opplysninger som kan underbygge at kommunikasjonsstrømmene inneholder kommunikasjon som transporteres over den norske grensen.\nBegjæring om tillatelse til målrettet innhenting etter § 5-2 andre ledd, søk i lagrede metadata etter § 7-8 og målrettet innhenting og lagring av innholdsdata etter § 7-9 skal angi oppdraget som tiltaket knytter seg til. Begjæring om tillatelse til målrettet innhenting etter § 5-2 andre ledd og søk i lagrede metadata etter § 7-8 skal angi hvilke søkebegreper eller kategorier av søkebegreper som skal brukes. Begjæring om tillatelse til målrettet innhenting og lagring av innholdsdata etter § 7-9 skal angi hva eller hvem innhentingen retter seg mot.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 8-3",
+      "heading": "Muntlige forhandlinger",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Retten kan beslutte å avholde muntlige forhandlinger. Etterretningstjenesten møter ved sjefen for tjenesten eller den som sjefen gir fullmakt. Tjenesten kan også møte med tjenestepersoner eller andre som kan opplyse saken.\nRettsmøtene holdes for lukkede dører.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 8-4",
+      "heading": "Hva retten skal prøve",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Retten skal prøve om vilkårene etter denne loven er oppfylt. Dette omfatter blant annetom tiltaket ligger innenfor Etterretningstjenestens oppgaver etter kapittel 3om noen av forbudene i §§ 4-1, 4-8, 4-9 eller 9-4 er til hinder for tiltaketom grunnvilkårene etter kapittel 5 er oppfylt.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-5",
+      "provision_ref": "§ 8-5",
+      "heading": "Særskilt advokat",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Retten skal etter å ha mottatt begjæring som nevnt i § 8-2 oppnevne en advokat som skal ivareta den enkeltes rettigheter og samfunnets interesser i saken. Oppnevnelse kan unnlates dersom retten finner det ubetenkelig. Advokaten oppnevnes fra en særlig krets av sikkerhetsklarerte advokater, og kan ikke la seg representere eller møte ved annen advokat eller fullmektig. Advokaten skal ha godtgjørelse av staten.\nAdvokaten skal gjøres kjent med begjæringen og annen informasjon som legges frem for retten, men har ellers ingen innsynsrett. Advokaten må ikke sette seg i forbindelse med personer som berøres av saken.\nAdvokaten har rett til å uttale seg før retten treffer avgjørelse. Advokaten skal varsles om rettsmøter i saken og har rett til å delta i dem.\nDepartementet kan gi forskrift om oppnevning av advokat etter første ledd.",
+      "xml_path": "article#kapittel-8-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-6",
+      "provision_ref": "§ 8-6",
+      "heading": "Varighet",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Rettens tillatelse etter § 8-1 skal ikke gis for lengre tid enn nødvendig. Gjelder tillatelsen målsøking etter § 7-8, kan den ikke overstige ett år. Gjelder tillatelsen målrettet innhenting etter § 5-2 andre ledd, § 7-8 eller § 7-9, kan den ikke overstige seks måneder. Gjelder tillatelsen speiling etter § 7-3 første ledd, kan den ikke overstige to år.\nEtterretningstjenesten skal avslutte pågående tiltak dersom lovens vilkår ikke lenger er til stede.",
+      "xml_path": "article#kapittel-8-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-7",
+      "provision_ref": "§ 8-7",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Rettens kjennelse skal sikkerhetsgraderes etter reglene gitt i og i medhold av sikkerhetsloven.\nDomstolen skal sørge for at informasjon og dokumenter med høyeste sikkerhetsgrad kan behandles i henhold til reglene gitt i og i medhold av sikkerhetsloven hos domstolen som ledd i skriftlige eller muntlige forhandlinger. Domstolen skal legge til rette for at særskilte advokater oppnevnt etter § 8-5 kan gjøres kjent med sikkerhetsgradert informasjon i domstolens lokaler.\nDepartementet kan gi forskrift om rettens og særskilt oppnevnte advokaters tilgang til rettspraksis i saker etter dette kapittelet.",
+      "xml_path": "article#kapittel-8-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-8",
+      "provision_ref": "§ 8-8",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Dommere og andre som utfører tjeneste eller arbeid for domstolene, har taushetsplikt om begjæringer, rettsmøter, kjennelser og annet de får kjennskap til i saker etter dette kapittelet. Taushetsplikten gjelder også etter at arbeidet eller tjenesten er avsluttet.\nTaushetsplikten er ikke til hinder for å gi opplysninger til EOS-utvalget.",
+      "xml_path": "article#kapittel-8-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-9",
+      "provision_ref": "§ 8-9",
+      "heading": "Anke",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Etterretningstjenesten og den særskilte advokaten kan anke rettens kjennelse.\nReglene i straffeprosessloven kapittel 26 gjelder tilsvarende så langt de passer. § 8-7 gjelder tilsvarende for ankedomstolen.",
+      "xml_path": "article#kapittel-8-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-10",
+      "provision_ref": "§ 8-10",
+      "heading": "Hastekompetanse",
+      "path": [
+        "Kapittel 8. Domstolskontroll"
+      ],
+      "text": "Dersom det ved opphold er stor fare for at informasjon av vesentlig betydning for utførelsen av Etterretningstjenestens oppgaver etter kapittel 3 kan gå tapt, kan ordre fra sjefen for tjenesten tre i stedet for rettens kjennelse. Tjenesten skal straks og senest innen 24 timer etter at innhentingen ble påbegynt, forelegge saken for retten.\nRetten avgjør ved kjennelse om tiltaket kan tillates, jf. § 8-1. Kommer retten til at tiltaket var ulovlig, skal retten meddele dette til EOS-utvalget. Retten kan pålegge Etterretningstjenesten å slette innhentet informasjon.",
+      "xml_path": "article#kapittel-8-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 9-1",
+      "heading": "Forholdet til personopplysningsloven",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Dette kapittelet gjelder for Etterretningstjenestens behandling av personopplysninger for etterretningsformål når personopplysninger behandles helt eller delvis automatisert eller behandles ikke-automatisert og inngår i eller skal inngå i et register.\nFor behandling av personopplysninger for andre formål enn etterretningsformål gjelder bestemmelsene i personopplysningsloven, med de unntak som følger av § 2-7 første ledd og eventuelle tilpassede skjermingsregler i medhold av § 11-4 tredje ledd.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 9-2",
+      "heading": "Behandlingsgrunnlag",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten kan behandle personopplysninger når det er nødvendig for etterretningsformål.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 9-3",
+      "heading": "Unntak for innhenting av personopplysninger",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Med unntak av § 9-4 gjelder ikke bestemmelsene i dette kapittelet for behandling i form av innhenting. Behandling i form av innhenting reguleres i kapittel 3 til kapittel 8.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 9-4",
+      "heading": "Diskrimineringsforbud",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal ikke behandle personopplysninger utelukkende på bakgrunn av hva som er kjent om en persons etnisitet eller nasjonale bakgrunn, politiske, religiøse eller filosofiske overbevisning, språk, politiske virksomhet, fagforeningstilhørighet eller helsemessige eller seksuelle forhold.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-5",
+      "provision_ref": "§ 9-5",
+      "heading": "Behandling av fortrolig kommunikasjon med særlige yrkesutøvere",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal ikke behandle fortrolig kommunikasjon med særlige yrkesutøvere som nevnt i straffeprosessloven § 119 og tvisteloven § 22-5 når yrkesutøveren eller den som betror seg, er bosatt i Norge eller norsk statsborger.\nDersom det er strengt nødvendig at de hensyn som begrunner vernet av den fortrolige kommunikasjonen, viker for nasjonale sikkerhetsinteresser, kan slik fortrolig kommunikasjon likevel behandles.\nBeslutning om å behandle fortrolig kommunikasjon etter andre ledd skal treffes av sjefen for Etterretningstjenesten. Beslutningen skal være skriftlig og redegjøre for det faktiske og rettslige grunnlaget for behandlingen. Beslutningen skal meddeles EOS-utvalget.",
+      "xml_path": "article#kapittel-9-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-6",
+      "provision_ref": "§ 9-6",
+      "heading": "Behandling av opplysninger som kan identifisere en kilde",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal ikke behandle opplysninger som er betrodd noen i deres journalistiske virke og som kan avsløre hvem som er kilde for opplysningen, dersom den som betror seg eller som er betrodd opplysningen, er bosatt i Norge, norsk statsborger eller arbeider på oppdrag for virksomhet i Norge som omfattes av medieansvarsloven § 2. Forbudet gjelder også dersom vedkommende ikke lenger bor i Norge eller arbeider for virksomheten, men gjorde dette da opplysningen ble gitt.\nDersom det er strengt nødvendig at de hensyn som begrunner kildevernet, viker for nasjonale sikkerhetsinteresser, kan opplysninger som nevnt i første ledd likevel behandles.\nAvgjørelse om å behandle opplysninger etter andre ledd skal treffes av retten etter reglene i kapittel 8.",
+      "xml_path": "article#kapittel-9-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-7",
+      "provision_ref": "§ 9-7",
+      "heading": "Korrekte og oppdaterte personopplysninger",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal, så langt det er mulig, påse at personopplysninger som behandles og som ikke er rådata i bulk, er korrekte og oppdaterte. Uriktige personopplysninger skal rettes eller slettes uten unødig opphold. Tjenesten skal, så langt det er mulig, sørge for at feilen ikke får betydning for den personopplysningene gjelder.\nDersom ikke-verifiserte personopplysninger utleveres etter kapittel 10, skal mottakeren gjøres oppmerksom på dette.",
+      "xml_path": "article#kapittel-9-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-8",
+      "provision_ref": "§ 9-8",
+      "heading": "Sletting",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Personopplysninger, og kildeidentifiserende opplysninger som det er gitt tillatelse til å behandle etter § 9-6 tredje ledd og som ikke er personopplysninger, skal slettes når de ikke lenger er nødvendige for formålet med behandlingen.\nRådata i bulk skal slettes senest 15 år fra lagringstidspunktet, med mindre vesentlige hensyn tilsier at sletting utsettes. Beslutning om utsatt sletting treffes av sjefen for Etterretningstjenesten for ikke mer enn fem år av gangen. Metadata som er innhentet og lagret i bulk i samsvar med § 7-7, skal likevel slettes senest etter 18 måneder, jf. § 7-7 tredje ledd.\nSletting av personopplysninger i operative systemer og registre som er tilgjengelige for etterretningsproduksjon, er ikke til hinder for lagring av opplysningene etter annen lov.",
+      "xml_path": "article#kapittel-9-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-9",
+      "provision_ref": "§ 9-9",
+      "heading": "Informasjonssikkerhet",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal gjennom systematiske tiltak sikre konfidensialitet, integritet og tilgjengelighet ved behandling av personopplysninger. Tiltakene skal utformes i samsvar med bestemmelsene i sikkerhetsloven.\nPersonopplysninger skal ikke gjøres tilgjengelige for flere personer enn det som er nødvendig for formålet med behandlingen.",
+      "xml_path": "article#kapittel-9-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-10",
+      "provision_ref": "§ 9-10",
+      "heading": "Personvernrådgiver",
+      "path": [
+        "Kapittel 9. Behandling av personopplysninger etter innhenting"
+      ],
+      "text": "Etterretningstjenesten skal ha minst én personvernrådgiver.\nPersonvernrådgiveren skal bidra til etterlevelse av denne loven gjennom opplæring, rådgivning, veiledning og internkontroll. Personvernrådgiveren skal kunne motta varsler fra ansatte i Etterretningstjenesten om brudd og avvik knyttet til behandling av personopplysninger.",
+      "xml_path": "article#kapittel-9-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 10-1",
+      "heading": "Nasjonalt og internasjonalt samarbeid",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten skal samarbeide med andre norske myndigheter om grenseoverskridende trusler, forsvar mot og håndtering av alvorlige hendelser i det digitale rom samt andre prioriterte saksområder.\nEtterretningstjenesten skal etablere og opprettholde etterretningssamarbeid med andre land, forsvarsallianser som Norge deltar i, og andre internasjonale organisasjoner. Departementets beslutning skal innhentes i saker som nevnt i § 2-5.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 10-2",
+      "heading": "Utlevering av etterretningsinformasjon som ledd i nasjonalt samarbeid",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten kan utlevere etterretningsinformasjon til andre norske myndigheter dersomutleveringen skjer for etterretningsformål eller er nødvendig for å fremme mottakerens oppgaver eller hindre at virksomhet blir utøvd på en uforsvarlig måteutlevering av informasjon som Etterretningstjenesten har mottatt fra en tredjepart, skjer med dennes samtykkeutlevering av personopplysninger er i samsvar med kapittel 9utleveringen er forholdsmessig etter § 5-4utleveringen er forsvarlig i lys av opplysningenes kvalitet, hvem som er mottaker av opplysningene, og hvordan mottakeren antas å bruke demutleverte opplysninger forventes å bli forsvarlig sikkerhetsmessig behandlet.\nUtlevering med sikte på innhenting eller andre tiltak hos mottaker på vegne av Etterretningstjenesten kan bare skje dersom tjenesten selv ville hatt adgang til å gjennomføre innhentingen eller tiltaket.\nUtlevering skal skje med notoritet.\nDenne paragrafen gjelder ikke for utlevering av informasjon til EOS-utvalget og andre tilsyns- og kontrollinstanser.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-3",
+      "provision_ref": "§ 10-3",
+      "heading": "Utlevering av etterretningsinformasjon som ledd i internasjonalt samarbeid",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten kan utlevere etterretningsinformasjon til andre staters myndigheter eller internasjonale organisasjoner dersomvilkårene etter § 10-2 er oppfyltutleveringen er under nasjonal kontroll og i Norges interessedet settes som vilkår at informasjonen ikke kan brukes som grunnlag for innhenting rettet mot personer i Norge, med unntak for personer som omfattes av § 4-2 første ledd og som det er i Norges interesse at mottakeren innhenter opplysninger om.\nEtterretningstjenesten skal ikke utlevere etterretningsinformasjon hvis det er en reell risiko for at informasjonen kan medvirke til at noen utsettes for tortur eller annen umenneskelig eller nedverdigende behandling eller straff.",
+      "xml_path": "article#kapittel-10-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-4",
+      "provision_ref": "§ 10-4",
+      "heading": "Utlevering av overskuddsinformasjon",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten kan utlevere overskuddsinformasjon til andre norske myndigheter når vilkårene etter § 10-2 er oppfylt.\nOverskuddsinformasjon som stammer fra innhenting etter kapittel 7, reguleres av § 7-13.\nOverskuddsinformasjon som er fortrolig kommunikasjon etter § 9-5 eller kildeinformasjon etter § 9-6, kan ikke utleveres.",
+      "xml_path": "article#kapittel-10-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-5",
+      "provision_ref": "§ 10-5",
+      "heading": "Utlevering av informasjon til Etterretningstjenesten fra norske myndigheter",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Norske myndigheter kan uten hinder av lovbestemt taushetsplikt utlevere informasjon til Etterretningstjenesten dersom det er nødvendig for forebyggelses- og sikkerhetsmessige formål innenfor rammen av Etterretningstjenestens oppgaver etter kapittel 3. Første punktum gjelder ikke for taushetsplikt som nevnt i straffeprosessloven § 119 og tvisteloven § 22-5 eller taushetsplikt etter straffeprosessloven § 216 i.",
+      "xml_path": "article#kapittel-10-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-6",
+      "provision_ref": "§ 10-6",
+      "heading": "Formidling av opplysninger på vegne av norske myndigheter",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten kan på vegne av andre norske myndigheter formidle opplysninger til og fra andre staters myndigheter dersomden norske myndigheten har anmodet Etterretningstjenesten om å formidle opplysningenemottakeren opplyses om at formidlingen skjer på vegne av den norske myndighetenEtterretningstjenesten ikke endrer opplysningene, legger til egen informasjon eller ber mottakeren om å handle på en bestemt måte i lys av opplysningene.\nMottakeren skal opplyses om at videreformidling til tredjeparter krever samtykke fra den norske myndigheten, og eventuelt om at slikt samtykke allerede er gitt.\nFormidlingen skal skje med notoritet.",
+      "xml_path": "article#kapittel-10-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-7",
+      "provision_ref": "§ 10-7",
+      "heading": "Bistand til politiet",
+      "path": [
+        "Kapittel 10. Nasjonalt og internasjonalt samarbeid og informasjonsutveksling"
+      ],
+      "text": "Etterretningstjenesten kan bistå politiet i samsvar med politiloven § 27 a. Bistand i form av søk eller innhenting etter kapittel 7 kan ikke finne sted.",
+      "xml_path": "article#kapittel-10-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 11-1",
+      "heading": "Forholdet til forvaltningsloven",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Med unntak av forvaltningsloven §§ 13 til 13 g om taushetsplikt kommer forvaltningsloven ikke til anvendelse for saksbehandling som knytter seg til utførelsen av Etterretningstjenestens oppgaver etter denne loven.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 11-2",
+      "heading": "Taushetsplikt",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Enhver som gjør arbeid eller tjeneste for Etterretningstjenesten, skal bevare livsvarig taushet om informasjon som vedkommende blir kjent med gjennom arbeidet eller tjenesten, dersom det kan skade nasjonale sikkerhetsinteresser om informasjonen blir kjent for uvedkommende.\nAnsatte i Etterretningstjenesten skal bevare livsvarig taushet om eget eller andres tilsettingsforhold.\nTaushetsplikten etter første ledd gjelder også for enhver som blir kjent med sikkerhetsgradert informasjon etter § 2-4 tredje ledd.\nInformasjon som nevnt i første til tredje ledd kan ikke utnyttes i virksomhet utenfor Etterretningstjenesten.\nTaushetsplikten er ikke til hinder for at opplysninger utleveres etter bestemmelsene i denne loven eller etter regler fastsatt i annen lov, eller at opplysninger gjøres kjent for andre i Etterretningstjenesten i samsvar med gjeldende autorisasjonsregler og prinsippet om tjenstlig behov.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 11-3",
+      "heading": "Krav til statsborgerskap og sikkerhetsklarering",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Militært personell og sivilt ansatte i Etterretningstjenesten skal ha norsk statsborgerskap og være sikkerhetsklarert for STRENGT HEMMELIG.\nSjefen for Etterretningstjenesten kan for særskilte stillinger med lavere klareringsbehov bestemme at personellet kan være sikkerhetsklarert for HEMMELIG.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 11-4",
+      "heading": "Skjerming av etterretningsoperasjoner mv.",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Etterretningstjenesten kan for å skjerme sine operasjoner benytte dekkstrukturer og uriktige, falske eller villedende identiteter, dokumenter og opplysninger, samt ta kontroll over, modifisere eller utplassere elektronisk utstyr.\nBestemmelser om opplysningsplikt i annen lov gjelder ikke for opplysninger om vederlag som Etterretningstjenesten yter til kilder og oppdragstakere som ikke er ansatt i tjenesten. Slike vederlag og betalinger skal ikke regnes som skattepliktig inntekt for mottakeren eller inngå i grunnlag for beregning eller avkortning av sosiale ytelser eller lignende.\nKongen i statsråd kan gi bestemmelser som fraviker annen lov, blant annet krav om rapportering av informasjon til offentlige registre, i den utstrekning det er nødvendig for å skjerme Etterretningstjenestens ansatte, kilder, kapasiteter, metoder eller operasjoner mot offentlig eksponering eller kompromittering overfor andre stater.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-5",
+      "provision_ref": "§ 11-5",
+      "heading": "Arkiver, informasjonssystemer og etterretningsregistre",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Etterretningstjenestens arkiver, informasjonssystemer og etterretningsregistre skal være betryggende sikret og utilgjengelige for andre enn eget autorisert personell med tjenstlig behov for tilgang og personer som er satt til å føre kontroll og tilsyn med Etterretningstjenesten.",
+      "xml_path": "article#kapittel-11-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-6",
+      "provision_ref": "§ 11-6",
+      "heading": "Beredskap",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Etterretningstjenesten skal utarbeide og vedlikeholde beredskapsplaner, blant annet forberedte tiltak for å sikre at tjenestens informasjon og systemer ikke kommer under kontroll av uvedkommende i krise eller væpnet konflikt, basert på Nasjonalt beredskapssystem og Forsvarets operative planverk.",
+      "xml_path": "article#kapittel-11-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-7",
+      "provision_ref": "§ 11-7",
+      "heading": "Klage og underretning",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Enhver kan klage til EOS-utvalget etter EOS-kontrolloven. Etterretningstjenesten plikter ikke å gi underretning til den som har vært gjenstand for informasjonsinnhenting som kan innebære et menneskerettslig inngrep.",
+      "xml_path": "article#kapittel-11-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-8",
+      "provision_ref": "§ 11-8",
+      "heading": "Straff",
+      "path": [
+        "Kapittel 11. Avsluttende bestemmelser"
+      ],
+      "text": "Den som handler i strid med beslutning om tilrettelegging etter § 7-3 eller bryter taushetsplikt etter § 7-4, straffes med bot eller fengsel inntil 6 måneder.",
+      "xml_path": "article#kapittel-11-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 12-1",
+      "heading": "Ikrafttredelse",
+      "path": [
+        "Kapittel 12. Ikrafttredelse og endringer i andre lover"
+      ],
+      "text": "Loven trer i kraft fra det tidspunktet1 Kongen bestemmer. De ulike bestemmelsene kan settes i kraft til ulik tid.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 12-2",
+      "heading": "Opphevelse",
+      "path": [
+        "Kapittel 12. Ikrafttredelse og endringer i andre lover"
+      ],
+      "text": "Fra det tidspunktet loven trer i kraft, oppheves lov 20. mars 1998 nr. 11 om Etterretningstjenesten.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-3",
+      "provision_ref": "§ 12-3",
+      "heading": "Endringer i andre lover",
+      "path": [
+        "Kapittel 12. Ikrafttredelse og endringer i andre lover"
+      ],
+      "text": "Fra det tidspunktet loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#kapittel-12-paragraf-3"
+    }
+  ]
+}

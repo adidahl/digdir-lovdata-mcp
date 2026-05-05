@@ -1,0 +1,34 @@
+{
+  "id": "FOR-2011-08-31-892",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om overgangsregler for veterinærer som etter søknad har oppgavefritak for 1.–5. termin",
+  "short_title": "Forskrift om overgangsregler for veterinærer",
+  "department": "Finansdepartementet",
+  "date_in_force": "2011-08-31",
+  "lovdata_refid": "forskrift/2011-08-31-892",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-08-31-892",
+  "raw_xml_sha256": "a40d8eb34ca81f9f4d0b1764a774b46e014b982cfae5b2c38895de79cbf1dfe3",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [
+        "I"
+      ],
+      "text": "Ordningen med oppgavefritak for veterinærer bortfaller fra og med 1. januar 2012.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [
+        "I"
+      ],
+      "text": "Veterinærer som etter søknad inntil videre har hatt oppgavefritak for 1.–5. termin, innrømmes tilsvarende oppgavefritak for 2011.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    }
+  ]
+}

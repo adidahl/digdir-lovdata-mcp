@@ -1,0 +1,37 @@
+{
+  "id": "FOR-1993-01-15-30",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om hvilke opplysninger som skal gis i melding om salg av leiegård.",
+  "short_title": "Forskrift om salg av leiegård",
+  "department": "Kommunal- og distriktsdepartementet",
+  "date_in_force": "1993-01-18",
+  "lovdata_refid": "forskrift/1993-01-15-30",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1993-01-15-30",
+  "raw_xml_sha256": "f32bb1b0511e3f402ab3420928ee5aeb5d59abd0d66a48fc9fb7d648e71bcf2b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "I melding til kommunen om overdragelse av leiegård som omfattes av lov 29. april 1977 nr. 34 om kommunal forkjøpsrett til leiegårder, skal det gis følgende opplysninger:Eiendommens gnr., bnr. og gateadresse. Dersom eiendommen er seksjonert oppgis snr.Det skal opplyses om det er eiet eller festet grunn. Dersom det er festet grunn oppgis festenr.Selgers navn, personnr./foretaksnr. og adresseKjøpers navn, personnr./foretaksnr. og adresseDersom erververen er eierens ektefelle eller i slekt med eieren eller eierens ektefelle i rett opp- eller nedstigende linje, eller i eierens eller ektefellens første sidelinje til og med barn av søsken, skal det gis opplysning om dette.Navn til samtlige leieboere. Dersom en hovedleier for tiden ikke bor i eiendommen skal vedkommendes adresse oppgis.Antall tidsbegrensede leieforholdAntall tidsubestemte leieforholdAntall ledige boliger og næringslokalerSamlede leieinntekter for foregående årSamlede driftsutgifter for foregående år. Følgende driftsutgifter skal spesifiseres:vedlikeholdsutgifterforsikringerskatter og kommunale avgifterandre driftsutgifterOverdragelsessum og øvrige vilkår, herunder kopi av alle kontrakter vedrørende overdragelsen. Ved gave eller gavesalg oppgis antatt omsetningsverdi. Ved tvangssalg skal stadfestelseskjennelsen vedlegges. Panteattest vedlegges dersom det foreligger.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Følgende opplysninger skal gis i den grad de ikke fremgår av vedlagt takst:TomtearealByggeårAntall etasjerAntall boliger og ca. antall m2 boligarealAntall næringslokaler og ca. antall m2 næringsarealArealberegningsmetode som er lagt til grunn under pkt. 5 og 6, jfr. NS-3940 om areal- og volumberegning av bygninger.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne forskrift trer i kraft 18. januar 1993.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2020-05-20-1030",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Midlertidig forskrift om fastsettelse av pris ved pliktig tilbud",
+  "short_title": "Midl. forskrift om fastsettelse av pris ved pliktig tilbud",
+  "department": "Finansdepartementet",
+  "date_in_force": "2020-05-20",
+  "last_change_in_force": "2025-12-11",
+  "last_changed_by": "forskrift/2025-12-11-2495",
+  "lovdata_refid": "forskrift/2020-05-20-1030",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2020-05-20-1030",
+  "raw_xml_sha256": "b879417d318c762be5dbde8d7a6e6f42932e72287075a56f95e5ab0c480e82fc",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Justering av tilbudspris",
+      "path": [],
+      "text": "(1) Tilbudsmyndigheten kan endre den tilbudspris som følger av verdipapirhandelloven § 6-10 fjerde ledd første punktum, dersom tilbudsplikt utløses i forbindelse med tilførsel av egenkapital til et selskap i alvorlige finansielle vanskeligheter.(2) Tilbudsprisen etter første ledd skal fastsettes til:den høyeste prisen tilbyder har betalt eller avtalt ved det ervervet som utløser tilbudsplikt, eller erverv som foretas i nær sammenheng med dette,elleren høyere pris enn etter bokstav a som tilbyder har betalt eller avtalt i perioden 6 måneder før tilbudsplikten inntrådte dersom prisen ikke i urimelig grad avviker fra observerbare omsetningspriser da tilbudsplikten inntrådte, på tidspunktet da avtale om erverv som vil utløse tilbudsplikt ble inngått, eller erverv som foretas i nær sammenheng med dette.(3) Dersom prisen fastsatt etter reglene i annet ledd klart fremstår som urimelig lav, kan tilbudsmyndigheten isteden fastsette tilbudsprisen i første ledd i samsvar med alminnelig anerkjente objektive kriterier for verdsettelse av aksjer, herunder ved observasjon av omsetningspriser for en representativ periode. I vurderingen av om prisen klart fremstår som urimelig lav, kan tilbudsmyndigheten blant annet legge vekt på differanse mot observerbare omsetningspriser og vilkårene og kriteriene benyttet ved tilførsel av egenkapital til selskapet.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Kostnader",
+      "path": [],
+      "text": "Tilbudsmyndigheten kan kreve at tilbyder dekker kostnadene ved endring av tilbudsprisen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikrafttredelse og varighet",
+      "path": [],
+      "text": "Forskriften trer i kraft straks. Forskriften oppheves 1. januar 2027.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

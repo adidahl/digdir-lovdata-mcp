@@ -1,0 +1,68 @@
+{
+  "id": "FOR-1997-11-19-1173",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om avgrensning av arbeidsgiveravgiftsfritaket etter folketrygdloven § 23-2 sjuende ledd for private arbeidsoppdrag i hjemmet mv",
+  "short_title": "Forskrift om avgrensning av arbeidsgiveravgift",
+  "department": "Finansdepartementet",
+  "date_in_force": "1998-01-01",
+  "last_change_in_force": "2014-01-01",
+  "last_changed_by": "forskrift/2014-12-19-1861 fra 2014-01-01",
+  "lovdata_refid": "forskrift/1997-11-19-1173",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1997-11-19-1173",
+  "raw_xml_sha256": "ca5339e6d57c28f4a837813022a622445e80b9be28c56f9fbbe8f2cbfe3960da",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Forskriftens virkeområde",
+      "path": [
+        "I"
+      ],
+      "text": "Forskriften avgrenser området for fritak for arbeidsgiveravgift ved private arbeidsoppdrag i hjemmet etter lov av 28. februar 1997 nr. 19 om folketrygd (folketrygdloven) § 23-2 sjuende ledd.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Arbeid som omfattes av fritaket",
+      "path": [
+        "I"
+      ],
+      "text": "Som privat arbeidsoppdrag i hjemmet regnes lønnet arbeid som skjer på eller i tilknytning til arbeidsgiverens hjem eller fritidsbolig. Arbeidet kan blant annet gjelde omsorgsfunksjoner i hjemmet, innkjøp, renhold, hagestell, snømåking, vedlikeholdstjenester og påkostninger på fritakslignet bolig- eller fritidseiendom etter skatteloven § 7-1 og § 7-2, leiet bolig, innbo eller privat kjøretøy.\nDet regnes ikke som privat arbeidsoppdrag etter første ledd når en gjenstand sendes bort for vedlikehold, utbedring eller påkostning mv. Det samme gjelder arbeid på byggeplass før bolig eller fritidsbolig tas i bruk av arbeidsgiveren.\nFritaket i folketrygdloven § 23-2 sjuende ledd gjelder tilsvarende for godtgjørelse til verge etter vergemålsloven § 30, når godtgjørelsen dekkes av den vergetrengende. Fritaket etter dette ledd gjelder selv om den vergetrengende krever inntektsfradrag for godtgjørelsen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Krav til partenes forhold",
+      "path": [
+        "I"
+      ],
+      "text": "Arbeidsoppdrag etter § 2 må avtales av arbeidsgiveren som privatperson. Lønnsutgifter som er fradragsberettiget i arbeidsgiverens næringsvirksomhet eller ved regnskapsligning av bolig- og fritidseiendom, omfattes ikke av avgiftsfritak som nevnt i § 2.\nEt arbeidsoppdrag går ikke inn under § 2 dersom det utføres:av en næringsdrivende, med mindre oppdraget faller utenfor næringsvirksomheten,i et slikt omfang at dette i seg selv må regnes som næringsvirksomhet, eller innebærer en utvidelse av en eksisterende næringsvirksomhet,av en ansatt som har dominerende eierandel eller innflytelse i et aksjeselskap når oppdraget etter sin art omfattes av selskapets virksomhet, ellerav en arbeids- eller oppdragstaker hos en hovedoppdragstaker som oppdragsgiveren har inngått avtale med.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Beregningsenheten",
+      "path": [
+        "I"
+      ],
+      "text": "Beløpsgrensen som er fastsatt i folketrygdloven § 23-2 sjuende ledd, gjelder den enkelte husstands samlede lønnsutgifter, herunder eventuelle feriepenger og verdien av fri kost og losji, utbetalt til eller stilt til disposisjon for en eller flere arbeidstakere i løpet av inntektsåret. Beløpsgrensen gjelder uavhengig av antall medlemmer i husstanden. Som en husstand regnes den eller de som har felles husholdning. I generasjonsboliger gjelder beløpsgrensen for hver av husstandene dersom de har egen husholdning.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Arbeidsgiverens ansvar",
+      "path": [
+        "I"
+      ],
+      "text": "Arbeidsgiveren er ansvarlig for arbeidsgiveravgift som påløper ved at vilkårene for avgiftsfritak, herunder vilkårene i § 2, ikke er oppfylt.",
+      "xml_path": "article#kapittel-1-paragraf-5"
+    }
+  ]
+}

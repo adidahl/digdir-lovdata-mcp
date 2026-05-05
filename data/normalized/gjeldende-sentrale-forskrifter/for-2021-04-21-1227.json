@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2021-04-21-1227",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om utpeking av Kystverket som klageinstans etter lov 21. juni 2019 nr. 70 § 4",
+  "short_title": "Forskrift om utpeking av Kystverket som klageinstans etter lov 21. juni 2019 nr. 70 § 4",
+  "department": "Nærings- og fiskeridepartementet",
+  "date_in_force": "2021-04-21",
+  "lovdata_refid": "forskrift/2021-04-21-1227",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2021-04-21-1227",
+  "raw_xml_sha256": "7c338fe76c4f30017498018ff31bda6d8a02510b1680a64171dfc893dbddf147",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Klageinstans",
+      "path": [],
+      "text": "Kystverket er klageinstans for enkeltvedtak som er truffet av kommunen eller etter myndighet delegert fra kommunen, jf. lov 21. juni 2019 nr. 70 § 4 andre ledd.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Ikrafttredelse",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

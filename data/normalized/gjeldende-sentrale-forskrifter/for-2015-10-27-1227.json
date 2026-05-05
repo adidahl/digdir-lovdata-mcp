@@ -1,0 +1,112 @@
+{
+  "id": "FOR-2015-10-27-1227",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om validerings- og kontrollflyorganisasjoner",
+  "short_title": "Forskrift om validerings- og kontrollflyorganisasjoner",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2015-10-27",
+  "lovdata_refid": "forskrift/2015-10-27-1227",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2015-10-27-1227",
+  "raw_xml_sha256": "ad55b7e38bc4286ddd2d930f5364909026d6a0c2c602f2846f75b764ba533141",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Virkeområde",
+      "path": [],
+      "text": "Forskriften gjelder for organisasjoner som utfører validerings- og kontrollflyging av luftfartsanlegg for kommunikasjon, navigasjon og overvåking samt instrumentprosedyrer. Forskriften gjelder i Norge, herunder på Svalbard, samt i områder hvor Norge i henhold til internasjonale konvensjoner og avtaler er forpliktet til å yte flysikrings- og kunngjøringstjeneste.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Definisjoner",
+      "path": [],
+      "text": "I forskriften forstås medspesielle besetningsmedlemmer: personell som opererer kontrollflyutstyr,kontrollflyging: en flyging som utføres for å verifisere at det utstrålte signal fra bakkeanlegget er korrekt, samt å verifisere at luftfartøyets navigasjonssystem mottar korrekt informasjon,valideringsflyging: en type kontrollflyging som utføres for å verifisere at den designede versjon av prosedyren som er programmert i luftfartøyets Flight Management System (FMS), kan godkjennes for operativ bruk.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Gjennomføring i norsk rett",
+      "path": [],
+      "text": "ICAO DOC 8071 Volume I Fourth Edition – 2000, 31.10.2002, Volume II Fifth Edition – 2007, 30.04.2008 og DOC 9906 Volume V First Edition – 2012 og Volume VI First Edition – 2012, gjelder som norsk forskrift.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "Krav til godkjenning som validerings- og kontrollflyorganisasjoner",
+      "path": [],
+      "text": "Validerings- og kontrollflyging skal kun utføres av en virksomhet med godkjenning fra Luftfartstilsynet som validerings- og kontrollflyorganisasjon.\nFor å få godkjenning som validerings- og kontrollflyorganisasjon måvirksomheten utføre spesialiserte luftfartsoperasjoner etter en selverklæring, jf. forordning (EU) nr. 965/2012, ORO.DEC.100, som gjennomført ved forskrift 7. august 2013 nr. 956 om luftfartsoperasjoner,installasjoner av måleutstyr, kraftuttak og antenner være godkjent i henhold til forskrift 4. mars 2013 nr. 252 om luftdyktighets- og miljøsertifisering for luftfartøyer mv. og sertifisering av design- og produksjonsorganisasjoner (sertifiseringsforskriften),kontrollflyet ha tekniske og operative spesifikasjoner som oppfyller krav til at flyet kan operere på norske lufthavner,virksomheten utføres i samsvar med krav i DOC 8071 Volum I og II og DOC 9906 Volum V. Validerings- og kontrollflyging av en SCAT-I installasjon skal følge krav fastsatt i ICAO DOC 8071 Volume II Chapter 4 Ground-Based Augmentation Systems (GBAS),spesielle besetningsmedlemmer ha kompetanse i samsvar med pkt 1.11 og 1.12 i DOC 8071 Volume I og pkt 1.11 i DOC 8071 Volume II.\nGodkjenning som validerings- og kontrollflyorganisasjon kan gis for en periode inntil fem år.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "heading": "Krav til godkjenning av kontrollflyutstyr",
+      "path": [],
+      "text": "Kontrollflyutstyr, herunder referanseutstyr, som skal benyttes under validerings- og kontrollflyging skal være godkjent av Luftfartstilsynet.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "heading": "Krav til godkjenning av valideringspiloter",
+      "path": [],
+      "text": "Valideringspiloter skal ha kompetanse i samsvar med DOC 9906 Volum VI og være godkjent av Luftfartstilsynet.",
+      "xml_path": "article#paragraf-6"
+    },
+    {
+      "section_id": "paragraf-7",
+      "provision_ref": "§ 7",
+      "heading": "Krav til godkjenning av kontrollflyhåndbok",
+      "path": [],
+      "text": "Validerings- og kontrollflyorganisasjoner skal utarbeide kontrollflyhåndbok for sin virksomhet.\nKontrollflyhåndboken skal være godkjent av Luftfartstilsynet.",
+      "xml_path": "article#paragraf-7"
+    },
+    {
+      "section_id": "paragraf-8",
+      "provision_ref": "§ 8",
+      "heading": "Validerings- og kontrollflyging",
+      "path": [],
+      "text": "Luftfartstilsynet kan delta som observatør når validerings- og kontrollflyging utføres.\nVed validerings- og kontrollflyginger som utføres etter hendelser og ulykker skal rapport fra flygingen sendes til Luftfartstilsynet.",
+      "xml_path": "article#paragraf-8"
+    },
+    {
+      "section_id": "paragraf-9",
+      "provision_ref": "§ 9",
+      "heading": "Suspensjon og tilbakekall",
+      "path": [],
+      "text": "Dersom innehaveren av en godkjenning gitt i medhold av denne forskrift ikke overholder vilkårene som gjelder for godkjenningen, kan Luftfartstilsynet helt eller delvis begrense, suspendere eller tilbakekalle godkjenningen.",
+      "xml_path": "article#paragraf-9"
+    },
+    {
+      "section_id": "paragraf-10",
+      "provision_ref": "§ 10",
+      "heading": "Overtredelsesgebyr",
+      "path": [],
+      "text": "Overtredelsesgebyr etter luftfartsloven § 13a-5 nr. 6 kan ilegges for brudd på reglene i § 4, § 5 og § 7.",
+      "xml_path": "article#paragraf-10"
+    },
+    {
+      "section_id": "paragraf-11",
+      "provision_ref": "§ 11",
+      "heading": "Dispensasjon",
+      "path": [],
+      "text": "Luftfartstilsynet kan dispensere fra kravene i § 6 når det er nødvendig for å få gjennomført valideringsflyging og det ikke medfører at flysikkerheten reduseres under akseptabelt sikkerhetsnivå.",
+      "xml_path": "article#paragraf-11"
+    },
+    {
+      "section_id": "paragraf-12",
+      "provision_ref": "§ 12",
+      "heading": "Ikrafttredelse, opphevelse og overgangsregel",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.\nFra samme tidspunkt oppheves forskrift 27. juni 2011 nr. 655 om kontrollflyorganisasjoner mv.\nGodkjenning av kontrollflyorganisasjon etter forskrift 27. juni 2011 nr. 655 er fortsatt gyldig inntil utløp av godkjenningsperioden.",
+      "xml_path": "article#paragraf-12"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "FOR-1988-08-31-744",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om forbud mot innførsel av dyr til Svalbard.",
+  "short_title": "Forskr. om innførselsforbud til Svalbard",
+  "department": "Landbruks- og matdepartementet",
+  "date_in_force": "1988-10-01",
+  "last_change_in_force": "2004-01-09",
+  "last_changed_by": "forskrift/2004-01-09-72",
+  "lovdata_refid": "forskrift/1988-08-31-744",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1988-08-31-744",
+  "raw_xml_sha256": "48613f031c5b17d4a7774dc6a25b4a09aa0c36a34cac9ec1fd7b6fc1ba96014a",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Det er forbudt å innføre til Svalbard levende pattedyr og fugler av alle slag. Unntatt fra forbudet er:burfugl, kanin og smågnager fra Norge og Sverige og burfugl fra Finland som kan tas med uten veterinærattest,kyr, griser, hester og høns som er nødvendig for å opprettholde husdyrholdet i Barentsburg og Pyramiden.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Mattilsynet kan i særlige tilfeller dispensere fra bestemmelsene i denne forskriften, forutsatt at det ikke vil stride mot Norges internasjonale forpliktelser, herunder EØS-avtalen.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Den som forsettlig eller grovt uaktsomt overtrer eller unnlater å følge disse forskrifter eller påbud som blir gitt i medhold av dem, eller medvirker til det, straffes med bøter eller fengsel i inntil 3 måneder såfremt strengere straff ikke kommer til anvendelse. På samme måte straffes forsøk.\nDyr som innføres eller forsøkes innført i strid med disse forskrifter, skal sendes tilbake eller avlives for eierens/besitterens regning uten at eieren/besitteren har krav på erstatning.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Disse forskrifter trer i kraft 1. oktober 1988.\nFra samme tid oppheves forskrifter om forbud mot innførsel av dyr til Svalbard, fastsatt av Landbruksdepartementet 20. mars 1980.",
+      "xml_path": "article#paragraf-4"
+    }
+  ]
+}

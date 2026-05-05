@@ -1,0 +1,32 @@
+{
+  "id": "FOR-2013-02-04-138",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om register over typegodkjente jernbanekjøretøy (ERATV-forskriften)",
+  "short_title": "ERATV-forskriften",
+  "department": "Samferdselsdepartementet",
+  "date_in_force": "2013-02-04",
+  "last_change_in_force": "2025-12-08",
+  "last_changed_by": "forskrift/2025-12-08-2454",
+  "lovdata_refid": "forskrift/2013-02-04-138",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2013-02-04-138",
+  "raw_xml_sha256": "499f372f273244e4c0161f104538431cbfa611bafe0a696f68e5ba74d338e782",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Beslutning 2011/665/EU om det europeiske registeret over godkjente typer jernbanekjøretøyer, som inntatt i EØS-avtalen vedlegg XIII nr. 37dk, gjelder som forskrift med de endringer og tillegg som følger av vedlegg XIII, protokoll 1 til avtalen og avtalen for øvrig, og med de endringene som følger avforordning (EU) 2019/776beslutning (EU) 2021/701beslutning (EU) 2023/1696forordning (EU) 2025/675.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriften trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

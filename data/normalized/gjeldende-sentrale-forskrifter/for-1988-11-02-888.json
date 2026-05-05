@@ -1,0 +1,32 @@
+{
+  "id": "FOR-1988-11-02-888",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om garantitillegg for å hindre nedgang i samlet pensjon etter samordningsloven",
+  "short_title": "Forskrift om garantitillegg i pensjonen",
+  "department": "Arbeids- og inkluderingsdepartementet",
+  "date_in_force": "1988-11-02",
+  "last_change_in_force": "2020-01-01",
+  "last_changed_by": "forskrift/2019-12-20-2150 fra 2020-01-01",
+  "lovdata_refid": "forskrift/1988-11-02-888",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/1988-11-02-888",
+  "raw_xml_sha256": "d0140e34a44f6185ef6f063015be19d800205c68e1f2671b0a0beeca7e347f82",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "I tillegg til gjeldende lover og forskrifter fastsettes følgende bestemmelser for tilfeller hvor en person får flere pensjoner som omfattes av samordningsloven:Dersom pensjonisten får høyere samlet pensjon ved ikke å motta en eller flere av pensjonene, skal den pensjonsordning som er sist i samordningsrekkefølgen, begrense samordningsfradraget slik at samlet pensjon ikke blir lavere enn om vedkommende ikke mottok en eller flere av pensjonene. Blir det fortsatt nedgang, skal det manglende dekkes opp av neste ordning i samordningsrekkefølgen.Dersom noen av pensjonene økes (brutto før samordning) og det oppstår nedgang i samlet utbetalt pensjon, skal samordningsfradraget begrenses på tilsvarende måte som etter nr. 1.Bestemmelsen under nr. 1 og nr. 2 gjelder ikke for pensjonister med reduserte ytelser på helseinstitusjon. De gjelder heller ikke i forbindelse med pensjon fra privat tjenestepensjonsordning.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Forskriftene her trer i kraft straks.",
+      "xml_path": "article#paragraf-2"
+    }
+  ]
+}

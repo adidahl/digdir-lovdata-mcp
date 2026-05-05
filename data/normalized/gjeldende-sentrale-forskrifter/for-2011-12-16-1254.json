@@ -1,0 +1,42 @@
+{
+  "id": "FOR-2011-12-16-1254",
+  "source_dataset": "gjeldende-sentrale-forskrifter",
+  "archive_filename": "gjeldende-sentrale-forskrifter.tar.bz2",
+  "archive_last_modified": "2026-05-05T01:32:00Z",
+  "document_type": "forskrift",
+  "title": "Forskrift om kommunal helse- og omsorgsinstitusjon",
+  "short_title": "Forskrift om helse- og omsorgsinstitusjon",
+  "department": "Helse- og omsorgsdepartementet",
+  "date_in_force": "2012-01-01",
+  "last_change_in_force": "2014-04-01",
+  "last_changed_by": "forskrift/2014-03-21-307 fra 2014-04-01",
+  "lovdata_refid": "forskrift/2011-12-16-1254",
+  "source_url": "https://lovdata.no/dokument/SF/forskrift/2011-12-16-1254",
+  "raw_xml_sha256": "87c53f9f43bef6368e55ef61e576ce0b1defe2b6be511208ac90f7e70340e08b",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "Institusjon etter helse- og omsorgstjenesteloven og institusjon under den kommunale helse- og omsorgstjenesten etter pasientskadeloven",
+      "path": [],
+      "text": "Som institusjon etter helse- og omsorgstjenesteloven § 3-2 første ledd nr. 6 bokstav c og institusjon under den kommunale helse- og omsorgstjenesten etter pasientskadeloven § 1 regnes:Institusjon med heldøgns helse- og omsorgstjenester for barn og unge under 18 år som bor utenfor foreldrehjemmet som følge av behov for tjenester (barnebolig), herunder avlastningsboligerInstitusjon med heldøgns helse- og omsorgstjenester for rusmiddelavhengigeAldershjemSykehjemDøgnplasser som kommunen oppretter for å sørge for tilbud om døgnopphold for øyeblikkelig hjelp.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "Institusjon i den kommunale helse- og omsorgstjenesten etter helsepersonelloven",
+      "path": [],
+      "text": "Som helseinstitusjon i den kommunale helse- og omsorgstjenesten etter helsepersonelloven § 3, regnes institusjon etter § 1 bokstavene d og e i forskriften her.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "Ikraftsetting",
+      "path": [],
+      "text": "Forskriften trer i kraft 1. januar 2012.",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

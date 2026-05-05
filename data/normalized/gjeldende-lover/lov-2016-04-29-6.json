@@ -1,0 +1,59 @@
+{
+  "id": "LOV-2016-04-29-6",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om granskingskommisjonen for brannen på Scandinavian Star",
+  "short_title": "Lov om granskingskommisjonen for Scandinavian Star",
+  "department": "Justis- og beredskapsdepartementet",
+  "legal_area": "HMS og beredskaps- og sikkerhetsrett > Samfunnssikkerhet Transport og kommunikasjoner > Skipsfart Sivil- og straffeprosess > Sivilprosess/tvisteloven Sivil- og straffeprosess > Straffeprosess/straffeprosessloven",
+  "date_in_force": "2016-04-29",
+  "lovdata_refid": "lov/2016-04-29-6",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2016-04-29-6",
+  "raw_xml_sha256": "1c3452be2b91b3963ba3d8415d03bbc2e93887012f17ac442d5ff1ff46020e72",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Granskingskommisjonen nedsatt av Stortingets presidentskap i henhold til Stortingets vedtak 12. mai 2015, for å granske brannen på Scandinavian Star, kan foruten å begjære bevisopptak etter domstolloven § 43 mv., innhente bevis etter reglene i denne lov.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Den som innkalles til avhør, plikter å møte for kommisjonen og avgi forklaring. Forklaringen avgis for lukkede dører. Tvisteloven §§ 22-1 til 22-11 og 24-4 gjelder tilsvarende. Kommisjonen kan kreve at den som avgir forklaring, avlegger forsikring som nevnt i tvisteloven § 24-8 fjerde ledd. Tvisteloven §§ 24-8 første til tredje ledd, 24-10 annet ledd og 25-5 fjerde ledd gjelder tilsvarende. Etter anmodning fra den som avgir forklaring, kan kommisjonen beslutte at vedkommendes identitet ikke skal gjøres kjent.\nKommisjonen kan kreve at den som besitter et skriftlig bevis, fremlegger det for kommisjonen. Kommisjonen kan ikke kreve fremlagt de deler av et dokument som inneholder noe som besitteren ville være utelukket fra eller fritatt for å avgi forklaring om.\nAnnet ledd gjelder tilsvarende for plikten til å fremlegge eller gi adgang til andre ting som kommisjonen beslutter å undersøke.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Etter at vedkommende er gitt adgang til å uttale seg, kan kommisjonen gi pålegg etter § 2 ved kjennelse, jf. tvisteloven § 19-1 annet ledd bokstav d. Kjennelsen kan ankes til Høyesteretts ankeutvalg, jf. tvisteloven § 30-1 annet ledd. Tvisteloven § 30-9 gjelder tilsvarende.\nNår en person ved rettskraftig kjennelse er gitt et pålegg etter § 2, gjelder tvisteloven §§ 24-5 og 26-8 tilsvarende. Etter at vedkommende er gitt adgang til å uttale seg, kan kommisjonen ilegge den som ikke etterkommer et rettskraftig pålegg, rettergangsstraff eller erstatningsplikt etter domstolloven §§ 205, 206, 207 og 209. Kommisjonens avgjørelse kan ankes til Høyesteretts ankeutvalg, jf. første ledd annet og tredje punktum.",
+      "xml_path": "article#paragraf-3"
+    },
+    {
+      "section_id": "paragraf-4",
+      "provision_ref": "§ 4",
+      "path": [],
+      "text": "Om straffansvar for uriktig forklaring for kommisjonen eller den som opptar forklaring for kommisjonen, gjelder straffeloven § 221 tilsvarende.",
+      "xml_path": "article#paragraf-4"
+    },
+    {
+      "section_id": "paragraf-5",
+      "provision_ref": "§ 5",
+      "path": [],
+      "text": "Om godtgjørelse til den som etterkommer et pålegg etter § 2, gjelder lov 21. juli 1916 nr. 2 om vitners og sakkyndiges godtgjørelse mv. tilsvarende. Kommisjonens avgjørelse kan ikke ankes.",
+      "xml_path": "article#paragraf-5"
+    },
+    {
+      "section_id": "paragraf-6",
+      "provision_ref": "§ 6",
+      "path": [],
+      "text": "Loven trer i kraft straks.",
+      "xml_path": "article#paragraf-6"
+    }
+  ]
+}

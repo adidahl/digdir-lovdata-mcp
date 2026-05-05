@@ -1,0 +1,38 @@
+{
+  "id": "LOV-1898-12-10-1",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om Norges Flag [flaggloven]",
+  "short_title": "Flaggloven",
+  "department": "Utenriksdepartementet",
+  "legal_area": "Stats-, statsforfatnings- og statsborgerrett > Statsforfatningen",
+  "date_in_force": "1899-12-16",
+  "lovdata_refid": "lov/1898-12-10-1",
+  "source_url": "https://lovdata.no/dokument/NL/lov/1898-12-10-1",
+  "raw_xml_sha256": "a41957081e7ed7b1dba1e5141bdac34c68988f93b116271488ac4db201f60f8d",
+  "sections": [
+    {
+      "section_id": "paragraf-1",
+      "provision_ref": "§ 1",
+      "path": [],
+      "text": "Norges Koffardiflag skal være et høirødt, med et mørkeblaat, og af en hvid Kant indfattet Kors, i fire retvinklede Firkanter afdelt Flag, hvis Bredde skal forholde sig til dets Længde som 16 til 22. De tvende, Flagstangen eller Gaffelen, naar Flaget heises fra Mesanen, nærmeste Firkanter skulle være Kvadrater og hver af dem indtage 6/16 af Flagets Bredde og 6/22 af dets Længde, hvorimod de tvende yderste Firkanter ved en lige Bredde skulle indtage 12/22 af Flagets Længde. Bredden af det blaa Kors skal udgjøre 2/16 af Flagets Bredde eller 2/22 af dets Længde og Bredden af den hvide Kant 1/16 af Flagets Bredde eller 1/22 af dets Længde.",
+      "xml_path": "article#paragraf-1"
+    },
+    {
+      "section_id": "paragraf-2",
+      "provision_ref": "§ 2",
+      "path": [],
+      "text": "Det i § 1 bestemte Flag skal benyttes paa Handelsfartøier, naar de i udenlandsk Havn ønsker at erholde Beskyttelse og Bistand af Gesandtskaber, Konsuler eller Handelsagenter. Paa Statens offentlige Bygninger, Post- og Toldfartøier benyttes samme Flag med Split og Tunge, dog saaledes, at i Postflagets og Toldflagets Midte anbringes et hvidt Felt, hvori Ordene «Post» eller «Told» med Krone over.",
+      "xml_path": "article#paragraf-2"
+    },
+    {
+      "section_id": "paragraf-3",
+      "provision_ref": "§ 3",
+      "path": [],
+      "text": "Denne Lov træder i Kraft et Aar efter den Dag, den er indrykket i Lovtidenden.1",
+      "xml_path": "article#paragraf-3"
+    }
+  ]
+}

@@ -1,0 +1,759 @@
+{
+  "id": "LOV-2000-11-24-82",
+  "source_dataset": "gjeldende-lover",
+  "archive_filename": "gjeldende-lover.tar.bz2",
+  "archive_last_modified": "2026-05-02T01:31:00Z",
+  "document_type": "lov",
+  "title": "Lov om vassdrag og grunnvann (vannressursloven)",
+  "short_title": "Vannressursloven – vrl",
+  "department": "Energidepartementet",
+  "legal_area": "Energirett > Vannkraft Miljøvern, natur og friluftsliv > Vannressurser",
+  "date_in_force": "2001-01-01",
+  "last_change_in_force": "2025-01-01",
+  "last_changed_by": "lov/2024-12-06-74 fra 2025-01-01",
+  "lovdata_refid": "lov/2000-11-24-82",
+  "source_url": "https://lovdata.no/dokument/NL/lov/2000-11-24-82",
+  "raw_xml_sha256": "1e2eed103c2d5840e420fefab57d41f1d03790db35a79018c97dfe2ff989ada0",
+  "sections": [
+    {
+      "section_id": "kapittel-1-paragraf-1",
+      "provision_ref": "§ 1",
+      "heading": "(formål)",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Denne lov har til formål å sikre en samfunnsmessig forsvarlig bruk og forvaltning av vassdrag og grunnvann.",
+      "xml_path": "article#kapittel-1-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-2",
+      "provision_ref": "§ 2",
+      "heading": "(hva loven regner som vassdrag og grunnvann)",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Som vassdrag regnes alt stillestående eller rennende overflatevann med årssikker vannføring, med tilhørende bunn og bredder inntil høyeste vanlige flomvannstand. Selv om et vassdrag på enkelte strekninger renner under jorden eller under isbreer, regnes det i sin helhet som vassdrag. Som vassdrag regnes også vannløp uten årssikker vannføring dersom det atskiller seg tydelig fra omgivelsene.\nLovens regler for vassdrag gjelder også forkunstige vannløp med årssikker vannføring unntatt ledninger og tunneler;kunstige vannmagasiner som står i direkte samband med grunnvannet eller et vassdrag.\nMot sjøen gjelder loven så langtvassdraget ved midlere vannføring ligger over havets nivå ved alminnelig lavvannstand; ellerbunnen er preget av tilløp av ferskvann.\nKongen kan fastsettehvor grensen mot fast mark går etter første ledd;hvor grensen mot sjø går etter tredje ledd;at loven helt eller delvis skal gjelde for poller og andre innelukkede vannområder uten fall til havet, når det er rimelig å likestille dem med vassdrag;ved forskrift i hvilken utstrekning lovens bestemmelser skal gjelde for kunstige vannløp og vannmagasiner;ved forskrift at loven også ut over kapittel 9 helt eller delvis skal gjelde for ledninger og tunneler som fører vann under trykk.\nMed grunnvann forstås vann i den mettede sonen i grunnen.",
+      "xml_path": "article#kapittel-1-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-3",
+      "provision_ref": "§ 3",
+      "heading": "(definisjoner)",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "I denne lov forstås medvassdragstiltak: vassdragsanlegg og alle andre tiltak i vassdraget som etter sin art er egnet til å påvirke vannføringen, vannstanden, vassdragets leie eller strømmens retning og hastighet eller den fysiske og kjemiske vannkvaliteten på annen måte enn ved forurensning;vassdragsanlegg: bygning eller konstruksjon i eller over vassdrag, bortsett fra luftledninger;årssikker vannføring: vannføring som ved middeltemperatur over frysepunktet ikke tørker ut av naturlige årsaker oftere enn hvert tiende år i gjennomsnitt;høyeste vanlige flomvannstand: vannstand ved den høyeste flom som erfaringsmessig kan påregnes i gjennomsnitt hvert tiende år.",
+      "xml_path": "article#kapittel-1-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-1-paragraf-4",
+      "provision_ref": "§ 4",
+      "heading": "(stedlig virkeområde)",
+      "path": [
+        "Kapittel 1. Formål og virkeområde"
+      ],
+      "text": "Kongen fastsetter i hvilken utstrekning loven skal gjelde for Svalbard, Jan Mayen og bilandene, og kan for disse områdene fastsette slike særlige regler som de stedlige forhold tilsier.\nLoven gjelder for grensevassdrag med de begrensninger som følger av alminnelig folkerett eller konvensjoner som Kongen har inngått. Som grensevassdrag regnes et vassdrag som utgjør eller krysser grensen til en annen stat. Kongen kan gi forskrifter til gjennomføring av folkerettslige regler.\nFor grensevassdrag mot Sverige gjelder loven så langt det er forenlig med lov 12. juni 1931 nr. 1 i henhold til konvensjonen mellem Norge og Sverige om visse spørsmål vedrørende vassdragsretten av 11. mai 1929.",
+      "xml_path": "article#kapittel-1-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-1",
+      "provision_ref": "§ 5",
+      "heading": "(forvalteransvar og aktsomhetsplikt)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Enhver skal opptre aktsomt for å unngå skade eller ulempe i vassdraget for allmenne eller private interesser.\nVassdragstiltak skal planlegges og gjennomføres slik at de er til minst mulig skade og ulempe for allmenne og private interesser. Denne plikten gjelder så langt den kan oppfylles uten uforholdsmessig utgift eller ulempe. Vassdragsmyndigheten kan ved forskrift fastsette nærmere regler om planlegging, gjennomføring og drift av bestemte typer vassdragstiltak.\nVassdragstiltak skal fylle alle krav som med rimelighet kan stilles til sikring mot fare for mennesker, miljø eller eiendom.",
+      "xml_path": "article#kapittel-2-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-2",
+      "provision_ref": "§ 6",
+      "heading": "(forholdet til granneloven)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Grannelovens regler får anvendelse for tiltak som berører naboer i vassdrag så langt ikke annet følger av paragrafen her.\nReglene om grannevarsel og granneskjønn i grannelova §§ 6 til 8 gjelder ikke for tiltak som må ha konsesjon etter loven her eller etter vassdragsreguleringsloven.\nTiltak som har konsesjon etter loven her eller vassdragsreguleringsloven kan ikke kreves rettet i medhold av granneloven § 10.\nDet at skaden eller ulempen er tillatt etter loven her, er ikke til hinder for å pålegge tiltakshaveren å betale erstatning eller vederlag så langt dette følger av reglene i granneloven.",
+      "xml_path": "article#kapittel-2-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-3",
+      "provision_ref": "§ 7",
+      "heading": "(vannets løp i vassdrag og infiltrasjon i grunnen)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Ingen må hindre vannets løp i vassdrag uten hjemmel i denne lov.\nUtbygging og annen grunnutnytting bør fortrinnsvis skje slik at nedbøren fortsatt kan få avløp gjennom infiltrasjon i grunnen. Vassdragsmyndigheten kan gi pålegg om tiltak som vil gi bedre infiltrasjon i grunnen, dersom dette kan gjennomføres uten urimelige kostnader.",
+      "xml_path": "article#kapittel-2-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-4",
+      "provision_ref": "§ 8",
+      "heading": "(konsesjonspliktige tiltak)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Ingen må iverksette vassdragstiltak som kan være til nevneverdig skade eller ulempe for noen allmenne interesser i vassdraget eller sjøen, uten at det skjer i medhold av reglene i § 12 eller § 15, eller med konsesjon fra vassdragsmyndigheten.\nVassdragsmyndigheten kan i forskrift eller i det enkelte tilfelle fastsette at tiltak utenfor vassdraget som kan ha påtakelige virkninger for et vassdrag, må ha konsesjon. I så fall gjelder også lovens øvrige regler om vassdragstiltak unntatt adgangen etter § 18 til å begjære forhåndsavgjørelse av om tiltaket er konsesjonspliktig.\nDersom et vassdragstiltak som går inn under første ledd må iverksettes straks for å hindre vesentlig skade, skal det gis melding til vassdragsmyndigheten så snart som mulig. Vassdragsmyndigheten kan om nødvendig gi pålegg om utførelsen og om retting.\nOm konsesjonsplikt og konsesjonsbehandling gjelder ellers nærmere regler i kapittel 3.",
+      "xml_path": "article#kapittel-2-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-5",
+      "provision_ref": "§ 9",
+      "heading": "(kvalitetsmål for vassdrag)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Vassdragsmyndigheten kan fastsette kvalitetsmål for vassdrag, bl.a om vannføring, stoffinnhold og artsforekomst i vassdraget, og bestemmelser om vassdragsmyndighetens plikter hvis kvalitetsmål ikke blir oppfylt. Kvalitetsmål som skal være bindende for utøving av offentlig myndighet, fastsettes etter forvaltningslovens regler for forskrifter.\nKvalitetsmål for forurensende stoffer fastsettes etter forurensningsloven.",
+      "xml_path": "article#kapittel-2-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-6",
+      "provision_ref": "§ 10",
+      "heading": "(vannuttak og minstevannføring)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Ved uttak og bortledning av vann som endrer vannføringen i elver og bekker med årssikker vannføring, skal minst den alminnelige lavvannføring være tilbake, hvis ikke annet følger av denne paragraf. Det samme gjelder når vann holdes tilbake ved oppdemming.\nI konsesjon til uttak, bortledning eller oppdemming skal fastsetting av vilkår om minstevannføring i elver og bekker avgjøres etter en konkret vurdering. Ved avgjørelsen skal det blant annet legges vekt på å sikrevannspeil,vassdragets betydning for plante- og dyreliv,vannkvalitet,grunnvannsforekomster.\nVassdragsmyndigheten kan gi tillatelse til at vilkårene etter første og annet ledd fravikes over en kortere periode for enkelttilfelle uten miljømessige konsekvenser. Vedtak etter dette ledd kan ikke påklages.",
+      "xml_path": "article#kapittel-2-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-7",
+      "provision_ref": "§ 11",
+      "heading": "(kantvegetasjon)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Langs bredden av vassdrag med årssikker vannføring skal det opprettholdes et begrenset naturlig vegetasjonsbelte som motvirker avrenning og gir levested for planter og dyr. Denne regelen gjelder likevel ikke for byggverk som står i nødvendig sammenheng med vassdraget, eller hvor det trengs åpning for å sikre tilgang til vassdraget.\nGrunneieren, tiltakshavere og berørte fagmyndigheter, kan kreve at kommunen fastsetter bredden på beltet. Bredden kan også fastsettes i rettslig bindende planer etter plan- og bygningsloven.\nVassdragsmyndigheten kan i særlige tilfelle frita for kravet i første ledd.",
+      "xml_path": "article#kapittel-2-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-8",
+      "provision_ref": "§ 12",
+      "heading": "(gjenoppretting av vassdragets løp)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Når et vassdrag tar seg nytt løp, oppgrunnes eller utdypes, kan det gamle løpet uten konsesjon etter § 8gjenopprettes innen tre år hvis forandringen skyldes en enkeltstående hending;renskes opp eller påfylles masse inntil den dybde eller bredde som vassdraget hadde for fem år siden.\nGjenoppretting etter første ledd som kan være til nevneverdig skade eller ulempe for noen allmenne interesser, skal meldes til vassdragsmyndigheten. Gjenopprettingen kan utføres av grunneieren selv, av andre eiere i vassdraget eller av vassdragsmyndigheten.\nVed gjenoppretting etter første ledd kan det gjøres bruk av fremmed grunn så lenge det ikke volder vesentlige skader og ulemper som med rimelighet kan unngås. Grunneieren skal gis varsel i rimelig tid på forhånd.\nGrøfter i jordbruk og skogbruk kan uten konsesjon etter § 8 renskes opp i samsvar med forskrifter etter bestemmelser fastsatt i eller i medhold av lov 27 mai 2005 nr. 31 om skogbruk (skogbrukslova) og jordloven 12. mai 1995 nr. 23.\nOm beverdammer gjelder reglene i naturmangfoldloven § 18.",
+      "xml_path": "article#kapittel-2-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-9",
+      "provision_ref": "§ 13",
+      "heading": "(hovedregelen om grunneierens rådighet)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Vassdrag tilhører eieren av den grunn det dekker, hvis ikke annet følger av særlige rettsforhold. Når et vassdrag helt eller delvis ligger i sameie, gjelder regler i lov 18. juni 1965 nr. 6 om sameige for forholdet mellom sameierne.\nEierne på hver side av et vassdrag har lik rett til utnytting av vannkraften, om ikke annet følger av særskilt rettsgrunnlag.\nGrunneieren kan motsette seg at andre uten særskilt rettsgrunnlag utøver rådighet over vassdrag som tilhører ham. Innenfor de rammer lovgivningen setter, kan grunneieren selv råde over vassdraget så langt ikke særlige rettigheter er til hinder for dette.\nVassdragsmyndigheten kan fastsette begrensninger i rådigheten over en eiendom av hensyn til fremtidig drikkevannsforsyning som er under planlegging. En slik begrensning kan ikke gjøres gjeldende for mer enn fem år. Vedtaket kan fornyes én gang med opp til fem nye år.",
+      "xml_path": "article#kapittel-2-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-10",
+      "provision_ref": "§ 14",
+      "heading": "(gjenåpning av vassdrag)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Vassdragsmyndigheten kan med seks måneders varsel til grunneieren foreta gjenåpning av et lukket vassdrag. Grunneieren har rett til erstatning etter reglene i lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eigedom for tap som skyldes gjenåpningen. Dersom ikke annet er avtalt, fastsettes erstatningen ved skjønn som begjæres av vassdragsmyndigheten.",
+      "xml_path": "article#kapittel-2-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-11",
+      "provision_ref": "§ 15",
+      "heading": "(supplerende regler om grunneierens vannuttak)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "En grunneier i vassdraget kan uten konsesjon etter § 8 ta ut vann til husholdning og husdyr på eiendommen. Dette gjelder så langt uttaket ikke kommer i strid med reglene i §§ 5 og 10.\nEr det knapphet på vann, har grunneierne i vassdraget lik rett etter behov til å ta ut vann til følgende formål etter denne prioritering:fast husholdning,husdyr.\nVassdragsmyndigheten kan om nødvendig treffe nærmere vedtak om fordelingen og gjennomføring av vannuttak i knapphetssituasjoner, og herunder ta hensyn til bakenforliggende eiendommer og allmenne interesser. Dersom vassdragsmyndigheten mottar en begjæring om å treffe vedtak om fordeling eller gjennomføring, skal avgjørelsen av om begjæringen skal tas til følge eller ikke betraktes som et enkeltvedtak.\nGrunneierens uttaksrett etter annet ledd gjelder også i forhold til vassdragstiltak med konsesjon etter § 8, hvis ikke konsesjonshaveren sørger for annen vannforsyning. Vassdragsmyndigheten kan likevel fastsette i manøvreringsreglement eller vilkår for konsesjonen at uttaksretten skal begrenses til en viss mengde eller bortfalle helt, mot at konsesjonshaveren yter erstatning for skade eller ulempe.",
+      "xml_path": "article#kapittel-2-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-12",
+      "provision_ref": "§ 16",
+      "heading": "(allmennhetens rådighet over vassdrag)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Enhver kan bruke vassdrag tilvannuttak uten grøfting eller bruk av fast ledning eller motorkraft;bading i samsvar med lov 28. juni 1957 nr. 16 om friluftslivet;ferdsel uten bruk av motor;motorisert ferdsel på åpent eller islagt vassdrag når det skjer i samsvar med lov 10. juni 1977 nr. 82 om motorferdsel i utmark og vassdrag og grunneieren ikke har nedlagt forbud etter annet ledd.\nBruk av vassdrag i samsvar med første ledd skal skje så hensynsfullt at det ikke volder ulemper av betydning for grunneieren eller for andre brukere. Grunneieren kan forby motorisert ferdsel i vassdraget. Kommunen kan sette et slikt forbud til side dersom forbudet etter en avveining av de interessene som gjør seg gjeldende, må anses som urimelig. Kommunen kan gi tillatelse til at det tas en rimelig avgift for ferdsel med motorfartøy i kanaler og vassdrag som er tilrettelagt for dette formål.\nEnhver har rett til å ta opp gjenstander som er sunket i vassdrag og til å fløte tømmer i vassdrag som er fløtbare så langt det ikke utløses konsesjonsplikt etter § 8. Hvis en opptatt gjenstand må regnes som hittegods, gjelder reglene i lov 29. mai 1953 nr. 3 om hittegods. Må den regnes som avfall, gjelder reglene i forurensningsloven. Om retten til fiske gjelder reglene i lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v.",
+      "xml_path": "article#kapittel-2-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-2-paragraf-13",
+      "provision_ref": "§ 17",
+      "heading": "(rådigheten over midtstykket i innsjøer)",
+      "path": [
+        "Kapittel 2. Alminnelige regler om vassdrag"
+      ],
+      "text": "Staten rår over det som er fritt midtstykke i større innsjøer. Ligger innsjøen til statsallmenning, inngår midtstykket i allmenningen. Private har den rett til bruk av midtstykket som følger av lov eller annet rettsgrunnlag.",
+      "xml_path": "article#kapittel-2-paragraf-13"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-1",
+      "provision_ref": "§ 18",
+      "heading": "(særskilt avgjørelse om konsesjonsplikt)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Vassdragsmyndigheten kan ved forskrift eller enkeltvedtak fastsette om et vassdragstiltak trenger konsesjon etter § 8 eller gi forskrift om at visse vassdragstiltak eller vassdragstiltak i nærmere angitte områder eller typer områder skal meldes til vassdragsmyndigheten. Vassdragsmyndigheten skal treffe enkeltvedtak etter første punktum dersom tiltakshaveren, berørt fagmyndighet eller andre med rettslig interesse begjærer det, og kan forby iverksetting før avgjørelsen er truffet. Klage over vedtak om at tiltaket må ha konsesjon, kan ikke gis oppsettende virkning. Regelen i § 27 gjelder tilsvarende.",
+      "xml_path": "article#kapittel-3-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-2",
+      "provision_ref": "§ 19",
+      "heading": "(særregel for vannkraftutbygging)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Konsesjon til vannkraftutbygging over 40 GWh eller som omfatter vassdragsreguleringer, gis etter vassdragsreguleringsloven når dette følger av dennes §§ 1 og 3. Loven her gjelder likevel for slike vannkraftverk, vassdragsreguleringer og overføringer så langt det ikke er gjort unntak etter loven her eller er fastsatt særskilte regler i vassdragsreguleringsloven.\nFor andre vannkraftverk gjelder loven fullt ut, likevel slik at vassdragsreguleringsloven § 15 om byggefrister gjelder i stedet for § 27.",
+      "xml_path": "article#kapittel-3-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-3",
+      "provision_ref": "§ 20",
+      "heading": "(samordning av tillatelser)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Vassdragsmyndigheten kan fastsette i forskrift eller i det enkelte tilfelle at det ikke trengs konsesjon etter loven her for tiltak sommå ha tillatelse etter lov 15. mai 1992 nr. 47 om laksefisk og innlandsfisk m.v. § 7 annet ledd eller § 10;må ha tillatelse etter forurensningsloven § 11 eller etter forskrift med hjemmel i forurensningsloven;må ha dispensasjon fra vernevedtak etter naturmangfoldloven kapittel V eller eldre vernevedtak som nevnt i naturmangfoldloven § 77, eller utføres som skjøtselstiltak etter naturmangfoldloven § 47;Er tillatt i reguleringsplan etter plan- og bygningsloven; ellerer godkjent med hjemmel i forskrift etter skogbrukslova § 7 eller jordlova § 11.\nKongen kan gi forskrift om at konsesjonsbehandling etter loven her i bestemte sakstyper kan erstatte konsesjonsbehandling etter bestemte andre lover.",
+      "xml_path": "article#kapittel-3-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-4",
+      "provision_ref": "§ 21",
+      "heading": "(gjenoppføring av vassdragsanlegg)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Gjenoppføring av vassdragsanlegg med konsesjon etter § 8 kan skje uten ny konsesjon dersom arbeidet tar til innen fem år fra anlegget ble funksjonsudyktig, og det fullføres med rimelig hurtighet. Vassdragsmyndigheten kan forlenge fristen én gang.",
+      "xml_path": "article#kapittel-3-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-5",
+      "provision_ref": "§ 22",
+      "heading": "(planlegging i vassdrag)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Når sentrale offentlige myndigheter har satt i gang samlet planlegging for bruk eller vern av vassdrag for et større område, kan vassdragsmyndigheten uten videre utsette eller avslå en søknad om konsesjon som gjelder et vassdrag som inngår i planleggingen. Konsesjon kan bare gis dersom tiltaket er uten nevneverdig betydning for planleggingen.\nNår en plan som nevnt i første ledd er fullført, skal den legges til grunn for behandlingen av søknad om konsesjon. En søknad som er i strid med planen, kan avslås uten videre. Bare departementet kan gi konsesjon til vassdragstiltak som kan redusere vannkraften i vassdrag som i planen er disponert til kraftutbygging.\nSamlet planlegging av ulike tiltak innen ett vassdrag bør fortrinnsvis skje etter reglene i plan- og bygningsloven.\nKonsesjonspliktige tiltak i vassdrag må ha konsesjon etter loven her, og konsesjon kan ikke erstattes av rettslig bindende planer etter plan- og bygningsloven. Vassdragsmyndigheten kan bestemme at ethvert kraftproduksjonsanlegg med endelig konsesjon etter denne lov uten videre skal ha virkning som statlig arealplan etter plan- og bygningsloven § 6-4.",
+      "xml_path": "article#kapittel-3-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-6",
+      "provision_ref": "§ 23",
+      "heading": "(innholdet av søknader; saksutredning)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Søknad om konsesjon etter § 8 skal i samsvar med forskrift etter § 65 gi nødvendige opplysninger om det planlagte tiltak og fordelene og ulempene ved det og om forholdet til rettslig bindende planer etter plan- og bygningsloven.\nVassdragsmyndigheten kan kreve ytterligere opplysninger av søkeren og kan bestemme at søkeren skal foreta eller bekoste undersøkelser eller utredninger som trengs for å klarlegge fordeler eller ulemper av tiltaket. For tiltak som går inn under reglene om konsekvensutredninger i plan- og bygningsloven, gjelder disse reglene i stedet.\nHvis et vassdragstiltak kan volde vesentlige skader eller ulemper, skal det legges vekt på å få utredet aktuelle alternativer som har en annen lokalisering, andre tekniske løsninger eller en annen utforming. Hvis tiltaket vil ha betydning for disponeringen av vassdraget for øvrig, skal det legges vekt på å klarlegge slike følger.",
+      "xml_path": "article#kapittel-3-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-7",
+      "provision_ref": "§ 24",
+      "heading": "(offentliggjøring av søknader – innsigelse)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Søknaden er offentlig i samsvar med reglene i offentleglova.\nSøknaden skal kunngjøres for søkerens regning etter reglene i plan- og bygningsloven § 12-10 første ledd første og annet punktum, annet og fjerde ledd, jf. § 5-2. Vassdragsmyndigheten kan unnlate kunngjøring hvissaken kan bli fullstendig opplyst på annen måte;det er klart at behandlingen må utsettes etter § 22; ellerdet er klart at søknaden må avslås.\nReglene om innsigelse i plan- og bygningsloven §§ 5-4 til 5-6 gjelder så langt de passer for søknader om konsesjon til kraftproduksjonsanlegg etter denne lov. De samme organer som gis innsigelsesrett etter plan- og bygningsloven, gis også klagerett på konsesjonsvedtaket etter reglene i forvaltningsloven kapittel VI. Departementet gir nærmere forskrifter om bruk av innsigelse i konsesjonssaker etter denne lov.",
+      "xml_path": "article#kapittel-3-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-8",
+      "provision_ref": "§ 25",
+      "heading": "(kriterier for konsesjon)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Konsesjon kan bare gis hvis fordelene ved tiltaket overstiger skader og ulemper for allmenne og private interesser som blir berørt i vassdraget eller nedbørfeltet.\nNår et tiltak er av varig karakter eller av andre grunner kan få mer langsiktige virkninger, skal kravet i første ledd være oppfylt på lengre sikt.",
+      "xml_path": "article#kapittel-3-paragraf-8"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-9",
+      "provision_ref": "§ 26",
+      "heading": "(vilkår i konsesjon)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "I konsesjonen kan det settes vilkår for å motvirke skader eller ulemper for allmenne eller private interesser. Det skal legges vekt på å fremme sikkerhet mot skade på mennesker, miljø eller eiendom, sikre en best mulig landskapsmessig tilpasning og å opprettholde det naturlige liv i vassdraget. Det kan herunder settes vilkår for åsikre mot skade gjennom konstruksjons- og funksjonskrav og krav til nødvendig vedlikehold av vassdragsanlegg;sikre opprydding eller tilbakeføring ved nedlegging;tilpasse tiltaket til annen aktuell utnytting;gi adgang for andre til å ta del i vassdragstiltaket;avbøte skader og ulemper ved eldre tiltak i vassdraget, herunder ved gjenåpning av bekker, reetablering av kantsoner og annen restaurering av naturområder, dersom det står i rimelig sammenheng med hva konsesjonen gjelder.\nKan et vassdragstiltak påvirke vannføring og vannstand, skal det fastsettes grenser for vannstand og vannføring i samsvar med § 10, med nødvendige pålegg for kontroll, og om nødvendig gis pålegg om hvordan tapping av magasin skal skje.\nI konsesjon til vassdragstiltak som kan volde vesentlig ulempe for annen utnytting av vassdraget eller nedbørfeltet, kan det settes som vilkår at tiltakshaveren legger til rette for slik utnytting annet sted eller yter tilskudd for dette formål.\nKonsesjonen kan tidsbegrenses. Det kan bestemmes at konsesjonen skal revideres etter en viss tid.\nDet kan settes vilkår om sikkerhet for eventuelt erstatningsansvar for skade eller ulempe som tiltaket volder. Dersom tiltakshaveren selv rår over grunnen der tiltaket skal utføres og tiltaket åpenbart ikke vil volde tap eller skade, kan vassdragsmyndigheten frita tiltakshaveren fra å begjære skjønn til fastsetting av eventuell erstatning.",
+      "xml_path": "article#kapittel-3-paragraf-9"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-10",
+      "provision_ref": "§ 27",
+      "heading": "(bortfall av konsesjon)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "Konsesjonen bortfaller hvis ikke arbeidet er satt i gang senest tre år etter at den ble gitt. Det samme gjelder hvis arbeidet deretter blir innstilt i mer enn to år. Vassdragsmyndigheten kan forlenge fristen én gang med inntil tre nye år.",
+      "xml_path": "article#kapittel-3-paragraf-10"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-11",
+      "provision_ref": "§ 28",
+      "heading": "(omgjøring og tilbaketrekking av konsesjon mv.)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "I særlige tilfeller kan vassdragsmyndigheten oppheve eller endre vilkår eller sette nye vilkår av hensyn til allmenne eller private interesser. Det skal tas hensyn til det tap som en endring vil påføre konsesjonshaveren og de fordeler og ulemper som endringen for øvrig vil medføre. Bestemmelsen gjelder ikke for tiltak som er behandlet etter vassdragsreguleringsloven.\nVassdragsmyndigheten kan trekke tilbake en konsesjon eller annen tillatelse dersom rettighetshaveren har gitt uriktig eller ufullstendig informasjon av vesentlig betydning for vedtaket. Det samme gjelder dersom vedkommende ikke lenger anses skikket til å utøve virksomheten etter grovt eller gjentatte brudd på loven eller vedtak i medhold av loven.",
+      "xml_path": "article#kapittel-3-paragraf-11"
+    },
+    {
+      "section_id": "kapittel-3-paragraf-12",
+      "provision_ref": "§ 29",
+      "heading": "(behandlingen av omgjøringssaker)",
+      "path": [
+        "Kapittel 3. Nærmere om konsesjon til vassdragstiltak m.v."
+      ],
+      "text": "For behandlingen av saker etter § 28 gjelder reglene i § 23 så langt de passer.\nEndringer i et manøvreringsreglement som gir adgang til å variere vannstanden eller vannføringen, skal sendes på høring etter forvaltningslovens regler om forskrifter og kunngjøres etter reglene i plan- og bygningsloven § 12-10 første ledd første og annet punktum, annet og fjerde ledd, jf. § 5-2. Vassdragsmyndigheten skal på søkerens kostnad holde offentlig møte om saken, hvis ikke departementet fritar for dette.",
+      "xml_path": "article#kapittel-3-paragraf-12"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-1",
+      "provision_ref": "§ 30",
+      "heading": "(tilrettelegging for fellestiltak for vannforsyning og tørrlegging)",
+      "path": [
+        "Kapittel 4. Fellestiltak"
+      ],
+      "text": "Tiltak for vannforsyning og tørrlegging skal i rimelig utstrekning utføres slik at de kan komme til nytte for andre grunneiere.\nNår vassdragsmyndigheten behandler en søknad om konsesjon etter § 8 til vannforsyning eller tørrlegging, bør den ved offentlig kunngjøring eller individuell underretning søke å klarlegge om tiltaket også kan dekke behovet for andre interesserte. I vilkår for konsesjonen kan vassdragsmyndigheten fastsette nærmere hvordan dette skal skje, bl.a at andre interesserte skal kunne delta i eierskap eller med tilskudd, jf. § 31.",
+      "xml_path": "article#kapittel-4-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-4-paragraf-2",
+      "provision_ref": "§ 31",
+      "heading": "(refusjon for utgifter til fellestiltak)",
+      "path": [
+        "Kapittel 4. Fellestiltak"
+      ],
+      "text": "Enhver som drar vesentlig nytte av et vassdragstiltak eller utnytting av grunnvann, skal regnes som deltaker i tiltaket når det gjelder fordelingen av tiltakets utgifter til anlegg, vedlikehold eller drift.\nDeltakerne kan gjøre avtale om fordelingen av tiltakets utgifter.\nHvis ikke alle fellesutgifter blir fordelt etter avtale mellom deltakerne eller etter særskilte regler, kan de fordeles mellom deltakerneav vassdragsmyndigheten. Vedtaket er tvangsgrunnlag for utlegg;ved skjønn etter begjæring fra en deltaker eller henvisning fra vassdragsmyndigheten. Det er adgang til å kreve nytt skjønn etter ti år;av jordskifteretten etter begjæring fra en deltaker eller etter henvisning fra vassdragsmyndigheten.\nEn fellesutgift kan bare fordeles på de deltakere som drar nytte av den. Når en del av tiltaket avhenger av en annen del som flere drar nytte av, skal utgiftene til begge deler fordeles på dem alle. Ingen deltaker må betale en så høy andel av tiltakets fellesutgifter at deltakeren blir dårligere stilt enn om tiltaket ikke var kommet i stand.\nKongen kan gi nærmere forskrift om kostnadsfordeling ved fellestiltak.",
+      "xml_path": "article#kapittel-4-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-1",
+      "provision_ref": "§ 32",
+      "heading": "(vernede vassdrag)",
+      "path": [
+        "Kapittel 5. Vernede vassdrag og nasjonale laksevassdrag"
+      ],
+      "text": "Med vernede vassdrag forstås i denne lov vassdrag som er vernet mot kraftutbygging ved Stortingets vedtak om verneplan for vassdrag eller ved annet stortingsvedtak.\nVernede vassdrag kunngjøres i Norsk Lovtidend.\nEndring i omfanget av vernede vassdrag kan bare skje ved vedtak i Stortinget. Slike vedtak kunngjøres i Norsk Lovtidend.",
+      "xml_path": "article#kapittel-5-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-2",
+      "provision_ref": "§ 33",
+      "heading": "(reglene for vernede vassdrag)",
+      "path": [
+        "Kapittel 5. Vernede vassdrag og nasjonale laksevassdrag"
+      ],
+      "text": "I vernede vassdrag ivaretas vernet særlig gjennomreglene i denne lov, herunder særreglene i dette kapittel,bestemmelser i vedtak etter naturmangfoldloven kapittel V, ellerrettslig bindende planer etter plan- og bygningsloven.\nFor så vidt vassdraget går inn under vedtak etter naturmangfoldloven kapittel V, gjelder reglene i og i medhold av naturmangfoldloven istedenfor loven her. Reglene om sikkerhet, tilsyn, erstatning og hvem som kan utøve rådighet i loven her gjelder likevel. Går et vernet vassdrag inn under bindende plan etter plan- og bygningsloven, gjelder reglene i loven her ved siden av slik plan.",
+      "xml_path": "article#kapittel-5-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-3",
+      "provision_ref": "§ 34",
+      "heading": "(kraftutbygging i vernede vassdrag)",
+      "path": [
+        "Kapittel 5. Vernede vassdrag og nasjonale laksevassdrag"
+      ],
+      "text": "Ingen må foreta kraftutbygging i strid med Stortingets vedtak om vern av vassdrag.\nAlle planer om kraftutbygginger i vernede vassdrag må meldes til vassdragsmyndigheten for vurdering før gjennomføring av tiltaket.\nReglene i § 35 gjelder så langt de passer for kraftutbyggingstiltak i vernede vassdrag.",
+      "xml_path": "article#kapittel-5-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-4",
+      "provision_ref": "§ 35",
+      "heading": "(andre vassdragstiltak i vernede vassdrag)",
+      "path": [
+        "Kapittel 5. Vernede vassdrag og nasjonale laksevassdrag"
+      ],
+      "text": "I vernede vassdrag der vernet ivaretas gjennom denne lov, kan eksisterende anlegg bestå og igangværende virksomhet fortsette, om ikke annet følger av §§ 66 og 67. For øvrig gjelder følgende særregler:Eksisterende anlegg kan ikke tas i bruk til nye formål uten konsesjon etter § 8.Dersom en endring i igangværende virksomhet innenfor rammen av gjeldende konsesjon vil påvirke verneverdiene i vassdraget, kan den bare skje med ny konsesjon. Det samme gjelder for gjenopptakelse av virksomhet som har vært innstilt i minst fem år.I vernede vassdrag er tiltak etter § 12 første ledd ikke unntatt fra konsesjonsplikt etter § 8.Vassdragsmyndigheten kan for nærmere angitte områder i vernede vassdrag fastsette at alle tiltak skal være meldepliktige.Nye anlegg kan bare tillates hvis hensynet til verneverdiene i vassdraget ikke taler imot.Ombygging av eksisterende anlegg som innebærer utvidelser, kan bare tillates hvis forholdene i vassdraget etter en samlet vurdering vil være miljømessig like gunstige som før ombyggingen.Vannuttak er tillatt i samsvar med § 15. Vassdragsmyndigheten kan likevel fastsette en grense for det samlede vannuttak.Når vassdragsmyndigheten treffer avgjørelser som gjelder et vernet vassdrag etter denne lov, skal det legges vesentlig vekt på hensynet til verneverdiene. Vassdragsmyndigheten kan avslå en søknad om konsesjon uten ytterligere saksbehandling. Blir det gitt konsesjon, skal begrunnelsen for vedtaket vise hvordan verneverdiene antas å bli berørt og hvorfor dette ikke har vært avgjørende for vedtaket.Langs vernede vassdrag kan vassdragsmyndigheten treffe vedtak om å reetablere vegetasjon som er naturlig på stedet i en sone langs bredden som fastsettes i bindende plan etter plan- og bygningsloven. For tap som følge av vedtaket betales erstatning etter reglene i lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eigedom. Med mindre annet er avtalt, fastsettes erstatningen ved skjønn som begjæres av vassdragsmyndigheten.",
+      "xml_path": "article#kapittel-5-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-5-paragraf-5",
+      "provision_ref": "§ 35a",
+      "heading": "(vassdragstiltak i nasjonale laksevassdrag)",
+      "path": [
+        "Kapittel 5. Vernede vassdrag og nasjonale laksevassdrag"
+      ],
+      "text": "Når det treffes vedtak eller gjennomføres tiltak som kan påvirke laksens levevilkår, skal de særskilte hensyn som følger av Stortingets vedtak om nasjonale laksevassdrag og nasjonale laksefjorder, legges til grunn. I disse områdene skal laksen sikres en særlig beskyttelse mot skadelige inngrep.",
+      "xml_path": "article#kapittel-5-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-1",
+      "provision_ref": "§ 36",
+      "heading": "(forskrifter om krav til sikkerhet)",
+      "path": [
+        "Kapittel 6. Sikring mot skade"
+      ],
+      "text": "Vassdragsmyndigheten kan gi forskrift for å fremme sikkerhet mot skade på mennesker, miljø og eiendom.",
+      "xml_path": "article#kapittel-6-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-2",
+      "provision_ref": "§ 37",
+      "heading": "(vedlikehold av vassdragstiltak)",
+      "path": [
+        "Kapittel 6. Sikring mot skade"
+      ],
+      "text": "Vassdragstiltak som kan volde skade, skal den ansvarlige til enhver tid holde i forsvarlig stand. Vedlikeholdsplikten varer til anlegget er lovlig nedlagt etter § 41.\nVassdragsmyndigheten kan gi pålegg om tiltak etter første ledd. Den skal ta stilling til eventuelle pålegg snarest mulig når noen med rettslig interesse ber om det. Avgjørelsen er enkeltvedtak også om pålegg ikke blir gitt.",
+      "xml_path": "article#kapittel-6-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-3",
+      "provision_ref": "§ 38",
+      "heading": "(beredskapsplaner)",
+      "path": [
+        "Kapittel 6. Sikring mot skade"
+      ],
+      "text": "Tiltakshaver med ansvar for et vassdragstiltak som kan volde betydelig fare for mennesker, miljø eller eiendom, skal ha en beredskapsplan. Planen skal gi retningslinjer for hva som skal gjøres hvis en ulykke inntreffer eller ved akutt fareøking. Planen skal fornyes etter behov.\nVassdragsmyndigheten kankreve at en beredskapsplan blir utarbeidet og fremlagt til godkjenning;gi pålegg om endringer i planen;gi pålegg om at flere tiltakshavere skal samarbeide om beredskapsplan eller at planen skal utarbeides av en felles organisasjon;gi forskrift om beredskapsplan og beredskap mot akutte vassdragsulykker.",
+      "xml_path": "article#kapittel-6-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-4",
+      "provision_ref": "§ 39",
+      "heading": "(krav til faglige kvalifikasjoner)",
+      "path": [
+        "Kapittel 6. Sikring mot skade"
+      ],
+      "text": "Vassdragsmyndigheten kan i forskrift eller enkeltvedtak fastsette krav til faglige kvalifikasjoner hos personell som forestår planlegging, bygging, drift og undersøkelser av vassdragstiltak.",
+      "xml_path": "article#kapittel-6-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-6-paragraf-5",
+      "provision_ref": "§ 40",
+      "heading": "(tiltak i alvorlige faresituasjoner)",
+      "path": [
+        "Kapittel 6. Sikring mot skade"
+      ],
+      "text": "Når forholdene i eller utenfor et vassdrag skaper en særskilt og uvanlig fare for mennesker, miljø eller eiendom, kan vassdragsmyndigheten pålegge enhver tiltakshaver å innrette sin virksomhet for å redusere faren. Hvis den ansvarlige åpenbart er ute av stand til å oppfylle vedlikeholdsplikten for et anlegg som volder fare for vesentlig skade, skal vassdragsmyndigheten sørge for nødvendig vedlikehold etter § 37 eller nedlegging etter § 41.\nVassdragsmyndigheten kan om nødvendig iverksette tiltak på fremmed eiendom for å verne mennesker, miljø eller eiendom mot en særskilt fare for alvorlig skade. Iverksettes slike tiltak på en eiendom som ikke er truet, har eieren rett til erstatning etter reglene om ansvar for nødhandlinger.",
+      "xml_path": "article#kapittel-6-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-1",
+      "provision_ref": "§ 41",
+      "heading": "(adgangen til å nedlegge vassdragsanlegg)",
+      "path": [
+        "Kapittel 7. Nedlegging av vassdragsanlegg"
+      ],
+      "text": "Hvis eieren av et vassdragsanlegg ikke lenger vil holde anlegget ved like, skal anlegget fjernes og vassdraget så langt som mulig tilbakeføres til forholdene slik de var før anlegget ble bygd. Før en nedlegging skal eieren gi alle interesserte underretning god tid i forveien.\nHvis nedlegging kan føre til påtakelig skade eller ulempe for allmenne interesser, kreves konsesjon etter § 8. Konsesjon skal gis om ikke særlige grunner taler imot. Vassdragsmyndigheten kan sette vilkår i konsesjonen etter reglene i § 26.\nVassdragsmyndigheten kan gi konsesjon til at nedlegging skjer på annen måte enn nevnt i første ledd, hvis det ikke vil medføre noen økt fare eller skade.",
+      "xml_path": "article#kapittel-7-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-2",
+      "provision_ref": "§ 42",
+      "heading": "(overføring av vassdragsanlegg i stedet for nedlegging)",
+      "path": [
+        "Kapittel 7. Nedlegging av vassdragsanlegg"
+      ],
+      "text": "Vassdragsmyndigheten kan overføre et vassdragsanlegg som ønskes nedlagt til noen som ønsker det opprettholdt, om ikke eieren da frafaller nedlegging.",
+      "xml_path": "article#kapittel-7-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-7-paragraf-3",
+      "provision_ref": "§ 43",
+      "heading": "(oppløsning av fløtingsforeninger)",
+      "path": [
+        "Kapittel 7. Nedlegging av vassdragsanlegg"
+      ],
+      "text": "Før en fløtingsforening blir oppløst, skal foreningens fløtingsanlegg overdras eller nedlegges i samsvar med reglene i dette kapittel og annen nødvendig opprydding foretas, eller det skal stilles slik sikkerhet for fortsatt drift og vedlikehold samt mulig ansvar som vassdragsmyndigheten fastsetter. Vassdragsmyndigheten kan pålegge en fløtingsforening å stille sikkerhet for utgiftene til nedlegging av fløtingsanlegg.",
+      "xml_path": "article#kapittel-7-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-1",
+      "provision_ref": "§ 43a",
+      "heading": "(forvalteransvar og aktsomhetsplikt)",
+      "path": [
+        "Kapittel 8. Grunnvann"
+      ],
+      "text": "Enhver skal opptre aktsomt for å unngå at grunnvann påvirkes til skade eller ulempe for allmenne eller private interesser.\nGrunnvannstiltak skal planlegges og gjennomføres slik at de er til minst mulig skade og ulempe for allmenne og private interesser. Denne plikten gjelder så langt den kan oppfylles uten uforholdsmessig utgift eller ulempe. Vassdragsmyndigheten kan ved forskrift fastsette nærmere regler om planlegging, gjennomføring og drift av bestemte typer grunnvannstiltak.\nGrunnvannstiltak skal fylle alle krav som med rimelighet kan stilles til sikring mot fare for mennesker, miljø eller eiendom.",
+      "xml_path": "article#kapittel-8-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-2",
+      "provision_ref": "§ 44",
+      "heading": "(rådigheten over grunnvann)",
+      "path": [
+        "Kapittel 8. Grunnvann"
+      ],
+      "text": "Grunnvannet tilhører eieren av den grunn som grunnvannet befinner seg i eller under, hvis ikke annet følger av særlige rettsforhold. Ligger en grunnvannsforekomst under flere eiendommer, ligger den til eiendommene som sameie med et partsforhold som svarer til hver eiendoms areal på overflaten. Lov 18. juni 1965 nr. 6 om sameige § 10 annet ledd gjelder ikke for disse sameiepartene.\nRådigheten over grunnvann må utøves i samsvar med kravene i §§ 10 og 15 annet og tredje ledd. Uttak av grunnvann skal begrenses til det grunnvannsmagasinet tåler.\nFor skade eller ulempe som følge av utøvelse av rådighet over grunnvann, gjelder reglene i kapittel 9 om erstatning for skade tilsvarende så langt de passer.",
+      "xml_path": "article#kapittel-8-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-3",
+      "provision_ref": "§ 45",
+      "heading": "(konsesjonsplikt for grunnvannstiltak)",
+      "path": [
+        "Kapittel 8. Grunnvann"
+      ],
+      "text": "Ingen må iverksette grunnvannstiltak som kan være til nevneverdig skade eller ulempe for noen allmenne interesser uten konsesjon fra vassdragsmyndigheten. §§ 23 til 29 gjelder tilsvarende.\nVassdragsmyndigheten kan i forskrift eller i det enkelte tilfelle fastsette om et grunnvannstiltak trenger konsesjon etter første ledd. Vassdragsmyndigheten skal treffe enkeltvedtak etter første punktum dersom tiltakshaveren, berørt fagmyndighet eller andre med rettslig interesse begjærer det. Vassdragsmyndigheten kan forby iverksetting før avgjørelsen er truffet. Klage over vedtak om at tiltaket må ha konsesjon, kan ikke gis oppsettende virkning. Regelen i § 27 gjelder tilsvarende.\nGrunnvannsuttak over 100 kubikkmeter per døgn skal meldes til vassdragsmyndigheten, som skal vurdere om uttaket krever konsesjon etter første ledd. Det samme gjelder hvor flere grunnvannsuttak som naturlig må sees under ett, overstiger 100 kubikkmeter per døgn.\nEn grunneier kan uten konsesjon ta ut grunnvann til husholdning og husdyr på eiendommen.",
+      "xml_path": "article#kapittel-8-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-8-paragraf-4",
+      "provision_ref": "§ 46",
+      "heading": "(grunnvannsboring)",
+      "path": [
+        "Kapittel 8. Grunnvann"
+      ],
+      "text": "Den som utfører boring etter vann, skal opptre aktsomt for å unngå skader og ulemper som følge av boringen. Bestemmelsen i § 39 gjelder tilsvarende for grunnvannsboring.\nEtter fullført boring skal vedkommende snarest og senest innen 3 måneder sende melding om boringen til vassdragsmyndigheten.\nDepartementet kan gi forskrift om hvilke opplysninger en melding etter annet ledd skal inneholde. Det kan gis forskrift om utførelse av boringer, herunder om hvordan undersøkelser og prøvetaking skal utføres.\nDen som utfører grunnvannsundersøkelse og utarbeider en rapport om undersøkelsen, skal snarest og senest innen tre måneder etter avgivelse av rapporten sende inn melding om dette til vassdragsmyndigheten. Vassdragsmyndigheten kan ved behov be om et eksemplar av rapporten med nødvendige bilag.",
+      "xml_path": "article#kapittel-8-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-1",
+      "provision_ref": "§ 47",
+      "heading": "(erstatningsansvar)",
+      "path": [
+        "Kapittel 9. Erstatning for skade"
+      ],
+      "text": "Tiltakshaveren kan bli ansvarlig etter alminnelige erstatningsregler ved overtredelse av § 5 første ledd, § 43 a første ledd og § 46 første ledd.\nTiltakshaveren er ansvarlig uten hensyn til skyldfor skade eller ulempe fra vassdragstiltak og grunnvannstiltak som skyldes feil eller mangler ved tiltakets utførelse etter § 5 annet og tredje ledd og § 43 a annet og tredje ledd eller tiltakets vedlikehold etter § 37 første ledd eller i forbindelse med brudd på konsesjonsplikten etter § 8 eller § 45 eller vilkår i konsesjon etter § 26;for skade eller ulempe på eiendom eller rettigheter fra et konsesjonsgitt vassdragstiltak eller grunnvannstiltak;for skade eller ulempe på eiendom eller rettighet ved nedlegging av et vassdragsanlegg, jf. § 41;for skade fra vannledninger eller vanntunneler;for skade som skyldes motorisert ferdsel eller fløting i vassdraget;når det ellers følger av alminnelige erstatningsregler.",
+      "xml_path": "article#kapittel-9-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-2",
+      "provision_ref": "§ 48",
+      "heading": "(bevisbyrde)",
+      "path": [
+        "Kapittel 9. Erstatning for skade"
+      ],
+      "text": "Hvis et vassdragstiltak eller grunnvannstiltak er i strid med denne lov eller vedtak i medhold av loven, og tiltaket volder skade, har tiltakshaveren bevisbyrden for tilstanden før skaden dersom den ikke lenger kan iakttas.",
+      "xml_path": "article#kapittel-9-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-3",
+      "provision_ref": "§ 49",
+      "heading": "(omfang og utmåling av erstatning)",
+      "path": [
+        "Kapittel 9. Erstatning for skade"
+      ],
+      "text": "Erstatning for skade og ulempe på eiendom fra et lovlig vassdragstiltak eller grunnvannstiltak kan bare kreves i den utstrekning skaden eller ulempen er urimelig eller unødig etter reglene i granneloven § 2 annet til fjerde ledd.\nFor erstatning for skade og ulempe som rammer utøving av allemannsretter gjelder reglene i forurensningsloven § 57 bokstav d, jf. § 58 tilsvarende, og slik at vassdragsmyndigheten trer i forurensningsmyndighetens sted.\nFor lemping av erstatningsansvaret gjelder lov 13. juni 1969 nr. 26 om skadeserstatning § 5-2. Ved skade på fast eiendom eller ting skal det ved vurderingen også tas hensyn til om eiendommen eller tingen tåler særlig lite.",
+      "xml_path": "article#kapittel-9-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-9-paragraf-4",
+      "provision_ref": "§ 50",
+      "heading": "(forsikringsplikt)",
+      "path": [
+        "Kapittel 9. Erstatning for skade"
+      ],
+      "text": "Vassdragsmyndigheten kan gi pålegg om at vassdragstiltak eller grunnvannstiltak som kan volde betydelig skade, skal ha forsikring for mulig erstatningsansvar.",
+      "xml_path": "article#kapittel-9-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-1",
+      "provision_ref": "§ 51",
+      "heading": "(forholdet til alminnelig ekspropriasjonsrett)",
+      "path": [
+        "Kapittel 10. Ekspropriasjon og ekspropriasjonserstatning"
+      ],
+      "text": "Ved ekspropriasjon av rådighet over vassdrag og grunnvann gjelder reglene i lov 23. oktober 1959 nr. 3 om oreigning av fast eigedom og lov 6. april 1984 nr. 17 om vederlag ved oreigning av fast eigedom, om ikke annet er bestemt i dette kapittel. Ekspropriasjon kan også skje etter annen lovgivning.\nVed ekspropriasjon til vannkraftproduksjon forhøyes alle erstatninger med 25 prosent.\nTillatelse til ekspropriasjon etter oreigningsloven bør i tilfelle gis samtidig med konsesjon etter § 8.\nTilkjente erstatninger fastsettes til årlige beløp dersom ikke erstatningen er mindre enn det minstebeløp som Kongen bestemmer. Engangserstatning skal likevel fastsettes dersom eiendommen i sin helhet eller for en vesentlig del blir avstått, eller ekspropriaten krever det.\nTidligere fastsatte årlige erstatninger under det minstebeløp Kongen bestemmer, kan omgjøres til engangserstatning og innløses med en sum en gang for alle dersom en av partene krever det.",
+      "xml_path": "article#kapittel-10-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-10-paragraf-2",
+      "provision_ref": "§ 52",
+      "heading": "(erstatning for senskader)",
+      "path": [
+        "Kapittel 10. Ekspropriasjon og ekspropriasjonserstatning"
+      ],
+      "text": "Volder et vassdragstiltak eller grunnvannstiltak skade av betydning som ikke ble forutsett ved tidligere oppgjør, kan skadelidte kreve erstatning for skaden ved søksmål. Bestemmelsen i § 51 annet ledd gjelder tilsvarende.",
+      "xml_path": "article#kapittel-10-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-1",
+      "provision_ref": "§ 53",
+      "heading": "(tilsyn)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Vassdragsmyndigheten fører tilsyn med vassdragstiltak og med tilstanden og utviklingen i vassdrag, om ikke annet er bestemt i annen lovgivning. Vassdragsmyndigheten kan ved forskrift eller i det enkelte tilfelle overlate til andre å føre tilsynet.\nFor tilsyn med grunnvann og grunnvannstiltak gjelder reglene i dette kapittel så langt de passer.",
+      "xml_path": "article#kapittel-11-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-2",
+      "provision_ref": "§ 54",
+      "heading": "(internkontroll)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Den ansvarlige for et vassdragsanlegg skal påse at anlegget og driften av det oppfyller de krav som er fastsatt i eller i medhold av denne lov. Vassdragsmyndigheten gir forskrift om internkontroll og internkontrollsystemer.",
+      "xml_path": "article#kapittel-11-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-3",
+      "provision_ref": "§ 55",
+      "heading": "(rett til opplysninger og synfaring)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Vassdragsmyndigheten skal for sitt tilsyn ha uhindret tilgang til vassdragstiltak, vassdrag og nedbørfelt. Tiltakshaver plikter etter pålegg å legge frem for vassdragsmyndigheten opplysninger, dokumenter eller annet materiale av betydning for tilsynet. Når særlige grunner tilsier det, kan slike opplysninger etter pålegg kreves av andre.",
+      "xml_path": "article#kapittel-11-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-4",
+      "provision_ref": "§ 56",
+      "heading": "(oppsetting av vannmerker)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Vassdragsmyndigheten har rett til å sette opp vannmerker eller apparater for målinger i vassdrag og nedbørfelt. Grunneieren skal varsles før oppsetting. Vassdragsmyndigheten kan etter søknad også gi andre rett til å foreta slik oppsetting.\nSå langt formålet med oppsettingen gjør det mulig, skal oppsettingen skje uten å volde ulempe for grunneieren eller andre interesser i vassdraget.",
+      "xml_path": "article#kapittel-11-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-5",
+      "provision_ref": "§ 57",
+      "heading": "(undersøkelser)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Vassdragsmyndigheten kan foreta undersøkelser i vassdrag og nedbørfelt. Hvis undersøkelsen volder skader eller ulemper ut over det som man med rimelighet må finne seg i, kan skadelidte kreve erstatning.\nVassdragsmyndigheten kan pålegge en tiltakshaver i vassdrag å sørge for eller bekoste undersøkelser eller lignende tiltak som med rimelighet kan kreves for å klarlegge tiltakets funksjonssikkerhet. Det samme gjelder overfor en tiltakshaver med konsesjon etter denne lov for å klarlegge tiltakets virkninger for naturforholdene i vassdraget.",
+      "xml_path": "article#kapittel-11-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-11-paragraf-6",
+      "provision_ref": "§ 58",
+      "heading": "(Gebyr og sektoravgift for tilsyn og kontroll med vassdragstiltak)",
+      "path": [
+        "Kapittel 11. Tilsyn med vassdrag og grunnvann"
+      ],
+      "text": "Vassdragsmyndigheten kan gi forskrift om gebyr eller sektoravgift til dekning av tilsyns- og kontrollarbeid med vassdragstiltak og om innrapportering av opplysninger som er nødvendige for beregning av gebyret eller sektoravgiften. Satsene skal settes slik at gebyrene eller sektoravgiftene samlet ikke overskrider vassdragsmyndighetens kostnader med tilsyns- og kontrollarbeidet og til tiltak etter § 40 første ledd annet punktum. Gebyret eller sektoravgiften er tvangsgrunnlag for utlegg. Betales ikke gebyret eller sektoravgiften til forfallstid, svares deretter rente som fastsatt i medhold av lov 17. desember 1976 nr. 100 om renter ved forsinket betaling m.m. § 3 første ledd.",
+      "xml_path": "article#kapittel-11-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-1",
+      "provision_ref": "§ 59",
+      "heading": "(pålegg om retting)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Den som har rettslig interesse i det, kan kreve at forhold som er i strid med loven eller vedtak i medhold av loven, blir rettet. Vassdragsmyndigheten kan gi pålegg om retting dersom det konstateres forhold som er i strid med loven eller vedtak i medhold av loven. Om nødvendig kan det pålegges stans i pågående virksomhet.\nFinner vassdragsmyndigheten andre forhold som kan volde fare eller ulempe for mennesker, miljø eller eiendom, kan den gi pålegg om retting i samsvar med reglene i §§ 28 eller 40.\nVassdragsmyndigheten har plikt til å vurdere en anmodning om iverksettelse av tiltak ved betydelig miljøskade i vann som omfattes av EØS-avtalen vedlegg XX punkt 1 i (Europaparlaments- og rådsdirektiv 2004/35/EF), når anmodningen er fremsatt av en fysisk eller juridisk person som berøres eller ventes å bli berørt av skaden, eller som har tilstrekkelig interesse i saken. Anmodningen må underbygges med opplysninger som sannsynliggjør at det foreligger betydelig miljøskade.\nVassdragsmyndighetens avgjørelse på grunnlag av anmodning som nevnt i tredje ledd er enkeltvedtak også dersom pålegg ikke gis.\nRegelen i § 48 gjelder tilsvarende ved krav om retting.",
+      "xml_path": "article#kapittel-12-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-2",
+      "provision_ref": "§ 60",
+      "heading": "(tvangsmulkt)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "For å sikre at plikter som følger av loven eller vedtak i medhold av loven blir etterlevd, kan vassdragsmyndigheten pålegge den ansvarlige tvangsmulkt etter reglene i forvaltningsloven § 51.\nTvangsmulkt kan fastsettes når overtredelse av loven eller vedtak i medhold av loven er oppdaget. Tvangsmulkten begynner å løpe dersom den ansvarlige oversitter den frist for retting av forholdet som vassdragsmyndigheten har fastsatt.",
+      "xml_path": "article#kapittel-12-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-3",
+      "provision_ref": "§ 60a",
+      "heading": "(overtredelsesgebyr)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Vassdragsmyndighetene kan ilegge overtredelsesgebyr etter reglene i forvaltningsloven § 44 til den som forsettlig eller uaktsomt overtrer§ 5, § 7 første ledd, § 8 første og tredje ledd første punktum, § 10 første ledd, § 11 første ledd, § 12 annet ledd, § 16 annet ledd, § 37 første ledd, § 38 første ledd, § 43 a, § 44 annet ledd annet punktum, § 45 første og tredje ledd, § 46 første, annet og fjerde ledd eller § 54pålegg etter § 7 annet ledd, § 8 tredje ledd, annet punktum, § 37 annet ledd, § 40 første ledd, § 50, § 57 annet ledd eller § 59 første eller annet leddkonsesjon og konsesjonsvilkår, herunder manøvreringsreglement, eller enkeltvedtak etter § 13 fjerde ledd, § 15 tredje ledd, § 35 nr. 4, 7 og 9, § 38 annet ledd, § 39 eller § 40 første ledd.forskrift, når det er særskilt bestemt i forskriften.\nVed avgjørelsen av om overtredelsesgebyr skal ilegges og ved individuell utmåling av gebyret, skal det særlig legges vekt på momentene i forvaltningsloven § 44 tredje ledd og om det foreligger gjentagelse. Det skal også tas hensyn til om det er truffet vedtak om inndragning av utbytte fra samme forhold.\nDersom bestemmelser eller vedtak som nevnt i første ledd er overtrådt av noen som har handlet på vegne av et foretak, kan overtredelsesgebyr ilegges foretaket etter reglene i forvaltningsloven § 44, jf. § 46.\nDepartementet kan gi forskrift om utmåling av overtredelsesgebyr.",
+      "xml_path": "article#kapittel-12-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-4",
+      "provision_ref": "§ 60b",
+      "heading": "(administrativ inndragning av utbytte)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Vassdragsmyndigheten kan helt eller delvis inndra utbytte fra overtredelse av bestemmelser eller enkeltvedtak nevnt i § 60 a første ledd bokstav a til c, uten hensyn til om overtrederen har utvist skyld. Det samme gjelder ved overtredelse av forskrift, når det er særskilt bestemt i forskriften. Inndragning skjer overfor overtrederen, med mindre denne sannsynliggjør at utbyttet er tilfalt en annen. Inndragning kan skje så langt det ikke vil være klart urimelig.\nI stedet for utbyttet kan hele eller deler av utbyttets verdi inndras. Som utbytte regnes også formuesgode som trer istedenfor utbytte, avkastning og andre fordeler av utbytte. Det er nettoutbyttet som kan inndras. Kan størrelsen av nettoutbyttet ikke godtgjøres, fastsettes beløpet skjønnsmessig.\nOppfyllelsesfristen er fire uker fra vedtaket ble truffet. Lengre frist kan fastsettes i vedtaket eller senere. Endelig vedtak om inndragning av utbytte er tvangsgrunnlag for utlegg.\nVassdragsmyndigheten kan i forskrift gi nærmere bestemmelser om inndragning av utbytte, herunder om standardisert eller skjønnsmessig utmåling og fradrag for utgifter.",
+      "xml_path": "article#kapittel-12-paragraf-4"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-5",
+      "provision_ref": "§ 60c",
+      "heading": "(foreldelse)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Adgangen til å treffe vedtak om overtredelsesgebyr eller inndragning av utbytte foreldes fem år etter at overtredelsen opphørte. Fristen avbrytes ved at vassdragsmyndigheten gir skriftlig forhåndsvarsel om vedtak om overtredelsesgebyr eller inndragning av utbytte eller på annen måte gir skriftlig varsel om at vassdragsmyndigheten legger til grunn at det er sannsynlig at vedkommende har brutt regelverket.",
+      "xml_path": "article#kapittel-12-paragraf-5"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-6",
+      "provision_ref": "§ 61",
+      "heading": "(umiddelbar iverksetting ved vassdragsmyndigheten)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Har vassdragsmyndigheten gitt pålegg om tiltak etter denne lov som den ansvarlige ikke etterkommer, kan vassdragsmyndigheten sørge for iverksetting av tiltaket.\nVassdragsmyndigheten kan iverksette tiltakene uten forutgående pålegg dersom det er nødvendig for å avverge en overhengende fare, eller dersom det etter omstendighetene vil være urimelig byrdefullt å finne frem til den ansvarlige.\nDet kan ved enkeltvedtak bestemmes at utgiftene til iverksettingen skal dekkes av den ansvarlige. Vedtaket er tvangsgrunnlag for utlegg.\nHar vassdragsmyndigheten truffet vedtak med krav på refusjon etter tredje ledd, løper foreldelsesfristen for kravet fra tidspunktet da endelig vedtak ble truffet. Vassdragsmyndighetens krav om dekning av utgifter knyttet til betydelig miljøskade som nevnt i § 59 tredje ledd, eller knyttet til overhengende fare for slik skade, foreldes 5 år etter tidspunktet for endelig vedtak, men likevel senest 30 år etter at tiltakene var gjennomført. Øvrige krav etter tredje ledd foreldes senest 10 år etter at tiltakene var gjennomført. For øvrig gjelder reglene i foreldelsesloven så langt de passer.",
+      "xml_path": "article#kapittel-12-paragraf-6"
+    },
+    {
+      "section_id": "kapittel-12-paragraf-7",
+      "provision_ref": "§ 62",
+      "heading": "(bruk av andres eiendom ved iverksetting)",
+      "path": [
+        "Kapittel 12. Gjennomføring av loven og vedtak i medhold av loven"
+      ],
+      "text": "Er det nødvendig for iverksetting etter §§ 59 eller 61, kan vassdragsmyndigheten gjøre bruk av den ansvarliges eller andres eiendom. Vassdragsmyndigheten kan om nødvendig gi den ansvarlige adgang til å gjøre bruk av andres eiendom.\nBlir det etter første ledd gjort bruk av andres eiendom, skal vedkommende ha erstatning av den ansvarlige for tap som skyldes skade og ulempe. Vassdragsmyndigheten innestår for beløpet.",
+      "xml_path": "article#kapittel-12-paragraf-7"
+    },
+    {
+      "section_id": "kapittel-13-paragraf-1",
+      "provision_ref": "§ 63",
+      "heading": "(straff)",
+      "path": [
+        "Kapittel 13. Straff"
+      ],
+      "text": "Med bøter eller fengsel inntil 1 år straffes den som forsettlig eller uaktsomt overtrer bestemmelser eller enkeltvedtak nevnt i § 60 a første ledd bokstav a til c. Overtredelse av § 5 første og annet ledd eller § 43 a første og annet ledd medfører likevel ikke straff. Departementet kan i forskrift bestemme at forsettlig eller uaktsom overtredelse av forskriften straffes på samme måte.\nEr det voldt fare for betydelig skade på mennesker, miljø eller eiendom, eller det forøvrig foreligger skjerpende omstendigheter, kan overtredelser etter første ledd straffes med fengsel inntil 2 år, om ikke strengere straffebud får anvendelse. Det samme gjelder hvor overtredelsen har voldt skade på mennesker eller verneverdier i et vernet vassdrag.",
+      "xml_path": "article#kapittel-13-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-1",
+      "provision_ref": "§ 64",
+      "heading": "(vassdragsmyndigheten)",
+      "path": [
+        "Kapittel 14. Administrative bestemmelser"
+      ],
+      "text": "Kongen fastsetter hvem som er vassdragsmyndighet, og hvilken vassdragsmyndighet som kan treffe vedtak etter loven her. Departementet kan gi forskrift om at oppgaver etter loven også legges til andre enn vassdragsmyndigheten, herunder til kommuner og private rettssubjekter.\nKommunen treffer vedtak om konsesjon til vannkraftverk på inntil 1 MW installert effekt etter § 8 første ledd. Kongen kan gi forskrift om unntak fra første punktum. Kommunen fører tilsyn med at utbyggingen skjer i samsvar med konsesjonen og kan kreve retting etter § 59 og pålegge tvangsmulkt etter § 60. Kommunen er myndighet etter §§ 27 og 28 for vedtak etter dette leddet.\nDepartementet er klageinstans for kommunens vedtak etter annet ledd. For øvrig er statsforvalteren klageinstans over vedtak truffet av kommunen.\nKongen kan instruere enhver med myndighet etter loven om hvordan myndigheten skal utøves og om delegering av den. Dette gjelder ikke der myndigheten er lagt til kommunen.",
+      "xml_path": "article#kapittel-14-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-14-paragraf-2",
+      "provision_ref": "§ 65",
+      "heading": "(gjennomføringsbestemmelser)",
+      "path": [
+        "Kapittel 14. Administrative bestemmelser"
+      ],
+      "text": "Departementet kan gi forskrifter til utfylling og gjennomføring av loven, herunder ominnholdet av søknader og meldinger og om forvaltningens behandling av dem;samarbeid mellom vassdragsmyndigheten og andre offentlige myndigheter.",
+      "xml_path": "article#kapittel-14-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-1",
+      "provision_ref": "§ 66",
+      "heading": "(forholdet til eldre tiltak)",
+      "path": [
+        "Kapittel 15. Avsluttende bestemmelser"
+      ],
+      "text": "Loven gjelder også vassdragstiltak som ble påbegynt før loven trer i kraft (eldre vassdragstiltak).\nEn konsesjon etter lov 15. mars 1940 nr. 3 om vassdragene §§ 104 og 105 eller vedtak etter § 144 gjelder som en konsesjon etter loven her.\nEldre vassdragstiltak som ikke trengte tillatelse etter tidligere vassdragslovgivning, kan fortsette uten konsesjon etter § 8. Vassdragsmyndigheten kan i særlige tilfelle likevel bestemme i enkeltvedtak at tiltaket må ha konsesjon, og at tiltaket blir ulovlig hvis det ikke sendes søknad innen en fastsatt frist.\nFor eldre vassdragstiltak gjelder § 10 i den utstrekning tiltaket ikke har gjort bruk av den alminnelige lavvannføring før lovens ikrafttreden. Ved konsesjonsbehandling av eldre vassdragstiltak etter tredje ledd annet punktum gjelder § 10 fullt ut. Har et eldre vassdragstiltak konsesjon etter vassdragsloven, kan det ved omgjøring etter § 28 settes krav i samsvar med § 10 annet ledd. For eldre vassdragstiltak som faller inn under vassdragsreguleringsloven gjelder § 10 ikke.\nFor utøvelse av rådighet over grunnvann gjelder første til fjerde ledd så langt det passer. Grunnvannsuttak etablert før lovens ikrafttreden kan utøves i samme utstrekning som tidligere uavhengig av bestemmelsen i § 44 første ledd.",
+      "xml_path": "article#kapittel-15-paragraf-1"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-2",
+      "provision_ref": "§ 67",
+      "heading": "(forholdet til vedtak truffet etter eldre lovgivning)",
+      "path": [
+        "Kapittel 15. Avsluttende bestemmelser"
+      ],
+      "text": "Forskrifter eller enkeltvedtak fastsatt med hjemmel i lovbestemmelser som oppheves etter §§ 68 og 69, står fortsatt ved lag inntil de blir endret eller opphevet i medhold av loven her.\nAvtaler om levering av kraft i henhold til reglene i tidligere lov 15. mars 1940 nr. 3 om vassdragene kan kreves avløst ved skjønn mot full erstatning.",
+      "xml_path": "article#kapittel-15-paragraf-2"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-3",
+      "provision_ref": "§ 68",
+      "heading": "(ikrafttreden)",
+      "path": [
+        "Kapittel 15. Avsluttende bestemmelser"
+      ],
+      "text": "Denne lov trer i kraft når Kongen bestemmer.1\nFra samme tid oppheves alle paragrafene unntatt §§ 2-6 i lov 15. mars 1940 nr. 3 om vassdragene.",
+      "xml_path": "article#kapittel-15-paragraf-3"
+    },
+    {
+      "section_id": "kapittel-15-paragraf-4",
+      "provision_ref": "§ 69",
+      "heading": "(endringer i andre lover)",
+      "path": [
+        "Kapittel 15. Avsluttende bestemmelser"
+      ],
+      "text": "Når loven trer i kraft, gjøres følgende endringer i andre lover: – – –",
+      "xml_path": "article#kapittel-15-paragraf-4"
+    }
+  ]
+}
