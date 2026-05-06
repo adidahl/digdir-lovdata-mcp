@@ -3,7 +3,7 @@ import { ensureVercelDatabasePath } from '../../../src/vercel-database';
 
 export const runtime = 'nodejs';
 export const dynamic = 'force-dynamic';
-export const maxDuration = 10;
+export const maxDuration = 60;
 
 export async function GET(): Promise<Response> {
   try {
