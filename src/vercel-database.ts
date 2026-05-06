@@ -13,7 +13,18 @@ const TMP_DB_PATH = '/tmp/digdir-norwegian-law/database.db';
 let databasePathPromise: Promise<string> | undefined;
 
 export async function ensureVercelDatabasePath(): Promise<string> {
-  databasePathPromise ??= resolveOrDownloadDatabase();
+  if (!databasePathPromise) {
+    const pendingDatabasePathPromise = resolveOrDownloadDatabase().catch((error) => {
+      if (databasePathPromise === pendingDatabasePathPromise) {
+        databasePathPromise = undefined;
+      }
+
+      throw error;
+    });
+
+    databasePathPromise = pendingDatabasePathPromise;
+  }
+
   return databasePathPromise;
 }
 
