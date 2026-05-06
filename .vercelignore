@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.next/
+.vercel/
+coverage/
+*.log
+.env
+.env*.local
+
+data/database.db
+data/database.db-*
+data/database.vercel-current.db
+data/raw/
+data/extracted/
+data/normalized/
