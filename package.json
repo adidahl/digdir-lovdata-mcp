@@ -1,7 +1,7 @@
 {
   "name": "digdir-norwegian-law-mcp",
   "version": "0.1.0",
-  "description": "Digdir Norwegian Law MCP server",
+  "description": "MCP server for searching current Norwegian laws and central regulations from Lovdata publicData.",
   "type": "module",
   "main": "dist/index.js",
   "bin": {
