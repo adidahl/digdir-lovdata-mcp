@@ -65,6 +65,13 @@ async function resolveOrDownloadDatabase(): Promise<string> {
 
 async function downloadDatabase(url: string, outputPath: string): Promise<void> {
   const expectedSha256 = process.env[DB_SHA256_ENV_VAR]?.trim();
+  const requireSha256 = !isDevelopmentEnvironment();
+
+  if (!expectedSha256 && requireSha256) {
+    throw new Error(
+      `${DB_SHA256_ENV_VAR} is required when downloading SQLite from ${DB_URL_ENV_VAR}.`,
+    );
+  }
 
   if (await pathExists(outputPath)) {
     if (!expectedSha256 || (await sha256File(outputPath)) === expectedSha256) {
@@ -106,6 +113,13 @@ async function downloadDatabase(url: string, outputPath: string): Promise<void> 
   }
 
   await rename(tmpPath, outputPath);
+}
+
+function isDevelopmentEnvironment(): boolean {
+  return (
+    process.env.NODE_ENV === 'development' ||
+    process.env.VERCEL_ENV === 'development'
+  );
 }
 
 async function pathExists(filePath: string): Promise<boolean> {

@@ -52,6 +52,10 @@ npx vercel env add DIGDIR_NORWEGIAN_LAW_DB_SHA256 production
 Use the Blob URL for `DIGDIR_NORWEGIAN_LAW_DB_URL` and the `shasum` value for
 `DIGDIR_NORWEGIAN_LAW_DB_SHA256`.
 
+`DIGDIR_NORWEGIAN_LAW_DB_SHA256` is required whenever the deployed server
+downloads the SQLite database outside local development. This prevents the MCP
+server from serving a remote database whose contents were not verified.
+
 ## Deploy
 
 ```bash
