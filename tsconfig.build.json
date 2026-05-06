@@ -1,0 +1,14 @@
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "rootDir": "src",
+    "outDir": "dist",
+    "declaration": true,
+    "sourceMap": true,
+    "noEmit": false,
+    "allowJs": false,
+    "incremental": false
+  },
+  "include": ["src/**/*"],
+  "exclude": ["app", ".next", "node_modules"]
+}

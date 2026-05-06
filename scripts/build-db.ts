@@ -20,7 +20,11 @@ const __dirname = path.dirname(__filename);
 
 const PROJECT_ROOT = path.resolve(__dirname, '..');
 const NORMALIZED_DIR = path.join(PROJECT_ROOT, 'data', 'normalized');
-const DB_PATH = path.join(PROJECT_ROOT, 'data', 'database.db');
+const DB_PATH = process.env.DIGDIR_NORWEGIAN_LAW_BUILD_DB_PATH
+  ? path.resolve(process.env.DIGDIR_NORWEGIAN_LAW_BUILD_DB_PATH)
+  : path.join(PROJECT_ROOT, 'data', 'database.db');
+const INCLUDE_LOVTIDEND =
+  process.env.DIGDIR_NORWEGIAN_LAW_INCLUDE_LOVTIDEND !== '0';
 
 const SOURCE_DATASETS = new Set<SourceDataset>([
   'gjeldende-lover',
@@ -226,7 +230,9 @@ interface BuildStats {
 async function main(): Promise<void> {
   const discoveredFiles = await collectJsonFiles(NORMALIZED_DIR);
   const files = selectCurrentBuildInputFiles(discoveredFiles);
-  const lovtidendFiles = selectLovtidendBuildInputFiles(discoveredFiles);
+  const lovtidendFiles = INCLUDE_LOVTIDEND
+    ? selectLovtidendBuildInputFiles(discoveredFiles)
+    : [];
 
   if (files.length === 0) {
     throw new Error(`No normalized JSON files found under ${NORMALIZED_DIR}`);
@@ -601,7 +607,9 @@ async function rebuildDatabase(
         JSON.stringify([
           'core_legislation',
           'central_regulations',
-          'lovtidend_provenance',
+          ...(inputLovtidendPublications.length > 0
+            ? ['lovtidend_provenance']
+            : []),
         ]),
       );
       insertMetadata.run('lovtidend_publications', String(inputLovtidendPublications.length));

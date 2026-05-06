@@ -92,5 +92,11 @@ In another terminal:
 curl http://localhost:3000/health
 ```
 
+Vercel MCP test deployment:
+
+See [docs/vercel-deploy.md](docs/vercel-deploy.md). The Vercel setup uses a
+smaller current-law SQLite database uploaded to Vercel Blob because the full
+Lovtidend-enabled database is too large for Vercel Hobby function limits.
+
 The original migration plan files remain in [docs/plan](docs/plan/README.md) for
 project history and future milestone tracking.

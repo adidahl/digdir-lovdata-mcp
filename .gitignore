@@ -1,8 +1,11 @@
 node_modules/
 dist/
+.next/
+.vercel/
 coverage/
 data/database.db
 data/database.db-*
+data/database.vercel-current.db
 data/raw/
 data/extracted/
 data/normalized/manifest.previous.json
